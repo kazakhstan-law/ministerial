@@ -2,789 +2,792 @@
 
 > *Приложение*  
 > *к Типовой учебной программе*  
-> *по учебному предмету "Английский*  
-> *язык" для 10-11 классов уровня*  
-> *среднего образования естественно-*  
-> *математического направления по*  
-> *обновленному содержанию*
+> *по учебному предмету*  
+> *«Английский язык» для 10-11 классов*  
+> *общественно-гуманитарного*  
+> *направления уровня общего*  
+> *среднего образования*  
+> *по обновленному содержанию*
 
-## Долгосрочный план по реализации Типовой учебной программы по учебному предмету "Английский язык" для 10-11 классов уровня среднего образования естественно-математического направления по обновленному содержанию
+## Долгосрочный план по реализации Типовой учебной программы по учебному предмету «Английский язык» для 10-11 классов общественно-гуманитарного направления уровня общего среднего образования по обновленному содержанию
 
-1) grade 10
+1) 10 класс:
 
 <table>
 <tr>
-<td>Units</td>
-<td>Subunits</td>
-<td>Learning objectives</td>
+<td colspan="2">Разделы</td>
+<td colspan="2">Темы</td>
+<td>Цели обучения</td>
 </tr>
 <tr>
-<td colspan="3">Term 1</td>
+<td colspan="5">1 четверть</td>
 </tr>
 <tr>
-<td rowspan="4">Science and scientific phenomena</td>
-<td>Introductory lessons</td>
-<td></td>
+<td rowspan="4">Правда или легенда?</td>
+<td colspan="2">Вводные уроки</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>Interesting facts about genetics. DNA</td>
-<td>
-10.1.6 - organise and present information clearly to others;
-10.2.1 - understand the main points in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a growing range of general and curricular topics;
-10.4.1 - understand main points in extended texts on a wide range of familiar and some general and curricular topics;
-10.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of general and curricular topics;
-10.5.2 - use a growing range of vocabulary, which is appropriate to topic and genre, and which is spelt accurately;
-10.6.7- use perfect continuous forms and a variety of simple perfect active and passive forms including time adverbials … so far, lately, all my life , on a wide range of familiar general and curricular topics;
-10.6.11 - use a variety of reported statements and question forms on a wide range of familiar general and curricular topics;
-10.6.12 - use a variety of comparative degree adverb structures with regular and irregular adverbs;
-use a wide variety of pre-verbal, post-verbal and end-position adverbs on a wide range of familiar general and curricular topics
-10.6.13 - use a growing variety of past modal forms including must have, can’t have, might have to express speculation and deduction about the past on a wide range of familiar general and curricular topics.
+<td colspan="2">Правда или легенда (анализ и рассказ городских легенд) (дополнительный фокус на Казахстан)</td>
+<td colspan="2">
+10.1.6 - структурировать и доступно предоставлять информацию другим;
+10.2.1 - понимать основное содержание свободного обсуждения на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.2.2 - понимать конкретную информацию в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на возрастающий ряд общих и учебных тем;
+10.4.1 - понимать основные моменты свободного обсуждения в рамках большого разнообразия незнакомых общих и учебных тем;
+10.4.3 - бегло прочитать ряд длинных текстов со скоростью, достаточной чтобы определить их содержание, заслуживающее дополнительного чтения по ряду общих и учебных тем;
+10.5.2 - использовать растущее разнообразие лексического запаса, соответствующего теме, жанру, грамматически правильно прописанного;
+10.6.7 - использовать формы настоящего совершенного времени, а также разнообразные формы действительного и страдательного залогов совершенного времени, в том числе наречий времени so far, lately, all my life / соу фар, лейтли, ол май лайф на широкий ряд знакомых общих и учебных тем;
+10.6.11 - использовать различные утверждения косвенной речи и вопросительных форм на ряд знакомых общих и учебных тем;
+10.6.12 - использовать разнообразные структуры сравнительной степени наречий с правильными и неправильными наречиями;
+употреблять большое разнообразие доглагольного, послеглагольного и наречия, употребляемые в конце предложения, на широкий спектр знакомых общих и учебных тем;
+10.6.13 - употреблять растущее разнообразие модальных глаголов в форме прошедшего времени, включая must have, can’t have, might have / маст хэв, кэнт хэв, иайт хэв для выражения предположения и заключения о прошлом на большое разнообразие знакомых общих и учебных тем
 </td>
 </tr>
 <tr>
-<td>Myth busters (Physics, Chemistry, Biology)</td>
-<td>
-10.1.2 - use speaking and listening skills to provide sensitive feedback to peers;
-10.1.4 - evaluate and respond constructively to feedback from others;
-10.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.3 - understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.3.6 - navigate talk and modify language through paraphrase and correction in talk on a range of familiar general and curricular topics;
-10.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of general and curricular topics;
-10.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of general and curricular topics;
-10.4.8 - use a wide range of familiar and unfamiliar paper and digital reference resources to check meaning and extend understanding;
+<td colspan="2">Разрушители мифов (история, география)</td>
+<td colspan="2">
+10.1.2 - использовать навыки говорения и слушания для предоставления конструктивной обратной связи сверстникам;
+10.1.4 - анализировать и реагировать на конструктивную обратную связь;
+10.1.8 - повышать уровень межкультурной осведомлённости посредством чтения и обсуждения;
+10.2.3 - понимать деталь аргумента в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.6 - управлять ходом обсуждения и изменять язык посредством перефразирования и коррекции обсуждения на ряд знакомых общих и учебных тем;
+10.3.7 - использовать соответствующую специфичную лексику и синтаксис в рамках обсуждения на ряд общих и учебных тем;
+10.4.7 - распознавать структуру создания объемных текстов (на меж-параграфном уровне) на ряд общих и учебных тем;
+10.4.8 - использовать большое разнообразие знакомых и незнакомых бумажных и цифровых информационных ресурсов в целях уточнения смысла и углубленного понимания
 </td>
 </tr>
 <tr>
-<td>Writing an article</td>
-<td>
-10.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-10.5.4 - use style and register to achieve appropriate degree of formality in a growing variety of written genres on a range of general and curricular topics;
-10.5.6 - write coherently at text level using a variety of connectors on a range of familiar general and curricular topics;
-10.5.7 - use independently appropriate layout at text level on a range of general and curricular topics ;
-10.6.2 - use a variety of quantifiers for countable and uncountable nouns and a variety of noun phrases on a wide range of familiar general and curricular topics;
-10.6.9 - use appropriately a wide variety of active and passive simple present and past forms and past perfect simple forms in narrative and reported speech on a wide range of familiar general and curricular topics
-10.6.10 - use present continuous and past continuous active and passive forms on a wide range of general and familiar curricular topics;
-10.6.12 - use a variety of comparative degree adverb structures with regular and irregular adverbs;
-use a wide variety of pre-verbal, post-verbal and end-position adverbs on a wide range of familiar general and curricular topics;
-10.6.16 - use a wide variety of conjunctions on a wide range of familiar general and curricular topics
+<td colspan="2">Написание статьи</td>
+<td colspan="2">
+10.1.10 - использовать обсуждение или письмо как средство рефлексии и изучения ряда взглядов на мир;
+10.5.4 - использовать соответствующие стиль и регистр для достижения определённого уровня формальности в растущем разнообразии жанров письма на ряд общих и учебных тем;
+10.5.6 - писать связно на уровне текста, используя различные слова-связки, на ряд знакомых общих и учебных тем;
+10.5.7 - использовать самостоятельно соответствующий план на уровне текста по целому ряду общих и учебных тем;
+10.5.9 - расставлять с высокой степенью точности знаки препинания в письменной работе на уровне текста по широкому разнообразию общих и учебных тем;
+10.6.2 - использовать различные квантификаторы для исчисляемых и неисчисляемых существительных и множество существительных фраз на широкий ряд знакомых общих и учебных тем;
+10.6.9 - использовать надлежащим образом широкое разнообразие форм простого настоящего, прошедшего и прошедшего совершенного времен в действительном и страдательном залоге в прямой и косвенной речи по широкому разнообразию знакомых общих и учебных тем;
+10.6.10 - употреблять формы настоящего длительного и прошедшего длительного времен в действительном и страдательном залогах на большое разнообразие общих и знакомых учебных тем;
+10.6.12 - использовать разнообразные структуры сравнительной степени наречий с правильными и неправильными наречиями;
+употреблять большое разнообразие доглагольного, послеглагольного и наречия, употребляемые в конце предложения, на широкий спектр знакомых общих и учебных тем;
+10.6.16 - использовать союзы и союзные слова в ходе обсуждения различных знакомых общих и учебных тем
 </td>
 </tr>
 <tr>
-<td rowspan="3">Natural Disasters</td>
-<td>Causes and consequences of natural disasters (atmosphere, lithosphere, hydrosphere)</td>
-<td>
-10.1.9 - use imagination to express thoughts, ideas, experiences and feelings;
-10.2.1 - understand the main points in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.3.5 - interact with peers to make hypotheses about a wide range of general and curricular topics ;
-10.4.5 - deduce meaning from context in extended texts on a wide range of familiar general and curricular topics, and some unfamiliar topics;
-10.5.3 - write with grammatical accuracy on a range of familiar general and curricular topics;
-10.6.3 - use a variety of compound adjectives, adjectives as participles, comparative structures indicating degree, and intensifying adjectives on a wide range of familiar general and curricular topics;
-10.6.4 - use a wide variety of determiners and pre-determiner structures on a wide range of familiar general and curricular topics;
-10.6.15 - use infinitive forms after an increased number of verbs and adjectives use gerund forms after a variety of verbs and prepositions use a variety of prepositional and phrasal verb on a wide range of familiar general and curricular topics
+<td rowspan="2">Спорные вопросы</td>
+<td colspan="2">Обсуждение преимуществ и недостатков иммиграции</td>
+<td colspan="2">
+10.1.9 - использовать воображение для выражения мыслей, идей, опыта и чувств;
+10.2.1 - понимать основное содержание свободного обсуждения на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.2.2 - понимать конкретную информацию в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез на различные общие и учебные темы;
+10.4.5 - установить значение из контекста объемных текстов на широкое разнообразие знакомых общих и учебных тем и некоторых незнакомых тем;
+10.4.9 - распознавать противоречия в аргументации в объемных текстах на различные общие и учебные темы;
+10.6.3 - использовать различные сложные прилагательные и прилагательные в качестве причастий, сравнительные структуры, при помощи которых можно указать уровень, и усилительные прилагательные (intensifying adjectives / интенсифайнг аджективс) на широких ряд знакомых общих и учебных тем;
+10.6.4 - использовать различные детерминативные и предетерминативные конструкции в ходе обсуждения разнообразных знакомых общих и учебных тем;
+10.6.15 - использовать инфинитивные формы после глаголов и прилагательных, использовать герундий после глаголов и предлогов, использовать различные предложные и фразовые глаголы в ходе обсуждения разнообразных знакомых общих и учебных тем
 </td>
 </tr>
 <tr>
-<td>Focus on Kazakhstan: reporting on the causes and consequences of natural disasters</td>
-<td>
-10.1.1 - use speaking and listening skills to solve problems creatively and cooperatively in groups;
-10.1.5 - use feedback to set personal learning objectives;
-10.3.1- use formal and informal language registers in talk on a wide range of general and curricular topics;
-10.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of general and curricular topics;
-10.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of general and curricular topics;
-10.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of general and curricular topics;
-10.5.1 - plan, write, edit and proofread work at text level independently on a range of general and curricular topics;
-10.5.3 - write with grammatical accuracy on a range of familiar general and curricular topics
-10.5.8 - communicate and respond to news and feelings in correspondence through a variety of functions on a range of general and curricular topics;
-10.6.7 - use perfect continuous forms and a variety of simple perfect active and passive forms including time adverbials … so far, lately, all my life , on a wide range of familiar general and curricular topics;
-10.6.14 - use a variety of prepositional phrases before nouns and adjectives use a number of dependent prepositions following nouns and adjectives and a variety of prepositions following verbs on a wide range of familiar general and curricular topics;
-10.6.17 - use if / if only in third conditional structures
-use a variety of relative clauses including with which [whole previous clause reference] on a wide range of familiar general and curricular topics
+<td colspan="2">Выражать мнение касательно вопроса гендерного равенства</td>
+<td colspan="2">
+10.1.5 - использовать обратную связь для установления личных целей обучения;
+10.2.6 - понимать значение из контекста свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.1 - использовать формальный и неформальный стиль речи на различные общие и учебные темы;
+10.3.7 - использовать соответствующую специфичную лексику и синтаксис в рамках обсуждения на ряд общих и учебных тем;
+10.4.3 - бегло прочитать ряд длинных текстов со скоростью, достаточной чтобы определить их содержание, заслуживающее дополнительного чтения по ряду общих и учебных тем;
+10.4.7 - распознавать структуру создания объемных текстов (на меж-параграфном уровне) на ряд общих и учебных тем;
+10.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на ряд общих и учебных тем;
+10.5.3 - писать грамматически правильно на ряд знакомых общих и учебных тем;
+10.5.8 - сообщать и отвечать на новости и чувства в переписке с помощью различных функций по целому ряду общих и учебных тем;
+10.6.7 - использовать формы настоящего совершенного времени, а также разнообразные формы действительного и страдательного залогов совершенного времени, в том числе наречий времени so far, lately, all my life / соу фар, лейтли, ол май лайф на широкий ряд знакомых общих и учебных тем;
+10.6.12 - использовать разнообразные структуры сравнительной степени наречий с правильными и неправильными наречиями; употреблять большое разнообразие доглагольного, послеглагольного и наречия, употребляемые в конце предложения, на широкий спектр знакомых общих и учебных тем;
+10.6.14 - употреблять разнообразие предложных фраз перед существительными и прилагательными;
+употреблять разнообразие зависимых предлогов, сопровождающих существительные и прилагательные и разнообразие предлогов, сопровождающих глаголы в рамках широкого спектра знакомых общих и учебных тем;
+10.6.17 - использовать if / if only / иф / иф онли в структурах условного наклонения третьего вида, использовать разнообразие относительных придаточных предложений, включая with which / уиз уич на разнообразные знакомые общие и учебные темы;
+10.1.1 - использовать навыки говорения и слушания для творческого совместного решения проблем в группах;
+10.2.7 - понимать точки зрения говорящих и степень определенно выраженного согласия между говорящими на ряд общих и учебных тем;
+10.4.6 - определить отношение или мнение автора в объемных текстах на большое разнообразие знакомых общих и учебных тем;
+10.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез на различные общие и учебные темы;
+10.5.5 - разработать логичные аргументы с поддержкой приведением, при необходимости, примеров и причин для ряда письменных жанров на знакомые общие и учебные темы;
+10.6.3 - использовать различные сложные прилагательные и прилагательные в качестве причастий, сравнительные структуры, при помощи которых можно указать уровень, и усилительные прилагательные (intensifying adjectives / интенсифайнг аджективс) на широких ряд знакомых общих и учебных тем
 </td>
 </tr>
 <tr>
-<td>Prediction and prevention of natural disasters</td>
-<td>
-10.1.1.- use speaking and listening skills to solve problems creatively and cooperatively in groups;
-10.2.7 - understand speaker viewpoints and extent of explicit agreement between speakers on a range of general and curricular topics;
-10.3.5 - interact with peers to make hypotheses about a wide range of general and curricular topics
-10.5.5 - develop with support coherent arguments supported when necessary by examples and reasons for a wide range of written genres in familiar general and curricular topics;
-10.6.3 - use a variety of compound adjectives, adjectives as participles, comparative structures indicating degree, and intensifying adjectives on a wide range of familiar general and curricular topics
+<td colspan="5">2 четверть</td>
+</tr>
+<tr>
+<td rowspan="2">Виртуальная реальность</td>
+<td colspan="2">Создание и объяснение вымышленной страны (география, законы, экономика, индустрия)</td>
+<td colspan="2">
+10.1.1 - использовать навыки говорения и слушания для творческого совместного решения проблем в группах;
+10.1.4 - анализировать и реагировать на конструктивную обратную связь;
+10.1.5 - использовать обратную связь для установления личных целей обучения;
+10.2.1 - понимать основное содержание свободного обсуждения на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез на различные общие и учебные темы;
+10.3.7 - использовать соответствующую специфичную лексику и синтаксис в рамках обсуждения на ряд общих и учебных тем;
+10.4.1 - понимать основные моменты свободного обсуждения в рамках большого разнообразия незнакомых общих и учебных тем;
+10.4.2 - понимать специфичную информацию и детали из объёмных текстов на ряд знакомых общих и учебных тем и некоторых незнакомых тем;
+10.5.4 - использовать соответствующие стиль и регистр для достижения определённого уровня формальности в растущем разнообразии жанров письма на ряд общих и учебных тем;
+10.6.1 - использовать различные абстрактные составные существительные и сложные словосочетания в ходе обсуждения на разнообразные знакомые и некоторые незнакомые общие и учебные темы;
+10.6.4 - использовать различные детерминативные и предетерминативные конструкции в ходе обсуждения разнообразных знакомых общих и учебных тем;
+10.6.15 - использовать инфинитивные формы после глаголов и прилагательных, использовать герундий после глаголов и предлогов, использовать различные предложные и фразовые глаголы в ходе обсуждения разнообразных знакомых общих и учебных тем
 </td>
 </tr>
 <tr>
-<td colspan="3">Term 2</td>
-</tr>
-<tr>
-<td rowspan="2">Virtual reality</td>
-<td>Developing and evaluating mobile applications</td>
-<td>
-10.1.1 - use speaking and listening skills to solve problems creatively and cooperatively in groups;
-10.1.4 - evaluate and respond constructively to feedback from others;
-10.1.5 - use feedback to set personal learning objectives;
-10.2.1.- understand the main points in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.8 -.​recognize inconsistencies in argument in extended talk on a range of general and curricular subjects;
-10.3.5 - interact with peers to make hypotheses about a wide range of general and curricular topics;
-10.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of general and curricular topics;
-10.4.1.- understand main points in extended texts on a wide range of familiar and some unfamiliar general and curricular topics;
-10.4.2 - understand specific information and detail in extended texts on a range of familiar general and curricular topics, and some unfamiliar topics;
-10.5.4 - use style and register to achieve appropriate degree of formality in a growing variety of written genres on a range of general and curricular topics;
-10.6.1 - use a variety of abstract compound nouns and complex noun phrases on a range of familiar general and curricular topics, and some unfamiliar general and curricular topics;
-10.6.4 - use a wide variety of determiners and pre-determiner structures on a wide range of familiar general and curricular topics;
-10.6.15 - use infinitive forms after an increased number of verbs and adjectives use gerund forms after a variety of verbs and prepositions use a variety of prepositional and phrasal verb on a wide range of familiar general and curricular topics
+<td colspan="2">Выразить и обосновать мнение касательно фэнтези книг и фильмов (эссе)</td>
+<td colspan="2">
+10.1.7 - строить и отстаивать логичный аргумент во время говорения или на письме;
+10.1.10 - использовать обсуждение или письмо как средство размышления и исследования различных взглядов на мир;
+10.2.8 - распознавать несоответствия в аргументе в свободном обсуждении на ряд общих и учебных тем;
+10.3.3 - объяснять и обосновать свою и чужую точку зрения на широкое разнообразие общих и учебных тем;
+10.4.3 - бегло прочитать ряд длинных текстов со скоростью, достаточной чтобы определить их содержание, заслуживающее дополнительного чтения по ряду общих и учебных тем;
+10.4.5 - установить значение из контекста объемных текстов на широкое разнообразие знакомых общих и учебных тем и некоторых незнакомых тем;
+10.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на ряд общих и учебных тем;
+10.5.3 - писать грамматически правильно на ряд знакомых общих и учебных тем;
+10.5.6 - писать связно на уровне текста, используя различные слова-связки, на ряд знакомых общих и учебных тем;
+10.5.7 - использовать самостоятельно соответствующий план на уровне текста по целому ряду общих и учебных тем;
+10.5.8 - сообщать и отвечать на новости и чувства в переписке с помощью различных функций по целому ряду общих и учебных тем;
+10.5.9 - расставлять с высокой степенью точности знаки препинания в письменной работе на уровне текста по широкому разнообразию общих и учебных тем;
+10.6.2 - использовать различные квантификаторы для исчисляемых и неисчисляемых существительных и множество существительных фраз на широкий ряд знакомых общих и учебных тем;
+10.6.9 - употреблять надлежащим образом широкое разнообразие глаголов в форме простого настоящего, прошедшего и прошедшего совершенного времен в действительном и страдательном залогах в прямой и косвенной речи на разнообразные знакомые общие и учебные темы
 </td>
 </tr>
 <tr>
-<td>Expressing and justifying opinions about 2D games</td>
-<td>
-10.1.7 - develop and sustain a consistent argument when speaking or writing;
-10.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-10.2.8 - recognise inconsistencies in argument in extended talk on a range of general and curricular subjects;
-10.3.3 - explain and justify own and others’ point of view on a wide range of general and curricular topics;
-10.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of general and curricular topics;
-10.4.5 - deduce meaning from context in extended texts on a wide range of familiar general and curricular topics, and some unfamiliar topics;
-10.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of general and curricular topics;
-10.5.1 - plan, write, edit and proofread work at text level independently on a range of general and curricular topics;
-10.5.3 - write with grammatical accuracy on a range of familiar general and curricular topics;
-10.5.6 - write coherently at text level using a variety of connectors on a range of familiar general and curricular topics;
-10.5.7 - use independently appropriate layout at text level on a range of general and curricular topics;
-10.5.8 - communicate and respond to news and feelings in correspondence through a variety of functions on a range of general and curricular topics;
-10.5.9 - punctuate written work at text level on a wide range of general and curricular topics with a good degree of accuracy;
-10.6.2 - use a variety of quantifiers for countable and uncountable nouns and a variety of noun phrases on a wide range of familiar general and curricular topics;
-10.6.9 - use appropriately a wide variety of active and passive simple present and past forms and past perfect simple forms in narrative and reported speech on a wide range of familiar general and curricular topics
+<td rowspan="2">Вне этого мира</td>
+<td colspan="2">Вещи, которые вы не знали про космос</td>
+<td colspan="2">
+10.1.9 - использовать воображение для выражения мыслей, идей, опыта и чувств;
+10.2.5 - распознавать отношение или мнение говорящего(их) в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.2.6 - понимать значение из контекста свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.2 - задавать и отвечать на сложные вопросы для получения информации в рамках широкого разнообразия общих и учебных тем;
+10.3.7 - использовать соответствующую специфичную лексику и синтаксис в рамках обсуждения на ряд общих и учебных тем;
+10.4.2 - понимать специфичную информацию и детали из объёмных текстов на ряд знакомых общих и учебных тем и некоторых незнакомых тем;
+10.4.5 - установить значение из контекста объемных текстов на широкое разнообразие знакомых общих и учебных тем и некоторых незнакомых тем;
+10.6.2 - использовать различные квантификаторы для исчисляемых и неисчисляемых существительных и множество существительных фраз на широкий ряд знакомых общих и учебных тем;
+10.6.7 - использовать формы настоящего совершенного времени, а также разнообразные формы действительного и страдательного залогов совершенного времени, в том числе наречий времени so far, lately, all my life / соу фар, лейтли, ол май лайф на широкий ряд знакомых общих и учебных тем;
+10.6.8 - использовать разнообразие действительного и страдательного залогов в будущем и будущем длительном времени на широкий спектр знакомых общих и учебных тем;
+10.6.15 - использовать инфинитивные формы после глаголов и прилагательных, использовать герундий после глаголов и предлогов, использовать различные предложные и фразовые глаголы в ходе обсуждения разнообразных знакомых общих и учебных тем
 </td>
 </tr>
 <tr>
-<td rowspan="2">Organic and non-organic worlds</td>
-<td>Discussing the difference between organic and non-organic food</td>
-<td>
-10.1.5 - use feedback to set personal learning objectives;
-10.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.4 - understand implied meaning in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.5 - recognise the attitude or opinion of the speaker(s) in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.3.3 - explain and justify own and others’ point of view on a wide range of general and curricular topics;
-10.3.6 - navigate talk and modify language through paraphrase and correction in talk on a range of familiar general and curricular topics;
-10.4.1- understand main points in extended texts on a wide range of familiar and some unfamiliar general and curricular topics;
-10.4.5 - deduce meaning from context in extended texts on a wide range of familiar general and curricular topics, and some unfamiliar topics;
-10.6.2 - use a variety of quantifiers for countable and uncountable nouns and a variety of noun phrases on a wide range of familiar general and curricular topics;
-10.6.6 - use a wide variety of relative, demonstrative, indefinite, quantitative pronouns and reflexive pronoun structures on a wide range of familiar general and curricular topics;
-10.6.8 - use a variety of future active and passive and future continuous forms on a wide range of familiar general and curricular topics;
-10.6.13 - use a growing variety of past modal forms including must have, can’t have, might have to express speculation and deduction about the past on a wide range of familiar general and curricular topics
+<td colspan="2">Обзор научно-фантастического фильма</td>
+<td colspan="2">
+10.1.6 - структурировать и доступно предоставлять информацию другим;
+10.1.7 - строить и отстаивать логичный аргумент во время говорения или на письме;
+10.1.10 - использовать обсуждение или письмо как средство рефлексии и изучения ряда взглядов на мир;
+10.2.1 - понимать основное содержание свободного обсуждения на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.2.7 - понимать точки зрения говорящих и степень определенно выраженного согласия между говорящими на ряд общих и учебных тем;
+10.3.3 - объяснять и обосновать свою и чужую точку зрения на широкое разнообразие общих и учебных тем;
+10.4.8 - использовать большое разнообразие знакомых и незнакомых бумажных и цифровых информационных ресурсов в целях уточнения смысла и углубленного понимания;
+10.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на ряд общих и учебных тем;
+10.5.2 - использовать растущее разнообразие лексического запаса, соответствующего теме, жанру, грамматически правильно прописанного;
+10.5.6 - писать связно на уровне текста, используя различные слова-связки, на ряд знакомых общих и учебных тем;
+10.5.7 - использовать самостоятельно соответствующий план на уровне текста по целому ряду общих и учебных тем;
+10.6.8 - использовать разнообразие форм действительного и страдательного залогов в будущем и будущем продолжительном времени;
+на ряд разнообразных знакомых общих и учебных тем;
+10.6.10 - употреблять формы настоящего длительного и прошедшего длительного времен в действительном и страдательном залогах на большое разнообразие общих и знакомых учебных тем;
+10.6.11 - использовать различные утверждения косвенной речи и вопросительных форм на ряд знакомых общих и учебных тем;
+10.6.14 - употреблять разнообразие предложных фраз перед существительными и прилагательными, употреблять разнообразие зависимых предлогов, сопровождающих существительные и прилагательные и разнообразие предлогов, сопровождающих глаголы в рамках широкого спектра знакомых общих и учебных тем;
+10.6.16 - использовать больше разнообразие союзов на ряд разнообразных знакомых общих и учебных тем
 </td>
 </tr>
 <tr>
-<td>Analyzing the advantages and disadvantages of biofuels</td>
-<td>
-10.1.9 - use imagination to express thoughts, ideas, experiences and feelings;
-10.2.4 - understand implied meaning in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.7 - understand speaker viewpoints and extent of explicit agreement between speakers on a range of general and curricular topics;
-10.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a growing range of general and curricular topics;
-10.4.6 -recognise the attitude or opinion of the writer in extended texts on a wide range of familiar general and curricular topics;
-10.5.2 - use a growing range of vocabulary, which is appropriate to topic and genre, and which is spelt accurately;
-10.5.9 - punctuate written work at text level on a wide range of general and curricular topics with a good degree of accuracy;
-10.6.2 - use a variety of quantifiers for countable and uncountable nouns and a variety of noun phrases on a wide range of familiar general and curricular topics;
-10.6.4 - use a wide variety of determiners and pre-determiner structures on a wide range of familiar general and curricular topics;
-10.6.8 - use a variety of future active and passive and future continuous forms on a wide range of familiar general and curricular topics;
-10.6.17- use if / if only in third conditional structures use a variety of relative clauses including with which [whole previous clause reference] on a wide range of familiar general and curricular topics
+<td colspan="5">3 четверть</td>
+</tr>
+<tr>
+<td rowspan="3">Стресс и страх</td>
+<td colspan="2">Описание симптомов стресса</td>
+<td colspan="2">
+10.1.5 - использовать обратную связь для установления личных целей обучения;
+10.2.2 - понимать конкретную информацию в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.7 - использовать соответствующую специфичную лексику и синтаксис в рамках обсуждения на ряд общих и учебных тем;
+10.4.1 - понимать основные моменты свободного обсуждения в рамках большого разнообразия незнакомых общих и учебных тем;
+10.4.2 - понимать специфичную информацию и детали из объёмных текстов на ряд знакомых общих и учебных тем и некоторых незнакомых тем;
+10.5.2 - использовать растущее разнообразие лексического запаса, соответствующего теме, жанру, грамматически правильно прописанного;
+10.5.3 - писать грамматически правильно на ряд знакомых общих и учебных тем;
+10.6.1 - использовать различные абстрактные составные существительные и сложные словосочетания в ходе обсуждения на разнообразные знакомые и некоторые незнакомые общие и учебные темы;
+10.6.4 - использовать различные детерминативные и предетерминативные конструкции в ходе обсуждения разнообразных знакомых общих и учебных тем;
+10.6.9 - употреблять надлежащим образом широкое разнообразие глаголов в форме простого настоящего, прошедшего и прошедшего совершенного времен в действительном и страдательном залогах в прямой и косвенной речи на разнообразные знакомые общие и учебные темы
 </td>
 </tr>
 <tr>
-<td colspan="3">Term 3</td>
-</tr>
-<tr>
-<td>Reading for pleasure</td>
-<td>Learners read a non-fiction text</td>
-<td>
-10.1.2 - use speaking and listening skills to provide sensitive feedback to peers10.C3 respect differing points of view;
-10.1.4 - evaluate and respond constructively to feedback from others;
-10.1.6 -organise and present information clearly to others;
-10.2.7 - understand speaker viewpoints and extent of explicit agreement between speakers on a range of general and curricular topics;
-10.2.8 -recognise inconsistencies in argument in extended talk on a range of general and curricular subjects;
-10.3.1- use formal and informal language registers in talk on a wide range of general and curricular topics;
-10.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a growing range of general and curricular topics;
-10.4.4 - read a wide range of extended fiction and non-fiction texts on familiar and unfamiliar general and curricular topics;
-10.4.9 -recognise inconsistencies in argument in extended texts on a wide range of general and curricular topics;
-10.5.2 - use a growing range of vocabulary, which is appropriate to topic and genre, and which is spelt accurately;
-10.5.4 - use style and register to achieve appropriate degree of formality in a growing variety of written genres on a range of general and curricular topics;
-10.6.5 - use a wide variety of question types on a wide range of familiar general and curricular topics;
-10.6.16 - use a wide variety of conjunctions on a wide range of familiar general and curricular topics
+<td colspan="2">Советы, как снизить уровень стресса (психология)</td>
+<td colspan="2">
+10.1.4 - анализировать и реагировать на конструктивную обратную связь;
+10.2.3 - понимать деталь аргумента в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.2.5 - распознавать отношение или мнение говорящего(их) в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на возрастающий ряд общих и учебных тем;
+10.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез на различные общие и учебные темы;
+10.4.5 - установить значение из контекста объемных текстов на широкое разнообразие знакомых общих и учебных тем и некоторых незнакомых тем;
+10.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на ряд общих и учебных тем;
+10.5.3 - писать грамматически правильно на ряд знакомых общих и учебных тем;
+10.5.7 - использовать самостоятельно соответствующий план на уровне текста по целому ряду общих и учебных тем;
+10.6.15 - использовать инфинитивные формы после глаголов и прилагательных, использовать герундий после глаголов и предлогов, использовать различные предложные и фразовые глаголы в ходе обсуждения разнообразных знакомых общих и учебных тем;
+10.6.16 - использовать союзы и союзные слова в ходе обсуждения различных знакомых общих и учебных тем
 </td>
 </tr>
 <tr>
-<td rowspan="3">Capabilities of human brain</td>
-<td>Investigate and report on the functions of the brain</td>
-<td>
-10.1.1 - use speaking and listening skills to solve problems creatively and cooperatively in groups;
-10.1.8 - develop intercultural awareness through reading and discussion;
-10.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-10.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.3 - understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.7 - understand speaker viewpoints and extent of explicit agreement between speakers on a range of general and curricular topics;
-10.3.2 - ask and respond to complex questions to get information about a wide range of general and curricular topics;
-10.4.2 - understand specific information and detail in extended texts on a range of familiar general and curricular topics, and some unfamiliar topics;
-10.4.8 - use a wide range of familiar and unfamiliar paper and digital reference resources to check meaning and extend understanding;
-10.5.8 - communicate and respond to news and feelings in correspondence through a variety of functions on a range of general and curricular topics;
-10.6.5 - use a wide variety of question types on a wide range of familiar general and curricular topics
+<td colspan="2">Анализ и описание фобии и пугающих ситуаций</td>
+<td colspan="2">
+10.1.7 - строить и отстаивать логичный аргумент во время говорения или на письме;
+10.1.10 - использовать обсуждение или письмо как средство рефлексии и изучения ряда взглядов на мир;
+10.2.4 - понимать предполагаемое содержание свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.1 - использовать формальный и неформальный стиль речи на различные общие и учебные темы;
+10.3.3 - объяснять и обосновать свою и чужую точку зрения на широкое разнообразие общих и учебных тем;
+10.4.2 - понимать специфичную информацию и детали из объёмных текстов на ряд знакомых общих и учебных тем и некоторых незнакомых тем;
+10.5.7 - использовать самостоятельно соответствующий план на уровне текста по целому ряду общих и учебных тем;
+10.6.6 - писать связно на уровне текста, используя различные слова-связки на ряд знакомых общих и учебных тем;
+10.6.2 - использовать различные квантификаторы для исчисляемых и неисчисляемых существительных и множество существительных фраз на широкий ряд знакомых общих и учебных тем;
+10.6.7 - использовать формы настоящего совершенного времени, а также разнообразные формы действительного и страдательного залогов совершенного времени, в том числе наречий времени so far, lately, all my life / соу фар, лейтли, ол май лайф на широкий ряд знакомых общих и учебных тем;
+10.6.9 - использовать надлежащим образом широкое разнообразие форм простого настоящего, прошедшего и прошедшего совершенного времен в действительном и страдательном залоге в прямой и косвенной речи по широкому разнообразию знакомых общих и учебных тем;
+10.6.12 - использовать разнообразные структуры сравнительной степени наречий с правильными и неправильными наречиями, употреблять большое разнообразие доглагольного, послеглагольного и наречия, употребляемые в конце предложения, на широкий спектр знакомых общих и учебных тем;
 </td>
 </tr>
 <tr>
-<td>Multiple intelligences (self-study project)</td>
-<td>
-10.1.2 - use speaking and listening skills to provide sensitive feedback to peers;
-10.1.4 - evaluate and respond constructively to feedback from others;
-10.1.6 - organise and present information clearly to others;
-10.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-10.2.6 - deduce meaning from context in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.3.2 - ask and respond to complex questions to get information about a wide range of general and curricular topics;
-10.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of general and curricular topics;
-10.4.4 - read a wide range of extended fiction and non-fiction texts on familiar and unfamiliar general and curricular topics;
-10.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of general and curricular topics;
-10.5.1 - plan, write, edit and proofread work at text level independently on a range of general and curricular topics;
-10.5.5 - develop with support coherent arguments supported when necessary by examples and reasons for a wide range of written genres in familiar general and curricular topics;
-10.6.5 - use a wide variety of question types on a wide range of familiar general and curricular topics;
-10.6.17 - use if / if only in third conditional structures use a variety of relative clauses including with which [whole previous clause reference] on a wide range of familiar general and curricular topics
+<td rowspan="3">Воображение и творчество</td>
+<td colspan="2">Объяснить, что такое вдохновение и как его найти</td>
+<td colspan="2">
+10.1.1 - использовать навыки говорения и слушания для творческого совместного решения проблем в группах;
+10.1.9 - использовать воображение для выражения мыслей, идей, опыта и чувств;
+10.2.2 - понимать конкретную информацию в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.2.3 - понимать деталь аргумента в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на возрастающий ряд общих и учебных тем;
+10.3.6 - управлять ходом обсуждения и изменять язык посредством перефразирования и коррекции обсуждения на ряд знакомых общих и учебных тем;
+10.4.2 - понимать специфичную информацию и детали из объёмных текстов на ряд знакомых общих и учебных тем и некоторых незнакомых тем;
+10.4.5 - установить значение из контекста объемных текстов на широкое разнообразие знакомых общих и учебных тем и некоторых незнакомых тем;
+10.5.2 - использовать растущее разнообразие лексического запаса, соответствующего теме, жанру, грамматически правильно прописанного;
+10.6.1 - использовать различные абстрактные составные существительные и сложные словосочетания в ходе обсуждения на разнообразные знакомые и некоторые незнакомые общие и учебные темы;
+10.6.5 - задавать различные вопросы в обсуждении разнообразных знакомых общих и учебных тем;
+10.6.6 - использовать относительные, демонстративные, неопределенные и количественные местоимения и большое количество возвратных местоимений для многих знакомых общих и учебных тем;
+10.6.14 - использовать разнообразие предложных фраз после существительных и прилагательных; использовать зависимые предлоги после существительных и прилагательных, а также разнообразие предлогов после глаголов в рамках широкого спектра знакомых общих и учебных тем;
+10.6.16 - использовать союзы и союзные слова в ходе обсуждения различных знакомых общих и незнакомых тем;
 </td>
 </tr>
 <tr>
-<td>Describing the symptoms of stress and giving advice on how to reduce stress</td>
-<td>
-10.1.5 - use feedback to set personal learning objectives;
-10.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.3 - understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.5 - recognise the attitude or opinion of the speaker(s) in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.3.3 - explain and justify own and others’ point of view on a wide range of general and curricular topics;
-10.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a growing range of general and curricular topics;
-10.3.5 - interact with peers to make hypotheses about a wide range of general and curricular topics;
-10.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of general and curricular topics;
-10.4.1 - understand main points in extended texts on a wide range of familiar and some unfamiliar general and curricular topics;
-10.4.2 - understand specific information and detail in extended texts on a range of familiar general and curricular topics, and some unfamiliar topics;
-10.4.5 - deduce meaning from context in extended texts on a wide range of familiar general and curricular topics, and some unfamiliar topics;
-10.5.1 - plan, write, edit and proofread work at text level independently on a range of general and curricular topics;
-10.5.2 - use a growing range of vocabulary, which is appropriate to topic and genre, and which is spelt accurately;
-10.5.3 - write with grammatical accuracy on a range of familiar general and curricular topics;
-10.5.7 - use independently appropriate layout at text level on a range of general and curricular topics;
-10.6.1 - use a variety of abstract compound nouns and complex noun phrases on a range of familiar general and curricular topics, and some unfamiliar general and curricular topics;
-10.6.2 - use a variety of quantifiers for countable and uncountable nouns and a variety of noun phrases on a wide range of familiar general and curricular topics;
-10.6.4 - use a wide variety of determiners and pre-determiner structures on a wide range of familiar general and curricular topics;
-10.6.9 - use appropriately a wide variety of active and passive simple present and past forms and past perfect simple forms in narrative and reported speech on a wide range of familiar general and curricular topics;
-10.6.15 - use infinitive forms after an increased number of verbs and adjectives use gerund forms after a variety of verbs and prepositions use a variety of prepositional and phrasal verb on a wide range of familiar general and curricular topics;
-10.6.16 - use a wide variety of conjunctions on a wide range of familiar general and curricular topics
+<td colspan="2">Творческие люди (искусство, литература, музыка)</td>
+<td colspan="2">
+10.1.8 - повышать уровень межкультурной осведомлённости посредством чтения и обсуждения;
+10.2.7 - понимать точки зрения говорящих и степень определенно выраженного согласия между говорящими на ряд общих и учебных тем;
+10.2.8 - распознавать несоответствия в аргументе в свободном обсуждении на ряд общих и учебных тем;
+10.1.2 - задавать вопросы и отвечать на сложные вопросы с целью сбора информации на различные общие и учебные темы;
+10.4.4 - читать большое разнообразие длинных текстов художественной и научной литературы на знакомые и незнакомые общие и учебные темы;
+10.4.8 - использовать большое разнообразие знакомых и незнакомых бумажных и цифровых информационных ресурсов в целях уточнения смысла и углубленного понимания;
+10.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на ряд общих и учебных тем;
+10.6.3 - использовать различные сложные прилагательные и прилагательные в качестве причастий, сравнительные структуры, при помощи которых можно указать уровень, и усилительные прилагательные (intensifying adjectives / интенсифайнг аджективс) на широких ряд знакомых общих и учебных тем;
+10.6.5 - задавать различные вопросы в обсуждении разнообразных знакомых общих и учебных тем;
+10.6.11 - использовать различные утверждения косвенной речи и вопросительных форм на ряд знакомых общих и учебных тем;
+10.6.13 - употреблять растущее разнообразие модальных глаголов в форме прошедшего времени, включая must have, can’t have, might have / маст хэв, кэнт хэв, иайт хэв для выражения предположения и заключения о прошлом на большое разнообразие знакомых общих и учебных тем
 </td>
 </tr>
 <tr>
-<td>Breakthrough technologies</td>
-<td>Nanotechnology</td>
-<td>
-10.1.3 - respect differing points of view;
-10.1.8 - develop intercultural awareness through reading and discussion;
-10.2.3 - understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.8 - recognise inconsistencies in argument in extended talk on a range of general and curricular subjects;
-10.3.2 - ask and respond to complex questions to get information about a wide range of general and curricular topics;
-10.4.6 - recognise the attitude or opinion of the writer in extended texts on a wide range of familiar general and curricular topics;
-10.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of general and curricular topics
-10.5.5 - develop with support coherent arguments supported when necessary by examples and reasons for a wide range of written genres in familiar general and curricular topics;
-10.5.7 - use independently appropriate layout at text level on a range of general and curricular topics;
-10.5.9 - punctuate written work at text level on a wide range of general and curricular topics with a good degree of accuracy;
-10.6.1 - use a variety of abstract compound nouns and complex noun phrases on a range of familiar general and curricular topics, and some unfamiliar general and curricular topics;
-10.6.3 - use a variety of compound adjectives, adjectives as participles, comparative structures indicating degree, and intensifying adjectives on a wide range of familiar general and curricular topics;
-10.6.8 - use a variety of future active and passive and future continuous forms on a wide range of familiar general and curricular topics;
-10.6.11 - use a variety of reported statements and question forms on a wide range of familiar general and curricular topics;
-10.6.14 - use a variety of prepositional phrases before nouns and adjectives use a number of dependent prepositions following nouns and adjectives and a variety of prepositions following verbs on a wide range of familiar general and curricular topics;
-10.6.17 - use if / if only in third conditional structures use a variety of relative clauses including with which [whole previous clause reference] on a wide range of familiar general and curricular topics
+<td colspan="2">Множественный интеллект (самостоятельный проект)</td>
+<td colspan="2">
+10.1.2 - использовать навыки говорения и слушания для предоставления конструктивной обратной связи сверстникам;
+10.1.6 - структурировать и доступно предоставлять информацию другим;
+10.1.7 - строить и отстаивать логичный аргумент во время говорения или на письме;
+10.1.10 - использовать обсуждение или письмо как средство размышления и исследования различных взглядов на мир;
+10.2.6 - понимать значение из контекста свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.2 - задавать и отвечать на сложные вопросы для получения информации в рамках широкого разнообразия общих и учебных тем;
+10.3.3 - объяснять и обосновать свою и чужую точку зрения на широкое разнообразие общих и учебных тем;
+10.3.7 - использовать соответствующую специфичную лексику и синтаксис в рамках обсуждения на ряд общих и учебных тем;
+10.4.4 - читать большое разнообразие длинных текстов художественной и научной литературы на знакомые и незнакомые общие и учебные темы;
+10.4.7 - распознавать структуру создания объемных текстов (на меж-параграфном уровне) на ряд общих и учебных тем;
+10.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на ряд общих и учебных тем;
+10.5.3 - писать грамматически правильно на ряд знакомых общих и учебных тем;
+10.5.5 - разработать логичные аргументы с поддержкой приведением, при необходимости, примеров и причин для ряда письменных жанров на знакомые общие и учебные темы;
+10.6.5 - задавать различные вопросы в обсуждении разнообразных знакомых общих и учебных тем;
+10.6.17 - использовать if / if only / иф / иф онли в структурах условного наклонения третьего вида, использовать разнообразие относительных придаточных предложений, включая with which / уиз уич на разнообразные знакомые общие и учебные темы;
 </td>
 </tr>
 <tr>
-<td></td>
-<td>Robotics</td>
-<td>
-10.1.1 - use speaking and listening skills to solve problems creatively and cooperatively in groups;
-10.1.2 - use speaking and listening skills to provide sensitive feedback to peers;
-10.1.8 - develop intercultural awareness through reading and discussion;
-10.2.3- understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.3.2 - ask and respond to complex questions to get information about a wide range of general and curricular topics;
-10.3.5 - interact with peers to make hypotheses about a wide range of general and curricular topics;
-10.3.6 - navigate talk and modify language through paraphrase and correction in talk on a range of familiar general and curricular topics ;
-10.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of general and curricular topics;
-10.4.6 - recognise the attitude or opinion of the writer in extended texts on a wide range of familiar general and curricular topics;
-10.4.9 - recognise inconsistencies in argument in extended texts on a wide range of general and curricular topics;
-10.5.5 - develop with support coherent arguments supported when necessary by examples and reasons for a wide range of written genres in familiar general and curricular topics;
-10.6.8 - use a variety of future active and passive and future continuous forms on a wide range of familiar general and curricular topics
+<td>Чтение в удовольствие</td>
+<td colspan="2">Учащиеся читают книги классической фантастики</td>
+<td colspan="2">
+10.1.2 - использовать навыки говорения и слушания для предоставления конструктивной обратной связи сверстникам;
+10.1.3 - проявлять уважение к различным точкам зрения
+10.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на возрастающий ряд общих и учебных тем;
+10.4.4 - читать большое разнообразие длинных текстов художественной и научной литературы на знакомые и незнакомые общие и учебные темы;
+10.4.9 - распознавать противоречия в аргументации в объемных текстах на различные общие и учебные темы;
+10.5.2 - использовать растущее разнообразие лексического запаса, соответствующего теме, жанру, грамматически правильно прописанного;
+10.5.4 - использовать соответствующие стиль и регистр для достижения определённого уровня формальности в растущем разнообразии жанров письма на ряд общих и учебных тем;
+10.6.5 - задавать различные вопросы в обсуждении разнообразных знакомых общих и учебных тем;
+10.6.16 - использовать союзы и союзные слова в ходе обсуждения различных знакомых общих и учебных тем.
 </td>
 </tr>
 <tr>
-<td colspan="3">Term 4</td>
+<td colspan="5">4 четверть</td>
 </tr>
 <tr>
-<td>Space X</td>
-<td>Things you did not know about space</td>
-<td>
-10.11.9 - use imagination to express thoughts, ideas, experiences and feelings;
-10.2.5 - recognise the attitude or opinion of the speaker(s) in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.6 - deduce meaning from context in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of general and curricular topics;
-10.4.2 - understand specific information and detail in extended texts on a range of familiar general and curricular topics, and some unfamiliar topics;
-10.4.5- deduce meaning from context in extended texts on a wide range of familiar general and curricular topics, and some unfamiliar topics;
-10.5.6 - write coherently at text level using a variety of connectors on a range of familiar general and curricular topics
-10.6.2 - use a variety of quantifiers for countable and uncountable nouns and a variety of noun phrases on a wide range of familiar general and curricular topics ;
-10.6.7 - use perfect continuous forms and a variety of simple perfect active and passive forms including time adverbials … so far, lately, all my life , on a wide range of familiar general and curricular topics ;
-10.6. 8 - use a variety of future active and passive and future continuous forms on a wide range of familiar general and curricular topics;
-10.6.15 - use infinitive forms after an increased number of verbs and adjectives use gerund forms after a variety of verbs and prepositions use a variety of prepositional and phrasal verb on a wide range of familiar general and curricular topics
+<td rowspan="3">Разные способы жизни</td>
+<td colspan="2">Обсуждение вопроса о том, приносит ли деньги счастье</td>
+<td colspan="2">
+10.1.5 - использовать обратную связь для установления личных целей обучения;
+10.2.2 - понимать конкретную информацию в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.2.5 - распознавать отношение или мнение говорящего(их) в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.2.8 - распознавать несоответствия в аргументе в свободном обсуждении на ряд общих и учебных тем;
+10.3.3 - объяснять и обосновать свою и чужую точку зрения на широкое разнообразие общих и учебных тем;
+10.3.6 - управлять ходом обсуждения и изменять язык посредством перефразирования и коррекции обсуждения на ряд знакомых общих и учебных тем;
+10.4.1 - понимать основные моменты свободного обсуждения в рамках большого разнообразия незнакомых общих и учебных тем;
+10.4.5 - установить значение из контекста объемных текстов на широкое разнообразие знакомых общих и учебных тем и некоторых незнакомых тем;
+10.6.2 - использовать различные квантификаторы для исчисляемых и неисчисляемых существительных и множество существительных фраз на широкий ряд знакомых общих и учебных тем;
+10.6.6 - использовать относительные, демонстративные, неопределенные и количественные местоимения и большое количество возвратных местоимений для многих знакомых общих и учебных тем;
+10.6.8 - использовать разнообразие действительного и страдательного залогов в будущем и будущем длительном времени на широкий спектр знакомых общих и учебных тем;
+10.6.13 - употреблять растущее разнообразие модальных глаголов в форме прошедшего времени, включая must have, can’t have, might have / маст хэв, кэнт хэв, иайт хэв для выражения предположения и заключения о прошлом на большое разнообразие знакомых общих и учебных тем
 </td>
 </tr>
 <tr>
-<td></td>
-<td>Analysis of sci-fi film from different perspectives (physics, biology, economics)</td>
-<td>
-10.1.6 - organise and present information clearly to others;
-10.1.7 - develop and sustain a consistent argument when speaking or writing;
-10.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-10.2.1 - understand the main points in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.7 -understand speaker viewpoints and extent of explicit agreement between speakers on a range of general and curricular topics;
-10.3.3- explain and justify own and others’ point of view on a wide range of general and curricular topics;
-10.4.8 - use a wide range of familiar and unfamiliar paper and digital reference resources to check meaning and extend understanding;
-10.5.1- plan, write, edit and proofread work at text level independently on a range of general and curricular topics;
-10.5.2 - use a growing range of vocabulary, which is appropriate to topic and genre, and which is spelt accurately;
-10.5.6 - write coherently at text level using a variety of connectors on a range of familiar general and curricular topics;
-10.5.7 - use independently appropriate layout at text level on a range of general and curricular topics;
-10.6.8 - use a variety of future active and passive and future continuous forms on a wide range of familiar general and curricular topics ;
-10.6.10 - use present continuous and past continuous active and passive forms on a wide range of general and familiar curricular topics;
-10.6.11 - use a variety of reported statements and question forms on a wide range of familiar general and curricular topics;
-10.6.14 - use a variety of prepositional phrases before nouns and adjectives; use a number of dependent prepositions following; nouns and adjectives and a variety of prepositions following verbs on a wide range of familiar general and curricular topics;
-10.6.16 - use a wide variety of conjunctions on a wide range of familiar general and curricular topics
+<td colspan="2">Оценка преимуществ жизни без денег</td>
+<td colspan="2">
+10.1.9 - использовать воображение для выражения мыслей, идей, опыта и чувств;
+10.2.4 - понимать предполагаемое содержание свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.2.7 - понимать точки зрения говорящих и степень определенно выраженного согласия между говорящими на ряд общих и учебных тем;
+10.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на возрастающий ряд общих и учебных тем;
+10.4.6 - определить отношение или мнение автора в объемных текстах на большое разнообразие знакомых общих и учебных тем;
+10.4.9 - распознавать противоречия в аргументации в объемных текстах на различные общие и учебные темы;
+10.5.2 - использовать растущее разнообразие лексического запаса, соответствующего теме, жанру, грамматически правильно прописанного;
+10.5.9 - расставлять с высокой степенью точности знаки препинания в письменной работе на уровне текста по широкому разнообразию общих и учебных тем;
+10.6.2 - использовать различные квантификаторы для исчисляемых и неисчисляемых существительных и множество существительных фраз на широкий ряд знакомых общих и учебных тем;
+10.6.4 - использовать различные детерминативные и предетерминативные конструкции в ходе обсуждения разнообразных знакомых общих и учебных тем;
+10.6.8 - использовать разнообразие действительного и страдательного залогов в будущем и будущем длительном времени на широкий спектр знакомых общих и учебных тем;
+10.6.17 - использовать if / if only / иф / иф онли в структурах условного наклонения третьего вида, использовать разнообразие относительных придаточных предложений, включая with which / уиз уич на разнообразные знакомые общие и учебные темы
 </td>
 </tr>
 <tr>
-<td>Independent project</td>
-<td></td>
-<td>
-10.1.1 - use speaking and listening skills to solve problems creatively and cooperatively in groups;
-10.1.2 - use speaking and listening skills to provide sensitive feedback to peers;
-10.1.3 - respect differing points of view;
-10.1.8 - develop intercultural awareness through reading and discussion;
-10.2.1 - understand the main points in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.3 - understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a limited range of unfamiliar topics;
-10.2.8 - recognise inconsistencies in argument in extended talk on a range of general and curricular subjects;
-10.3.2 - ask and respond to complex questions to get information about a wide range of general and curricular topics;
-10.3.5 - interact with peers to make hypotheses about a wide range of general and curricular topics ;
-10.3.6 - navigate talk and modify language through paraphrase and correction in talk on a range of familiar general and curricular topics;
-10.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of general and curricular topics;
-10.4.1 - understand main points in extended texts on a wide range of unfamiliar general and curricular topics;
-10.4.2 - understand specific information and detail in extended texts on a range of familiar general and curricular topics, and some unfamiliar topics;
-10.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of general and curricular topics;
-10.4.4 - read a wide range of extended fiction and non-fiction texts on familiar and unfamiliar general and curricular topics;
-10.4.6 - recognise the attitude or opinion of the writer in extended texts on a wide range of familiar general and curricular topics;
-10.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of general and curricular topics;
-10.4.9 - recognise inconsistencies in argument in extended texts on a wide range of general and curricular topics;
-10.5.5 - develop with support coherent arguments supported when necessary by examples and reasons for a wide range of written genres in familiar general and curricular topics;
-10.5.7 - use independently appropriate layout at text level on a range of general and curricular topics ;
-10.5.8 - communicate and respond to news and feelings in correspondence through a variety of functions on a range of general and curricular topics;
-10.5.9 - punctuate written work at text level on a wide range of general and curricular topics with a good degree of accuracy;
-10.6.1 - use a variety of abstract compound nouns and complex noun phrases on a range of familiar general and curricular topics, and some unfamiliar general and curricular topics ;
-10.6.3 - use a variety of compound adjectives, adjectives as participles, comparative structures indicating degree, and intensifying adjectives on a wide range of familiar general and curricular topics;
-10.6.8 - use a variety of future active and passive and future continuous forms on a wide range of familiar general and curricular topics;
-10.6.11 - use a variety of reported statements and question forms on a wide range of familiar general and curricular topics;
-10.6.14 - use a variety of prepositional phrases before nouns and adjectives use a number of dependent prepositions following nouns and adjectives and a variety of prepositions following verbs on a wide range of familiar general and curricular topics;
-10.6.17 - use if / if only in third conditional structures use a variety of relative clauses including with which [whole previous clause reference] on a wide range of familiar general and curricular topics.
+<td colspan="2">Изучение понятия дауншифтинга</td>
+<td colspan="2">
+10.1.3 - проявлять уважение к различным точкам зрения;
+10.1.6 - структурировать и доступно предоставлять информацию другим;
+10.1.8 - повышать уровень межкультурной осведомлённости посредством чтения и обсуждения;
+10.2.5 - распознавать отношение или мнение говорящего(их) в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.2.6 - понимать значение из контекста свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.3 - объяснять и обосновать свою и чужую точку зрения на широкое разнообразие общих и учебных тем;
+10.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез на различные общие и учебные темы;
+10.4.3 - бегло прочитать ряд длинных текстов со скоростью, достаточной чтобы определить их содержание, заслуживающее дополнительного чтения по ряду общих и учебных тем;
+10.4.6 - определить отношение или мнение автора в объемных текстах на большое разнообразие знакомых общих и учебных тем;
+10.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на ряд общих и учебных тем;
+10.5.3 - писать грамматически правильно на ряд знакомых общих и учебных тем;
+10.5.4 - использовать соответствующие стиль и регистр для достижения определённого уровня формальности в растущем разнообразии жанров письма на ряд общих и учебных тем;
+10.5.5 - разработать логичные аргументы с поддержкой приведением, при необходимости, примеров и причин для ряда письменных жанров на знакомые общие и учебные темы;
+10.6.8 - использовать разнообразие форм действительного и страдательного залогов в будущем и будущем продолжительном времени;
+на ряд разнообразных знакомых общих и учебных тем;
+10.6.10 - употреблять формы настоящего длительного и прошедшего длительного времен в действительном и страдательном залоге на большое разнообразие общих и знакомых учебных тем
+</td>
+</tr>
+<tr>
+<td rowspan="2">Самостоятельный проект</td>
+<td colspan="2">Руководство по самостоятельному проекту</td>
+<td colspan="2">
+10.1.3 - проявлять уважение к различным точкам зрения;
+10.1.8 - повышать уровень межкультурной осведомлённости посредством чтения и обсуждения;
+10.2.8 - распознавать несоответствия в аргументе в свободном обсуждении на ряд общих и учебных тем;
+10.2.4 - понимать предполагаемое содержание свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.2 - задавать и отвечать на сложные вопросы для получения информации в рамках широкого разнообразия общих и учебных тем;
+10.4.6 - определить отношение или мнение автора в объемных текстах на большое разнообразие знакомых общих и учебных тем;
+10.4.7 - распознавать структуру создания объемных текстов (на меж-параграфном уровне) на ряд общих и учебных тем;
+10.5.5 - разработать логичные аргументы с поддержкой приведением, при необходимости, примеров и причин для ряда письменных жанров на знакомые общие и учебные темы;
+10.5.7 - использовать самостоятельно соответствующий план на уровне текста по целому ряду общих и учебных тем;
+10.5.8 - сообщать и отвечать на новости и чувства в переписке с помощью различных функций по целому ряду общих и учебных тем;
+10.5.9 - расставлять с высокой степенью точности знаки препинания в письменной работе на уровне текста по широкому разнообразию общих и учебных тем;
+10.6.1 - использовать различные абстрактные составные существительные и сложные словосочетания в ходе обсуждения на разнообразные знакомые и некоторые незнакомые общие и учебные темы;
+10.6.3 - использовать различные сложные прилагательные и прилагательные в качестве причастий, сравнительные структуры, при помощи которых можно указать уровень, и усилительные прилагательные (intensifying adjectives / интенсифайнг аджективс) на широких ряд знакомых общих и учебных тем;
+10.6.8 - использовать разнообразие форм действительного и страдательного залогов в будущем и будущем продолжительном времени на ряд разнообразных знакомых общих и учебных тем;
+10.6.11 - использовать различные утверждения косвенной речи и вопросительных форм на ряд знакомых общих и учебных тем;
+10.6.14 - использовать разнообразие предложных фраз после существительных и прилагательных; использовать зависимые предлоги после существительных и прилагательных, а также разнообразие предлогов после глаголов в рамках широкого спектра знакомых общих и учебных тем;
+10.6.17 - использовать if / if only / иф / иф онли в структурах условного наклонения третьего вида, использовать разнообразие относительных придаточных предложений, включая with which / уиз уич на разнообразные знакомые общие и учебные темы
+</td>
+</tr>
+<tr>
+<td colspan="2">Проектирование устойчивого города будущего (экономическая направленность) (дополнительная направленность на Казахстан)</td>
+<td colspan="2">
+10.1.1 - использовать навыки говорения и слушания для творческого совместного решения проблем в группах;
+10.1.2 - использовать навыки говорения и слушания для предоставления конструктивной обратной связи сверстникам;
+10.2.3 - понимать деталь аргумента в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченный ряд незнакомых тем;
+10.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез на различные общие и учебные темы;
+10.3.6 - управлять ходом обсуждения и изменять язык посредством перефразирования и коррекции обсуждения на ряд знакомых общих и учебных тем;
+10.3.7 - использовать соответствующую специфичную лексику и синтаксис в рамках обсуждения на ряд общих и учебных тем;
+10.4.4 - читать большое разнообразие длинных текстов художественной и научной литературы на знакомые и незнакомые общие и учебные темы;
+10.4.9 - распознавать противоречия в аргументации в объемных текстах на различные общие и учебные темы;
+10.5.5 - разработать логичные аргументы с поддержкой приведением, при необходимости, примеров и причин для ряда письменных жанров на знакомые общие и учебные темы;
+10.6.8 - использовать разнообразие действительного и страдательного залогов в будущем и будущем длительном времени на широкий спектр знакомых общих и учебных тем
 </td>
 </tr>
 </table>
 
-Grade 11
+2) 11 класс:
 
 <table>
 <tr>
-<td>Units</td>
-<td>Subunits</td>
-<td>Learning objectives</td>
+<td>Разделы</td>
+<td>Темы</td>
+<td>Цели обучения</td>
 </tr>
 <tr>
-<td colspan="3">Term 1</td>
+<td colspan="3">1 четверть</td>
 </tr>
 <tr>
-<td rowspan="3">Making connections in biology</td>
+<td rowspan="4">Установление контакта</td>
 <td>
-Introductory lessons
-A New Academic Year Resolution
+Вводные уроки
+Решения на новый учебный год
 </td>
-<td></td>
-</tr>
-<tr>
-<td>Journey to biological understanding</td>
 <td>
-11.1.6 - organise and present information clearly to others;
-11.1.8 - develop intercultural awareness through reading and discussion;
-11.2.5 -recognise the attitude or opinion of the speaker(s) in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.2 - ask and respond with appropriate syntax and vocabulary to open-ended higher-order thinking questions on a range of general and curricular topics, including some unfamiliar topics;
-11.3.5 - interact with peers to make hypotheses and evaluate alternative proposals on a range of familiar and some unfamiliar general and curricular topics;
-11.4.3-skim a range of lengthy texts with speed to identify content meriting closer reading on a range of more complex and abstract, general and curricular topics;
-11.​5.​2.​use a wide range of vocabulary, which is appropriate to topic and genre, and which is spelt accurately;
-11.5.5-develop with minimal support coherent arguments supported when necessary by examples and reasons for a wide range of written genres in familiar general and curricular topics;
-11.6.3 - use a variety of adjectives complemented by that, infinitive and wh- clauses on a wide range of general and curricular topics;
-</td>
-</tr>
-<tr>
-<td>Formal and informal writing</td>
-<td>
-11.1.2 - use speaking and listening skills to provide sensitive feedback to peers;
-11.1.4 - evaluate and respond constructively to feedback from others;
-11.2.1 - understand the main points in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.2 - ask and respond with appropriate syntax and vocabulary to open-ended higher-order thinking questions on a range of general and curricular topics, including some unfamiliar topics;
-11.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a wide range of general and curricular topics, including some unfamiliar topics;
-11.4.1 - understand complex and abstract main points in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.5 - deduce meaning from context in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.5.1 - plan, write, edit and proofread work at text level independently on a wide range of general and curricular topics
-11.5.3.- write with grammatical accuracy on a wide range of general and curricular topics;
-11.5.4 - use style and register to achieve an appropriate degree of formality in a wide variety of written genres on general and curricular topics;
-11.6.1 - use a variety of pre- and post- modifying noun structures on a wide range of general and curricular topics;
-11.6.2 - use a variety of determiners relating to nouns for generic uses, some appositional uses and textual reference on a wide range of general and curricular topics;
-11.6.3 - use a variety of dependent prepositions with less common nouns, adjectives and verbs on a wide range of general and curricular topics;
-</td>
-</tr>
-<tr>
-<td rowspan="3">Investigate and report on animal world: bats, eagles, bees and dolphins.</td>
-<td>Introduction to the topic</td>
-<td>
-11.1.1 - use speaking and listening skills to solve problems creatively and cooperatively in groups;
-11.1.10- use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-11.1.3 - respect differing points of view;
-11.3.1 - use formal and informal language registers in talk on a range of general and curricular topics, including some unfamiliar topics;
-11.4.2 - understand specific information and detail in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of more complex and abstract, general and curricular topics;
-11.4.5- deduce meaning from context in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.8- select and evaluate paper and digital reference resources to check meaning and extend understanding;
-</td>
-</tr>
-<tr>
-<td>Analyzing the specific features of animals</td>
-<td>
-11.1.2 - use speaking and listening skills to provide sensitive feedback to peers;
-11.1.3 - respect differing points of view;
-11.1.6 - organise and present information clearly to others 11.C7 develop and sustain a consistent argument when speaking or writing;
-11.2.3 - understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.2.5 - recognise the attitude or opinion of the speaker(s) in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a wide range of general and curricular topics, including some unfamiliar topics;
-11.3.5 - interact with peers to make hypotheses and evaluate alternative proposals on a range of familiar and some unfamiliar general and curricular topics;
-11.5.1- plan, write, edit and proofread work at text level independently on a wide range of general and curricular topics;
-11.5.4- use style and register to achieve an appropriate degree of formality in a wide variety of written genres on general and curricular topics;
-11.6.7 - use a wide variety of simple perfect active and passive forms and a variety of perfect continuous forms on a wide range of general and curricular topics;
-11.6.9 - use a wide variety of present and past forms, including a growing number of more nuanced contrasts [past and perfective aspect/simple and progressive aspect] on a wide range of general and curricular topics
-</td>
-</tr>
-<tr>
-<td>Presentation of the animals’ specific features</td>
-<td>
-11.1.4 - evaluate and respond constructively to feedback from others;
-11.1.5 - use feedback to set personal learning objectives;
-11.1.7 - develop and sustain a consistent argument when speaking or writing;
-11.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-11.2.3 - understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.2.8 - recognise inconsistencies in argument in extended talk on a range of general and curricular subjects, including some unfamiliar topics;
-11.3.1 - use formal and informal language registers in talk on a range of general and curricular topics, including some unfamiliar topics;
-11.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a wide range of general and curricular topics, including some unfamiliar topics
-11.3.5 - interact with peers to make hypotheses and evaluate alternative proposals on a range of familiar and some unfamiliar general and curricular topics;
-11.3.6 - navigate talk and modify language through paraphrase and correction in talk on a wide range of familiar and some unfamiliar general and curricular topics ;
-11.6.6 - use a growing variety of impersonal and cleft structures on a wide range of general and curricular topics;
-11.6.9 - use a wide variety of present and past forms, including a growing number of more nuanced contrasts [past and perfective aspect/simple and progressive aspect] on a wide range of general and curricular topics;
-11.6.10 - use a wide variety of reported statement, command and question forms on a wide range of general and curricular topics
-</td>
-</tr>
-<tr>
-<td colspan="3">Term 2</td>
-</tr>
-<tr>
-<td rowspan="3">Human brain</td>
-<td>Amazing human brain facts (based on the latest science)</td>
-<td>
-11.1.2 - use speaking and listening skills to provide sensitive feedback to peers
-11.1.4 evaluate and respond constructively to feedback from others;
-11.2.1- understand the main points in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.2.6 - deduce meaning from context in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.2 - ask and respond with appropriate syntax and vocabulary to open-ended higher-order thinking questions on a range of general and curricular topics, including some unfamiliar topics;
-11.3.3 - explain and justify own and others’ point of view on a range of general and curricular topics, including some unfamiliar topics;
-11.4.1 - understand complex and abstract main points in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of more complex and abstract, general and curricular topics;
-11.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of more complex and abstract general and curricular topics;
-11.5.7 -use independently appropriate layout at text level on a wide range of general and curricular topics;
-11.6.4 - use a range of affixes with appropriate meaning and correct spelling on a wide range of general and curricular topics;
-11.6.13 - use a variety of dependent prepositions with less common nouns, adjectives and verbs on a wide range of general and curricular topics;
-11.6.14 - use a growing variety of more complex prepositional phrases including those relating to concession and respect use a variety of multi-word verbs of different syntactic types on a wide range of general and curricular topics
-</td>
-</tr>
-<tr>
-<td>Giving and following instructions (How to use a device)</td>
-<td>
-11.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-11.2.2- understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.2 - ask and respond with appropriate syntax and vocabulary to open-ended higher-order thinking questions on a range of general and curricular topics, including some unfamiliar topics;
-11.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a wide range of general and curricular topics, including some unfamiliar topics;
-11.4.2 - understand specific information and detail in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.5.4-use style and register to achieve an appropriate degree of formality in a wide variety of written genres on general and curricular topics;
-11.6.4 - use a range of affixes with appropriate meaning and correct spelling on a wide range of general and curricular topics
-11.6.12 - use a wide variety of past modal forms to express appropriate functions use a variety of near modal structures including supposed to, bound to, due, willing to on a wide range of general and curricular topics;
-11.6.15- use a growing variety of more complex conjunctions to express condition concession. and contrast on a wide range of general and curricular topics
-</td>
-</tr>
-<tr>
-<td>Using memory techniques</td>
-<td>
-11.1.7 - develop and sustain a consistent argument when speaking or writing;
-11.1.9 - use imagination to express thoughts, ideas, experiences and feelings;
-11.2.4 - understand implied meaning in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.2.7 - understand speaker viewpoints and extent of explicit agreement between speakers on a range of general and curricular topics, including some unfamiliar topics
-11.3.7 -use appropriate subject-specific vocabulary and syntax to talk about a range of familiar and some unfamiliar general and curricular topics;
-11.4.4 - read a wide range of extended fiction and non-fiction texts on a variety of more complex and abstract general and curricular topics;
-11.5.8 - communicate and respond to news and feelings in correspondence through a variety of functions on a wide range of general and curricular topics;
-11.6.4 -use a range of affixes with appropriate meaning and correct spelling on a wide range of general and curricular topics
-11.6.12 - use a wide variety of past modal forms to express appropriate functions use a variety of near modal structures including supposed to, bound to, due, willing to on a wide range of general and curricular topics
-</td>
-</tr>
-<tr>
-<td rowspan="3">Investigate and report on timekeeping devices/Science video</td>
-<td>Introduction to the topic</td>
-<td>
-11.1.1 - use speaking and listening skills to solve problems creatively and cooperatively in groups;
-11.2.3 - understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.3 - explain and justify own and others’ point of view on a range of general and curricular topics, including some unfamiliar topics;
-11.3.5 - interact with peers to make hypotheses and evaluate alternative proposals on a range of familiar and some unfamiliar general and curricular topics;
-11.4.2 -understand specific information and detail in extended texts on a wide range of familiar and unfamiliar general and curricular topics
-</td>
-</tr>
-<tr>
-<td>The history of timekeeping devices</td>
-<td>
-11.1.1- use speaking and listening skills to solve problems creatively and cooperatively in groups;
-11.1.3 - respect differing points of view;
-11. 1.6 - organise and present information clearly to others;
-11.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-11.2.3 - understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.2.4 - understand implied meaning in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.3 - explain and justify own and others’ point of view on a range of general and curricular topics, including some unfamiliar topics;
-11.3.5 - interact with peers to make hypotheses and evaluate alternative proposals on a range of familiar and some unfamiliar general and curricular topics;
-11.4.2 - understand specific information and detail in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of more complex and abstract general and curricular topics;
-11.4.8 - select and evaluate paper and digital reference resources to check meaning and extend understanding;
-11.5.1 - plan, write, edit and proofread work at text level independently on a wide range of general and curricular topics;
-11.6.7 - use a wide variety of simple perfect active and passive forms and a variety of perfect continuous forms on a wide range of general and curricular topics
-</td>
-</tr>
-<tr>
-<td>Presenting the information through the PPT</td>
-<td>
-11.1.2 - use speaking and listening skills to provide sensitive feedback to peers;
-11.1.4 - evaluate and respond constructively to feedback from others;
-11.1.7 - develop and sustain a consistent argument when speaking or writing;
-11.2.3 - understand the detail of an argument in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.2.6 - deduce meaning from context in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.2.8 - recognise inconsistencies in argument in extended talk on a range of general and curricular subjects, including some unfamiliar topics;
-11.3.6 - navigate talk and modify language through paraphrase and correction in talk on a wide range of familiar and some unfamiliar general and curricular topics;
-11.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of familiar and some unfamiliar general and curricular topics ;
-11.6.6 - use a growing variety of impersonal and cleft structures on a wide range of general and curricular topics;
-11.6.7 - use a wide variety of simple perfect active and passive forms and a variety of perfect continuous forms on a wide range of general and curricular topics
-</td>
-</tr>
-<tr>
-<td colspan="3">Term 3</td>
-</tr>
-<tr>
-<td rowspan="3">Work and inventions</td>
-<td>Investigating the world of work</td>
-<td>
-11.1.6 - organise and present information clearly to others;
-11.1.8 - develop intercultural awareness through reading and discussion;
-11.1.5 - use feedback to set personal learning objectives;
-11.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics ;
-11.3.3 - explain and justify own and others’ point of view on a range of general and curricular topics, including some unfamiliar topics;
-11.3.6 - navigate talk and modify language through paraphrase and correction in talk on a wide range of familiar and some unfamiliar general and curricular topics;
-11.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of familiar and some unfamiliar general and curricular topics;
-11.4.1 - understand complex and abstract main points in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of more complex and abstract, general and curricular topics;
-11.5.2 - use a wide range of vocabulary, which is appropriate to topic and genre, and which is spelt accurately;
-11.5.3 - write with grammatical accuracy on a wide range of general and curricular topics;
-11.5.6 - write coherently at text level using a variety of connectors on a wide range of familiar general and curricular topics;
-11.6.1 - use a variety of pre- and post- modifying noun structures on a wide range of general and curricular topics;
-11.6.5 - use a range of transitive and intransitive verb complementation patterns on a wide range of general and curricular topics
-</td>
-</tr>
-<tr>
-<td>Considering success in business</td>
-<td>
-11.1.9 - use imagination to express thoughts, ideas, experiences and feelings;
-11.2.4 - understand implied meaning in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics ;
-11.3.6 - navigate talk and modify language through paraphrase and correction in talk on a wide range of familiar and some unfamiliar general and curricular topics ;
-11.4.1 - understand complex and abstract main points in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of more complex and abstract, general and curricular topics;
-11.5.8 - communicate and respond to news and feelings in correspondence through a variety of functions on a wide range of general and curricular topics;
-11.6.5 - use a range of transitive and intransitive verb complementation patterns on a wide range of general and curricular topics
+11.1.1 - использовать навыки говорения и слушания для творческого совместного решения проблем в группах;
+11.1.5 - использовать обратную связь для установления личных целей обучения
+11.2.6 - понимать значение из контекста свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.3.2 - задавать и отвечать на открытые вопросы высокого порядка, используя соответствующий синтаксис и лексику на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.5.2 - использовать большое разнообразие лексического запаса, соответствующего теме, жанру, грамматически правильно прописанного;
+11.6.8 - употреблять большое разнообразие глаголов в форме будущего времени, включая глаголы в форме будущего совершенного времени, на разнообразные общие и учебные темы
 </td>
 </tr>
 <tr>
 <td>
-Comparing, analysing and ranking inventions
-Design your own invention
+Описание стран и городов (архитектура)
+История и традиция (архитектурная ценность юрты)
 </td>
 <td>
-11.1.1 - use speaking and listening skills to solve problems creatively and cooperatively in groups;
-11.1.7 - develop and sustain a consistent argument when speaking or writing;
-11.1.9 - use imagination to express thoughts, ideas, experiences and feelings;
-11.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-11.2.7 - understand speaker viewpoints and extent of explicit agreement between speakers on a range of general and curricular topics, including some unfamiliar topics;
-11.3.3 - explain and justify own and others’ point of view on a range of general and curricular topics, including some unfamiliar topics;
-11.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a wide range of general and curricular topics, including some unfamiliar topics;
-11.3.5 -interact with peers to make hypotheses and evaluate alternative proposals on a range of familiar and some unfamiliar general and curricular topics;
-11.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of familiar and some unfamiliar general and curricular topics;
-11.4.8 - select and evaluate paper and digital reference resources to check meaning and extend understanding;
-11.5.4 - use style and register to achieve an appropriate degree of formality in a wide variety of written genres on general and curricular topics;
-11.6.3 - use a variety of adjectives complemented by that, infinitive and wh- clauses on a wide range of general and curricular topics;
-11.6.5 - use a range of transitive and intransitive verb complementation patterns on a wide range of general and curricular topics;
-11.6.14 -use a growing variety of more complex prepositional phrases including those relating to concession and respect use a variety of multi-word verbs of different syntactic types on a wide range of general and curricular topics
+11.1.6 - структурировать и доступно предоставлять информацию другим;
+11.1.8 - развивать межкультурную чувствительность посредством чтения и обсуждений;
+11.2.5 - распознавать отношение или мнение говорящего(их) в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез и оценивать альтернативные предложения на ряд знакомых и незнакомых общих и учебных тем;
+11.4.3 - бегло прочитать ряд длинных текстов со скоростью, достаточной чтобы определить их содержание, заслуживающее дополнительного чтения по ряду усложненных и абстрактных, общих и учебных тем;
+11.5.2 - использовать большое разнообразие лексического запаса, соответствующего теме, жанру, грамматически правильно прописанного;
+11.5.5 - разработать логичные аргументы с минимальной поддержкой приведением, при необходимости, примеров и причин для ряда письменных жанров на знакомые общие и учебные темы;
+11.6.3 - использовать различные прилагательные в сочетании со словом that / зэт, инфинитивом и wh- clauses / х- клозес на большое разнообразие общих и учебных тем
 </td>
 </tr>
 <tr>
-<td rowspan="2">STEM</td>
-<td>Intelligent energy storage</td>
+<td>Как осилить с культурный шок</td>
 <td>
-11.1.2 - use speaking and listening skills to provide sensitive feedback to peers;
-11.1.9 - use imagination to express thoughts, ideas, experiences and feelings;
-11.2.1- understand the main points in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.2.7 - understand speaker viewpoints and extent of explicit agreement between speakers on a range of general and curricular topics, including some unfamiliar topics;
-11.2.8 - recognise inconsistencies in argument in extended talk on a range of general and curricular subjects, including some unfamiliar topics;
-11.3.2 - ask and respond with appropriate syntax and vocabulary to open-ended higher-order thinking questions on a range of general and curricular topics, including some unfamiliar topics;
-11.3.3 - explain and justify own and others’ point of view on a range of general and curricular topics, including some unfamiliar topics;
-11.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a wide range of general and curricular topics, including some unfamiliar topics;
-11.3.5 - interact with peers to make hypotheses and evaluate alternative proposals on a range of familiar and some unfamiliar general and curricular topics;
-11.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of more complex and abstract, general and curricular topics;
-11.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of more complex and abstract general and curricular topics;
-11.5.1 - plan, write, edit and proofread work at text level independently on a wide range of general and curricular topics
-11.5.6 - write coherently at text level using a variety of connectors on a wide range of familiar general and curricular topics ;
-11.6.8 - use a wide variety of future forms, including future perfect forms on a wide range of general and curricular topics;
-11.6.9 - use a wide variety of present and past forms, including a growing number of more nuanced contrasts [past and perfective aspect/simple and progressive aspect] on a wide range of general and curricular topics
+11.1.3 - проявлять уважение к различным точкам зрения;
+11.1.4 - оценивать и конструктивно реагировать на обратную связь, полученную от других учащихся;
+11.2.1 - понимать основное содержание свободного обсуждения на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченное растущее разнообразие незнакомых тем;
+11.3.3 - объяснять и обосновать свою и чужую точку зрения на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на широкий спектр общих и учебных тем, включая некоторые незнакомые темы;
+11.4.1 - понимать комплексные и абстрактные основные моменты свободного обсуждения рамках большого разнообразия знакомых и незнакомых общих и учебных тем;
+11.5.3 - писать грамматически правильно на большое разнообразие общих и учебных тем;
+11.6.2 - использовать различные детерминаторы, относящиеся к существительным широкого и дополнительного использования, а также текстовых ссылок на широкий спектр общих и учебных тем;
+11.6.3 - использовать различные прилагательные в сочетании со словом that / зэт, инфинитивом и wh- clauses / х- клозес на большое разнообразие общих и учебных тем;
+11.6.15 - использовать большое количество более сложных союзов для выражения согласия и контраста на ряд общих и учебных тем
+</td>
+</tr>
+<tr>
+<td>Официальный неофициальный стиль письма</td>
+<td>
+11.1.4 - оценивать и конструктивно реагировать на обратную связь, полученную от других учащихся;
+11.2.1 - понимать основное содержание свободного обсуждения на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченное растущее разнообразие незнакомых тем;
+11.2.2 - понимать конкретную информацию в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченное растущее разнообразие незнакомых тем;
+11.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на широкий спектр общих и учебных тем, включая некоторые незнакомые темы;
+11.4.2 - понимать специфичную информацию и детали объёмных текстов на большое разнообразие знакомых и незнакомых общих и учебных тем;
+11.4.5 - установить значение из контекста объемных текстов на широкое разнообразие знакомых и незнакомых общих и учебных тем;
+11.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на большое разнообразие общих и учебных тем;
+11.5.3 - писать грамматически правильно на большое разнообразие общих и учебных тем;
+11.5.4 - использовать соответствующие стиль и регистр для достижения определённого уровня формальности в широком разнообразии жанров письма на общие и учебные темы;
+11.6.11 - употреблять существительные, изменяемые до и после на широкое разнообразие общих и учебных тем;
+11.6.2 - использовать различные детерминаторы, относящиеся к существительным широкого и дополнительного использования, а также текстовых ссылок на широкий спектр общих и учебных тем;
+11.6.5 - использовать разнообразные взаимодополняемые структуры переходных и непереходных глаголов на широкий ряд общих и учебных тем;
+11.6.13 - употреблять разнообразие зависимых предлогов, сопровождающих менее распространенные существительные, прилагательные и глаголы на большое разнообразие общих и учебных тем
+</td>
+</tr>
+<tr>
+<td rowspan="3">Исследование и доклад о животном мире: летучие мыши, орлы, пчёлы и дельфины</td>
+<td>Введение в тему</td>
+<td>
+11.1.1 - использовать навыки говорения и слушания для творческого совместного решения проблем в группах;
+11.1.3 - проявлять уважение к различным точкам зрения;
+11.3.1 - использовать формальный и неформальный стиль речи при обсуждении на различные общие и учебные темы, включая некоторые незнакомые темы;
+11.4.3 - бегло прочитать ряд длинных текстов со скоростью, достаточной чтобы определить их содержание, заслуживающее дополнительного чтения по ряду усложненных и абстрактных, общих и учебных тем;
+11.4.5 - установить значение из контекста объемных текстов на широкое разнообразие знакомых и незнакомых общих и учебных тем;
+11.4.8 - отобрать и оценить бумажные и цифровые информационные ресурсы для уточнения смысла и углубленного понимания;
+11.6.6 - использовать растущее разнообразие безличных предложений и структур cleft / клэфт на большое разнообразие общих и учебных тем
+</td>
+</tr>
+<tr>
+<td>Анализ отличительных особенностей животных</td>
+<td>
+11.1.3 - проявлять уважение к различным точкам зрения;
+11.1.7 - строить и отстаивать логичный аргумент во время говорения или на письме;
+11.2.3 - понимать деталь аргумента в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на широкий спектр общих и учебных тем, включая некоторые незнакомые темы;
+11.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез и оценивать альтернативные предложения на ряд знакомых и незнакомых общих и учебных тем;
+11.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на большое разнообразие общих и учебных тем;
+11.5.4 - использовать соответствующие стиль и регистр для достижения определённого уровня формальности в широком разнообразии жанров письма на общие и учебные темы;
+11.6.7 - использовать большое разнообразие глаголов в форме совершенного времени действительного и страдательного залогов и ряд глаголов в форме совершенного длительного времени на широкий спектр общих и учебных тем;
+11.6.9 - употреблять широкое разнообразие глаголов в форме настоящего и прошедшего времен, включая растущее число тонких различий (аспекты прошедшего времени и завершенности/аспекты простого времени и длительности) на большое разнообразие общих и учебных тем
+</td>
+</tr>
+<tr>
+<td>Презентация отличительных особенностей животных</td>
+<td>
+11.1.4 - оценивать и конструктивно реагировать на обратную связь, полученную от других учащихся;
+11.1.5 - использовать обратную связь для установления личных целей обучения;
+11.1.7 - строить и отстаивать логичный аргумент во время говорения или на письме;
+11.2.3 - понимать деталь аргумента в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.2.8 - распознавать несоответствия в аргументе в свободном обсуждении на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.3.1 - использовать формальный и неформальный стиль речи при обсуждении на различные общие и учебные темы, включая некоторые незнакомые темы;
+11.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на широкий спектр общих и учебных тем, включая некоторые незнакомые темы;
+11.3.6 - управлять ходом обсуждения и изменять язык посредством перефразирования и коррекции обсуждения на широкий спектр знакомых и некоторых незнакомых общих и учебных тем;
+11.6.10 - употреблять большое разнообразие высказываний прямой речи, командных и вопросительных форм на большой ряд общих и учебных тем
+</td>
+</tr>
+<tr>
+<td colspan="3">2 четверть</td>
+</tr>
+<tr>
+<td rowspan="3">Интервью и инструкции</td>
+<td>
+Как преуспеть во время собеседования
+Анализ собеседования
+</td>
+<td>
+11.1.2 - использовать навыки говорения и слушания для обеспечения индивидуальной обратной связи одноклассникам;
+11.1.4 - оценивать и конструктивно реагировать на обратную связь, полученную от других учащихся;
+11.2.1 - понимать основное содержание свободного обсуждения на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченное растущее разнообразие незнакомых тем;
+11.2.6 - понимать значение из контекста свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.3.2 - задавать и отвечать на открытые вопросы высокого порядка, используя соответствующий синтаксис и лексику на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.4.3 - бегло прочитать ряд длинных текстов со скоростью, достаточной чтобы определить их содержание, заслуживающее дополнительного чтения по ряду усложненных и абстрактных, общих и учебных тем;
+11.5.7 - использовать самостоятельно соответствующий план на уровне текста по широкому ряду общих и учебных тем;
+11.6.4 - использовать различные аффиксы с соответствующим смыслом и правильным написанием на широкий ряд общих и учебных тем;
+11.6.13 - употреблять разнообразие зависимых предлогов, сопровождающих менее распространенные существительные, прилагательные и глаголы на большое разнообразие общих и учебных тем;
+11.6.14 - использовать большое разнообразие более сложных предложных фраз, относящихся теме согласия и уважения, использовать разнообразие составных глаголов различных синтаксических видов на большое разнообразие общих и учебных тем
+</td>
+</tr>
+<tr>
+<td>Давать и применять инструкции (Как использовать устройство)</td>
+<td>
+11.1.10 - использовать обсуждение или письмо как средство рефлексии и изучения взглядов на мир;
+11.2.2 - понимать конкретную информацию в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченное растущее разнообразие незнакомых тем;
+11.4.2 - понимать специфичную информацию и детали объёмных текстов на большое разнообразие знакомых и незнакомых общих и учебных тем;
+11.5.4 - использовать соответствующие стиль и регистр для достижения определённого уровня формальности в широком разнообразии жанров письма на общие и учебные темы;
+11.6.12 - употреблять большое разнообразие модальных глаголов в форме прошедшего времени для выражения соответствующих функций, употреблять различные псевдомодальные структуры, включая supposed to, bound to, due, willing to / саппозед ту, баунд ту, дю, уиллинг ту на большое разнообразие общих и учебных тем;
+11.6.15 - использовать большое количество более сложных союзов для выражения согласия и контраста на ряд общих и учебных тем
+</td>
+</tr>
+<tr>
+<td>Использование техники запоминаний</td>
+<td>
+11.1.9 - использовать воображение для выражения мыслей, идей, опыта и чувств;
+11.2.4 - предполагаемое содержание свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.4.4 - читать большое разнообразие длинных текстов художественной и научной литературы на более сложные и абстрактные общие и учебные темы;
+11.5.8 - сообщать и отвечать на новости и чувства в переписке с помощью различных функций по широкому ряду общих и учебных тем;
+11.6.4 - использовать различные аффиксы с соответствующим смыслом и правильным написанием на широкий ряд общих и учебных тем;
+11.6.12 - употреблять большое разнообразие модальных глаголов в форме прошедшего времени для выражения соответствующих функций, употреблять различные псевдомодальные структуры, включая supposed to, bound to, due, willing to / саппозед ту, баунд ту, дю, уиллинг ту на большое разнообразие общих и учебных тем
+</td>
+</tr>
+<tr>
+<td rowspan="3">Исследование и доклад об устроиствах измерения времени/Научное видео</td>
+<td>Введение в урок</td>
+<td>
+11.1.1 - использовать навыки говорения и слушания для творческого совместного решения проблем в группах;
+11.2.3 - понимать деталь аргумента в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез и оценивать альтернативные предложения на ряд знакомых и незнакомых общих и учебных тем;
+11.4.2 - понимать специфичную информацию и детали объёмных текстов на большое разнообразие знакомых и незнакомых общих и учебных тем
+</td>
+</tr>
+<tr>
+<td>История устроиств измерения времени</td>
+<td>
+11.1.3 - проявлять уважение к различным точкам зрения;
+11.1.6 - структурировать и доступно предоставлять информацию другим;
+11.2.3 - понимать деталь аргумента в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.3.3 - объяснять и обосновать свою и чужую точку зрения на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез и оценивать альтернативные предложения на ряд знакомых и незнакомых общих и учебных тем;
+11.4.7 - распознавать структуру создания объемных текстов (на меж-параграфном уровне) на ряд более сложных и абстрактных общих и учебных тем;
+11.4.8 - отобрать и оценить бумажные и цифровые информационные ресурсы для уточнения смысла и углубленного понимания;
+11.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на большое разнообразие общих и учебных тем;
+11.6.7 - использовать большое разнообразие форм действительного и страдательного залогов в совершенном виде и ряд совершенно длительных форм на разнообразный спектр общих и учебных тем
+</td>
+</tr>
+<tr>
+<td>Презентация информации посредством PPT</td>
+<td>
+11.1.2 - использовать навыки говорения и слушания для обеспечения индивидуальной обратной связи одноклассникам;
+11.1.4 - оценивать и конструктивно реагировать на обратную связь, полученную от других учащихся;
+11.1.7 - строить и отстаивать логичный аргумент во время говорения или на письме;
+11.2.3 - понимать деталь аргумента в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.2.6 - понимать значение из контекста свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.2.8 - распознавать несоответствия в аргументе в свободном обсуждении на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.3.7 - использовать соответствующую специфичную лексику и синтаксис в рамках обсуждения на ряд знакомых и некоторых незнакомых общих и учебных тем;
+11.6.6 - использовать растущее разнообразие безличных предложений и структур cleft / клэфтна большое разнообразие общих и учебных тем;
+11.6.7 - использовать большое разнообразие форм действительного и страдательного залогов в совершенном виде и ряд совершенно длительных форм на разнообразный спектр общих и учебных тем
+</td>
+</tr>
+<tr>
+<td colspan="3">3 четверть</td>
+</tr>
+<tr>
+<td rowspan="3">Работа и изобретения</td>
+<td>Исследование мира работы</td>
+<td>
+11.1.8 - развивать межкультурную чувствительность посредством чтения и обсуждений;
+11.1.5 - использовать обратную связь для установления личных целей обучения
+11.2.2 - понимать конкретную информацию в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченное растущее разнообразие незнакомых тем;
+11.3.6 - управлять ходом обсуждения и изменять язык посредством перефразирования и коррекции обсуждения на широкий спектр знакомых и некоторых незнакомых общих и учебных тем;
+11.4.3 - бегло прочитать ряд длинных текстов со скоростью, достаточной чтобы определить их содержание, заслуживающее дополнительного чтения по ряду усложненных и абстрактных, общих и учебных тем;
+11.5.2 - использовать большое разнообразие лексического запаса, соответствующего теме, жанру, грамматически правильно прописанного;
+11.5.3 - писать грамматически правильно на большое разнообразие общих и учебных тем;
+11.5.6 - писать связно на уровне текста, используя различные слова-связки, на большое разнообразие знакомых общих и учебных тем;
+11.6.11 - использовать именные структуры именные структуры, измененные до и после на разнообразные общие и учебные темы
+</td>
+</tr>
+<tr>
+<td>Рассмотрение успеха в бизнесе</td>
+<td>
+11.1.9 - использовать воображение для выражения мыслей, идей, опыта и чувств;
+11.2.4 - предполагаемое содержание свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.4.1 - понимать комплексные и абстрактные основные моменты свободного обсуждения рамках большого разнообразия знакомых и незнакомых общих и учебных тем;
+11.5.8 - сообщать и отвечать на новости и чувства в переписке с помощью различных функций по широкому ряду общих и учебных тем;
+11.6.5 - употреблять разнообразные взаимодополняемые структуры переходных и непереходных глаголов на широкий ряд общих и учебных тем
 </td>
 </tr>
 <tr>
 <td>
-Discussing controversial issues
-Analysing academic language
+Сравнение, анализ и рейтинг изобретений
+Создай свое изобретение
 </td>
 <td>
-11.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-11.2.1.-. understand the main points in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.1 - use formal and informal language registers in talk on a range of general and curricular topics, including some unfamiliar topics;
-11.3.6 - navigate talk and modify language through paraphrase and correction in talk on a wide range of familiar and some unfamiliar general and curricular topics;
-11.4.6 - recognise the attitude, opinion or tone of the writer in extended texts on a range of more complex and abstract general and curricular topics;
-11.6.4 - use a range of affixes with appropriate meaning and correct spelling on a wide range of general and curricular topics;
-11.6.5 - use a range of transitive and intransitive verb complementation patterns on a wide range of general and curricular topics
-</td>
-</tr>
-<tr>
-<td>Reading for Pleasure</td>
-<td>Learners read non-fiction</td>
-<td>
-11.1.1 - use speaking and listening skills to solve problems creatively and cooperatively in groups;
-11.1.8 - develop intercultural awareness through reading and discussion;
-11.1.9 - use imagination to express thoughts, ideas, experiences and feelings;
-11.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the worl dopics, including talk on a growing range of unfamiliar topics;
-11.2.4 - understand implied meaning in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3. 3 - explain and justify own and others’ point of view on a range of general and curricular topics, including some unfamiliar topics;
-11.3.4 - evaluate and comment on the views of others in a growing variety of talk contexts on a wide range of general and curricular topics, including some unfamiliar topics;
-11.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of familiar and some unfamiliar general and curricular topics;
-11.4.1 - understand complex and abstract main points in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.2 - understand specific information and detail in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.4 - read a wide range of extended fiction and non-fiction texts on a variety of more complex and abstract general and curricular topics;
-11.4.5 - deduce meaning from context in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.6 - recognise the attitude, opinion or tone of the writer in extended texts on a range of more complex and abstract general and curricular topics;
-11.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of more complex and abstract general and curricular topics;
-11.4. 8 - select and evaluate paper and digital reference resources to check meaning and extend understanding;
-11.4.9 - recognise inconsistencies in argument in extended texts on a range of more complex and abstract general and curricular topics;
-11.5.1 - plan, write, edit and proofread work at text level independently on a wide range of general and curricular topics
-11.5.4 - use style and register to achieve an appropriate degree of formality in a wide variety of written genres on general and curricular topics;
-11.5.5 - develop with minimal support coherent arguments supported when necessary by examples and reasons for a wide range of written genres in familiar general and curricular topics;
-11.6.9 - use a wide variety of present and past forms, including a growing number of more nuanced contrasts [past and perfective aspect/simple and progressive aspect] on a wide range of general and curricular topics
+11.1.1 - использовать навыки говорения и слушания для творческого совместного решения проблем в группах;
+11.2.7 - понимать точки зрения говорящих и степень определенно выраженного согласия между говорящими на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.3.3 - объяснять и обосновать свою и чужую точку зрения на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на широкий спектр общих и учебных тем, включая некоторые незнакомые темы;
+11.3.7 - использовать соответствующую специфичную лексику и синтаксис в рамках обсуждения на ряд знакомых и некоторых незнакомых общих и учебных тем;
+11.4.8 - отобрать и оценить бумажные и цифровые информационные ресурсы для уточнения смысла и углубленного понимания;
+11.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на большое разнообразие общих и учебных тем;
+11.5.4 - использовать соответствующие стиль и регистр для достижения определённого уровня формальности в широком разнообразии жанров письма на общие и учебные темы;
+11.6.3 - использовать различные прилагательные в сочетании со словом that / зэт, инфинитивом и wh- clauses / х- клозес на большое разнообразие общих и учебных тем;
+11.6.14 - использовать большое разнообразие более сложных предложных фраз, относящихся теме согласия и уважения; использовать разнообразие составных глаголов различных синтаксических видов на большое разнообразие общих и учебных тем
 </td>
 </tr>
 <tr>
-<td colspan="3">Term 4</td>
-</tr>
-<tr>
-<td rowspan="2">Recent advances in technology</td>
-<td>A variety of technological, mobile and application tools for personal, educational and professional use</td>
+<td rowspan="2">Социальные перемены и дальнейшее исследование</td>
+<td>Анализ ингредиентов успешного выступления</td>
 <td>
-11.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-11.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.2 -ask and respond with appropriate syntax and vocabulary to open-ended higher-order thinking questions on a range of general and curricular topics, including some unfamiliar topics;
-11.3.6 - navigate talk and modify language through paraphrase and correction in talk on a wide range of familiar and some unfamiliar general and curricular topics
-11.4.2 - understand specific information and detail in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of more complex and abstract, general and curricular topics;
-11.5.7 - use independently appropriate layout at text level on a wide range of general and curricular topics;
-11.6.5 - use a range of transitive and intransitive verb complementation patterns on a wide range of general and curricular topics;
-11.6.10 -use a wide variety of reported statement, command and question forms on a wide range of general and curricular topics;
-11.6.13 - use a variety of dependent prepositions with less common nouns, adjectives and verbs on a wide range of general and curricular topics
+11.1.2 - использовать навыки говорения и слушания для обеспечения индивидуальной обратной связи одноклассникам;
+11.1.9 - использовать воображение для выражения мыслей, идей, опыта и чувств;
+11.2.1 - понимать основное содержание свободного обсуждения на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченное растущее разнообразие незнакомых тем;
+11.2.7 - понимать точки зрения говорящих и степень определенно выраженного согласия между говорящими на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.2.8 - распознавать несоответствия в аргументе в свободном обсуждении на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на широкий спектр общих и учебных тем, включая некоторые незнакомые темы;
+11.4.2 - понимать специфичную информацию и детали объёмных текстов на большое разнообразие знакомых и незнакомых общих и учебных тем;
+11.5.6 - писать связно на уровне текста, используя различные слова-связки, на большое разнообразие знакомых общих и учебных тем;
+11.6.4 - использовать различные аффиксы с соответствующим смыслом и правильным написанием на широкий ряд общих и учебных тем;
+11.6.8 - употреблять большое разнообразие глаголов в форме будущего времени, включая глаголы в форме будущего совершенного времени, на разнообразные общие и учебные темы;
+11.6.9 - употреблять широкое разнообразие глаголов в форме настоящего и прошедшего времен, включая растущее число тонких различий (аспекты прошедшего времени и завершенности/аспекты простого времени и длительности) на большое разнообразие общих и учебных тем
 </td>
 </tr>
 <tr>
 <td>
-Options for future careers
-Producing information leaflets
+Обсуждение спорных вопросов
+Анализ академического языка
 </td>
 <td>
-11.1.8 - develop intercultural awareness through reading and discussion;
-11.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world,
-11.2.2 - understand specific information in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.2 - ask and respond with appropriate syntax and vocabulary to open-ended higher-order thinking questions on a range of general and curricular topics, including some unfamiliar topics,
-11.3.3 - explain and justify own and others’ point of view on a range of general and curricular topics, including some unfamiliar topics;
-11.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of more complex and abstract, general and curricular topics;
-11.4.4 - read a wide range of extended fiction and non-fiction texts on a variety of more complex and abstract general and curricular topics;
-11.4.7 - recognise patterns of development in lengthy texts [inter-paragraph level] on a range of more complex and abstract general and curricular topics;
-11.5.3 - write with grammatical accuracy on a wide range of general and curricular topics;
-11.5.5 - develop with minimal support coherent arguments supported when necessary by examples and reasons for a wide range of written genres in familiar general and curricular topics,
-11.5.7 - use independently appropriate layout at text level on a wide range of general and curricular topics;
-11.6.14 - use a growing variety of more complex prepositional phrases including those relating to concession and respect use a variety of multi-word verbs of different syntactic types on a wide range of general and curricular topics
+11.1.10 - использовать обсуждение или письмо как средство рефлексии и изучения взглядов на мир;
+11.2.1 - понимать основное содержание свободного обсуждения на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченное растущее разнообразие незнакомых тем;
+11.2.2 - понимать конкретную информацию в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченное растущее разнообразие незнакомых тем;
+11.3.1 - использовать формальный и неформальный стиль речи при обсуждении на различные общие и учебные темы, включая некоторые незнакомые темы;
+11.3.6 - управлять ходом обсуждения и изменять язык посредством перефразирования и коррекции обсуждения на широкий спектр знакомых и некоторых незнакомых общих и учебных тем;
+11.4.6 - определить отношение, мнение или тон автора в объемных текстах на ряд более сложных и абстрактных общих и учебных тем;
+11.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на большое разнообразие общих и учебных тем;
+11.6.4 - использовать различные аффиксы с соответствующим смыслом и правильным написанием на широкий ряд общих и учебных тем;
+11.6.5 - употреблять разнообразные взаимодополняемые структуры переходных и непереходных глаголов на широкий ряд общих и учебных тем;
 </td>
 </tr>
 <tr>
-<td rowspan="3">The clothes of chemistry</td>
-<td>Introduction to the topic</td>
+<td>Чтение в удовольствие</td>
+<td>Учащиеся читают научную литературу</td>
 <td>
-11.1.10 - use talk or writing as a means of reflecting on and exploring a range of perspectives on the world;
-11.2.5 - recognise the attitude or opinion of the speaker(s) in unsupported extended talk on a wide range of general and curricular topics, including talk on a growing range of unfamiliar topics;
-11.3.6 - navigate talk and modify language through paraphrase and correction in talk on a wide range of familiar and some unfamiliar general and curricular topics;
-11.4.3 - skim a range of lengthy texts with speed to identify content meriting closer reading on a range of more complex and abstract, general and curricular topics;
-11.4.4 - read a wide range of extended fiction and non-fiction texts on a variety of more complex and abstract general and curricular topics
+11.1.8 - развивать межкультурную чувствительность посредством чтения и обсуждений;
+11.1.10 - использовать обсуждение или письмо как средство рефлексии и изучения взглядов на мир;
+11.2.4 - предполагаемое содержание свободного обсуждения без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.3.4 - оценивать и комментировать чужую точку зрения в увеличивающемся разнообразии контекстов обсуждений на широкий спектр общих и учебных тем, включая некоторые незнакомые темы;
+11.4.2 - понимать специфичную информацию и детали объёмных текстов на большое разнообразие знакомых и незнакомых общих и учебных тем;
+11.4.4 - читать большое разнообразие длинных текстов художественной и научной литературы на более сложные и абстрактные общие и учебные темы;
+11.4.5 - установить значение из контекста объемных текстов на широкое разнообразие знакомых и незнакомых общих и учебных тем;
+11.4.6 - определить отношение, мнение или тон автора в объемных текстах на ряд более сложных и абстрактных общих и учебных тем;
+11.4.8 - отобрать и оценить бумажные и цифровые информационные ресурсы для уточнения смысла и углубленного понимания;
+11.4.9 - распознавать несоответствия аргументов в объемных текстах на более сложные и абстрактные общие и учебные темы;
+11.5.4 - использовать соответствующие стиль и регистр для достижения определённого уровня формальности в широком разнообразии жанров письма на общие и учебные темы;
+11.5.5 - разработать логичные аргументы с минимальной поддержкой приведением, при необходимости, примеров и причин для ряда письменных жанров на знакомые общие и учебные темы;
+11.6.9 - употреблять широкое разнообразие глаголов в форме настоящего и прошедшего времен, включая растущее число тонких различий (аспекты прошедшего времени и завершенности/аспекты простого времени и длительности) на большое разнообразие общих и учебных тем
 </td>
 </tr>
 <tr>
-<td>Investigating the resources and processes involved in manufacturing clothes</td>
+<td colspan="3">4 четверть</td>
+</tr>
+<tr>
+<td rowspan="2">Составление утверждений и предоставление информации</td>
+<td>Различные способы самовыражения</td>
 <td>
-11.1.6 - organise and present information clearly to others ;
-11.1.8 - develop intercultural awareness through reading and discussion;
-11.3.2 - ask and respond with appropriate syntax and vocabulary to open-ended higher-order thinking questions on a range of general and curricular topics, including some unfamiliar topics;
-11.3.3 - explain and justify own and others’ point of view on a range of general and curricular topics, including some unfamiliar topics;
-11.3.5 - interact with peers to make hypotheses and evaluate alternative proposals on a range of familiar and some unfamiliar general and curricular topics;
-11.4.5 - deduce meaning from context in extended texts on a wide range of familiar and unfamiliar general and curricular topics;
-11.4.6 - recognise the attitude, opinion or tone of the writer in extended texts on a range of more complex and abstract general and curricular topics;
-11.4.9 - recognise inconsistencies in argument in extended texts on a range of more complex and abstract general and curricular topics;
-11.5.3 - write with grammatical accuracy on a wide range of general and curricular topics ;
-11.5.5 - develop with minimal support coherent arguments supported when necessary by examples and reasons for a wide range of written genres in familiar general and curricular topics;
-11.5.6 - write coherently at text level using a variety of connectors on a wide range of familiar general and curricular topics;
-11.5.9 - punctuate written work at text level on a wide range of general and curricular topics with a good degree of accuracy;
-11.6.3 - use a variety of adjectives complemented by that, infinitive and wh- clauses on a wide range of general and curricular topics ;
-1.6.11 - use a wide variety of pre-verbal, post-verbal and end-position adverbs/adverbial phrases on a wide range of general and curricular topics
+11.1.10 - использовать обсуждение или письмо как средство рефлексии и изучения взглядов на мир;
+11.2.2 - понимать конкретную информацию в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на ограниченное растущее разнообразие незнакомых тем;
+11.3.6 - управлять ходом обсуждения и изменять язык посредством перефразирования и коррекции обсуждения на широкий спектр знакомых и некоторых незнакомых общих и учебных тем;
+11.4.2 - понимать специфичную информацию и детали объёмных текстов на большое разнообразие знакомых и незнакомых общих и учебных тем;
+11.5.1 - самостоятельно планировать, писать, редактировать и корректировать работу на уровне текста на большое разнообразие общих и учебных тем;
+11.5.7 - использовать самостоятельно соответствующий план на уровне текста по широкому ряду общих и учебных тем;
+11.6.10 - употреблять большое разнообразие высказываний прямой речи, командных и вопросительных форм на большой ряд общих и учебных тем;
+11.6.13 - употреблять разнообразие зависимых предлогов, сопровождающих менее распространенные существительные, прилагательные и глаголы на большое разнообразие общих и учебных тем
 </td>
 </tr>
 <tr>
-<td>Researching an issue related to the industry</td>
 <td>
-11.1.2 - use speaking and listening skills to provide sensitive feedback to peers;
-11.1.3 - respect differing points of view;
-11.1.5 - use feedback to set personal learning objectives;
-11.1.6 - organise and present information clearly to others;
-11.3.7 - use appropriate subject-specific vocabulary and syntax to talk about a range of familiar and some unfamiliar general and curricular topics;
-11.6.2 - use a variety of determiners relating to nouns for generic uses, some appositional uses and textual reference on a wide range of general and curricular topics;
-11.6.11 - use a wide variety of pre-verbal, post-verbal and end-position adverbs/adverbial phrases on a wide range of general and curricular topics.
+Возможности для будущей карьеры
+Выпуск информационных листовок
+</td>
+<td>
+11.1.8 - развивать межкультурную чувствительность посредством чтения и обсуждений;
+11.3.3 - объяснять и обосновать свою и чужую точку зрения на ряд общих и учебных тем, включая некоторые незнакомые темы;
+11.4.2 - понимать специфичную информацию и детали объёмных текстов на большое разнообразие знакомых и незнакомых общих и учебных тем;
+11.4.4 - читать большое разнообразие длинных текстов художественной и научной литературы на более сложные и абстрактные общие и учебные темы;
+11.4.7 - распознавать структуру создания объемных текстов (на меж-параграфном уровне) на ряд более сложных и абстрактных общих и учебных тем;
+11.5.3 - писать грамматически правильно на большое разнообразие общих и учебных тем;
+11.5.5 - разработать логичные аргументы с минимальной поддержкой приведением, при необходимости, примеров и причин для ряда письменных жанров на знакомые общие и учебные темы;
+11.5.7 - использовать самостоятельно соответствующий план на уровне текста по широкому ряду общих и учебных тем;
+11.6.5 - использовать разнообразные взаимодополняемые структуры переходных и непереходных глаголов на широкий ряд общих и учебных тем;
+11.6.14 - использовать большое разнообразие более сложных предложных фраз, относящихся теме согласия и уважения; использовать разнообразие составных глаголов различных синтаксических видов на большое разнообразие общих и учебных тем
+</td>
+</tr>
+<tr>
+<td rowspan="3">Путешествие в мир одежды</td>
+<td>Введение в урок</td>
+<td>
+11.1.10 - использовать обсуждение или письмо как средство рефлексии и изучения взглядов на мир;
+11.2.5 - распознавать отношение или мнение говорящего(их) в свободном обсуждении без поддержки на широкое разнообразие общих и учебных тем, включая обсуждения на растущее число незнакомых тем;
+11.3.6 - управлять ходом обсуждения и изменять язык посредством перефразирования и коррекции обсуждения на широкий спектр знакомых и некоторых незнакомых общих и учебных тем;
+11.4.4 - читать большое разнообразие длинных текстов художественной и научной литературы на более сложные и абстрактные общие и учебные темы
+</td>
+</tr>
+<tr>
+<td>
+Исследование ресурсов и процесса производства одежды
+Исследование проблем в индустрии моды
+</td>
+<td>
+11.1.8 - развивать межкультурную чувствительность посредством чтения и обсуждений;
+11.3.2 - задавать и отвечать на открытые вопросы высокого порядка, используя соответствующий синтаксис и лексику на ряд общих и учебных тем, в том числе некоторых незнакомы тем;
+11.3.5 - взаимодействовать со сверстниками с целью выдвижения гипотез и оценивать альтернативные предложения на ряд знакомых и незнакомых общих и учебных тем;
+11.4.5 - установить значение из контекста объемных текстов на широкое разнообразие знакомых и незнакомых общих и учебных тем;
+11.4.6 - определить отношение, мнение или тон автора в объемных текстах на ряд более сложных и абстрактных общих и учебных тем;
+11.4.7 - распознавать структуру создания объемных текстов (на меж-параграфном уровне) на ряд более сложных и абстрактных общих и учебных тем;
+11.4.9 - распознавать несоответствия аргументов в объемных текстах на более сложные и абстрактные общие и учебные темы;
+11.5.3 - писать грамматически правильно на большое разнообразие общих и учебных тем;
+11.5.5 - разработать логичные аргументы с минимальной поддержкой приведением, при необходимости, примеров и причин для ряда письменных жанров на знакомые общие и учебные темы;
+11.5.6 - писать связно на уровне текста, используя различные слова-связки, на большое разнообразие знакомых общих и учебных тем;
+11.5.9 - расставлять с высокой степенью точности знаки препинания в письменной работе на уровне текста по широкому разнообразию общих и учебных тем;
+11.6.3 - использовать различные прилагательные в сочетании со словом that / зэт, инфинитивом и wh- clauses / х- клозес на большое разнообразие общих и учебных тем;
+11.6.11 - употреблять большое разнообразие доглагольного, послеглагольного и наречия/группы наречия, употребляемые в конце предложения, на широкий спектр общих и учебных тем;
+</td>
+</tr>
+<tr>
+<td>Сравнение полученных результатов и составление доклада</td>
+<td>
+11.1.2 - использовать навыки говорения и слушания для обеспечения индивидуальной обратной связи одноклассникам;
+11.1.3 - проявлять уважение к различным точкам зрения;
+11.1.5 - использовать обратную связь для установления личных целей обучения;
+11.1.6 - организовать и четко предоставить информацию в доступной форме для других
+11.3.7 - использовать соответствующую специфичную лексику и синтаксис в рамках обсуждения на ряд знакомых и некоторых незнакомых общих и учебных тем;
+11.6.11 - употреблять большое разнообразие доглагольного, послеглагольного и наречия/группы наречия, употребляемые в конце предложения, на широкий спектр общих и учебных тем;
+11.6.2 - использовать различные детерминаторы, относящиеся к существительным широкого и дополнительного использования, а также текстовых ссылок на широкий спектр общих и учебных тем;
+11.6.6 - использовать растущее разнообразие безличных предложений и структур cleft / клэфтна большое разнообразие общих и учебных тем
 </td>
 </tr>
 </table>
