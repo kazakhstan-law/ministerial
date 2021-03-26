@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/120079/kaz/26.06.2020
+source: https://zan.gov.kz/client/#!/doc/120079/kaz/26.03.2021
 ---
 
 # Қосылған құн салығының асып кетуін қайтару қағидаларын бекіту туралы
