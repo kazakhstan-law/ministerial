@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/119198/rus/21.01.2021
+source: https://zan.gov.kz/client/#!/doc/119198/rus/30.03.2021
 ---
 
 # О некоторых вопросах налогового и таможенного администрирования

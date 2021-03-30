@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/119198/kaz/21.01.2021
+source: https://zan.gov.kz/client/#!/doc/119198/kaz/30.03.2021
 ---
 
 # Салықтық және кедендік әкімшілендірудің кейбір мәселелері туралы
