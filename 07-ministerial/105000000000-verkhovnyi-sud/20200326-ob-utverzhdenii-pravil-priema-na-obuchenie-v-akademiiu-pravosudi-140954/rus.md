@@ -1,5 +1,5 @@
 ---
-version_id: '140954_463459'
+version_id: '140954_567269'
 act_code: '140954'
 language: rus
 title: Об утверждении Правил приема на обучение в Академию правосудия при Верховном Суде Республики Казахстан
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '105000000000'
 approval_date: 2020-03-26
-version_date: 2020-05-04
+version_date: 2021-04-01
 registry_number: '140954'
 caused_by:
-  code: '142839'
-  title: О внесении изменения в приказ Председателя Верховного Суда Республики Казахстан № 12 от 26 марта 2020 года «Об утверждении Правил приема на обучение в Академию правосудия при Верховном Суде Республики Казахстан»
-  link: https://zan.gov.kz/client/#!/doc/142839/rus
-source: https://zan.gov.kz/client/#!/doc/140954/rus/04.05.2020
+  code: '154260'
+  title: О внесении изменения в приказ Председателя Верховного Суда Республики Казахстан от 26 марта 2020 года № 12 «Об утверждении Правил приема на обучение в Академию правосудия при Верховном Суде Республики Казахстан»
+  link: https://zan.gov.kz/client/#!/doc/154260/rus
+source: https://zan.gov.kz/client/#!/doc/140954/rus/01.04.2021
 ---
 
 # Об утверждении Правил приема на обучение в Академию правосудия при Верховном Суде Республики Казахстан
@@ -179,13 +179,25 @@ source: https://zan.gov.kz/client/#!/doc/140954/rus/04.05.2020
 
     Лица, имеющие международные сертификаты, подтверждающие владение иностранным языком в соответствии с Общеевропейскими компетенциями (стандартами) владения иностранным языком, по программам:
 
-    английский язык: Test of English as a Foreign Language Institutional Testing Programm (Тест ов Инглиш аз а Форин Лангудж Инститьюшнал Тестинг программ) (TOEFL ITP (ТОЙФЛ АЙТИПИ) – не менее 163 баллов), Test of English as a Foreign Language Institutional Testing Programm (Тест ов Инглиш аз а Форин Лангудж Инститьюшнал Тестинг програм) Internet-based Test (Интернет бейзид тест) (TOEFL IBT (ТОЙФЛ АЙБИТИ), пороговый балл – не менее 46), Test of English as a Foreign Language Paper-based testing (TOEFL PBT (Тест ов Инглиш аз а Форин Лангудж пэйпер бэйсед тэстинг)) пороговый балл – не менее 453, Test of English as a Foreign Language Paper-delivered testing (TOEFL PDT (Тест ов Инглиш аз а Форин Лангудж пэйпер деливерэд тэстинг)) – пороговый балл – не менее 65), International English Language Tests System (Интернашнал Инглиш Лангудж Тестс Систем (IELTS (АЙЛТС), пороговый балл – не менее 5.5);
+    английский язык: IELTS (АЙЛТС)/International English Language Tests System (Интернашнал Инглиш Лангудж Тестс Систем), пороговый балл не менее 6,0;
 
-    немецкий язык: Deutsche Sprachpruеfung fuеr den Hochschulzugang (дойче щпрахпрюфун фюр дейн хохшулцуган) (DSH, Niveau С1/уровень C1), TestDaF-Prufung (тестдаф-прюфун) (Niveau C1/уровень C1);
+    IELTS INDICATOR (АЙТЛС Индикатор), пороговый балл не менее 6,0;
 
-    французский язык: Test de Franзais International™ -Тест де франсэ Интернасиональ (TFI (ТФИ) – не ниже уровня В1 по секциям чтения и аудирования), Diplome d’Etudes en Langue franзaise - Диплом дэтюд ан Ланг франсэз (DELF (ДЭЛФ), уровень B2), Diplome Approfondi de Langue franзaise - Диплом Аппрофонди де Ланг Франсэз (DALF (ДАЛФ), уровень C1), Test de connaissance du franзais - Тест де коннэссанс дю франсэ (TCF (ТСФ) – не менее 400 баллов)
+    Test of English as a Foreign Language Institutional Testing Programm (Тест ов Инглиш аз а Форин Лангудж Инститьюшнал Тестинг программ) (TOEFL ITP (ТОЙФЛ АйТиПи), пороговый балл не менее 543 баллов;
+
+    Test of English as a Foreign Language Institutional Testing Programm (Тест ов Инглиш аз а Форин Лангудж Инститьюшнал Тестинг програм) Internet-based Test (Интернет бейзид тест) (TOEFL IBT (ТОЙФЛ АйБИиТи), пороговый балл не менее 60;
+
+    TOEFL PBT (Тест ов Инглиш аз а Форин Лангудж пэйпер бэйсед тэстинг) Test of English as a Foreign Language Paper-based testing, пороговый балл не менее 498;
+
+    Duolingo English Test (Дуолинго Инглиш Тест), пороговый балл не менее 95;
+
+    немецкий язык: Deutsche Sprachpruеfung fuеr den Hochschulzugang (дойче щпрахпрю фун фюр дейн хохшулцуган) (DSH, Niveau С1/уровень C1), TestDaF-Prufung (тестдаф-прюфун) (NiveauC1/уровень C1);
+
+    французский язык: Test de Franзais International™ Тест де франсэ Интернасиональ (TFI (ТФИ) не ниже уровня В1 по секциям чтения и аудирования), Diplome d’Etudes en Langue franзaise Диплом дэтюд ан Ланг франсэз (DELF (ДЭЛФ), уровень B2), Diplome Approfondi de Langue franзaise Диплом Аппрофонди де Ланг Франсэз (DALF (ДАЛФ), уровень C1), Test de connaissance du franзais Тест де коннэссанс дю франсэ (TCF (ТСФ) не менее 50 баллов)»
 
     освобождаются от вступительного экзамена по иностранному языку.
+
+> *Сноска. Пункт 18 в редакции приказ Председателя Верховного Суда РК от 01.04.2021 № 24 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 19. Лица, получившие неудовлетворительную оценку по иностранному языку (от 0 до 29 баллов), не допускаются к сдаче вступительного экзамена по специальности.
 
