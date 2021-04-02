@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/88644/kaz/20.11.2020
+source: https://zan.gov.kz/client/#!/doc/88644/kaz/02.04.2021
 ---
 
 > *Жиіліктер белдеулерін радиожиіліктерді*  
