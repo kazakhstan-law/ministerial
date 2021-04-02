@@ -1,5 +1,5 @@
 ---
-version_id: '118735_291736'
+version_id: '118735_519293'
 act_code: '118735'
 language: kaz
 title: Резиденттікті растайтын құжаттың және Қазақстан Республикасындағы көздерден алынған кірістері және ұстап қалған (төленген) салықтардың сомасы туралы анықтаманың нысандарын бекіту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103002000000'
 approval_date: 2018-01-19
-version_date: 2018-01-19
+version_date: 2021-04-02
 registry_number: '118735'
-source: https://zan.gov.kz/client/#!/doc/118735/kaz/19.01.2018
+caused_by:
+  code: '154241'
+  title: «Резиденттікті растайтын құжаттың және Қазақстан Республикасындағы көздерден алынған кірістері және ұстап қалған (төленген) салықтардың сомасы туралы анықтаманың нысандарын бекіту туралы» Қазақстан Республикасы Қаржы министрінің 2018 жылғы 19 қаңтардағы № 38 бұйрығына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/154241/kaz
+source: https://zan.gov.kz/client/#!/doc/118735/kaz/02.04.2021
 ---
 
 # Резиденттікті растайтын құжаттың және Қазақстан Республикасындағы көздерден алынған кірістері және ұстап қалған (төленген) салықтардың сомасы туралы анықтаманың нысандарын бекіту туралы
@@ -99,34 +103,35 @@ Seal                                                     Signature _____________
 > *№ 38 бұйрығына*  
 > *2-қосымша*
 
+> *Ескерту. Нысан жаңа редакцияда - ҚР Қаржы министрінің 02.04.2021 № 297 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
 > *нысан*
 
 ## (Бланк)
 
 ```
- _____ жылға, _____ тоқсанға, _____айына Қазақстан Республикасындағы көздерден
-алынған кірістері және ұстап қалған (төленген) салықтардың сомасы туралы анықтамасы
-Certificate on amounts of income received from sources in the Republic of Kazakhstan
-and amounts of withheld (paid) taxes for _____, year,_____ quarter,_____ month
-Бейрезидент-заңды тұлғаның, не бейрезидент-жеке тұлғаның толық атауы/ Full
- name of the non-resident legal entity or non-resident natural person:
-____________________________________________________________________________
+ _____ жылға, _____ тоқсанға, _____айына Қазақстан Республикасындағы көздерден алынған
+             кірістері және ұстап қалған (төленген) салықтардың сомасы туралы анықтамасы
+Certificate on amounts of income received from sources in the Republic of Kazakhstan and amounts
+                    of withheld (paid) taxes for _____, year,_____ quarter,_____ month
+          Бейрезидент-заңды тұлғаның, не бейрезидент-жеке тұлғаның толық атауы/ Full name of
+the non-resident legal entity or non-resident natural person:
+          ______________________________________________________________________________
 Салық төлеушінің санаты/Category of the taxpayer:
-Тұрақты мекемесіз қызмет атқаратын бейрезидент-заңды тұлға/non-resident
-legal entity without permanent establishment
-Тұрақты мекеме арқылы қызмет атқаратын бейрезидент-заңды тұлға/ non-resident legal
-entity with permanent establishment
-Бейрезидент-жеке тұлға/non-resident natural person
-________________________________________________________________________________
-Резидеттік елі/Country of residence:
-________________________________________________________________________________
-Резиденттік еліндегі тіркеу нөмірі/Tax registration number in the country of
-residence:________________________________________________________________________
-(Аумақтық мемлекеттік кірістер комитетінің толық атауы) пайдаға (табысқа) төленген
-салықты растайды/өзге салық салу объектісінің қорытынды сомасы:__________________
-(Full name of the territorial authority of state revenue committee) certifies
-that the tax on profits (income)/other subject of taxation has been paid in the
-total amount of:_______________________
+Тұрақты мекемесіз қызмет атқаратын бейрезидент-заңды тұлға/non-resident legal entity without
+permanent establishment
+Тұрақты мекеме арқылы қызмет атқаратын бейрезидент-заңды тұлға/ non-resident legal entity
+with permanent establishment
+Бейрезидент-жеке тұлға/non-resident natural person______________________________________
+Резидеттік елі/Country of residence:___________________________________________________
+Резиденттік еліндегі тіркеу нөмірі/Tax registration number in the country of residence:
+_________________________________________________________________________________
+(Қазақстан Республикасы Қаржы министрлігі Мемлекеттік кірістер комитетінің аумақтық
+органының толық атауы) пайдаға (табысқа) төленген салықты растайды/өзге салық салу
+объектісінің қорытынды сомасы:__________________
+(Full name of the territorial authority of State Revenue Committee of the Ministry of Finance of the
+Republic of Kazakhstan)certifies that the tax on profits (income)/other subject of taxation has been
+paid in the total amount of:_______________________
 Валюта коды/Currency code
 ```
 
@@ -135,10 +140,7 @@ total amount of:_______________________
 <td>Табыс түрі Type of income</td>
 <td>Табыс сомасы Amount of income</td>
 <td>Салық атауы/Name of tax</td>
-<td>
-Салық ставкасы
-Tax rate
-</td>
+<td>Салық мөлшерлемесі Tax rate</td>
 <td>Ұстап қалған салық сомасы Amount of tax withheld</td>
 <td>Төленген салық сомасы Amount of tax paid</td>
 </tr>
@@ -160,10 +162,10 @@ Tax rate
 </tr>
 </table>
 
+```
 Мемлекеттік кірістер органының
-
-басшысы (басшының орынбасары) Т.А.Ә. (ол болған кезде)/
-
-Head (deputy head) of state revenue authority (Name, Surname, Middle name if it is available _________________________________________________________________/
-
+басшысы (басшының орынбасары) тегі, аты, әкесінің аты (ол болған кезде)/
+Head (deputy head) of state revenue authority (Name, Surname, Middle name if it is available
+_________________________________________________________________/
 Мөр/Seal
+```

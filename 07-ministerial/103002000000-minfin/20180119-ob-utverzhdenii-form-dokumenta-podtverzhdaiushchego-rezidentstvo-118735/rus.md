@@ -1,5 +1,5 @@
 ---
-version_id: '118735_291737'
+version_id: '118735_519294'
 act_code: '118735'
 language: rus
 title: Об утверждении форм документа, подтверждающего резидентство, и справки о суммах полученных доходов из источников в Республике Казахстан и удержанных (уплаченных) налогов
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103002000000'
 approval_date: 2018-01-19
-version_date: 2018-01-19
+version_date: 2021-04-02
 registry_number: '118735'
-source: https://zan.gov.kz/client/#!/doc/118735/rus/19.01.2018
+caused_by:
+  code: '154241'
+  title: О внесении изменения в приказ Министра финансов Республики Казахстан от 19 января 2018 года № 38 «Об утверждении форм документа, подтверждающего резидентство, и справки о суммах полученных доходов из источников в Республике Казахстан и удержанных (уплаченных) налогов»
+  link: https://zan.gov.kz/client/#!/doc/154241/rus
+source: https://zan.gov.kz/client/#!/doc/118735/rus/02.04.2021
 ---
 
 # Об утверждении форм документа, подтверждающего резидентство, и справки о суммах полученных доходов из источников в Республике Казахстан и удержанных (уплаченных) налогов
@@ -91,39 +95,39 @@ Seal                                                    Signature_______________
 > *Приложение 2*  
 > *к приказу Министра финансов*  
 > *Республики Казахстан*  
-> *от 19 января 2018 года № 38*
+> *от 19 января 2018 года*  
+> *№ 38*
+
+> *Сноска. Форма в редакции приказа Министра финансов РК от 02.04.2021 № 297 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 > *форма*
 
 ## (Бланк)
 
 ```
-Справка о суммах полученных доходов из источников в Республике Казахстан
-и удержанных (уплаченных) налогов за _____ год, _____ квартал, _____месяц
-Certificate on amounts of income received from sources in the Republic of
-Kazakhstan and amounts of withheld (paid) taxes for _____, year,_____
-quarter,_____ month
-Полное наименование юридического лица-нерезидента, либо физического
-лица-нерезидента/ Full name of the non-resident legal entity or non-resident
-natural person:
-____________________________________________________________________________
+Справка о суммах полученных доходов из источников в Республике Казахстан и удержанных
+                              (уплаченных) налогов за _____ год, _____ квартал, _____месяц
+Certificate on amounts of income received from sources in the Republic of Kazakhstan and amounts
+                              of withheld (paid) taxes for _____, year,_____ quarter,_____ month
+          Полное наименование юридического лица-нерезидента, либо физического лица-
+нерезидента/ Full name of the non-resident legal entity or non-resident natural person:
+________________________________________________________________________________
 Категория налогоплательщика/Category of the taxpayer:
-Юридическое лицо-нерезидент без постоянного учреждения/non-resident legal
-entity without permanent establishment
-Юридическое лицо-нерезидент с постоянным учреждением/ non-resident legal
-entity with permanent establishment
-Физическое лицо-нерезидент/non-resident natural person
-_____________________________________________________________________________
-Страна резидентства/Country of residence:
-_____________________________________________________________________________
-Номер налоговой регистрации в стране резидентства/Tax registration number
-in the country of residence:_________________________________________________
-(Полное название  территориального органа комитета государственных доходов)
-подтверждает уплату налога на прибыль (доходы)/иной объект налогообложения
-в итоговой сумме:_______________________________
-(Full name of the territorial authority of state revenue committee) certifies
-that the tax on profits (income)/other subject of taxation has been paid
-in the total amount of:_______________________
+Юридическое лицо-нерезидент без постоянного учреждения/non-resident legal entity without
+permanent establishment
+Юридическое лицо-нерезидент с постоянным учреждением/ non-resident legal entity with
+permanent establishment
+Физическое лицо-нерезидент/non-resident natural person__________________________________
+Страна резидентства/Country of residence:_____________________________________________
+Номер налоговой регистрации в стране резидентства/Tax registration number in the country of
+residence:________________________________________________________________________
+(Полное наименование территориального органа Комитета государственных доходов
+Министерства финансов Республики Казахстан)
+подтверждает уплату налога на прибыль (доходы)/иной объект налогообложения в итоговой
+сумме: ________________________________________________________________________
+(Full name of the territorial authority of State Revenue Committee of the Ministry of Finance of the
+Republic of Kazakhstan) certifies that the tax on profits (income)/other subject of taxation has been
+paid in the total amount of:_______________________
 Код валюты/Currency code
 ```
 
@@ -157,8 +161,10 @@ Tax rate
 </tr>
 </table>
 
+```
 Руководитель (заместитель руководителя) органа
-
-государственных доходов Ф.И.О. (при его наличии)/Head (deputy head) of state revenue authority (Name, Surname, Middle name if it is available)________________________________/
-
+государственных доходов фамилия, имя, отчество (при его наличии)/Head (deputy head) of state
+revenue authority (Name, Surname, Middle name if it is
+available)________________________________/
 Печать/Seal
+```
