@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85495/kaz/29.09.2020
+source: https://zan.gov.kz/client/#!/doc/85495/kaz/05.04.2021
 ---
 
 # Қылмыстық-атқару жүйесі мекемелерінің iшкi тәртiптеме қағидаларын бекіту туралы
