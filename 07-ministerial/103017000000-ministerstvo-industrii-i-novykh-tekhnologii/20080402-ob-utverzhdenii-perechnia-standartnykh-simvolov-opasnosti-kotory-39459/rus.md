@@ -14,6 +14,11 @@ approval_date: 2008-04-02
 version_date: 2008-04-02
 registry_number: '39459'
 source: https://zan.gov.kz/client/#!/doc/39459/rus/02.04.2008
+repealed_on: 2021-07-01
+repealed_by:
+  code: '156681'
+  title: О признании утратившими силу некоторых приказов
+  link: https://zan.gov.kz/client/#!/doc/156681/rus
 ---
 
 # Об утверждении Перечня стандартных символов опасности, которые указываются при предупредительной маркировке химической продукции
