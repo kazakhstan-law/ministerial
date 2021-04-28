@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/125624/kaz/01.09.2020
+source: https://zan.gov.kz/client/#!/doc/125624/kaz/28.04.2021
 ---
 
 > *Өрт қауіпсіздігі саласындағы*  
