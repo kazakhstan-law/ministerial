@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/64049/kaz/12.12.2019
+source: https://zan.gov.kz/client/#!/doc/64049/kaz/30.04.2021
 ---
 
 # Нотариаттық іс жүргізу жөніндегі ережені бекіту туралы
