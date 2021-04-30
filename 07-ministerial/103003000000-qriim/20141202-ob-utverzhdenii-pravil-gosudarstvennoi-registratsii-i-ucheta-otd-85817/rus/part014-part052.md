@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85817/rus/18.08.2020
+source: https://zan.gov.kz/client/#!/doc/85817/rus/30.04.2021
 ---
 
 ## Тематический план и программа предмета "Оказание первой медицинской помощи" Тематический план
