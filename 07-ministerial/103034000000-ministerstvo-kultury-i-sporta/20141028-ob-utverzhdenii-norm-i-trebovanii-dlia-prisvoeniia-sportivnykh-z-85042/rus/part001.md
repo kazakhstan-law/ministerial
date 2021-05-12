@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85042/rus/12.08.2020
+source: https://zan.gov.kz/client/#!/doc/85042/rus/12.05.2021
 ---
 
 ## Нормы и требования для присвоения спортивных званий, разрядов и квалификационных категорий

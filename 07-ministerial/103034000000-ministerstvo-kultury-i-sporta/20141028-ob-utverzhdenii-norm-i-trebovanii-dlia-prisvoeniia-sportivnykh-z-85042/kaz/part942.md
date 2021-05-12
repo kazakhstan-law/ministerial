@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85042/kaz/12.08.2020
+source: https://zan.gov.kz/client/#!/doc/85042/kaz/12.05.2021
 ---
 
 ## Жүзуден нормативтер кестесі (ТҚАЗ)
