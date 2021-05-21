@@ -14,6 +14,11 @@ approval_date: 2016-10-15
 version_date: 2016-10-15
 registry_number: '107992'
 source: https://zan.gov.kz/client/#!/doc/107992/rus/15.10.2016
+repealed_on: 2021-07-01
+repealed_by:
+  code: '156166'
+  title: Об утверждении технического регламента «Требования к маркировке продукции»
+  link: https://zan.gov.kz/client/#!/doc/156166/rus
 ---
 
 # Об утверждении Технического регламента «Требования к маркировке продукции»
