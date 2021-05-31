@@ -15,6 +15,11 @@ approval_date: 2019-07-29
 version_date: 2019-07-29
 registry_number: '133654'
 source: https://zan.gov.kz/client/#!/doc/133654/rus/29.07.2019
+repealed_on: 2021-07-01
+repealed_by:
+  code: '156255'
+  title: О некоторых вопросах передачи государственных функций в конкурентную среду
+  link: https://zan.gov.kz/client/#!/doc/156255/rus
 ---
 
 # О некоторых вопросах передачи государственных функций в конкурентную среду

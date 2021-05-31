@@ -15,6 +15,11 @@ approval_date: 2019-07-29
 version_date: 2019-07-29
 registry_number: '133654'
 source: https://zan.gov.kz/client/#!/doc/133654/kaz/29.07.2019
+repealed_on: 2021-07-01
+repealed_by:
+  code: '156255'
+  title: Мемлекеттік функцияларды бәсекелес ортаға берудің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/156255/kaz
 ---
 
 # Мемлекеттік функцияларды бәсекелес ортаға берудің кейбір мәселелері туралы
