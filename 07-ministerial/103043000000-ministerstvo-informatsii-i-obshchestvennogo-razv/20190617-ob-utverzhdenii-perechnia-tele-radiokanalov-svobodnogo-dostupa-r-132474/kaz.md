@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
+source: https://zan.gov.kz/client/#!/doc/132474/kaz/16.06.2021
 ---
 
 # Ұлттық оператор тарататын еркін қолжетімді теле-, радиоарналар тізбесін бекіту туралы
@@ -25,15 +25,15 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 5. Осы бұйрық алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі.
 
 > *Қазақстан Республикасы*  
-> *Ақпарат және қоғамдық даму министрінің*  
-> *2019 жылғы*  
-> *17 маусымдағы*  
+> *Ақпарат және қоғамдық*  
+> *даму министрінің*  
+> *2019 жылғы 17 маусымдағы*  
 > *№ 172 бұйрығымен*  
 > *бекітілген*
 
 ## Телерадио хабарларын таратудың ұлттық операторы тарататын еркін қолжетімді теле-, радиоарналардың тізбесі
 
-> *Ескерту. Тізбе жаңа редакцияда - ҚР Ақпарат және қоғамдық даму министрінің 28.10.2020 № 354 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Тізбе жаңа редакцияда - ҚР Ақпарат және қоғамдық даму министрінің 28.10.2020 № 354 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 16.06.2021 № 219 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 <table>
 <tr>
@@ -123,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>18</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>19</td>
@@ -231,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>18</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>19</td>
@@ -343,7 +343,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="2">«Асыл Арна»</td>
+<td colspan="2">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -447,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -666,7 +666,10 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 <tr>
 <td>1</td>
 <td colspan="3">«QAZAQSTAN»</td>
-<td colspan="3" rowspan="25">Ақтөбе қ.</td>
+<td colspan="3" rowspan="25">
+Ақтөбе қ.
+
+</td>
 </tr>
 <tr>
 <td>2</td>
@@ -738,7 +741,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -938,7 +941,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -1046,7 +1049,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -1199,7 +1202,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td>«Асыл Арна»</td>
+<td>«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -1487,7 +1490,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -1640,7 +1643,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -1834,7 +1837,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -2032,7 +2035,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="2">«Асыл Арна»</td>
+<td colspan="2">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -2303,7 +2306,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 <td colspan="3">«Седьмой канал»</td>
 </tr>
 <tr>
-<td>17</td>
+<td>16</td>
 <td colspan="3">«31 канал»</td>
 </tr>
 <tr>
@@ -2316,7 +2319,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -2575,7 +2578,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -2773,7 +2776,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="3">«Асыл Арна»</td>
+<td colspan="3">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -2975,7 +2978,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="4">«Асыл Арна»</td>
+<td colspan="4">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -3181,7 +3184,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="5">«Асыл Арна»</td>
+<td colspan="5">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
@@ -3813,7 +3816,7 @@ source: https://zan.gov.kz/client/#!/doc/132474/kaz/28.10.2020
 </tr>
 <tr>
 <td>19</td>
-<td colspan="5">«Асыл Арна»</td>
+<td colspan="5">«TALIM TV»</td>
 </tr>
 <tr>
 <td>20</td>
