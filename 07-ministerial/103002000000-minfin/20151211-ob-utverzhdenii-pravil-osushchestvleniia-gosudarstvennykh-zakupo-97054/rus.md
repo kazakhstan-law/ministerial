@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97054/rus/01.06.2021
+source: https://zan.gov.kz/client/#!/doc/97054/rus/17.06.2021
 ---
 
 # Об утверждении Правил осуществления государственных закупок
