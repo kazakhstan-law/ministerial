@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/109751/rus/12.02.2021
+source: https://zan.gov.kz/client/#!/doc/109751/rus/18.06.2021
 ---
 
 # Об утверждении Правил ценообразования на общественно значимых рынках
