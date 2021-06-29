@@ -14,6 +14,11 @@ approval_date: 2018-10-12
 version_date: 2018-10-12
 registry_number: '126140'
 source: https://zan.gov.kz/client/#!/doc/126140/kaz/12.10.2018
+repealed_on: 2021-07-01
+repealed_by:
+  code: '156828'
+  title: Сәйкестікті бағалау қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/156828/kaz
 ---
 
 # Сәйкестікті растау қағидаларын бекіту туралы

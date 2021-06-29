@@ -13,6 +13,11 @@ approval_date: 2020-10-14
 version_date: 2020-10-14
 registry_number: '147512'
 source: https://zan.gov.kz/client/#!/doc/147512/rus/14.10.2020
+repealed_on: 2021-07-01
+repealed_by:
+  code: '156828'
+  title: Об утверждении Правил оценки соответствия
+  link: https://zan.gov.kz/client/#!/doc/156828/rus
 ---
 
 # Об утверждении формы, порядка оформления и регистрации деклараций о соответствии

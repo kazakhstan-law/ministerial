@@ -13,6 +13,11 @@ approval_date: 2020-09-21
 version_date: 2020-09-21
 registry_number: '146680'
 source: https://zan.gov.kz/client/#!/doc/146680/kaz/21.09.2020
+repealed_on: 2021-07-01
+repealed_by:
+  code: '156828'
+  title: Сәйкестікті бағалау қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/156828/kaz
 ---
 
 # Сәйкестік сертификаты бланкілерінің нысандарын және оларды толтыру тәртібін бекіту туралы
