@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/126140/rus/12.10.2018
+repealed_on: 2021-07-01
+repealed_by:
+  code: '156828'
+  title: Об утверждении Правил оценки соответствия
+  link: https://zan.gov.kz/client/#!/doc/156828/rus
 ---
 
 # Об утверждении правил подтверждения соответствия
