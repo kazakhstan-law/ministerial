@@ -1,5 +1,5 @@
 ---
-version_id: '69469_525192'
+version_id: '69469_536178'
 act_code: '69469'
 language: rus
 title: Об утверждении типовых учебных планов начального, основного среднего, общего среднего образования Республики Казахстан
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2012-11-08
-version_date: 2021-03-26
+version_date: 2021-08-20
 registry_number: '69469'
 caused_by:
-  code: '153971'
-  title: О внесении изменений и дополнений в приказ Министра образования и науки Республики Казахстан от 8 ноября 2012 года № 500 «Об утверждении типовых учебных планов начального, основного среднего, общего среднего образования Республики Казахстан»
-  link: https://zan.gov.kz/client/#!/doc/153971/rus
-source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
+  code: '158082'
+  title: О внесении изменений в приказ Министра образования и науки Республики Казахстан от 8 ноября 2012 года № 500 «Об утверждении типовых учебных планов начального, основного среднего, общего среднего образования Республики Казахстан»
+  link: https://zan.gov.kz/client/#!/doc/158082/rus
+source: https://zan.gov.kz/client/#!/doc/69469/rus/20.08.2021
 ---
 
 # Об утверждении типовых учебных планов начального, основного среднего, общего среднего образования Республики Казахстан
@@ -276,12 +276,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 **Б. Жумагулов**
 
 > *Приложение 1*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) начального образования для классов с казахским языком обучения
 
-> *Сноска. Приложение 1 в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа).*
+> *Сноска. Приложение 1 в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -323,7 +324,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>2</td>
-<td>Казахский язык</td>
+<td>Қазақ тілі</td>
 <td>-</td>
 <td>4</td>
 <td>4</td>
@@ -504,7 +505,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="8">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="2">Занятия по выбору</td>
+<td colspan="2">Индивидуальные и групповые занятия развивающего характера</td>
 <td>-</td>
 <td>1</td>
 <td>1</td>
@@ -513,41 +514,33 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>102</td>
 </tr>
 <tr>
-<td colspan="2">Индивидуальные и групповые занятия развивающего характера</td>
-<td>2</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>236</td>
-</tr>
-<tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>2</td>
-<td>2</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 <td>3</td>
-<td>3</td>
-<td>10</td>
-<td>338</td>
+<td>102</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
-<th>24,5</th>
-<th>26</th>
-<th>29</th>
-<th>29</th>
-<th>108,5</th>
-<th>3664,5</th>
+<th>22,5</th>
+<th>25</th>
+<th>27</th>
+<th>27</th>
+<th>101,5</th>
+<th>3428,5</th>
 </tr>
 </table>
 
 > *Приложение 2*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) начального образования для классов с русским языком обучения
 
-> *Сноска. Приложение 2 в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа).*
+> *Сноска. Приложение 2 в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -573,9 +566,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>10</th>
 <th>12</th>
 <th>12</th>
-<th>13</th>
-<th>47</th>
-<th>1588</th>
+<th>12</th>
+<th>46</th>
+<th>1554</th>
 </tr>
 <tr>
 <td>1</td>
@@ -609,7 +602,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>4</td>
-<td>Казахский язык (Я2)</td>
+<td>Казахский язык</td>
 <td>2</td>
 <td>3</td>
 <td>3</td>
@@ -770,50 +763,42 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="8">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="2">Занятия по выбору</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
 <td colspan="2">Индивидуальные и групповые занятия развивающего характера</td>
-<td>2</td>
-<td>1</td>
-<td>2</td>
-<td>1</td>
-<td>6</td>
-<td>202</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>2</td>
-<td>1</td>
-<td>2</td>
-<td>1</td>
-<td>6</td>
-<td>202</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
-<th>24,5</th>
-<th>26</th>
-<th>29</th>
-<th>29</th>
-<th>108,5</th>
-<th>3664,5</th>
+<th>22,5</th>
+<th>25</th>
+<th>27</th>
+<th>28</th>
+<th>102,5</th>
+<th>3462,5</th>
 </tr>
 </table>
 
 > *Приложение 3*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) начального образования для классов с уйгурским/узбекским/таджикским языком обучения
 
-> *Сноска. Приложение 3 в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа).*
+> *Сноска. Приложение 3 в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -836,12 +821,12 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>10</th>
+<th>8</th>
+<th>11</th>
 <th>12</th>
-<th>13</th>
-<th>13</th>
-<th>48</th>
-<th>1622</th>
+<th>12</th>
+<th>43</th>
+<th>1454</th>
 </tr>
 <tr>
 <td>1</td>
@@ -875,7 +860,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>4</td>
-<td>Казахский язык (Т2)</td>
+<td>Қазақ тілі</td>
 <td>2</td>
 <td>2</td>
 <td>3</td>
@@ -896,12 +881,12 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>6</td>
 <td>Иностранный язык</td>
+<td>-</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
+<td>6</td>
+<td>204</td>
 </tr>
 <tr>
 <th></th>
@@ -1034,62 +1019,55 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>405</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>22,5</td>
-<td>25</td>
-<td>28</td>
-<td>28</td>
-<td>103,5</td>
-<td>3496,5</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>20,5</th>
+<th>25</th>
+<th>28</th>
+<th>28</th>
+<th>101,5</th>
+<th>3430,5</th>
 </tr>
 <tr>
 <th colspan="8">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="2">Занятия по выбору</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
 <td colspan="2">Индивидуальные и групповые занятия развивающего характера</td>
 <td>2</td>
-<td>1</td>
 <td>-</td>
 <td>-</td>
-<td>3</td>
-<td>100</td>
+<td>-</td>
+<td>2</td>
+<td>66</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
 <td>2</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>168</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2</td>
+<td>66</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
-<th>24,5</th>
-<th>26</th>
-<th>29</th>
-<th>29</th>
-<th>108,5</th>
-<th>3664,5</th>
+<th>22,5</th>
+<th>25</th>
+<th>28</th>
+<th>28</th>
+<th>103,5</th>
+<th>3496,5</th>
 </tr>
 </table>
 
 > *Приложение 4*  
-> *к приказу Министра образования и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 8 ноября 2012 года*  
+> *№ 500*
 
 ## Типовой учебный план (обновленного содержания) начального образования для обучающихся с особыми образовательными потребностями с казахским языком обучения
 
-> *Сноска. Приложение 4 в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа).*
+> *Сноска. Приложение 4 в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 ### Глава 1. Типовой учебный план начального образования для неслышащих учащихся с казахским языком обучения
 
@@ -1115,13 +1093,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
-<th>8</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>49</th>
-<th>1642</th>
+<th>5</th>
+<th>6</th>
+<th>10</th>
+<th>10</th>
+<th>10</th>
+<th>41</th>
+<th>1378</th>
 </tr>
 <tr>
 <td>1</td>
@@ -1136,7 +1114,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>2</td>
-<td>Казахский язык</td>
+<td>Қазақ тілі</td>
 <td></td>
 <td>-</td>
 <td>5</td>
@@ -1159,49 +1137,38 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>4</td>
 <td>Русский язык (Я2)</td>
+<td>-</td>
+<td>1</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>334</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Иностранный язык</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>7</td>
+<td>237</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
+<th>4</th>
 <th>4</th>
 <th>4</th>
 <th>6</th>
 <th>6</th>
-<th>22</th>
-<th>740</th>
+<th>24</th>
+<th>804</th>
+</tr>
+<tr>
+<td>5</td>
+<td>Математика</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Математика</td>
-<td>2</td>
-<td>4</td>
-<td>4</td>
-<td>5</td>
-<td>5</td>
-<td>20</td>
-<td>672</td>
-</tr>
-<tr>
-<td>7</td>
 <td>Цифровая грамотность</td>
 <td>-</td>
 <td>-</td>
@@ -1214,49 +1181,49 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
+<th>-</th>
 <th>1</th>
 <th>1</th>
 <th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th>1</th>
+<th>4</th>
+<th>135</th>
 </tr>
 <tr>
-<td>8</td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
 <td>7</td>
-<td>235</td>
+<td>Естествознание</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
+<th>1</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th>9</th>
+<th>302</th>
+</tr>
+<tr>
+<td>8</td>
+<td>Познание мира</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Познание мира</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
-</tr>
-<tr>
-<td>10</td>
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
@@ -1278,7 +1245,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>366</th>
 </tr>
 <tr>
-<td>11</td>
+<td>10</td>
 <td>Музыка и ритмика</td>
 <td>2</td>
 <td>1</td>
@@ -1289,7 +1256,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>199</td>
 </tr>
 <tr>
-<td>12</td>
+<td>11</td>
 <td>Художественный труд</td>
 <td>1</td>
 <td>1</td>
@@ -1311,7 +1278,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>501</th>
 </tr>
 <tr>
-<td>13</td>
+<td>12</td>
 <td>Адаптивная физическая культура</td>
 <td>3</td>
 <td>3</td>
@@ -1322,37 +1289,37 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>501</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>19</td>
-<td>20</td>
-<td>23</td>
-<td>26</td>
-<td>26</td>
-<td>114</td>
-<td>3818</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>16</th>
+<th>18</th>
+<th>22</th>
+<th>24</th>
+<th>24</th>
+<th>112</th>
+<th>3486</th>
 </tr>
 <tr>
 <th colspan="9">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Предметно-практическое обучение</td>
-<td>3</td>
-<td>3</td>
+<td>4</td>
+<td>4,5</td>
 <td>2</td>
-<td>3</td>
-<td>3</td>
-<td>14</td>
-<td>467</td>
+<td>2</td>
+<td>2</td>
+<td>14,5</td>
+<td>480,5</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
-<th>22</th>
-<th>23</th>
-<th>25</th>
-<th>29</th>
-<th>29</th>
-<th>128</th>
-<th>4285</th>
+<th>20</th>
+<th>22,5</th>
+<th>24</th>
+<th>26</th>
+<th>26</th>
+<th>118,5</th>
+<th>3966,5</th>
 </tr>
 <tr>
 <th colspan="9">Коррекционный компонент</th>
@@ -1378,7 +1345,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>131</td>
 </tr>
 <tr>
-<td colspan="2">Формирование произношения и развитие слухового восприятия*</td>
+<td colspan="2">Формирование произношения и развитие слухового восприятия (индивидуальные занятия)</td>
 <td>18</td>
 <td>18</td>
 <td>18</td>
@@ -1398,7 +1365,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>34</td>
 </tr>
 <tr>
-<td colspan="2">Жестовая речь</td>
+<td colspan="2">Жестовый язык</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1416,6 +1383,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>21</td>
 <td>101</td>
 <td>3372</td>
+</tr>
+<tr>
+<td colspan="9">
+Примечания.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+</td>
 </tr>
 </table>
 
@@ -1443,13 +1417,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
+<th>7</th>
 <th>9</th>
 <th>11</th>
 <th>11</th>
 <th>11</th>
-<th>50</th>
-<th>1675</th>
+<th>49</th>
+<th>1643</th>
 </tr>
 <tr>
 <td>1</td>
@@ -1464,7 +1438,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>2</td>
-<td>Казахский язык</td>
+<td>Қазақ тілі</td>
 <td>-</td>
 <td>-</td>
 <td>4</td>
@@ -1498,35 +1472,35 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>5</td>
 <td>Иностранный язык</td>
-<td>1</td>
+<td>-</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>9</td>
-<td>302</td>
+<td>8</td>
+<td>270</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
+<th>4</th>
 <th>4</th>
 <th>4</th>
 <th>6</th>
 <th>6</th>
-<th>22</th>
-<th>740</th>
+<th>24</th>
+<th>804</th>
 </tr>
 <tr>
 <td>6</td>
 <td>Математика</td>
-<td>2</td>
+<td>4</td>
 <td>4</td>
 <td>4</td>
 <td>5</td>
 <td>5</td>
-<td>20</td>
-<td>672</td>
+<td>22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1542,46 +1516,46 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
+<th>-</th>
 <th>1</th>
 <th>1</th>
 <th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th>1</th>
+<th>4</th>
+<th>135</th>
 </tr>
 <tr>
 <td>8</td>
 <td>Естествознание</td>
+<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>235</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
+<th>1</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th>9</th>
+<th>302</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Познание мира</td>
+<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1651,36 +1625,36 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="2">Инвариантная учебная нагрузка</td>
-<td>19</td>
+<td>18</td>
 <td>21</td>
 <td>23</td>
-<td>26</td>
-<td>26</td>
-<td>115</td>
-<td>3851</td>
+<td>25</td>
+<td>25</td>
+<td>112</td>
+<td>3751</td>
 </tr>
 <tr>
 <th colspan="9">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>3</td>
-<td>3</td>
-<td>14</td>
-<td>467</td>
+<td>1,5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6,5</td>
+<td>215,5</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
-<th>22</th>
+<th>20</th>
+<th>22,5</th>
 <th>24</th>
-<th>25</th>
-<th>29</th>
-<th>29</th>
-<th>129</th>
-<th>4260</th>
+<th>26</th>
+<th>26</th>
+<th>118,5</th>
+<th>3966,5</th>
 </tr>
 <tr>
 <th colspan="9">Коррекционный компонент</th>
@@ -1706,7 +1680,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>198</td>
 </tr>
 <tr>
-<td colspan="2">Формирование произношения и развитие слухового восприятия *</td>
+<td colspan="2">Формирование произношения и развитие слухового восприятия (индивидуальные)</td>
 <td>18</td>
 <td>18</td>
 <td>18</td>
@@ -1725,6 +1699,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>101</td>
 <td>3371</td>
 </tr>
+<tr>
+<td colspan="9">
+Примечания.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+</td>
+</tr>
 </table>
 
 ### Глава 3. Типовой учебный план начального образования для незрячих и слабовидящих учащихся с казахским языком обучения
@@ -1733,355 +1714,362 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка, часы</th>
+<th colspan="6">Количество часов в неделю по классам</th>
+<th colspan="4">Общая нагрузка, часы</th>
 </tr>
 <tr>
 <th>0</th>
 <th>1</th>
-<th>2</th>
+<th colspan="2">2</th>
 <th>3</th>
 <th>4</th>
-<th>недельная</th>
-<th>годовая</th>
+<th>не дель ная</th>
+<th colspan="3">годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантный компонент</th>
+<th colspan="12">Инвариантный компонент</th>
 </tr>
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
-<th>9</th>
+<th>7</th>
+<th colspan="2">9</th>
 <th>11</th>
 <th>11</th>
 <th>11</th>
-<th>50</th>
-<th>1675</th>
+<th colspan="2">49</th>
+<th colspan="2">1643</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Әліппе, Ана тілі</td>
 <td>5</td>
-<td>5</td>
+<td colspan="2">5</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>10</td>
-<td>325</td>
+<td colspan="2">10</td>
+<td colspan="2">325</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Казахский язык</td>
+<td>Қазақ тілі</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
-<td>12</td>
-<td>408</td>
+<td colspan="2">12</td>
+<td colspan="2">408</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Литературное чтение</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
-<td>9</td>
-<td>306</td>
+<td colspan="2">9</td>
+<td colspan="2">306</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Русский язык (Я2)</td>
 <td>2</td>
+<td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>2</td>
-<td>10</td>
-<td>334</td>
+<td colspan="2">10</td>
+<td colspan="2">334</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Иностранный язык</td>
-<td>1</td>
+<td>-</td>
+<td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>2</td>
-<td>9</td>
-<td>302</td>
+<td colspan="2">8</td>
+<td colspan="2">270</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
 <th>4</th>
+<th colspan="2">4</th>
 <th>4</th>
 <th>6</th>
 <th>6</th>
-<th>22</th>
-<th>740</th>
+<th colspan="2">24</th>
+<th colspan="2">804</th>
 </tr>
 <tr>
 <td>6</td>
 <td>Математика</td>
-<td>2</td>
 <td>4</td>
+<td colspan="2">4</td>
 <td>4</td>
 <td>5</td>
 <td>5</td>
-<td>20</td>
-<td>672</td>
+<td colspan="2">22</td>
+<td colspan="2">736</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Цифровая грамотность</td>
 <td></td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>1</td>
 <td>1</td>
-<td>2</td>
-<td>68</td>
+<td colspan="2">2</td>
+<td colspan="2">68</td>
 </tr>
 <tr>
 <th></th>
 <th>Естествознание</th>
+<th>-</th>
+<th colspan="2">1</th>
 <th>1</th>
 <th>1</th>
 <th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th colspan="2">4</th>
+<th colspan="2">135</th>
 </tr>
 <tr>
 <td>8</td>
 <td>Естествознание</td>
+<td>-</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>235</td>
+<td colspan="2">4</td>
+<td colspan="2">135</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
+<th>1</th>
+<th colspan="2">2</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th colspan="2">9</th>
+<th colspan="2">302</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Познание мира</td>
+<td>-</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td colspan="2">4</td>
+<td colspan="2">135</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Самопознание</td>
 <td>1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td colspan="2">5</td>
+<td colspan="2">167</td>
 </tr>
 <tr>
 <th></th>
 <th>Технология и искусство</th>
 <th>3</th>
+<th colspan="2">2</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
-<th>2</th>
-<th>11</th>
-<th>366</th>
+<th colspan="2">11</th>
+<th colspan="2">366</th>
 </tr>
 <tr>
 <td>11</td>
 <td>Музыка</td>
 <td>2</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>6</td>
-<td>199</td>
+<td colspan="2">6</td>
+<td colspan="2">199</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Художественный труд</td>
 <td>1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td colspan="2">5</td>
+<td colspan="2">167</td>
 </tr>
 <tr>
 <th></th>
 <th>Физическая культура</th>
 <th>3</th>
+<th colspan="2">3</th>
 <th>3</th>
 <th>3</th>
 <th>3</th>
-<th>3</th>
-<th>15</th>
-<th>501</th>
+<th colspan="2">15</th>
+<th colspan="2">501</th>
 </tr>
 <tr>
 <td>13</td>
 <td>Адаптивная физическая культура</td>
 <td>3</td>
+<td colspan="2">3</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
-<td>3</td>
-<td>15</td>
-<td>501</td>
+<td colspan="2">15</td>
+<td colspan="2">501</td>
 </tr>
 <tr>
 <td colspan="2">Инвариантная учебная нагрузка</td>
-<td>19</td>
-<td>21</td>
+<td>18</td>
+<td colspan="2">21</td>
 <td>23</td>
-<td>26</td>
-<td>26</td>
-<td>115</td>
-<td>3851</td>
+<td>25</td>
+<td>25</td>
+<td colspan="2">112</td>
+<td colspan="2">3751</td>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
+<th colspan="12">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>3</td>
-<td>3</td>
-<td>14</td>
-<td>467</td>
+<td colspan="2">1,5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">6,5</td>
+<td colspan="2">215,5</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
-<th>22</th>
+<th>20</th>
+<th colspan="2">22,5</th>
 <th>24</th>
-<th>25</th>
-<th>29</th>
-<th>29</th>
-<th>129</th>
-<th>4260</th>
+<th>26</th>
+<th>26</th>
+<th colspan="2">118,5</th>
+<th colspan="2">3966,5</th>
 </tr>
 <tr>
-<th colspan="9">Коррекционный компонент</th>
+<th colspan="12">Коррекционный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Коррекционная ритмика</td>
 <td>1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>5</td>
+<td colspan="3">5</td>
 <td>167</td>
 </tr>
 <tr>
 <td colspan="2">Ознакомление с окружающим миром</td>
 <td>2</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
-<td>2</td>
-<td>64</td>
+<td colspan="2">2</td>
+<td colspan="2">64</td>
 </tr>
 <tr>
-<td colspan="2">Охрана и развитие остаточного зрения*</td>
+<td colspan="2">Охрана и развитие остаточного зрения (групповые, подгрупповые занятия)</td>
+<td>2</td>
+<td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>334</td>
+<td colspan="2">10</td>
+<td colspan="2">334</td>
 </tr>
 <tr>
-<td colspan="2">Пространственная ориентировка</td>
+<td colspan="2">Пространственная ориентировка (подгрупповые, индивидуальные занятия)</td>
 <td>4</td>
+<td colspan="2">3</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
-<td>3</td>
-<td>16</td>
-<td>537</td>
+<td colspan="2">16</td>
+<td colspan="2">537</td>
 </tr>
 <tr>
 <td colspan="2">Социально-бытовая ориентировка</td>
 <td>1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td colspan="2">5</td>
+<td colspan="2">167</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи (индивидуальные занятия)</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
+<td>2</td>
+<td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>336</td>
+<td colspan="2">10</td>
+<td colspan="2">336</td>
 </tr>
 <tr>
-<td colspan="2">Развитие мимики и пантомимики</td>
+<td colspan="2">Развитие мимики и пантомимики (групповые, подгрупповые занятия)</td>
+<td>1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td colspan="2">5</td>
+<td colspan="2">167</td>
 </tr>
 <tr>
 <td colspan="2">Индивидуальные и групповые занятия активно-двигательного характера</td>
 <td>2</td>
+<td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>2</td>
-<td>10</td>
-<td>334</td>
+<td colspan="2">10</td>
+<td colspan="2">334</td>
 </tr>
 <tr>
 <th colspan="2">Коррекционная учебная нагрузка</th>
 <th>15</th>
+<th colspan="2">12</th>
 <th>12</th>
 <th>12</th>
 <th>12</th>
-<th>12</th>
-<th>63</th>
-<th>2100</th>
+<th colspan="2">63</th>
+<th colspan="2">2100</th>
+</tr>
+<tr>
+<td colspan="12">
+Примечания.
+*индивидуальные, подгрупповые занятия с логопедом.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+</td>
 </tr>
 </table>
 
@@ -2091,51 +2079,51 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка, часы</th>
+<th colspan="8">Количество часов в неделю по классам</th>
+<th colspan="3">Общая нагрузка, часы</th>
 </tr>
 <tr>
 <th>0</th>
 <th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>недельная</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантный компонент</th>
+<th colspan="13">Инвариантный компонент</th>
 </tr>
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
-<th>9</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>50</th>
-<th>1675</th>
+<th>7</th>
+<th colspan="2">9</th>
+<th colspan="2">11</th>
+<th colspan="2">11</th>
+<th colspan="2">11</th>
+<th>49</th>
+<th>1643</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Әліппе, Ана тілі</td>
 <td>5</td>
-<td>5</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td colspan="2">5</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
 <td>10</td>
 <td>325</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Казахский язык</td>
+<td>Қазақ тілі</td>
 <td>-</td>
-<td>-</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
+<td colspan="2">-</td>
+<td colspan="2">4</td>
+<td colspan="2">4</td>
+<td colspan="2">4</td>
 <td>12</td>
 <td>408</td>
 </tr>
@@ -2143,120 +2131,120 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>Литературное чтение</td>
 <td>-</td>
-<td>-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
+<td colspan="2">-</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>9</td>
 <td>306</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Русский язык (Я2)</td>
+<td>Русский язык</td>
 <td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
 <td>10</td>
 <td>334</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Иностранный язык</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>9</td>
-<td>302</td>
+<td>-</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td>8</td>
+<td>270</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
 <th>4</th>
-<th>4</th>
-<th>6</th>
-<th>6</th>
-<th>22</th>
-<th>740</th>
+<th colspan="2">4</th>
+<th colspan="2">4</th>
+<th colspan="2">6</th>
+<th colspan="2">6</th>
+<th>24</th>
+<th>804</th>
 </tr>
 <tr>
 <td>6</td>
 <td>Математика</td>
-<td>2</td>
 <td>4</td>
-<td>4</td>
-<td>5</td>
-<td>5</td>
-<td>20</td>
-<td>672</td>
+<td colspan="2">4</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td colspan="2">5</td>
+<td>22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Цифровая грамотность</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th>-</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
+<th>4</th>
+<th>135</th>
 </tr>
 <tr>
 <td>8</td>
 <td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>235</td>
+<td>-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th>9</th>
+<th>302</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Познание мира</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Самопознание</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>5</td>
 <td>167</td>
 </tr>
@@ -2264,10 +2252,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th></th>
 <th>Технология и искусство</th>
 <th>3</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
 <th>11</th>
 <th>366</th>
 </tr>
@@ -2275,10 +2263,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>11</td>
 <td>Музыка</td>
 <td>2</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>6</td>
 <td>199</td>
 </tr>
@@ -2286,10 +2274,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>12</td>
 <td>Художественный труд</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>5</td>
 <td>167</td>
 </tr>
@@ -2297,10 +2285,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th></th>
 <th>Физическая культура</th>
 <th>3</th>
-<th>3</th>
-<th>3</th>
-<th>3</th>
-<th>3</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
 <th>15</th>
 <th>501</th>
 </tr>
@@ -2308,108 +2296,115 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>13</td>
 <td>Адаптивная физическая культура</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>15</td>
 <td>501</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>19</td>
-<td>21</td>
-<td>23</td>
-<td>26</td>
-<td>26</td>
-<td>115</td>
-<td>3851</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>18</th>
+<th colspan="2">21</th>
+<th colspan="2">23</th>
+<th colspan="2">25</th>
+<th colspan="2">25</th>
+<th>112</th>
+<th>3751</th>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
+<th colspan="13">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>3</td>
-<td>3</td>
-<td>14</td>
-<td>467</td>
+<td colspan="2">1,5</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>6,5</td>
+<td>215,5</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
-<th>22</th>
-<th>24</th>
-<th>25</th>
-<th>29</th>
-<th>29</th>
-<th>129</th>
-<th>4260</th>
+<th>20</th>
+<th colspan="2">22,5</th>
+<th colspan="2">24</th>
+<th colspan="2">26</th>
+<th colspan="2">26</th>
+<th>118,5</th>
+<th>3966,5</th>
 </tr>
 <tr>
-<th colspan="9">Коррекционный компонент</th>
+<th colspan="13">Коррекционный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Коррекционная ритмика</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">5</td>
 <td>167</td>
 </tr>
 <tr>
 <td colspan="2">Ознакомление с окружающим миром и развитие речи</td>
 <td>2</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>2</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">2</td>
 <td>64</td>
 </tr>
 <tr>
-<td colspan="2">Лечебная физическая культура (индивидуальные занятия)*</td>
+<td colspan="2">Лечебная физическая культура (индивидуальные, групповые занятия)</td>
 <td>3</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>15</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">15</td>
 <td>501</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи (индивидуальные занятия)</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>3</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>15</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">15</td>
 <td>501</td>
 </tr>
 <tr>
 <td colspan="2">Индивидуальные коррекционные занятия по восполнению пробелов в знаниях</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">5</td>
 <td>167</td>
 </tr>
 <tr>
 <th colspan="2">Коррекционная учебная нагрузка</th>
 <th>10</th>
 <th>8</th>
-<th>8</th>
-<th>8</th>
-<th>8</th>
-<th>42</th>
+<th colspan="2">8</th>
+<th colspan="2">8</th>
+<th colspan="2">8</th>
+<th colspan="2">42</th>
 <th>1400</th>
+</tr>
+<tr>
+<td colspan="13">
+Примечания.
+*индивидуальные, подгрупповые занятия с логопедом. Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся
+</td>
 </tr>
 </table>
 
@@ -2437,13 +2432,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th colspan="2">Язык и литература</th>
+<th>7</th>
 <th>8</th>
-<th>8</th>
 <th>11</th>
 <th>11</th>
 <th>11</th>
-<th>49</th>
-<th>1642</th>
+<th>48</th>
+<th>1610</th>
 </tr>
 <tr>
 <td>1</td>
@@ -2458,7 +2453,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2">Казахский язык</td>
+<td colspan="2">Қазақ тілі</td>
 <td>-</td>
 <td>-</td>
 <td>5</td>
@@ -2492,35 +2487,35 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>5</td>
 <td colspan="2">Иностранный язык</td>
+<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th colspan="2">Математика и информатика</th>
-<th>2</th>
+<th>4</th>
 <th>4</th>
 <th>4</th>
 <th>6</th>
 <th>6</th>
-<th>22</th>
-<th>740</th>
+<th>24</th>
+<th>804</th>
 </tr>
 <tr>
 <td>6</td>
 <td colspan="2">Математика</td>
-<td>2</td>
+<td>4</td>
 <td>4</td>
 <td>4</td>
 <td>5</td>
 <td>5</td>
-<td>20</td>
-<td>672</td>
+<td>22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2536,46 +2531,46 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th colspan="2">Естествознание</th>
+<th>-</th>
 <th>1</th>
 <th>1</th>
 <th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th>1</th>
+<th>4</th>
+<th>135</th>
 </tr>
 <tr>
 <td>8</td>
 <td colspan="2">Естествознание</td>
+<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>235</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th colspan="2">Человек и общество</th>
+<th>1</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th>9</th>
+<th>302</th>
 </tr>
 <tr>
 <td>9</td>
 <td colspan="2">Познание мира</td>
+<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2644,37 +2639,37 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>501</td>
 </tr>
 <tr>
-<td colspan="3">Инвариантная учебная нагрузка</td>
-<td>20</td>
-<td>21</td>
-<td>23</td>
-<td>26</td>
-<td>26</td>
-<td>116</td>
-<td>3883</td>
+<th colspan="3">Инвариантная учебная нагрузка</th>
+<th>19</th>
+<th>21</th>
+<th>23</th>
+<th>25</th>
+<th>25</th>
+<th>113</th>
+<th>3783</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="3">Занятия по выбору</td>
-<td>2</td>
-<td>3</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>13</td>
-<td>435</td>
+<td>1</td>
+<td>1,5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5,5</td>
+<td>183,5</td>
 </tr>
 <tr>
 <th colspan="3">Максимальная учебная нагрузка</th>
-<th>22</th>
+<th>20</th>
+<th>22,5</th>
 <th>24</th>
-<th>25</th>
-<th>29</th>
-<th>29</th>
-<th>129</th>
-<th>4318</th>
+<th>26</th>
+<th>26</th>
+<th>118,5</th>
+<th>3966,5</th>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
@@ -2700,7 +2695,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>64</td>
 </tr>
 <tr>
-<td colspan="3">Коррекция недостатков развития речи*</td>
+<td colspan="3">*Коррекция недостатков развития речи</td>
 <td>18</td>
 <td>18</td>
 <td>16</td>
@@ -2718,6 +2713,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>13</th>
 <th>85</th>
 <th>2829</th>
+</tr>
+<tr>
+<td colspan="10">
+Примечания.
+*индивидуальные, подгрупповые, групповые занятия с логопедом.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся
+</td>
 </tr>
 </table>
 
@@ -2745,13 +2748,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
+<th>7</th>
 <th>9</th>
 <th>11</th>
 <th>11</th>
 <th>11</th>
-<th>50</th>
-<th>1675</th>
+<th>49</th>
+<th>1643</th>
 </tr>
 <tr>
 <td>1</td>
@@ -2766,7 +2769,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>2</td>
-<td>Казахский язык</td>
+<td>Қазақ тілі</td>
 <td>-</td>
 <td>-</td>
 <td>4</td>
@@ -2800,35 +2803,35 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>5</td>
 <td>Иностранный язык</td>
-<td>1</td>
+<td>-</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>9</td>
-<td>302</td>
+<td>8</td>
+<td>270</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
+<th>4</th>
 <th>4</th>
 <th>4</th>
 <th>6</th>
 <th>6</th>
-<th>22</th>
-<th>740</th>
+<th>24</th>
+<th>804</th>
 </tr>
 <tr>
 <td>6</td>
 <td>Математика</td>
-<td>2</td>
+<td>4</td>
 <td>4</td>
 <td>4</td>
 <td>5</td>
 <td>5</td>
-<td>20</td>
-<td>672</td>
+<td>22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2844,46 +2847,46 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
+<th>-</th>
 <th>1</th>
 <th>1</th>
 <th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th>1</th>
+<th>4</th>
+<th>135</th>
 </tr>
 <tr>
 <td>8</td>
 <td>Естествознание</td>
+<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>235</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
+<th>1</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th>9</th>
+<th>302</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Познание мира</td>
+<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2952,37 +2955,37 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>501</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>19</td>
-<td>21</td>
-<td>23</td>
-<td>26</td>
-<td>26</td>
-<td>115</td>
-<td>3851</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>18</th>
+<th>21</th>
+<th>23</th>
+<th>25</th>
+<th>25</th>
+<th>112</th>
+<th>3751</th>
 </tr>
 <tr>
 <th colspan="9">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>3</td>
-<td>3</td>
-<td>14</td>
-<td>467</td>
+<td>1,5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6,5</td>
+<td>215,5</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
-<th>22</th>
+<th>20</th>
+<th>22,5</th>
 <th>24</th>
-<th>25</th>
-<th>29</th>
-<th>29</th>
-<th>116</th>
-<th>4260</th>
+<th>26</th>
+<th>26</th>
+<th>118,5</th>
+<th>3966,5</th>
 </tr>
 <tr>
 <th colspan="9">Коррекционный компонент</th>
@@ -3008,7 +3011,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>130</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи (индивидуальные занятия)*</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -3018,7 +3021,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>501</td>
 </tr>
 <tr>
-<td colspan="2">Индивидуальные и групповые коррекционные занятия по восполнению пробелов в знаниях</td>
+<td colspan="2">Индивидуальные и подгрупповые коррекционные занятия по восполнению пробелов в знаниях</td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
@@ -3047,9 +3050,17 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>50</th>
 <th>1665</th>
 </tr>
+<tr>
+<td colspan="9">
+Примечания.
+*индивидуальные, подгрупповые занятия с логопедом.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся
+</td>
+</tr>
 </table>
 
-## Глава 7. Типовой учебный план начального образования для учащихся с легкой умственной отсталостью с казахским языком обучения
+### Глава 7. Типовой учебный план начального образования для учащихся с легкой умственной отсталостью с казахским языком обучения
 
 <table>
 <tr>
@@ -3072,15 +3083,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="8">Инвариантныйкомпонент</th>
 </tr>
 <tr>
-<td></td>
-<td>Язык и литература</td>
-<td>5</td>
-<td>6</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>35</td>
-<td>1174</td>
+<th></th>
+<th>Язык и литература</th>
+<th>5</th>
+<th>6</th>
+<th>8</th>
+<th>8</th>
+<th>8</th>
+<th>35</th>
+<th>1174</th>
 </tr>
 <tr>
 <td>1</td>
@@ -3095,7 +3106,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>2</td>
-<td>Казахский язык</td>
+<td>Қазақ тілі</td>
 <td>-</td>
 <td>-</td>
 <td>3</td>
@@ -3117,7 +3128,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>4</td>
-<td>Русский язык (Я2)</td>
+<td>Русский язык</td>
 <td>-</td>
 <td>-</td>
 <td>2</td>
@@ -3127,15 +3138,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td></td>
-<td>Математика</td>
-<td>3</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>23</td>
-<td>771</td>
+<th></th>
+<th>Математика</th>
+<th>3</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>23</th>
+<th>771</th>
 </tr>
 <tr>
 <td>5</td>
@@ -3149,19 +3160,19 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>771</td>
 </tr>
 <tr>
-<td></td>
-<td>Естествознание</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>334</td>
+<th></th>
+<th>Естествознание</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>10</th>
+<th>334</th>
 </tr>
 <tr>
 <td>6</td>
-<td>Мирвокруг</td>
+<td>Мир вокруг</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -3171,19 +3182,19 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>334</td>
 </tr>
 <tr>
-<td></td>
-<td>Человек и общество</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<th></th>
+<th>Человек и общество</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th>5</th>
+<th>167</th>
 </tr>
 <tr>
 <td>7</td>
-<td>Культураповедения</td>
+<td>Культура поведения</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -3193,19 +3204,19 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>167</td>
 </tr>
 <tr>
-<td></td>
-<td>Технология и искусство</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>6</td>
-<td>22</td>
-<td>736</td>
+<th></th>
+<th>Технология и искусство</th>
+<th>4</th>
+<th>4</th>
+<th>4</th>
+<th>4</th>
+<th>6</th>
+<th>22</th>
+<th>736</th>
 </tr>
 <tr>
 <td>8</td>
-<td>Ручнойтруд</td>
+<td>Ручной труд</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -3248,15 +3259,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>167</td>
 </tr>
 <tr>
-<td></td>
-<td>Физическая культура</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>15</td>
-<td>501</td>
+<th></th>
+<th>Физическая культура</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>15</th>
+<th>501</th>
 </tr>
 <tr>
 <td>12</td>
@@ -3313,7 +3324,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>167</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи*</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
@@ -3333,7 +3344,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>167</td>
 </tr>
 <tr>
-<td colspan="2">Коррекционнаяучебнаянагрузка</td>
+<td colspan="2">Коррекционная учебная нагрузка</td>
 <td>7</td>
 <td>7</td>
 <td>7</td>
@@ -3343,18 +3354,21 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1169</td>
 </tr>
 <tr>
-<td colspan="9">Примечание: *Не требуется выполнение Государственного общеобязательного стандарта образования Республики Казахстан (далее – ГОСО) обучающимися с умственной отсталостью. На коррекцию недостатков развития речи на одного ученика отводится 0,3 часа учебного времени в неделю. Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.</td>
+<td colspan="9">
+Примечания.
+Не требуется выполнение Государственного общеобязательного стандарта образования Республики Казахстан (далее – ГОСО) обучающимися с умственной отсталостью. *индивидуальные, подгрупповые занятия с логопедом. Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+</td>
 </tr>
 </table>
 
-## Глава 8. Типовой учебный план начального образования для учащихся с умеренной умственной отсталостью с казахским языком обучения
+### Глава 8. Типовой учебный план начального образования для учащихся с умеренной умственной отсталостью с казахским языком обучения
 
 <table>
 <tr>
 <td rowspan="2">№</td>
 <td rowspan="2">Образовательные области и учебные предметы</td>
 <td colspan="4">Количество часов в неделю по классам</td>
-<td colspan="2">Общаянагрузка, часы</td>
+<td colspan="2">Общая нагрузка, часы</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3365,7 +3379,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>годовая</td>
 </tr>
 <tr>
-<th colspan="8">Инвариантныйкомпонент</th>
+<th colspan="8">Инвариантный компонент</th>
 </tr>
 <tr>
 <th></th>
@@ -3408,8 +3422,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>405</td>
 </tr>
 <tr>
-<td></td>
-<td>Естествознание</td>
+<th></th>
+<th>Естествознание</th>
+<th>2</th>
+<th>2</th>
+<th>3</th>
+<th>3</th>
+<th>10</th>
+<th>338</th>
+</tr>
+<tr>
+<td>3</td>
+<td>Мир вокруг</td>
 <td>2</td>
 <td>2</td>
 <td>3</td>
@@ -3418,24 +3442,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>338</td>
 </tr>
 <tr>
-<td>3</td>
-<td>Мирвокруг</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>10</td>
-<td>338</td>
-</tr>
-<tr>
-<td></td>
-<td>Человек и общество</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>12</td>
-<td>405</td>
+<th></th>
+<th>Человек и общество</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>12</th>
+<th>405</th>
 </tr>
 <tr>
 <td>4</td>
@@ -3509,7 +3523,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>9</td>
-<td>Адаптивная физическаякультура</td>
+<td>Адаптивная физическая культура</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -3518,22 +3532,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>405</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>21</td>
-<td>22</td>
-<td>23</td>
-<td>23</td>
-<td>89</td>
-<td>3005</td>
-</tr>
-<tr>
-<td colspan="2">Максимальная учебная нагрузка</td>
-<td>21</td>
-<td>22</td>
-<td>23</td>
-<td>23</td>
-<td>89</td>
-<td>3005</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>23</th>
+<th>89</th>
+<th>3005</th>
 </tr>
 <tr>
 <td colspan="8">Коррекционный компонент</td>
@@ -3548,7 +3553,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>270</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи*</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
@@ -3566,416 +3571,31 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>135</td>
 </tr>
 <tr>
-<td colspan="2">Коррекционная учебная нагрузка</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>28</td>
-<td>945</td>
+<th colspan="2">Коррекционная учебная нагрузка</th>
+<th>7</th>
+<th>7</th>
+<th>7</th>
+<th>7</th>
+<th>28</th>
+<th>945</th>
 </tr>
 <tr>
 <td colspan="8">
-Примечание: Умственно отсталые обучающиеся получают образование, отличающееся по содержанию от требований ГОСО.
-* На коррекцию недостатков развития речи на одного ученика отводится 0,5 часа в неделю.
-Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся. Обучение обучающихся со сложными нарушениями (нарушение зрения и умственная отсталость, нарушения слуха и умственная отсталость, нарушение опорно-двигательного аппарата и умственная отсталость) осуществляется на основе типовых учебных планов для обучающихся с умственной отсталостью с включением в них коррекционного компонента, соответствующего второму виду нарушения развития обучающихся.
+Примечания.
+Не требуется выполнение ГОСО обучающимися с умственной отсталостью. *индивидуальные, подгрупповые занятия с логопедом. Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Обучение обучающихся со сложными нарушениями (нарушение зрения и умственная отсталость, нарушения слуха и умственная отсталость, нарушение опорно-двигательного аппарата и умственная отсталость) осуществляется на основе типовых учебных планов для обучающихся с умственной отсталостью с включением в них коррекционного компонента, соответствующего второму виду нарушения развития обучающихся.
 </td>
 </tr>
 </table>
 
-## Глава 9. Типовой учебный план начального образования индивидуального бесплатного обучения на дому с казахским языком обучения (по специальным учебным программам)
-
-<table>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="4">Количество часов в неделю по классам</th>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<th colspan="6">Инвариантныйкомпонент</th>
-</tr>
-<tr>
-<td></td>
-<td>Язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Әліппе, Ана тілі</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Казахскийязык</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Литературноечтение</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Русскийязык (Я2)</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Английскийязык</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Математика и информатика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>1,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Цифровая грамотность</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">Максимальная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="6">Вариативный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Коррекционные занятия (принеобходимости)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="6">Примечание: Допускается перераспределение часов (с учетом индивидуальных возможностей и потребностей обучающегося) и посещение отдельных уроков в школе (по согласованию с лечащим врачом)</td>
-</tr>
-</table>
-
-## Глава 10. Типовой учебный план начального образования индивидуального бесплатного обучения на дому для учащихся с легкой умственной отсталостью с казахским языком обучения
-
-<table>
-<tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Образовательные области и учебные предметы</td>
-<td colspan="4">Количество часов в неделю по классам</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="6">Инвариантный компонент</td>
-</tr>
-<tr>
-<td></td>
-<td>Язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Әліппе, Ана тілі</td>
-<td>3</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Казахский язык</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Литературное чтение</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Русский язык (Я2)</td>
-<td></td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Естествознание</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Мирвокруг</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Технология</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Ручнойтруд</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">Максимальная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="6">Вариативный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Коррекция познавательной деятельности</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="6">Примечание: Допускается перераспределение часов (с учетом индивидуальных возможностей и потребностей обучающегося) и посещение отдельных уроков в школе (по согласованию с лечащим врачом)</td>
-</tr>
-</table>
-
-## Глава 11. Типовой учебный план начального образования индивидуального бесплатного обучения на дому для учащихся с умеренной умственной отсталостью с казахским языком обучения
-
-<table>
-<tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Образовательные области и учебные предметы</td>
-<td colspan="4">Количество часов в неделю по классам</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="6">Инвариантныйкомпонент</td>
-</tr>
-<tr>
-<td></td>
-<td>Язык</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Письмо, чтение и развитие речи</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Математика</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Счет</td>
-<td>1</td>
-<td>1</td>
-<td>1,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Мирвокруг</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>Технология и искусство</td>
-<td>2</td>
-<td>2</td>
-<td>1,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Изобразительное искусство</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Предметно-практическая деятельность</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">Максимальная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="6">Вариативный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Развитие психомоторики и сенсорных процессов</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="6">Примечание: Допускается перераспределение часов (с учетом индивидуальных возможностей и потребностей обучающегося) и посещение отдельных уроков в школе (по согласованию с лечащим врачом)</td>
-</tr>
-</table>
-
 > *Приложение 5*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) начального образования для обучающихся с особыми образовательными потребностями с русским языком обучения
 
-> *Сноска. Приложение 5 в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа).*
+> *Сноска. Приложение 5 в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 ### Глава 1. Типовой учебный план начального образования для неслышащих учащихся с русским языком обучения
 
@@ -4001,13 +3621,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
-<th>8</th>
-<th>12</th>
-<th>12</th>
-<th>13</th>
-<th>53</th>
-<th>1778</th>
+<th>5</th>
+<th>6</th>
+<th>10</th>
+<th>11</th>
+<th>11</th>
+<th>43</th>
+<th>1446</th>
 </tr>
 <tr>
 <td>1</td>
@@ -4045,49 +3665,38 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>4</td>
 <td>Казахский язык (Я2)</td>
-<td>2</td>
+<td>-</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>3</td>
-<td>4</td>
-<td>14</td>
-<td>470</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Иностранный язык</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>9</td>
+<td>305</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
+<th>4</th>
 <th>4</th>
 <th>4</th>
 <th>6</th>
 <th>6</th>
-<th>22</th>
-<th>740</th>
+<th>24</th>
+<th>804</th>
+</tr>
+<tr>
+<td>5</td>
+<td>Математика</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Математика</td>
-<td>2</td>
-<td>4</td>
-<td>4</td>
-<td>5</td>
-<td>5</td>
-<td>20</td>
-<td>672</td>
-</tr>
-<tr>
-<td>7</td>
 <td>Цифровая грамотность</td>
 <td>-</td>
 <td>-</td>
@@ -4100,49 +3709,49 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
+<th>-</th>
 <th>1</th>
 <th>1</th>
 <th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th>1</th>
+<th>4</th>
+<th>135</th>
 </tr>
 <tr>
-<td>8</td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
 <td>7</td>
-<td>235</td>
+<td>Естествознание</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
+<th>1</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th>9</th>
+<th>302</th>
+</tr>
+<tr>
+<td>8</td>
+<td>Познание мира</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Познание мира</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
-</tr>
-<tr>
-<td>10</td>
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
@@ -4164,7 +3773,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>366</th>
 </tr>
 <tr>
-<td>11</td>
+<td>10</td>
 <td>Музыка и ритмика</td>
 <td>2</td>
 <td>1</td>
@@ -4175,7 +3784,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>199</td>
 </tr>
 <tr>
-<td>12</td>
+<td>11</td>
 <td>Художественный труд</td>
 <td>1</td>
 <td>1</td>
@@ -4197,7 +3806,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>501</th>
 </tr>
 <tr>
-<td>13</td>
+<td>12</td>
 <td>Адаптивная физическая культура</td>
 <td>3</td>
 <td>3</td>
@@ -4208,37 +3817,37 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>501</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>19</td>
-<td>20</td>
-<td>24</td>
-<td>27</td>
-<td>28</td>
-<td>118</td>
-<td>3954</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>16</th>
+<th>18</th>
+<th>22</th>
+<th>25</th>
+<th>25</th>
+<th>106</th>
+<th>3554</th>
 </tr>
 <tr>
 <th colspan="9">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Предметно-практическое обучение</td>
-<td>3</td>
-<td>3</td>
-<td>1</td>
+<td>4</td>
+<td>4,5</td>
 <td>2</td>
 <td>1</td>
-<td>10</td>
-<td>331</td>
+<td>1</td>
+<td>12,5</td>
+<td>412,5</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
 <th>22</th>
-<th>23</th>
-<th>25</th>
-<th>29</th>
-<th>29</th>
-<th>128</th>
-<th>4285</th>
+<th>22,5</th>
+<th>24</th>
+<th>26</th>
+<th>26</th>
+<th>120,5</th>
+<th>3966,5</th>
 </tr>
 <tr>
 <th colspan="9">Коррекционный компонент</th>
@@ -4264,7 +3873,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>131</td>
 </tr>
 <tr>
-<td colspan="2">Формирование произношения и развитие слухового восприятия *</td>
+<td colspan="2">Формирование произношения и развитие слухового восприятия (индивидуальные занятия)</td>
 <td>18</td>
 <td>18</td>
 <td>18</td>
@@ -4284,7 +3893,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>34</td>
 </tr>
 <tr>
-<td colspan="2">Жестовая речь</td>
+<td colspan="2">Жестовый язык</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -4303,6 +3912,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>101</th>
 <th>3372</th>
 </tr>
+<tr>
+<td colspan="9">
+Примечания.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+</td>
+</tr>
 </table>
 
 ### Глава 2. Типовой учебный план начального образования для слабослышащих, позднооглохших учащихся с русским языком обучения
@@ -4311,40 +3927,40 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка, часы</th>
+<th colspan="8">Количество часов в неделю по классам</th>
+<th colspan="3">Общая нагрузка, часы</th>
 </tr>
 <tr>
 <th>0</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
 <th>4</th>
-<th>недельная</th>
+<th colspan="2">недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантный компонент</th>
+<th colspan="13">Инвариантный компонент</th>
 </tr>
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
-<th>9</th>
-<th>12</th>
-<th>12</th>
-<th>13</th>
-<th>54</th>
-<th>1811</th>
+<th>7</th>
+<th colspan="2">9</th>
+<th colspan="2">11</th>
+<th colspan="2">12</th>
+<th colspan="2">12</th>
+<th>51</th>
+<th>1711</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Букварь, Обучение грамоте</td>
 <td>5</td>
-<td>5</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td colspan="2">5</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
 <td>10</td>
 <td>325</td>
 </tr>
@@ -4352,10 +3968,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>Русский язык</td>
 <td>-</td>
-<td>-</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
+<td colspan="2">-</td>
+<td colspan="2">4</td>
+<td colspan="2">4</td>
+<td colspan="2">4</td>
 <td>12</td>
 <td>408</td>
 </tr>
@@ -4363,10 +3979,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>Литературное чтение</td>
 <td>-</td>
-<td>-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
+<td colspan="2">-</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>9</td>
 <td>306</td>
 </tr>
@@ -4374,109 +3990,109 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>4</td>
 <td>Казахский язык (Я2)</td>
 <td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>14</td>
-<td>470</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td>12</td>
+<td>402</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Иностранный язык</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>9</td>
-<td>302</td>
+<td>-</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td>8</td>
+<td>270</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
 <th>4</th>
-<th>4</th>
-<th>6</th>
-<th>6</th>
-<th>22</th>
-<th>740</th>
+<th colspan="2">4</th>
+<th colspan="2">4</th>
+<th colspan="2">6</th>
+<th colspan="2">6</th>
+<th>24</th>
+<th>804</th>
 </tr>
 <tr>
 <td>6</td>
 <td>Математика</td>
-<td>2</td>
 <td>4</td>
-<td>4</td>
-<td>5</td>
-<td>5</td>
-<td>20</td>
-<td>672</td>
+<td colspan="2">4</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td colspan="2">5</td>
+<td>22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Цифровая грамотность</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th>-</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
+<th>4</th>
+<th>135</th>
 </tr>
 <tr>
 <td>8</td>
 <td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>235</td>
+<td>-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th>9</th>
+<th>302</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Познание мира</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Самопознание</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>5</td>
 <td>167</td>
 </tr>
@@ -4484,10 +4100,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th></th>
 <th>Технология и искусство</th>
 <th>3</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
 <th>11</th>
 <th>366</th>
 </tr>
@@ -4495,10 +4111,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>11</td>
 <td>Музыка</td>
 <td>2</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>6</td>
 <td>199</td>
 </tr>
@@ -4506,10 +4122,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>12</td>
 <td>Художественный труд</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>5</td>
 <td>167</td>
 </tr>
@@ -4517,10 +4133,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th></th>
 <th>Физическая культура</th>
 <th>3</th>
-<th>3</th>
-<th>3</th>
-<th>3</th>
-<th>3</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
 <th>15</th>
 <th>501</th>
 </tr>
@@ -4528,88 +4144,95 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>13</td>
 <td>Адаптивная физическая культура</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>15</td>
 <td>501</td>
 </tr>
 <tr>
 <th colspan="2">Инвариантная учебная нагрузка</th>
-<th>19</th>
-<th>21</th>
-<th>24</th>
-<th>27</th>
-<th>28</th>
-<th>119</th>
-<th>3987</th>
+<th>18</th>
+<th colspan="2">21</th>
+<th colspan="2">23</th>
+<th colspan="2">26</th>
+<th colspan="2">26</th>
+<th>114</th>
+<th>3819</th>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
+<th colspan="13">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td>3</td>
-<td>3</td>
-<td>1</td>
 <td>2</td>
-<td>1</td>
-<td>10</td>
-<td>331</td>
+<td colspan="2">1,5</td>
+<td colspan="2">1</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td>4,5</td>
+<td>147,5</td>
 </tr>
 <tr>
 <td colspan="2">Максимальная учебная нагрузка</td>
-<td>22</td>
-<td>24</td>
-<td>25</td>
-<td>29</td>
-<td>29</td>
-<td>129</td>
-<td>4318</td>
+<td>20</td>
+<td colspan="2">22,5</td>
+<td colspan="2">24</td>
+<td colspan="2">26</td>
+<td colspan="2">26</td>
+<td>118,5</td>
+<td>3966,5</td>
 </tr>
 <tr>
-<th colspan="9">Коррекционный компонент</th>
+<th colspan="13">Коррекционный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Коррекционная ритмика</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">5</td>
 <td>167</td>
 </tr>
 <tr>
 <td colspan="2">Ознакомление с окружающим миром</td>
 <td>2</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>6</td>
+<td colspan="2">2</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">6</td>
 <td>198</td>
 </tr>
 <tr>
-<td colspan="2">Формирование произношения и развитие слухового восприятия *</td>
+<td colspan="2">Формирование произношения и развитие слухового восприятия (индивидуальные занятия)</td>
 <td>18</td>
 <td>18</td>
-<td>18</td>
-<td>18</td>
-<td>18</td>
-<td>90</td>
+<td colspan="2">18</td>
+<td colspan="2">18</td>
+<td colspan="2">18</td>
+<td colspan="2">90</td>
 <td>3006</td>
 </tr>
 <tr>
 <td colspan="2">Коррекционная учебная нагрузка</td>
 <td>21</td>
 <td>21</td>
-<td>21</td>
-<td>19</td>
-<td>19</td>
-<td>101</td>
+<td colspan="2">21</td>
+<td colspan="2">19</td>
+<td colspan="2">19</td>
+<td colspan="2">101</td>
 <td>3371</td>
+</tr>
+<tr>
+<td colspan="13">
+Примечания.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+</td>
 </tr>
 </table>
 
@@ -4637,13 +4260,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
+<th>7</th>
 <th>9</th>
+<th>11</th>
 <th>12</th>
 <th>12</th>
-<th>13</th>
-<th>54</th>
-<th>1811</th>
+<th>51</th>
+<th>1711</th>
 </tr>
 <tr>
 <td>1</td>
@@ -4683,44 +4306,44 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>Казахский язык (Я2)</td>
 <td>2</td>
 <td>2</td>
+<td>2</td>
 <td>3</td>
 <td>3</td>
-<td>4</td>
-<td>14</td>
-<td>470</td>
+<td>12</td>
+<td>402</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Иностранный язык</td>
-<td>1</td>
+<td>-</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>9</td>
-<td>302</td>
+<td>8</td>
+<td>270</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
+<th>4</th>
 <th>4</th>
 <th>4</th>
 <th>6</th>
 <th>6</th>
-<th>22</th>
-<th>740</th>
+<th>24</th>
+<th>804</th>
 </tr>
 <tr>
 <td>6</td>
 <td>Математика</td>
-<td>2</td>
+<td>4</td>
 <td>4</td>
 <td>4</td>
 <td>5</td>
 <td>5</td>
-<td>20</td>
-<td>672</td>
+<td>22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4736,46 +4359,46 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
+<th>-</th>
 <th>1</th>
 <th>1</th>
 <th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th>1</th>
+<th>4</th>
+<th>135</th>
 </tr>
 <tr>
 <td>8</td>
 <td>Естествознание</td>
+<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>235</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
+<th>1</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th>9</th>
+<th>302</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Познание мира</td>
+<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>10</td>
@@ -4845,36 +4468,36 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th colspan="2">Инвариантная учебная нагрузка</th>
-<th>19</th>
+<th>18</th>
 <th>21</th>
-<th>24</th>
-<th>27</th>
-<th>28</th>
-<th>119</th>
-<th>3987</th>
+<th>23</th>
+<th>26</th>
+<th>26</th>
+<th>114</th>
+<th>3819</th>
 </tr>
 <tr>
 <th colspan="9">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td>3</td>
-<td>3</td>
-<td>1</td>
 <td>2</td>
+<td>1,5</td>
 <td>1</td>
-<td>10</td>
-<td>331</td>
+<td>-</td>
+<td>-</td>
+<td>4,5</td>
+<td>147,5</td>
 </tr>
 <tr>
 <td colspan="2">Максимальная учебная нагрузка</td>
-<td>22</td>
+<td>20</td>
+<td>22,5</td>
 <td>24</td>
-<td>25</td>
-<td>29</td>
-<td>29</td>
-<td>129</td>
-<td>4318</td>
+<td>26</td>
+<td>26</td>
+<td>118,5</td>
+<td>3966,5</td>
 </tr>
 <tr>
 <th colspan="9">Коррекционный компонент</th>
@@ -4900,7 +4523,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>64</td>
 </tr>
 <tr>
-<td colspan="2">Охрана и развитие остаточного зрения*</td>
+<td colspan="2">Охрана и развитие остаточного зрения (групповые, подгрупповые занятия)</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -4910,7 +4533,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>334</td>
 </tr>
 <tr>
-<td colspan="2">Пространственная ориентировка</td>
+<td colspan="2">
+Пространственная ориентировка
+(подгрупповые, индивидуальные занятия)
+</td>
 <td>4</td>
 <td>3</td>
 <td>3</td>
@@ -4930,7 +4556,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>167</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи (индивидуальные занятия)</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -4940,7 +4566,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>334</td>
 </tr>
 <tr>
-<td colspan="2">Развитие мимики и пантомимики</td>
+<td colspan="2">
+Развитие мимики и пантомимики
+(групповые, подгрупповые занятия)
+</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -4969,13 +4598,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>63</th>
 <th>2100</th>
 </tr>
-</table>
-
-Примечание:
-
-*На индивидуальные занятия по развитию остаточного зрения, по коррекции недостатков развития речи на одного ученика отводится 0,2 часа учебного времени в неделю, по пространственной ориентировке на одного ученика - 0,3 часа в неделю;
-
+<tr>
+<td colspan="9">
+Примечания.
+*индивидуальные, подгрупповые занятия с логопедом.
 Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+</td>
+</tr>
+</table>
 
 ### Глава 4. Типовой учебный план начального образования для учащихся с нарушением опорно-двигательного аппарата с русским языком обучения
 
@@ -4983,333 +4613,335 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка, часы</th>
+<th colspan="8">Количество часов в неделю по классам</th>
+<th colspan="3">Общая нагрузка, часы</th>
 </tr>
 <tr>
 <th>0</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
 <th>4</th>
-<th>недельная</th>
+<th colspan="2">недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантный компонент</th>
+<th colspan="13">Инвариантный компонент</th>
 </tr>
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
-<th>9</th>
+<th>7</th>
+<th colspan="2">9</th>
+<th colspan="2">11</th>
+<th colspan="2">12</th>
 <th>12</th>
-<th>12</th>
-<th>13</th>
-<th>54</th>
-<th>1811</th>
+<th colspan="2">51</th>
+<th>1711</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Букварь, Обучение грамоте</td>
 <td>5</td>
-<td>5</td>
+<td colspan="2">5</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>10</td>
+<td colspan="2">10</td>
 <td>325</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Русский язык</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
+<td colspan="2">4</td>
+<td colspan="2">4</td>
 <td>4</td>
-<td>4</td>
-<td>4</td>
-<td>12</td>
+<td colspan="2">12</td>
 <td>408</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Литературное чтение</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>9</td>
+<td colspan="2">9</td>
 <td>306</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Казахский язык (Я2)</td>
 <td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
 <td>3</td>
-<td>3</td>
-<td>4</td>
-<td>14</td>
-<td>470</td>
+<td colspan="2">12</td>
+<td>402</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Иностранный язык</td>
-<td>1</td>
+<td>-</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
 <td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>9</td>
-<td>302</td>
+<td colspan="2">8</td>
+<td>270</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
 <th>4</th>
-<th>4</th>
+<th colspan="2">4</th>
+<th colspan="2">4</th>
+<th colspan="2">6</th>
 <th>6</th>
-<th>6</th>
-<th>22</th>
-<th>740</th>
+<th colspan="2">24</th>
+<th>804</th>
 </tr>
 <tr>
 <td>6</td>
 <td>Математика</td>
-<td>2</td>
 <td>4</td>
-<td>4</td>
+<td colspan="2">4</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
 <td>5</td>
-<td>5</td>
-<td>20</td>
-<td>672</td>
+<td colspan="2">22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Цифровая грамотность</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>68</td>
 </tr>
 <tr>
 <th></th>
 <th>Естествознание</th>
+<th>-</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
 <th>1</th>
-<th>1</th>
-<th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th colspan="2">5</th>
+<th>167</th>
 </tr>
 <tr>
 <td>8</td>
 <td>Естествознание</td>
+<td>-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>235</td>
+<td colspan="2">5</td>
+<td>167</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
 <th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th colspan="2">9</th>
+<th>302</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Познание мира</td>
+<td>-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td colspan="2">4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Самопознание</td>
 <td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
+<td colspan="2">5</td>
 <td>167</td>
 </tr>
 <tr>
 <th></th>
 <th>Технология и искусство</th>
 <th>3</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
 <th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>11</th>
+<th colspan="2">11</th>
 <th>366</th>
 </tr>
 <tr>
 <td>11</td>
 <td>Музыка</td>
 <td>2</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>6</td>
+<td colspan="2">6</td>
 <td>199</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Художественный труд</td>
 <td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
+<td colspan="2">5</td>
 <td>167</td>
 </tr>
 <tr>
 <th></th>
 <th>Физическая культура</th>
 <th>3</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
 <th>3</th>
-<th>3</th>
-<th>3</th>
-<th>3</th>
-<th>15</th>
+<th colspan="2">15</th>
 <th>501</th>
 </tr>
 <tr>
 <td>13</td>
 <td>Адаптивная физическая культура</td>
 <td>3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>15</td>
+<td colspan="2">15</td>
 <td>501</td>
 </tr>
 <tr>
 <th colspan="2">Инвариантная учебная нагрузка</th>
-<th>19</th>
-<th>21</th>
-<th>24</th>
-<th>27</th>
-<th>28</th>
-<th>119</th>
-<th>3987</th>
+<th>18</th>
+<th colspan="2">21</th>
+<th colspan="2">23</th>
+<th colspan="2">26</th>
+<th>26</th>
+<th colspan="2">114</th>
+<th>3819</th>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
+<th colspan="13">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td>3</td>
-<td>3</td>
-<td>1</td>
 <td>2</td>
-<td>1</td>
-<td>10</td>
-<td>331</td>
+<td colspan="2">1,5</td>
+<td colspan="2">1</td>
+<td colspan="2">-</td>
+<td>-</td>
+<td>4,5</td>
+<td colspan="2">147,5</td>
 </tr>
 <tr>
 <td colspan="2">Максимальная учебная нагрузка</td>
-<td>22</td>
-<td>24</td>
-<td>25</td>
-<td>29</td>
-<td>29</td>
-<td>129</td>
-<td>4318</td>
+<td>20</td>
+<td colspan="2">22,5</td>
+<td colspan="2">24</td>
+<td colspan="2">26</td>
+<td>26</td>
+<td>118,5</td>
+<td colspan="2">3966,5</td>
 </tr>
 <tr>
-<th colspan="9">Коррекционный компонент</th>
+<th colspan="13">Коррекционный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Коррекционная ритмика</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>5</td>
-<td>167</td>
+<td colspan="2">167</td>
 </tr>
 <tr>
 <td colspan="2">Ознакомление с окружающим миром и развитие речи</td>
 <td>2</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
 <td>2</td>
-<td>64</td>
+<td colspan="2">64</td>
 </tr>
 <tr>
-<td colspan="2">Лечебная физическая культура (индивидуальные занятия)*</td>
+<td colspan="2">Лечебная физическая культура (индивидуальные, подгрупповые занятия)</td>
 <td>3</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>15</td>
-<td>501</td>
+<td colspan="2">501</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи (индивидуальные занятия)</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>3</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>15</td>
-<td>501</td>
+<td colspan="2">501</td>
 </tr>
 <tr>
 <td colspan="2">Индивидуальные коррекционные занятия по восполнению пробелов в знаниях</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>5</td>
-<td>167</td>
+<td colspan="2">167</td>
 </tr>
 <tr>
 <th colspan="2">Коррекционная учебная нагрузка</th>
 <th>10</th>
 <th>8</th>
-<th>8</th>
-<th>8</th>
-<th>8</th>
+<th colspan="2">8</th>
+<th colspan="2">8</th>
+<th colspan="2">8</th>
 <th>42</th>
-<th>1400</th>
+<th colspan="2">1400</th>
+</tr>
+<tr>
+<td colspan="13">
+Примечания.
+*индивидуальные, подгрупповые занятия с логопедом.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся
+</td>
 </tr>
 </table>
-
-Примечание:
-
-На индивидуальные и групповые коррекционные занятия с инструктором ЛФК* на одного ученика отводится по 0,25 часа учебного времени в неделю.На индивидуальные коррекционные занятия на одного ученика отводится 0,08 часа учебного времени в неделю;
-
-снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся. Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
 
 ### Глава 5. Типовой учебный план начального образования для учащихся с тяжелыми нарушениями речи с русским языком обучения
 
@@ -5317,39 +4949,39 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Количество часов в неделю по классам</th>
+<th colspan="8">Количество часов в неделю по классам</th>
 <th colspan="2">Общая нагрузка, часы</th>
 </tr>
 <tr>
 <th>0</th>
 <th>1</th>
-<th>2</th>
-<th>3</th>
+<th colspan="3">2</th>
+<th colspan="2">3</th>
 <th>4</th>
 <th>недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантный компонент</th>
+<th colspan="12">Инвариантный компонент</th>
 </tr>
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
-<th>8</th>
+<th>7</th>
+<th colspan="2">8</th>
+<th colspan="2">11</th>
+<th colspan="2">12</th>
 <th>12</th>
-<th>12</th>
-<th>13</th>
-<th>53</th>
-<th>1778</th>
+<th>50</th>
+<th>1678</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Букварь, Обучение грамоте</td>
 <td>5</td>
-<td>5</td>
-<td>-</td>
-<td>-</td>
+<td colspan="2">5</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>10</td>
 <td>325</td>
@@ -5358,9 +4990,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>Русский язык</td>
 <td>-</td>
-<td>-</td>
-<td>5</td>
-<td>5</td>
+<td colspan="2">-</td>
+<td colspan="2">5</td>
+<td colspan="2">5</td>
 <td>5</td>
 <td>15</td>
 <td>510</td>
@@ -5369,9 +5001,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>Литературное чтение</td>
 <td>-</td>
-<td>-</td>
-<td>3</td>
-<td>3</td>
+<td colspan="2">-</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>3</td>
 <td>9</td>
 <td>306</td>
@@ -5380,53 +5012,53 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>4</td>
 <td>Казахский язык (Я2)</td>
 <td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
 <td>3</td>
-<td>3</td>
-<td>4</td>
-<td>14</td>
-<td>470</td>
+<td>12</td>
+<td>402</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Иностранный язык</td>
+<td>-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
 <th>4</th>
-<th>4</th>
+<th colspan="2">4</th>
+<th colspan="2">4</th>
+<th colspan="2">6</th>
 <th>6</th>
-<th>6</th>
-<th>22</th>
-<th>740</th>
+<th>24</th>
+<th>804</th>
 </tr>
 <tr>
 <td>6</td>
 <td>Математика</td>
-<td>2</td>
 <td>4</td>
-<td>4</td>
+<td colspan="2">4</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
 <td>5</td>
-<td>5</td>
-<td>20</td>
-<td>672</td>
+<td>22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Цифровая грамотность</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>2</td>
 <td>68</td>
@@ -5434,54 +5066,54 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
+<th>-</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
 <th>1</th>
-<th>1</th>
-<th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th>4</th>
+<th>135</th>
 </tr>
 <tr>
 <td>8</td>
 <td>Естествознание</td>
+<td>-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>235</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
 <th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th>9</th>
+<th>302</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Познание мира</td>
+<td>-</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Самопознание</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>5</td>
 <td>167</td>
@@ -5490,9 +5122,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th></th>
 <th>Технология и искусство</th>
 <th>4</th>
-<th>3</th>
-<th>2</th>
-<th>2</th>
+<th colspan="2">3</th>
+<th colspan="2">2</th>
+<th colspan="2">2</th>
 <th>2</th>
 <th>13</th>
 <th>431</th>
@@ -5501,9 +5133,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>11</td>
 <td>Музыка</td>
 <td>2</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>6</td>
 <td>199</td>
@@ -5512,9 +5144,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>12</td>
 <td>Художественный труд</td>
 <td>2</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>7</td>
 <td>232</td>
@@ -5523,9 +5155,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th></th>
 <th>Физическая культура</th>
 <th>3</th>
-<th>3</th>
-<th>3</th>
-<th>3</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
 <th>3</th>
 <th>15</th>
 <th>501</th>
@@ -5534,56 +5166,56 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>13</td>
 <td>Адаптивная физическая культура</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>3</td>
 <td>15</td>
 <td>501</td>
 </tr>
 <tr>
-<th colspan="2">Инвариантная учебная нагрузка</th>
-<th>20</th>
-<th>21</th>
-<th>24</th>
-<th>27</th>
-<th>28</th>
-<th>120</th>
-<th>4019</th>
+<td colspan="2">Инвариантная учебная нагрузка</td>
+<td>19</td>
+<td colspan="2">21</td>
+<td colspan="2">23</td>
+<td colspan="2">26</td>
+<td>26</td>
+<td>115</td>
+<td>3851</td>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
+<td colspan="12">Вариативный компонент</td>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td>2</td>
-<td>3</td>
 <td>1</td>
-<td>2</td>
-<td>1</td>
-<td>9</td>
-<td>299</td>
+<td colspan="2">1,5</td>
+<td colspan="2">1</td>
+<td colspan="2">-</td>
+<td>-</td>
+<td>3,5</td>
+<td>115,5</td>
 </tr>
 <tr>
-<td colspan="2">Максимальная учебная нагрузка</td>
-<td>22</td>
-<td>24</td>
-<td>25</td>
-<td>29</td>
-<td>29</td>
-<td>117</td>
-<td>4318</td>
+<th colspan="2">Максимальная учебная нагрузка</th>
+<th>20</th>
+<th colspan="2">22,5</th>
+<th colspan="2">24</th>
+<th colspan="2">26</th>
+<th>26</th>
+<th>118,5</th>
+<th>3966,5</th>
 </tr>
 <tr>
-<th colspan="9">Коррекционный компонент</th>
+<th colspan="12">Коррекционный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Коррекционная ритмика</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>5</td>
 <td>167</td>
 </tr>
@@ -5591,19 +5223,19 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td colspan="2">Ознакомление с окружающим миром и развитие речи</td>
 <td>2</td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
 <td>2</td>
 <td>64</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи*</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>18</td>
 <td>18</td>
-<td>16</td>
-<td>14</td>
-<td>12</td>
+<td colspan="2">16</td>
+<td colspan="2">14</td>
+<td colspan="2">12</td>
 <td>78</td>
 <td>2598</td>
 </tr>
@@ -5611,19 +5243,21 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="2">Коррекционная учебная нагрузка</th>
 <th>21</th>
 <th>19</th>
-<th>17</th>
-<th>15</th>
-<th>13</th>
+<th colspan="2">17</th>
+<th colspan="2">15</th>
+<th colspan="2">13</th>
 <th>85</th>
 <th>2829</th>
 </tr>
+<tr>
+<td colspan="12">
+Примечания.
+*индивидуальные, подгрупповые занятия с логопедом.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся
+</td>
+</tr>
 </table>
-
-Примечание:
-
-На коррекцию недостатков развития речи на одного ученика отводится 1,5 часа учебного времени в неделю;
-
-Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся. Изучение второго языка с учетом уровня речевого развития обучающихся.
 
 ### Глава 6. Типовой учебный план начального образования для учащихся с задержкой психического развития с русским языком обучения
 
@@ -5631,37 +5265,37 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Количество часов в неделю по классам</th>
+<th colspan="6">Количество часов в неделю по классам</th>
 <th colspan="2">Общая нагрузка, часы</th>
 </tr>
 <tr>
-<td>0</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>недельная</td>
-<td>годовая</td>
+<th>0</th>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>недельная</th>
+<th>годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантный компонент</th>
+<th colspan="10">Инвариантный компонент</th>
 </tr>
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>8</th>
-<th>9</th>
+<th>7</th>
+<th colspan="2">9</th>
+<th>11</th>
 <th>12</th>
 <th>12</th>
-<th>13</th>
-<th>54</th>
-<th>1811</th>
+<th>51</th>
+<th>1711</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Букварь, Обучение грамоте</td>
 <td>5</td>
-<td>5</td>
+<td colspan="2">5</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5672,7 +5306,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>Русский язык</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
@@ -5683,7 +5317,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>Литературное чтение</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -5694,51 +5328,51 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>4</td>
 <td>Казахский язык (Я2)</td>
 <td>2</td>
+<td colspan="2">2</td>
 <td>2</td>
 <td>3</td>
 <td>3</td>
-<td>4</td>
-<td>14</td>
-<td>470</td>
+<td>12</td>
+<td>402</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Иностранный язык</td>
-<td>1</td>
+<td>-</td>
+<td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>2</td>
-<td>9</td>
-<td>302</td>
+<td>8</td>
+<td>270</td>
 </tr>
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>2</th>
 <th>4</th>
+<th colspan="2">4</th>
 <th>4</th>
 <th>6</th>
 <th>6</th>
-<th>22</th>
-<th>740</th>
+<th>24</th>
+<th>804</th>
 </tr>
 <tr>
 <td>6</td>
 <td>Математика</td>
-<td>2</td>
 <td>4</td>
+<td colspan="2">4</td>
 <td>4</td>
 <td>5</td>
 <td>5</td>
-<td>20</td>
-<td>672</td>
+<td>22</td>
+<td>736</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Цифровая грамотность</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>1</td>
 <td>1</td>
@@ -5748,52 +5382,52 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
+<th>-</th>
+<th colspan="2">1</th>
 <th>1</th>
 <th>1</th>
 <th>1</th>
-<th>2</th>
-<th>2</th>
-<th>7</th>
-<th>235</th>
+<th>4</th>
+<th>135</th>
 </tr>
 <tr>
 <td>8</td>
 <td>Естествознание</td>
+<td>-</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>2</td>
-<td>2</td>
-<td>7</td>
-<td>235</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th></th>
 <th>Человек и общество</th>
+<th>1</th>
+<th colspan="2">2</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>334</th>
+<th>9</th>
+<th>302</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Познание мира</td>
+<td>-</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-<td>167</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Самопознание</td>
 <td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -5804,7 +5438,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th></th>
 <th>Технология и искусство</th>
 <th>3</th>
-<th>2</th>
+<th colspan="2">2</th>
 <th>2</th>
 <th>2</th>
 <th>2</th>
@@ -5815,7 +5449,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>11</td>
 <td>Музыка</td>
 <td>2</td>
-<td>1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -5826,7 +5460,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>12</td>
 <td>Художественный труд</td>
 <td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -5837,7 +5471,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th></th>
 <th>Физическая культура</th>
 <th>3</th>
-<th>3</th>
+<th colspan="2">3</th>
 <th>3</th>
 <th>3</th>
 <th>3</th>
@@ -5848,7 +5482,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>13</td>
 <td>Физическая культура</td>
 <td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -5857,44 +5491,44 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th colspan="2">Инвариантная учебная нагрузка</th>
-<th>19</th>
-<th>21</th>
-<th>24</th>
-<th>27</th>
-<th>28</th>
-<th>119</th>
-<th>3987</th>
+<th>18</th>
+<th colspan="2">21</th>
+<th>23</th>
+<th>26</th>
+<th>26</th>
+<th>114</th>
+<th>3819</th>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
+<th colspan="10">Вариативный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td>3</td>
-<td>3</td>
-<td>1</td>
 <td>2</td>
+<td colspan="2">1,5</td>
 <td>1</td>
-<td>10</td>
-<td>331</td>
+<td>-</td>
+<td>-</td>
+<td>4,5</td>
+<td>147,5</td>
 </tr>
 <tr>
-<td colspan="2">Максимальная учебная нагрузка</td>
-<td>22</td>
-<td>24</td>
-<td>25</td>
-<td>29</td>
-<td>29</td>
-<td>116</td>
-<td>4318</td>
+<th colspan="2">Максимальная учебная нагрузка</th>
+<th>20</th>
+<th colspan="2">22,5</th>
+<th>24</th>
+<th>26</th>
+<th>26</th>
+<th>118,5</th>
+<th>3966,5</th>
 </tr>
 <tr>
-<th colspan="9">Коррекционный компонент</th>
+<th colspan="10">Коррекционный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Коррекционная ритмика</td>
 <td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -5904,7 +5538,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td colspan="2">Ознакомление с окружающим миром и развитие речи</td>
 <td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5912,9 +5546,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>130</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи (индивидуальные занятия)*</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -5924,7 +5558,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td colspan="2">Индивидуальные и групповые коррекционные занятия по восполнению пробелов в знаниях</td>
 <td>4</td>
-<td>4</td>
+<td colspan="2">4</td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
@@ -5934,7 +5568,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td colspan="2">Индивидуальные и групповые занятия активно-двигательного характера</td>
 <td>2</td>
-<td>1</td>
+<td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -5944,22 +5578,24 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th colspan="2">Коррекционная учебная нагрузка</th>
 <th>12</th>
-<th>11</th>
+<th colspan="2">11</th>
 <th>9</th>
 <th>9</th>
 <th>9</th>
 <th>50</th>
 <th>1665</th>
 </tr>
+<tr>
+<td colspan="10">
+Примечания.
+*индивидуальные, подгрупповые занятия с логопедом.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся
+</td>
+</tr>
 </table>
 
-Примечание:
-
-на коррекцию недостатков развития речи на одного ученика отводится 0, 25 часа учебного времени в неделю.На индивидуальные коррекционные занятия на одного ученика отводится 0,3 часа учебного времени в неделю;
-
-снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся. Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
-
-## Глава 7. Типовой учебный план начального образования для учащихся с легкой умственной отсталостью с русским языком обучения
+### Глава 7. Типовой учебный план начального образования для учащихся с легкой умственной отсталостью с русским языком обучения
 
 <table>
 <tr>
@@ -6179,17 +5815,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>501</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>18</td>
-<td>21</td>
-<td>23</td>
-<td>23</td>
-<td>25</td>
-<td>110</td>
-<td>3683</td>
-</tr>
-<tr>
-<th colspan="2">Максимальная учебная нагрузка</th>
+<th colspan="2">Инвариантная учебная нагрузка</th>
 <th>18</th>
 <th>21</th>
 <th>23</th>
@@ -6222,7 +5848,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>167</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи*</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
@@ -6251,15 +5877,16 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>35</th>
 <th>1169</th>
 </tr>
+<tr>
+<td colspan="9">
+Примечания.
+Не требуется выполнение ГОСО обучающимися с умственной отсталостью; *индивидуальные, подгрупповые занятия с логопедом.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+</td>
+</tr>
 </table>
 
-Примечание:
-
-не требуется выполнение ГОСО обучающимися с умственной отсталостью;на коррекцию недостатков развития речи на одного ученика отводится 0,3 часа учебного времени в неделю;
-
-Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
-
-## Глава 8. Типовой учебный план начального образования для учащихся с умеренной умственной отсталостью с русским языком обучения
+### Глава 8. Типовой учебный план начального образования для учащихся с умеренной умственной отсталостью с русским языком обучения
 
 <table>
 <tr>
@@ -6320,14 +5947,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>405</td>
 </tr>
 <tr>
-<td></td>
-<td>Естествознание</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>10</td>
-<td>338</td>
+<th></th>
+<th>Естествознание</th>
+<th>2</th>
+<th>2</th>
+<th>3</th>
+<th>3</th>
+<th>10</th>
+<th>338</th>
 </tr>
 <tr>
 <td>3</td>
@@ -6381,7 +6008,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>6</td>
-<td>Предметно-практическаядеятельность</td>
+<td>Предметно-практическая деятельность</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -6401,7 +6028,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>8</td>
-<td>Изобразительноеискусство</td>
+<td>Изобразительное искусство</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -6430,22 +6057,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>405</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>21</td>
-<td>22</td>
-<td>23</td>
-<td>23</td>
-<td>89</td>
-<td>3005</td>
-</tr>
-<tr>
-<td colspan="2">Максимальная учебная нагрузка</td>
-<td>21</td>
-<td>22</td>
-<td>23</td>
-<td>23</td>
-<td>89</td>
-<td>3005</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>23</th>
+<th>89</th>
+<th>3005</th>
 </tr>
 <tr>
 <td colspan="8">Коррекционный компонент</td>
@@ -6460,7 +6078,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>270</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи*</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
@@ -6488,413 +6106,30 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="8">
-Примечание: Умственно отсталые обучающиеся получают образование, отличающееся по содержанию от требований ГОСО.
-* На коррекцию недостатков развития речи на одного ученика отводится 0,5 часа в неделю.
-Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся. Обучение обучающихся со сложными нарушениями (нарушение зрения и умственная отсталость, нарушения слуха и умственная отсталость, нарушение опорно-двигательного аппарата и умственная отсталость) осуществляется на основе типовых учебных планов для обучающихся с умственной отсталостью с включением в них коррекционного компонента, соответствующего второму виду нарушения развития обучающихся.
+Примечания.
+Не требуется выполнение ГОСО обучающимися с умственной отсталостью; *индивидуальные, подгрупповые занятия с логопедом.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Обучение обучающихся со сложными нарушениями (нарушение зрения и умственная отсталость, нарушения слуха и умственная отсталость, нарушение опорно-двигательного аппарата и умственная отсталость) осуществляется на основе типовых учебных планов для обучающихся с умственной отсталостью с включением в них коррекционного компонента, соответствующего второму виду нарушения развития обучающихся.
 </td>
 </tr>
 </table>
 
-## Глава 9. Типовой учебный план начального образования индивидуального бесплатного обучения на дому с русским языком обучения (по специальным учебным программам)
-
-<table>
-<tr>
-<th rowspan="2">№</th>
-<th colspan="2" rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="4">Количество часов в неделю по классам</th>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<th colspan="7">Инвариантныйкомпонент</th>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>Букварь, Обучение грамоте</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>Русский язык</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>Литературное чтение</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>Казахский язык (Я2)</td>
-<td>0.5</td>
-<td>0.5</td>
-<td>0.5</td>
-<td>0.5</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>Английский язык</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Математика и информатика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>1,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>Цифровая грамотность</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">Инвариантная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="3">Максимальная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="7">Вариативный компонент</td>
-</tr>
-<tr>
-<td colspan="3">Коррекционные занятия (принеобходимости)</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Примечание: Допускается перераспределение часов (с учетом индивидуальных возможностей и потребностей обучающегося) и посещение отдельных уроков в школе (по согласованию с лечащим врачом).</td>
-</tr>
-</table>
-
-## Глава 10. Типовой учебный план начального образования индивидуального бесплатного обучения на дому для учащихся с легкой умственной отсталостью с русским языком обучения
-
-<table>
-<tr>
-<td rowspan="2">№</td>
-<td colspan="2" rowspan="2">Образовательные области и учебные предметы</td>
-<td colspan="4">Количество часов в неделю по классам</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="7">Инвариантныйкомпонент</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>Букварь, Обучение грамоте</td>
-<td>3</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>Русскийязык</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>Литературное чтение</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>Казахский язык (Я2)</td>
-<td></td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Естествознание</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>Мирвокруг</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Технология</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>Ручнойтруд</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="3">Инвариантная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="3">Максимальная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="7">Вариативный компонент</td>
-</tr>
-<tr>
-<td colspan="3">Коррекция познавательной деятельности</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Примечание: Допускается перераспределение часов (с учетом индивидуальных возможностей и потребностей обучающегося) и посещение отдельных уроков в школе (по согласованию с лечащим врачом).</td>
-</tr>
-</table>
-
-## Глава 11. Типовой учебный план начального образования индивидуального бесплатного обучения на дому для учащихся с умеренной умственной отсталостью с русским языком обучения
-
-<table>
-<tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Образовательные области и учебные предметы</td>
-<td colspan="4">Количество часов в неделю по классам</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="6">Инвариантный компонент</td>
-</tr>
-<tr>
-<td></td>
-<td>Язык</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Письмо, чтение и развитие речи</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Математика</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Счет</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Мирвокруг</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>Технология и искусство</td>
-<td>2</td>
-<td>2</td>
-<td>1,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Изобразительное искусство</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Предметно-практическая деятельность</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">Максимальная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="6">Вариативный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Развитие психомоторики и сенсорных процессов</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="6">Примечание: Допускается перераспределение часов (с учетом индивидуальных возможностей и потребностей обучающегося) и посещение отдельных уроков в школе (по согласованию с лечащим врачом).</td>
-</tr>
-</table>
-
 > *Приложение 6*  
-> *к приказу Министра образования и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 8 ноября 2012 года*  
+> *№ 500*
 
 ## Типовой учебный план (обновленного содержания) основного среднего образования для классов с казахским языком обучения
 
-> *Сноска. Приложение 6 в редакции приказов Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 6 в редакции приказов Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
 <th colspan="7">Количество часов в неделю по классам</th>
-<th colspan="5">Нагрузка, часы</th>
+<th colspan="3">Нагрузка, часы</th>
 </tr>
 <tr>
 <th colspan="2">5</th>
@@ -6902,44 +6137,44 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="2">7</th>
 <th>8</th>
 <th>9</th>
-<th colspan="4">недельная</th>
+<th colspan="2">недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="14">Инвариантный компонент</th>
+<th colspan="12">Инвариантный компонент</th>
 </tr>
 <tr>
-<td></td>
-<td>Язык и литература</td>
-<td colspan="2">11</td>
-<td>11</td>
-<td colspan="2">11</td>
-<td>11</td>
-<td>11</td>
-<td colspan="2">55</td>
-<td colspan="3">1870</td>
+<th></th>
+<th>Язык и литература</th>
+<th colspan="2">11</th>
+<th>11</th>
+<th colspan="2">11</th>
+<th>11</th>
+<th>11</th>
+<th colspan="2">55</th>
+<th>1870</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Казахский язык</td>
+<td>Қазақ тілі</td>
 <td colspan="2">3</td>
 <td>3</td>
 <td colspan="2">3</td>
 <td>2</td>
 <td>2</td>
 <td colspan="2">13</td>
-<td colspan="3">442</td>
+<td>442</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Казахская литература</td>
+<td>Қазақ әдебиеті</td>
 <td colspan="2">2</td>
 <td>2</td>
 <td colspan="2">2</td>
 <td>3</td>
 <td>3</td>
 <td colspan="2">12</td>
-<td colspan="3">408</td>
+<td>408</td>
 </tr>
 <tr>
 <td>3</td>
@@ -6950,7 +6185,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>3</td>
 <td colspan="2">15</td>
-<td colspan="3">510</td>
+<td>510</td>
 </tr>
 <tr>
 <td>4</td>
@@ -6961,7 +6196,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>3</td>
 <td colspan="2">15</td>
-<td colspan="3">510</td>
+<td>510</td>
 </tr>
 <tr>
 <th></th>
@@ -6972,7 +6207,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>6</th>
 <th>6</th>
 <th colspan="2">30</th>
-<th colspan="3">1020</th>
+<th>1020</th>
 </tr>
 <tr>
 <td>5</td>
@@ -6983,7 +6218,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>-</td>
 <td colspan="2">10</td>
-<td colspan="3">340</td>
+<td>340</td>
 </tr>
 <tr>
 <td>6</td>
@@ -6994,7 +6229,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>3</td>
 <td colspan="2">9</td>
-<td colspan="3">306</td>
+<td>306</td>
 </tr>
 <tr>
 <td>7</td>
@@ -7005,7 +6240,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>2</td>
 <td colspan="2">6</td>
-<td colspan="3">204</td>
+<td>204</td>
 </tr>
 <tr>
 <td>8</td>
@@ -7016,7 +6251,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td colspan="2">5</td>
-<td colspan="3">170</td>
+<td>170</td>
 </tr>
 <tr>
 <th></th>
@@ -7027,7 +6262,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>8</th>
 <th>8</th>
 <th colspan="2">27</th>
-<th colspan="3">918</th>
+<th>918</th>
 </tr>
 <tr>
 <td>9</td>
@@ -7038,7 +6273,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>-</td>
 <td colspan="2">4</td>
-<td colspan="3">136</td>
+<td>136</td>
 </tr>
 <tr>
 <td>10</td>
@@ -7049,7 +6284,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>2</td>
 <td colspan="2">6</td>
-<td colspan="3">204</td>
+<td>204</td>
 </tr>
 <tr>
 <td>11</td>
@@ -7060,7 +6295,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>2</td>
 <td colspan="2">5</td>
-<td colspan="3">170</td>
+<td>170</td>
 </tr>
 <tr>
 <td>12</td>
@@ -7071,7 +6306,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>2</td>
 <td colspan="2">6</td>
-<td colspan="3">204</td>
+<td>204</td>
 </tr>
 <tr>
 <td>13</td>
@@ -7082,7 +6317,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>2</td>
 <td colspan="2">6</td>
-<td colspan="3">204</td>
+<td>204</td>
 </tr>
 <tr>
 <th></th>
@@ -7093,7 +6328,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>4</th>
 <th>5</th>
 <th colspan="2">21</th>
-<th colspan="3">714</th>
+<th>714</th>
 </tr>
 <tr>
 <td>14</td>
@@ -7104,7 +6339,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>2</td>
 <td colspan="2">10</td>
-<td colspan="3">340</td>
+<td>340</td>
 </tr>
 <tr>
 <td>15</td>
@@ -7115,7 +6350,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td colspan="2">5</td>
-<td colspan="3">170</td>
+<td>170</td>
 </tr>
 <tr>
 <td>16</td>
@@ -7126,7 +6361,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>1</td>
 <td colspan="2">1</td>
-<td colspan="3">34</td>
+<td>34</td>
 </tr>
 <tr>
 <td>17</td>
@@ -7137,7 +6372,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td colspan="2">5</td>
-<td colspan="3">170</td>
+<td>170</td>
 </tr>
 <tr>
 <th></th>
@@ -7148,7 +6383,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>1</th>
 <th>1</th>
 <th colspan="2">9</th>
-<th colspan="3">306</th>
+<th>306</th>
 </tr>
 <tr>
 <td>18</td>
@@ -7159,7 +6394,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td></td>
 <td></td>
 <td colspan="2">2</td>
-<td colspan="3">68</td>
+<td>68</td>
 </tr>
 <tr>
 <td>19</td>
@@ -7170,7 +6405,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td colspan="2">7</td>
-<td colspan="3">238</td>
+<td>238</td>
 </tr>
 <tr>
 <th></th>
@@ -7181,7 +6416,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>3</th>
 <th>3</th>
 <th colspan="2">15</th>
-<th colspan="3">510</th>
+<th>510</th>
 </tr>
 <tr>
 <td>20</td>
@@ -7192,70 +6427,82 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>3</td>
 <td colspan="2">15</td>
-<td colspan="3">510</td>
+<td>510</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td colspan="2">29</td>
-<td>29</td>
-<td colspan="2">32</td>
-<td>33</td>
-<td>34</td>
-<td colspan="2">157</td>
-<td colspan="3">5338</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th colspan="2">29</th>
+<th>29</th>
+<th colspan="2">32</th>
+<th>33</th>
+<th>34</th>
+<th colspan="2">157</th>
+<th>5338</th>
 </tr>
 <tr>
-<th colspan="14">Вариативный компонент</th>
+<th colspan="12">Вариативный компонент</th>
+</tr>
+<tr>
+<td colspan="2">Глобальные компетенции или другие курсы по выбору</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>5</td>
+<td>170</td>
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
-<td>2</td>
-<td colspan="2">3</td>
 <td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">11</td>
-<td colspan="2">374</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>5</td>
+<td>170</td>
 </tr>
 <tr>
 <td colspan="2">Индивидуальная и групповая работа</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-<td colspan="2">5</td>
-<td colspan="2">170</td>
+<td>-</td>
+<td colspan="2">-</td>
+<td>-</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>3</td>
-<td colspan="2">4</td>
 <td>2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">16</td>
-<td colspan="2">544</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td>10</td>
+<td>340</td>
 </tr>
 <tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>32</td>
-<td colspan="2">33</td>
-<td>34</td>
-<td colspan="2">36</td>
-<td colspan="2">38</td>
-<td colspan="2">173</td>
-<td colspan="2">5882</td>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>31</th>
+<th colspan="2">31</th>
+<th>34</th>
+<th colspan="2">35</th>
+<th colspan="2">36</th>
+<th>167</th>
+<th>5678</th>
 </tr>
 </table>
 
 > *Приложение 7*  
-> *к приказу Министра образования и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 8 ноября 2012 года*  
+> *№ 500*
 
 ## Типовой учебный план (обновленного содержания) основного среднего образования для классов с русским языком обучения
 
-> *Сноска. Приложение 7 в редакции приказов Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 7 в редакции приказов Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -7279,13 +6526,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>65</th>
-<th>2210</th>
+<th>12</th>
+<th>12</th>
+<th>12</th>
+<th>12</th>
+<th>12</th>
+<th>60</th>
+<th>2040</th>
 </tr>
 <tr>
 <td>1</td>
@@ -7306,8 +6553,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>3</td>
 <td>3</td>
-<td>12</td>
-<td>408</td>
+<td>10</td>
+<td>340</td>
 </tr>
 <tr>
 <td>3</td>
@@ -7395,7 +6642,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>8</th>
 <th>8</th>
 <th>27</th>
-<th>918</th>
+<th>850</th>
 </tr>
 <tr>
 <td>9</td>
@@ -7563,57 +6810,67 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>510</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>31</td>
-<td>31</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>167</td>
-<td>5678</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>31</th>
+<th>31</th>
+<th>34</th>
+<th>35</th>
+<th>36</th>
+<th>167</th>
+<th>5678</th>
 </tr>
 <tr>
-<th colspan="9">Вариативныйк омпонент</th>
+<th colspan="9">Вариативный компонент</th>
+</tr>
+<tr>
+<td colspan="2">Глобальные компетенции или другие курсы по выбору</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>170</td>
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
 <td>-</td>
-<td>1</td>
 <td>-</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
-<td colspan="2">Индивидуальная и групповаяработа</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">Индивидуальная и групповая работа</td>
 <td>-</td>
 <td>-</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
 <td>1</td>
-<td>2</td>
-<td>-</td>
 <td>1</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>170</td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
 <th>32</th>
-<th>33</th>
-<th>34</th>
+<th>32</th>
+<th>35</th>
 <th>36</th>
-<th>38</th>
-<th>173</th>
-<th>5882</th>
+<th>37</th>
+<th>172</th>
+<th>5848</th>
 </tr>
 </table>
 
@@ -7624,7 +6881,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 
 ## Типовой учебный план (обновленного содержания) основного среднего образования для классов с уйгурским/ узбекским/ таджикским языком обучения
 
-> *Сноска. Приложение 8 в редакции приказов Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 8 в редакции приказов Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -7648,13 +6905,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>14</th>
-<th>14</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>67</th>
-<th>2278</th>
+<th>12</th>
+<th>12</th>
+<th>11</th>
+<th>11</th>
+<th>11</th>
+<th>57</th>
+<th>1938</th>
 </tr>
 <tr>
 <td>1</td>
@@ -7684,32 +6941,32 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>3</td>
 <td>3</td>
-<td>4</td>
-<td>4</td>
-<td>17</td>
-<td>578</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Русский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>2</td>
-<td>2</td>
-<td>13</td>
-<td>442</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>3</td>
 <td>3</td>
 <td>15</td>
 <td>510</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Русский язык и литература</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>10</td>
+<td>340</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Иностранный язык</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>10</td>
+<td>340</td>
 </tr>
 <tr>
 <th></th>
@@ -7845,7 +7102,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>15</td>
-<td>ИсторияКазахстана</td>
+<td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -7856,7 +7113,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>16</td>
-<td>Всемирнаяистория</td>
+<td>Всемирная история</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -7867,7 +7124,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>17</td>
-<td>Основыправа</td>
+<td>Основы права</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -7911,7 +7168,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>20</td>
-<td>Художественныйтруд</td>
+<td>Художественный труд</td>
 <td>2</td>
 <td>2</td>
 <td>1</td>
@@ -7943,23 +7200,33 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>510</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>32</td>
-<td>32</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>169</td>
-<td>5746</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>30</th>
+<th>30</th>
+<th>32</th>
+<th>33</th>
+<th>34</th>
+<th>159</th>
+<th>5406</th>
 </tr>
 <tr>
-<th colspan="9">Вариативныйкомпонент</th>
+<th colspan="9">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="2">Элективныекурсы</td>
+<td colspan="2">Глобальные компетенции или другие курсы по выбору</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>170</td>
+</tr>
+<tr>
+<td colspan="2">Элективные курсы</td>
+<td>-</td>
 <td>-</td>
 <td>1</td>
-<td>-</td>
 <td>1</td>
 <td>1</td>
 <td>3</td>
@@ -7970,30 +7237,30 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td></td>
-<td>1</td>
-<td>1</td>
-<td>34</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>-</td>
 <td>1</td>
-<td>-</td>
 <td>1</td>
 <td>2</td>
-<td>4</td>
-<td>136</td>
+<td>2</td>
+<td>2</td>
+<td>8</td>
+<td>272</td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>32</th>
-<th>33</th>
+<th>31</th>
+<th>31</th>
 <th>34</th>
+<th>35</th>
 <th>36</th>
-<th>38</th>
-<th>173</th>
-<th>5882</th>
+<th>167</th>
+<th>5678</th>
 </tr>
 </table>
 
@@ -8002,9 +7269,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 > *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-### Глава 1. Типовой учебный план (обновленного содержания) основного среднего образования для обучающихся с особыми образовательными потребностями с казахским языком обучения
+## Типовой учебный план (обновленного содержания) основного среднего образования для обучающихся с особыми образовательными потребностями с казахским языком обучения
 
-> *Сноска. Приказ дополнен приложением в соответствии с приказом Министра образования и науки РК от 30.03.2016 № 233 (порядок введения в действие см. п. 4); в редакции приказов и.о. Министра образования и науки РК от 24.11.2017 № 592 (вводится в действие с 01.09.2018 года для 3 классов, с 01.09.2019 для 4 классов); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением в соответствии с приказом Министра образования и науки РК от 30.03.2016 № 233 (порядок введения в действие см. п. 4); в редакции приказов и.о. Министра образования и науки РК от 24.11.2017 № 592 (вводится в действие с 01.09.2018 года для 3 классов, с 01.09.2019 для 4 классов); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -8032,14 +7299,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th colspan="2"></th>
 <th>Язык и литература</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
 <th>7</th>
-<th>62</th>
-<th>2108</th>
+<th>52</th>
+<th>1768</th>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -8068,26 +7335,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td colspan="2">3</td>
 <td>Русский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th colspan="2"></th>
@@ -8152,26 +7419,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th colspan="2"></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td colspan="2">9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
@@ -8354,15 +7621,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="3">Инвариантная учебная нагрузка</td>
-<td>29</td>
-<td>29</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>32</td>
-<td>189</td>
-<td>6426</td>
+<th colspan="3">Инвариантная учебная нагрузка</th>
+<th>26</th>
+<th>26</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>32</th>
+<th>177</th>
+<th>6018</th>
 </tr>
 <tr>
 <th colspan="11">Вариативный компонент</th>
@@ -8371,23 +7638,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td colspan="3">Элективные курсы</td>
 <td>3</td>
 <td>4</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>3</td>
-<td>4</td>
-<td>7</td>
-<td>23</td>
-<td>782</td>
+<td>2</td>
+<td>13</td>
+<td>442</td>
 </tr>
 <tr>
 <td colspan="3">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
 <th colspan="11">Коррекционный компонент</th>
@@ -8404,7 +7671,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1972</td>
 </tr>
 <tr>
-<td colspan="3">Формирование произношения и развитие слухового восприятия*</td>
+<td colspan="3">Формирование произношения и развитие слухового восприятия (индивидуальные и подгрупповые занятия)</td>
 <td>16</td>
 <td>16</td>
 <td>4</td>
@@ -8415,7 +7682,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1564</td>
 </tr>
 <tr>
-<td colspan="3">Жестовая речь</td>
+<td colspan="3">Жестовый язык</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -8438,9 +7705,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="11">
-Примечание:
-* По формированию произношения и развития слухового восприятия на индивидуальные и групповые занятия для одного ученика в 5-6 классах отводится 2 часа, в 7-9 классах – 0,5 часа, в 10 классе - 0,25 часа учебного времени в неделю.
-Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+Примечания. Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+По усмотрению организации образования могут выбрать курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
@@ -8468,14 +7734,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
 <th>7</th>
-<th>62</th>
-<th>2108</th>
+<th>52</th>
+<th>1768</th>
 </tr>
 <tr>
 <td>1</td>
@@ -8504,26 +7770,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Русский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
@@ -8588,26 +7854,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
@@ -8790,15 +8056,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>29</td>
-<td>29</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>32</td>
-<td>189</td>
-<td>6426</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>26</th>
+<th>26</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>32</th>
+<th>177</th>
+<th>6018</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
@@ -8807,23 +8073,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td colspan="2">Элективные курсы</td>
 <td>3</td>
 <td>4</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>3</td>
-<td>4</td>
-<td>7</td>
-<td>23</td>
-<td>782</td>
+<td>2</td>
+<td>13</td>
+<td>442</td>
 </tr>
 <tr>
 <td colspan="2">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
@@ -8840,7 +8106,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1666</td>
 </tr>
 <tr>
-<td colspan="2">Формирование произношения и развитие слухового восприятия*</td>
+<td colspan="2">Формирование произношения и развитие слухового восприятия (индивидуальные и групповые занятия)</td>
 <td>16</td>
 <td>16</td>
 <td>4</td>
@@ -8862,7 +8128,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>102</td>
 </tr>
 <tr>
-<td colspan="10">Примечание:*По формированию произношения и развития слухового восприятия на индивидуальные и групповые занятия на одного ученика в 5-6 классах - 1,6 часа, в 7 - 9 классах – 0,4 часа, в 10 классе – 0,2 часа в неделю.Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.</td>
+<td colspan="10">
+Примечания.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+По усмотрению организации образования могут выбрать курс «Глобальные компетенции»
+</td>
 </tr>
 </table>
 
@@ -8892,14 +8162,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
 <th>7</th>
-<th>62</th>
-<th>2108</th>
+<th>52</th>
+<th>1768</th>
 </tr>
 <tr>
 <td>1</td>
@@ -8928,26 +8198,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Русский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
@@ -9012,26 +8282,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
@@ -9214,15 +8484,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>29</td>
-<td>29</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>32</td>
-<td>189</td>
-<td>6426</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>26</th>
+<th>26</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>32</th>
+<th>177</th>
+<th>6018</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
@@ -9231,51 +8501,40 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td colspan="2">Элективные курсы</td>
 <td>3</td>
 <td>4</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>3</td>
-<td>4</td>
-<td>7</td>
-<td>24</td>
-<td>782</td>
+<td>2</td>
+<td>13</td>
+<td>442</td>
 </tr>
 <tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>34</th>
+<th>34</th>
+<th>190</th>
+<th>6460</th>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Коррекционная учебная нагрузка</td>
-<td>10</td>
-<td>10</td>
+<td>8</td>
+<td>8</td>
 <td>5</td>
 <td>5</td>
 <td>5</td>
 <td>5</td>
-<td>40</td>
-<td>1360</td>
+<td>36</td>
+<td>1224</td>
 </tr>
 <tr>
-<td colspan="2">Лечебная физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td colspan="2">Охрана и развитие остаточного зрения*</td>
+<td colspan="2">Охрана и развитие остаточного зрения (групповые, подгрупповые занятия)</td>
 <td>1</td>
 <td>1</td>
 <td>-</td>
@@ -9297,7 +8556,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td colspan="2">Пространственная ориентировка**</td>
+<td colspan="2">
+Пространственная ориентировка
+(подгрупповые, индивидуальные занятия)
+</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -9308,7 +8570,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Развитие мимики и пантомимики</td>
+<td colspan="2">
+Развитие мимики и пантомимики
+(групповые, подгрупповые занятия)
+</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -9319,7 +8584,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи***</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>2</td>
 <td>2</td>
 <td>-</td>
@@ -9331,10 +8596,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="10">
-Примечание:
-* По развитию остаточного зрения на индивидуальные занятия для одного ученика отводится 0,1 часа учебного времени в неделю.
-** Попространственной ориентировки на индивидуальные занятия для одного ученика отводится 0,3 часа учебного времени в неделю.
-*** По коррекции недостатков развития речи на индивидуальные занятия для одного ученика отводится 0,2 часа учебного времени в неделю.
+Примечания. *индивидуальные, подгрупповые занятия с логопедом.
+По усмотрению организации образования могут выбрать курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
@@ -9365,14 +8628,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
 <th>7</th>
-<th>62</th>
-<th>2108</th>
+<th>52</th>
+<th>1768</th>
 </tr>
 <tr>
 <td>1</td>
@@ -9401,26 +8664,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Русский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
@@ -9485,26 +8748,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
@@ -9687,15 +8950,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>29</td>
-<td>29</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>32</td>
-<td>189</td>
-<td>6426</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>26</th>
+<th>26</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>32</th>
+<th>177</th>
+<th>6018</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
@@ -9704,23 +8967,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td colspan="2">Элективные курсы</td>
 <td>3</td>
 <td>4</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>3</td>
-<td>4</td>
-<td>7</td>
-<td>23</td>
-<td>782</td>
+<td>2</td>
+<td>13</td>
+<td>442</td>
 </tr>
 <tr>
 <td colspan="2">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
@@ -9748,7 +9011,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td colspan="2">Лечебная физическая культура*</td>
+<td colspan="2">Лечебная физическая культура (индивидуальные, подгрупповые занятия)</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -9759,7 +9022,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Обязательные индивидуальные и групповые коррекционные занятия**</td>
+<td colspan="2">Обязательные индивидуальные и групповые коррекционные занятия</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -9771,9 +9034,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="10">
-Примечание: * По лечебной физической культуре на одного ученика отводится 0,25 часа учебного времени в неделю.
-**Индивидуальные коррекционные занятия для одного ученика отводится 0,25 часа в неделю.
-Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся. Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+Примечания.
+Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+По усмотрению организации образования могут выбрать курс «Глобальные компетенции».
 </td>
 </tr>
 </table>
@@ -9804,14 +9068,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
 <th>7</th>
-<th>62</th>
-<th>2108</th>
+<th>52</th>
+<th>1768</th>
 </tr>
 <tr>
 <td>1</td>
@@ -9840,26 +9104,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Русский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
@@ -9924,26 +9188,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
@@ -10126,15 +9390,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>29</td>
-<td>29</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>32</td>
-<td>189</td>
-<td>6426</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>26</th>
+<th>26</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>32</th>
+<th>177</th>
+<th>6018</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
@@ -10143,23 +9407,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td colspan="2">Элективные курсы</td>
 <td>3</td>
 <td>4</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>3</td>
-<td>4</td>
-<td>7</td>
-<td>23</td>
-<td>782</td>
+<td>2</td>
+<td>13</td>
+<td>442</td>
 </tr>
 <tr>
 <td colspan="2">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
@@ -10176,7 +9440,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1224</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи *</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>8</td>
 <td>8</td>
 <td>6</td>
@@ -10188,8 +9452,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="10">
-Примечание: *На коррекцию недостатков развития речи в 5-6 классах на одного ученика отводится 0,6 часа, 7-8 классах - 0,5 часа, в 9-10 классах - 0,3 часа в неделю.
+Примечания. *индивидуальные, подгрупповые занятия с логопедом.
 Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+По усмотрению организации образования могут выбрать курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
@@ -10220,14 +9485,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
-<th>11</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
 <th>7</th>
-<th>62</th>
-<th>2108</th>
+<th>52</th>
+<th>1768</th>
 </tr>
 <tr>
 <td>1</td>
@@ -10256,26 +9521,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Русский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
@@ -10340,26 +9605,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
@@ -10542,15 +9807,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>29</td>
-<td>29</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>32</td>
-<td>189</td>
-<td>6426</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>26</th>
+<th>26</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>32</th>
+<th>177</th>
+<th>6018</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
@@ -10559,23 +9824,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td colspan="2">Элективные курсы</td>
 <td>3</td>
 <td>4</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>3</td>
-<td>4</td>
-<td>7</td>
-<td>23</td>
-<td>782</td>
+<td>2</td>
+<td>13</td>
+<td>442</td>
 </tr>
 <tr>
 <td colspan="2">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
@@ -10603,7 +9868,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи*</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -10614,7 +9879,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td colspan="2">Обязательные индивидуальные и групповые коррекционные занятия**</td>
+<td colspan="2">Обязательные индивидуальные и групповые коррекционные занятия</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -10626,9 +9891,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="10">
-Примечание:
-* На коррекцию недостатков развития речи на одного ученика отводится 0,2 часа учебного времени в неделю.
-** На коррекционные занятия на одного ученика отводится 0,25 часа в неделю. Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+Примечания. *индивидуальные, подгрупповые занятия с логопедом.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+По усмотрению организации образования могут выбрать курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
@@ -10657,16 +9922,16 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="10">Инвариантный компонент</th>
 </tr>
 <tr>
-<td></td>
-<td>Язык и литература</td>
-<td>9</td>
-<td>8</td>
-<td>8</td>
-<td>7</td>
-<td>7</td>
-<td>6</td>
-<td>45</td>
-<td>1530</td>
+<th></th>
+<th>Язык и литература</th>
+<th>9</th>
+<th>8</th>
+<th>8</th>
+<th>7</th>
+<th>7</th>
+<th>6</th>
+<th>45</th>
+<th>1530</th>
 </tr>
 <tr>
 <td>1</td>
@@ -10694,7 +9959,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>3</td>
-<td>Русскийязык</td>
+<td>Русский язык</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -10705,16 +9970,16 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td></td>
-<td>Математика и информатика</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>33</td>
-<td>1122</td>
+<th></th>
+<th>Математика и информатика</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>6</th>
+<th>6</th>
+<th>6</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>4</td>
@@ -10741,28 +10006,28 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>102</td>
 </tr>
 <tr>
-<td></td>
-<td>Естествознание</td>
-<td>3</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>-</td>
-<td>19</td>
-<td>646</td>
+<th></th>
+<th>Естествознание</th>
+<th>2</th>
+<th>4</th>
+<th>4</th>
+<th>4</th>
+<th>4</th>
+<th>-</th>
+<th>18</th>
+<th>612</th>
 </tr>
 <tr>
 <td>6</td>
-<td>Мирвокруг</td>
-<td>3</td>
+<td>Мир вокруг</td>
+<td>2</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>3</td>
-<td>102</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
 <td>7</td>
@@ -10789,16 +10054,16 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>272</td>
 </tr>
 <tr>
-<td></td>
-<td>Человек и общество</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>4</td>
-<td>4</td>
-<td>1</td>
-<td>13</td>
-<td>442</td>
+<th></th>
+<th>Человек и общество</th>
+<th></th>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>1</th>
+<th>7</th>
+<th>238</th>
 </tr>
 <tr>
 <td>9</td>
@@ -10806,11 +10071,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>-</td>
 <td>1</td>
-<td>2</td>
+<td>1</td>
 <td>2</td>
 <td>-</td>
-<td>5</td>
-<td>170</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
 <td>10</td>
@@ -10825,32 +10090,20 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>102</td>
 </tr>
 <tr>
-<td>11</td>
-<td>Культура поведения</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>-</td>
-<td>5</td>
-<td>170</td>
+<th></th>
+<th>Технология и искусство</th>
+<th>10</th>
+<th>10</th>
+<th>10</th>
+<th>10</th>
+<th>11</th>
+<th>20</th>
+<th>71</th>
+<th>2414</th>
 </tr>
 <tr>
-<td></td>
-<td>Технология и искусство</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
 <td>11</td>
-<td>20</td>
-<td>71</td>
-<td>2414</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Изобразительноискусство</td>
+<td>Изобразительное искусство</td>
 <td>1</td>
 <td>1</td>
 <td>-</td>
@@ -10861,7 +10114,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>13</td>
+<td>12</td>
 <td>Музыка</td>
 <td>1</td>
 <td>1</td>
@@ -10873,8 +10126,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>14</td>
-<td>Социально-бытоваяориентировка</td>
+<td>13</td>
+<td>Социально-бытовая ориентировка</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -10885,7 +10138,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>340</td>
 </tr>
 <tr>
-<td>15</td>
+<td>14</td>
 <td>Общетрудовая подготовка</td>
 <td>6</td>
 <td>6</td>
@@ -10897,8 +10150,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td>16</td>
-<td>Профессионально-трудовоеобучение</td>
+<td>15</td>
+<td>Профессионально-трудовое обучение</td>
 <td>-</td>
 <td>-</td>
 <td>8</td>
@@ -10909,19 +10162,19 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1530</td>
 </tr>
 <tr>
-<td></td>
-<td>Физическаякультура</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>18</td>
-<td>612</td>
+<th></th>
+<th>Физическая культура</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>18</th>
+<th>612</th>
 </tr>
 <tr>
-<td>17</td>
+<td>16</td>
 <td>Адаптивная физическая культура</td>
 <td>3</td>
 <td>3</td>
@@ -10933,57 +10186,32 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>31</td>
-<td>31</td>
-<td>32</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>199</td>
-<td>6766</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>34</th>
+<th>36</th>
+<th>192</th>
+<th>6528</th>
 </tr>
 <tr>
-<td colspan="10">Вариативный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Элективные курсы</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>13</td>
-<td>442</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
-</tr>
-<tr>
-<td colspan="10">Коррекционный компонент</td>
+<th colspan="10">Коррекционный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Коррекционная учебная нагрузка</td>
-<td>5</td>
+<td>4</td>
 <td>4</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
 <td>-</td>
-<td>12</td>
-<td>408</td>
+<td>11</td>
+<td>374</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи *</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>2</td>
 <td>2</td>
 <td>-</td>
@@ -11016,18 +10244,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<td colspan="2">Индивидуальные и групповые занятия активно-двигательного характера</td>
-<td>1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>34</td>
-</tr>
-<tr>
-<td colspan="2">Трудоваяпрактика (в днях)</td>
+<td colspan="2">Трудовая практика (в днях)</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -11039,21 +10256,21 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="10">
-Не требуется выполнение ГОСО обучающимися с умственной отсталостью.
-*На коррекцию недостатков развития речи на одного ученика отводится 0,3 часа учебного времени в неделю.
-Приналичииусловийоткрывается 10 классуглубленнойпрофессиональнойподготовки.
+Примечания.
+Не требуется выполнение ГОСО обучающимися с умственной отсталостью. *индивидуальные, подгрупповые занятия с логопедом.
+По усмотрению организации образования могут выбрать курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<th colspan="10">Глава 8. С умеренной умственной отсталостью</th>
+<th colspan="11">Глава 8. С умеренной умственной отсталостью</th>
 </tr>
 <tr>
 <th colspan="2" rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Недельное количество часов по классам</th>
+<th colspan="6">Недельное количество часов по классам</th>
 <th colspan="2">Нагрузка, часы</th>
 </tr>
 <tr>
@@ -11062,22 +10279,24 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>7</th>
 <th>8</th>
 <th>9</th>
+<th>10</th>
 <th>Недельная</th>
 <th>Годовая</th>
 </tr>
 <tr>
-<th colspan="10">Инвариантныйкомпонент</th>
+<th colspan="11">Инвариантный компонент</th>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Язык и литература</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>30</td>
-<td>1020</td>
+<th></th>
+<th colspan="2">Язык и литература</th>
+<th>6</th>
+<th>6</th>
+<th>6</th>
+<th>6</th>
+<th>6</th>
+<th>6</th>
+<th>36</th>
+<th>1224</th>
 </tr>
 <tr>
 <td>1</td>
@@ -11087,19 +10306,21 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>6</td>
 <td>6</td>
 <td>6</td>
-<td>30</td>
-<td>1020</td>
+<td>6</td>
+<td>36</td>
+<td>1224</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Математика</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>25</td>
-<td>850</td>
+<th></th>
+<th colspan="2">Математика</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>30</th>
+<th>1020</th>
 </tr>
 <tr>
 <td>2</td>
@@ -11109,192 +10330,175 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>5</td>
 <td>5</td>
 <td>5</td>
-<td>25</td>
-<td>850</td>
+<td>5</td>
+<td>30</td>
+<td>1020</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Естествознание</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>15</td>
-<td>510</td>
+<th></th>
+<th colspan="2">Естествознание</th>
+<th>1</th>
+<th>1</th>
+<th>2</th>
+<th>2</th>
+<th>3</th>
+<th>3</th>
+<th>12</th>
+<th>408</th>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2">Мирвокруг</td>
-<td>2</td>
+<td colspan="2">Мир вокруг</td>
+<td>1</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>2</td>
-<td>68</td>
+<td>-</td>
+<td>1</td>
+<td>34</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2">Человек и мир</td>
 <td>-</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
 <td>3</td>
 <td>3</td>
-<td>3</td>
-<td>4</td>
-<td>13</td>
-<td>442</td>
+<td>11</td>
+<td>374</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Человек и общество</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>6</td>
-<td>204</td>
+<th></th>
+<th colspan="2">Технология и искусство</th>
+<th>14</th>
+<th>15</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>17</th>
+<th>94</th>
+<th>3196</th>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2">Культураповедения</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Технология и искусство</td>
-<td>14</td>
-<td>15</td>
-<td>16</td>
-<td>18</td>
-<td>19</td>
-<td>82</td>
-<td>2788</td>
-</tr>
-<tr>
-<td>6</td>
 <td colspan="2">Изобразительное искусство</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>10</td>
-<td>340</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
-<td>7</td>
+<td>6</td>
 <td colspan="2">Музыка и ритмика</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td>10</td>
-<td>340</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2">Социально-бытовая ориентировка</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>18</td>
+<td>612</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2">Социально-бытоваяориентировка</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>15</td>
-<td>510</td>
-</tr>
-<tr>
-<td>9</td>
 <td colspan="2">Хозяйственный труд</td>
 <td>2</td>
 <td>2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>14</td>
-<td>476</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
-<td>10</td>
+<td>9</td>
 <td colspan="2">Ремесло</td>
 <td>5</td>
 <td>6</td>
 <td>6</td>
+<td>7</td>
 <td>8</td>
 <td>8</td>
-<td>33</td>
-<td>1122</td>
+<td>40</td>
+<td>1360</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Физическаякультура</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>15</td>
-<td>510</td>
+<th></th>
+<th colspan="2">Физическая культура</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>18</th>
+<th>612</th>
 </tr>
 <tr>
-<td>11</td>
+<td>10</td>
 <td colspan="2">Адаптивная физическая культура</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
-<td>15</td>
-<td>510</td>
+<td>3</td>
+<td>18</td>
+<td>612</td>
 </tr>
 <tr>
-<td colspan="3">Инвариантная учебная нагрузка</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>36</td>
-<td>38</td>
-<td>173</td>
-<td>5882</td>
+<th colspan="3">Инвариантная учебная нагрузка</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>34</th>
+<th>34</th>
+<th>190</th>
+<th>5304</th>
 </tr>
 <tr>
-<td colspan="3">Объеммаксимальной учебной нагрузки</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>36</td>
-<td>38</td>
-<td>173</td>
-<td>5882</td>
-</tr>
-<tr>
-<td colspan="10">Коррекционный компонент</td>
+<td colspan="11">Коррекционный компонент</td>
 </tr>
 <tr>
 <td colspan="3">Коррекционная учебная нагрузки</td>
-<td>7</td>
-<td>4</td>
-<td>4</td>
+<td>6</td>
+<td>3</td>
+<td>3</td>
 <td>1</td>
 <td>1</td>
-<td>17</td>
-<td>578</td>
+<td></td>
+<td>14</td>
+<td>476</td>
 </tr>
 <tr>
-<td colspan="3">Коррекция недостатков развития речи*</td>
+<td colspan="3">*Коррекция недостатков развития речи</td>
 <td>4</td>
 <td>2</td>
 <td>2</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>8</td>
 <td>272</td>
 </tr>
@@ -11305,18 +10509,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>1</td>
+<td></td>
 <td>6</td>
 <td>204</td>
-</tr>
-<tr>
-<td colspan="3">Индивидуальные и групповые занятия активно-двигательного характера</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>-</td>
-<td>-</td>
-<td>3</td>
-<td>102</td>
 </tr>
 <tr>
 <td colspan="3">Трудовая практика (в днях)</td>
@@ -11326,610 +10521,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>10</td>
 <td>10</td>
-<td>10</td>
+<td>20</td>
+<td>20</td>
 </tr>
 <tr>
-<td colspan="10">
-Примечание:
-Не требуется выполнение ГОСО обучающимися с умственной отсталостью.
-*На коррекцию недостатков развития речи в 5 классе на одного ученика отводится 0,5 часа; в 6 и 7 классах - 0, 25 часа учебного времени в неделю.
+<td colspan="11">
+Примечания. Не требуется выполнение ГОСО обучающимися с умственной отсталостью. * индивидуальные, подгрупповые занятия с логопедом.
 Рабочий учебный план обучения обучающихся со сложными нарушениями (нарушение зрения и умственная отсталость, нарушения слуха и умственная отсталость, нарушение опорно-двигательного аппарата и умственная отсталость) составляется на основе Типового учебного плана для обучающихся с умственной отсталостью с включением коррекционного компонента, соответствующего второму виду нарушения развития обучающихся.
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="8">Глава 9. Типовой учебный план основного среднего индивидуального бесплатного обучения на дому с казахским языком обучения (по специальным учебнымпрограммам)</th>
-</tr>
-<tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Образовательные области и учебные предметы</td>
-<td colspan="6">Недельное количество часов по классам</td>
-</tr>
-<tr>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-</tr>
-<tr>
-<th colspan="8">Инвариантныйкомпонент</th>
-</tr>
-<tr>
-<td></td>
-<td>Язык и литература</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Казахский язык</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Казахская литература</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Русский язык и литература</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Английский язык</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>Математика и информатика</td>
-<td>4</td>
-<td>4</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Математика</td>
-<td>4</td>
-<td>4</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Алгебра</td>
-<td>-</td>
-<td>-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Геометрия</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>9</td>
-<td>География</td>
-<td>-</td>
-<td>-</td>
-<td>0.5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Биология</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Физика</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Химия</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Человек и общество</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>13</td>
-<td>История Казахстана</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Всемирная история</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="8">
-Примечание:
-Допускается перераспределение часов между предметами и посещение отдельных уроков в школе.
-При необходимости коррекционная помощь оказывается в кабинете психолого-педагогической коррекции и в реабилитационном центре в установленном порядке.
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="7">Глава 10. С легкой умственной отсталостью</th>
-</tr>
-<tr>
-<th>№</th>
-<th>Образовательные области и учебные предметы</th>
-<th colspan="5">Недельное количество часов по классам</th>
-</tr>
-<tr>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-</tr>
-<tr>
-<th colspan="7">Инвариантный компонент</th>
-</tr>
-<tr>
-<td></td>
-<td>Язык и литература</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Казахский язык</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Чтение и развитие речи</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Русский язык</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Мирвокруг</td>
-<td>1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Естествознание</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>7</td>
-<td>География</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Человек и общество</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>8</td>
-<td>История Казахстана</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Технология и искусство</td>
-<td>1</td>
-<td>1</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Социально-бытоваяориентировка</td>
-<td>1</td>
-<td>1</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебнаянагрузка</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="7">Коррекционный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Коррекционная учебная нагрузки</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">Коррекция познавательной деятельности и недостатков речи</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="7">
-Не требуется выполнение ГОСО обучающимися с умственной отсталостью.
-Допускается перераспределение часов между предметами и посещение отдельных уроков в школе.
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="7">Глава 11. С умеренной умственной отсталостью</th>
-</tr>
-<tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Образовательные области и учебные предметы</td>
-<td colspan="5">Недельное количество часов по классам</td>
-</tr>
-<tr>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-</tr>
-<tr>
-<td colspan="7">Инвариантный компонент</td>
-</tr>
-<tr>
-<td></td>
-<td>Язык и литература</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Чтение, письмо и развитие речи</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Счет</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Естествознание</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Мирвокруг</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td>Человек и общество</td>
-<td>-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Человек и мир</td>
-<td>-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Технология и искусство</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Изобразительное искусство</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Хозяйственный труд</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Социально-бытовая ориентировка</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-</tr>
-<tr>
-<td colspan="7">Коррекционный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Коррекционная учебная нагрузка</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">Развитие психомоторики и сенсорных процессов</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="7">
-Примечание: Не требуется выполнение ГОСО обучающимися с умственной отсталостью.
-Допускается перераспределение часов между предметами и посещение отдельных уроков в школе.
+По усмотрению организации образования могут выбрать курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
 
 > *Приложение 10*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) основного среднего образования для обучающихся с особыми образовательными потребностями с русским языком обучения
 
-> *Сноска. Приказ дополнен приложением в соответствии с приказом Министра образования и науки РК от 30.03.2016 № 233 (порядок введения в действие см. п. 4); в редакции приказов и.о. Министра образования и науки РК от 24.11.2017 № 592 (вводится в действие с 01.09.2018 года для 3 классов, с 01.09.2019 для 4 классов); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением в соответствии с приказом Министра образования и науки РК от 30.03.2016 № 233 (порядок введения в действие см. п. 4); в редакции приказов и.о. Министра образования и науки РК от 24.11.2017 № 592 (вводится в действие с 01.09.2018 года для 3 классов, с 01.09.2019 для 4 классов); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -11957,14 +10568,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>9</th>
-<th>74</th>
-<th>2516</th>
+<th>11</th>
+<th>11</th>
+<th>10</th>
+<th>10</th>
+<th>10</th>
+<th>8</th>
+<th>60</th>
+<th>2040</th>
 </tr>
 <tr>
 <td>1</td>
@@ -11993,26 +10604,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Казахский язык и литература</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>4</td>
-<td>29</td>
-<td>986</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>20</td>
+<td>680</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
@@ -12077,26 +10688,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
@@ -12279,15 +10890,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>31</td>
-<td>31</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>34</td>
-<td>201</td>
-<td>6834</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>28</th>
+<th>28</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>33</th>
+<th>185</th>
+<th>6290</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
@@ -12297,22 +10908,22 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>2</td>
 <td>-</td>
+<td>-</td>
 <td>1</td>
-<td>2</td>
+<td>1</td>
 <td>5</td>
-<td>11</td>
-<td>374</td>
+<td>170</td>
 </tr>
 <tr>
 <td colspan="2">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
@@ -12329,7 +10940,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1972</td>
 </tr>
 <tr>
-<td colspan="2">Формирование произношения и развитие слухового восприятия *</td>
+<td colspan="2">Формирование произношения и развитие слухового восприятия (индивидуальные и подгрупповые занятия)</td>
 <td>16</td>
 <td>16</td>
 <td>4</td>
@@ -12340,7 +10951,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1564</td>
 </tr>
 <tr>
-<td colspan="2">Жестовая речь</td>
+<td colspan="2">Жестовый язык</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -12363,9 +10974,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="10">
-Примечание:
-* По формированию произношения и развитию слухового восприятия на индивидуальные и групповые занятия на одного ученика 5-6 класс - 2 часа, 7-9 класс – 0,5 часа, 10 класс - 0, 25 часа в неделю.
+Примечание.
 Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+По усмотрению организации образования может быть выбран курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
@@ -12396,14 +11007,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>9</th>
-<th>74</th>
-<th>2516</th>
+<th>11</th>
+<th>11</th>
+<th>10</th>
+<th>10</th>
+<th>10</th>
+<th>8</th>
+<th>60</th>
+<th>2040</th>
 </tr>
 <tr>
 <td>1</td>
@@ -12432,26 +11043,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Казахский язык и литература</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
 <td>4</td>
-<td>29</td>
-<td>986</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>20</td>
+<td>680</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
@@ -12516,26 +11127,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
@@ -12718,15 +11329,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>31</td>
-<td>31</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>34</td>
-<td>201</td>
-<td>6834</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>28</th>
+<th>28</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>33</th>
+<th>185</th>
+<th>6290</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
@@ -12736,22 +11347,22 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>2</td>
 <td>-</td>
+<td>-</td>
 <td>1</td>
-<td>2</td>
+<td>1</td>
 <td>5</td>
-<td>11</td>
-<td>374</td>
+<td>170</td>
 </tr>
 <tr>
 <td colspan="2">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
@@ -12768,7 +11379,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1598</td>
 </tr>
 <tr>
-<td colspan="2">Формирование произношения и развитие слухового восприятия*</td>
+<td colspan="2">Формирование произношения и развитие слухового восприятия (индивидуальные и подгрупповые занятия)</td>
 <td>16</td>
 <td>16</td>
 <td>4</td>
@@ -12791,9 +11402,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="10">
-Примечание:
-* По формированию произношения и развития слухового восприятия на индивидуальные и групповые занятия на одного ученика 5-6 класс - 1,6 часа, 7 - 8 класс – 0,4 часа, 9-10 классы – 0,2 часа в неделю.
+Примечание.
 Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+По усмотрению организации образования может быть выбран курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
@@ -12824,14 +11435,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>9</th>
-<th>74</th>
-<th>2516</th>
+<th>11</th>
+<th>11</th>
+<th>10</th>
+<th>10</th>
+<th>10</th>
+<th>8</th>
+<th>60</th>
+<th>2040</th>
 </tr>
 <tr>
 <td>1</td>
@@ -12860,26 +11471,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Казахский язык и литература</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
 <td>4</td>
-<td>29</td>
-<td>986</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>20</td>
+<td>680</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
@@ -12944,26 +11555,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
@@ -13146,15 +11757,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>31</td>
-<td>31</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>34</td>
-<td>201</td>
-<td>6834</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>28</th>
+<th>28</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>33</th>
+<th>185</th>
+<th>6290</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
@@ -13164,50 +11775,39 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>2</td>
 <td>-</td>
+<td>-</td>
 <td>1</td>
-<td>2</td>
+<td>1</td>
 <td>5</td>
-<td>11</td>
-<td>374</td>
+<td>170</td>
 </tr>
 <tr>
 <td colspan="2">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Коррекционная учебная нагрузка</td>
-<td>10</td>
-<td>10</td>
+<td>8</td>
+<td>8</td>
 <td>5</td>
 <td>5</td>
 <td>5</td>
 <td>5</td>
-<td>40</td>
-<td>1360</td>
+<td>36</td>
+<td>1224</td>
 </tr>
 <tr>
-<td colspan="2">Лечебная физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td colspan="2">Охрана и развитие остаточного зрения *</td>
+<td colspan="2">Охрана и развитие остаточного зрения (групповые, подгрупповые занятия)</td>
 <td>1</td>
 <td>1</td>
 <td>-</td>
@@ -13229,7 +11829,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td colspan="2">Пространственная ориентировка**</td>
+<td colspan="2">Пространственная ориентировка (подгрупповые, индивидуальные занятия)</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -13240,7 +11840,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Развитие мимики и пантомимики</td>
+<td colspan="2">
+Развитие мимики и пантомимики
+(групповые, подгрупповые занятия)
+</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -13251,7 +11854,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи***</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>2</td>
 <td>2</td>
 <td>-</td>
@@ -13264,9 +11867,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td colspan="10">
 Примечание:
-* По развитию остаточного зрения на индивидуальные занятия на одного ученика отводится - 0,1 часа учебного времени в неделю.
-** Попространственной ориентировки на индивидуальные занятия на одного ученика отводится 0,3 часа учебного времени в неделю.
-*** По коррекции недостатков развития речи на индивидуальные занятия на одного ученика - 0,2 часа учебного времени в неделю.
+*индивидуальные, групповые занятия с логопедом.
+По усмотрению организации образования может быть выбран курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
@@ -13297,14 +11899,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>9</th>
-<th>74</th>
-<th>2516</th>
+<th>11</th>
+<th>11</th>
+<th>10</th>
+<th>10</th>
+<th>10</th>
+<th>8</th>
+<th>60</th>
+<th>2040</th>
 </tr>
 <tr>
 <td>1</td>
@@ -13333,26 +11935,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Казахская язык и литература</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
 <td>4</td>
-<td>29</td>
-<td>986</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>20</td>
+<td>680</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
@@ -13417,26 +12019,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
@@ -13619,15 +12221,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>31</td>
-<td>31</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>34</td>
-<td>201</td>
-<td>6834</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>28</th>
+<th>28</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>33</th>
+<th>185</th>
+<th>6290</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
@@ -13637,22 +12239,22 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>2</td>
 <td>-</td>
+<td>-</td>
 <td>1</td>
-<td>2</td>
+<td>1</td>
 <td>5</td>
-<td>11</td>
-<td>374</td>
+<td>170</td>
 </tr>
 <tr>
 <td colspan="2">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
@@ -13680,7 +12282,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td colspan="2">Лечебная физическая культура*</td>
+<td colspan="2">Лечебная физическая культура (индивидуальные, подгрупповые занятия)</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -13691,7 +12293,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Обязательные индивидуальные и групповые коррекционные занятия**</td>
+<td colspan="2">Обязательные индивидуальные и групповые коррекционные занятия</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -13703,25 +12305,25 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="10">
-Примечание: * По лечебной физической культуре на одного ученика отводится 0,25 часа учебного времени в неделю.
-**Индивидуальные коррекционные занятия на одного ученика отводится 0,25 часа в неделю.
-Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся. Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+Примечания. Снижение часовой нагрузки уроков физической культуры допускается с учетом особенностей психофизического состояния обучающихся.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+По усмотрению организации образования может быть выбран курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<th colspan="11">Глава 5. С тяжелыми нарушениями речи</th>
+<th colspan="12">Глава 5. С тяжелыми нарушениями речи</th>
 </tr>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="7">Недельное количество часов по классам</th>
+<th colspan="8">Недельное количество часов по классам</th>
 <th colspan="2">Нагрузка, часы</th>
 </tr>
 <tr>
-<th colspan="2">5</th>
+<th colspan="3">5</th>
 <th>6</th>
 <th>7</th>
 <th>8</th>
@@ -13731,23 +12333,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="11">Инвариантный компонент</th>
+<th colspan="12">Инвариантный компонент</th>
 </tr>
 <tr>
 <th></th>
-<th>Язык и литература</th>
-<th colspan="2">13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>9</th>
-<th>74</th>
-<th>2516</th>
+<th colspan="2">Язык и литература</th>
+<th colspan="2">11</th>
+<th>11</th>
+<th>10</th>
+<th>10</th>
+<th>10</th>
+<th>8</th>
+<th>60</th>
+<th>2040</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Русский язык</td>
+<td colspan="2">Русский язык</td>
 <td colspan="2">3</td>
 <td>3</td>
 <td>3</td>
@@ -13759,7 +12361,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>2</td>
-<td>Русская литература</td>
+<td colspan="2">Русская литература</td>
 <td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
@@ -13771,31 +12373,31 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>3</td>
-<td>Казахский язык и литература</td>
-<td colspan="2">5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
+<td colspan="2">Казахский язык и литература</td>
+<td colspan="2">4</td>
 <td>4</td>
-<td>29</td>
-<td>986</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>20</td>
+<td>680</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Иностранный язык</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
+<td colspan="2">Иностранный язык</td>
+<td colspan="2">2</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
-<th>Математика и информатика</th>
+<th colspan="2">Математика и информатика</th>
 <th colspan="2">6</th>
 <th>6</th>
 <th>6</th>
@@ -13807,7 +12409,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>5</td>
-<td>Математика</td>
+<td colspan="2">Математика</td>
 <td colspan="2">5</td>
 <td>5</td>
 <td>-</td>
@@ -13819,7 +12421,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>6</td>
-<td>Алгебра</td>
+<td colspan="2">Алгебра</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>3</td>
@@ -13831,7 +12433,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>7</td>
-<td>Геометрия</td>
+<td colspan="2">Геометрия</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>2</td>
@@ -13843,7 +12445,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>8</td>
-<td>Информатика</td>
+<td colspan="2">Информатика</td>
 <td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
@@ -13855,31 +12457,31 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th></th>
-<th>Естествознание</th>
-<th colspan="2">2</th>
-<th>2</th>
+<th colspan="2">Естествознание</th>
+<th colspan="2">1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
-<td>Естествознание</td>
-<td colspan="2">2</td>
+<td colspan="2">Естествознание</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
-<td>География</td>
+<td colspan="2">География</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>2</td>
@@ -13891,7 +12493,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>11</td>
-<td>Биология</td>
+<td colspan="2">Биология</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>2</td>
@@ -13903,7 +12505,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>12</td>
-<td>Физика</td>
+<td colspan="2">Физика</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>2</td>
@@ -13915,7 +12517,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>13</td>
-<td>Химия</td>
+<td colspan="2">Химия</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>1</td>
@@ -13927,7 +12529,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th></th>
-<th>Человек и общество</th>
+<th colspan="2">Человек и общество</th>
 <th colspan="2">4</th>
 <th>4</th>
 <th>4</th>
@@ -13939,7 +12541,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>14</td>
-<td>История Казахстана</td>
+<td colspan="2">История Казахстана</td>
 <td colspan="2">2</td>
 <td>2</td>
 <td>2</td>
@@ -13951,7 +12553,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>15</td>
-<td>Всемирная история</td>
+<td colspan="2">Всемирная история</td>
 <td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
@@ -13963,7 +12565,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>16</td>
-<td>Основы права</td>
+<td colspan="2">Основы права</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
@@ -13975,7 +12577,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>17</td>
-<td>Самопознание</td>
+<td colspan="2">Самопознание</td>
 <td colspan="2">1</td>
 <td>1</td>
 <td>1</td>
@@ -13987,7 +12589,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th></th>
-<th>Технология и искусство</th>
+<th colspan="2">Технология и искусство</th>
 <th colspan="2">3</th>
 <th>3</th>
 <th>1</th>
@@ -13999,7 +12601,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>18</td>
-<td>Музыка</td>
+<td colspan="2">Музыка</td>
 <td colspan="2">1</td>
 <td>1</td>
 <td>-</td>
@@ -14011,7 +12613,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>19</td>
-<td>Художественный труд</td>
+<td colspan="2">Художественный труд</td>
 <td colspan="2">2</td>
 <td>2</td>
 <td>-</td>
@@ -14023,7 +12625,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>20</td>
-<td>Технология</td>
+<td colspan="2">Технология</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>1</td>
@@ -14035,7 +12637,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th></th>
-<th>Физическая культура</th>
+<th colspan="2">Физическая культура</th>
 <th colspan="2">3</th>
 <th>3</th>
 <th>3</th>
@@ -14047,7 +12649,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>21</td>
-<td>Адаптивная физическая культура</td>
+<td colspan="2">Адаптивная физическая культура</td>
 <td colspan="2">3</td>
 <td>3</td>
 <td>3</td>
@@ -14058,46 +12660,46 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td colspan="2">31</td>
-<td>31</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>34</td>
-<td>201</td>
-<td>6834</td>
+<th colspan="3">Инвариантная учебная нагрузка</th>
+<th colspan="2">28</th>
+<th>28</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>33</th>
+<th>185</th>
+<th>6290</th>
 </tr>
 <tr>
-<th colspan="11">Вариативный компонент</th>
+<th colspan="12">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="3">Элективные курсы</td>
+<td colspan="4">Элективные курсы</td>
 <td>1</td>
 <td>2</td>
 <td>-</td>
+<td>-</td>
 <td>1</td>
-<td>2</td>
+<td>1</td>
 <td>5</td>
-<td>11</td>
-<td>374</td>
+<td>170</td>
 </tr>
 <tr>
-<td colspan="3">Объем максимальной учебной нагрузки</td>
+<td colspan="4">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
-<th colspan="11">Коррекционный компонент</th>
+<th colspan="12">Коррекционный компонент</th>
 </tr>
 <tr>
-<td colspan="3">Коррекционная учебная нагрузка</td>
+<td colspan="4">Коррекционная учебная нагрузка</td>
 <td>8</td>
 <td>8</td>
 <td>6</td>
@@ -14108,7 +12710,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1224</td>
 </tr>
 <tr>
-<td colspan="3">Коррекция недостатков развития речи *</td>
+<td colspan="4">*Коррекция недостатков развития речи</td>
 <td>8</td>
 <td>8</td>
 <td>6</td>
@@ -14119,9 +12721,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1224</td>
 </tr>
 <tr>
-<td colspan="11">
-Примечание:*На коррекцию недостатков развития речи отводится в 5-6 классы на одного ученика - 0,6 часа, 7-8 классы - 0,5 часа, 9-10 классы - 0,3 часа в неделю.
-Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+<td colspan="12">
+Примечания.
+*индивидуальные, подгрупповые занятия с логопедом.
+Изучение второго и третьего языков с учетом уровня речевого развития обучающихся
+По усмотрению организации образования может быть выбран курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
@@ -14152,14 +12756,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Язык и литература</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>13</th>
-<th>9</th>
-<th>74</th>
-<th>2516</th>
+<th>11</th>
+<th>11</th>
+<th>10</th>
+<th>10</th>
+<th>10</th>
+<th>8</th>
+<th>60</th>
+<th>2040</th>
 </tr>
 <tr>
 <td>1</td>
@@ -14188,26 +12792,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Казахский язык и литература</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
 <td>4</td>
-<td>29</td>
-<td>986</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>20</td>
+<td>680</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
 <td>2</td>
-<td>17</td>
-<td>578</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
 </tr>
 <tr>
 <th></th>
@@ -14272,26 +12876,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Естествознание</th>
-<th>2</th>
-<th>2</th>
+<th>1</th>
+<th>1</th>
 <th>7</th>
 <th>8</th>
 <th>8</th>
 <th>8</th>
-<th>35</th>
-<th>1190</th>
+<th>33</th>
+<th>1122</th>
 </tr>
 <tr>
 <td>9</td>
 <td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <td>10</td>
@@ -14474,15 +13078,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>31</td>
-<td>31</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>34</td>
-<td>201</td>
-<td>6834</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>28</th>
+<th>28</th>
+<th>31</th>
+<th>32</th>
+<th>33</th>
+<th>33</th>
+<th>185</th>
+<th>6290</th>
 </tr>
 <tr>
 <th colspan="10">Вариативный компонент</th>
@@ -14492,22 +13096,22 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>2</td>
 <td>-</td>
+<td>-</td>
 <td>1</td>
-<td>2</td>
+<td>1</td>
 <td>5</td>
-<td>11</td>
-<td>374</td>
+<td>170</td>
 </tr>
 <tr>
 <td colspan="2">Объем максимальной учебной нагрузки</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
 <td>32</td>
-<td>33</td>
 <td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<td>34</td>
+<td>190</td>
+<td>6460</td>
 </tr>
 <tr>
 <th colspan="10">Коррекционный компонент</th>
@@ -14535,7 +13139,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи*</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -14546,7 +13150,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td colspan="2">Обязательные индивидуальные и групповые коррекционные занятия**</td>
+<td colspan="2">Индивидуальные и подгрупповые занятия по восполнению пробелов в знаниях</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -14558,10 +13162,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="10">
-Примечание:
-*На коррекцию недостатков развития речи на одного ученика - 0,2 часа учебного времени в неделю.
-**Коррекционные занятия на одного ученика - 0,25 часа в неделю.
-Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+Примечания. * индивидуальные, подгрупповые занятия с логопедом Изучение второго и третьего языков с учетом уровня речевого развития обучающихся.
+По усмотрению организации образования может быть выбран курс «Глобальные компетенции»
 </td>
 </tr>
 </table>
@@ -14587,7 +13189,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>Годовая</td>
 </tr>
 <tr>
-<th colspan="10">Инвариантныйкомпонент</th>
+<th colspan="10">Инвариантный компонент</th>
 </tr>
 <tr>
 <th></th>
@@ -14603,7 +13205,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>1</td>
-<td>Русскийязык</td>
+<td>Русский язык</td>
 <td>4</td>
 <td>3</td>
 <td>3</td>
@@ -14615,7 +13217,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>2</td>
-<td>Чтение и развитиеречи</td>
+<td>Чтение и развитие речи</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -14627,7 +13229,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>3</td>
-<td>Казахскийязык</td>
+<td>Казахский язык</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -14676,26 +13278,26 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td></td>
 <td>Естествознание</td>
-<td>3</td>
+<td>2</td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
 <td>-</td>
-<td>19</td>
-<td>646</td>
+<td>18</td>
+<td>612</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Мирвокруг</td>
-<td>3</td>
+<td>Мир вокруг</td>
+<td>2</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>3</td>
-<td>102</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
 <td>7</td>
@@ -14722,16 +13324,16 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>272</td>
 </tr>
 <tr>
-<td></td>
-<td>Человек и общество</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>4</td>
-<td>4</td>
-<td>1</td>
-<td>13</td>
-<td>442</td>
+<th></th>
+<th>Человек и общество</th>
+<th></th>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>1</th>
+<th>7</th>
+<th>238</th>
 </tr>
 <tr>
 <td>9</td>
@@ -14739,11 +13341,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>-</td>
 <td>1</td>
-<td>2</td>
+<td>1</td>
 <td>2</td>
 <td>-</td>
-<td>5</td>
-<td>170</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
 <td>10</td>
@@ -14758,18 +13360,6 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>102</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Культура поведения</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>-</td>
-<td>5</td>
-<td>170</td>
-</tr>
-<tr>
 <th></th>
 <th>Технология и искусство</th>
 <th>10</th>
@@ -14782,7 +13372,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>2414</th>
 </tr>
 <tr>
-<td>12</td>
+<td>11</td>
 <td>Изобразительное искусство</td>
 <td>1</td>
 <td>1</td>
@@ -14794,7 +13384,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>13</td>
+<td>12</td>
 <td>Музыка</td>
 <td>1</td>
 <td>1</td>
@@ -14806,8 +13396,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>14</td>
-<td>Социально-бытоваяориентировка</td>
+<td>13</td>
+<td>Социально-бытовая ориентировка</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -14818,8 +13408,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>340</td>
 </tr>
 <tr>
-<td>15</td>
-<td>Общетрудоваяподготовка</td>
+<td>14</td>
+<td>Общетрудовая подготовка</td>
 <td>6</td>
 <td>6</td>
 <td>-</td>
@@ -14830,8 +13420,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td>16</td>
-<td>Профессионально-трудовоеобучение</td>
+<td>15</td>
+<td>Профессионально-трудовое обучение</td>
 <td>-</td>
 <td>-</td>
 <td>8</td>
@@ -14843,7 +13433,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th></th>
-<th>Физическаякультура</th>
+<th>Физическая культура</th>
 <th>3</th>
 <th>3</th>
 <th>3</th>
@@ -14854,7 +13444,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>612</th>
 </tr>
 <tr>
-<td>17</td>
+<td>16</td>
 <td>Адаптивная физическая культура</td>
 <td>3</td>
 <td>3</td>
@@ -14866,40 +13456,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>612</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>31</td>
-<td>31</td>
-<td>32</td>
-<td>34</td>
-<td>35</td>
-<td>36</td>
-<td>199</td>
-<td>6766</td>
-</tr>
-<tr>
-<td colspan="10">Вариативный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Элективные курсы</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>13</td>
-<td>442</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>36</td>
-<td>38</td>
-<td>39</td>
-<td>212</td>
-<td>7208</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>34</th>
+<th>36</th>
+<th>192</th>
+<th>6528</th>
 </tr>
 <tr>
 <td colspan="10">Коррекционный компонент</td>
@@ -14916,7 +13481,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td colspan="2">Коррекция недостатков развития речи *</td>
+<td colspan="2">*Коррекция недостатков развития речи</td>
 <td>2</td>
 <td>2</td>
 <td>-</td>
@@ -14949,7 +13514,111 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<td colspan="2">Индивидуальные и групповые занятия активно-двигательного характера</td>
+<td colspan="2">Трудовая практика (в днях)</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>10</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td colspan="10">
+Примечания.
+Не требуется выполнение ГОСО обучающимися с умственной отсталостью. *индивидуальные, подгрупповые занятия с логопедом.
+По усмотрению организации образования может быть выбран курс «Глобальные компетенции»
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="10">Глава 8. С умеренной умственной отсталостью</th>
+</tr>
+<tr>
+<th rowspan="2">№</th>
+<th rowspan="2">Образовательные области и учебные предметы</th>
+<th colspan="6">Недельное количество часов по классам</th>
+<th colspan="2">Нагрузка, часы</th>
+</tr>
+<tr>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>Недельная</th>
+<th>Годовая</th>
+</tr>
+<tr>
+<th colspan="10">Инвариантный компонент</th>
+</tr>
+<tr>
+<th></th>
+<th>Язык и литература</th>
+<th>6</th>
+<th>6</th>
+<th>6</th>
+<th>6</th>
+<th>6</th>
+<th>6</th>
+<th>36</th>
+<th>1224</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Чтение, письмо и развитие речи</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>36</td>
+<td>1224</td>
+</tr>
+<tr>
+<th></th>
+<th>Математика</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>5</th>
+<th>30</th>
+<th>1020</th>
+</tr>
+<tr>
+<td>2</td>
+<td>Счет</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>30</td>
+<td>1020</td>
+</tr>
+<tr>
+<th></th>
+<th>Естествознание</th>
+<th>1</th>
+<th>1</th>
+<th>2</th>
+<th>2</th>
+<th>3</th>
+<th>3</th>
+<th>12</th>
+<th>408</th>
+</tr>
+<tr>
+<td>3</td>
+<td>Мир вокруг</td>
 <td>1</td>
 <td>-</td>
 <td>-</td>
@@ -14958,6 +13627,161 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>1</td>
 <td>34</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Человек и мир</td>
+<td>-</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>11</td>
+<td>374</td>
+</tr>
+<tr>
+<th></th>
+<th>Технология и искусство</th>
+<th>14</th>
+<th>15</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>17</th>
+<th>94</th>
+<th>3196</th>
+</tr>
+<tr>
+<td>5</td>
+<td>Изобразительное искусство</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Музыка и ритмика</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Социально-бытовая ориентировка</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>18</td>
+<td>612</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Хозяйственный труд</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>12</td>
+<td>408</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Ремесло</td>
+<td>5</td>
+<td>6</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td>40</td>
+<td>1360</td>
+</tr>
+<tr>
+<th></th>
+<th>Физическаякультура</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>18</th>
+<th>612</th>
+</tr>
+<tr>
+<td>10</td>
+<td>Адаптивная физическая культура</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>18</td>
+<td>612</td>
+</tr>
+<tr>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>29</th>
+<th>30</th>
+<th>31</th>
+<th>32</th>
+<th>34</th>
+<th>34</th>
+<th>190</th>
+<th>6460</th>
+</tr>
+<tr>
+<td colspan="10">Коррекционный компонент</td>
+</tr>
+<tr>
+<td colspan="2">Коррекционная учебная нагрузка</td>
+<td>7</td>
+<td>4</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>17</td>
+<td>578</td>
+</tr>
+<tr>
+<td colspan="2">*Коррекция недостатков развития речи</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>8</td>
+<td>272</td>
+</tr>
+<tr>
+<td colspan="2">Развитие психомоторики и сенсорных процессов</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>6</td>
+<td>204</td>
 </tr>
 <tr>
 <td colspan="2">Трудовая практика (в днях)</td>
@@ -14972,878 +13796,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="10">
-Примечание: Не требуется выполнение ГОСО обучающимися с умственной отсталостью.
-*На коррекцию недостатков развития речи на одного ученика отводится 0,3 часа учебного времени в неделю. Приналичииусловийоткрывается 10 классуглубленнойпрофессиональнойподготовки.
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="9">Глава 8. С умеренной умственной отсталостью</th>
-</tr>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Недельное количество часов по классам</th>
-<th colspan="2">Нагрузка, часы</th>
-</tr>
-<tr>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>Недельная</th>
-<th>Годовая</th>
-</tr>
-<tr>
-<th colspan="9">Инвариантныйкомпонент</th>
-</tr>
-<tr>
-<th></th>
-<th>Язык и литература</th>
-<th>6</th>
-<th>6</th>
-<th>6</th>
-<th>6</th>
-<th>6</th>
-<th>30</th>
-<th>1020</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Чтение, письмо и развитие речи</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>30</td>
-<td>1020</td>
-</tr>
-<tr>
-<th></th>
-<th>Математика</th>
-<th>5</th>
-<th>5</th>
-<th>5</th>
-<th>5</th>
-<th>5</th>
-<th>25</th>
-<th>850</th>
-</tr>
-<tr>
-<td>2</td>
-<td>Счет</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>25</td>
-<td>850</td>
-</tr>
-<tr>
-<th></th>
-<th>Естествознание</th>
-<th>2</th>
-<th>3</th>
-<th>3</th>
-<th>3</th>
-<th>4</th>
-<th>15</th>
-<th>510</th>
-</tr>
-<tr>
-<td>3</td>
-<td>Мирвокруг</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Человек и мир</td>
-<td>-</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>13</td>
-<td>442</td>
-</tr>
-<tr>
-<th></th>
-<th>Человек и общество</th>
-<th>2</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>6</th>
-<th>204</th>
-</tr>
-<tr>
-<td>5</td>
-<td>Культура поведения</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<th></th>
-<th>Технология и искусство</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>18</th>
-<th>19</th>
-<th>82</th>
-<th>2788</th>
-</tr>
-<tr>
-<td>6</td>
-<td>Изобразительное искусство</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>340</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Музыка и ритмика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>340</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Социально-бытовая ориентировка</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>15</td>
-<td>510</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Хозяйственный труд</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>14</td>
-<td>476</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Ремесло</td>
-<td>5</td>
-<td>6</td>
-<td>6</td>
-<td>8</td>
-<td>8</td>
-<td>33</td>
-<td>1122</td>
-</tr>
-<tr>
-<th></th>
-<th>Физическаякультура</th>
-<th>3</th>
-<th>3</th>
-<th>3</th>
-<th>3</th>
-<th>3</th>
-<th>15</th>
-<th>510</th>
-</tr>
-<tr>
-<td>11</td>
-<td>Адаптивная физическая культура</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>15</td>
-<td>510</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>36</td>
-<td>38</td>
-<td>173</td>
-<td>5882</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>32</td>
-<td>33</td>
-<td>34</td>
-<td>36</td>
-<td>38</td>
-<td>173</td>
-<td>5882</td>
-</tr>
-<tr>
-<td colspan="9">Коррекционный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Коррекционная учебная нагрузка</td>
-<td>7</td>
-<td>4</td>
-<td>4</td>
-<td>1</td>
-<td>1</td>
-<td>17</td>
-<td>578</td>
-</tr>
-<tr>
-<td colspan="2">Коррекция недостатков развития речи *</td>
-<td>4</td>
-<td>2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td colspan="2">Развитие психомоторики и сенсорных процессов</td>
-<td>2</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td colspan="2">Индивидуальные и групповые занятия активно-двигательного характера</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>-</td>
-<td>-</td>
-<td>3</td>
-<td>102</td>
-</tr>
-<tr>
-<td colspan="2">Трудоваяпрактика (в днях)</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="9">
-Примечание: Не требуется выполнение ГОСО обучающимися с умственной отсталостью
-*На коррекцию недостатков развития речи в 5 классе на одного ученика 0,5 часа; в 6 и 7 классах 0,25 часа учебного времени в неделю.
+Примечания. Не требуется выполнение ГОСО обучающимися с умственной отсталостью. * индивидуальные, подгрупповые занятия с логопедом.
 Рабочий учебный план обучения обучающихся со сложными нарушениями (нарушение зрения и умственная отсталость, нарушения слуха и умственная отсталость, нарушение опорно-двигательного аппарата и умственная отсталость) составляется на основе Типового учебного плана для обучающихся с умственной отсталостью с включением коррекционного компонента, соответствующего второму виду нарушения развития обучающихся.
+По усмотрению организации образования может быть выбран курс «Глобальные компетенции»
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="8">Глава 9. Типовой учебный план основного среднего индивидуального бесплатного обучения на дому с русским языком обучения (по специальным учебным программам)</th>
-</tr>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="6">Недельное количество часов по классам</th>
-</tr>
-<tr>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-</tr>
-<tr>
-<th colspan="8">Инвариантныйкомпонент</th>
-</tr>
-<tr>
-<td></td>
-<td>Язык и литература</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Русский язык</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Русская литература</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Казахский язык и литература</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Англий скийязык</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>Математика и информатика</td>
-<td>4</td>
-<td>4</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Математика</td>
-<td>4</td>
-<td>4</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Алгебра</td>
-<td>-</td>
-<td>-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Геометрия</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>9</td>
-<td>География</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Биология</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Физика</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Химия</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Человек и общество</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>13</td>
-<td>История Казахстана</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Всемирна яистория</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="8">
-Примечание: Допускается перераспределение часов и посещение отдельных уроков в школе.
-Коррекционная помощь при необходимости оказывается в кабинетах психолого-педагогической коррекции и реабилитационном центре в установленном порядке.
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="7">Глава 10. С легкой умственной отсталостью</th>
-</tr>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Недельное количество часов по классам</th>
-</tr>
-<tr>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-</tr>
-<tr>
-<th colspan="7">Инвариантныйкомпонент</th>
-</tr>
-<tr>
-<td></td>
-<td>Язык и литература</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Русский язык</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Чтение и развитиеречи</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Казахский язык</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Естествознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Мирвокруг</td>
-<td>1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Естествознание</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>7</td>
-<td>География</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Человек и общество</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>8</td>
-<td>История Казахстана</td>
-<td>-</td>
-<td>-</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td></td>
-<td>Технология и искусство</td>
-<td>1</td>
-<td>1</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Социально-бытоваяориентировка</td>
-<td>1</td>
-<td>1</td>
-<td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантнаяучебнаянагрузка</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="7">Коррекционный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Коррекционная учебная нагрузка</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">Коррекция познавательной деятельности и недостатков речи</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="7">
-Примечание: Не требуется выполнение ГОСО обучающимися с умственной отсталостью.
-Допускается перераспределение часов между предметами и посещение отдельных уроков в школе.
-</td>
-</tr>
-<tr>
-<th colspan="7">Глава 11 . С умеренной умственной отсталостью</th>
-</tr>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Недельное количество часов по классам</th>
-</tr>
-<tr>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-</tr>
-<tr>
-<th colspan="7">Инвариантныйкомпонент</th>
-</tr>
-<tr>
-<td>I</td>
-<td>Язык и литература</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Чтение, письмо и развитие речи</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Математика</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Счет</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Естествознание</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Мирвокруг</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td></td>
-<td>Человек и общество</td>
-<td>-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Человек и мир</td>
-<td>-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Технология и искусство</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Изобразительное искусство</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Хозяйственный труд</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Социально-бытовая ориентировка</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-<td>9</td>
-</tr>
-<tr>
-<td colspan="7">Коррекционный компонент</td>
-</tr>
-<tr>
-<td colspan="2">Коррекционная учебная нагрузка</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">Развитие психомоторики и сенсорных процессов</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="7">Примечание: Не требуется выполнение ГОСО обучающимися с умственной отсталостью. Допускается перераспределение часов между предметами и посещение отдельных уроков в школе.</td>
 </tr>
 </table>
 
@@ -20916,7 +18872,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 
 ## Типовой учебный план (с сокращением учебной нагрузки) общего среднего образования естественно-математического направления для гимназических/лицейских классов с русским языком обучения
 
-> *Сноска. Приложение 28 в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 28 в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -21026,7 +18982,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<th colspan="6">Предметы по выбору</th>
+<td colspan="6">Предметы по выбору</td>
 </tr>
 <tr>
 <td colspan="2">Углубленный уровень</td>
@@ -21107,11 +19063,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>27</td>
-<td>27</td>
-<td>54</td>
-<td>1836</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>28</th>
+<th>28</th>
+<th>56</th>
+<th>1904</th>
 </tr>
 <tr>
 <td colspan="2">Предметы по выбору</td>
@@ -21150,10 +19106,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>40</th>
-<th>40</th>
-<th>80</th>
-<th>2720</th>
+<th>41</th>
+<th>41</th>
+<th>82</th>
+<th>2788</th>
 </tr>
 </table>
 
@@ -34087,13 +32043,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 </table>
 
-> *Приложение 75 к приказу*  
-> *Министра образования и науки Республики Казахстан*  
+> *Приложение 75*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) начального образования для специализированных организаций образования с казахским языком обучения
 
-> *Сноска. Приказ дополнен приложением 75 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа).*
+> *Сноска. Приказ дополнен приложением 75 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -34135,7 +32092,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>2</td>
-<td>Казахский язык</td>
+<td>Қазақ тілі</td>
 <td>-</td>
 <td>4</td>
 <td>4</td>
@@ -34175,9 +32132,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th></th>
-<th>Математика и информатика</th>
-<th>4</th>
-<th>4</th>
+<th>Математика, информатика</th>
+<th>4,5</th>
+<th>5</th>
 <th>6</th>
 <th>6</th>
 <th>21,5</th>
@@ -34286,64 +32243,46 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>8</th>
-<th>270</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>12</th>
+<th>405</th>
 </tr>
 <tr>
 <td>13</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
-</tr>
-<tr>
-<td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>2,5</td>
-<td>2</td>
+<td>3</td>
+<td>3</td>
 <td>3</td>
 <td>3</td>
 <td>12</td>
 <td>405</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>24</td>
-<td>25</td>
-<td>27</td>
-<td>27</td>
-<td>104,5</td>
-<td>3528,5</td>
+<td colspan="2">Специализированный компонент из вариативной части</td>
+<td>1,5</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>6,5</td>
+<td>219,5</td>
+</tr>
+<tr>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>24</th>
+<th>25</th>
+<th>27</th>
+<th>27</th>
+<th>103</th>
+<th>3478</th>
 </tr>
 <tr>
 <th colspan="8">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="2">Предметы по выбору</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>4</td>
-<td>135</td>
-</tr>
-<tr>
-<td colspan="2">Специализированный компонент</td>
+<td colspan="2">Индивидуальные и групповые занятия развивающего характера</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -34353,31 +32292,32 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>10</td>
-<td>338</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
+<th>25</th>
 <th>26</th>
-<th>27</th>
-<th>30</th>
-<th>30</th>
-<th>114,5</th>
-<th>3866,5</th>
+<th>28</th>
+<th>28</th>
+<th>107</th>
+<th>3613</th>
 </tr>
 </table>
 
-> *Приложение 76 к приказу*  
-> *Министра образования и науки Республики Казахстан*  
+> *Приложение 76*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) начального образования для специализированных организаций образования с русским языком обучения
 
-> *Сноска. Приказ дополнен приложением 76 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа).*
+> *Сноска. Приказ дополнен приложением 76 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -34439,7 +32379,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>4</td>
-<td>Казахский язык (Т2)</td>
+<td>Казахский язык</td>
 <td>2</td>
 <td>2</td>
 <td>3</td>
@@ -34460,8 +32400,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Математика и информатика</th>
-<th>4</th>
-<th>4</th>
+<th>4,5</th>
+<th>5</th>
 <th>6</th>
 <th>6</th>
 <th>21,5</th>
@@ -34479,7 +32419,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>7</td>
-<td>Цифровая грамотность</td>
+<td>,0</td>
 <td>0,5</td>
 <td>1</td>
 <td>1</td>
@@ -34570,31 +32510,31 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>8</th>
-<th>270</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>12</th>
+<th>405</th>
 </tr>
 <tr>
 <td>13</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
-</tr>
-<tr>
-<td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>2,5</td>
-<td>2</td>
+<td>3</td>
+<td>3</td>
 <td>3</td>
 <td>3</td>
 <td>12</td>
 <td>405</td>
+</tr>
+<tr>
+<td colspan="2">Специализированный компонент из вариативной части</td>
+<td>1,5</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>6,5</td>
+<td>219,5</td>
 </tr>
 <tr>
 <th colspan="2">Инвариантная учебная нагрузка</th>
@@ -34602,66 +32542,49 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>25</th>
 <th>28</th>
 <th>28</th>
-<th>106,5</th>
-<th>3596,5</th>
+<th>105</th>
+<th>3546</th>
 </tr>
 <tr>
 <th colspan="8">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="2">Предметы по выбору</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура:спортивные игры</td>
+<td colspan="2">Индивидуальные и групповые занятия развивающего характера</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
-<td>4</td>
-<td>135</td>
-</tr>
-<tr>
-<td colspan="2">Специализированный компонент</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>4</td>
-<td>135</td>
+<td>5</td>
+<td>135-</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>8</td>
-<td>270</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>135</td>
 </tr>
 <tr>
 <th colspan="2">Максимальная учебная нагрузка</th>
+<th>25</th>
 <th>26</th>
-<th>27</th>
-<th>30</th>
-<th>30</th>
-<th>114,5</th>
-<th>3866,5</th>
+<th>29</th>
+<th>29</th>
+<th>109</th>
+<th>3681</th>
 </tr>
 </table>
 
 > *Приложение 77*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) основного среднего образования для специализированных организаций образования с казахским языком обучения
 
-> *Сноска. Приказ дополнен приложением 77 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 77 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -34676,8 +32599,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>7</th>
 <th>8</th>
 <th>9</th>
-<th>недельная</th>
-<th>годовая</th>
+<th>Недельная</th>
+<th>Годовая</th>
 </tr>
 <tr>
 <th colspan="9">Инвариантный компонент</th>
@@ -34949,57 +32872,57 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>340</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>15</th>
+<th>510</th>
 </tr>
 <tr>
 <td>20</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>340</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>15</td>
+<td>510</td>
 </tr>
 <tr>
 <td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>5</td>
-<td>5</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>34</td>
-<td>1156</td>
+<td>4</td>
+<td>4</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>29</td>
+<td>986</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>32</td>
-<td>32</td>
-<td>32</td>
-<td>32</td>
-<td>33</td>
-<td>161</td>
-<td>5474</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>32</th>
+<th>32</th>
+<th>32</th>
+<th>32</th>
+<th>33</th>
+<th>161</th>
+<th>5474</th>
 </tr>
 <tr>
 <th colspan="9">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="2">Предметы по выбору</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>22</td>
-<td>748</td>
+<td colspan="2">Глобальные компетенции или другие курсы по выбору</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>170</td>
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
@@ -35012,51 +32935,52 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>272</td>
 </tr>
 <tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">Индивидуальная и групповая работа</td>
 <td>1</td>
 <td>1</td>
 <td>5</td>
-<td>170</td>
+<td>5</td>
+<td>5</td>
+<td>17</td>
+<td>476</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
+<td>4</td>
 <td>5</td>
 <td>6</td>
 <td>7</td>
 <td>8</td>
-<td>9</td>
-<td>35</td>
-<td>1190</td>
+<td>30</td>
+<td>1020</td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>36</th>
 <th>37</th>
 <th>38</th>
 <th>39</th>
-<th>40</th>
-<th>42</th>
-<th>196</th>
-<th>6664</th>
+<th>41</th>
+<th>191</th>
+<th>6494</th>
 </tr>
 </table>
 
 > *Приложение 78*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) основного среднего образования для специализированных организаций образования с русским языком обучения
 
-> *Сноска. Приказ дополнен приложением 78 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 78 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
+<th colspan="2" rowspan="2">Образовательные области и учебные предметы</th>
 <th colspan="5">Количество часов в неделю по классам</th>
-<th colspan="2">Нагрузка, часы</th>
+<th colspan="3">Нагрузка, часы</th>
 </tr>
 <tr>
 <th>5</th>
@@ -35065,13 +32989,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>8</th>
 <th>9</th>
 <th>Недельная</th>
-<th>Годовая</th>
+<th colspan="2">Годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантный компонент</th>
+<th colspan="11">Инвариантный компонент</th>
 </tr>
 <tr>
-<th></th>
+<th colspan="2"></th>
 <th>Язык и литература</th>
 <th>12</th>
 <th>12</th>
@@ -35079,10 +33003,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>10</th>
 <th>10</th>
 <th>54</th>
-<th>1836</th>
+<th colspan="2">1836</th>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td>Русский язык</td>
 <td>3</td>
 <td>3</td>
@@ -35090,10 +33014,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>2</td>
 <td>12</td>
-<td>408</td>
+<td colspan="2">408</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">2</td>
 <td>Русская литература</td>
 <td>2</td>
 <td>2</td>
@@ -35101,10 +33025,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>2</td>
 <td>10</td>
-<td>340</td>
+<td colspan="2">340</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">3</td>
 <td>Казахский язык и литература</td>
 <td>4</td>
 <td>4</td>
@@ -35112,21 +33036,21 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>3</td>
 <td>17</td>
-<td>578</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
 <td>Иностранный язык</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
-<td>15</td>
-<td>510</td>
+<td>17</td>
+<td colspan="2">578</td>
 </tr>
 <tr>
-<th></th>
+<th colspan="2"></th>
 <th>Математика и информатика</th>
 <th>6</th>
 <th>6</th>
@@ -35134,10 +33058,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>4</th>
 <th>4</th>
 <th>24</th>
-<th>816</th>
+<th colspan="2">816</th>
 </tr>
 <tr>
-<td>5</td>
+<td colspan="2">5</td>
 <td>Математика</td>
 <td>5</td>
 <td>5</td>
@@ -35145,10 +33069,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>-</td>
 <td>10</td>
-<td>340</td>
+<td colspan="2">340</td>
 </tr>
 <tr>
-<td>6</td>
+<td colspan="2">6</td>
 <td>Алгебра</td>
 <td>-</td>
 <td>-</td>
@@ -35156,10 +33080,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>2</td>
 <td>6</td>
-<td>204</td>
+<td colspan="2">204</td>
 </tr>
 <tr>
-<td>7</td>
+<td colspan="2">7</td>
 <td>Геометрия</td>
 <td>-</td>
 <td>-</td>
@@ -35167,10 +33091,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>3</td>
-<td>102</td>
+<td colspan="2">102</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">8</td>
 <td>Информатика</td>
 <td>1</td>
 <td>1</td>
@@ -35178,10 +33102,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>5</td>
-<td>170</td>
+<td colspan="2">170</td>
 </tr>
 <tr>
-<th></th>
+<th colspan="2"></th>
 <th>Естествознание</th>
 <th>1</th>
 <th>1</th>
@@ -35189,10 +33113,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>4</th>
 <th>4</th>
 <th>14</th>
-<th>476</th>
+<th colspan="2">476</th>
 </tr>
 <tr>
-<td>9</td>
+<td colspan="2">9</td>
 <td>Естествознание</td>
 <td>1</td>
 <td>1</td>
@@ -35200,10 +33124,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>-</td>
 <td>2</td>
-<td>68</td>
+<td colspan="2">68</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">10</td>
 <td>Физика</td>
 <td>-</td>
 <td>-</td>
@@ -35211,10 +33135,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>3</td>
-<td>102</td>
+<td colspan="2">102</td>
 </tr>
 <tr>
-<td>11</td>
+<td colspan="2">11</td>
 <td>Химия</td>
 <td>-</td>
 <td>-</td>
@@ -35222,10 +33146,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>3</td>
-<td>102</td>
+<td colspan="2">102</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td>Биология</td>
 <td>-</td>
 <td>-</td>
@@ -35233,10 +33157,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>3</td>
-<td>102</td>
+<td colspan="2">102</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
 <td>География</td>
 <td>-</td>
 <td>-</td>
@@ -35244,10 +33168,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>3</td>
-<td>102</td>
+<td colspan="2">102</td>
 </tr>
 <tr>
-<th></th>
+<th colspan="2"></th>
 <th>Человек и общество</th>
 <th>4</th>
 <th>4</th>
@@ -35255,10 +33179,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>3</th>
 <th>4</th>
 <th>18</th>
-<th>612</th>
+<th colspan="2">612</th>
 </tr>
 <tr>
-<td>14</td>
+<td colspan="2">14</td>
 <td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
@@ -35266,10 +33190,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>7</td>
-<td>238</td>
+<td colspan="2">238</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">15</td>
 <td>Всемирная история</td>
 <td>1</td>
 <td>1</td>
@@ -35277,10 +33201,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>5</td>
-<td>170</td>
+<td colspan="2">170</td>
 </tr>
 <tr>
-<td>16</td>
+<td colspan="2">16</td>
 <td>Основы права</td>
 <td>-</td>
 <td>-</td>
@@ -35288,10 +33212,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>1</td>
 <td>1</td>
-<td>34</td>
+<td colspan="2">34</td>
 </tr>
 <tr>
-<td>17</td>
+<td colspan="2">17</td>
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
@@ -35299,10 +33223,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>5</td>
-<td>170</td>
+<td colspan="2">170</td>
 </tr>
 <tr>
-<th></th>
+<th colspan="2"></th>
 <th>Технология и искусство</th>
 <th>3</th>
 <th>3</th>
@@ -35310,10 +33234,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>1</th>
 <th>1</th>
 <th>9</th>
-<th>306</th>
+<th colspan="2">306</th>
 </tr>
 <tr>
-<td>18</td>
+<td colspan="2">18</td>
 <td>Музыка</td>
 <td>1</td>
 <td>1</td>
@@ -35321,10 +33245,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td>-</td>
 <td>2</td>
-<td>68</td>
+<td colspan="2">68</td>
 </tr>
 <tr>
-<td>19</td>
+<td colspan="2">19</td>
 <td>Художественный труд</td>
 <td>2</td>
 <td>2</td>
@@ -35332,112 +33256,452 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>7</td>
-<td>238</td>
+<td colspan="2">238</td>
+</tr>
+<tr>
+<th colspan="2"></th>
+<th>Физическая культура</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>15</th>
+<th colspan="2">510</th>
+</tr>
+<tr>
+<td colspan="2">20</td>
+<td>Физическая культура</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>15</td>
+<td colspan="2">510</td>
+</tr>
+<tr>
+<td colspan="3">Специализированный компонент из инвариантной части</td>
+<td>4</td>
+<td>4</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>29</td>
+<td>986</td>
+</tr>
+<tr>
+<th colspan="3">Инвариантная учебная нагрузка</th>
+<th>33</th>
+<th>33</th>
+<th>32</th>
+<th>32</th>
+<th>33</th>
+<th>163</th>
+<th colspan="2">5542</th>
+</tr>
+<tr>
+<th colspan="11">Вариативный компонент</th>
+</tr>
+<tr>
+<td colspan="3">Глобальные компетенции или другие курсы по выбору</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td colspan="2">170</td>
+</tr>
+<tr>
+<td colspan="3">Элективные курсы</td>
+<td>1</td>
+<td>2</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>21</td>
+<td colspan="2">714</td>
+</tr>
+<tr>
+<td colspan="3">Индивидуальная и групповая работа</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>3</td>
+<td colspan="2">102</td>
+</tr>
+<tr>
+<td colspan="3">Вариативная учебная нагрузка</td>
+<td>3</td>
+<td>4</td>
+<td>7</td>
+<td>7</td>
+<td>8</td>
+<td>29</td>
+<td colspan="2">986</td>
+</tr>
+<tr>
+<th colspan="3">Объем максимальной учебной нагрузки</th>
+<th>36</th>
+<th>37</th>
+<th>39</th>
+<th>39</th>
+<th>41</th>
+<th>192</th>
+<th colspan="2">6528</th>
+</tr>
+</table>
+
+> *Приложение 79*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 8 ноября 2012 года № 500*
+
+## Типовой учебный план (обновленного содержания) основного среднего образования для специализированных организаций образования с обучением на трех языках ( для школ с казахским языком обучения)
+
+> *Сноска. Приказ дополнен приложением 79 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<th rowspan="2">№</th>
+<th rowspan="2">Образовательные области и учебные предметы</th>
+<th colspan="3">Количество часов в неделю по классам</th>
+<th colspan="2">Нагрузка, часы</th>
+<th colspan="2">Язык обучения</th>
+</tr>
+<tr>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>Недельная</th>
+<th>Годовая</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<th colspan="8">Инвариантный компонент</th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Язык и литература</th>
+<th>10</th>
+<th>10</th>
+<th>10</th>
+<th>30</th>
+<th>1020</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>1</td>
+<td>Қазақ тілі</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>6</td>
+<td>204</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Қазақ әдебиеті</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>6</td>
+<td>204</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Русский язык и литература</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>6</td>
+<td>204</td>
+<td colspan="2">Русский</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Иностранный язык</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>6</td>
+<td>204</td>
+<td colspan="2">Английский</td>
+</tr>
+<tr>
+<th></th>
+<th>Математика и информатика</th>
+<th>4</th>
+<th>4</th>
+<th>4</th>
+<th>12</th>
+<th>408</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>5</td>
+<td>Математика</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Алгебра</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>6</td>
+<td>204</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Геометрия</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Информатика</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td colspan="2">Казахский/ английский</td>
+</tr>
+<tr>
+<th></th>
+<th>Естествознание</th>
+<th>4</th>
+<th>4</th>
+<th>4</th>
+<th>12</th>
+<th>408</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>9</td>
+<td>Естествознание</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Физика</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td colspan="2">Казахский/ английский</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Химия</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td colspan="2">Казахский/ английский</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Биология</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td colspan="2">Казахский/ английский</td>
+</tr>
+<tr>
+<th></th>
+<th>Человек и общество</th>
+<th>3</th>
+<th>3</th>
+<th>4</th>
+<th>10</th>
+<th>340</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>14</td>
+<td>История Казахстана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Всемирная история</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Основы права</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>34</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Самопознание</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<th></th>
+<th>Технология и искусство</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th>3</th>
+<th>102</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>18</td>
+<td>Музыка</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Художественный труд</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td colspan="2">Казахский</td>
 </tr>
 <tr>
 <th></th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>340</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>9</th>
+<th>306</th>
+<th colspan="2"></th>
 </tr>
 <tr>
 <td>20</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>340</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>9</td>
+<td>306</td>
+<td colspan="2">Казахский</td>
 </tr>
 <tr>
 <td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>5</td>
-<td>5</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>34</td>
-<td>1156</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>21</td>
+<td>714</td>
+<td colspan="2">Казахский/ английский</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>33</td>
-<td>33</td>
-<td>32</td>
-<td>32</td>
-<td>33</td>
-<td>163</td>
-<td>5542</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>32</th>
+<th>32</th>
+<th>33</th>
+<th>97</th>
+<th>3298</th>
+<th colspan="2"></th>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
+<td colspan="8">Вариативный компонент</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">Предметы по выбору</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>22</td>
-<td>748</td>
+<td colspan="2">Глобальные компетенции или другие курсы по выбору</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
-<td>1</td>
-<td>2</td>
-<td>-</td>
-<td>1</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
 <td>5</td>
-<td>170</td>
+<td>6</td>
+<td>7</td>
+<td>18</td>
+<td>612</td>
+<td colspan="2">Казахский/ английский</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>4</td>
-<td>5</td>
+<td>6</td>
 <td>7</td>
 <td>8</td>
-<td>9</td>
-<td>33</td>
-<td>1122</td>
+<td>21</td>
+<td>714</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>37</th>
 <th>38</th>
 <th>39</th>
-<th>40</th>
-<th>42</th>
-<th>196</th>
-<th>6664</th>
+<th>41</th>
+<th>118</th>
+<th>4012</th>
+<th colspan="2"></th>
 </tr>
 </table>
 
-> *Приложение 79 к приказу*  
-> *Министра образования и науки Республики Казахстан*  
+> *Приложение 80*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-## Типовой учебный план (обновленного содержания) основного среднего образования для специализированных организаций образования с обучением на трех языках (для школ с казахским языком обучения)
+## Типовой учебный план (обновленного содержания) основного среднего образования для специализированных организаций образования обучением на трех языках ( для школ с русским языком обучения)
 
-> *Сноска. Приказ дополнен приложением 79 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 80 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -35456,365 +33720,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th></th>
 </tr>
 <tr>
+<th></th>
 <th colspan="7">Инвариантный компонент</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>Язык и литература</th>
-<th>10</th>
-<th>10</th>
-<th>10</th>
-<th>30</th>
-<th>1020</th>
-<th></th>
-</tr>
-<tr>
-<td>1</td>
-<td>Казахский язык</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Казахская литература</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Русскийязык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>9</td>
-<td>306</td>
-<td>Русский</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>9</td>
-<td>306</td>
-<td>Английский</td>
-</tr>
-<tr>
-<th></th>
-<th>Математика и информатика</th>
-<th>4</th>
-<th>4</th>
-<th>4</th>
-<th>12</th>
-<th>408</th>
-<th></th>
-</tr>
-<tr>
-<td>5</td>
-<td>Математика</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td></td>
-<td>Казахский</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Алгебра</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Геометрия</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Информатика</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский/ английский</td>
-</tr>
-<tr>
-<th></th>
-<th>Естествознание</th>
-<th>4</th>
-<th>4</th>
-<th>4</th>
-<th>12</th>
-<th>408</th>
-<th></th>
-</tr>
-<tr>
-<td>9</td>
-<td>Естествознание</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Физика</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский/ английский</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Химия</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский/ английский</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Биология</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский/ английский</td>
-</tr>
-<tr>
-<td>13</td>
-<td>География</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<th></th>
-<th>Человек и общество</th>
-<th>3</th>
-<th>3</th>
-<th>4</th>
-<th>10</th>
-<th>340</th>
-<th></th>
-</tr>
-<tr>
-<td>14</td>
-<td>История Казахстана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Всемирная история</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
-<td>Основы права</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>34</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Самопознание</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<th></th>
-<th>Технология и искусство</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>3</th>
-<th>102</th>
-<th></th>
-</tr>
-<tr>
-<td>18</td>
-<td>Музыка</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19</td>
-<td>Художественный труд</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<th></th>
-<th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>6</th>
-<th>204</th>
-<th></th>
-</tr>
-<tr>
-<td>20</td>
-<td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>24</td>
-<td>816</td>
-<td>Казахский/ английский</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>32</td>
-<td>32</td>
-<td>33</td>
-<td>97</td>
-<td>3298</td>
-<td></td>
-</tr>
-<tr>
-<th colspan="7">Вариативный компонент</th>
-<th></th>
-</tr>
-<tr>
-<td colspan="2">Предметы по выбору</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>18</td>
-<td>612</td>
-<td>Казахский/ английский</td>
-</tr>
-<tr>
-<td colspan="2">Элективные курсы</td>
-<td>-</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский/ английский</td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<td colspan="2">Вариативная учебная нагрузка</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>24</td>
-<td>816</td>
-<td></td>
-</tr>
-<tr>
-<th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>40</th>
-<th>42</th>
-<th>121</th>
-<th>4114</th>
-<th></th>
-</tr>
-</table>
-
-> *Приложение 80*  
-> *к приказу Министра образования и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
-
-## Типовой учебный план (обновленного содержания) основного среднего образования для специализированных организаций образования обучением на трех языках (для школ с русским языком обучения)
-
-> *Сноска. Приказ дополнен приложением 80 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
-
-<table>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="3">Количество часов в неделю по классам</th>
-<th colspan="2">Нагрузка, часы</th>
-<th>Язык обучения</th>
-</tr>
-<tr>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>недельная</th>
-<th>годовая</th>
-<th></th>
-</tr>
-<tr>
-<th colspan="7">Инвариантный компонент</th>
-<th></th>
 </tr>
 <tr>
 <th></th>
@@ -36059,655 +33966,126 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <th></th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>6</th>
-<th>204</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>9</th>
+<th>306</th>
 <th></th>
 </tr>
 <tr>
 <td>20</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>9</td>
+<td>306</td>
 <td>Русский</td>
 </tr>
 <tr>
 <td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>8</td>
-<td>8</td>
-<td>8</td>
-<td>24</td>
-<td>816</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>21</td>
+<td>714</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>32</td>
-<td>32</td>
-<td>33</td>
-<td>97</td>
-<td>3298</td>
-<td></td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>32</th>
+<th>32</th>
+<th>33</th>
+<th>97</th>
+<th>3298</th>
+<th></th>
 </tr>
 <tr>
 <th colspan="7">Вариативный компонент</th>
 <th></th>
 </tr>
 <tr>
-<td colspan="2">Предметы по выбору</td>
+<td colspan="2">Глобальные компетенции или другие курсы по выбору</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td>Русский/ английский</td>
+</tr>
+<tr>
+<td colspan="2">Элективные курсы</td>
+<td>5</td>
 <td>6</td>
-<td>6</td>
-<td>6</td>
+<td>7</td>
 <td>18</td>
 <td>612</td>
 <td>Русский/ английский</td>
 </tr>
 <tr>
-<td colspan="2">Элективные курсы</td>
-<td>-</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>102</td>
-<td>Русский/ английский</td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Русский</td>
-</tr>
-<tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
+<td>6</td>
 <td>7</td>
 <td>8</td>
-<td>9</td>
-<td>24</td>
-<td>816</td>
+<td>21</td>
+<td>714</td>
 <td></td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>38</th>
 <th>39</th>
-<th>40</th>
-<th>42</th>
-<th>121</th>
-<th>4114</th>
+<th>41</th>
+<th>118</th>
+<th>4012</th>
 <th></th>
 </tr>
 </table>
 
-> *Приложение 81 к приказу*  
-> *Министра образованияи науки Республики Казахстан*  
+> *Приложение 81*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления для специализированных организаций образования с казахским языком обучения
 
-> *Сноска. Приказ дополнен приложением 81 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 81 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
-<th rowspan="2">Учебныепредметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
+<th rowspan="2">Учебные предметы</th>
+<th colspan="3">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
 </tr>
 <tr>
 <th>10</th>
 <th>11</th>
-<th>недельная</th>
-<th>годовая</th>
+<th>Недельная</th>
+<th>Годовая</th>
 </tr>
 <tr>
 <th colspan="6">Инвариантный компонент</th>
 </tr>
 <tr>
-<th colspan="6">Обязательные предметы</th>
+<td>1</td>
+<td>Қазақ тілі</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
+<td>2</td>
+<td>Қазақ әдебиеті</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
 <td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Казахский язык</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Казахская литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Русскийязык и литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Иностранный язык</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>История Казахстана</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Самопознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Начальная военная итехнологическая подготовка</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<th colspan="6">Предметы по выбору</th>
-</tr>
-<tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 3 часа</td>
-<td>2 предмета по 3 часа</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>1 предмет по 2 часа</td>
-<td>1 предмет по 2 часа</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18</td>
-<td>Графика и проектирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19</td>
-<td>Основыправа</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>5</td>
-<td>5</td>
-<td>10</td>
-<td>340</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>32</td>
-<td>32</td>
-<td>64</td>
-<td>2176</td>
-</tr>
-<tr>
-<td colspan="2">Предметы по выбору</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td colspan="2">Элективные курсы</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td colspan="2">Вариативная нагрузка</td>
-<td>11</td>
-<td>11</td>
-<td>22</td>
-<td>748</td>
-</tr>
-<tr>
-<th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>43</th>
-<th>43</th>
-<th>86</th>
-<th>2924</th>
-</tr>
-</table>
-
-> *Приложение 82 к приказу*  
-> *Министра образованияи науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
-
-## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления для специализированных организаций образования с русским языком обучения
-
-> *Сноска. Приказ дополнен приложением 82 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
-
-<table>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Учебныепредметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
-</tr>
-<tr>
-<th>10</th>
-<th>11</th>
-<th>недельная</th>
-<th>годовая</th>
-</tr>
-<tr>
-<th colspan="6">Инвариантный компонент</th>
-</tr>
-<tr>
-<th colspan="6">Обязательные предметы</th>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Русский язык</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Русская литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Казахский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Иностранный язык</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>История Казахстана</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Самопознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Начальная военная и технологическая подготовка</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<th colspan="6">Предметы по выбору</th>
-</tr>
-<tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 3 часа</td>
-<td>2 предмета по 3 часа</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>1 предмет по 2 часа</td>
-<td>1 предмет по 2 часа</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Графика и проектирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>5</td>
-<td>5</td>
-<td>10</td>
-<td>340</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>33</td>
-<td>33</td>
-<td>66</td>
-<td>2244</td>
-</tr>
-<tr>
-<td colspan="2">Предметы по выбору</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td colspan="2">Элективные курсы</td>
-<td>5</td>
-<td>5</td>
-<td>10</td>
-<td>340</td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td colspan="2">Вариативная нагрузка</td>
-<td>10</td>
-<td>10</td>
-<td>20</td>
-<td>680</td>
-</tr>
-<tr>
-<th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>43</th>
-<th>43</th>
-<th>86</th>
-<th>2924</th>
-</tr>
-</table>
-
-> *Приложение 83 к приказу*  
-> *Министра образования и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
-
-## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления для специализированных организаций образования с казахским языком обучения
-
-> *Сноска. Приказ дополнен приложением 83 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
-
-<table>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Учебныепредметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
-</tr>
-<tr>
-<th>10</th>
-<th>11</th>
-<th>недельная</th>
-<th>годовая</th>
-</tr>
-<tr>
-<th colspan="6">Инвариантный компонент</th>
-</tr>
-<tr>
-<th colspan="6">Обязательные предметы</th>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Казахский язык</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Казахская литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>6.</td>
 <td>Русский язык и литература</td>
 <td>2</td>
 <td>2</td>
@@ -36715,262 +34093,71 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>136</td>
 </tr>
 <tr>
-<td>7.</td>
+<td>4</td>
 <td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Самопознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Начальная военная и технологическая подготовка</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<th colspan="6">Предметы по выбору</th>
-</tr>
-<tr>
-<td colspan="2">Углубленныйуровень</td>
-<td>2 предмета по 3 часа</td>
-<td>2 предмета по 3 часа</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Иностранный язык</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>1 предмет по 2 часа</td>
-<td>1 предмет по 2 часа</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Специализированный компонент из инвариантной части</td>
 <td>5</td>
-<td>5</td>
-<td>10</td>
-<td>340</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>32</td>
-<td>32</td>
-<td>64</td>
-<td>2176</td>
-</tr>
-<tr>
-<td colspan="2">Предметы повыбору</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td colspan="2">Элективные курсы</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td colspan="2">Вариативная нагрузка</td>
-<td>11</td>
-<td>11</td>
-<td>22</td>
-<td>748</td>
-</tr>
-<tr>
-<th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>43</th>
-<th>43</th>
-<th>86</th>
-<th>2924</th>
-</tr>
-</table>
-
-> *Приложение 84 к приказу*  
-> *Министра образования и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
-
-## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления для специализированных организаций образования с русским языком обучения
-
-> *Сноска. Приказ дополнен приложением 84 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
-
-<table>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Учебныепредметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
-</tr>
-<tr>
-<th>10</th>
-<th>11</th>
-<th>недельная</th>
-<th>годовая</th>
-</tr>
-<tr>
-<th colspan="6">Инвариантный компонент</th>
-</tr>
-<tr>
-<th colspan="6">Обязательные предметы</th>
-</tr>
-<tr>
-<td>1.</td>
 <td>Алгебра и начала анализа</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
 </tr>
 <tr>
-<td>2.</td>
+<td>6</td>
 <td>Геометрия</td>
-<td>1</td>
-<td>1</td>
 <td>2</td>
-<td>68</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
-<td>3.</td>
+<td>7</td>
 <td>Информатика</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Физика</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Химия</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Русский язык</td>
+<td>10</td>
+<td>Биология</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Русская литература</td>
+<td>11</td>
+<td>География</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Казахский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>8.</td>
+<td>12</td>
 <td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
@@ -36978,7 +34165,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>136</td>
 </tr>
 <tr>
-<td>9.</td>
+<td>13</td>
+<td>Всемирная история</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Основы права</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
@@ -36986,15 +34189,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>16</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>17</td>
 <td>Начальная военная и технологическая подготовка</td>
 <td>1</td>
 <td>1</td>
@@ -37002,123 +34205,42 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<th colspan="6">Предметы по выбору</th>
-</tr>
-<tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 3 часа</td>
-<td>2 предмета по 3 часа</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Иностранный язык</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Стандартныйуровень</td>
-<td>1 предмет по 2 часа</td>
-<td>1 предмет по 2 часа</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Основыпредпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>5</td>
-<td>5</td>
-<td>10</td>
-<td>340</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>33</td>
-<td>33</td>
-<td>66</td>
-<td>2244</td>
-</tr>
-<tr>
-<td colspan="2">Предметы по выбору</td>
 <td>4</td>
 <td>4</td>
 <td>8</td>
 <td>272</td>
 </tr>
 <tr>
-<td colspan="2">Элективные курсы</td>
-<td>5</td>
-<td>5</td>
-<td>10</td>
-<td>340</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>32</th>
+<th>32</th>
+<th>64</th>
+<th>2176</th>
+<th></th>
 </tr>
 <tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
+<th colspan="6">Вариативный компонент</th>
+<th></th>
+</tr>
+<tr>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
 <td>68</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">Вариативная нагрузка</td>
+<td colspan="2">Элективные курсы</td>
+<td>9</td>
+<td>9</td>
+<td>18</td>
+<td>612</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Вариативная учебная нагрузка</td>
 <td>10</td>
 <td>10</td>
 <td>20</td>
@@ -37126,383 +34248,1032 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>43</th>
-<th>43</th>
-<th>86</th>
-<th>2924</th>
+<th>42</th>
+<th>42</th>
+<th>84</th>
+<th>2856</th>
+<th></th>
 </tr>
 </table>
 
-> *Приложение 85 к приказу*  
-> *Министра образования и науки Республики Казахстан*  
+> *Приложение 82*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-## Типовой учебный план (обновленного содержания) основного среднего образования для специализированных организаций образования с казахским языком обучения ( в том числе «Білім инновация-лицеи»)
+## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления для специализированных организаций образования с русским языком обучения
 
-> *Сноска. Приказ дополнен приложением 85 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 82 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="3">Количество часов в неделю по классам</th>
-<th colspan="2">Нагрузка, часы</th>
-<th rowspan="2">Язык преподавания</th>
+<th rowspan="2">Учебные предметы</th>
+<th colspan="4">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
+<th></th>
 </tr>
 <tr>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>недельная</th>
-<th>годовая</th>
+<th colspan="2">10</th>
+<th>11</th>
+<th>Недельная</th>
+<th>Годовая</th>
+<th></th>
 </tr>
 <tr>
 <th colspan="7">Инвариантный компонент</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>Язык и литература</th>
-<th>16</th>
-<th>12</th>
-<th>12</th>
-<th>40</th>
-<th>1360</th>
-<th></th>
+<th colspan="2"></th>
 </tr>
 <tr>
 <td>1</td>
-<td>Казахский язык</td>
+<td>Русский язык</td>
+<td colspan="2">1</td>
+<td>1</td>
 <td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
-<td>Казахский</td>
+<td>68</td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
-<td>Казахская литература</td>
+<td>Русская литература</td>
+<td colspan="2">2</td>
 <td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
-<td>Казахский</td>
+<td>4</td>
+<td>136</td>
+<td></td>
 </tr>
 <tr>
 <td>3</td>
-<td>Русскийязык и литература</td>
+<td>Казахский язык и литература</td>
+<td colspan="2">3</td>
 <td>3</td>
-<td>3</td>
-<td>3</td>
-<td>9</td>
-<td>306</td>
-<td>Русский</td>
+<td>6</td>
+<td>204</td>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
 <td>Иностранный язык</td>
-<td>9</td>
-<td>5</td>
-<td>5</td>
-<td>19</td>
-<td>646</td>
-<td>Английский</td>
-</tr>
-<tr>
-<th></th>
-<th>Математика и информатика</th>
-<th>4</th>
-<th>4</th>
-<th>4</th>
-<th>12</th>
-<th>408</th>
-<th></th>
-</tr>
-<tr>
-<td>5</td>
-<td>Математика</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
 <td></td>
 </tr>
 <tr>
-<td>6</td>
-<td>Алгебра</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
+<td>5</td>
+<td>Алгебра и начала анализа</td>
+<td colspan="2">3</td>
+<td>3</td>
 <td>6</td>
 <td>204</td>
-<td>Английский</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Геометрия</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
-<td>Геометрия</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Английский</td>
+<td>Информатика</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
-<td>Информатика</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Английский</td>
-</tr>
-<tr>
-<th></th>
-<th>Естествознание</th>
-<th>2,5</th>
-<th>4</th>
-<th>4</th>
-<th>10,5</th>
-<th>357</th>
-<th></th>
+<td>Физика</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
-<td>Естествознание</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td></td>
+<td>Химия</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
 <td></td>
 </tr>
 <tr>
 <td>10</td>
-<td>Физика</td>
-<td>0,5</td>
+<td>Биология</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>2,5</td>
-<td>85</td>
-<td>Английский</td>
+<td>2</td>
+<td>68</td>
+<td></td>
 </tr>
 <tr>
 <td>11</td>
-<td>Химия</td>
-<td>0,5</td>
+<td>География</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>2,5</td>
-<td>85</td>
-<td>Английский</td>
+<td>2</td>
+<td>68</td>
+<td></td>
 </tr>
 <tr>
 <td>12</td>
-<td>Биология</td>
-<td>0,5</td>
-<td>1</td>
-<td>1</td>
-<td>2,5</td>
-<td>85</td>
-<td>Английский</td>
+<td>История Казахстана</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+<td></td>
 </tr>
 <tr>
 <td>13</td>
-<td>География</td>
+<td>Всемирная история</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<th></th>
-<th>Человек и общество</th>
-<th>3</th>
-<th>3</th>
-<th>4</th>
-<th>10</th>
-<th>340</th>
-<th></th>
+<td>2</td>
+<td>68</td>
+<td></td>
 </tr>
 <tr>
 <td>14</td>
-<td>История Казахстана</td>
+<td>Основы права</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
+<td>2</td>
+<td>68</td>
 <td></td>
 </tr>
 <tr>
 <td>15</td>
-<td>Всемирная история</td>
+<td>Самопознание</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
+<td>2</td>
+<td>68</td>
 <td></td>
 </tr>
 <tr>
 <td>16</td>
-<td>Основыправа</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>34</td>
-<td>Казахский</td>
+<td>Физическая культура</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+<td></td>
 </tr>
 <tr>
 <td>17</td>
-<td>Самопознание</td>
+<td>Начальная военная и технологическая подготовка</td>
+<td colspan="2">1</td>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<th></th>
-<th>Технология и искусство</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>3</th>
-<th>102</th>
-<th></th>
-</tr>
-<tr>
-<td>18</td>
-<td>Музыка</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19</td>
-<td>Художественный труд</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
-<td>Казахский</td>
-</tr>
-<tr>
-<th></th>
-<th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>6</th>
-<th>204</th>
-<th></th>
-</tr>
-<tr>
-<td>20</td>
-<td>Физическая культура</td>
 <td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
-<td>Казахский</td>
+<td>68</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>3</td>
-<td>6</td>
-<td>6</td>
-<td>15</td>
-<td>510</td>
+<td colspan="2">4</td>
+<td>4</td>
+<td>8</td>
+<td>272</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Инвариантнаяучебнаянагрузка</td>
-<td>31,5</td>
-<td>32</td>
-<td>33</td>
-<td>96,5</td>
-<td>3281</td>
-<td></td>
-</tr>
-<tr>
-<th colspan="7">Вариативный компонент</th>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th colspan="2">33</th>
+<th>33</th>
+<th>66</th>
+<th>2244</th>
 <th></th>
 </tr>
 <tr>
-<td colspan="2">Предметы по выбору</td>
-<td>4,5</td>
-<td>6</td>
-<td>6</td>
-<td>16,5</td>
-<td>561</td>
+<td colspan="3">Вариативный компонент</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
-<td>2</td>
-<td>1</td>
-<td>2</td>
-<td>5</td>
-<td>170</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Физическаякультура: спортивные игры</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>102</td>
+<td colspan="2">8</td>
+<td>8</td>
+<td>16</td>
+<td>544</td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>7,5</td>
-<td>8</td>
+<td colspan="2">9</td>
 <td>9</td>
-<td>24,5</td>
-<td>833</td>
+<td>18</td>
+<td>612</td>
 <td></td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>40</th>
+<th colspan="2">42</th>
 <th>42</th>
-<th>121</th>
-<th>4114</th>
+<th>84</th>
+<th>2856</th>
 <th></th>
 </tr>
 </table>
 
-> *Приложение 86 к приказу*  
-> *Министра образования и науки Республики Казахстан*  
+> *Приложение 83*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-## Типовой учебный план (обновленного содержания) основного среднего образования для специализированных организаций образования с русским языком обучения (в том числе "Білім инновация- лицеи")
+## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления для специализированных организаций образования с казахским языком обучения
 
-> *Сноска. Приказ дополнен приложением 86 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 83 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<th rowspan="2">№</th>
+<th rowspan="2">Учебные предметы</th>
+<th colspan="4">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
+</tr>
+<tr>
+<td>10</td>
+<td>11</td>
+<td colspan="2">Недельная</td>
+<td>Годовая</td>
+</tr>
+<tr>
+<th colspan="7">Инвариантный компонент</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Қазақ тілі</td>
+<td>2</td>
+<td>2</td>
+<td colspan="2">4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Қазақ әдебиеті</td>
+<td>2</td>
+<td>2</td>
+<td colspan="2">4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Русский язык и литература</td>
+<td>3</td>
+<td>3</td>
+<td colspan="2">6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Иностранный язык</td>
+<td>3</td>
+<td>3</td>
+<td colspan="2">6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Алгебра и начала анализа</td>
+<td>2</td>
+<td>2</td>
+<td colspan="2">4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Геометрия</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Информатика</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Физика</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Химия</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Биология</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>11</td>
+<td>География</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>12</td>
+<td>История Казахстана</td>
+<td>2</td>
+<td>2</td>
+<td colspan="2">4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Всемирная история</td>
+<td>2</td>
+<td>2</td>
+<td colspan="2">4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Основы права</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Самопознание</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Физическая культура</td>
+<td>3</td>
+<td>3</td>
+<td colspan="2">6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Начальная военная и технологическая подготовка</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td colspan="2">Специализированный компонент из инвариантной части</td>
+<td>4</td>
+<td>4</td>
+<td colspan="2">8</td>
+<td>272</td>
+</tr>
+<tr>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>32</th>
+<th>32</th>
+<th colspan="2">64</th>
+<th>2176</th>
+</tr>
+<tr>
+<td colspan="7">Вариативный компонент</td>
+</tr>
+<tr>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td colspan="2">Элективные курсы</td>
+<td>9</td>
+<td colspan="2">9</td>
+<td>18</td>
+<td>612</td>
+</tr>
+<tr>
+<td colspan="2">Вариативная учебная нагрузка</td>
+<td>10</td>
+<td colspan="2">10</td>
+<td>22</td>
+<td>748</td>
+</tr>
+<tr>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>42</th>
+<th colspan="2">42</th>
+<th>84</th>
+<th>2856</th>
+</tr>
+</table>
+
+> *Приложение 84*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 8 ноября 2012 года № 500*
+
+## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления для специализированных организаций образования с русским языком обучения
+
+> *Сноска. Приказ дополнен приложением 84 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<th colspan="2" rowspan="2">№</th>
+<th rowspan="2">Учебные предметы</th>
+<th colspan="3">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
+</tr>
+<tr>
+<th>10</th>
+<th>11</th>
+<th>Недельная</th>
+<th>Годовая</th>
+</tr>
+<tr>
+<th colspan="7">Инвариантный компонент</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">Русский язык</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">Русская литература</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="2">Казахский язык и литература</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2">Иностранный язык</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="2">Алгебра и начала анализа</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">Геометрия</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2">Информатика</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2">Физика</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2">Химия</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2">Биология</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="2">География</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2">История Казахстана</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="2">Всемирная история</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="2">Основы права</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2">Самопознание</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="2">Физическая культура</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="2">Начальная военная и технологическая подготовка</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td colspan="3">Специализированный компонент из инвариантной части</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>272</td>
+</tr>
+<tr>
+<th colspan="3">Инвариантная учебная нагрузка</th>
+<th>32</th>
+<th>32</th>
+<th>64</th>
+<th>2176</th>
+</tr>
+<tr>
+<td colspan="7">Вариативный компонент</td>
+</tr>
+<tr>
+<td colspan="3">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td colspan="3">Элективные курсы</td>
+<td>9</td>
+<td>9</td>
+<td>18</td>
+<td>612</td>
+</tr>
+<tr>
+<td colspan="3">Вариативная учебная нагрузка</td>
+<td>10</td>
+<td>10</td>
+<td>20</td>
+<td>680</td>
+</tr>
+<tr>
+<th colspan="3">Объем максимальной учебной нагрузки</th>
+<th>42</th>
+<th>42</th>
+<th>84</th>
+<th>2856</th>
+</tr>
+</table>
+
+> *Приложение 85*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 8 ноября 2012 года № 500*
+
+## Типовой учебный план (обновленного содержания) основного среднего образования для специализированных организаций образования с казахским языком обучения ( в том числе «Білім инновация- лицеи»)
+
+> *Сноска. Приказ дополнен приложением 85 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2" rowspan="2">Образовательные области и учебные предметы</th>
+<th colspan="5">Количество часов в неделю по классам</th>
+<th colspan="4">Нагрузка, часы</th>
+<th colspan="2" rowspan="2">Язык преподавания</th>
+</tr>
+<tr>
+<th colspan="2">7</th>
+<th colspan="2">8</th>
+<th>9</th>
+<th colspan="2">Недельная</th>
+<th colspan="2">Годовая</th>
+</tr>
+<tr>
+<th colspan="13">Инвариантный компонент</th>
+<th></th>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Язык и литература</td>
+<td colspan="2">16</td>
+<td colspan="2">12</td>
+<td>12</td>
+<td colspan="2">40</td>
+<td colspan="2">1360</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">Казахский язык</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td colspan="2">6</td>
+<td colspan="2">204</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">Казахская литература</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td colspan="2">6</td>
+<td colspan="2">204</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="2">Русский язык и литература</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td colspan="2">9</td>
+<td colspan="2">306</td>
+<td colspan="2">Русский</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2">Иностранный язык</td>
+<td colspan="2">9</td>
+<td colspan="2">5</td>
+<td>5</td>
+<td colspan="2">19</td>
+<td colspan="2">646</td>
+<td colspan="2">Английский</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="2">Математика и информатика</th>
+<th colspan="2">4</th>
+<th colspan="2">4</th>
+<th>4</th>
+<th colspan="2">12</th>
+<th colspan="2">408</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="2">Математика</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td>-</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">Алгебра</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td colspan="2">6</td>
+<td colspan="2">204</td>
+<td colspan="2">Английский</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2">Геометрия</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">3</td>
+<td colspan="2">102</td>
+<td colspan="2">Английский</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2">Информатика</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">3</td>
+<td colspan="2">102</td>
+<td colspan="2">Английский</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="2">Естествознание</th>
+<th colspan="2">2,5</th>
+<th colspan="2">4</th>
+<th>4</th>
+<th colspan="2">10,5</th>
+<th colspan="2">357</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2">Естествознание</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td>-</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2">Физика</td>
+<td colspan="2">0,5</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2,5</td>
+<td colspan="2">85</td>
+<td colspan="2">Английский</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="2">Химия</td>
+<td colspan="2">0,5</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2,5</td>
+<td colspan="2">85</td>
+<td colspan="2">Английский</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2">Биология</td>
+<td colspan="2">0,5</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2,5</td>
+<td colspan="2">85</td>
+<td colspan="2">Английский</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="2">География</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">3</td>
+<td colspan="2">102</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="2">Человек и общество</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th colspan="2">10</th>
+<th colspan="2">340</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="2">История Казахстана</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">3</td>
+<td colspan="2">102</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2">Всемирная история</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">3</td>
+<td colspan="2">102</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="2">Основы права</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">34</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="2">Самопознание</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">3</td>
+<td colspan="2">102</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="2">Технология и искусство</th>
+<th colspan="2">1</th>
+<th colspan="2">1</th>
+<th>1</th>
+<th colspan="2">3</th>
+<th colspan="2">102</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="2">Музыка</td>
+<td colspan="2">-</td>
+<td colspan="2">-</td>
+<td>-</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="2">Художественный труд</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">3</td>
+<td colspan="2">102</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="2">Физическая культура</th>
+<th colspan="2">3</th>
+<th colspan="2">3</th>
+<th>3</th>
+<th colspan="2">9</th>
+<th colspan="2">306</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="2">Физическая культура</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td colspan="2">9</td>
+<td colspan="2">306</td>
+<td colspan="2">Казахский</td>
+</tr>
+<tr>
+<td colspan="3">Специализированный компонент из инвариантной части</td>
+<td colspan="2">2</td>
+<td colspan="2">5</td>
+<td>5</td>
+<td colspan="2">12</td>
+<td colspan="2">408</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th colspan="3">Инвариантная учебная нагрузка</th>
+<th colspan="2">31,5</th>
+<th colspan="2">32</th>
+<th>33</th>
+<th colspan="2">96,5</th>
+<th colspan="2">3281</th>
+<th colspan="2"></th>
+</tr>
+<tr>
+<th colspan="11">Вариативный компонент</th>
+<th colspan="3"></th>
+</tr>
+<tr>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td colspan="2">3</td>
+<td colspan="2">102</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Элективные курсы</td>
+<td colspan="2">5,5</td>
+<td colspan="2">6</td>
+<td>7</td>
+<td colspan="2">18,5</td>
+<td colspan="2">629</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Вариативная учебная нагрузка</td>
+<td colspan="2">6,5</td>
+<td colspan="2">7</td>
+<td>8</td>
+<td colspan="2">21,5</td>
+<td colspan="2">731</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th colspan="3">Объем максимальной учебной нагрузки</th>
+<th colspan="2">38</th>
+<th colspan="2">39</th>
+<th>41</th>
+<th colspan="2">118</th>
+<th colspan="2">4012</th>
+<th colspan="2"></th>
+</tr>
+</table>
+
+> *Приложение 86*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
+> *от 8 ноября 2012 года № 500*
+
+## Типовой учебный план (обновленного содержания) основного среднего образования для специализированных организаций образования с русским языком обучения (в том числе «Білім инновация- лицеи»)
+
+> *Сноска. Приказ дополнен приложением 86 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="5">Количество часов в неделю по классам Нагрузка, часы</th>
-<th>Язык преподавания</th>
+<th colspan="5">
+Количество часов в неделю по классам
+Нагрузка, часы
+</th>
+<th colspan="2">Язык преподавания</th>
 </tr>
 <tr>
 <th>7</th>
@@ -37510,10 +35281,10 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>9</th>
 <th>недельная</th>
 <th>годовая</th>
-<th></th>
+<th colspan="2"></th>
 </tr>
 <tr>
-<th colspan="7">Инвариантный компонент</th>
+<th colspan="8">Инвариантный компонент</th>
 <th></th>
 </tr>
 <tr>
@@ -37524,7 +35295,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>12</th>
 <th>40</th>
 <th>1360</th>
-<th></th>
+<th colspan="2"></th>
 </tr>
 <tr>
 <td>1</td>
@@ -37534,7 +35305,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>6</td>
 <td>204</td>
-<td>Русский</td>
+<td colspan="2">Русский</td>
 </tr>
 <tr>
 <td>2</td>
@@ -37544,7 +35315,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>6</td>
 <td>204</td>
-<td>Русский</td>
+<td colspan="2">Русский</td>
 </tr>
 <tr>
 <td>3</td>
@@ -37554,7 +35325,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>3</td>
 <td>9</td>
 <td>306</td>
-<td>Казахский</td>
+<td colspan="2">Казахский</td>
 </tr>
 <tr>
 <td>4</td>
@@ -37564,17 +35335,17 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>5</td>
 <td>19</td>
 <td>646</td>
-<td>Английский</td>
+<td colspan="2">Английский</td>
 </tr>
 <tr>
-<th></th>
-<th>Математика и информатика</th>
-<th>4</th>
-<th>4</th>
-<th>4</th>
-<th>12</th>
-<th>408</th>
-<th></th>
+<td></td>
+<td>Математика и информатика</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>12</td>
+<td>408</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5</td>
@@ -37584,7 +35355,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>6</td>
@@ -37594,7 +35365,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>2</td>
 <td>6</td>
 <td>204</td>
-<td>Английский</td>
+<td colspan="2">Английский</td>
 </tr>
 <tr>
 <td>7</td>
@@ -37604,7 +35375,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>3</td>
 <td>102</td>
-<td>Английский</td>
+<td colspan="2">Английский</td>
 </tr>
 <tr>
 <td>8</td>
@@ -37614,7 +35385,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>3</td>
 <td>102</td>
-<td>Английский</td>
+<td colspan="2">Английский</td>
 </tr>
 <tr>
 <th></th>
@@ -37624,7 +35395,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>4</th>
 <th>10,5</th>
 <th>357</th>
-<th></th>
+<th colspan="2"></th>
 </tr>
 <tr>
 <td>9</td>
@@ -37634,7 +35405,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>10</td>
@@ -37644,7 +35415,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>2,5</td>
 <td>85</td>
-<td>Английский</td>
+<td colspan="2">Английский</td>
 </tr>
 <tr>
 <td>11</td>
@@ -37654,7 +35425,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>2,5</td>
 <td>85</td>
-<td>Английский</td>
+<td colspan="2">Английский</td>
 </tr>
 <tr>
 <td>12</td>
@@ -37664,7 +35435,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>2,5</td>
 <td>85</td>
-<td>Английский</td>
+<td colspan="2">Английский</td>
 </tr>
 <tr>
 <td>13</td>
@@ -37674,7 +35445,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>3</td>
 <td>102</td>
-<td>Русский</td>
+<td colspan="2">Русский</td>
 </tr>
 <tr>
 <th></th>
@@ -37684,7 +35455,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>4</th>
 <th>10</th>
 <th>340</th>
-<th></th>
+<th colspan="2"></th>
 </tr>
 <tr>
 <td>14</td>
@@ -37694,7 +35465,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>3</td>
 <td>102</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>15</td>
@@ -37704,7 +35475,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>3</td>
 <td>102</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>16</td>
@@ -37714,7 +35485,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>1</td>
 <td>34</td>
-<td>Русский</td>
+<td colspan="2">Русский</td>
 </tr>
 <tr>
 <td>17</td>
@@ -37724,7 +35495,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>3</td>
 <td>102</td>
-<td>Русский</td>
+<td colspan="2">Русский</td>
 </tr>
 <tr>
 <th></th>
@@ -37734,7 +35505,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>1</th>
 <th>3</th>
 <th>102</th>
-<th></th>
+<th colspan="2"></th>
 </tr>
 <tr>
 <td>18</td>
@@ -37744,7 +35515,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>-</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>19</td>
@@ -37754,94 +35525,85 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>1</td>
 <td>3</td>
 <td>102</td>
-<td>Русский</td>
+<td colspan="2">Русский</td>
 </tr>
 <tr>
 <th></th>
 <th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>6</th>
-<th>204</th>
-<th></th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>9</th>
+<th>306</th>
+<th colspan="2"></th>
 </tr>
 <tr>
 <td>20</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>204</td>
-<td>Русский</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>9</td>
+<td>306</td>
+<td colspan="2">Русский</td>
 </tr>
 <tr>
 <td colspan="2">Специализированный компонент из инвариантной части</td>
-<td>3</td>
-<td>6</td>
-<td>6</td>
-<td>15</td>
-<td>510</td>
-<td></td>
+<td>2</td>
+<td>5</td>
+<td>5</td>
+<td>12</td>
+<td>408</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>31,5</td>
-<td>32</td>
-<td>33</td>
-<td></td>
-<td></td>
-<td></td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>31,5</th>
+<th>32</th>
+<th>33</th>
+<th>96,5</th>
+<th>3281</th>
+<th colspan="2"></th>
 </tr>
 <tr>
-<th colspan="7">Вариативный компонент</th>
+<th colspan="8">Вариативный компонент</th>
 <th></th>
 </tr>
 <tr>
-<td colspan="2">Предметы по выбору</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>18</td>
-<td>612</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Элективные курсы</td>
-<td>0,5</td>
-<td>1</td>
-<td>2</td>
-<td>3,5</td>
-<td>119</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
 <td>3</td>
 <td>102</td>
-<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">Элективные курсы</td>
+<td>5,5</td>
+<td>6</td>
+<td>7</td>
+<td>18,5</td>
+<td>629</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>7,5</td>
+<td>6,5</td>
+<td>7</td>
 <td>8</td>
-<td>9</td>
-<td>24,5</td>
-<td>833</td>
-<td></td>
+<td>21,5</td>
+<td>731</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>38</th>
 <th>39</th>
-<th>40</th>
-<th>42</th>
-<th>121</th>
-<th>4114</th>
-<th></th>
+<th>41</th>
+<th>118</th>
+<th>4012</th>
+<th colspan="2"></th>
 </tr>
 </table>
 
@@ -39613,18 +37375,19 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </table>
 
 > *Приложение 93 к приказу*  
-> *Министра образования и науки Республики Казахстан*  
+> *Министра образования и*  
+> *науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-## Типовой учебный план (обновленного содержания) начального образования для физико-математических школ с казахским языком обучения (в том числе «Республиканская физико-математическая школа»)
+## Типовой учебный план (обновленного содержания) начального образования для физико-математических школ классов с казахским языком обучения (в том числе «Республиканская физико-математическая школа»)
 
-> *Сноска. Приказ дополнен приложением 93 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа).*
+> *Сноска. Приказ дополнен приложением 93 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="4">Количество часов в неделю по классам</th>
+<th colspan="4">Недельное количество часов по классам</th>
 <th colspan="2">Общая нагрузка, часы</th>
 </tr>
 <tr>
@@ -39639,7 +37402,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="8">Инвариантный компонент</th>
 </tr>
 <tr>
-<th></th>
+<th>I</th>
 <th>Язык и литература</th>
 <th>10</th>
 <th>11</th>
@@ -39650,18 +37413,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>1</td>
-<td>Әліппе, Ана тілі</td>
+<td>Обучение грамоте</td>
 <td>6</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td></td>
+<td></td>
+<td></td>
 <td>6</td>
 <td>198</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Казахский язык</td>
-<td>-</td>
+<td>Қазақ тілі</td>
+<td></td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
@@ -39671,7 +37434,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Литературное чтение</td>
-<td>-</td>
+<td></td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -39699,7 +37462,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>270</td>
 </tr>
 <tr>
-<th></th>
+<th>II</th>
 <th>Математика и информатика</th>
 <th>4,5</th>
 <th>5</th>
@@ -39720,7 +37483,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>7</td>
-<td>Цифровая грамотность</td>
+<td>Информационно-коммуникационные технологии</td>
 <td>0,5</td>
 <td>1</td>
 <td>1</td>
@@ -39729,7 +37492,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>118,5</td>
 </tr>
 <tr>
-<th></th>
+<th>III</th>
 <th>Естествознание</th>
 <th>1</th>
 <th>1</th>
@@ -39749,7 +37512,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>135</td>
 </tr>
 <tr>
-<th></th>
+<th>IV</th>
 <th>Человек и общество</th>
 <th>2</th>
 <th>2</th>
@@ -39779,7 +37542,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>135</td>
 </tr>
 <tr>
-<th></th>
+<th>V</th>
 <th>Технология и искусство</th>
 <th>2</th>
 <th>2</th>
@@ -39809,7 +37572,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>135</td>
 </tr>
 <tr>
-<th></th>
+<th>VI</th>
 <th>Физическая культура</th>
 <th>2</th>
 <th>2</th>
@@ -39829,77 +37592,78 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>270</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>21,5</td>
-<td>23</td>
-<td>24</td>
-<td>24</td>
-<td>92,5</td>
-<td>3123,5</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>21,5</th>
+<th>23</th>
+<th>24</th>
+<th>24</th>
+<th>92,5</th>
+<th>3123,5</th>
 </tr>
 <tr>
-<th colspan="8">Вариативный компонент</th>
+<td colspan="8">Вариативный компонент</td>
 </tr>
 <tr>
 <td colspan="2">Занятия по выбору</td>
-<td>2,5</td>
-<td>2,5</td>
-<td>2,5</td>
-<td>2,5</td>
-<td>10</td>
-<td>337,5</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>8</td>
+<td>270</td>
 </tr>
 <tr>
 <td colspan="2">Физическая культура: спортивные игры</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>6</td>
-<td>202,5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td colspan="2">Специализированный компонент (школьный компонент)</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>28</td>
-<td>945</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>24</td>
+<td>810</td>
 </tr>
 <tr>
-<td colspan="2">Вариативная учебная нагрузка</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>44</td>
-<td>1485</td>
+<th colspan="2">Вариативная учебная нагрузка</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>36</th>
+<th>1215</th>
 </tr>
 <tr>
-<th colspan="2">Максимальная учебнаянагрузка</th>
-<th>32,5</th>
-<th>34</th>
-<th>35</th>
-<th>35</th>
-<th>136,5</th>
-<th>4608,5</th>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>30,5</th>
+<th>32</th>
+<th>33</th>
+<th>33</th>
+<th>128,5</th>
+<th>4338,5</th>
 </tr>
 </table>
 
 > *Приложение 94 к приказу*  
-> *Министра образования и науки Республики Казахстан*  
+> *Министра образования и*  
+> *науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-## Типовой учебный план (обновленного содержания) начального образования для физико-математических школ с русским языком обучения (в том числе «Республиканская физико-математическая школа»)
+## Типовой учебный план (обновленного содержания) начального образования для физико-математических школ классов с русским языком обучения (в том числе «Республиканская физико-математическая школа»)
 
-> *Сноска. Приказ дополнен приложением 94 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа).*
+> *Сноска. Приказ дополнен приложением 94 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие в соответствии с пунктом 4 настоящего приказа); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
-<th colspan="4">Количество часов в неделю по классам</th>
+<th colspan="4">Недельное количество часов по классам</th>
 <th colspan="2">Общая нагрузка, часы</th>
 </tr>
 <tr>
@@ -39925,18 +37689,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>1</td>
-<td>Букварь, Обучение грамоте</td>
+<td>Обучение грамоте</td>
 <td>6</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td></td>
+<td></td>
+<td></td>
 <td>6</td>
 <td>198</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Русский язык</td>
-<td>-</td>
+<td></td>
 <td>4</td>
 <td>4</td>
 <td>4</td>
@@ -39946,7 +37710,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <tr>
 <td>3</td>
 <td>Литературное чтение</td>
-<td>-</td>
+<td></td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -39955,7 +37719,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>4</td>
-<td>Казахский язык (Т2)</td>
+<td>Казахский язык</td>
 <td>2</td>
 <td>2</td>
 <td>3</td>
@@ -39995,7 +37759,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>7</td>
-<td>Цифровая грамотность</td>
+<td>Информационно-коммуникационные технологии</td>
 <td>0,5</td>
 <td>1</td>
 <td>1</td>
@@ -40104,78 +37868,79 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>270</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>21,5</td>
-<td>23</td>
-<td>25</td>
-<td>25</td>
-<td>94,5</td>
-<td>3191,5</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>21,5</th>
+<th>23</th>
+<th>25</th>
+<th>25</th>
+<th>94,5</th>
+<th>3191,5</th>
 </tr>
 <tr>
-<th colspan="8">Вариативный компонент</th>
+<td colspan="8">Вариативный компонент</td>
 </tr>
 <tr>
-<td colspan="2">Занятия по выбору</td>
-<td>2,5</td>
-<td>2,5</td>
-<td>2,5</td>
-<td>2,5</td>
-<td>10</td>
-<td>337,5</td>
+<td colspan="2">Предметы по выбору</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>8</td>
+<td>405</td>
 </tr>
 <tr>
 <td colspan="2">Физическая культура: спортивные игры</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
-<td>6</td>
-<td>202,5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>135</td>
 </tr>
 <tr>
 <td colspan="2">Специализированный компонент (школьный компонент)</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>28</td>
-<td>945</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>24</td>
+<td>810</td>
 </tr>
 <tr>
-<td colspan="2">Вариативная учебная нагрузка</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>44</td>
-<td>1485</td>
+<th colspan="2">Вариативная учебная нагрузка</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>36</th>
+<th>1215</th>
 </tr>
 <tr>
-<th colspan="2">Максимальная учебная нагрузка</th>
-<th>32,5</th>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>30,5</th>
+<th>32</th>
 <th>34</th>
-<th>36</th>
-<th>36</th>
-<th>138</th>
-<th>4676,5</th>
+<th>34</th>
+<th>130,5</th>
+<th>4406,5</th>
 </tr>
 </table>
 
-> *Приложение 95*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *Приложение 95 к приказу*  
+> *Министра образования и науки*  
+> *Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-## Типовой учебный план (обновленного содержания) основного среднего образования для физико-математических школ с казахским языком обучения (в том числе «Республиканская физико-математическая школа»)
+## Типовой учебный план (обновленного содержания) основного среднего образования для физико-математических школ классов с казахским языком обучения (в том числе «Республиканская физико-математическая школа»)
 
-> *Сноска. Приказ дополнен приложением 95 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 95 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<th rowspan="2">.№</th>
+<th rowspan="2">№</th>
 <th rowspan="2">Образовательные области и учебные предметы</th>
 <th colspan="5">Недельное количество часов по классам</th>
-<th colspan="2">Нагрузка, часы</th>
+<th colspan="2">Общая нагрузка, часы</th>
 </tr>
 <tr>
 <th>5</th>
@@ -40183,11 +37948,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>7</th>
 <th>8</th>
 <th>9</th>
-<th>Недельная</th>
-<th>Годовая</th>
+<th>недельная</th>
+<th>годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантныйкомпонент</th>
+<th colspan="9">Инвариантный компонент</th>
 </tr>
 <tr>
 <th></th>
@@ -40202,7 +37967,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>1</td>
-<td>Казахский язык</td>
+<td>Қазақ тілі</td>
 <td>3</td>
 <td>3</td>
 <td>2</td>
@@ -40213,7 +37978,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>2</td>
-<td>Казахская литература</td>
+<td>Қазақ әдебиеті</td>
 <td>2</td>
 <td>2</td>
 <td>2</td>
@@ -40224,7 +37989,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>3</td>
-<td>Русскийязык и литература</td>
+<td>Русский язык и литература</td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -40260,9 +38025,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>Математика</td>
 <td>6</td>
 <td>6</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td></td>
+<td></td>
+<td></td>
 <td>12</td>
 <td>408</td>
 </tr>
@@ -40315,9 +38080,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>Естествознание</td>
 <td>1</td>
 <td>1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td></td>
+<td></td>
+<td></td>
 <td>2</td>
 <td>68</td>
 </tr>
@@ -40403,8 +38168,8 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>Основы права</td>
 <td></td>
 <td></td>
-<td>-</td>
-<td>-</td>
+<td></td>
+<td></td>
 <td>1</td>
 <td>1</td>
 <td>34</td>
@@ -40436,9 +38201,9 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>Музыка</td>
 <td>1</td>
 <td>1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td></td>
+<td></td>
+<td></td>
 <td>2</td>
 <td>68</td>
 </tr>
@@ -40476,37 +38241,37 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>340</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>28</td>
-<td>28</td>
-<td>35</td>
-<td>36</td>
-<td>36</td>
-<td>163</td>
-<td>5542</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>28</th>
+<th>28</th>
+<th>35</th>
+<th>36</th>
+<th>36</th>
+<th>163</th>
+<th>5542</th>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
+<td colspan="9">Вариативный компонент</td>
 </tr>
 <tr>
 <td colspan="2">Предметы по выбору</td>
-<td>4,5</td>
-<td>4,5</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>27</td>
-<td>918</td>
+<td>4</td>
+<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>23</td>
+<td>782</td>
 </tr>
 <tr>
 <td colspan="2">Индивидуальные и групповые консультации, занятия развивающего характера</td>
-<td>5,5</td>
-<td>5,5</td>
 <td>4</td>
 <td>4</td>
-<td>4</td>
-<td>23</td>
-<td>782</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>17</td>
+<td>578</td>
 </tr>
 <tr>
 <td colspan="2">Физическая культура: спортивные игры</td>
@@ -40519,41 +38284,42 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<td colspan="2">Вариативная учебная нагрузка</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>55</td>
-<td>1870</td>
+<th colspan="2">Вариативная учебная нагрузка</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>45</th>
+<th>1530</th>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>39</th>
-<th>46</th>
-<th>47</th>
-<th>47</th>
-<th>218</th>
-<th>7412</th>
+<th>37</th>
+<th>37</th>
+<th>44</th>
+<th>45</th>
+<th>45</th>
+<th>208</th>
+<th>7072</th>
 </tr>
 </table>
 
-> *Приложение 96*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *Приложение 96 к приказу*  
+> *Министра образования и науки*  
+> *Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-## Типовой учебный план (обновленного содержания) основного среднего образования для физико-математических школ с русским языком обучения (в том числе «Республиканская физико-математическая школа»)
+## Типовой учебный план (обновленного содержания) основного среднего образования для физико-математических школ классов с русским языком обучения (в том числе «Республиканская физико-математическая школа»)
 
-> *Сноска. Приказ дополнен приложением 96 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 96 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
-<th rowspan="2">Образовательные области и учебные предметы</th>
+<th colspan="2" rowspan="2">Образовательные области и учебные предметы</th>
 <th colspan="5">Недельное количество часов по классам</th>
-<th colspan="2">Нагрузка, часы</th>
+<th colspan="2">Общая нагрузка, часы</th>
 </tr>
 <tr>
 <th>5</th>
@@ -40561,14 +38327,14 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>7</th>
 <th>8</th>
 <th>9</th>
-<th>Недельная</th>
-<th>Годовая</th>
+<th>недельная</th>
+<th>годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантный компонент</th>
+<th colspan="10">Инвариантный компонент</th>
 </tr>
 <tr>
-<th></th>
+<th colspan="2"></th>
 <th>Язык и литература</th>
 <th>12</th>
 <th>12</th>
@@ -40579,7 +38345,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>1802</th>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td>Русский язык</td>
 <td>3</td>
 <td>3</td>
@@ -40590,7 +38356,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>374</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">2</td>
 <td>Русская литература</td>
 <td>2</td>
 <td>2</td>
@@ -40601,7 +38367,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>340</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">3</td>
 <td>Казахский язык и литература</td>
 <td>4</td>
 <td>4</td>
@@ -40612,7 +38378,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>578</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
 <td>Иностранный язык</td>
 <td>3</td>
 <td>3</td>
@@ -40623,7 +38389,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>510</td>
 </tr>
 <tr>
-<th></th>
+<th colspan="2"></th>
 <th>Математика и информатика</th>
 <th>8</th>
 <th>8</th>
@@ -40634,18 +38400,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>1666</th>
 </tr>
 <tr>
-<td>5</td>
+<td colspan="2">5</td>
 <td>Математика</td>
 <td>6</td>
 <td>6</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td></td>
+<td></td>
+<td></td>
 <td>12</td>
 <td>408</td>
 </tr>
 <tr>
-<td>6</td>
+<td colspan="2">6</td>
 <td>Алгебра</td>
 <td></td>
 <td></td>
@@ -40656,7 +38422,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td>7</td>
+<td colspan="2">7</td>
 <td>Геометрия</td>
 <td></td>
 <td></td>
@@ -40667,7 +38433,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">8</td>
 <td>Информатика</td>
 <td>2</td>
 <td>2</td>
@@ -40678,7 +38444,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>442</td>
 </tr>
 <tr>
-<th></th>
+<th colspan="2"></th>
 <th>Естествознание</th>
 <th>1</th>
 <th>1</th>
@@ -40689,18 +38455,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>850</th>
 </tr>
 <tr>
-<td>9</td>
+<td colspan="2">9</td>
 <td>Естествознание</td>
 <td>1</td>
 <td>1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td></td>
+<td></td>
+<td></td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">10</td>
 <td>География</td>
 <td></td>
 <td></td>
@@ -40711,7 +38477,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>102</td>
 </tr>
 <tr>
-<td>11</td>
+<td colspan="2">11</td>
 <td>Биология</td>
 <td></td>
 <td></td>
@@ -40722,7 +38488,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>102</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td>Физика</td>
 <td></td>
 <td></td>
@@ -40733,7 +38499,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>408</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
 <td>Химия</td>
 <td></td>
 <td></td>
@@ -40744,7 +38510,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<th></th>
+<th colspan="2"></th>
 <th>Человек и общество</th>
 <th>4</th>
 <th>4</th>
@@ -40755,7 +38521,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>714</th>
 </tr>
 <tr>
-<td>14</td>
+<td colspan="2">14</td>
 <td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
@@ -40766,7 +38532,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>340</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">15</td>
 <td>Всемирная история</td>
 <td>1</td>
 <td>1</td>
@@ -40777,18 +38543,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<td>16</td>
+<td colspan="2">16</td>
 <td>Основы права</td>
 <td></td>
 <td></td>
-<td>-</td>
-<td>-</td>
+<td></td>
+<td></td>
 <td>1</td>
 <td>1</td>
 <td>34</td>
 </tr>
 <tr>
-<td>17</td>
+<td colspan="2">17</td>
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
@@ -40799,7 +38565,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<th></th>
+<th colspan="2"></th>
 <th>Технология и искусство</th>
 <th>2</th>
 <th>2</th>
@@ -40810,18 +38576,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>238</th>
 </tr>
 <tr>
-<td>18</td>
+<td colspan="2">18</td>
 <td>Музыка</td>
 <td>1</td>
 <td>1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td></td>
+<td></td>
+<td></td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<td>19</td>
+<td colspan="2">19</td>
 <td>Художественный труд</td>
 <td>1</td>
 <td>1</td>
@@ -40832,7 +38598,18 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<td>VI</td>
+<th colspan="2"></th>
+<th>Физическая культура</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>10</th>
+<th>340</th>
+</tr>
+<tr>
+<td colspan="2">20</td>
 <td>Физическая культура</td>
 <td>2</td>
 <td>2</td>
@@ -40843,51 +38620,40 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>340</td>
 </tr>
 <tr>
-<td>20</td>
-<td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>340</td>
+<th colspan="3">Инвариантная учебная нагрузка</th>
+<th>29</th>
+<th>29</th>
+<th>35</th>
+<th>36</th>
+<th>36</th>
+<th>165</th>
+<th>5610</th>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>29</td>
-<td>29</td>
-<td>35</td>
-<td>36</td>
-<td>36</td>
-<td>165</td>
-<td>5610</td>
+<th colspan="10">Вариативный компонент</th>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
-</tr>
-<tr>
-<td colspan="2">Предметы по выбору</td>
-<td>4,5</td>
-<td>4,5</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>27</td>
-<td>918</td>
-</tr>
-<tr>
-<td colspan="2">Индивидуальные и групповые консультации, занятия развивающего характера</td>
-<td>5,5</td>
-<td>5,5</td>
+<td colspan="3">Предметы по выбору</td>
 <td>4</td>
 <td>4</td>
-<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 <td>23</td>
 <td>782</td>
 </tr>
 <tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
+<td colspan="3">Индивидуальные и групповые консультации, занятия развивающего характера</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>17</td>
+<td>578</td>
+</tr>
+<tr>
+<td colspan="3">Физическая культура: спортивные игры</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -40897,314 +38663,46 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<td colspan="2">Вариативная учебная нагрузка</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>11</td>
-<td>55</td>
-<td>1870</td>
+<th colspan="3">Вариативная учебная нагрузка</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>9</th>
+<th>45</th>
+<th>1530</th>
 </tr>
 <tr>
-<th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>40</th>
-<th>40</th>
-<th>46</th>
-<th>47</th>
-<th>47</th>
-<th>220</th>
-<th>7480</th>
+<th colspan="3">Объем максимальной учебной нагрузки</th>
+<th>38</th>
+<th>38</th>
+<th>44</th>
+<th>45</th>
+<th>45</th>
+<th>210</th>
+<th>7140</th>
 </tr>
 </table>
 
-> *Приложение 97*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *Приложение 97 к приказу*  
+> *Министра образования и науки*  
+> *Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-## Типовой учебный план (обновленного содержания) общего среднего образования для физико-математических школ с казахским языком обучения (в том числе, «Республиканская физико-математическая школа»)
+## Типовой учебный план (обновленного содержания) общего среднего образования для физико-математических школ классов с казахским языком обучения (в том числе «Республиканская физико-математическая школа»)
 
-> *Сноска. Приказ дополнен приложением 97 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 97 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
-<th rowspan="2">Учебныепредметы</th>
-<th colspan="2">количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
+<th rowspan="2">Образовательные области и учебные предметы</th>
+<th colspan="2">Недельное количество часов по классам</th>
+<th colspan="2">Общая нагрузка, часы</th>
 </tr>
 <tr>
-<th>10</th>
-<th>11</th>
-<th>Недельная</th>
-<th>Годовая</th>
-</tr>
-<tr>
-<th colspan="6">Инвариантный компонент</th>
-</tr>
-<tr>
-<th colspan="6">Обязательные предметы</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Алгебра и начала анализа</td>
-<td>5</td>
-<td>5</td>
-<td>10</td>
-<td>340</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Геометрия</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Информатика</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Физика</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Казахский язык</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Казахская литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Русский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>9</td>
-<td>История Казахстана</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Самопознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>11</td>
-<td>География</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Начальная военная и технологическая подготовка</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<th colspan="6">Предметы по выбору</th>
-</tr>
-<tr>
-<td></td>
-<td>Углубленныйуровень</td>
-<td>2 предмета по 2 часа</td>
-<td>2 предмета по 2 часа</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18</td>
-<td>Информатика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Стандартный уровень</td>
-<td>1 предмет по 1 часу</td>
-<td>1 предмет по 1 часу</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22</td>
-<td>Графика и проектирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>36</td>
-<td>36</td>
-<td>72</td>
-<td>2448</td>
-</tr>
-<tr>
-<th colspan="6">Вариативный компонент</th>
-</tr>
-<tr>
-<td colspan="2">Предметы по выбору</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">Индивидуальные и групповые консультации и занятия</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура: спортивныеи гры</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td colspan="2">Вариативная учебная нагрузка</td>
-<td>11</td>
-<td>11</td>
-<td>22</td>
-<td>748</td>
-</tr>
-<tr>
-<th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>47</th>
-<th>47</th>
-<th>94</th>
-<th>3196</th>
-</tr>
-</table>
-
-> *Приложение 98*  
-> *к приказу Министра образования и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
-
-## Типовой учебный план (обновленного содержания) общего среднего образования для физико-математических школ с русским языком обучения (в том числе «Республиканская физико-математическая школа»)
-
-> *Сноска. Приказ дополнен приложением 98 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
-
-<table>
-<tr>
-<th rowspan="2">№</th>
-<th rowspan="2">Учебныепредметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
-</tr>
-<tr>
-<th>10</th>
-<th>11</th>
+<th>10 класс</th>
+<th>11 класс</th>
 <th>недельная</th>
 <th>годовая</th>
 </tr>
@@ -41212,9 +38710,6 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="6">Инвариантный компонент</th>
 </tr>
 <tr>
-<th colspan="6">Обязательные предметы</th>
-</tr>
-<tr>
 <td>1</td>
 <td>Алгебра и начала анализа</td>
 <td>5</td>
@@ -41248,7 +38743,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>5</td>
-<td>Русский язык</td>
+<td>Химия</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
@@ -41256,22 +38751,38 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>6</td>
-<td>Русская литература</td>
+<td>Биология</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Қазақ тілі</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Қазақ әдебиеті</td>
 <td>2</td>
 <td>2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Казахский язык и литература</td>
+<td>9</td>
+<td>Русский язык и литература</td>
 <td>3</td>
 <td>3</td>
 <td>6</td>
 <td>204</td>
 </tr>
 <tr>
-<td>8</td>
+<td>10</td>
 <td>Иностранный язык</td>
 <td>3</td>
 <td>3</td>
@@ -41279,7 +38790,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td>9</td>
+<td>11</td>
 <td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
@@ -41287,7 +38798,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>136</td>
 </tr>
 <tr>
-<td>10</td>
+<td>12</td>
+<td>Всемирная история</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Основы права</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>14</td>
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
@@ -41295,7 +38822,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>11</td>
+<td>15</td>
 <td>География</td>
 <td>1</td>
 <td>1</td>
@@ -41303,7 +38830,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>12</td>
+<td>16</td>
 <td>Физическая культура</td>
 <td>2</td>
 <td>2</td>
@@ -41311,7 +38838,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>136</td>
 </tr>
 <tr>
-<td>13</td>
+<td>17</td>
 <td>Начальная военная и технологическая подготовка</td>
 <td>1</td>
 <td>1</td>
@@ -41319,119 +38846,35 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<th colspan="6">Предметы по выбору</th>
-</tr>
-<tr>
-<td></td>
-<td>Углубленный уровень</td>
-<td>2 предметапо 2 часа</td>
-<td>2 предметапо 2 часа</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18</td>
-<td>Информатика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Стандартный уровень</td>
-<td>1 предмет по 1 часу</td>
-<td>1 предмет по 1 часу</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22</td>
-<td>Графика и проектирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>36</td>
-<td>36</td>
-<td>72</td>
-<td>2448</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>35</th>
+<th>35</th>
+<th>70</th>
+<th>2380</th>
 </tr>
 <tr>
 <th colspan="6">Вариативный компонент</th>
 </tr>
 <tr>
-<td colspan="2">Предметы по выбору</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td colspan="2">Индивидуальные и групповые консультации и занятия</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
+<td colspan="2">Предметы по выбору</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>340</td>
+</tr>
+<tr>
+<td colspan="2">Индивидуальные и групповые консультации, занятия развивающего характера</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
 </tr>
 <tr>
 <td colspan="2">Физическая культура: спортивные игры</td>
@@ -41441,826 +38884,866 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td colspan="2">Вариативная учебная нагрузка</td>
-<td>11</td>
-<td>11</td>
-<td>22</td>
-<td>748</td>
+<th colspan="2">Вариативная учебная нагрузка</th>
+<th>10</th>
+<th>10</th>
+<th>20</th>
+<th>680</th>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>47</th>
-<th>47</th>
-<th>94</th>
-<th>3196</th>
+<th>45</th>
+<th>45</th>
+<th>90</th>
+<th>3060</th>
+</tr>
+</table>
+
+> *Приложение 98 к приказу*  
+> *Министра образования и науки*  
+> *Республики Казахстан*  
+> *от 8 ноября 2012 года № 500*
+
+## Типовой учебный план (обновленного содержания) общего среднего образования для физико-математических школ классов с русским языком обучения (в том числе «Республиканская физико-математическая школа»)
+
+> *Сноска. Приказ дополнен приложением 98 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<th rowspan="2">№</th>
+<th rowspan="2">Образовательные области и учебные предметы</th>
+<th colspan="2">Недельное количество часов по классам</th>
+<th colspan="2">Общая нагрузка, часы</th>
+</tr>
+<tr>
+<th>10 класс</th>
+<th>11 класс</th>
+<th>недельная</th>
+<th>годовая</th>
+</tr>
+<tr>
+<th colspan="6">Инвариантный компонент</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Алгебра и начала анализа</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>340</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Геометрия</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>272</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Информатика</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Физика</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>272</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Химия</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Биология</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Русский язык</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Русская литература</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Казахский язык и литература</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Иностранный язык</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>11</td>
+<td>История Казахстана</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Всемирная история</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Основы права</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Самопознание</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
+<td>География</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Физическая культура</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Начальная военная и технологическая подготовка</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>35</th>
+<th>35</th>
+<th>70</th>
+<th>2380</th>
+</tr>
+<tr>
+<th colspan="6">Вариативный компонент</th>
+</tr>
+<tr>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td colspan="2">Предметы по выбору</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>340</td>
+</tr>
+<tr>
+<td colspan="2">Индивидуальные и групповые консультации, занятия развивающего характера</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td colspan="2">Физическая культура: спортивные игры</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<th colspan="2">Вариативная учебная нагрузка</th>
+<th>10</th>
+<th>10</th>
+<th>20</th>
+<th>680</th>
+</tr>
+<tr>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>45</th>
+<th>45</th>
+<th>90</th>
+<th>3060</th>
 </tr>
 </table>
 
 > *Приложение 99 к приказу*  
-> *Министра образования и науки Республики Казахстан*  
+> *Министра образования и*  
+> *науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления с казахским языком обучения
 
-> *Сноска. Приказ дополнен приложением 99 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 99 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Учебные предметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
+<th colspan="4">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
 </tr>
 <tr>
-<th>10</th>
-<th>11</th>
+<th>10 класс</th>
+<th colspan="2">11 класс</th>
 <th>недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="6">Инвариантный компонент</th>
+<th colspan="7">Инвариантный компонент</th>
 </tr>
 <tr>
-<td colspan="6">Обязательные предметы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
 <td>1</td>
-<td>1</td>
+<td>Қазақ тілі</td>
 <td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Казахский язык</td>
-<td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Казахская литература</td>
+<td>2</td>
+<td>Қазақ әдебиеті</td>
 <td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
 <td>6</td>
 <td>204</td>
 </tr>
 <tr>
-<td>6.</td>
+<td>3</td>
 <td>Русский язык и литература</td>
 <td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>7.</td>
+<td>4</td>
 <td>Иностранный язык</td>
 <td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
 <td>6</td>
 <td>204</td>
 </tr>
 <tr>
-<td>8.</td>
+<td>5</td>
+<td>Алгебра и начала анализа</td>
+<td>3</td>
+<td colspan="2">3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Геометрия</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Информатика</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Физика</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Химия</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Биология</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>11</td>
+<td>География</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>12</td>
 <td>История Казахстана</td>
 <td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Самопознание</td>
+<td>13</td>
+<td>Всемирная история</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Основы права</td>
 <td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>15</td>
+<td>Самопознание</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
 <td>Физическая культура</td>
 <td>3</td>
-<td>3</td>
+<td colspan="2">3</td>
 <td>6</td>
 <td>204</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>17</td>
 <td>Начальная военная и технологическая подготовка</td>
 <td>1</td>
-<td>1</td>
+<td colspan="2">1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>22</td>
-<td>22</td>
-<td>44</td>
-<td>1496</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>29</th>
+<th colspan="2">29</th>
+<th>58</th>
+<th>1972</th>
 </tr>
 <tr>
-<th colspan="6">Предметы по выбору</th>
+<td colspan="7">Вариативный компонент</td>
 </tr>
 <tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 3 часа</td>
-<td>2 предмета по 3 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Иностранный язык (второй)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>2 предмета по 2 часа</td>
-<td>2 предмета по 2 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>32</td>
-<td>32</td>
-<td>64</td>
-<td>2176</td>
-</tr>
-<tr>
-<th colspan="6">Вариативный компонент</th>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td>1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
 <td>7</td>
 <td>7</td>
-<td>14</td>
+<td colspan="2">14</td>
 <td>476</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>7</td>
-<td>7</td>
-<td>14</td>
-<td>476</td>
+<td>8</td>
+<td>8</td>
+<td colspan="2">16</td>
+<td>544</td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>39</th>
-<th>78</th>
-<th>2652</th>
+<th>37</th>
+<th>37</th>
+<th colspan="2">74</th>
+<th>2516</th>
 </tr>
 </table>
 
-Примечание: для обучающихся с особыми образовательными потребностями в рамках часов, выделенных на индивидуальные и групповые занятия организуются коррекционно-развивающие занятия
-
 > *Приложение 100*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления с казахским языком обучения
 
-> *Сноска. Приказ дополнен приложением 100 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 100 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Учебные предметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
+<th colspan="4">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
 </tr>
 <tr>
-<th>10</th>
-<th>11</th>
+<th colspan="2">10 класс</th>
+<th>11 класс</th>
 <th>недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="6">Инвариантный компонент</th>
+<th colspan="7">Инвариантный компонент</th>
 </tr>
 <tr>
-<td colspan="6">Обязательные предметы</td>
+<td>1</td>
+<td>Қазақ тілі</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
+<td>2</td>
+<td>Қазақ әдебиеті</td>
+<td colspan="2">2</td>
+<td>2</td>
 <td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Русский язык и литература</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Иностранный язык</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Алгебра и начала анализа</td>
+<td colspan="2">4</td>
 <td>4</td>
 <td>8</td>
 <td>272</td>
 </tr>
 <tr>
-<td>2.</td>
+<td>6</td>
 <td>Геометрия</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>3.</td>
+<td>7</td>
 <td>Информатика</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Казахский язык</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Казахская литература</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Русский язык и литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>История Казахстана</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Самопознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Физическая культура</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Начальная военная и технологическая подготовка</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>23</td>
-<td>23</td>
-<td>46</td>
-<td>1564</td>
-</tr>
-<tr>
-<th colspan="6">Предметы по выбору</th>
-</tr>
-<tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 4 часа</td>
-<td>2 предмета по 4 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.</td>
+<td>8</td>
 <td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>8</td>
-<td>8</td>
-<td>16</td>
-<td>544</td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>1 предмет по 2 часа</td>
-<td>1 предмет по 2 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Графика и проектирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>33</td>
-<td>33</td>
-<td>66</td>
-<td>2244</td>
+<td>9</td>
+<td>Химия</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
-<th colspan="6">Вариативный компонент</th>
+<td>10</td>
+<td>Биология</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>11</td>
+<td>География</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>12</td>
+<td>История Казахстана</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Всемирная история</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Основы права</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Самопознание</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Физическая культура</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Начальная военная и технологическая подготовка</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th colspan="2">33</th>
+<th>33</th>
+<th>66</th>
+<th>2244</th>
+</tr>
+<tr>
+<th colspan="7">Вариативный компонент</th>
+</tr>
+<tr>
+<th colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</th>
+<th>1</th>
+<th colspan="2">1</th>
+<th>2</th>
+<th>68</th>
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
+<td>3</td>
+<td colspan="2">3</td>
 <td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
+<td>204</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
+<td>4</td>
+<td colspan="2">4</td>
+<td>8</td>
+<td>272</td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>39</th>
-<th>78</th>
-<th>2652</th>
+<th>37</th>
+<th colspan="2">37</th>
+<th>74</th>
+<th>2516</th>
 </tr>
 </table>
 
 > *Приложение 101*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления с русским языком обучения
 
-> *Сноска. Приказ дополнен приложением 101 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 101 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<th rowspan="2">№</th>
+<th colspan="2" rowspan="2">№</th>
 <th rowspan="2">Учебные предметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
+<th colspan="3">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
 </tr>
 <tr>
-<th>10</th>
-<th>11</th>
+<th>10 класс</th>
+<th>11 класс</th>
 <th>недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="6">Инвариантный компонент</th>
+<th colspan="7">Инвариантный компонент</th>
 </tr>
 <tr>
-<td colspan="6">Обязательные предметы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
 <td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Русский язык</td>
+<td colspan="2">Русский язык</td>
 <td>2</td>
 <td>2</td>
-<td>2</td>
+<td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Русская литература</td>
+<td>2</td>
+<td colspan="2">Русская литература</td>
 <td>3</td>
 <td>3</td>
 <td>6</td>
 <td>204</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Казахский язык и литература</td>
+<td>3</td>
+<td colspan="2">Казахский язык и литература</td>
 <td>5</td>
 <td>5</td>
 <td>10</td>
 <td>340</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Иностранный язык</td>
+<td>4</td>
+<td colspan="2">Иностранный язык</td>
 <td>3</td>
 <td>3</td>
 <td>6</td>
 <td>204</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>История Казахстана</td>
+<td>5</td>
+<td colspan="2">Алгебра и начала анализа</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">Геометрия</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2">Информатика</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2">Физика</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2">Химия</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2">Биология</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="2">География</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2">История Казахстана</td>
 <td>2</td>
 <td>2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Самопознание</td>
+<td>13</td>
+<td colspan="2">Всемирная история</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="2">Основы права</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<td>10.</td>
-<td>Физическая культура</td>
+<td>15</td>
+<td colspan="2">Самопознание</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="2">Физическая культура</td>
 <td>3</td>
 <td>3</td>
 <td>6</td>
 <td>204</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Начальная военная и технологическая подготовка</td>
+<td>17</td>
+<td colspan="2">Начальная военная и технологическая подготовка</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>25</td>
-<td>25</td>
-<td>50</td>
-<td>1700</td>
+<th colspan="3">Инвариантная учебная нагрузка</th>
+<th>32</th>
+<th>32</th>
+<th>64</th>
+<th>2176</th>
 </tr>
 <tr>
-<td colspan="6">Предметы по выбору</td>
+<td colspan="7">Вариативный компонент</td>
 </tr>
 <tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 3 часа</td>
-<td>2 предмета по 3 часа</td>
-<td></td>
-<td></td>
+<td colspan="3">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Иностранный язык</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>2 предмета по 2 часа</td>
-<td>2 предмета по 2 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
+<td colspan="3">Элективные курсы</td>
 <td>4</td>
 <td>4</td>
 <td>8</td>
 <td>272</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>35</td>
-<td>35</td>
-<td>70</td>
-<td>2380</td>
+<td colspan="3">Вариативная учебная нагрузка</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>340</td>
 </tr>
 <tr>
-<th colspan="6">Вариативный компонент</th>
-</tr>
-<tr>
-<td colspan="2">Элективные курсы</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td colspan="2">Вариативная учебная нагрузка</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>39</th>
-<th>78</th>
-<th>2652</th>
+<th colspan="3">Объем максимальной учебной нагрузки</th>
+<th>37</th>
+<th>37</th>
+<th>74</th>
+<th>2516</th>
 </tr>
 </table>
 
 > *Приложение 102*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления с русским языком обучения
 
-> *Сноска. Приказ дополнен приложением 102 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 102 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Учебные предметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
+<th colspan="3">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
 </tr>
 <tr>
-<th>10</th>
-<th>11</th>
+<th>10 класс</th>
+<th>11 класс</th>
 <th>недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="6">Инвариантный компонент</th>
+<td colspan="6">Инвариантный компонент</td>
 </tr>
 <tr>
-<td colspan="6">Обязательные предметы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>4.</td>
+<td>1</td>
 <td>Русский язык</td>
 <td>1</td>
 <td>1</td>
@@ -42268,7 +39751,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>5.</td>
+<td>2</td>
 <td>Русская литература</td>
 <td>2</td>
 <td>2</td>
@@ -42276,7 +39759,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>136</td>
 </tr>
 <tr>
-<td>6.</td>
+<td>3</td>
 <td>Казахский язык и литература</td>
 <td>5</td>
 <td>5</td>
@@ -42284,7 +39767,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>340</td>
 </tr>
 <tr>
-<td>7.</td>
+<td>4</td>
 <td>Иностранный язык</td>
 <td>3</td>
 <td>3</td>
@@ -42292,7 +39775,63 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td>8.</td>
+<td>5</td>
+<td>Алгебра и начала анализа</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>272</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Геометрия</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Информатика</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Физика</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Химия</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Биология</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>11</td>
+<td>География</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>12</td>
 <td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
@@ -42300,7 +39839,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>136</td>
 </tr>
 <tr>
-<td>9.</td>
+<td>13</td>
+<td>Всемирная история</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Основы права</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
@@ -42308,7 +39863,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>16</td>
 <td>Физическая культура</td>
 <td>3</td>
 <td>3</td>
@@ -42316,7 +39871,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>17</td>
 <td>Начальная военная и технологическая подготовка</td>
 <td>1</td>
 <td>1</td>
@@ -42324,416 +39879,273 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>26</td>
-<td>26</td>
-<td>52</td>
-<td>1768</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>36</th>
+<th>36</th>
+<th>72</th>
+<th>2448</th>
 </tr>
 <tr>
-<td colspan="6">Предметы по выбору</td>
+<td colspan="6">Вариативный компонент</td>
 </tr>
 <tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 4 часа</td>
-<td>2 предмета по 4 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>8</td>
-<td>8</td>
-<td>16</td>
-<td>544</td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>1 предмет по 2 часа</td>
-<td>1 предмет по 2 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Графика и проектирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>36</td>
-<td>36</td>
-<td>72</td>
-<td>2448</td>
-</tr>
-<tr>
-<th colspan="6">Вариативный компонент</th>
+<td>68</td>
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>39</th>
-<th>78</th>
-<th>2652</th>
+<th>37</th>
+<th>37</th>
+<th>74</th>
+<th>2516</th>
 </tr>
 </table>
 
 > *Приложение 103*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления с уйгурским, узбекским, таджикским языками обучения
 
-> *Сноска. Приказ дополнен приложением 103 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 103 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Учебные предметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
+<th colspan="5">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
 </tr>
 <tr>
-<th>10</th>
-<th>11</th>
+<th colspan="2">10 класс</th>
+<th colspan="2">11 класс</th>
 <th>недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="6">Инвариантный компонент</th>
+<th colspan="8">Инвариантный компонент</th>
 </tr>
 <tr>
-<td colspan="6">Обязательные предметы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
 <td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>4.</td>
 <td>Родной язык</td>
-<td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>5.</td>
+<td>2</td>
 <td>Родная литература</td>
-<td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>6.</td>
+<td>3</td>
 <td>Казахский язык и литература</td>
-<td>4</td>
-<td>4</td>
+<td colspan="2">4</td>
+<td colspan="2">4</td>
 <td>8</td>
 <td>272</td>
 </tr>
 <tr>
-<td>7.</td>
+<td>4</td>
 <td>Русский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>История Казахстана</td>
-<td>2</td>
-<td>2</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>10.</td>
-<td>Самопознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Физическая культура</td>
-<td>3</td>
-<td>3</td>
+<td>5</td>
+<td>Иностранный язык</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
 <td>6</td>
 <td>204</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Начальная военная и технологическая подготовка</td>
-<td>1</td>
-<td>1</td>
+<td>6</td>
+<td>Алгебра и начала анализа</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Геометрия</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>26</td>
-<td>26</td>
-<td>52</td>
-<td>1768</td>
-</tr>
-<tr>
-<td colspan="6">Предметы по выбору</td>
-</tr>
-<tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 3 часа</td>
-<td>2 предмета по 3 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Иностранный язык</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>2 предмета по 2 часа</td>
-<td>2 предмета по 2 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>4</td>
-<td>4</td>
 <td>8</td>
-<td>272</td>
+<td>Информатика</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>36</td>
-<td>36</td>
-<td>72</td>
-<td>2448</td>
+<td>9</td>
+<td>Физика</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<th colspan="6">Вариативный компонент</th>
+<td>10</td>
+<td>Химия</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Биология</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>12</td>
+<td>География</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>13</td>
+<td>История Казахстана</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Всемирная история</td>
+<td colspan="2">2</td>
+<td colspan="2">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Основы права</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Самопознание</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Физическая культура</td>
+<td colspan="2">3</td>
+<td colspan="2">3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Начальная военная и технологическая подготовка</td>
+<td colspan="2">1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th colspan="2">32</th>
+<th colspan="2">32</th>
+<th>64</th>
+<th>2176</th>
+</tr>
+<tr>
+<td colspan="8">Вариативный компонент</td>
+</tr>
+<tr>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td>68</td>
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
+<td>4</td>
+<td colspan="2">4</td>
+<td colspan="2">8</td>
+<td>272</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
+<td>5</td>
+<td colspan="2">5</td>
+<td colspan="2">10</td>
+<td>340</td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>39</th>
-<th>78</th>
-<th>2652</th>
+<th>37</th>
+<th colspan="2">37</th>
+<th colspan="2">74</th>
+<th>2516</th>
 </tr>
 </table>
 
 > *Приложение 104*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления с уйгурским, узбекским, таджикским языками обучения
 
-> *Сноска. Приказ дополнен приложением 104 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказа и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 104 в соответствии с приказом Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); в редакции приказов и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Учебные предметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
+<th colspan="3">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
 </tr>
 <tr>
-<th>10</th>
-<th>11</th>
+<th>10 класс</th>
+<th>11 класс</th>
 <th>недельная</th>
 <th>годовая</th>
 </tr>
@@ -42741,66 +40153,39 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="6">Инвариантный компонент</th>
 </tr>
 <tr>
-<td colspan="6">Обязательные предметы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>4.</td>
+<td>1</td>
 <td>Родной язык</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Родная литература</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Казахский язык и литература</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Русский язык и литература</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Родная литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Казахский язык и литература</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Русский язык и литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>8.</td>
+<td>5</td>
 <td>Иностранный язык</td>
 <td>3</td>
 <td>3</td>
@@ -42808,7 +40193,63 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td>9.</td>
+<td>6</td>
+<td>Алгебра и начала анализа</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>272</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Геометрия</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Информатика</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Физика</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Химия</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Биология</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>12</td>
+<td>География</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>13</td>
 <td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
@@ -42816,7 +40257,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>136</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>14</td>
+<td>Всемирная история</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Основы права</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
@@ -42824,7 +40281,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>17</td>
 <td>Физическая культура</td>
 <td>3</td>
 <td>3</td>
@@ -42832,7 +40289,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td>12.</td>
+<td>18</td>
 <td>Начальная военная и технологическая подготовка</td>
 <td>1</td>
 <td>1</td>
@@ -42840,137 +40297,42 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>27</td>
-<td>27</td>
-<td>54</td>
-<td>1836</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>35</th>
+<th>35</th>
+<th>70</th>
+<th>2380</th>
 </tr>
 <tr>
-<th colspan="6">Предметы по выбору</th>
+<td colspan="6">Вариативный компонент</td>
 </tr>
 <tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 4 часа</td>
-<td>2 предмета по 4 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
-<td>8</td>
-<td>8</td>
-<td>16</td>
-<td>544</td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>1 предмет по 2 часа</td>
-<td>1 предмет по 2 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Графика и проектирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Учебная нагрузка</td>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>37</td>
-<td>37</td>
-<td>74</td>
-<td>2516</td>
-</tr>
-<tr>
-<th colspan="6">Вариативный компонент</th>
+<td>68</td>
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
+<td>1</td>
+<td>1</td>
 <td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
+<td>68</td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>39</th>
-<th>78</th>
-<th>2652</th>
+<th>36</th>
+<th>36</th>
+<th>72</th>
+<th>2448</th>
 </tr>
 </table>
 
@@ -44149,12 +41511,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </table>
 
 > *Приложение 109*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) для специализированных организаций основного среднего образования общественно-гуманитарного направления с углубленным изучением учебных предметов «Казахский язык» и «Казахская литература» с казахским языком обучения (включая сеть организаций образования «Школы Абая»)
 
-> *Сноска. Приказ дополнен приложением 109 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 109 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказа Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -44173,7 +41536,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="9">Инвариантный компонент</th>
+<td colspan="9">Инвариантный компонент</td>
 </tr>
 <tr>
 <th></th>
@@ -44242,15 +41605,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>510</td>
 </tr>
 <tr>
-<th></th>
-<th>Человек и общество</th>
-<th>4</th>
-<th>4</th>
-<th>4</th>
-<th>4</th>
-<th>5</th>
-<th>21</th>
-<th>714</th>
+<td></td>
+<td>Человек и общество</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>5</td>
+<td>21</td>
+<td>714</td>
 </tr>
 <tr>
 <td>6</td>
@@ -44352,15 +41715,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<th></th>
-<th>Естествознание</th>
-<th>1</th>
-<th>1</th>
-<th>4</th>
-<th>4</th>
-<th>4</th>
-<th>14</th>
-<th>476</th>
+<td></td>
+<td>Естествознание</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>14</td>
+<td>476</td>
 </tr>
 <tr>
 <td>14</td>
@@ -44418,15 +41781,15 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>102</td>
 </tr>
 <tr>
-<th></th>
-<th>Технология и искусство</th>
-<th>2</th>
-<th>2</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>7</th>
-<th>238</th>
+<td></td>
+<td>Технология и искусство</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>7</td>
+<td>238</td>
 </tr>
 <tr>
 <td>19</td>
@@ -44451,62 +41814,42 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<th></th>
-<th>Физическая культура</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>10</th>
-<th>340</th>
+<td></td>
+<td>Физическая культура</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>15</td>
+<td>510</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Физическая культура</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>10</td>
-<td>340</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>15</td>
+<td>510</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>30</td>
-<td>30</td>
-<td>30</td>
-<td>32</td>
-<td>33</td>
-<td>155</td>
-<td>5270</td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>31</th>
+<th>31</th>
+<th>31</th>
+<th>33</th>
+<th>34</th>
+<th>160</th>
+<th>5440</th>
 </tr>
 <tr>
-<th colspan="9">Вариативный компонент</th>
+<td colspan="9">Вариативный компонент</td>
 </tr>
 <tr>
-<td colspan="2">Предметы по выбору</td>
-<td>4</td>
-<td>4</td>
-<td>6</td>
-<td>5</td>
-<td>5</td>
-<td>24</td>
-<td>816</td>
-</tr>
-<tr>
-<td colspan="2">Элективные курсы</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>20</td>
-<td>680</td>
-</tr>
-<tr>
-<td colspan="2">Физкультура: спортивные игры</td>
+<td colspan="2">Глобальные компетенции или другие курсы по выбору</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
@@ -44516,34 +41859,55 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>170</td>
 </tr>
 <tr>
-<td colspan="2">Вариативная учебная нагрузка</td>
-<td>9</td>
-<td>9</td>
-<td>11</td>
-<td>10</td>
-<td>10</td>
-<td>49</td>
-<td>1666</td>
+<td colspan="2">Предметы по выбору</td>
+<td>3</td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>19</td>
+<td>646</td>
 </tr>
 <tr>
-<th colspan="2">Объеммаксимальнойучебнойнагрузки</th>
-<th>39</th>
-<th>39</th>
+<td colspan="2">Элективные курсы</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>15</td>
+<td>510</td>
+</tr>
+<tr>
+<td colspan="2">Вариативная учебная нагрузка</td>
+<td>7</td>
+<td>7</td>
+<td>9</td>
+<td>8</td>
+<td>8</td>
+<td>39</td>
+<td>1326</td>
+</tr>
+<tr>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>38</th>
+<th>38</th>
+<th>40</th>
 <th>41</th>
 <th>42</th>
-<th>43</th>
-<th>204</th>
-<th>6936</th>
+<th>199</th>
+<th>6766</th>
 </tr>
 </table>
 
 > *Приложение 110*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования*  
+> *и науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) для специализированных организаций общего среднего образования общественно-гуманитарного направления с углубленным изучением учебных предметов «Казахский язык» и «Казахская литература» (вкючая сеть организаций образования«Школы Абая») с казахским языком обучения
 
-> *Сноска. Приказ дополнен приложением 110 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 110 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказа Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -44560,9 +41924,6 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th colspan="6">Инвариантный компонент</th>
-</tr>
-<tr>
-<th colspan="6">Обязательные предметы</th>
 </tr>
 <tr>
 <td>1</td>
@@ -44606,22 +41967,6 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>6</td>
-<td>История Казахстана</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Всемирная история</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>8</td>
 <td>Алгебра и начала анализа</td>
 <td>2</td>
 <td>2</td>
@@ -44629,7 +41974,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>136</td>
 </tr>
 <tr>
-<td>9</td>
+<td>7</td>
 <td>Геометрия</td>
 <td>1</td>
 <td>1</td>
@@ -44637,7 +41982,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>10</td>
+<td>8</td>
 <td>Информатика</td>
 <td>1</td>
 <td>1</td>
@@ -44645,8 +41990,24 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
+<td>9</td>
+<td>Физика</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Химия</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
 <td>11</td>
-<td>Основы права</td>
+<td>Биология</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
@@ -44654,7 +42015,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>12</td>
-<td>Самопознание</td>
+<td>География</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
@@ -44662,7 +42023,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>13</td>
-<td>Физическая культура</td>
+<td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
 <td>4</td>
@@ -44670,6 +42031,38 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td>14</td>
+<td>Всемирная история</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Основы права</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Самопознание</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Физическая культура</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>18</td>
 <td>Начальная военная и технологическая подготовка</td>
 <td>1</td>
 <td>1</td>
@@ -44677,91 +42070,11 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<th colspan="6">Предметы по выбору</th>
-</tr>
-<tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 2 часа</td>
-<td>
-2 предмета
-по 2 часа
-</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Иностранный язык</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>3 предмета по 1 часу</td>
-<td>
-3 предмета
-по 1 часу
-</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22</td>
-<td>Основы предпринимательства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<th colspan="2">Специализированный компонент из инвариантной части</th>
+<th>2</th>
+<th>2</th>
+<th>4</th>
+<th>136</th>
 </tr>
 <tr>
 <td colspan="2">Инвариантная учебная нагрузка</td>
@@ -44774,6 +42087,13 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="6">Вариативный компонент</th>
 </tr>
 <tr>
+<td colspan="2">Глобальные компетенции (Основы предпринимательства и бизнеса)</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
 <td colspan="2">Предметы по выбору</td>
 <td>4</td>
 <td>4</td>
@@ -44782,997 +42102,646 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <td colspan="2">Элективные курсы</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">Физическая культура: спортивные игры</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>340</td>
 </tr>
 <tr>
 <td colspan="2">Вариативная учебная нагрузка</td>
-<td>11</td>
-<td>11</td>
-<td>22</td>
-<td>748</td>
+<td>10</td>
+<td>10</td>
+<td>20</td>
+<td>680</td>
 </tr>
 <tr>
 <th colspan="2">Максимальный предельный объем учебной нагрузки</th>
-<th>47</th>
-<th>47</th>
-<th>94</th>
-<th>3196</th>
+<th>46</th>
+<th>46</th>
+<th>92</th>
+<th>3128</th>
 </tr>
 </table>
 
 > *Приложение 111*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования и*  
+> *науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления для обучающихся с особыми образовательными потребностямис казахским языком обучения
+## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления для обучающихся с особыми образовательными потребностями с казахским языком обучения
 
-> *Сноска. Приказ дополнен приложением 111 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 111 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказа Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<th colspan="6">С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие), с нарушением опорно-двигательного аппарата</th>
+<th colspan="7">С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие), с нарушением опорно-двигательного аппарата</th>
 </tr>
 <tr>
-<th>№</th>
-<th>Учебные предметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
+<th rowspan="2">№</th>
+<th rowspan="2">Учебные предметы</th>
+<th colspan="4">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>11</th>
-<th>12</th>
-<th>недельная</th>
-<th>годовая</th>
-</tr>
-<tr>
-<th colspan="6">Инвариантный компонент</th>
-</tr>
-<tr>
-<td colspan="6">Обязательные предметы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Казахский язык</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Казахская литература</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Русский язык и литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>История Казахстана</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Самопознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Физическая культура</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Технологическая подготовка</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<th colspan="6">Предметы по выбору</th>
-</tr>
-<tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 3 часа</td>
-<td>2 предмета по 3 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Иностранный язык</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>2 предмета по 2 часа</td>
-<td>2 предмета по 2 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Основы предпринима-тельства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>32</td>
-<td>32</td>
-<td>64</td>
-<td>2176</td>
-</tr>
-<tr>
-<th colspan="6">Коррекционный компонент</th>
-</tr>
-<tr>
-<td colspan="2">Коррекционные курсы</td>
-<td>7</td>
-<td>7</td>
-<td>14</td>
-<td>476</td>
-</tr>
-<tr>
-<td colspan="2">Коррекционная учебная нагрузка</td>
-<td>7</td>
-<td>7</td>
-<td>14</td>
-<td>476</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>39</td>
-<td>39</td>
-<td>78</td>
-<td>2652</td>
-</tr>
-</table>
-
-> *Приложение 112*  
-> *к приказу Министра образования и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
-
-## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления для обучающихсяс особыми образовательными потребностями с казахским языком обучения
-
-> *Сноска. Приказ дополнен приложением 112 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
-
-<table>
-<tr>
-<th colspan="6">
-С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие),
-с нарушением опорно-двигательного аппарата
-</th>
-</tr>
-<tr>
-<th>№</th>
-<th>Учебные предметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th>11</th>
-<th>12</th>
-<th>недельная</th>
-<th>годовая</th>
-</tr>
-<tr>
-<th colspan="6">Инвариантный компонент</th>
-</tr>
-<tr>
-<td colspan="6">Обязательные предметы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td>272</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Казахский язык</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Казахская литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Русский язык и литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>История Казахстана</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Самопознание</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Физическая культура</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Технологическая подготовка</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<th colspan="6">Предметы по выбору</th>
-</tr>
-<tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 4 часа</td>
-<td>2 предмета по 4 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>1 предмет по 2 часа</td>
-<td>1 предмет по 2 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Основы предпринима-тельства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Графика и проектирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>33</td>
-<td>33</td>
-<td>66</td>
-<td>2244</td>
-</tr>
-<tr>
-<th colspan="6">Коррекционный компонент</th>
-</tr>
-<tr>
-<td colspan="2">Коррекционные курсы</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">Коррекционная учебная нагрузка</td>
-<td>6</td>
-<td>6</td>
-<td>12</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td>39</td>
-<td>39</td>
-<td>78</td>
-<td>2652</td>
-</tr>
-</table>
-
-> *Приложение 113*  
-> *к приказу Министра образования и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
-
-## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления для обучающихся с особыми образовательными потребностями с русским языком обучения
-
-> *Сноска. Приказ дополнен приложением 113 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
-
-<table>
-<tr>
-<th colspan="7">С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие),с нарушением опорно-двигательного аппарата</th>
-</tr>
-<tr>
-<th>№</th>
-<th>Учебные предметы</th>
-<th colspan="3">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
 <th>11</th>
 <th colspan="2">12</th>
 <th>недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="7">Инвариантный компонент</th>
+<td colspan="7">Инвариантный компонент</td>
 </tr>
 <tr>
-<td colspan="7">Обязательные предметы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
-<td colspan="2">1</td>
 <td>1</td>
+<td>Қазақ тілі</td>
 <td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Русский язык</td>
 <td colspan="2">2</td>
-<td>2</td>
-<td>2</td>
-<td>136</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Русская литература</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Казахский язык и литература</td>
-<td colspan="2">5</td>
-<td>5</td>
-<td>10</td>
-<td>340</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Иностранный язык</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>История Казахстана</td>
-<td colspan="2">2</td>
-<td>2</td>
 <td>4</td>
 <td>136</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Самопознание</td>
-<td colspan="2">1</td>
-<td>1</td>
 <td>2</td>
-<td>68</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Физическая культура</td>
-<td colspan="2">3</td>
+<td>Қазақ әдебиеті</td>
 <td>3</td>
+<td colspan="2">3</td>
 <td>6</td>
 <td>204</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Технологическая подготовка</td>
-<td colspan="2">1</td>
+<td>3</td>
+<td>Русский язык и литература</td>
 <td>1</td>
+<td colspan="2">1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<th colspan="7">Предметы по выбору</th>
-</tr>
-<tr>
-<td colspan="2">Углубленный уровень</td>
-<td colspan="2">2 предмета по 3 часа</td>
-<td>2 предмета по 3 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.</td>
+<td>4</td>
 <td>Иностранный язык</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2</td>
+<td colspan="2">2</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
-<td>13.</td>
-<td>Всемирная история</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td>5</td>
+<td>Алгебра и начала анализа</td>
+<td>3</td>
+<td colspan="2">3</td>
+<td>6</td>
+<td>204</td>
 </tr>
 <tr>
-<td>14.</td>
-<td>География</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td>6</td>
+<td>Геометрия</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td>15.</td>
-<td>Основы права</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td>7</td>
+<td>Информатика</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td colspan="2">Стандартный уровень</td>
-<td colspan="2">2 предмета по 2 часа</td>
-<td>2 предмета по 2 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.</td>
+<td>8</td>
 <td>Физика</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>9</td>
 <td>Химия</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td>18.</td>
+<td>10</td>
 <td>Биология</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td>19.</td>
-<td>Основы предпринима-тельства и бизнеса</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td>11</td>
+<td>География</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td colspan="2">35</td>
-<td>35</td>
-<td>70</td>
-<td>2380</td>
+<td>12</td>
+<td>История Казахстана</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Всемирная история</td>
+<td>2</td>
+<td colspan="2">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Основы права</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Самопознание</td>
+<td>1</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Физическая культура</td>
+<td>3</td>
+<td colspan="2">3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>26</th>
+<th colspan="2">26</th>
+<th>52</th>
+<th>1768</th>
 </tr>
 <tr>
 <th colspan="7">Коррекционный компонент</th>
 </tr>
 <tr>
 <td colspan="2">Коррекционные курсы</td>
-<td colspan="2">4</td>
 <td>4</td>
+<td>4</td>
+<td colspan="2">8</td>
+<td>272</td>
+</tr>
+<tr>
+<td colspan="2">Коррекционная учебная нагрузка</td>
+<td>4</td>
+<td>4</td>
+<td colspan="2">8</td>
+<td>272</td>
+</tr>
+<tr>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>30</th>
+<th>30</th>
+<th colspan="2">60</th>
+<th>2040</th>
+</tr>
+</table>
+
+> *Приложение 112*  
+> *к приказу Министра образования и*  
+> *науки Республики Казахстан*  
+> *от 8 ноября 2012 года № 500*
+
+## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления для обучающихся с особыми образовательными потребностями с казахским языком обучения
+
+> *Сноска. Приказ дополнен приложением 112 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказа Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<th colspan="7">С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие), с нарушением опорно-двигательного аппарата</th>
+</tr>
+<tr>
+<th rowspan="2">№</th>
+<th rowspan="2">Учебные предметы</th>
+<th colspan="4">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
+</tr>
+<tr>
+<th colspan="2">11</th>
+<th>12</th>
+<th>недельная</th>
+<th>годовая</th>
+</tr>
+<tr>
+<td colspan="7">Инвариантный компонент</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Қазақ тілі</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Қазақ әдебиеті</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Русский язык и литература</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Иностранный язык</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Алгебра и начала анализа</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Геометрия</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Информатика</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Физика</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Химия</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Биология</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>11</td>
+<td>География</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>68</td>
+</tr>
+<tr>
+<td>12</td>
+<td>История Казахстана</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Всемирная история</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Основы права</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Самопознание</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Физическая культура</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Графика и проектирование</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Основы предпринимательства и бизнеса</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th colspan="2">31</th>
+<th>31</th>
+<th>62</th>
+<th>2108</th>
+</tr>
+<tr>
+<th colspan="7">Коррекционный компонент</th>
+</tr>
+<tr>
+<td colspan="2">Коррекционные курсы</td>
+<td>4</td>
+<td colspan="2">4</td>
 <td>8</td>
 <td>272</td>
 </tr>
 <tr>
 <td colspan="2">Коррекционная учебная нагрузка</td>
-<td colspan="2">4</td>
 <td>4</td>
+<td colspan="2">4</td>
 <td>8</td>
 <td>272</td>
 </tr>
 <tr>
-<td colspan="2">Объем максимальной учебной нагрузки</td>
-<td colspan="2">39</td>
-<td>39</td>
-<td>78</td>
-<td>2652</td>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>35</th>
+<th colspan="2">35</th>
+<th>70</th>
+<th>2380</th>
+</tr>
+</table>
+
+> *Приложение 113*  
+> *к приказу Министра образования и*  
+> *науки Республики Казахстан*  
+> *от 8 ноября 2012 года № 500*
+
+## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления для обучающихся с особыми образовательными потребностями с русским языком обучения
+
+> *Сноска. Приказ дополнен приложением 113 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказа Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<th colspan="7">С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие), с нарушением опорно-двигательного аппарата</th>
+</tr>
+<tr>
+<th colspan="2" rowspan="2">№</th>
+<th rowspan="2">Учебные предметы</th>
+<th colspan="3">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
+</tr>
+<tr>
+<th>11</th>
+<th>12</th>
+<th>недельная</th>
+<th>годовая</th>
+</tr>
+<tr>
+<th colspan="7">Инвариантный компонент</th>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">Русский язык</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">Русская литература</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="2">Казахский язык и литература</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2">Иностранный язык</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="2">Алгебра и начала анализа</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">Геометрия</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2">Информатика</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2">Физика</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2">Химия</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2">Биология</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="2">География</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2">История Казахстана</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="2">Всемирная история</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="2">Основы права</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2">Самопознание</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="2">Физическая культура</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="2">Графика и проектирование</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="2">Основы предпринимательства и бизнеса</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<th colspan="3">Инвариантная учебная нагрузка</th>
+<th>29</th>
+<th>29</th>
+<th>58</th>
+<th>1972</th>
+</tr>
+<tr>
+<th colspan="7">Коррекционный компонент</th>
+</tr>
+<tr>
+<td colspan="3">Коррекционные курсы</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td colspan="3">Коррекционная учебная нагрузка</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<th colspan="3">Объем максимальной учебной нагрузки</th>
+<th>32</th>
+<th>32</th>
+<th>64</th>
+<th>2176</th>
 </tr>
 </table>
 
 > *Приложение 114*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *к приказу Министра образования и*  
+> *науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
 ## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления для обучающихся с особыми образовательными потребностями с русским языком обучения
 
-> *Сноска. Приказ дополнен приложением 114 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 114 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказа Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<th colspan="9">С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие), с нарушением опорно-двигательного аппарата</th>
+<th colspan="6">С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие), с нарушением опорно-двигательного аппарата</th>
 </tr>
 <tr>
-<th>№</th>
-<th>Учебные предметы</th>
+<th rowspan="2">№</th>
+<th rowspan="2">Учебные предметы</th>
 <th colspan="3">Количество часов в неделю по классам</th>
-<th colspan="4">Общая нагрузка</th>
+<th>Общая нагрузка</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2">11</th>
-<th>12</th>
-<th colspan="3">недельная</th>
-<th>годовая</th>
-</tr>
-<tr>
-<th colspan="9">Инвариантный компонент</th>
-</tr>
-<tr>
-<td colspan="9">Обязательные предметы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>4</td>
-<td colspan="3">4</td>
-<td>8</td>
-<td colspan="2">272</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>4</td>
-<td colspan="2">136</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>4</td>
-<td colspan="2">136</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Русский язык</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="2">68</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Русская литература</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>4</td>
-<td colspan="2">136</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Казахский язык и литература</td>
-<td>5</td>
-<td colspan="3">5</td>
-<td>10</td>
-<td colspan="2">340</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Иностранный язык</td>
-<td>3</td>
-<td colspan="3">3</td>
-<td>6</td>
-<td colspan="2">204</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>История Казахстана</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>4</td>
-<td colspan="2">136</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Самопознание</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="2">68</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Физическая культура</td>
-<td>3</td>
-<td colspan="3">3</td>
-<td>6</td>
-<td colspan="2">204</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Технологическая подготовка</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="2">68</td>
-</tr>
-<tr>
-<th colspan="9">Предметы по выбору</th>
-</tr>
-<tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 4 часа</td>
-<td colspan="3">2 предмета по 4 часа</td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Физика</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Химия</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Биология</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>География</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>1 предмет по 2 часа</td>
-<td colspan="3">1 предмет по 2 часа</td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Всемирная история</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Основы предприни-мательства и бизнеса</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Графика и проектирование</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Основы права</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>36</td>
-<td colspan="3">36</td>
-<td>72</td>
-<td colspan="2">2448</td>
-</tr>
-<tr>
-<th colspan="9">Коррекционный компонент</th>
-</tr>
-<tr>
-<td colspan="2">Коррекционные курсы</td>
-<td>3</td>
-<td colspan="3">3</td>
-<td>6</td>
-<td colspan="2">204</td>
-</tr>
-<tr>
-<td colspan="2">Коррекционная учебная нагрузка</td>
-<td>3</td>
-<td colspan="3">3</td>
-<td>6</td>
-<td colspan="2">204</td>
-</tr>
-<tr>
-<th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th colspan="3">39</th>
-<th>78</th>
-<th colspan="2">2652</th>
-</tr>
-</table>
-
-> *Приложение 115*  
-> *к приказу Министра образования и науки Республики Казахстан*  
-> *от 8 ноября 2012 года № 500*
-
-## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления для обучающихся с особыми образовательными потребностями с уйгурским, узбекским, таджикским языками обучения
-
-> *Сноска. Приказ дополнен приложением 115 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
-
-<table>
-<tr>
-<th colspan="6">
-С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие),
-с нарушением опорно-двигательного аппарата
-</th>
-</tr>
-<tr>
-<th>№</th>
-<th>Учебные предметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="2">Общая нагрузка</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
 <th>11</th>
 <th>12</th>
 <th>недельная</th>
@@ -45782,10 +42751,39 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <th colspan="6">Инвариантный компонент</th>
 </tr>
 <tr>
-<td colspan="6">Обязательные предметы</td>
+<td>1</td>
+<td>Русский язык</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
-<td>1.</td>
+<td>2</td>
+<td>Русская литература</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Казахский язык и литература</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Иностранный язык</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>5</td>
 <td>Алгебра и начала анализа</td>
 <td>3</td>
 <td>3</td>
@@ -45793,7 +42791,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td>2.</td>
+<td>6</td>
 <td>Геометрия</td>
 <td>1</td>
 <td>1</td>
@@ -45801,7 +42799,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>3.</td>
+<td>7</td>
 <td>Информатика</td>
 <td>1</td>
 <td>1</td>
@@ -45809,47 +42807,39 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Родной язык</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Родная литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td>136</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Казахский язык и литература</td>
-<td>4</td>
-<td>4</td>
 <td>8</td>
-<td>272</td>
+<td>Физика</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Русский язык и литература</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
+<td>9</td>
+<td>Химия</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Иностранный язык</td>
-<td>3</td>
-<td>3</td>
-<td>6</td>
-<td>204</td>
+<td>10</td>
+<td>Биология</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
 </tr>
 <tr>
-<td>9.</td>
+<td>11</td>
+<td>География</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>12</td>
 <td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
@@ -45857,7 +42847,23 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>136</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>13</td>
+<td>Всемирная история</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Основы права</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
@@ -45865,7 +42871,7 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>68</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>16</td>
 <td>Физическая культура</td>
 <td>3</td>
 <td>3</td>
@@ -45873,103 +42879,30 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 <td>204</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Технологическая подготовка</td>
+<td>17</td>
+<td>Графика и проектирование</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
 <td>68</td>
 </tr>
 <tr>
-<th colspan="6">Предметы по выбору</th>
+<td>18</td>
+<td>Основы предпринимательства и бизнеса</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2 предмета по 3 часа</td>
-<td>2 предмета по 3 часа</td>
-<td></td>
-<td></td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>32</th>
+<th>32</th>
+<th>64</th>
+<th>2176</th>
 </tr>
 <tr>
-<td>13.</td>
-<td>Иностранный язык</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>2 предмета по 2 часа</td>
-<td>2 предмета по 2 часа</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.</td>
-<td>Основы предпринима-тельства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>36</td>
-<td>36</td>
-<td>72</td>
-<td>2448</td>
-</tr>
-<tr>
-<th colspan="6">Коррекционный компонент</th>
+<td colspan="6">Коррекционный компонент</td>
 </tr>
 <tr>
 <td colspan="2">Коррекционные курсы</td>
@@ -45987,253 +42920,436 @@ source: https://zan.gov.kz/client/#!/doc/69469/rus/26.03.2021
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>39</th>
-<th>78</th>
-<th>2652</th>
+<th>35</th>
+<th>35</th>
+<th>70</th>
+<th>2380</th>
 </tr>
 </table>
 
-> *Приложение 116*  
-> *к приказу Министра образования и науки Республики Казахстан*  
+> *Приложение 115*  
+> *к приказу Министра образования и*  
+> *науки Республики Казахстан*  
 > *от 8 ноября 2012 года № 500*
 
-## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления для обучающихся с особыми образовательными потребностями с уйгурским, узбекским, таджикским языками обучения
+## Типовой учебный план (обновленного содержания) общего среднего образования общественно-гуманитарного направления для обучающихся с особыми образовательными потребностями с уйгурским, узбекским, таджикским языками обучения
 
-> *Сноска. Приказ дополнен приложением 116 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приказ дополнен приложением 115 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказа Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<th colspan="7">
-С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие),
-с нарушением опорно-двигательного аппарата
-</th>
+<th colspan="8">С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие), с нарушением опорно-двигательного аппарата</th>
 </tr>
 <tr>
 <th rowspan="2">№</th>
 <th rowspan="2">Учебные предметы</th>
-<th colspan="2">Количество часов в неделю по классам</th>
-<th colspan="3">Общая нагрузка</th>
+<th colspan="5">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
 </tr>
 <tr>
-<th>11</th>
+<th colspan="2">11</th>
 <th>12</th>
 <th colspan="2">недельная</th>
 <th>годовая</th>
 </tr>
 <tr>
-<th colspan="7">Инвариантный компонент</th>
+<th colspan="8">Инвариантный компонент</th>
 </tr>
 <tr>
-<td colspan="7">Обязательные предметы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Алгебра и начала анализа</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td colspan="2">272</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Геометрия</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td colspan="2">136</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Информатика</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td colspan="2">136</td>
-</tr>
-<tr>
-<td>4.</td>
+<td>1</td>
 <td>Родной язык</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">2</td>
 <td>2</td>
-<td colspan="2">68</td>
+<td colspan="2">4</td>
+<td>136</td>
 </tr>
 <tr>
-<td>5.</td>
+<td>2</td>
 <td>Родная литература</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-<td colspan="2">136</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td colspan="2">6</td>
+<td>204</td>
 </tr>
 <tr>
-<td>6.</td>
+<td>3</td>
 <td>Казахский язык и литература</td>
-<td>4</td>
-<td>4</td>
-<td>8</td>
-<td colspan="2">272</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td colspan="2">4</td>
+<td>136</td>
 </tr>
 <tr>
-<td>7.</td>
+<td>4</td>
 <td>Русский язык и литература</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Иностранный язык</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td colspan="2">4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Алгебра и начала анализа</td>
+<td colspan="2">3</td>
+<td>3</td>
+<td colspan="2">6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Геометрия</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Информатика</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Физика</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Химия</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Биология</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>12</td>
+<td>География</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>13</td>
+<td>История Казахстана</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td colspan="2">4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Всемирная история</td>
+<td colspan="2">2</td>
+<td>2</td>
+<td colspan="2">4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Основы права</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Самопознание</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Физическая культура</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Графика и проектирование</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Основы предпринимательства и бизнеса</td>
+<td colspan="2">1</td>
+<td>1</td>
+<td colspan="2">2</td>
+<td>68</td>
+</tr>
+<tr>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th colspan="2">28</th>
+<th>28</th>
+<th colspan="2">56</th>
+<th>1904</th>
+</tr>
+<tr>
+<td colspan="8">Коррекционный компонент</td>
+</tr>
+<tr>
+<td colspan="2">Коррекционные курсы</td>
+<td>2</td>
+<td colspan="3">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td colspan="2">Коррекционная учебная нагрузка</td>
+<td>2</td>
+<td colspan="3">2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<th colspan="2">Объем максимальной учебной нагрузки</th>
+<th>30</th>
+<th colspan="3">30</th>
+<th>60</th>
+<th>2040</th>
+</tr>
+</table>
+
+> *Приложение 116*  
+> *к приказу Министра образования и*  
+> *науки Республики Казахстан*  
+> *от 8 ноября 2012 года № 500*
+
+## Типовой учебный план (обновленного содержания) общего среднего образования естественно-математического направления для обучающихся с особыми образовательными потребностями с уйгурским, узбекским, таджикским языками обучения
+
+> *Сноска. Приказ дополнен приложением 116 в соответствии с приказами Министра образования и науки РК от 04.09.2018 № 441 (вводится в действие в соответствии с пунктом 4); и.о. Министра образования и науки РК от 26.03.2021 № 125 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказа Министра образования и науки РК от 20.08.2021 № 415 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<th colspan="6">С нарушением зрения (незрячие, слабовидящие), с нарушением слуха (неслышащие, слабослышащие), с нарушением опорно-двигательного аппарата</th>
+</tr>
+<tr>
+<th rowspan="2">№</th>
+<th rowspan="2">Учебные предметы</th>
+<th colspan="3">Количество часов в неделю по классам</th>
+<th>Общая нагрузка</th>
+</tr>
+<tr>
+<th>11</th>
+<th>12</th>
+<th>недельная</th>
+<th>годовая</th>
+</tr>
+<tr>
+<th colspan="6">Инвариантный компонент</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Родной язык</td>
 <td>2</td>
 <td>2</td>
 <td>4</td>
-<td colspan="2">136</td>
+<td>136</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Иностранный язык</td>
+<td>2</td>
+<td>Родная литература</td>
 <td>3</td>
 <td>3</td>
 <td>6</td>
-<td colspan="2">204</td>
+<td>204</td>
 </tr>
 <tr>
-<td>9.</td>
+<td>3</td>
+<td>Казахский язык и литература</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Русский язык и литература</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Иностранный язык</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Алгебра и начала анализа</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>204</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Геометрия</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Информатика</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Физика</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Химия</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Биология</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>12</td>
+<td>География</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>13</td>
 <td>История Казахстана</td>
 <td>2</td>
 <td>2</td>
 <td>4</td>
-<td colspan="2">136</td>
+<td>136</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>14</td>
+<td>Всемирная история</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Основы права</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>136</td>
+</tr>
+<tr>
+<td>16</td>
 <td>Самопознание</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
-<td colspan="2">68</td>
+<td>68</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>17</td>
 <td>Физическая культура</td>
 <td>3</td>
 <td>3</td>
 <td>6</td>
-<td colspan="2">204</td>
+<td>204</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Технологическая подготовка</td>
+<td>18</td>
+<td>Графика и проектирование</td>
 <td>1</td>
 <td>1</td>
 <td>2</td>
-<td colspan="2">68</td>
+<td>68</td>
 </tr>
 <tr>
-<th colspan="7">Предметы по выбору</th>
+<td>19</td>
+<td>Основы предпринимательства и бизнеса</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>68</td>
 </tr>
 <tr>
-<td colspan="2">Углубленный уровень</td>
-<td>2предмета по 4 часа</td>
-<td>2предмета по 4 часа</td>
-<td></td>
-<td colspan="2"></td>
+<th colspan="2">Инвариантная учебная нагрузка</th>
+<th>33</th>
+<th>33</th>
+<th>66</th>
+<th>2244</th>
 </tr>
 <tr>
-<td>13.</td>
-<td>Физика</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Химия</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>15.</td>
-<td>Биология</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>16.</td>
-<td>География</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Стандартный уровень</td>
-<td>1 предмет по 2 часа</td>
-<td>1 предмет по 2 часа</td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Всемирная история</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Основы предпринима-тельства и бизнеса</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Графика и проектирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>20.</td>
-<td>Основы права</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Инвариантная учебная нагрузка</td>
-<td>37</td>
-<td>37</td>
-<td>74</td>
-<td colspan="2">2516</td>
-</tr>
-<tr>
-<th colspan="7">Коррекционный компонент</th>
+<td colspan="6">Коррекционный компонент</td>
 </tr>
 <tr>
 <td colspan="2">Коррекционные курсы</td>
 <td>2</td>
 <td>2</td>
 <td>4</td>
-<td colspan="2">136</td>
+<td>136</td>
 </tr>
 <tr>
 <td colspan="2">Коррекционная учебная нагрузка</td>
 <td>2</td>
 <td>2</td>
 <td>4</td>
-<td colspan="2">136</td>
+<td>136</td>
 </tr>
 <tr>
 <th colspan="2">Объем максимальной учебной нагрузки</th>
-<th>39</th>
-<th>39</th>
-<th>78</th>
-<th colspan="2">2652</th>
+<th>35</th>
+<th>35</th>
+<th>70</th>
+<th>2380</th>
 </tr>
 </table>
 
