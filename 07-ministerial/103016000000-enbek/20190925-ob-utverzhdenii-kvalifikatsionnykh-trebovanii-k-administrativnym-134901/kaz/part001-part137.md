@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/134901/kaz/08.02.2021
+source: https://zan.gov.kz/client/#!/doc/134901/kaz/25.08.2021
 ---
 
 ## Қаржы департаменті директорының орынбасары (екі бірлік), С-2 санаты, 15-2, 15-3
