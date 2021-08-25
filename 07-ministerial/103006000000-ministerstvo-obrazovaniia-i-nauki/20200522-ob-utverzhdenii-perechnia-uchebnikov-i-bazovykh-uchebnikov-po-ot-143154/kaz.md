@@ -1,5 +1,5 @@
 ---
-version_id: '143154_527942'
+version_id: '143154_536028'
 act_code: '143154'
 language: kaz
 title: Орта білім беру ұйымдарына арналған жекелеген пәндер бойынша оқулықтар мен базалық оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесін бекіту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2020-05-22
-version_date: 2021-06-10
+version_date: 2021-08-25
 registry_number: '143154'
 caused_by:
-  code: '156417'
+  code: '158178'
   title: «Орта білім беру ұйымдарына арналған оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесін бекіту туралы» Қазақстан Республикасы Білім және ғылым министрінің 2020 жылғы 22 мамырдағы № 216 бұйрығына өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/156417/kaz
-source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
+  link: https://zan.gov.kz/client/#!/doc/158178/kaz
+source: https://zan.gov.kz/client/#!/doc/143154/kaz/25.08.2021
 ---
 
 # Орта білім беру ұйымдарына арналған оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесін бекіту туралы
@@ -50,33 +50,33 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 
 > *Қазақстан Республикасы*  
 > *Білім және ғылым министрінің*  
-> *«22» мамырдағы 2020 жылғы*  
-> *№ 216 бұйрығына 1-қосымша*
+> *22 мамырдағы 2020 жылғы*  
+> *№ 216 бұйрығына қосымша*
 
 ## Орта білім беру ұйымдарына арналған оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесі
 
-> *Ескерту. Тізбеге өзгерістер енгізілді - ҚР Білім және ғылым министрінің 08.09.2020 № 389 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің 23.04.2021 № 179 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 10.06.2021 № 286 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. Тізбеге өзгерістер енгізілді - ҚР Білім және ғылым министрінің 08.09.2020 № 389 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің 23.04.2021 № 179 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 10.06.2021 № 286 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің м.а. 25.08.2021 № 428 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрықтарымен.*
 
 <table>
 <tr>
 <td>№</td>
-<td>Басылымның атауы</td>
+<td colspan="2">Басылымның атауы</td>
 <td>Автор(лар)</td>
 <td>Шыққан жылы</td>
 <td>Баспа</td>
 </tr>
 <tr>
-<td colspan="5">Орта білім беру ұйымдарына арналған 1-11-сыныптарының оқулықтары</td>
+<td colspan="6">Орта білім беру ұйымдарына арналған 1-11-сыныптарының оқулықтары</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ тілінде</td>
+<td colspan="6">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Әліппе. Оқулық +Үнтаспа</td>
+<td colspan="2">Әліппе. Оқулық+Үнтаспа</td>
 <td>
 Ә. Жұмабаева,
 Н. Құрман,
@@ -90,33 +90,43 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>2.</td>
+<td colspan="2">Ана тілі. Оқулық.</td>
 <td>
-Русский язык (для школ с нерусским языком обучения). Учебник 1, 2 часть +Аудиодиск
-1, 2 часть
-</td>
-<td>
-Кадралиева А.,
-Рахметова Т.,
-Ыбышева А.
+Уайсова Г.,
+Сәдуақас Г.
+Бесірова А. С.
 </td>
 <td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Математика. Оқулық 1, 2 бөлім</td>
+<td colspan="2">
+Русский язык(для школ с нерусским языком обучения). Учебник 1, 2 часть+Аудиодиск
+1, 2 часть
+</td>
 <td>
-Ә. Ақпаева,
-Л. Лебедева,
+Кадралиева А., Рахметова Т.,
+Ыбышева А.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>4.</td>
+<td colspan="2">Математика. Оқулық 1, 2 бөлім</td>
+<td>
+Ә.Ақпаева,
+Л.Лебедева,
 М. Мыңжасарова,
-Т. Лихобабенко
+Т.Лихобабенко
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Цифрлық сауаттылық. Оқулық +СD</td>
+<td>5.</td>
+<td colspan="2">Цифрлық сауаттылық. Оқулық +СD</td>
 <td>
 Ж. Кобдикова,
 Г. Көпеева,
@@ -127,20 +137,20 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Жаратылыстану Оқулық</td>
+<td>6.</td>
+<td colspan="2">Жаратылыстану Оқулық</td>
 <td>
-Р. Қаратабанов,
-Г. Үржігітова,
-Ж. Құсайынова,
+Р.Қаратабанов,
+Г.Үржігітова,
+Ж.Құсайынова,
 Г. Батырова
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Дүниетану. Оқулық</td>
+<td>7.</td>
+<td colspan="2">Дүниетану. Оқулық</td>
 <td>
 Б. Тұрмашева,
 С. Салиш,
@@ -150,8 +160,8 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Көркем еңбек. Оқулық +Электрондық қосымша</td>
+<td>8.</td>
+<td colspan="2">Көркем еңбек. Оқулық +Электрондық қосымша</td>
 <td>
 Е. Ермилова,
 С. Попкова,
@@ -161,8 +171,8 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Музыка. Оқулық</td>
+<td>9.</td>
+<td colspan="2">Музыка. Оқулық</td>
 <td>
 Ш. Құлманова,
 Б. Сүлейменова,
@@ -172,8 +182,8 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Өзін-өзі тану. Оқулық</td>
+<td>10.</td>
+<td colspan="2">Өзін-өзі тану. Оқулық</td>
 <td>
 Р. Мұқажанова,
 Г. Омарова,
@@ -185,11 +195,11 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық + үнтаспа
 1, 2-бөлім.
@@ -204,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Оқулық. 1, 2-бөлім
 </td>
@@ -214,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник + CD. Часть 1, 2
 </td>
@@ -227,7 +237,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық + CD.
 1, 2, 3, 4-бөлім
@@ -242,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Оқулық
 </td>
@@ -257,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Дүниетану.
 Оқулық
 </td>
@@ -271,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқулық
 </td>
@@ -289,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқулық
 </td>
@@ -299,7 +309,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Музыка.
 Оқулық
 </td>
@@ -312,11 +322,11 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық.
 1, 2-бөлім + CD (1, 2-бөлім)
@@ -332,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Оқулық. 1, 2 -бөлім + CD
 (1, 2-бөлім)
@@ -347,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник
 1, 2 часть + CD
@@ -363,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық + CD.
 1, 2, 3, 4-бөлім
@@ -379,7 +389,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>5.</td>
-<td>Цифрлық сауаттылық. Оқулық</td>
+<td colspan="2">Цифрлық сауаттылық. Оқулық</td>
 <td>
 Р. Қадырқұлов,
 Ә. Рысқұлбекова,
@@ -390,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Оқулық.
 1, 2-бөлім
@@ -407,7 +417,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Дүниетану.
 Оқулық
 </td>
@@ -421,7 +431,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Музыка.
 Оқулық
 </td>
@@ -436,7 +446,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқулық
 </td>
@@ -450,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқулық
 </td>
@@ -463,11 +473,11 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық. 1, 2 бөлім.
 + Үнтаспа 1, 2-бөлім
@@ -483,7 +493,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Оқулық + CD.
 1, 2, 3-бөлім
@@ -497,7 +507,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник.
 1, 2 часть + CD
@@ -515,7 +525,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық + CD.
 1, 2, 3, 4-бөлім
@@ -531,7 +541,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Ақпараттық коммуникациялық
 технологиялар.
 Оқулық +CD
@@ -547,7 +557,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Оқулық.
 1, 2-бөлім
@@ -564,7 +574,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Дүниетану.
 Оқулық
 </td>
@@ -578,7 +588,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқулық
 </td>
@@ -592,7 +602,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Музыка.
 Оқулық
 </td>
@@ -606,7 +616,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқулық
 </td>
@@ -619,11 +629,11 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық + аудиодиск
 </td>
@@ -637,7 +647,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық + CD
 </td>
@@ -651,7 +661,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық +
 аудиодиск
@@ -665,7 +675,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi. Оқулық
 + аудиодиск
 </td>
@@ -678,7 +688,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық + CD
 </td>
@@ -691,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық + CD
 </td>
@@ -704,7 +714,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник. 1, 2 часть
 </td>
@@ -717,7 +727,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық. 1, 2-бөлім
 </td>
@@ -731,7 +741,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық
 </td>
@@ -745,7 +755,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Оқулық
 </td>
@@ -758,7 +768,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Оқулық 1, 2-бөлім
 </td>
@@ -772,7 +782,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық
 </td>
@@ -786,7 +796,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық + CD
 </td>
@@ -799,7 +809,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық + СД
 </td>
@@ -814,9 +824,9 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
-(Ежелгі дүние).
+(Ежелгідүние).
 Оқулық
 </td>
 <td>
@@ -830,7 +840,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқулық
 </td>
@@ -844,7 +854,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқулық
 </td>
@@ -860,7 +870,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Оқулық
 </td>
@@ -876,7 +886,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Оқулық
 </td>
@@ -890,7 +900,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқулық
 </td>
@@ -905,7 +915,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Музыка.
 Оқулық
 </td>
@@ -919,7 +929,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 (ұл балаларға арналған).
 Оқулық +CD
@@ -936,7 +946,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Көркем еңбек
 (қыз балаларға арналған нұсқа).
 Оқулық+CD
@@ -952,11 +962,11 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық + CD
 </td>
@@ -971,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық + CD
 </td>
@@ -985,7 +995,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық + СD
 </td>
@@ -999,7 +1009,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық + CD
 </td>
@@ -1013,7 +1023,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық + CD
 </td>
@@ -1026,7 +1036,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық+ CD
 </td>
@@ -1041,7 +1051,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық +СD
 </td>
@@ -1054,7 +1064,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник.
 1, 2 часть
@@ -1070,7 +1080,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник +СD
 </td>
@@ -1083,7 +1093,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник. 1, 2 часть
 </td>
@@ -1096,7 +1106,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник. 1, 2 часть
 </td>
@@ -1110,7 +1120,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық.
 1, 2 бөлім
@@ -1125,7 +1135,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық.
 1, 2 бөлім
@@ -1140,7 +1150,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық
 </td>
@@ -1154,7 +1164,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық+СД
 </td>
@@ -1167,7 +1177,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық + СД
 </td>
@@ -1182,7 +1192,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқулық
 </td>
@@ -1196,7 +1206,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқулық
 </td>
@@ -1211,7 +1221,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Оқулық
 </td>
@@ -1225,7 +1235,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Оқулық
 </td>
@@ -1239,7 +1249,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Оқулық
 </td>
@@ -1254,7 +1264,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Оқулық
 </td>
@@ -1269,7 +1279,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Жаратылыстану
 Оқулық.
 1, 2 бөлім
@@ -1288,7 +1298,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқулық
 </td>
@@ -1302,7 +1312,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқулық +СD
 (қыз балаларға арналған нұсқа)
@@ -1318,7 +1328,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқулық + СD
 (ұл балаларға арналған нұсқа)
@@ -1334,7 +1344,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Музыка.
 Оқулық
 </td>
@@ -1348,11 +1358,11 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық+ аудиодиск
 </td>
@@ -1366,7 +1376,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық + үнтаспа
 </td>
@@ -1379,7 +1389,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық
 </td>
@@ -1393,7 +1403,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық + аудиодиск
 </td>
@@ -1406,7 +1416,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық + CD
 </td>
@@ -1419,7 +1429,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық +CD
 </td>
@@ -1432,7 +1442,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник
 </td>
@@ -1445,7 +1455,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқулық
 </td>
@@ -1458,7 +1468,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -1471,7 +1481,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқулық
 </td>
@@ -1486,7 +1496,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -1499,7 +1509,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>12.</td>
-<td>Информатика. Оқулық+СD</td>
+<td colspan="2">Информатика. Оқулық+СD</td>
 <td>
 Р. Қадырқұлов,
 А. Рысқұлбекова,
@@ -1510,7 +1520,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>13.</td>
-<td>Информатика. Оқулық+СD</td>
+<td colspan="2">Информатика. Оқулық+СD</td>
 <td>
 Г. Салғараева,
 А. Маханова,
@@ -1521,7 +1531,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>14.</td>
-<td>Информатика. Оқулық</td>
+<td colspan="2">Информатика. Оқулық</td>
 <td>
 С. Мухамбетжанова,
 А. Тен,
@@ -1532,7 +1542,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 География.
 Оқулық
 </td>
@@ -1546,7 +1556,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 География.
 Оқулық. 1, 2 бөлім
 </td>
@@ -1559,7 +1569,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқулық
 </td>
@@ -1573,7 +1583,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқулық
 </td>
@@ -1586,7 +1596,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық
 </td>
@@ -1599,7 +1609,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық
 </td>
@@ -1609,7 +1619,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқулық
 </td>
@@ -1623,18 +1633,14 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>22.</td>
-<td>Қазақстан тарихы. Оқулық 8(7)</td>
-<td>
-З. Қабылдинов,
-Ж.Калиев,
-А.Бейсембаева
-</td>
+<td colspan="2">Қазақстан тарихы. Оқулық 8(7)</td>
+<td>З. Қабылдинов, Ж.Калиев, А.Бейсембаева</td>
 <td>2018</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>23.</td>
-<td>Дүниежүзі тарихы (Орта ғасырлар). Оқулық</td>
+<td colspan="2">Дүниежүзі тарихы (Ортағасырлар). Оқулық</td>
 <td>
 Г. Көкебаева,
 Р. Мырзабекова,
@@ -1645,7 +1651,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқулық
 </td>
@@ -1660,7 +1666,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 (ұл балаларға арналған).
 Оқулық +CD
@@ -1677,9 +1683,9 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
-(қыз балаларға рналған нұсқа).
+(қыз балаларға арналған нұсқа).
 Оқулық+CD
 </td>
 <td>
@@ -1693,7 +1699,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Көркем еңбек ұлдарға арналған.
 Оқулық
 </td>
@@ -1708,7 +1714,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Көркем еңбек қыздарға арналған.
 Оқулық
 </td>
@@ -1723,7 +1729,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>29.</td>
-<td>Informatics 7 Қостілді оқулық</td>
+<td colspan="2">Informatics 7 Қостілді оқулық</td>
 <td>
 А. Жунусов
 Е. Шаниев,
@@ -1733,11 +1739,11 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық + CD
 </td>
@@ -1751,7 +1757,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық + CD
 </td>
@@ -1766,7 +1772,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық +СD
 </td>
@@ -1780,7 +1786,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық +CD
 </td>
@@ -1794,7 +1800,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық
 </td>
@@ -1808,7 +1814,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық +CD
 </td>
@@ -1823,7 +1829,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық +СD
 </td>
@@ -1836,7 +1842,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник. 1, 2 часть
 </td>
@@ -1851,7 +1857,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник +СD
 </td>
@@ -1864,7 +1870,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник
 </td>
@@ -1877,7 +1883,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқулық
 </td>
@@ -1891,7 +1897,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқулық
 </td>
@@ -1906,7 +1912,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқулық +СD
 </td>
@@ -1920,7 +1926,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -1934,7 +1940,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -1947,7 +1953,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық +СD
 </td>
@@ -1961,7 +1967,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>17.</td>
-<td>Информатика. Оқулық + СD</td>
+<td colspan="2">Информатика. Оқулық+ СD</td>
 <td>
 Р. Қадырқұлов,
 А. Рысқұлбекова,
@@ -1972,7 +1978,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>18.</td>
-<td>Информатика. Оқулық+СD</td>
+<td colspan="2">Информатика. Оқулық+СD</td>
 <td>
 Г. Салғараева,
 А. Бекежанова,
@@ -1983,7 +1989,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>19.</td>
-<td>Информатика. Оқулық</td>
+<td colspan="2">Информатика. Оқулық</td>
 <td>
 С. Мухамбетжанова,
 А.Тен,
@@ -1994,7 +2000,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 География.
 Оқулық
 </td>
@@ -2007,7 +2013,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 География.
 Оқулық. 1, 2 бөлім
 </td>
@@ -2022,7 +2028,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқулық
 </td>
@@ -2035,7 +2041,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық
 </td>
@@ -2049,7 +2055,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық
 </td>
@@ -2062,7 +2068,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық +СD
 </td>
@@ -2075,7 +2081,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқулық
 </td>
@@ -2089,7 +2095,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқулық
 </td>
@@ -2103,18 +2109,14 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>28.</td>
-<td>Қазақстан тарихы. Оқулық 9(8), (ХХ ғасырдың басынаң Екінші дүниежүзілік соғыс аяқталғанға дейін)</td>
-<td>
-З. Қабылдинов,
-М. Шаймерденова,
-Е.Куркеев
-</td>
+<td colspan="2">Қазақстан тарихы. Оқулық 9(8), (ХХ ғасырдың басынаң Екінші дүниежүзілік соғыс аяқталғанға дейін)</td>
+<td>З. Қабылдинов, М. Шаймерденова, Е.Куркеев</td>
 <td>2019</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы
 Оқулық.
 </td>
@@ -2129,7 +2131,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>30.</td>
-<td>Дүниежүзi тарихы. Оқулық</td>
+<td colspan="2">Дүниежүзi тарихы. Оқулық</td>
 <td>
 Н. Алдабек,
 К. Мақашева,
@@ -2140,7 +2142,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқулық
 </td>
@@ -2154,7 +2156,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқулық + CD
 (қыз балаларға арналған нұсқа)
@@ -2170,7 +2172,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқулық + CD
 (ұл балаларға арналған нұсқа)
@@ -2188,7 +2190,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/10.06.2021
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Informatics 8
 Қостілді оқулық
 </td>
@@ -2202,9 +2204,9 @@ Informatics 8
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Physics.
-Қостілдіоқулық
+Қостілді оқулық
 </td>
 <td>
 А. Карабатыров,
@@ -2218,7 +2220,7 @@ Physics.
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Biology.
 Қостілді оқулық
 </td>
@@ -2236,7 +2238,7 @@ Biology.
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Chemistry.
 Қостілді оқулық
 </td>
@@ -2251,11 +2253,11 @@ Chemistry.
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық +СД
 </td>
@@ -2269,7 +2271,7 @@ Chemistry.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық +CD
 </td>
@@ -2282,7 +2284,7 @@ Chemistry.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық +Үнтаспа
 </td>
@@ -2296,7 +2298,7 @@ Chemistry.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық +СД
 </td>
@@ -2309,7 +2311,7 @@ Chemistry.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық
 </td>
@@ -2322,7 +2324,7 @@ Chemistry.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық +Үнтаспа
 </td>
@@ -2336,7 +2338,7 @@ Chemistry.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық +СД
 </td>
@@ -2351,7 +2353,7 @@ Chemistry.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник.
 1, 2 часть
@@ -2366,7 +2368,7 @@ Chemistry.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник+CD
 </td>
@@ -2380,7 +2382,7 @@ Chemistry.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник. 1, 2 часть + CD
 </td>
@@ -2394,7 +2396,7 @@ Chemistry.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқулық
 </td>
@@ -2408,7 +2410,7 @@ Chemistry.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқулық.
 1, 2-бөлім
@@ -2424,7 +2426,7 @@ Chemistry.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра
 Оқулық+СД
 </td>
@@ -2438,7 +2440,7 @@ Chemistry.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -2452,7 +2454,7 @@ Chemistry.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -2465,7 +2467,7 @@ Chemistry.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық+СД
 </td>
@@ -2479,7 +2481,7 @@ Chemistry.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық+ CD
 </td>
@@ -2492,7 +2494,7 @@ Chemistry.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық
 </td>
@@ -2506,7 +2508,7 @@ Chemistry.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық
 </td>
@@ -2520,7 +2522,7 @@ Chemistry.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық +CD
 </td>
@@ -2534,7 +2536,7 @@ Chemistry.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Қазақстан географиясы.
 Оқулық. 1, 2-бөлім
 </td>
@@ -2549,7 +2551,7 @@ Chemistry.
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Қазақстан географиясы.
 Оқулық. 1, 2-бөлім
 </td>
@@ -2564,7 +2566,7 @@ Chemistry.
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Қазақстан географиясы.
 Оқулық.
 1, 2-бөлім
@@ -2580,7 +2582,7 @@ Chemistry.
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқулық
 </td>
@@ -2594,7 +2596,7 @@ Chemistry.
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық
 </td>
@@ -2608,7 +2610,7 @@ Chemistry.
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық
 </td>
@@ -2622,7 +2624,7 @@ Chemistry.
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық +СD
 </td>
@@ -2635,7 +2637,7 @@ Chemistry.
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқулық.
 1, 2 бөлім
@@ -2650,7 +2652,7 @@ Chemistry.
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқулық
 </td>
@@ -2664,7 +2666,7 @@ Chemistry.
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы. 8-9.
 Оқулық.
 1-бөлім. ХХ ғ. басы -1945 ж.
@@ -2686,7 +2688,7 @@ Chemistry.
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқулық (1946 жылдан бүгінгі күнге дейін)
 </td>
@@ -2700,7 +2702,7 @@ Chemistry.
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Дүниежүзi тарихы. 8-9.
 Оқулық.
 1, 2-бөлім
@@ -2715,7 +2717,7 @@ Chemistry.
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Құқық негіздері.
 Оқулық
 </td>
@@ -2728,7 +2730,7 @@ Chemistry.
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқулық
 </td>
@@ -2742,7 +2744,7 @@ Chemistry.
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқулық +СД
 (қыз балаларға арналған нұсқа)
@@ -2756,7 +2758,7 @@ Chemistry.
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Көркем еңбек
 Оқулық +СД
 (ұл балаларға арналған нұсқа)
@@ -2771,7 +2773,7 @@ Chemistry.
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Informatics.
 Қостілді оқулық
 </td>
@@ -2787,7 +2789,7 @@ Informatics.
 </tr>
 <tr>
 <td>38.</td>
-<td>
+<td colspan="2">
 Physics.
 Қостілді оқулық
 </td>
@@ -2806,7 +2808,7 @@ Physics.
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Chemistry.
 Қостілді оқулық
 </td>
@@ -2825,7 +2827,7 @@ Chemistry.
 </tr>
 <tr>
 <td>40.</td>
-<td>
+<td colspan="2">
 Biology.
 Қостілді оқулық
 </td>
@@ -2842,14 +2844,14 @@ Biology.
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық +Үнтаспа
 </td>
@@ -2863,7 +2865,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық +CD
 </td>
@@ -2877,7 +2879,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық+СD
 </td>
@@ -2891,7 +2893,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық +Үнтаспа
 </td>
@@ -2905,8 +2907,8 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
-Қаза қәдебиетi.
+<td colspan="2">
+Қазақ әдебиетi.
 Оқулық
 </td>
 <td>
@@ -2919,7 +2921,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық+СD
 </td>
@@ -2932,7 +2934,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық +СД
 </td>
@@ -2947,7 +2949,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Оқулық 1, 2-бөлім
 </td>
@@ -2961,7 +2963,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Оқулық
 </td>
@@ -2974,7 +2976,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -2987,7 +2989,7 @@ Biology.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық
 </td>
@@ -3000,7 +3002,7 @@ Biology.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық
 </td>
@@ -3017,7 +3019,7 @@ Biology.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық +CD
 </td>
@@ -3034,7 +3036,7 @@ Biology.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 География.
 Оқулық
 </td>
@@ -3048,7 +3050,7 @@ Biology.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқулық
 </td>
@@ -3062,7 +3064,7 @@ Biology.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық
 </td>
@@ -3076,7 +3078,7 @@ Biology.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық+СD
 </td>
@@ -3089,7 +3091,7 @@ Biology.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқулық.
 1, 2-бөлім
@@ -3104,7 +3106,7 @@ Biology.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Оқулық.
 1, 2-бөлім
@@ -3119,7 +3121,7 @@ Biology.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Құқық негіздері.
 Оқулық.
 1, 2-бөлім
@@ -3134,11 +3136,11 @@ Biology.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық +Үнтаспа
 </td>
@@ -3152,7 +3154,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық+ СD
 </td>
@@ -3166,7 +3168,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық +Үнтаспа
 </td>
@@ -3180,7 +3182,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық
 </td>
@@ -3194,8 +3196,8 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
-Қазақәдебиеті.
+<td colspan="2">
+Қазақ әдебиеті.
 Оқулық+ СD
 </td>
 <td>
@@ -3207,7 +3209,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық +СД
 </td>
@@ -3222,7 +3224,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Оқулық.
 1, 2 бөлім
@@ -3238,7 +3240,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Оқулық
 </td>
@@ -3252,7 +3254,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -3265,7 +3267,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -3279,7 +3281,7 @@ Biology.
 </tr>
 <tr>
 <td>11.</td>
-<td>Информатика. Оқулық.</td>
+<td colspan="2">Информатика. Оқулық.</td>
 <td>
 Р. Қадырқұлов,
 Г. Нұрмұханбетова
@@ -3289,7 +3291,7 @@ Biology.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық
 </td>
@@ -3305,7 +3307,7 @@ Biology.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық
 </td>
@@ -3318,7 +3320,7 @@ Biology.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық + CD
 </td>
@@ -3332,7 +3334,7 @@ Biology.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 География.
 Оқулық
 </td>
@@ -3345,7 +3347,7 @@ Biology.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 География.
 Оқулық.
 1, 2-бөлім
@@ -3360,7 +3362,7 @@ Biology.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқулық.
 1, 2-бөлім
@@ -3375,7 +3377,7 @@ Biology.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық.
 1, 2-бөлім
@@ -3391,7 +3393,7 @@ Biology.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық+ СD
 </td>
@@ -3404,7 +3406,7 @@ Biology.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқулық.
 1, 2-бөлім
@@ -3419,7 +3421,7 @@ Biology.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Оқулық.
 1, 2 бөлім
@@ -3434,7 +3436,7 @@ Biology.
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Құқық негіздері.
 Оқулық
 </td>
@@ -3448,11 +3450,11 @@ Biology.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник + CD
 </td>
@@ -3466,7 +3468,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник. 1, 2 часть
 </td>
@@ -3479,7 +3481,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқулық
 </td>
@@ -3489,7 +3491,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқулық
 </td>
@@ -3503,7 +3505,7 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 Оқулық. 1-бөлім.
 Алғашқы әскери және технологиялық дайындық.
@@ -3519,7 +3521,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 Оқулық + СД. 1-бөлім.
 Алғашқы әскери және технологиялық дайындық.
@@ -3541,7 +3543,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Графика және жобалау.
 Оқулық +СД. 1,2-бөлім
 </td>
@@ -3554,7 +3556,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Кәсіпкерлік және бизнес негіздері.
 Оқулық +CD
 </td>
@@ -3569,7 +3571,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Кәсіпкерлік және бизнес негіздері.
 Оқулық.
 1, 2-бөлім
@@ -3585,14 +3587,14 @@ Biology.
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық +CD
 </td>
@@ -3606,7 +3608,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық +Үнтаспа
 </td>
@@ -3620,7 +3622,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық +СД
 </td>
@@ -3634,7 +3636,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық
 </td>
@@ -3648,7 +3650,7 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық+Үнтаспа.
 1,2-бөлім
@@ -3663,7 +3665,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық +СД
 </td>
@@ -3677,7 +3679,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық
 </td>
@@ -3691,7 +3693,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Оқулық
 </td>
@@ -3704,7 +3706,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -3717,7 +3719,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық+CD.
 10, 11-сыныптар
@@ -3732,7 +3734,7 @@ Biology.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық
 </td>
@@ -3746,7 +3748,7 @@ Biology.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық +СD
 </td>
@@ -3760,7 +3762,7 @@ Biology.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық + CD
 </td>
@@ -3775,7 +3777,7 @@ Biology.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 География.
 Оқулық
 </td>
@@ -3790,7 +3792,7 @@ Biology.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Оқулық.1, 2-бөлім
 </td>
@@ -3804,7 +3806,7 @@ Biology.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Құқық негіздері.
 Оқулық.
 1, 2-бөлім
@@ -3825,7 +3827,7 @@ Biology.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық
 </td>
@@ -3840,7 +3842,7 @@ Biology.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық
 </td>
@@ -3857,7 +3859,7 @@ Biology.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық +СD
 </td>
@@ -3870,7 +3872,7 @@ Biology.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқулық.
 1, 2-бөлім
@@ -3887,7 +3889,7 @@ Biology.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқулық
 </td>
@@ -3901,7 +3903,7 @@ Biology.
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқулық.1, 2 бөлім
 </td>
@@ -3915,11 +3917,11 @@ Biology.
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Оқулық +CD
 </td>
@@ -3934,7 +3936,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық +Үнтаспа
 </td>
@@ -3949,7 +3951,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық+СD
 </td>
@@ -3963,7 +3965,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық +Үнтаспа
 </td>
@@ -3977,7 +3979,7 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Оқулық
 </td>
@@ -3991,7 +3993,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық+ СD
 </td>
@@ -4005,7 +4007,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық
 </td>
@@ -4019,7 +4021,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Оқулық
 </td>
@@ -4033,7 +4035,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Оқулық.1,2-бөлім
 </td>
@@ -4047,7 +4049,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -4060,7 +4062,7 @@ Biology.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -4075,7 +4077,7 @@ Biology.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық+CD.
 10, 11-сыныптар
@@ -4090,7 +4092,7 @@ Biology.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық
 </td>
@@ -4105,7 +4107,7 @@ Biology.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық +СD
 </td>
@@ -4119,7 +4121,7 @@ Biology.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқулық + CD
 </td>
@@ -4134,7 +4136,7 @@ Biology.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 География.
 Оқулық
 </td>
@@ -4148,7 +4150,7 @@ Biology.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқулық.
 1, 2-бөлім
@@ -4165,7 +4167,7 @@ Biology.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық.
 1, 2-бөлім
@@ -4181,7 +4183,7 @@ Biology.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық.
 1, 2-бөлім
@@ -4199,7 +4201,7 @@ Biology.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқулық +СD
 </td>
@@ -4212,7 +4214,7 @@ Biology.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқулық.
 1, 2-бөлім
@@ -4227,7 +4229,7 @@ Biology.
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Оқулық
 </td>
@@ -4241,7 +4243,7 @@ Biology.
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Құқық негіздері.
 Оқулық
 </td>
@@ -4260,11 +4262,11 @@ Biology.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Оқулық
 </td>
@@ -4274,7 +4276,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник.
 1,2 часть
@@ -4289,7 +4291,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский языки литература.
 Учебник.
 1,2 часть
@@ -4305,7 +4307,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Учебник.
 1,2 часть
@@ -4321,7 +4323,7 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқулық.
 1, 2-бөлім
@@ -4336,7 +4338,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқулық
 </td>
@@ -4350,7 +4352,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Кәсіпкерлік және бизнес негіздері.
 Оқулық.
 1, 2-бөлім
@@ -4366,7 +4368,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 Оқулық +СД. 1-бөлім. Жағдаяттық тапсырмаларды орындауға арналған практикум. 2-бөлім
 </td>
@@ -4379,7 +4381,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 Оқулық.
 11-сынып.
@@ -4396,7 +4398,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Графика және жобалау.
 Оқулық+СД.
 </td>
@@ -4409,14 +4411,14 @@ Biology.
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">оқыту орыс тілінде</td>
+<td colspan="6">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Букварь. Учебник</td>
+<td colspan="2">Букварь. Учебник</td>
 <td>
 Аймагамбетова М.,
 Богатырева Е.,
@@ -4429,7 +4431,18 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>Қазақ тілі (оқыту қазақ тілінде емес мектептер үшін) Оқулық+ СD</td>
+<td colspan="2">Обучение грамоте. Учебник</td>
+<td>
+Аймагамбетова М.М.,
+Богатырева Е. В., Бучина Р. А.,
+Регель Н. В., Труханова О. И.
+</td>
+<td>2021</td>
+<td>Алматыкітап баспасы</td>
+</tr>
+<tr>
+<td>3.</td>
+<td colspan="2">Қазақ тілі (оқыту қазақ тілінде емес мектептер үшін) Оқулық+ СD</td>
 <td>
 А. Хазимова,
 Б. Салыхова,
@@ -4439,42 +4452,38 @@ Biology.
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Математика. Учебник 1, 2 часть</td>
+<td>4.</td>
+<td colspan="2">Математика. Учебник 1, 2 часть</td>
 <td>
 Акпаева А.,
-Лебедева Л.,
-Мынжасарова М.,
-Лихобабенко Т.
-</td>
-<td>2021</td>
-<td>Алматыкітап</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Цифровая грамотность. Учебник+ СD</td>
-<td>
-Сагимбаева А.,
-Ермухамбетова М.,
-Бидайбеков Е.
+Лебедева Л., Мынжасарова М., Лихобабенко Т.
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Естествознание. Учебник</td>
+<td colspan="2">Цифровая грамотность. Учебник+ СD</td>
 <td>
-Кучербаева С.,
-Темникова И.,
+Сагимбаева А., Ермухамбетова М.,
+Бидайбеков Е.
+</td>
+<td>2021</td>
+<td>Алматыкітап</td>
+</tr>
+<tr>
+<td>6.</td>
+<td colspan="2">Естествознание. Учебник</td>
+<td>
+Кучербаева С., Темникова И.,
 Ташенова Г.
 </td>
 <td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Познание мира. Учебник</td>
+<td>7.</td>
+<td colspan="2">Познание мира. Учебник</td>
 <td>
 Турмашева Б.,
 Салиш С.,
@@ -4484,8 +4493,8 @@ Biology.
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Художественный труд. Учебник +электронное приложение</td>
+<td>8.</td>
+<td colspan="2">Художественный труд. Учебник +электронное приложение</td>
 <td>
 Ермилова Е.,
 Попкова С.,
@@ -4495,8 +4504,8 @@ Biology.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Музыка. Учебник</td>
+<td>9.</td>
+<td colspan="2">Музыка. Учебник</td>
 <td>
 Кайдарова А.
 Есбатырова И.
@@ -4507,14 +4516,14 @@ Biology.
 <td>Назарбаев Зияткерлік мектептері</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Самопознание. Учебник</td>
+<td>10.</td>
+<td colspan="2">Самопознание. Учебник</td>
 <td>
 Мукажанова Р.,
 Омарова Г.,
 Сапарбаева А.,
 Кедрук С.,
-Клевцова Е.,
+КлевцоваЕ.,
 Рудькова Т.,
 Намазбаева А.
 </td>
@@ -4522,11 +4531,11 @@ Biology.
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник.
 Часть 1, 2, 3, 4
@@ -4543,7 +4552,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Учебник.
 Часть 1, 2, 3
@@ -4560,7 +4569,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі. Балапан.
 Оқулық.
 1, 2-бөлімдер + CD
@@ -4577,7 +4586,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник.
 Часть 1, 2, 3, 4
@@ -4592,7 +4601,7 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник
 </td>
@@ -4609,7 +4618,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Познание мира.
 Учебник
 </td>
@@ -4623,7 +4632,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Учебник
 </td>
@@ -4641,7 +4650,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Учебник
 </td>
@@ -4651,7 +4660,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Музыка.
 Учебник
 </td>
@@ -4663,11 +4672,11 @@ Biology.
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник.
 1, 2, 3, 4 часть + CD
@@ -4684,7 +4693,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Учебник.
 1, 2, 3, 4 часть +CD
@@ -4701,7 +4710,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі. Балапан.
 Оқулық.
 1, 2 бөлім +CD
@@ -4718,7 +4727,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник +СD.
 1, 2, 3, 4 часть
@@ -4734,10 +4743,9 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>Цифровая грамотность. Учебник</td>
+<td colspan="2">Цифровая грамотность. Учебник</td>
 <td>
-Кадиркулов Р.,
-Рыскулбекова А.
+Кадиркулов Р., Рыскулбекова А.
 Беристемова Н.
 </td>
 <td>2021</td>
@@ -4745,7 +4753,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник
 </td>
@@ -4759,7 +4767,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Познание мира.
 Учебник
 </td>
@@ -4773,7 +4781,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Музыка.
 Учебник
 </td>
@@ -4787,7 +4795,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Учебник
 </td>
@@ -4801,7 +4809,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Учебник
 </td>
@@ -4814,11 +4822,11 @@ Biology.
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник.
 1,2,3,4 часть
@@ -4835,7 +4843,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Учебник.
 1, 2, 3, 4 часть + СD
@@ -4852,7 +4860,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық+ CD.
 Часть 1, 2, 3
@@ -4866,7 +4874,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник.
 1, 2, 3, 4 часть
@@ -4882,7 +4890,7 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Информационно-коммуникационные технологии.
 Учебник +CD
 </td>
@@ -4897,7 +4905,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник.
 1,2 часть
@@ -4914,7 +4922,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Познание мира.
 Учебник
 </td>
@@ -4928,7 +4936,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Учебник
 </td>
@@ -4942,7 +4950,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Музыка.
 Учебник
 </td>
@@ -4955,7 +4963,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Учебник
 </td>
@@ -4968,11 +4976,11 @@ Biology.
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті. Бәйшешек.
 Оқулық +CD.
 1, 2-бөлім
@@ -4989,7 +4997,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник + видеодиск
 </td>
@@ -4999,7 +5007,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник + CD
 </td>
@@ -5012,7 +5020,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник.
 Часть 1, 2
@@ -5031,7 +5039,7 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник.
 Часть 1, 2
@@ -5050,7 +5058,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -5063,7 +5071,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -5078,7 +5086,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -5093,7 +5101,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник.
 1, 2 часть
@@ -5108,7 +5116,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник
 </td>
@@ -5122,7 +5130,7 @@ Biology.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник
 </td>
@@ -5136,7 +5144,7 @@ Biology.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник + CD
 </td>
@@ -5149,7 +5157,7 @@ Biology.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник +СD
 </td>
@@ -5164,7 +5172,7 @@ Biology.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник.
 Часть 1, 2
@@ -5179,7 +5187,7 @@ Biology.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник
 </td>
@@ -5194,7 +5202,7 @@ Biology.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник
 </td>
@@ -5207,7 +5215,7 @@ Biology.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Учебник
 </td>
@@ -5221,7 +5229,7 @@ Biology.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Учебник
 </td>
@@ -5237,7 +5245,7 @@ Biology.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Учебник
 </td>
@@ -5253,7 +5261,7 @@ Biology.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Учебник
 </td>
@@ -5267,7 +5275,7 @@ Biology.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Учебник
 </td>
@@ -5282,7 +5290,7 @@ Biology.
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Музыка.
 Учебник
 </td>
@@ -5297,7 +5305,7 @@ Biology.
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Художественный труд
 (вариант для мальчиков).
 Учебник +CD
@@ -5314,7 +5322,7 @@ Biology.
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Художественный труд
 (вариант для девочек)
 Учебник+CD
@@ -5329,11 +5337,11 @@ Biology.
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Оқулық +CD
 </td>
@@ -5348,7 +5356,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Бәйшешек.
 Оқулық.
@@ -5366,7 +5374,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник. 1, 2 часть + CD
 </td>
@@ -5379,7 +5387,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +СD
 </td>
@@ -5393,7 +5401,7 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -5407,7 +5415,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник.1, 2 часть
 </td>
@@ -5420,7 +5428,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник.
 1, 2 часть
@@ -5437,7 +5445,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник.
 1, 2 часть
@@ -5452,7 +5460,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник.
 1, 2 часть
@@ -5467,7 +5475,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник
 </td>
@@ -5481,7 +5489,7 @@ Biology.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник +CD
 </td>
@@ -5494,7 +5502,7 @@ Biology.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник +СD
 </td>
@@ -5509,7 +5517,7 @@ Biology.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Учебник
 </td>
@@ -5523,7 +5531,7 @@ Biology.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Учебник
 </td>
@@ -5538,7 +5546,7 @@ Biology.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Учебник
 </td>
@@ -5552,7 +5560,7 @@ Biology.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Всемирная история
 Учебник
 </td>
@@ -5566,7 +5574,7 @@ Biology.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник
 </td>
@@ -5581,7 +5589,7 @@ Biology.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник
 </td>
@@ -5596,7 +5604,7 @@ Biology.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник.
 1, 2 часть
@@ -5614,7 +5622,7 @@ Biology.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Учебник
 </td>
@@ -5628,7 +5636,7 @@ Biology.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Учебник + СD
 (вариант для девочек)
@@ -5644,7 +5652,7 @@ Biology.
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Учебник + CD
 (вариант для мальчиков)
@@ -5660,7 +5668,7 @@ Biology.
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Музыка.
 Учебник
 </td>
@@ -5674,11 +5682,11 @@ Biology.
 <td>Қазақэнциклопедиясы</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Бәйшешек.
 Оқулық + CD.
@@ -5696,7 +5704,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник+ видеодиск
 </td>
@@ -5706,7 +5714,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +CD
 </td>
@@ -5719,7 +5727,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -5732,7 +5740,7 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -5746,7 +5754,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Учебник
 </td>
@@ -5759,7 +5767,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -5772,7 +5780,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Учебник
 </td>
@@ -5787,7 +5795,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -5800,7 +5808,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>Информатика. Учебник +СD</td>
+<td colspan="2">Информатика. Учебник+СD</td>
 <td>
 Кадиркулов Р.,
 Рыскулбекова А.,
@@ -5811,7 +5819,7 @@ Biology.
 </tr>
 <tr>
 <td>11.</td>
-<td>Информатика. Учебник +СD</td>
+<td colspan="2">Информатика. Учебник +СD</td>
 <td>
 Салғараева Г.,
 Маханова А.,
@@ -5822,7 +5830,7 @@ Biology.
 </tr>
 <tr>
 <td>12.</td>
-<td>Информатика. Учебник</td>
+<td colspan="2">Информатика. Учебник</td>
 <td>
 Мухамбетжанова С.,
 Тен А.,
@@ -5833,7 +5841,7 @@ Biology.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 География.
 Учебник
 </td>
@@ -5847,7 +5855,7 @@ Biology.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 География.
 Учебник
 </td>
@@ -5861,7 +5869,7 @@ Biology.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 География.
 Учебник.
 Часть 1, Часть 2
@@ -5875,7 +5883,7 @@ Biology.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Биология.
 Учебник
 </td>
@@ -5889,7 +5897,7 @@ Biology.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Биология.
 Учебник
 </td>
@@ -5902,7 +5910,7 @@ Biology.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник
 </td>
@@ -5915,7 +5923,7 @@ Biology.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник
 </td>
@@ -5925,7 +5933,7 @@ Biology.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник
 </td>
@@ -5938,7 +5946,7 @@ Biology.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Химия.
 Учебник
 </td>
@@ -5952,18 +5960,14 @@ Biology.
 </tr>
 <tr>
 <td>22.</td>
-<td>История Казахстана. Учебник 8(7)</td>
-<td>
-З. Кабульдинов,
-Ж.Калиев,
-А.Бейсембаева
-</td>
+<td colspan="2">История Казахстана. Учебник 8(7)</td>
+<td>З. Кабульдинов, Ж.Калиев, А.Бейсембаева</td>
 <td>2018</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Учебник
 </td>
@@ -5978,7 +5982,7 @@ Biology.
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Художественный труд
 (вариант для мальчиков).
 Учебник +CD
@@ -5995,7 +5999,7 @@ Biology.
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Художественный труд
 (вариант для девочек).
 Учебник+CD
@@ -6011,7 +6015,7 @@ Biology.
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Художественный труд для мальчиков.
 Учебник
 </td>
@@ -6026,7 +6030,7 @@ Biology.
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Художественный труд для девочек.
 Учебник
 </td>
@@ -6041,7 +6045,7 @@ Biology.
 </tr>
 <tr>
 <td>28.</td>
-<td>Informatics 7 Билингвальный учебник</td>
+<td colspan="2">Informatics 7 Билингвальный учебник</td>
 <td>
 А. Жунусов
 Е. Шаниев,
@@ -6051,11 +6055,11 @@ Biology.
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Оқулық +CD
 </td>
@@ -6070,7 +6074,7 @@ Biology.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті: Бәйтерек.
 Оқулық. 1, 2 бөлім+СD
 </td>
@@ -6086,7 +6090,7 @@ Biology.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник + CD. Часть 1, 2
 </td>
@@ -6099,7 +6103,7 @@ Biology.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +СD
 </td>
@@ -6113,7 +6117,7 @@ Biology.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник.
 Часть 1, 2
@@ -6128,7 +6132,7 @@ Biology.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник +СD
 </td>
@@ -6141,7 +6145,7 @@ Biology.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Учебник
 </td>
@@ -6155,7 +6159,7 @@ Biology.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Учебник
 </td>
@@ -6170,7 +6174,7 @@ Biology.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Учебник +СD
 </td>
@@ -6184,7 +6188,7 @@ Biology.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -6198,7 +6202,7 @@ Biology.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -6211,7 +6215,7 @@ Biology.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник +СD
 </td>
@@ -6225,7 +6229,7 @@ Biology.
 </tr>
 <tr>
 <td>13.</td>
-<td>Информатика. Учебник</td>
+<td colspan="2">Информатика. Учебник</td>
 <td>
 Кадиркулов Р.,
 Рыскулбекова А.
@@ -6236,10 +6240,9 @@ Biology.
 </tr>
 <tr>
 <td>14.</td>
-<td>Информатика. Учебник +СD</td>
+<td colspan="2">Информатика. Учебник +СD</td>
 <td>
-Салгараева Г.,
-Бекежанова А.,
+Салгараева Г., Бекежанова А.,
 Базаева Ж.
 </td>
 <td>2021</td>
@@ -6247,7 +6250,7 @@ Biology.
 </tr>
 <tr>
 <td>15.</td>
-<td>Информатика. Учебник</td>
+<td colspan="2">Информатика. Учебник</td>
 <td>
 Мухамбетжанова С.,
 Тен А.,
@@ -6258,7 +6261,7 @@ Biology.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 География.
 Учебник
 </td>
@@ -6271,7 +6274,7 @@ Biology.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 География.
 Учебник.
 1, 2 часть
@@ -6287,7 +6290,7 @@ Biology.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Биология.
 Учебник
 </td>
@@ -6300,7 +6303,7 @@ Biology.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник
 </td>
@@ -6313,7 +6316,7 @@ Biology.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник+СD
 </td>
@@ -6326,7 +6329,7 @@ Biology.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Химия.
 Учебник
 </td>
@@ -6340,7 +6343,7 @@ Biology.
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Химия.
 Учебник
 </td>
@@ -6354,18 +6357,17 @@ Biology.
 </tr>
 <tr>
 <td>23.</td>
-<td>История Казахстана. Учебник 9(8), (начало ХХ века – 1945 г.)</td>
+<td colspan="2">История Казахстана. Учебник 9(8), (начало ХХ века – 1945 г.)</td>
 <td>
 Кабульдинов З.,
-Шаймерденова М.,
-Куркеев Е.
+Шаймерденова М., Куркеев Е.
 </td>
 <td>2019</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 История Казахстана
 Учебник
 </td>
@@ -6380,7 +6382,7 @@ Biology.
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Учебник
 </td>
@@ -6394,7 +6396,7 @@ Biology.
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Учебник
 </td>
@@ -6409,7 +6411,7 @@ Biology.
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Художественный труд
 Учебник + СD
 (вариант для девочек)
@@ -6425,7 +6427,7 @@ Biology.
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Художественный труд
 Учебник + СD
 (вариант для мальчиков)
@@ -6443,7 +6445,7 @@ Biology.
 </tr>
 <tr>
 <td>29.</td>
-<td>Informatics 8 Билингвальный учебник</td>
+<td colspan="2">Informatics 8 Билингвальный учебник</td>
 <td>
 А. Жунусов
 Е. Шаниев,
@@ -6454,7 +6456,7 @@ Biology.
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Physics.
 Билингвальный учебник
 </td>
@@ -6470,7 +6472,7 @@ Physics.
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Biology.
 Билингвальный учебник
 </td>
@@ -6488,7 +6490,7 @@ Biology.
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Chemistry.
 Билингвальный учебник
 </td>
@@ -6503,11 +6505,11 @@ Chemistry.
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +CD
 </td>
@@ -6520,7 +6522,7 @@ Chemistry.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник. 1, 2 часть
 </td>
@@ -6535,7 +6537,7 @@ Chemistry.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -6550,7 +6552,7 @@ Chemistry.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +Аудиодиск
 </td>
@@ -6564,7 +6566,7 @@ Chemistry.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -6579,7 +6581,7 @@ Chemistry.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен
 әдебиеті.
 Оқулық +CD
@@ -6595,8 +6597,8 @@ Chemistry.
 </tr>
 <tr>
 <td>7.</td>
-<td>
-Қазақ тілі ме нәдебиеті.
+<td colspan="2">
+Қазақ тілі мен әдебиеті.
 Оқулық +Үнтаспа
 </td>
 <td>
@@ -6609,9 +6611,9 @@ Chemistry.
 </tr>
 <tr>
 <td>8.</td>
-<td>
-Қазақ тілі мен әдебиеті:
-Бәйтерек.
+<td colspan="2">
+Қазақ тілі мен әдебиеті.
+:Бәйтерек.
 Оқулық.
 1,2-бөлім
 </td>
@@ -6627,7 +6629,7 @@ Chemistry.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Учебник.
 1, 2 часть
@@ -6643,7 +6645,7 @@ Chemistry.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -6656,7 +6658,7 @@ Chemistry.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Учебник
 </td>
@@ -6670,7 +6672,7 @@ Chemistry.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -6684,7 +6686,7 @@ Chemistry.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Учебник +CD
 </td>
@@ -6698,7 +6700,7 @@ Chemistry.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник+CD
 </td>
@@ -6712,20 +6714,17 @@ Chemistry.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник + CD
 </td>
-<td>
-Кадиркулов Р.,
-Нурмуханбетова Г.
-</td>
+<td>Кадиркулов Р., Нурмуханбетова Г.</td>
 <td>2019</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник
 </td>
@@ -6739,7 +6738,7 @@ Chemistry.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник
 </td>
@@ -6753,7 +6752,7 @@ Chemistry.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник +CD
 </td>
@@ -6767,7 +6766,7 @@ Chemistry.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 География Казахстана.
 Учебник.
 1, 2 часть
@@ -6786,7 +6785,7 @@ Chemistry.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 География Казахстана.
 Учебник.
 1, 2 часть
@@ -6802,7 +6801,7 @@ Chemistry.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 География Казахстана.
 Учебник.
 1, 2 части
@@ -6818,7 +6817,7 @@ Chemistry.
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Биология.
 Учебник
 </td>
@@ -6832,7 +6831,7 @@ Chemistry.
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник+СД
 </td>
@@ -6845,7 +6844,7 @@ Chemistry.
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Химия.
 Учебник.
 1, 2 часть
@@ -6860,7 +6859,7 @@ Chemistry.
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Химия.
 Учебник
 </td>
@@ -6874,7 +6873,7 @@ Chemistry.
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 История Казахстана. Учебник. 8-9.
 1часть (с начала ХХ в. до 1945г.).2 часть (с 1945 года до наших дней)
 </td>
@@ -6888,7 +6887,7 @@ Chemistry.
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Учебник.
 (с 1946 года по настоящее время)
@@ -6903,7 +6902,7 @@ Chemistry.
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Всемирная история. 8-9.
 Учебник.
 1, 2 часть
@@ -6918,7 +6917,7 @@ Chemistry.
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Основы права.
 Учебник
 </td>
@@ -6931,7 +6930,7 @@ Chemistry.
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Учебник
 </td>
@@ -6945,7 +6944,7 @@ Chemistry.
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Учебник +СД
 (вариант для девочек)
@@ -6959,7 +6958,7 @@ Chemistry.
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Учебник +СД.
 (вариант для мальчиков)
@@ -6974,7 +6973,7 @@ Chemistry.
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Informatics.
 Билингвальный учебник
 </td>
@@ -6990,7 +6989,7 @@ Informatics.
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Physics.
 Билингвальный учебник
 </td>
@@ -7009,7 +7008,7 @@ Physics.
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Biology.
 Билингвальный учебник
 </td>
@@ -7027,7 +7026,7 @@ Biology.
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Chemistry.
 Билингвальный учебник
 </td>
@@ -7045,14 +7044,14 @@ Chemistry.
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +CD
 </td>
@@ -7065,7 +7064,7 @@ Chemistry.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник +CD
 </td>
@@ -7078,7 +7077,7 @@ Chemistry.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -7093,7 +7092,7 @@ Chemistry.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Учебник.
 1, 2 часть
@@ -7108,7 +7107,7 @@ Chemistry.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Учебник
 </td>
@@ -7121,7 +7120,7 @@ Chemistry.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -7134,7 +7133,7 @@ Chemistry.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник
 </td>
@@ -7147,7 +7146,7 @@ Chemistry.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник
 </td>
@@ -7164,7 +7163,7 @@ Chemistry.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник +CD
 </td>
@@ -7178,7 +7177,7 @@ Chemistry.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 География.
 Учебник
 </td>
@@ -7192,7 +7191,7 @@ Chemistry.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Биология.
 Учебник
 </td>
@@ -7206,7 +7205,7 @@ Chemistry.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник
 </td>
@@ -7220,7 +7219,7 @@ Chemistry.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник+СD
 </td>
@@ -7233,7 +7232,7 @@ Chemistry.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Химия.
 Учебник.
 1, 2 часть
@@ -7248,7 +7247,7 @@ Chemistry.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Учебник.
 1, 2 часть
@@ -7263,7 +7262,7 @@ Chemistry.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Основы права.
 Учебник.
 1, 2 часть
@@ -7278,11 +7277,11 @@ Chemistry.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник
 </td>
@@ -7297,7 +7296,7 @@ Chemistry.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +CD
 </td>
@@ -7310,7 +7309,7 @@ Chemistry.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник +CD
 </td>
@@ -7323,7 +7322,7 @@ Chemistry.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -7337,7 +7336,7 @@ Chemistry.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Учебник
 </td>
@@ -7351,7 +7350,7 @@ Chemistry.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -7365,7 +7364,7 @@ Chemistry.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Учебник.
 1, 2 часть
@@ -7381,7 +7380,7 @@ Chemistry.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -7394,17 +7393,14 @@ Chemistry.
 </tr>
 <tr>
 <td>9.</td>
-<td>Информатика. Учебник.</td>
-<td>
-Кадиркулов Р.,
-Нурмуханбетова Г.
-</td>
+<td colspan="2">Информатика. Учебник.</td>
+<td>Кадиркулов Р., Нурмуханбетова Г.</td>
 <td>2019</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник
 </td>
@@ -7420,7 +7416,7 @@ Chemistry.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник
 </td>
@@ -7433,7 +7429,7 @@ Chemistry.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник +CD
 </td>
@@ -7447,7 +7443,7 @@ Chemistry.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 География.
 Учебник.
 1, 2 часть
@@ -7463,20 +7459,17 @@ Chemistry.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 География.
 Учебник
 </td>
-<td>
-Каймулдинова К.,
-Абилмажинова С.
-</td>
+<td>Каймулдинова К., Абилмажинова С.</td>
 <td>2019</td>
 <td>Мектеп</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Биология.
 Учебник.
 1, 2 часть
@@ -7491,7 +7484,7 @@ Chemistry.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник.
 1, 2 часть
@@ -7507,7 +7500,7 @@ Chemistry.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник+ СD
 </td>
@@ -7520,7 +7513,7 @@ Chemistry.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Химия.
 Учебник.
 1, 2 часть
@@ -7535,7 +7528,7 @@ Chemistry.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Учебник.
 1, 2 часть
@@ -7550,7 +7543,7 @@ Chemistry.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Основы права.
 Учебник
 </td>
@@ -7564,11 +7557,11 @@ Chemistry.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Оқулық +CD
 </td>
@@ -7582,8 +7575,8 @@ Chemistry.
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Қазақ тілі мен әдебиеті:
+<td colspan="2">
+Қазақтіліменәдебиеті:
 Тіл-Байрақ.
 Оқулық.
 1, 2 бөлім
@@ -7600,7 +7593,7 @@ Chemistry.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Учебник
 </td>
@@ -7610,7 +7603,7 @@ Chemistry.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Учебник
 </td>
@@ -7624,7 +7617,7 @@ Chemistry.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка.
 Учебник. Часть 1.
 Начальная военная и технологическая подготовка.
@@ -7640,7 +7633,7 @@ Chemistry.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка.
 Учебник +СД. Часть 1
 Начальная военная и технологическая подготовка.
@@ -7661,7 +7654,7 @@ Chemistry.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Графика и проектирование.
 Учебник+СД.
 1, 2 часть
@@ -7675,7 +7668,7 @@ Chemistry.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Основы предпринимательства и бизнеса.
 Учебник +CD
 </td>
@@ -7690,7 +7683,7 @@ Chemistry.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Основы предпринимательства и бизнеса.
 Учебник.
 Часть 1, 2
@@ -7705,14 +7698,14 @@ Chemistry.
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +CD
 </td>
@@ -7725,7 +7718,7 @@ Chemistry.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +Аудиодиск.
 Часть 1, 2.
@@ -7740,7 +7733,7 @@ Chemistry.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +СD
 </td>
@@ -7755,7 +7748,7 @@ Chemistry.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник+СД
 </td>
@@ -7769,7 +7762,7 @@ Chemistry.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник.
 Часть 1, 2
@@ -7783,7 +7776,7 @@ Chemistry.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -7798,7 +7791,7 @@ Chemistry.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа. ОГН Учебник.
 11 класс
 </td>
@@ -7811,7 +7804,7 @@ Chemistry.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Геометрия. ОГН
 Учебник.
 11 класс
@@ -7825,7 +7818,7 @@ Chemistry.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Геометрия. ОГН
 Учебник+CD.
 10,11 классы
@@ -7840,7 +7833,7 @@ Chemistry.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник
 </td>
@@ -7854,7 +7847,7 @@ Chemistry.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник+СD
 </td>
@@ -7868,7 +7861,7 @@ Chemistry.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник +CD
 </td>
@@ -7882,7 +7875,7 @@ Chemistry.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 География.
 Учебник
 </td>
@@ -7897,7 +7890,7 @@ Chemistry.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Биология.
 Учебник.
 Часть 1, 2
@@ -7914,7 +7907,7 @@ Chemistry.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Физика. ОГН
 Учебник.
 11 класс
@@ -7930,7 +7923,7 @@ Chemistry.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник
 </td>
@@ -7947,7 +7940,7 @@ Chemistry.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник+СD
 </td>
@@ -7960,7 +7953,7 @@ Chemistry.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Химия.
 Учебник.
 11 класс
@@ -7975,7 +7968,7 @@ Chemistry.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Всемирная история. ОГН
 Учебник. 1,2 часть.
 11 класс
@@ -7990,7 +7983,7 @@ Chemistry.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Основы права.
 Учебник.
 Часть 1, 2
@@ -8010,11 +8003,11 @@ Chemistry.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +CD
 </td>
@@ -8027,7 +8020,7 @@ Chemistry.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +аудиодиск
 </td>
@@ -8041,7 +8034,7 @@ Chemistry.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник
 </td>
@@ -8057,7 +8050,7 @@ Chemistry.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник +СD
 </td>
@@ -8071,7 +8064,7 @@ Chemistry.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник
 </td>
@@ -8085,7 +8078,7 @@ Chemistry.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник.
 1,2 часть
@@ -8099,7 +8092,7 @@ Chemistry.
 </tr>
 <tr>
 <td>7.</td>
-<td>Русская литература. Учебник.</td>
+<td colspan="2">Русская литература. Учебник.</td>
 <td>
 С. Абишева,
 М. Асылбекова,
@@ -8111,7 +8104,7 @@ Chemistry.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Учебник
 </td>
@@ -8125,7 +8118,7 @@ Chemistry.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Учебник.
 1, 2 част.
@@ -8140,7 +8133,7 @@ Chemistry.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -8153,7 +8146,7 @@ Chemistry.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -8168,7 +8161,7 @@ Chemistry.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник+CD.
 10,11 классы
@@ -8183,7 +8176,7 @@ Chemistry.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник
 </td>
@@ -8198,7 +8191,7 @@ Chemistry.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник +CD
 </td>
@@ -8212,7 +8205,7 @@ Chemistry.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Информатика.
 Учебник +СD
 </td>
@@ -8226,7 +8219,7 @@ Chemistry.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 География.
 Учебник
 </td>
@@ -8240,7 +8233,7 @@ Chemistry.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Биология.
 Учебник.
 Часть 1, 2
@@ -8257,7 +8250,7 @@ Chemistry.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник.
 Часть 1, 2
@@ -8273,7 +8266,7 @@ Chemistry.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник.
 1,2 часть
@@ -8291,7 +8284,7 @@ Chemistry.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Физика.
 Учебник+СD
 </td>
@@ -8304,7 +8297,7 @@ Chemistry.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Химия.
 Учебник.
 Часть 1, 2
@@ -8319,7 +8312,7 @@ Chemistry.
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Учебник
 </td>
@@ -8333,7 +8326,7 @@ Chemistry.
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Основы права.
 Учебник
 </td>
@@ -8352,11 +8345,11 @@ Chemistry.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Оқулық +CD
 </td>
@@ -8370,7 +8363,7 @@ Chemistry.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Оқулық +Үнтаспа.
 1,2-бөлім
@@ -8385,7 +8378,7 @@ Chemistry.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Тіл-Байрақ.
 Оқулық.
@@ -8403,7 +8396,7 @@ Chemistry.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Учебник.
 Часть 1, 2
@@ -8418,7 +8411,7 @@ Chemistry.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Учебник
 </td>
@@ -8433,7 +8426,7 @@ Chemistry.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка.
 Учебник.
 11 класс
@@ -8450,7 +8443,7 @@ Chemistry.
 </tr>
 <tr>
 <td>7.</td>
-<td>Начальная военная и технологическая подготовка. Учебник +СД. Часть 1. Практикум по решению ситуационных задач. Часть 2</td>
+<td colspan="2">Начальная военная и технологическая подготовка. Учебник +СД. Часть 1. Практикум по решению ситуационных задач. Часть 2</td>
 <td>
 Рихтер А.,
 Яковенко В.
@@ -8460,7 +8453,7 @@ Chemistry.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Графика и проектирование.
 Учебник + СД
 </td>
@@ -8474,7 +8467,7 @@ Chemistry.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Основы предпринимательства и бизнеса.
 Учебник.
 1, 2 часть
@@ -8489,17 +8482,17 @@ Chemistry.
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">Абайтану. Өлкетану</td>
+<td colspan="6">Абайтану. Өлкетану</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ тілінде</td>
+<td colspan="6">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<td colspan="5">5-11-сыныптар</td>
+<td colspan="6">5-11-сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Таңдау курсына арналған оқулық.
 9 – сынып
@@ -8510,7 +8503,7 @@ Chemistry.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Оқулық.
 9 сынып
@@ -8521,7 +8514,7 @@ Chemistry.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Жалпы білім беретін мектептің 9-сыныбына арналған оқулық
 </td>
@@ -8534,7 +8527,7 @@ Chemistry.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Оқулық.
 5-7 сынып
@@ -8548,7 +8541,7 @@ Chemistry.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Таңдау курсына арналған оқулық. 10-11сынып
 </td>
@@ -8558,7 +8551,7 @@ Chemistry.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Оқулық.
 10 сынып
@@ -8569,7 +8562,7 @@ Chemistry.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Алматы қаласы.
 5, 6, 7-сыныптар
@@ -8589,7 +8582,7 @@ Chemistry.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Қызылорда облысы.
 5, 6, 7-сыныптар
@@ -8616,7 +8609,7 @@ Chemistry.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Павлодар облысы.
 5 – 7-сыныптар
@@ -8633,7 +8626,7 @@ Chemistry.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Батыс Қазақстан облысы.
 5 – 7-сыныптар
@@ -8663,7 +8656,7 @@ Chemistry.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Ақмола облысы.
 І бөлім 5-сынып,
@@ -8682,7 +8675,7 @@ Chemistry.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Қостанай облысы.
 5 – 7-сыныптар
@@ -8711,7 +8704,7 @@ Chemistry.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Маңғыстау облысы.
 5 – 7-сыныптар
@@ -8738,7 +8731,7 @@ Chemistry.
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Атырау облысы.
 5 – 7-сыныптар
@@ -8754,7 +8747,7 @@ Chemistry.
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Алматы облысы.
 5, 6, 7-сыныптар
@@ -8770,7 +8763,7 @@ Chemistry.
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Қарағанды облысы.
 5, 6, 7-сыныптар
@@ -8786,7 +8779,7 @@ Chemistry.
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Ақтөбе облысы.
 5, 6, 7-сыныптар
@@ -8807,7 +8800,7 @@ Chemistry.
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Шығыс Қазақстан облысы.
 5 – 7-сыныптар
@@ -8831,7 +8824,7 @@ Chemistry.
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Жамбыл облысы.
 5, 6, 7-сыныптар
@@ -8842,7 +8835,7 @@ Chemistry.
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Солтүстік Қазақстан облысы.
 5 – 7-сыныптар
@@ -8857,7 +8850,7 @@ Chemistry.
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Астана қаласы.
 5, 6, 7-сыныптар
@@ -8875,7 +8868,7 @@ Chemistry.
 </tr>
 <tr>
 <td>22.</td>
-<td>Өлкетану. Оңтүстік Қазақстан өңірі (Түркістан облысы мен Шымкент қаласы) 5, 6, 7-сыныптар</td>
+<td colspan="2">Өлкетану. Оңтүстік Қазақстан өңірі (Түркістан облысы мен Шымкент қаласы) 5, 6, 7-сыныптар</td>
 <td>
 Ө. Шыныбекұлы,
 Б. Бейсетаева,
@@ -8886,14 +8879,14 @@ Chemistry.
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">оқыту орыс тілінде</td>
+<td colspan="6">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<td colspan="5">5-11-сыныптар</td>
+<td colspan="6">5-11-сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Краеведение.
 город Алматы.
 5, 6, 7-классы
@@ -8909,7 +8902,7 @@ Chemistry.
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Павлодарская область.
 5 – 7-классы
@@ -8926,7 +8919,7 @@ Chemistry.
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Западно-Казахстанская область.
 5 – 7-классы
@@ -8956,7 +8949,7 @@ Chemistry.
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Акмолинская область.
 Часть І. 5-класс,
@@ -8975,7 +8968,7 @@ Chemistry.
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Костанайская область.
 5 – 7-классы
@@ -9005,7 +8998,7 @@ Chemistry.
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Алматинская область.
 5, 6, 7-классы
@@ -9021,7 +9014,7 @@ Chemistry.
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Карагандинская область.
 5, 6, 7-классы
@@ -9037,7 +9030,7 @@ Chemistry.
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Актюбинская область.
 5, 6, 7-классы
@@ -9056,7 +9049,7 @@ Chemistry.
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Восточно-Казахстанская область.
 5 – 7-классы
@@ -9080,7 +9073,7 @@ Chemistry.
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Жамбылская область.
 5, 6, 7-классы
@@ -9095,7 +9088,7 @@ Chemistry.
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Северо-Казахстанская область.
 5 – 7-классы
@@ -9110,7 +9103,7 @@ Chemistry.
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Краеведение.
 город Астана.
 5, 6, 7-классы
@@ -9125,7 +9118,7 @@ Chemistry.
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Южно-Казахстанский регион (Туркестанская область и город Шымкент) 5,6,7 классы
 </td>
@@ -9139,17 +9132,17 @@ Chemistry.
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ және орыс тілдерінде</td>
+<td colspan="6">оқыту қазақ және орыс тілдерінде</td>
 </tr>
 <tr>
-<td colspan="5">Неміс тілі</td>
+<td colspan="6">Неміс тілі</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Deutsch 1.
 Schulerbuch №1, №2
 </td>
@@ -9162,11 +9155,11 @@ Beibytnur Shumabekova
 <td>«Көкжиек-Горизонт (Ernst Klett Sprachen материалдары негізінде)»</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Deutsch 2.​Klasse Schülerbuch Teil 1, 2</td>
+<td colspan="2">Deutsch 2.​Klasse Schülerbuch Teil 1, 2</td>
 <td>
 Diana Kabenova,
 Asina Ospanova
@@ -9175,75 +9168,64 @@ Asina Ospanova
 <td>NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Deutsch 4.​Klasse Schülerbuch Teil 1, 2</td>
-<td>
-Kristina Samosledova,
-Anastasia Potemkina,
-Kulasch Schubakova
-</td>
+<td colspan="2">Deutsch 4.​Klasse Schülerbuch Teil 1, 2</td>
+<td>Kristina Samosledova, Anastasia Potemkina, Kulasch Schubakova</td>
 <td>2021</td>
 <td>NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Deutsch 5.​Klasse Schülerbuch Teil 1, 2</td>
-<td>
-Aigul Bishkenova,
-Kulshanat Bulatbayeva,
-Assemgul Magsam,
-Ulshan Abdrachimova
-</td>
+<td colspan="2">Deutsch 5.​Klasse Schülerbuch Teil 1, 2</td>
+<td>Aigul Bishkenova, Kulshanat Bulatbayeva, Assemgul Magsam, Ulshan Abdrachimova</td>
 <td>2021</td>
 <td>NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Deutsch 6. Klasse Schülerbuch Teil 1, 2</td>
+<td colspan="2">Deutsch 6.​Klasse Schülerbuch Teil 1, 2</td>
 <td>
-Aigul Bishkenova,
-Kulshanat Bulatbayeva,
-Sagyngul Schakenova,
+Aigul Bishkenova, Kulshanat Bulatbayeva, Sagyngul Schakenova,
 Gulmira Arystankulova
 </td>
 <td>2021</td>
 <td>NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<td colspan="5">Француз тілі</td>
+<td colspan="6">Француз тілі</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Le Francais Pour le Kazakhstan classe 1. Livre de l’eleve</td>
+<td colspan="2">Le Francais Pour le Kazakhstan classe 1. Livre de l’eleve</td>
 <td>
-M. Kalougina
-A. Gousseva
-D. Kouzatbek
+M.​Kal​ougi​na
+A.​Gousseva
+D.​Kou​zatb​ek
 </td>
 <td>2021</td>
 <td>ТОО EDU Stream и Просвещение</td>
 </tr>
 <tr>
-<td colspan="5">Ағылшын тілі</td>
+<td colspan="6">Ағылшын тілі</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Smiles for Kazakhstan Grade 1. Pupil`s book</td>
+<td colspan="2">Smiles for Kazakhstan Grade 1. Pupil`s book</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -9253,11 +9235,11 @@ Natalya Mukhamedjanova
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Smiles 2 for Kazakhstan
 Pupil's Book
 </td>
@@ -9274,31 +9256,29 @@ Publishing
 </td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 (Grade 3)
 Pupil's Book
 </td>
 <td>
 Jenny Dooley,
-Series Consultant:
-Bob Obee.
-Translationsby
+Series Consultant: Bob Obee. Translationsby
 N.​Muk​hame​djan​ova
 </td>
 <td>2018</td>
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 Grade 4
 Pupil's Book
@@ -9313,11 +9293,11 @@ N.​Muk​hame​djan​ova
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Eyes Open 1 for Kazakhstan
 Grade 5
 Student`s book
@@ -9334,7 +9314,7 @@ Eoin Higgins
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 5)
 Student`s book
@@ -9351,7 +9331,7 @@ Natalya Mukhamedjianova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 English Plus
 Оқушы кітабы
 </td>
@@ -9364,7 +9344,7 @@ DianaPye
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Tiger Time 5 for Kazakhstan
 Student`s Book
 </td>
@@ -9376,11 +9356,11 @@ Mark Ormerod
 <td>Macmillan Publishers</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Eyes Open 2 for Kazakhstan
 (Grade 6)
 Student`s book
@@ -9399,7 +9379,7 @@ UniversityPress
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Excelfor Kazakhstan
 (Grade 6)
 Student`s book
@@ -9419,7 +9399,7 @@ Publishing
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 English Plus for Kazakhstan
 (Grade 6) Student`s Book
 </td>
@@ -9435,7 +9415,7 @@ University Press
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Laser A1+ for Kazakhstan
 (Grade 6)
 Student`s Book
@@ -9452,7 +9432,7 @@ Publishers
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 6
 Student’s Book
@@ -9462,11 +9442,11 @@ Student’s Book
 <td>MM Publications</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Eyes Open 3 for Kazakhstan Grade 7
 Student`s book
 </td>
@@ -9485,7 +9465,7 @@ University Press
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 7)
 Student`s book
@@ -9505,7 +9485,7 @@ Publishing
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 English Plus
 Оқушы кітабы
 </td>
@@ -9522,7 +9502,7 @@ University Press
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Laser A2 for Kazakhstan
 Student`s Book
 </td>
@@ -9538,7 +9518,7 @@ Publishers
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Mathematics
 Grade 7
 </td>
@@ -9554,7 +9534,7 @@ A. Mirzakhmedov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Upbeat Pre-Intermediate
 Student's Book Kazakhstan
 </td>
@@ -9572,7 +9552,7 @@ Education Limited
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Discover English 3 for Kazakhstan
 Students’ book
 </td>
@@ -9582,7 +9562,7 @@ Students’ book
 </tr>
 <tr>
 <td>8.</td>
-<td>Informatics 7 Textbook</td>
+<td colspan="2">Informatics 7 Textbook</td>
 <td>
 А.Жунусов,
 Е. Шаниев,
@@ -9592,11 +9572,11 @@ Students’ book
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Eyes Open 4 for Kazakhstan
 (Grade 8)
 Student`s book
@@ -9613,7 +9593,7 @@ Liz Kilbey
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 8)
 Student`s book
@@ -9630,7 +9610,7 @@ Natalya Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>English Plus for Kazakhstan (Grade 8) Student`s Book</td>
+<td colspan="2">English Plus for Kazakhstan (Grade 8) Student`s Book</td>
 <td>
 BenWetz,
 DianaPye
@@ -9640,7 +9620,7 @@ DianaPye
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Laser B1 for Kazakhstan
 Student`s Book
 </td>
@@ -9653,7 +9633,7 @@ Steve Taylore-Knowles
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 8 Student’s Book
 </td>
@@ -9663,7 +9643,7 @@ Grade 8 Student’s Book
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 PhysicsGrade 8
 Student’sBook
 </td>
@@ -9680,7 +9660,7 @@ Aizat Aimakhanova)
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Chemistry Grade 8
 Student`s book
 </td>
@@ -9696,7 +9676,7 @@ Olga Poluyeva
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Biology Grade 8
 Student`s book
 </td>
@@ -9713,7 +9693,7 @@ Yntyk Shayakhmetova
 </tr>
 <tr>
 <td>9.</td>
-<td>Informatics 8 Textbook</td>
+<td colspan="2">Informatics 8 Textbook</td>
 <td>
 А.Жунусов,
 Е. Шаниев,
@@ -9724,7 +9704,7 @@ Yntyk Shayakhmetova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Physics.
 Textbook
 </td>
@@ -9740,7 +9720,7 @@ Textbook
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Biology.
 Textbook
 </td>
@@ -9758,7 +9738,7 @@ Textbook
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Chemistry.
 Textbook
 </td>
@@ -9773,11 +9753,11 @@ Textbook
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 9)
 Student`s book
@@ -9793,7 +9773,7 @@ Natalya Mukhamedjianova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 9
 Student`s book
@@ -9807,7 +9787,7 @@ Marileni Malkogianni
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Think for Kazakhstan
 Grade 9
 Student`s book
@@ -9822,7 +9802,7 @@ Peter Lewis-Jones
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 English Plus Grade 9
 Student`s book (Kazakhstan Edition)
 </td>
@@ -9835,7 +9815,7 @@ DianaPye
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Laser B1+ for Kazakhstan
 Grade 9 Student`s Book
 </td>
@@ -9848,7 +9828,7 @@ Steve Taylore-Knowles
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 IT.
 Grade 9.
 Student`s book
@@ -9863,7 +9843,7 @@ Aktayev Askar
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Biology.
 Grade 9.
 Student`s book
@@ -9881,7 +9861,7 @@ Yntyk Shayakhmetova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Physics
 Grade 9
 Student`s book
@@ -9897,7 +9877,7 @@ Aizat Aimakhanova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Chemistry
 Grade 9
 Student`s book
@@ -9913,7 +9893,7 @@ Galymzhan Karamyrzayev
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Informatics.
 Textbook
 </td>
@@ -9929,13 +9909,12 @@ Y. Shaniyev)
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Physics.
 Textbook
 </td>
 <td>
-N. Tashev,
-N.​Sho​koba​lino​v,
+N. Tashev, N.​Sho​koba​lino​v,
 Y. Duiseyev,
 A. Karabatyrov,
 A. Baieshov,
@@ -9947,7 +9926,7 @@ K. Auyelbayeva
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Chemistry
 Textbook
 </td>
@@ -9966,7 +9945,7 @@ A. Tor
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Biology.
 Textbook
 </td>
@@ -9983,11 +9962,11 @@ A. Jilkaidarova
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Physics.
 Grade 10
 Textbook
@@ -9995,8 +9974,7 @@ Textbook
 <td>
 Yesbol Duiseyev,
 Nurlybek Tashev,
-Altynbek Karabatyrov,
-Aibek Baieshov,
+Altynbek Karabatyrov, Aibek Baieshov,
 Askhad Artykbayev,
 Kamila Auyelbayeva
 </td>
@@ -10005,7 +9983,7 @@ Kamila Auyelbayeva
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Biology.
 Grade 10
 Textbook
@@ -10014,8 +9992,7 @@ Textbook
 Timur Zhigibay,
 Adlet Sagintayev,
 Nazerke Karimova,
-Zhasulan Almaganbetov,
-Kuralay Zhanassova,
+Zhasulan Almaganbetov, Kuralay Zhanassova,
 Ilyas Sakimov,
 Nurkhan Yerekeshov
 </td>
@@ -10024,7 +10001,7 @@ Nurkhan Yerekeshov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Chemistry.
 Grade 10
 Textbook
@@ -10032,8 +10009,7 @@ Textbook
 <td>
 Kanat Baikenov,
 Olzhas Yussupov,
-Nurbolat Zhumagulov,
-Temirlan Khassen,
+Nurbolat Zhumagulov, Temirlan Khassen,
 Abylay Samatov,
 Dauren Kaliyev,
 AliTor
@@ -10043,7 +10019,7 @@ AliTor
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Informatics.
 Textbook
 </td>
@@ -10059,11 +10035,11 @@ Y. Shaniyev
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 10 (Grammar Schools)
 Student`s book
@@ -10073,11 +10049,11 @@ Jenny Dooley,
 Bob Obee
 </td>
 <td>2019</td>
-<td>Express ublishing</td>
+<td>Express Publishing</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Gateway for Kazakhstan
 Grade 10 (Humanities schools)
 Digital Student`s Book
@@ -10089,7 +10065,7 @@ Premium Pack
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Biology Grade 10
 Student`s book
 (Grammar Schools)
@@ -10106,7 +10082,7 @@ Yntyk Shayakhmetova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Physics Grade 10
 Student`s book
 (Grammar Schools)
@@ -10123,7 +10099,7 @@ Aizat Aimakhanova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Chemistry Grade 10
 Student`s book
 (Grammar School)
@@ -10137,11 +10113,11 @@ Olga Polueva
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 10 (Science Schools)
 Student`s book
@@ -10155,7 +10131,7 @@ Bob Obee
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 English
 Grade 10 (Sciences)
 Student`s book
@@ -10170,7 +10146,7 @@ Lewis Lansford
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Gateway for Kazakhstan
 Grade 10 (Science Schools)
 Digital Student`s Book Premium Pack
@@ -10181,7 +10157,7 @@ Digital Student`s Book Premium Pack
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Biology Grade 10
 Student`s book
 (Science Schools)
@@ -10198,7 +10174,7 @@ Yntyk Shayakhmetova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Physics Grade 10
 Student`s book
 (Science Schools)
@@ -10215,7 +10191,7 @@ Aizat Aimakhanova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Chemistry Grade 10
 Student`s book
 (Science School)
@@ -10229,14 +10205,14 @@ Olga Polueva
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Laser B2 forKazakhstan (Humanities)
 Student`s Book with CD-ROM
 </td>
@@ -10249,7 +10225,7 @@ Steve Taylore-Knowles
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 New Destinations for Kazakhstan
 Grade 11 (Humanities) Student`s book
 </td>
@@ -10262,7 +10238,7 @@ MarileniMalkogianni
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 English
 Grade 11 (Humanities)
 Student`s Book
@@ -10279,7 +10255,7 @@ R.​Akysheva
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 11 (Grammar Schools)
 Student`s book
@@ -10293,27 +10269,26 @@ N.​Muk​hame​djan​ova
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 11 (Science Schools)
 Student`s book
 </td>
 <td>
 Jenny Dooley,
-Bob Obee,
-N.​Muk​hame​djan​ova
+Bob Obee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 <td>ExpressP ublishing</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Solutions Kazakhstan Edition
+<td colspan="2">
+SolutionsKazakhstan Edition
 Grade 11 (Science Schools)
 Student`s Book
 </td>
@@ -10328,11 +10303,11 @@ Sylvia Wheeldon
 <td>Oxford University Press</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Physics.
 Grade 11.
 Textbook
@@ -10351,7 +10326,7 @@ Nursultan Shokobalinov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Chemistry.
 Grade 11.
 Textbook
@@ -10369,7 +10344,7 @@ Abylay Samatov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Biology.
 Grade 11.
 Textbook
@@ -10387,7 +10362,7 @@ Baurzhan Akimbayev
 </tr>
 <tr>
 <td>4.</td>
-<td>Informatics Grade 11 Textbook</td>
+<td colspan="2">Informatics Grade 11 Textbook</td>
 <td>
 Altynbek Zhunussov,
 Tulegen Akhmetov
@@ -10400,157 +10375,139 @@ Darkhan Alimzhanov
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="5">ұйғыр тілінде оқыту</td>
+<td colspan="6">ұйғыр тілінде оқыту</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
-Сават ечиш.
-Дәрислик.
-1-қисим
+<td colspan="2">
+Елипбә. Дәрислик
+1 синип
 </td>
 <td>
-М. Мәһәмдинов,
-Г. Азнибақиева,
+М. Махамдинов,
+Г. Азнабакиева,
 Г. Садирова
 </td>
-<td>2016</td>
+<td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Сават ечиш.
-Дәрислик.
-2-қисим
+<td colspan="2">
+Ана тили. Дәрислик
+1 синип
 </td>
 <td>
-Ш. Баратов,
-А. Арзиева,
-С. Һошурова,
-М. Бақиева
+М. Махамдинов,
+Г. Азнабакиева,
+Г. Садирова
 </td>
-<td>2016</td>
+<td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
-Дәрислик.
-1-бөлүм
+Дәрислик. 1, 2 бөлүм
 </td>
 <td>
-Г. Жакупова,
-Н. Орехова,
-Н. Лебедева,
-С. Уакбаева,
-А. Мадхалыкова,
-Н. Иманбаева
+Ә.Ақпаева,
+Л.Лебедева,
+М. Мыңжасарова,
+Т.Лихобабенко
 </td>
-<td>2016</td>
-<td>«Назарбаев зияткерлік мектептері» ДББҰ - «Мектеп»</td>
+<td>2021</td>
+<td>Алматыкітап</td>
 </tr>
 <tr>
 <td>4.</td>
+<td colspan="2">Цифрлиқ саватлиқ. Дәрислик</td>
 <td>
-Математика.
-Дәрислик.
-2-бөлүм
+Ж. Кобдикова,
+Г. Көпеева,
+Ә. Қаптағаева,
+А. Юсупова
 </td>
-<td>
-Г. Жақыпова,
-Н. Орехова,
-Н. Лебедева,
-С. Уақбаева,
-А. Муқашева
-</td>
-<td>2016</td>
-<td>«Назарбаев зияткерлік мектептері» ДББҰ - «Мектеп»</td>
+<td>2021</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Тәбиәтшунаслиқ.
 Дәрислик
 </td>
 <td>
-С. Кузнецова,
-Д. Сапақов,
-И. Васева,
-Ә. Жамиева,
-М. Қусаинова, М.Тасболатова
+С, Кучербаева,
+И.Темникова,
+Г.Ташенова
 </td>
-<td>2016</td>
-<td>«Назарбаев зияткерлік мектептері» ДББҰ - «Мектеп»</td>
+<td>2021</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Дуниятонуш.
 Дәрислик
 </td>
 <td>
-Қ. Байтенова,
-А. Жакеева,
-Е. Попова,
-Ш. Сауқатова,
-Ж. Сейтахметова,
-Л. Уфимцева
+Б. Турмашева,
+С. Салиш,
+Т. Мирук
 </td>
-<td>2016</td>
-<td>«Назарбаев зияткерлік мектептері» ДББҰ - «Мектеп»</td>
+<td>2021</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>7.</td>
+<td colspan="2">Өзини-өзи тонуш. Дәрислик</td>
 <td>
-Өзини-өзи тонуш.
-Дәрислик
-</td>
-<td>
-Р. Мукажанова,
+Р. Муқажанова,
 Г. Омарова,
 Р. Изғуттынова,
 Ж. Әкимбаева,
 Л. Жетписбаева
 </td>
-<td>2016</td>
-<td>Бөбек</td>
+<td>2021</td>
+<td>ҰҒПББСО «Бөбек»</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Музыка.
 Дәрислик
 </td>
 <td>
-М. Оразалиева,
-С. Омарова,
-Н. Рембакиева,
-С. Ушурова
+Ш. Қулманова,
+Б. Сүлейменова,
+Т. Тоқжанов,
+Д. Шарипов
 </td>
-<td>2016</td>
-<td>Алматыкітап</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>
-Бәдиий әмгәк.
-Дәрислик
-</td>
-<td>Н. Раупова</td>
-<td>2016</td>
+<td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td>9.</td>
+<td colspan="2">Бәдиий әмгәк. Дәрислик+ электронлуқ қошумчә</td>
+<td>
+Е. Ермилова,
+С. Попкова,
+С. Козина
+</td>
+<td>2021</td>
+<td>Мектеп</td>
+</tr>
+<tr>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик.
 1, 2 қисим
@@ -10565,7 +10522,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдәбий оқуш.
 Дәрислик
 </td>
@@ -10578,7 +10535,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Тәбиәтшунаслиқ.
 Дәрислик
 </td>
@@ -10591,7 +10548,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Дуниятонуш.
 Дәрислик
 </td>
@@ -10605,7 +10562,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Дәрислик
 </td>
@@ -10615,7 +10572,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Математика + СD
 Дәрислик.
 1, 2, 3, 4 бөлүм
@@ -10630,7 +10587,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Дәрислик
 </td>
@@ -10648,7 +10605,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Музыка.
 Дәрислик
 </td>
@@ -10662,11 +10619,11 @@ Darkhan Alimzhanov
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик
 </td>
@@ -10680,7 +10637,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдәбий оқуш.
 Дәрислик
 </td>
@@ -10693,7 +10650,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Дәрислик
 </td>
@@ -10707,7 +10664,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Дәрислик + СD.
 1, 2, 3, 4 бөлүм
@@ -10723,7 +10680,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Тәбиәтшунаслиқ.
 Дәрислик
 </td>
@@ -10737,7 +10694,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Дуниятонуш.
 Дәрислик
 </td>
@@ -10751,7 +10708,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Музыка.
 Дәрислик
 </td>
@@ -10767,20 +10724,18 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
+<td colspan="2">Цифрлиқ саватлиқ. Дәрислик</td>
 <td>
-Әхбаратлиқ – коммуникацияликтехнологияләр.
-Дәрислик
+Р. Қадырқұлов,
+Ә.Рысқұлбекова
+Н.Беристемова
 </td>
-<td>
-Г. Көпеева,
-Ү. Дилманова
-</td>
-<td>2018</td>
-<td>Арман –ПВ</td>
+<td>2021</td>
+<td>Алматыкітап</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Дәрислик
 </td>
@@ -10793,11 +10748,11 @@ Darkhan Alimzhanov
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик.
 1, 2 қисим
@@ -10812,7 +10767,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдәбий оқуш.
 Дәрислик.
 1, 2 қисим
@@ -10826,7 +10781,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Дәрислик.
 1, 2, 3, 4-қисим
@@ -10842,8 +10797,8 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
-Әхбаратлиқ-коммуникацияликтехнологияләр.
+<td colspan="2">
+Әхбаратлиқ-коммуникациялик технологияләр.
 Дәрислик
 </td>
 <td>
@@ -10857,7 +10812,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Тәбиәтшунаслиқ.
 Дәрислик.
 1, 2 қисим
@@ -10870,11 +10825,11 @@ Darkhan Alimzhanov
 М. Хонтай
 </td>
 <td>2019</td>
-<td>Назарбаев Әқлиймәктәплири</td>
+<td>Назарбаев Әқлий мәктәплири</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Дуниятонуш.
 Дәрислик
 </td>
@@ -10888,7 +10843,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Музыка.
 Дәрислик
 </td>
@@ -10903,7 +10858,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Дәрислик
 </td>
@@ -10917,7 +10872,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Дәрислик
 </td>
@@ -10930,11 +10885,11 @@ Darkhan Alimzhanov
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик
 </td>
@@ -10947,7 +10902,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Дәрислик
 </td>
@@ -10962,7 +10917,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Дәрислик
 </td>
@@ -10976,7 +10931,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Тәбиәтшунаслиқ.
 Дәрислик
 </td>
@@ -10989,7 +10944,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихи.
 Дәрислик
 </td>
@@ -11004,7 +10959,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Дүнияйүзи тарихи.
 Дәрислик
 </td>
@@ -11018,7 +10973,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дәрислик
 </td>
@@ -11031,7 +10986,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Дәрислик
 </td>
@@ -11046,7 +11001,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Музыка.
 Дәрислик
 </td>
@@ -11061,7 +11016,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Қизлар үчүн нусха. Дәрислик
 </td>
@@ -11077,7 +11032,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Оғуллар үчүн нусха. Дәрислик
 </td>
@@ -11092,11 +11047,11 @@ Darkhan Alimzhanov
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик
 </td>
@@ -11110,7 +11065,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Дәрислик
 </td>
@@ -11123,7 +11078,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Тәбиәтшунаслиқ.
 Дәрислик
 </td>
@@ -11138,7 +11093,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дәрислик
 </td>
@@ -11152,7 +11107,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Дәрислик
 (қизлар үчүн нусха)
@@ -11168,7 +11123,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Дәрислик
 (оғуллар үчүн нусха)
@@ -11184,7 +11139,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Математика.
 1, 2 бөлүм.
 Дәрислик
@@ -11199,7 +11154,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихи.
 Дәрислик
 </td>
@@ -11214,7 +11169,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Дуния тарихи.
 Дәрислик
 </td>
@@ -11228,7 +11183,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Дәрислик
 </td>
@@ -11241,11 +11196,11 @@ Darkhan Alimzhanov
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик
 </td>
@@ -11259,7 +11214,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Дәрислик
 </td>
@@ -11272,7 +11227,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Физика.
 Дәрислик
 </td>
@@ -11285,7 +11240,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Химия.
 Дәрислик
 </td>
@@ -11299,7 +11254,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Биология.
 Дәрислик
 </td>
@@ -11312,7 +11267,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 География.
 Дәрислик
 </td>
@@ -11326,7 +11281,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Дуния тарихи.
 Дәрислик
 </td>
@@ -11340,7 +11295,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Қизлар үчүн нусха. Дәрислик
 </td>
@@ -11355,7 +11310,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Оғуллар үчүн нусха. Дәрислик
 </td>
@@ -11371,7 +11326,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Дәрислик
 </td>
@@ -11386,7 +11341,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихи.
 Дәрислик. 8(7)
 </td>
@@ -11400,22 +11355,18 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>12.</td>
-<td>
-Информатика.
-Дәрислик
-</td>
+<td colspan="2">Информатика. Дәрислик</td>
 <td>
 С. Мухамбетжанова,
 А. Тен,
-Д. Исабаева,
-В. Сербин
+Л. Демидова
 </td>
-<td>2017</td>
+<td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дәрислик
 </td>
@@ -11430,7 +11381,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дәрислик
 </td>
@@ -11442,11 +11393,11 @@ Darkhan Alimzhanov
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дәрислик
 </td>
@@ -11460,7 +11411,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дәрислик
 </td>
@@ -11474,7 +11425,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқулық (ХХ ғасырдың басынан Екінші дүниежүзілік соғыс аяқталғанға дейін) Дәрислик
 9(8)
@@ -11489,7 +11440,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Дәрислик
 (қизлар үчүн нусха)
@@ -11505,7 +11456,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Дәрислик
 (оғуллар үчүн нусха)
@@ -11523,7 +11474,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Биология.
 Дәрислик
 </td>
@@ -11536,7 +11487,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик
 </td>
@@ -11550,8 +11501,8 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
-Уйғурәдәбияти.
+<td colspan="2">
+Уйғур әдәбияти.
 Дәрислик
 </td>
 <td>
@@ -11563,7 +11514,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дәрислик
 </td>
@@ -11578,7 +11529,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дәрислик
 </td>
@@ -11591,7 +11542,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Физика.
 Дәрислик
 </td>
@@ -11604,7 +11555,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Химия.
 Дәрислик
 </td>
@@ -11618,7 +11569,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 География.
 Дәрислик
 </td>
@@ -11631,7 +11582,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихи.
 Дәрислик
 </td>
@@ -11646,7 +11597,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Дуния тарихи.
 Дәрислик
 </td>
@@ -11660,7 +11611,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Дәрислик
 </td>
@@ -11674,24 +11625,21 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>17.</td>
-<td>
-Информатика.
-Дәрислик
-</td>
+<td colspan="2">Информатика. Дәрислик</td>
 <td>
 С. Мухамбетжанова,
-А. Тен,
+А.Тен,
 Н. Маликова
 </td>
-<td>2018</td>
+<td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик
 </td>
@@ -11705,7 +11653,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Дәрислик
 </td>
@@ -11719,7 +11667,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык и литература Учебник.
 1, 2 часть
 </td>
@@ -11733,7 +11681,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дәрислик
 </td>
@@ -11747,7 +11695,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дәрислик
 </td>
@@ -11761,7 +11709,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Физика.
 Дәрислик
 </td>
@@ -11774,7 +11722,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дәрислик
 </td>
@@ -11788,7 +11736,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Биология.
 Дәрислик
 </td>
@@ -11802,7 +11750,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Химия.
 Дәрислик
 </td>
@@ -11816,7 +11764,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақстан географияси. Дәрислик.
 1, 2-қисим
 </td>
@@ -11831,7 +11779,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Һоқуқ асаслири.
 Дәрислик
 </td>
@@ -11844,7 +11792,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихи. 8-9.
 Дәрислик.
 1, 2-қисим
@@ -11860,7 +11808,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Дуния тарихи. 8-9.
 Дәрислик.
 1, 2-қисим
@@ -11875,7 +11823,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Дәрислик
 </td>
@@ -11889,7 +11837,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Умумий билим беридиған мәктәпниң 9-синип оқуғучилириға беғишланған дәрислик (қизлар үчүн нусха). Дәрислик
 </td>
@@ -11902,7 +11850,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Умумий билим беридиған мәктәпниң 9-синип оқуғучилириға беғишланған дәрислик (оғуллар үчүн нусха).
 Дәрислик
@@ -11916,14 +11864,14 @@ Darkhan Alimzhanov
 <td>Keleshek -2030</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик
 </td>
@@ -11939,7 +11887,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Дәрислик
 </td>
@@ -11953,7 +11901,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Дуния тарихи.
 Дәрислик.
 1, 2 – қисим
@@ -11968,7 +11916,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Һоқуқ асаслири.
 Дәрислик.
 1, 2-қисим
@@ -11984,7 +11932,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>Алгебра вә анализ башланмилири. Дәрислик</td>
+<td colspan="2">Алгебра вә анализ башланмилири. Дәрислик</td>
 <td>
 А.Әбилқасимова,
 З. Жумағулова
@@ -11994,7 +11942,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дәрислик
 </td>
@@ -12007,7 +11955,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Физика.
 Дәрислик
 </td>
@@ -12020,7 +11968,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дәрислик
 </td>
@@ -12033,7 +11981,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Биология.
 Дәрислик
 </td>
@@ -12047,7 +11995,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Химия.
 Дәрислик.
 1, 2-қисим
@@ -12062,7 +12010,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 География.
 Дәрислик
 </td>
@@ -12075,11 +12023,11 @@ Darkhan Alimzhanov
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик
 </td>
@@ -12094,7 +12042,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Дәрислик
 </td>
@@ -12109,7 +12057,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра вә анализ башланмилири.
 Дәрислик.
 1, 2-қисим
@@ -12125,7 +12073,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дәрислик
 </td>
@@ -12138,7 +12086,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Физика.
 Дәрислик
 </td>
@@ -12151,7 +12099,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дәрислик
 </td>
@@ -12164,7 +12112,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Биология.
 Дәрислик.
 1, 2-қисим
@@ -12179,7 +12127,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Химия.
 Дәрислик.
 1, 2-қисим
@@ -12194,7 +12142,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Дуния тарихи.
 Дәрислик.
 1, 2-қисим
@@ -12209,7 +12157,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Һоқуқ асаслири.
 Дәрислик
 </td>
@@ -12223,11 +12171,11 @@ Darkhan Alimzhanov
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Дәрислик
 </td>
@@ -12241,7 +12189,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихи.
 Дәрислик
 </td>
@@ -12251,7 +12199,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Тәдбикарлиқвәтиҗарәтасаслири. Дәрислик.
 1, 2- қисим
 </td>
@@ -12265,14 +12213,14 @@ Darkhan Alimzhanov
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик
 </td>
@@ -12286,7 +12234,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти. Дәрислик.
 1, 2 - қисим
 </td>
@@ -12299,7 +12247,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра вә анализ башланмилири.
 Дәрислик
 </td>
@@ -12312,7 +12260,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дәрислик
 </td>
@@ -12325,7 +12273,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>Информатика. Дәрислик</td>
+<td colspan="2">Информатика. Дәрислик</td>
 <td>
 Г. Салгараева,
 Л. Рсалина,
@@ -12336,7 +12284,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 География.
 Дәрислик
 </td>
@@ -12351,7 +12299,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Биология.
 Дәрислик.
 1, 2-қисим
@@ -12368,7 +12316,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Физика.
 Дәрислик
 </td>
@@ -12381,7 +12329,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Химия.
 Дәрислик
 </td>
@@ -12395,7 +12343,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Дуния тарихи. Дәрислик.
 1, 2 - қисим
 </td>
@@ -12409,7 +12357,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Һоқуқ асаслири.
 Дәрислик.
 1, 2-қисим
@@ -12429,11 +12377,11 @@ Darkhan Alimzhanov
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Дәрислик
 </td>
@@ -12447,7 +12395,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>Уйғур әдәбияти. Дәрислик</td>
+<td colspan="2">Уйғур әдәбияти. Дәрислик</td>
 <td>
 П. Мәхсәтова,
 Г. Дуганова,
@@ -12458,7 +12406,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра вә анализ башланмилири.
 Дәрислик
 </td>
@@ -12472,7 +12420,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дәрислик
 </td>
@@ -12485,7 +12433,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 География.
 Дәрислик
 </td>
@@ -12499,7 +12447,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Биология.
 Дәрислик.
 1, 2-қисим
@@ -12516,7 +12464,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Физика.
 Дәрислик
 </td>
@@ -12529,7 +12477,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>Информатика. Дәрислик</td>
+<td colspan="2">Информатика. Дәрислик</td>
 <td>
 Г. Салгараева,
 Ж. Базаева,
@@ -12540,7 +12488,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Химия.
 Дәрислик.
 1, 2-қисим
@@ -12555,7 +12503,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>Дуния тарихи. Дәрислик</td>
+<td colspan="2">Дуния тарихи. Дәрислик</td>
 <td>
 Р. Қаирбекова,
 А. Ибраева,
@@ -12566,7 +12514,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>Һоқуқ асаслири. Дәрислик</td>
+<td colspan="2">Һоқуқ асаслири. Дәрислик</td>
 <td>
 А. Ибраева,
 Л.Еркинбаева,
@@ -12582,11 +12530,11 @@ Darkhan Alimzhanov
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Дәрислик
 </td>
@@ -12600,7 +12548,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2</td>
-<td>
+<td colspan="2">
 Қазақстан тарихи
 Дәрислик.
 1, 2-қисим
@@ -12614,140 +12562,131 @@ Darkhan Alimzhanov
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">өзбек тілінде оқыту</td>
+<td colspan="6">өзбек тілінде оқыту</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
+<td colspan="2">Алифбе. Дарслик</td>
 <td>
-Савод таълими.
-Дарслик.
-1, 2, 3 қисм
+Шамадиева Н.,
+Аташикова З.,
+Мусаева М.
 </td>
-<td>
-М. Мусаева,
-З. Аташикова,
-Н. Шамадиева
-</td>
-<td>2016</td>
+<td>2021</td>
 <td>Жазушы</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Математика.
-Дарслик.
-№1 булим
+<td colspan="2">
+Она тили.
+Дарслик
 </td>
 <td>
-Г. Жақыпова,
-Н. Орехова,
-Н. Лебедева,
-С. Уақбаева,
-А. Мадхалыкова,
-Н. Иманбаева
+Шамадиева Н.,
+Аташикова З.,
+Мусаева М.
 </td>
-<td>2016</td>
-<td>«Назарбаев зияткерлік мектептері» ДББҰ - «Жазушы»</td>
+<td>2021</td>
+<td>Жазушы</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
-Дарслик.
-№ 2 булим
+Дарслик. 1, 2 қисм
 </td>
 <td>
-Г. Жақыпова,
-Н. Орехова,
-Н. Лебедева,
-С. Уақбаева,
-А. Мұқашева
+А.Ақпаева,
+Л.Лебедева,
+М. Минжасарова,
+Т.Лихобабенко
 </td>
-<td>2016</td>
-<td>«Назарбаев зияткерлік мектептері» ДББҰ - «Жазушы»</td>
+<td>2021</td>
+<td>Алматыкітап- Жазушы</td>
 </tr>
 <tr>
 <td>4.</td>
+<td colspan="2">
+Рақамли саводхонлик.
+Дарслик
+</td>
 <td>
+А.Сагимбаева,
+М.Ермухамбетова,
+Е.Бидайбеков
+</td>
+<td>2021</td>
+<td>Алматыкітап- Жазушы</td>
+</tr>
+<tr>
+<td>5.</td>
+<td colspan="2">
 Табиатшунослик.
 Дарслик
 </td>
 <td>
-С. Кузнецова,
-Д. Сапақов,
-И. Васева,
-А. Жамиева,
-М. Құсайынова,
-М. Тасбулатова
+С.Кучербаева,
+И.Темникова,
+Г.Ташенова
 </td>
-<td>2016</td>
-<td>«Назарбаев зияткерлік мектептері» ДББҰ - «Жазушы»</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>
-Дунëтаниш.
-Дарслик
-</td>
-<td>
-К. Байтенова,
-А. Жакеева,
-Е. Попова,
-Ш. Саукатова,
-Ж. Сейтахметова,
-Л. Уфимцева
-</td>
-<td>2016</td>
-<td>«Назарбаев зияткерлік мектептері» ДББҰ - «Жазушы»</td>
+<td>2021</td>
+<td>Атамұра- Жазушы</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
-Уз-узини англаш.
+<td colspan="2">
+Дунётаниш.
 Дарслик
 </td>
 <td>
-Р. Мукажанова,
-Г. Омарова,
-А. Сапарбаева,
-С. Кедрук,
-Е. Клевцова
+Б. Турмашева,
+С. Салиш,
+Т. Мирук
 </td>
-<td>2016</td>
-<td>Бобек</td>
+<td>2021</td>
+<td>Атамұра- Жазушы</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>
-Мусиқа
+<td colspan="2">
+Ўз-ўзини англаш.
 Дарслик
 </td>
 <td>
-М. Оразалиева,
-С. Омарова
+Р.Мукажанова,
+Г.Ўмарова,
+А.Сапарбаева,
+С.Кедрук,
+Е.Клевцова,
+Т.Рудькова,
+А.Намазбаева
 </td>
-<td>2016</td>
-<td>Алматыкітап - Жазушы</td>
+<td>2021</td>
+<td>ҰҒПББСО «Бөбек»</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>
-Бадиий мехнат.
-Дарслик
+<td colspan="2">
+Бадиий меҳнат.
+Дарслик+электрон қўшимча
 </td>
-<td>Н. Раупова</td>
-<td>2016</td>
-<td>Атамұра - Жазушы</td>
+<td>
+Е. Ермилова,
+С. Попкова,
+С. Козина
+</td>
+<td>2021</td>
+<td>Мектеп- Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Оқулық.
 1-бөлім, 2-бөлім
@@ -12762,7 +12701,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Оқулық
 </td>
@@ -12776,7 +12715,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Дарслик.
 № 1, 2, 3, 4 қисм
@@ -12791,7 +12730,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Табиатшунослик.
 Дарслик
 </td>
@@ -12808,7 +12747,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Дунетаниш.
 Дарслик
 </td>
@@ -12822,7 +12761,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Дарслик
 </td>
@@ -12840,7 +12779,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Мусиқа.
 Дарслик
 </td>
@@ -12854,7 +12793,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик
 </td>
@@ -12863,11 +12802,11 @@ Darkhan Alimzhanov
 <td>Атамұра -Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик.
 1, 2 қисм
@@ -12887,8 +12826,8 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Адабийуқиш.
+<td colspan="2">
+Адабий уқиш.
 Дарслик
 </td>
 <td>
@@ -12901,7 +12840,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Дарслик.
 1, 2, 3, 4 қисм
@@ -12920,20 +12859,21 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
-Ахборот- коммуникацион технологиялари.
+<td colspan="2">
+Рақамли саводхонлик.
 Дарслик
 </td>
 <td>
-Р. Кадыркулов,
-А. Рыскулбекова
+Р. Кадиркулов,
+А. Рискулбекова
+Н.Беристемова
 </td>
-<td>2018</td>
-<td>Алматыкітап-Жазушы</td>
+<td>2021</td>
+<td>Алматыкітап - Жазушы</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Табиатшунослик.
 Дарслик
 </td>
@@ -12947,7 +12887,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Дунетаниш.
 Дарслик
 </td>
@@ -12961,7 +12901,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Бадий мехнат.
 Дарслик
 </td>
@@ -12975,7 +12915,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Мусиқа.
 Дарслик
 </td>
@@ -12989,11 +12929,11 @@ Darkhan Alimzhanov
 <td>Атамұра-Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик.
 1, 2 қисм
@@ -13008,7 +12948,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Адабий уқиш.
 Дарслик
 </td>
@@ -13022,7 +12962,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Дарслик.
 1, 2, 3, 4 қисмлар
@@ -13038,7 +12978,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Ахборот-коммуникацион технологиялари.
 Дарслик
 </td>
@@ -13053,7 +12993,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Табиатшунослик.
 Дарслик.
 1, 2 қисм
@@ -13066,11 +13006,11 @@ Darkhan Alimzhanov
 М. Хонтай
 </td>
 <td>2019</td>
-<td>Назарбаев зияткерлікмектептері-Жазушы</td>
+<td>Назарбаев зияткерлік мектептері-Жазушы</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Дунетаниш.
 Дарслик
 </td>
@@ -13084,7 +13024,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Мусиқа.
 Дарслик
 </td>
@@ -13098,7 +13038,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик
 </td>
@@ -13112,24 +13052,24 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Дарслик
 </td>
 <td>
 А. Карабутова,
-О. Ковригина,
-О.Т оковенко
+О.Ковригина,
+О.Токовенко
 </td>
 <td>2019</td>
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик
 </td>
@@ -13143,7 +13083,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Дарслик
 </td>
@@ -13158,7 +13098,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Дарслик
 </td>
@@ -13172,7 +13112,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дарслик
 </td>
@@ -13185,7 +13125,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Табиатшунослик.
 Дарслик,
 1, 2 қисм
@@ -13200,7 +13140,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қозоғистон тарихи.
 Дарслик
 </td>
@@ -13215,7 +13155,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Жахон тарихи.
 Дарслик
 </td>
@@ -13229,7 +13169,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Дарслик
 </td>
@@ -13244,7 +13184,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Мусиқа.
 Дарслик
 </td>
@@ -13258,7 +13198,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик
 (уғил болалар учун нусха)
@@ -13275,7 +13215,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик
 (қизлар учун нусха)
@@ -13291,11 +13231,11 @@ Darkhan Alimzhanov
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик.
 1, 2 қисм
@@ -13310,7 +13250,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Дарслик.
 1, 2 қисм
@@ -13325,7 +13265,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик
 (уғил болалар учун нусха)
@@ -13341,7 +13281,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик.
 (қизлар учун нусха)
@@ -13357,7 +13297,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Табиатшунослик.
 Дарслик.
 1, 2 қисм
@@ -13375,7 +13315,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дарслик
 </td>
@@ -13389,7 +13329,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Математика.
 1, 2 қисм.
 Дарслик
@@ -13404,7 +13344,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қозоғистон тарихи.
 Дарслик
 </td>
@@ -13419,7 +13359,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Жахон тарихи.
 Дарслик
 </td>
@@ -13433,7 +13373,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Дәрислик
 </td>
@@ -13446,11 +13386,11 @@ Darkhan Alimzhanov
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик
 </td>
@@ -13467,7 +13407,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Дарслик
 </td>
@@ -13482,20 +13422,18 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
+<td colspan="2">Информатика. Дарслик</td>
 <td>
-Информатика.
-Дарслик
+С. Мухамбетжанова,
+А. Тен,
+Л. Демидова
 </td>
-<td>
-Р. Қадирқулов,
-А. Рисқулбекова
-</td>
-<td>2017</td>
-<td>Алматыкітап-Жазушы</td>
+<td>2021</td>
+<td>Атамұра - Жазушы</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Физика.
 Дарслик
 </td>
@@ -13508,7 +13446,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Киме.
 Дарслик
 </td>
@@ -13522,7 +13460,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Биология.
 Дарслик
 </td>
@@ -13535,7 +13473,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 География.
 Дарслик
 </td>
@@ -13549,7 +13487,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қозоғистон тарихи.
 Дарслик
 </td>
@@ -13562,7 +13500,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Жахон тарихи.
 Дарслик
 </td>
@@ -13576,7 +13514,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Дарслик
 </td>
@@ -13591,7 +13529,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик
 (уғил болалар учун нусха)
@@ -13608,7 +13546,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик
 (қизлар учун нусха)
@@ -13624,7 +13562,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дарслик
 </td>
@@ -13639,7 +13577,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дарслик
 </td>
@@ -13651,11 +13589,11 @@ Darkhan Alimzhanov
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик.
 1, 2 қисм
@@ -13670,7 +13608,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Дарслик.
 1, 2 қисм
@@ -13685,7 +13623,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик
 (уғил болалар учун нусха)
@@ -13703,7 +13641,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик
 (қизлар учун нусха)
@@ -13719,20 +13657,18 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
+<td colspan="2">Информатика. Дарслик</td>
 <td>
-Информатика.
-Дарслик
+С. Мухамбетжанова,
+А.Тен,
+Л. Демидова
 </td>
-<td>
-Р. Қадырқұлов,
-Г. Нұрмұханбетова
-</td>
-<td>2018</td>
-<td>Алматыкітап-Жазушы</td>
+<td>2021</td>
+<td>Атамұра - Жазушы</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 География.
 Дарслик.
 1, 2 қисм
@@ -13748,7 +13684,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Биология.
 Дарслик
 </td>
@@ -13761,7 +13697,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дарслик
 </td>
@@ -13776,7 +13712,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дарслик
 </td>
@@ -13789,7 +13725,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Физика.
 Дарслик
 </td>
@@ -13802,7 +13738,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Химия.
 Дарслик
 </td>
@@ -13816,7 +13752,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Қозоғистон тарихи.
 Дарслик
 </td>
@@ -13831,7 +13767,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Жахон тарихи.
 Дарслик
 </td>
@@ -13844,11 +13780,11 @@ Darkhan Alimzhanov
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик
 </td>
@@ -13861,7 +13797,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Дарслик
 </td>
@@ -13874,7 +13810,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дарслик
 </td>
@@ -13888,7 +13824,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дарслик
 </td>
@@ -13902,7 +13838,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Физика.
 Дарслик
 </td>
@@ -13915,7 +13851,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дарслик
 </td>
@@ -13929,7 +13865,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қозоғистон географияси.
 Дарслик.
 1, 2 қисм
@@ -13945,7 +13881,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Химия.
 Дарслик
 </td>
@@ -13959,7 +13895,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Хуқуқ асослари.
 Дарслик
 </td>
@@ -13972,7 +13908,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қозоғистон тарихи.
 Дарслик.
 1, 2 қисм, 8-9
@@ -13988,7 +13924,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Жахон тарихи.
 Дарслик.
 1, 2 қисм, 8-9
@@ -14003,7 +13939,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Дарслик
 </td>
@@ -14017,7 +13953,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат: умум таълим мактабларининг
 9- синф Уқувчилари учун дарслик (қизлар учун нусха).
 Дарслик
@@ -14031,7 +13967,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат: умум таълим мактабларининг
 9-синф Уқувчилари учун дарслик (уғил болалар учун нусха).
 Дарслик
@@ -14045,14 +13981,14 @@ Darkhan Alimzhanov
 <td>Keleshek - 2030</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик
 </td>
@@ -14065,7 +14001,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Дарслик
 </td>
@@ -14078,7 +14014,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра ва анализ асослари.
 Дарслик
 </td>
@@ -14091,7 +14027,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дарслик
 </td>
@@ -14104,7 +14040,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Физика.
 Дарслик
 </td>
@@ -14117,7 +14053,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дарслик
 </td>
@@ -14130,7 +14066,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Химия.
 Дарслик.
 1, 2 –қисм
@@ -14145,7 +14081,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Биология.
 Дарслик
 </td>
@@ -14159,7 +14095,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 География.
 Дарслик
 </td>
@@ -14173,7 +14109,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Жахон тарихи.
 Дарслик.
 1, 2 –қисм
@@ -14188,7 +14124,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Хуқуқ асослари.
 Дарслик.
 1, 2- қисм
@@ -14203,11 +14139,11 @@ Darkhan Alimzhanov
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик
 </td>
@@ -14217,7 +14153,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Дарслик
 </td>
@@ -14230,7 +14166,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра ва анализ асослари.
 Дарслик.
 1, 2 – қисм
@@ -14246,7 +14182,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дарслик
 </td>
@@ -14259,7 +14195,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Физика.
 Дарслик
 </td>
@@ -14272,7 +14208,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дарслик
 </td>
@@ -14285,7 +14221,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Химия.
 Дарслик.
 1, 2 – қисм
@@ -14300,7 +14236,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Биология.
 Дарслик.
 1, 2 – қисм
@@ -14315,7 +14251,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Жахон тарихи.
 Дарслик.
 1, 2 – қисм
@@ -14330,7 +14266,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Хуқуқ асослари.
 Дарслик
 </td>
@@ -14344,18 +14280,18 @@ Darkhan Alimzhanov
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Қозоғистон тарихи. Дарслик</td>
+<td colspan="2">Қозоғистон тарихи. Дарслик</td>
 <td>З. Жандосова</td>
 <td>2019</td>
 <td>Мектеп</td>
 </tr>
 <tr>
 <td>2</td>
-<td>
+<td colspan="2">
 Тадбиркорликва бизнес асослари. Дарслик.
 1, 2- қисмлар
 </td>
@@ -14369,14 +14305,14 @@ Darkhan Alimzhanov
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик
 </td>
@@ -14386,7 +14322,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>Узбек адабиети. Дарслик</td>
+<td colspan="2">Узбек адабиети. Дарслик</td>
 <td>
 Ш. Наралиева,
 Н. Корганбаева
@@ -14396,7 +14332,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>Алгебра ва анализ асослари. Дарслик</td>
+<td colspan="2">Алгебра ва анализ асослари. Дарслик</td>
 <td>
 А. Абилқасимова,
 З. Жумағулова
@@ -14406,7 +14342,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дарслик
 </td>
@@ -14419,7 +14355,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Биология.
 Дарслик
 </td>
@@ -14435,7 +14371,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Физика.
 Дарслик
 </td>
@@ -14450,7 +14386,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дарслик
 </td>
@@ -14464,7 +14400,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Киме.
 Дарслик
 </td>
@@ -14478,7 +14414,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Жаһон тарихи. Дарслик.
 1, 2-қисм
 </td>
@@ -14492,7 +14428,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Хуқуқ асослари. Дарслик.
 1, 2-қисм
 </td>
@@ -14511,11 +14447,11 @@ Darkhan Alimzhanov
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Дарслик
 </td>
@@ -14525,7 +14461,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>Узбек адабиети. Дарслик</td>
+<td colspan="2">Узбек адабиети. Дарслик</td>
 <td>
 Ш. Наралиева,
 Н. Корганбаева
@@ -14535,7 +14471,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра ва анализ асослари.
 Дарслик
 </td>
@@ -14549,7 +14485,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дарслик
 </td>
@@ -14562,7 +14498,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 География.
 Дарслик
 </td>
@@ -14576,7 +14512,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Биология.
 Дарслик.
 1, 2 - қисм
@@ -14593,7 +14529,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Физика.
 Дарслик.
 1, 2-қисм
@@ -14609,7 +14545,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Информатика.
 Дарслик
 </td>
@@ -14623,7 +14559,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Киме.
 Дарслик.
 1, 2- қисм
@@ -14638,7 +14574,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>Жаһон тарихи. Дарслик</td>
+<td colspan="2">Жаһон тарихи. Дарслик</td>
 <td>
 Р. Қайирбекова,
 А. Ибраева,
@@ -14649,7 +14585,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>11.</td>
-<td>Хуқуқ асослари. Дарслик</td>
+<td colspan="2">Хуқуқ асослари. Дарслик</td>
 <td>
 А. Ибраева,
 Л. Еркинбаева,
@@ -14658,18 +14594,17 @@ Darkhan Alimzhanov
 А. Бекишев,
 Д. Турсинқулова,
 С. Гончаров,
-А. Баданова,
-А. Қасимжанова
+А. Баданова, А. Қасимжанова
 </td>
 <td>2020</td>
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Уз-узини англаш. Дарслик</td>
+<td colspan="2">Уз-узини англаш. Дарслик</td>
 <td>
 Г. Омарова,
 А. Рысбаева,
@@ -14681,7 +14616,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қозоғистон тарихи. Дарслик.
 1,2 қисм
 </td>
@@ -14695,7 +14630,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Тадбиркорлик ва бизнес асослари. Дарслик.
 1, 2- қисмлар
 </td>
@@ -14709,14 +14644,14 @@ Darkhan Alimzhanov
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">оқыту тәжік тілінде</td>
+<td colspan="6">Оқыту тәжік тілінде</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Саводомузи.
 Китобидарсй.
 Қисми 1
@@ -14731,7 +14666,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Саводомузи.
 Китобидарсй.
 Қисми 2
@@ -14746,7 +14681,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Саводомузи.
 Китобидарсй.
 Қисми 3
@@ -14761,7 +14696,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Китоби дарсй.
 Қисми 1
@@ -14779,7 +14714,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
 Китоби дарсй.
 Қисми 2
@@ -14800,7 +14735,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Оламшиноси.
 Китоби дарсй
 </td>
@@ -14820,7 +14755,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Табиатшиноси.
 Китоби дарсй
 </td>
@@ -14829,8 +14764,7 @@ Darkhan Alimzhanov
 Д. Сапақов,
 И. Васева,
 А. Жамиева,
-М. Құсайынова,
-М.Тасбулатова
+М. Құсайынова, М.Тасбулатова
 </td>
 <td>2016</td>
 <td>
@@ -14840,7 +14774,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Худшиносй.
 Китоби дарсй
 </td>
@@ -14856,7 +14790,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Мусика.
 Китоби дарсй
 </td>
@@ -14873,7 +14807,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Мехнати бадей.
 Китоби дарсй
 </td>
@@ -14885,11 +14819,11 @@ Darkhan Alimzhanov
 </td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Математика.
 Китоби дарсий синфи 2 мактаби умуми таълимй
 Қисми 1, 2, 3, 4
@@ -14904,7 +14838,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Оламшиносй.
 Китоби дарсй бароисинфхои 2 мактабимиенаитахсилотиумуми
 </td>
@@ -14918,7 +14852,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Мехнати бадей.
 Китоби дарси таълимотиумимибароисинфи 2
 </td>
@@ -14928,7 +14862,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Мусиқа.
 Китобидарсйбароисинфи 2 дар мактабхоитахсилотиумими
 </td>
@@ -14942,7 +14876,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Забониточикй.
 Китобидарсй.
 1, 2 қисми
@@ -14957,7 +14891,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Китобихониш.
 Китоби дарсй
 </td>
@@ -14970,7 +14904,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Табиатшиносй.
 Китоби дарсй
 </td>
@@ -14986,11 +14920,11 @@ Darkhan Alimzhanov
 <td>Алматыкітап-Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Забониточики.
 Дарслик
 </td>
@@ -15002,11 +14936,11 @@ Darkhan Alimzhanov
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Забониточики.
 Дарслик
 </td>
@@ -15020,7 +14954,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Адабиетиточик.
 Дарслик
 </td>
@@ -15033,11 +14967,11 @@ Darkhan Alimzhanov
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Забониточики.
 Дарслик
 </td>
@@ -15050,7 +14984,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Адабиетиточик.
 Дарслик
 </td>
@@ -15064,11 +14998,11 @@ Darkhan Alimzhanov
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Забониточики.
 Дарслик
 </td>
@@ -15081,7 +15015,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Адабиетиточик.
 Дарслик
 </td>
@@ -15093,11 +15027,11 @@ Darkhan Alimzhanov
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Забониточики.
 Оқулық
 </td>
@@ -15106,11 +15040,11 @@ Darkhan Alimzhanov
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Забониточики.
 Дарслик
 </td>
@@ -15124,7 +15058,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Адабиетиточик.
 Дарслик
 </td>
@@ -15136,11 +15070,11 @@ Darkhan Alimzhanov
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Адабиетиточик.
 Дарслик
 </td>
@@ -15154,7 +15088,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Забониточики.
 Дарслик
 </td>
@@ -15163,11 +15097,11 @@ Darkhan Alimzhanov
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Забониточики.
 Дарслик
 </td>
@@ -15177,7 +15111,7 @@ Darkhan Alimzhanov
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Адабиетиточик.
 Дарслик
 </td>
@@ -15189,17 +15123,38 @@ Darkhan Alimzhanov
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">Цифрлық басылымдар</td>
+<td colspan="6">Цифрлық басылымдар</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ тілінде</td>
+<td colspan="6">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
+<td colspan="2">Әліппе. Web -платформадағы электронды оқулық, 1-сынып</td>
+<td>Жумабаева Ә., Құрман Н., Сабденова Б.</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>2.</td>
+<td colspan="2">
+Ана тілі.
+Электронды оқулық. 1, 2-бөлім,
+</td>
 <td>
+Уайсова Г.,
+Сәдуақас Г.,
+Бесірова А.С.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>3.</td>
+<td colspan="2">
 Русский язык.
 Электрондық оқулық (web-платформа)
 1-сынып.
@@ -15213,8 +15168,8 @@ https://​topiq.​kz/
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>
+<td>4.ъ</td>
+<td colspan="2">
 Математика.
 Электрондық оқулық.
 1-сынып
@@ -15229,11 +15184,11 @@ https://​topiq.​kz/
 Ж. Мукашев
 </td>
 <td>2019</td>
-<td>Білім беруді ақпараттандыру педагогикалықтехнологияларорталығы</td>
+<td>Білім беруді ақпараттандыру педагогикалық технологиялар орталығы</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>
+<td>5.</td>
+<td colspan="2">
 Математика. Электрондық оқулық.
 1, 2 бөлім (web-платформа)
 1-бөлім: https://​topiq.​kz/
@@ -15249,9 +15204,11 @@ https://​topiq.​kz/
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>
-Цифрлық сауаттылық. Электрондық оқулық (web-платформа)
+<td>6.</td>
+<td colspan="2">
+Цифрлық
+сауаттылық. Электрондық
+оқулық (web-платформа)
 (web-платформа)
 Ekitap.kz
 </td>
@@ -15265,9 +15222,11 @@ Ekitap.kz
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>
-Цифрлық сауаттылық. Электрондық оқулық (web-платформа)
+<td>7.</td>
+<td colspan="2">
+Цифрлық
+сауаттылық. Электрондық
+оқулық (web-платформа)
 https://​topiq.​kz/
 </td>
 <td>
@@ -15279,55 +15238,73 @@ https://​topiq.​kz/
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>
-Цифрлық сауаттылық. Электрондық оқулық (web-платформа)
+<td>8.</td>
+<td colspan="2">
+Цифрлық
+сауаттылық. Электрондық
+оқулық (web-платформа)
 https://​topiq.​kz/
 </td>
 <td>
-А. Сағымбаева,
-М. Ермұхамбетова,
-Е. Бидайбеков
+А.Сағымбаева,
+М.Ермұхамбетова, Е.Бидайбеков
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Цифрлық сауаттылық. Электрондық оқулық (СD)</td>
+<td>9.</td>
+<td colspan="2">
+Цифрлық сауаттылық. Электрондық
+оқулық (СD)
+</td>
 <td>
 Қ.Тұрғанбай,
-Г. Тулемисова,
-Ю. Панченко,
-Г. Нургалиева,
-А. Тажигулова,
-А. Арыстанова
+Г.Тулемисова,
+Ю.Панченко,
+Г.Нургалиева,
+А.Тажигулова,
+А.Арыстанова
 </td>
 <td>2021</td>
 <td>Жаңа білім беру технологиялары</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>
+<td>10.</td>
+<td colspan="2">Цифрлық сауаттылық. Web -платформадағы электронды оқулық, 1-сынып</td>
+<td>Исабаева Д., Назарбекова А., Зординова П., Әубекова М..</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>11.</td>
+<td colspan="2">
 Жаратылыстану Электрондық оқулық
 (web-платформа)
 https://​topiq.​kz/
 </td>
 <td>
 Р. Қаратабанов,
-Г. Үржігітова,
-Ж. Құсайынова,
-Г. Батырова
+Г.Үржігітова,
+Ж.Құсайынова,
+Г.Батырова
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td>12.</td>
+<td colspan="2">Музыка. Web -платформадағы электронды оқулық, 1 сынып</td>
+<td>Құлманова Ш., Сулейменова Б., Тоқжанов Т.</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Электрондық оқулық (web-платформа)
 2-сынып.
@@ -15342,7 +15319,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Электрондық оқулық (web-платформа).
 2-сынып.
@@ -15357,11 +15334,11 @@ https://​topiq.​kz/
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Электрондық оқулық (web-платформа)
 3-сынып.
@@ -15378,7 +15355,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Электрондық оқулық (web-платформа).
 3-сынып.
@@ -15395,21 +15372,31 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Цифрлық сауаттылық. Электрондық оқулық (web-платформа)
 https://​topiq.​kz/
 </td>
 <td>
-Р. Қадырқұлов,
-А. Рысқұлбекова,
-Н. Берістемова
+Р.Қадырқұлов,
+А.Рысқұлбекова,
+Н.Берістемова
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
+Цифрлық сауаттылық. Web -платформадағы электронды оқулық-
+3 сынып
+</td>
+<td>Исабаева Д., Назарбекова А., Зординова П., Әубекова М.</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>5.</td>
+<td colspan="2">
 Өзін-өзі тану.
 Мультимедиалық электрондық оқулық.
 3-сынып
@@ -15425,11 +15412,11 @@ https://​topiq.​kz/
 <td>«Бөбек» ҰҒПББСО</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Электрондық оқулық (web-платформа)
 4-сынып. https://​topiq.​kz/
@@ -15443,7 +15430,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Электрондық оқулық (web-платформа)
 4-сынып.
@@ -15462,9 +15449,9 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
-Электрондық оқулық (web-платформа).
+Электрондықоқулық (web-платформа).
 4-сынып.
 https://​topiq.​kz/
 </td>
@@ -15478,11 +15465,32 @@ https://​topiq.​kz/
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td>4.</td>
+<td colspan="2">Дүниетану. Web -платформадағы электронды оқулық, 4 сынып</td>
+<td>
+Тұрмашева Б.,
+Салиш С.,
+Пугач В.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>5.</td>
+<td colspan="2">Көркем еңбек. Web -платформадағы электронды оқулық, 4 сынып</td>
+<td>
+Раупова Н.,
+Төлебиев Ә., Дашкевич Е.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Математика.
 Электрондық оқулық.
 5-сынып
@@ -15494,11 +15502,11 @@ https://​topiq.​kz/
 және т.б.
 </td>
 <td>2016</td>
-<td>Білімді ақпараттандырудың педагогикалықтехнологияларорталығы</td>
+<td>Білім беруді ақпараттандыру педагогикалық технологиялар орталығы</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Информатика. Электрондық оқулық (web-платформа).
 5-сынып.
 https://​topiq.​kz/
@@ -15511,22 +15519,23 @@ https://​topiq.​kz/
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-Электрондық оқулық.
+Электрондық
+оқулық.
 6-сынып
 </td>
 <td>Б. Ашенова</td>
 <td>2016</td>
-<td>Білімді ақпараттандырудың педагогикалықтехнологиялар орталығы</td>
+<td>Білім беруді ақпараттандыру педагогикалық технологиялар орталығы</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Электрондық оқулық.
 6-сынып
@@ -15541,7 +15550,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Информатика. Электрондық оқулық (web-платформа) .
 6-сынып.
 https://​topiq.​kz/
@@ -15554,22 +15563,22 @@ https://​topiq.​kz/
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Электрондық оқулық.
 7-сынып
 </td>
 <td>Б. Ашенова</td>
 <td>2016</td>
-<td>Білімді ақпараттандырудың педагогикалықтехнологияларорталығы</td>
+<td>Білім беруді ақпараттандыру педагогикалық технологиялар орталығы</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Электрондық
 оқулық.
@@ -15579,14 +15588,14 @@ https://​topiq.​kz/
 Б. Баймұқанов,
 С. Берикканова,
 Е. Берикканов,
-Р. Бериккановжәнет.б.
+Р. Берикканов жәнет.б.
 </td>
 <td>2016</td>
-<td>Білімді ақпараттандырудың педагогикалықтехнологияларорталығы</td>
+<td>Білім беруді ақпараттандыру педагогикалық технологиялар орталығы</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Жалпы білім беретін мектептің 7-сынып оқушыларына арналған электрондық оқулық
 </td>
@@ -15604,21 +15613,35 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Информатика. Электрондық оқулық (web-платформа)
 https://​topiq.​kz/
 </td>
 <td>
 Р. Қадырқұлов,
 Ә. Рысқұлбекова,
-Г. Нұрмұханбетова
+Г.Нұрмұханбетова
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>5.</td>
+<td colspan="2">
+Информатика. Web -платформадағы электронды оқулық-
+7 сынып
+</td>
 <td>
+Мухамбетжанова С.,
+Тен А.,
+Демидова Л.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>6.</td>
+<td colspan="2">
 Өзін-өзі тану.
 Мультимедиалық электрондық оқулық.
 7-сынып
@@ -15632,11 +15655,11 @@ https://​topiq.​kz/
 <td>«Бөбек» ҰҒПББСО</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Электрондық
 оқулық.
@@ -15650,14 +15673,11 @@ C. Соколова,
 О. Рахметова жәнет.б.
 </td>
 <td>2016</td>
-<td>
-Білімді
-Ақпараттандырудың педагогикалықтехнологияларорталығы
-</td>
+<td>Білімді ақпараттандырудың педагогикалық технологиялар орталығы</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Жалпы білім беретін мектептің 8-сынып оқушыларына арналған электрондық оқулық
 </td>
@@ -15675,21 +15695,34 @@ C. Соколова,
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Информатика. Электрондық оқулық (web-платформа)
 https://​topiq.​kz/
 </td>
 <td>
 Р. Қадырқұлов,
 Ә. Рысқұлбекова,
-Г. Нұрмұханбетова
+Г.Нұрмұханбетова
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>4.</td>
+<td colspan="2">
+Информатика. Web -платформадағы электронды оқулық-
+8 сынып
+</td>
 <td>
+Мухамбетжанова С., Тен А.,
+Демидова Л.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>5.</td>
+<td colspan="2">
 Өзін-өзі тану.
 Мультимедиалық электрондық оқулық.
 8-сынып
@@ -15703,22 +15736,22 @@ https://​topiq.​kz/
 <td>«Бөбек» ҰҒПББСО</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Электрондық оқулық.
 9-сынып
 </td>
 <td>Б. Байгалиева</td>
 <td>2016</td>
-<td>Білімді ақпараттандырудың педагогикалықтехнологияларорталығы</td>
+<td>Білімді ақпараттандырудың педагогикалық технологиялар орталығы</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Электрондық оқулық (web-платформа)
 9-сынып.
@@ -15734,7 +15767,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Электрондық оқулық.
 9-сынып
@@ -15746,11 +15779,11 @@ https://​topiq.​kz/
 жәнет.б.
 </td>
 <td>2016</td>
-<td>Білімді ақпараттандырудың педагогикалықтехнологияларорталығы</td>
+<td>Білімді ақпараттандырудың педагогикалық технологиялар орталығы</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Электрондық оқулық.
 9-сынып
@@ -15769,7 +15802,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Жалпы білім беретін мектептің 9-сынып оқушыларына арналған электрондық оқулық
 </td>
@@ -15787,7 +15820,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Информатика. Электрондық оқулық.
 https://​topiq.​kz/ платформасындағы цифрлық
 нұсқасы
@@ -15801,7 +15834,7 @@ https://​topiq.​kz/ платформасындағы цифрлық
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Физика.
 Электрондық
 оқулық.
@@ -15824,7 +15857,7 @@ https://​topiq.​kz/ платформасындағы цифрлық
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Химия.
 Электрондық
 оқулық.
@@ -15846,11 +15879,11 @@ https://​topiq.​kz/ платформасындағы цифрлық
 <td>Жаңа білім беру технологиялары</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Электрондық оқулық (web-платформа)
 10-сынып.
@@ -15866,7 +15899,7 @@ E. Ескендирова
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Жалпы білім беретін мектептің 10-сынып оқушыларына арналған электрондық оқулық
 </td>
@@ -15884,7 +15917,7 @@ E. Ескендирова
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Информатика. Электрондық оқулық.
 https://​topiq.​kz/ платформасындағы цифрлық
 нұсқасы
@@ -15898,7 +15931,7 @@ https://​topiq.​kz/ платформасындағы цифрлық
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Химия.
 Электрондық оқулық.
 10-сынып
@@ -15912,7 +15945,7 @@ https://​topiq.​kz/ платформасындағы цифрлық
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 1-бөлім. Алғашқы әскери және технологиялық дайындық.
 2-бөлім. Оқу-далалық (лагерлік) жиындар.
@@ -15934,22 +15967,22 @@ https://​topiq.​kz/ платформасындағы цифрлық
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Электрондық оқулық.
 11-сынып
 </td>
 <td>Б. Байгалиева</td>
 <td>2016</td>
-<td>Білімді ақпараттандырудың педагогикалықтехнологияларорталығы</td>
+<td>Білім беруді ақпараттандыру педагогикалық технологиялар орталығы</td>
 </tr>
 <tr>
 <td>2.2</td>
-<td>
+<td colspan="2">
 Геометрия.
 Жалпы білім беретін мектептің 11-сынып оқушыларына арналған электрондық оқулық
 </td>
@@ -15967,7 +16000,7 @@ https://​topiq.​kz/ платформасындағы цифрлық
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Информатика. (ЖМБ). Электрондық оқулық (web-платформа).
 11-сынып.
 https://​topiq.​kz/
@@ -15983,7 +16016,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Информатика. (ҚГБ) Электрондық оқулық (web-платформа).
 11-сынып.
 https://​topiq.​kz/
@@ -15999,7 +16032,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Химия.
 Электрондық оқулық.
 11-сынып
@@ -16013,7 +16046,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Электрондық оқулық.
 11-сынып.
@@ -16031,7 +16064,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери дайындық. Электрондық оқулық.
 11-сынып
 </td>
@@ -16047,7 +16080,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 Жалпы білім беретін мектептің 11-сынып оқушыларына арналған электрондық оқулық
 </td>
@@ -16062,14 +16095,14 @@ https://​topiq.​kz/
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">оқыту орыс тілінде</td>
+<td colspan="6">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Электронный учебник
 (web-платформа).
@@ -16079,32 +16112,47 @@ https://​topiq.​kz/
 <td>
 А. Хазимова,
 Б. Салыхова,
-М.Бейсебекова
+М. Бейсебекова
 </td>
 <td>2020</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Обучение грамоте.
-Электронный учебник (web-платформа).
-1 класс.
+<td colspan="2">
+Букварь. Электронный учебник.
+(web-платформа)
+1 класс
 https://​topiq.​kz/
 </td>
 <td>
-Богатырёва Е.,
-Бучина Р.,
-Остроухова Н.,
-Регель Н.,
-Труханова О.
+Богатырева Е. В., Бучина Р. А.,
+Регель Н. В., Труханова О. И., Штукина Е.Э.
 </td>
-<td>2020</td>
-<td>Алматыкітап</td>
+<td>2021</td>
+<td>Алматыкітап баспасы</td>
 </tr>
 <tr>
 <td>3.</td>
+<td colspan="2">
+Обучение грамоте. Электронный учебник.
+(web-платформа)
+1 класс
+https://​topiq.​kz/
+</td>
 <td>
+Богатырева Е. В., Бучина Р. А.,
+Регель Н. В., Труханова О. И., Штукина Е.Э.
+</td>
+<td>2021</td>
+<td>
+Алматыкітап
+баспасы
+</td>
+</tr>
+<tr>
+<td>4.</td>
+<td colspan="2">
 Математика.
 Электронный учебник.
 1-класс
@@ -16122,8 +16170,8 @@ https://​topiq.​kz/
 <td>Центр педагогических технологий информатизации образования</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>
+<td>5.</td>
+<td colspan="2">
 Математика. Электронный учебник
 Часть 1, 2
 1 часть: https://​topiq.​kz/
@@ -16131,57 +16179,89 @@ https://​topiq.​kz/
 </td>
 <td>
 Акпаева А.,
-Лебедева Л.,
-Мыңжасарова М.,
-Лихобабенко Т.
-</td>
-<td>2021</td>
-<td>Алматыкітап</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>
-Цифровая грамотность. Электронный учебник (web-платформа)
-https://​topiq.​kz/
-</td>
-<td>
-Кадиркулов Р.,
-Рыскулбекова А.,
-Беристемова Н.
+Лебедева Л., Мыңжасарова М., Лихобабенко Т.
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Цифровая грамотность. Электронный учебник (web-платформа)
 https://​topiq.​kz/
 </td>
 <td>
-Сагимбаева А.,
-Ермухамбетова М.,
-Бидайбеков Е.
+Кадиркулов Р., Рыскулбекова А.,
+Беристемова Н.
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Цифровая грамотность. Электронный учебник (СD)</td>
-<td>
-Тұрғанбай Қ.,
-Панченко Ю.,
-Нургалиева Г.,
-Тажигулова А.,
-Арыстанова А.
+<td colspan="2">
+Цифровая грамотность. Электронный учебник (web-платформа)
+https://​topiq.​kz/
 </td>
+<td>
+Сагимбаева А., Ермухамбетова М.,
+Бидайбеков Е.
+</td>
+<td>2021</td>
+<td>Алматыкітап</td>
+</tr>
+<tr>
+<td>8.</td>
+<td colspan="2">Цифровая грамотность. Электронный учебник (СD)</td>
+<td>Тұрғанбай Қ., Панченко Ю., Нургалиева Г., Тажигулова А., Арыстанова А.</td>
 <td>2021</td>
 <td>Новые образовательные технологии</td>
 </tr>
 <tr>
-<td>8.</td>
+<td>9.</td>
+<td colspan="2">
+Цифровая грамотность. Учебник.
+Электронная на web-платформе-
+1 класс
+</td>
 <td>
+Исабаева Д.,
+Назарбекова А.,
+Зординова П.,
+Аубекова М.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>10.</td>
+<td colspan="2">
+Естествознание. Учебник.
+Электронная на web-платформе,
+1 класс
+</td>
+<td>Кучербаева С., Темникова И., Ташенова Г.</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>11.</td>
+<td colspan="2">
+Познание мира. Учебник.
+Электронная на web-платформе,
+1 класс
+</td>
+<td>
+Турмашева Б.,
+Салиш С.,
+Мирук Т.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>12.</td>
+<td colspan="2">
 Музыка.
 Электронный учебник (web-платформа).
 1 класс
@@ -16196,11 +16276,11 @@ https://​topiq.​kz/
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Электронный учебник (web-платформа).
 2 класс.
@@ -16218,7 +16298,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Электронный учебник (web-платформа).
 2 класс.
@@ -16236,7 +16316,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Электронный учебник (web-платформа)
 2 класс.
@@ -16252,7 +16332,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Естествознание. Электронный учебник(web-платформа)
 2 класс
 https://​topiq.​kz/
@@ -16270,7 +16350,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Музыка.
 Электронный учебник (web-платформа).
 2 класс
@@ -16284,11 +16364,11 @@ https://​topiq.​kz/
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Электронный учебник (web-платформа)
 3 класс.
@@ -16306,7 +16386,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Электронный учебник (web-платформа).
 3 класс.
@@ -16324,7 +16404,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Электронный учебник (web-платформа)
 3 класс.
@@ -16341,13 +16421,12 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Цифровая грамотность. Электронный учебник (web-платформа)
 https://​topiq.​kz/
 </td>
 <td>
-Кадиркулов Р.,
-Рыскулбекова А.,
+Кадиркулов Р., Рыскулбекова А.,
 Беристемова Н.
 </td>
 <td>2021</td>
@@ -16355,7 +16434,18 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
+Цифровая грамотность. Учебник.
+Электронная на web-платформе-
+3 класс
+</td>
+<td>Исабаева Д., Назарбекова А., Зординова П., Аубекова М.</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>6.</td>
+<td colspan="2">
 Самопознание.
 Мультимедийный электронный учебник.
 3-класс
@@ -16370,11 +16460,11 @@ https://​topiq.​kz/
 <td>Национальный научно-практический, образовательный и оздоровительный центр «Бөбек»</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Электронный учебник (web-платформа).
 4 класс.
@@ -16389,7 +16479,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Электронный учебник (web-платформа)
 4 класс
@@ -16407,7 +16497,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Электронный учебник (web-платформа).
 4 класс.
@@ -16425,7 +16515,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Электронный учебник (web-платформа).
 4 класс
@@ -16434,15 +16524,14 @@ https://​topiq.​kz/
 <td>
 Акпаева А.,
 Лебедева Л.,
-Мынжасарова М.,
-Лихобабенко Т.
+Мынжасарова М., Лихобабенко Т.
 </td>
 <td>2020</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Информационно-коммуникационные технологии.
 Электронный учебник (web-платформа)
 4 класс
@@ -16459,7 +16548,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Электронный учебник.
 4-класс
@@ -16479,7 +16568,35 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>7.</td>
+<td colspan="2">
+Познание мира. Учебник.
+Электронная на web-платформе,
+4 класс
+</td>
 <td>
+Турмашева Б.,
+Салиш С.,
+Пугач В.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>8.</td>
+<td colspan="2">
+Художественный труд. Учебник. Электронная на web-платформе,
+4 класс
+</td>
+<td>
+Раупова Н.,
+Төлебиев Ә., Дашкевич Е.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>9.</td>
+<td colspan="2">
 Музыка.
 Электронный учебник (web-платформа)
 4 класс
@@ -16493,11 +16610,11 @@ https://​topiq.​kz/
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Электронный учебник.
 5-класс
@@ -16512,7 +16629,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Электронный учебник (web-платформа)
 5 класс
@@ -16529,25 +16646,22 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Информатика.
 Электронный учебник (web-платформа)
 5 класс
 https://​topiq.​kz/
 </td>
-<td>
-Кадиркулов Р.,
-Нурмуханбетова Г.
-</td>
+<td>Кадиркулов Р., Нурмуханбетова Г.</td>
 <td>2020</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Электронный учебник.
 6-класс
@@ -16562,7 +16676,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Электронный учебник (web-платформа)
 6 класс
@@ -16580,7 +16694,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Электронный учебник.
 6-класс
@@ -16596,25 +16710,22 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Информатика.
 Электронный учебник (web-платформа)
 6 класс
 https://​topiq.​kz/
 </td>
-<td>
-Кадиркулов Р.,
-Нурмуханбетова Г.
-</td>
+<td>Кадиркулов Р., Нурмуханбетова Г.</td>
 <td>2020</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Электронный учебник.
 7-класс
@@ -16629,22 +16740,17 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>Алгебра. 7 класс. Электронный учебник (СD)</td>
+<td colspan="2">Алгебра. 7 класс. Электронный учебник(СD)</td>
 <td>
-Баймуханов Б.,
-Козтаева К.,
-Берикканова С.,
-Соколова А.,
-Нургалиева Г.,
-Тажигулова А.,
-Арыстанова А.
+Баймуханов Б., Козтаева К., Берикканова С.,
+Соколова А., Нургалиева Г., Тажигулова А., Арыстанова А.
 </td>
 <td>2021</td>
 <td>Новые образовательные технологии</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Электронный учебник для учащихся 7 класса общеобразовательной школы
 </td>
@@ -16662,13 +16768,12 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Информатика. Электронный учебник (web-платформа)
 https://​topiq.​kz/
 </td>
 <td>
-Кадиркулов Р.,
-Рыскулбекова А.,
+Кадиркулов Р., Рыскулбекова А.,
 Нурмуханбетова Г.
 </td>
 <td>2021</td>
@@ -16676,7 +16781,21 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>5.</td>
+<td colspan="2">
+Информатика. Учебник.
+Электронная на web-платформе-
+7 класс
+</td>
 <td>
+Мухамбетжанова С., Тен А.,
+Демидова Л.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>6.</td>
+<td colspan="2">
 Самопознание.
 Мультимедийный электронный учебник.
 7-класс
@@ -16689,11 +16808,11 @@ https://​topiq.​kz/
 <td>Национальный научно-практический, образовательный и оздоровительный центр «Бөбек»</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Электронный учебник для учащихся 8 класса общеобразовательной школы
 </td>
@@ -16711,13 +16830,12 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Информатика. Электронный учебник (web-платформа)
 https://​topiq.​kz/
 </td>
 <td>
-Кадиркулов Р.,
-Рыскулбекова А.,
+Кадиркулов Р., Рыскулбекова А.,
 Нурмуханбетова Г.
 </td>
 <td>2021</td>
@@ -16725,7 +16843,21 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
+<td colspan="2">
+Информатика. Учебник.
+Электронная на web-платформе-
+8 класс
+</td>
 <td>
+Мухамбетжанова С., Тен А.,
+Демидова Л.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>4.</td>
+<td colspan="2">
 Самопознание.
 Мультимедийный электронный учебник.
 8-класс
@@ -16738,11 +16870,11 @@ https://​topiq.​kz/
 <td>Национальный научно-практический, образовательный и оздоровительный центр «Бөбек»</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Электронный учебник.
 9-класс
@@ -16756,7 +16888,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Электронный учебник.
 9-класс
@@ -16774,7 +16906,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Электронный учебник.
 9-класс
@@ -16793,7 +16925,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Электронный учебник для учащихся 9 класса общеобразовательной школы
 </td>
@@ -16811,7 +16943,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Информатика.
 Электронный учебник.
 9-класс
@@ -16830,7 +16962,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Информатика. Электронный учебник.
 Цифровая версия на платформе https://​topiq.​kz/
 </td>
@@ -16843,7 +16975,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Физика.
 Электронный учебник.
 9-класс
@@ -16864,7 +16996,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Химия.
 Электронный учебник.
 9-класс
@@ -16886,7 +17018,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Черчение.
 Электронный учебник.
 9-класс
@@ -16902,11 +17034,11 @@ https://​topiq.​kz/
 <td>Национальный центр информатизации</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Электронный учебник (web-платформа)
 10 класс
@@ -16922,7 +17054,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.Часть 1,2. Электронный учебник(web-платформа) 10 класс
 https://​topiq.​kz/
 </td>
@@ -16936,7 +17068,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Электронный учебник для учащихся 10 класса общеобразовательной школы
 </td>
@@ -16954,7 +17086,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Информатика.
 Электронный учебник.
 Цифровая версия на платформе https://​topiq.​kz/
@@ -16968,7 +17100,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 География. (ЕМН)
 Часть 1,2.
 Электронный учебник (web-платформа)
@@ -16986,7 +17118,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Биология.
 Электронный учебник.
 10-класс
@@ -17000,7 +17132,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Химия.
 Электронный учебник.
 10-класс
@@ -17014,7 +17146,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка. Часть 1.
 Начальная военная и технологическая подготовка. Учебно-полевые (лагерные) сборы. Часть 2. Электронный учебник. 10 класс
 </td>
@@ -17033,11 +17165,11 @@ https://​topiq.​kz/
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык (ЕМН).
 Электронный учебник (web-платформа)
 11 класс
@@ -17055,7 +17187,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русская литература (ЕМН).
 Электронный учебник (web-платформа)
 11 класс
@@ -17072,7 +17204,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русская литература (ОГН).
 Электронный учебник (web-платформа)
 11 класс
@@ -17089,7 +17221,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Электронный учебник.
 11-класс
@@ -17108,7 +17240,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Электронный учебник для учащихся 11класса общеобразовательной школы
 </td>
@@ -17126,24 +17258,22 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Геометрия. Электронный учебник для учащихся 11 класса естественно-математического направления общеобразовательной школы
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
 Солтан Г.,
-Солтан А.,
-Жумадилова А.,
-Лосенко О.,
-Ергалиев Ж.
+Солтан А., Жумадилова А.,
+Лосенко О., Ергалиев Ж.
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Информатика (ЕМН).
 Электронный учебник (web-платформа)
 11 класс
@@ -17159,7 +17289,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Информатика (ОГН).
 Электронный учебник (web-платформа)
 11 класс.
@@ -17175,7 +17305,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Биология.
 Электронный учебник.
 11-класс
@@ -17194,7 +17324,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Химия.
 Электронный учебник.
 11-класс
@@ -17208,7 +17338,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Электронный учебник.
 11-класс
@@ -17228,7 +17358,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>12.</td>
-<td>Начальная военная и технологическая подготовка. Электронный учебник для учащихся 11 класса общеобразовательной школы</td>
+<td colspan="2">Начальная военная и технологическая подготовка. Электронный учебник для учащихся 11 класса общеобразовательной школы</td>
 <td>
 Рихтер А.,
 Яковенко В.,
@@ -17240,17 +17370,17 @@ https://​topiq.​kz/
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ, орыс, ұйғыр, өзбек, тәжік тілдерінде</td>
+<td colspan="6">оқыту қазақ, орыс, ұйғыр, өзбек, тәжік тілдерінде</td>
 </tr>
 <tr>
-<td colspan="5">Бастауыш білім беру</td>
+<td colspan="6">Бастауыш білім беру</td>
 </tr>
 <tr>
-<td colspan="5">Ағылшын тілі</td>
+<td colspan="6">Ағылшын тілі</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Pupil’s Book for Kazakhstan Grade 1 «Smiles 1». Электронный учебник (web-платформа)
 1 class.
 https://​topiq.​kz/
@@ -17262,23 +17392,26 @@ Translations by
 N. Mukhamedjanova
 </td>
 <td>2020</td>
-<td>Express Publishing</td>
+<td>ExpressPublishing</td>
 </tr>
 <tr>
-<td colspan="5">Ерекше білім беруге қажеттілігі бар білім алушыларға арналған оқу әдебиеті</td>
+<td colspan="6">
+Ерекше білім беруге қажеттілігі бар білім алушыларға
+арналған оқу әдебиеті
+</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ тілінде</td>
+<td colspan="6">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<td colspan="5">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</td>
+<td colspan="6">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Сауат ашу.
 Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 1 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларға арналған оқулық. 1, 2-бөлім
 </td>
@@ -17288,7 +17421,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 1 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларға арналған оқулық
 </td>
@@ -17301,7 +17434,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 1 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларға арналған № 1, 2 оқулық
 </td>
@@ -17315,7 +17448,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Сауат ашу.
 Рельефті-нүктелі әліппе. Көру қабілеті зақымдалған
 1 сынып оқушыларына арналған оқулық.
@@ -17330,7 +17463,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>5.</td>
-<td>Русский язык с казахским языком обучения</td>
+<td colspan="2">Русский язык с казахским языком обучения</td>
 <td>
 КалашниковаТ.,
 Беспалова Р.
@@ -17342,7 +17475,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>6.</td>
-<td>Математика</td>
+<td colspan="2">Математика</td>
 <td>
 Г. Жакупова,
 Н. Орехова,
@@ -17360,7 +17493,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>7.</td>
-<td>Жаратылыстану</td>
+<td colspan="2">Жаратылыстану</td>
 <td>
 С. Кузнецова,
 Д. Сапақов,
@@ -17376,7 +17509,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>8.</td>
-<td>Дүниетану</td>
+<td colspan="2">Дүниетану</td>
 <td>
 Қ. Байтенова,
 А. Жакеева,
@@ -17392,11 +17525,11 @@ N. Mukhamedjanova
 <td>«Назарбаев зияткерлік мектептері» ДББҰ - ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық.
 1,2 бөлім
@@ -17413,7 +17546,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Оқулық.
 1, 2 бөлім
@@ -17428,7 +17561,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық.
 1, 2, 3, 4 бөлім
@@ -17445,11 +17578,11 @@ N. Mukhamedjanova
 <td>Алматыкітап -ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық.
 1, 2 бөлім
@@ -17467,7 +17600,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Оқулық.
 1, 2 бөлім
@@ -17485,7 +17618,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық.
 1-4 бөлім
@@ -17503,11 +17636,11 @@ N. Mukhamedjanova
 <td>Алматыкітап -ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық.
 1, 2 бөлім
@@ -17523,7 +17656,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық
 </td>
@@ -17538,7 +17671,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық.
 1,2 бөлім
@@ -17546,8 +17679,7 @@ N. Mukhamedjanova
 <td>
 Т. Алдамұратова,
 К. Байшоланова,
-Е. Байшоланов
-Бейімдеген:
+Е. БайшолановБейімдеген:
 И. Калмакова
 П. Имантаева
 </td>
@@ -17555,11 +17687,11 @@ N. Mukhamedjanova
 <td>Атамұра -ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық
 </td>
@@ -17575,8 +17707,8 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Қазақә дебиеті.
+<td colspan="2">
+Қазақ әдебиеті.
 Оқулық
 </td>
 <td>
@@ -17590,7 +17722,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқулық
 </td>
@@ -17608,7 +17740,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық
 </td>
@@ -17623,14 +17755,14 @@ N. Mukhamedjanova
 <td>Мектеп-ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулық</td>
+<td colspan="6">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулық</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Сауат ашу.
 Оқулық
 </td>
@@ -17650,7 +17782,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для школ с казахским языком обучения в 2-х частях
 </td>
@@ -17665,7 +17797,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық.
 1-4 бөлім
@@ -17682,14 +17814,14 @@ N. Mukhamedjanova
 Э. Жұмабекова
 </td>
 <td>2016</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ - ӘБЕО</td>
+<td>«Назарбаев зияткерлік мектептері» ДББҰ - ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық.
 1, 2, 3 бөлім
@@ -17706,7 +17838,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық.
 1, 2, 3, 4 бөлім
@@ -17722,11 +17854,11 @@ N. Mukhamedjanova
 <td>Алматыкітап-ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық.
 4-бөлім
@@ -17743,7 +17875,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Оқулық.
 4-бөлім
@@ -17760,7 +17892,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық.
 8-бөлім
@@ -17777,19 +17909,18 @@ N. Mukhamedjanova
 <td>Алматыкітап-ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған оқулық.
 4 бөлім
 </td>
 <td>
 Ә.Жұмабаева,
 Г. Уайсова,
-Г. Сәдуақас
-Бейімдеген:
+Г.Сәдуақас Бейімдеген:
 И. Жунусканова
 </td>
 <td>2021</td>
@@ -17797,11 +17928,10 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>Әдебиеттік оқу. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған оқулық. 5-бөлім</td>
+<td colspan="2">Әдебиеттік оқу. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған оқулық. 5-бөлім</td>
 <td>
 З. Мүфтибекова,
-Ә. Рысқұлбекова
-Бейімдеген:
+Ә. Рысқұлбекова Бейімдеген:
 И. Жунусканова
 </td>
 <td>2021</td>
@@ -17809,7 +17939,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған оқулық.
 8 бөлім
@@ -17818,19 +17948,18 @@ N. Mukhamedjanova
 Ә. Ақпаева,
 Л. Лебедева,
 М. Мыңжасарова,
-Т. Лихобабенко,
-Бейімдеген:
+Т. Лихобабенко, Бейімдеген:
 Р. Шаканова
 </td>
 <td>2021</td>
 <td>Атамұра- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық.
 1, 2 бөлім
@@ -17846,7 +17975,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық.
 1, 2, 3, 4, 5, 6 бөлім
@@ -17862,60 +17991,58 @@ N. Mukhamedjanova
 <td>Атамұра-ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
-Қазақ тілі. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 6-сынып оқушыларына арналған оқулық.
+<td colspan="2">
+Қазақтілі. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 6-сынып оқушыларына арналған оқулық.
 2 бөлім
 </td>
 <td>
 Б. Әрінова,
 Г. Раева,
 Г. Кәрімова,
-Л. Жұмекенова
-Бейімдеген:
-М. Нүсіпова
+Л. Жұмекенова Бейімдеген:
+М.Нүсіпова
 </td>
 <td>2021</td>
 <td>Атамұра- ӘБЕО</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Қазақ әдебиеті. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 6-сынып оқушыларына арналған оқулық.</td>
+<td colspan="2">Қазақ әдебиеті. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 6-сынып оқушыларына арналған оқулық.</td>
 <td>
 А. Ақтанова,
 А. Жүндібаева,
 Л. Жұмекенова
 Бейімдеген:
-М. Нүсіпова
+М.Нүсіпова
 </td>
 <td>2021</td>
 <td>Атамұра- ӘБЕО</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 6-сынып оқушыларына арналған оқулық.
 4 бөлім
 </td>
 <td>
-А. Әбілқасымова,
-Т. Кучер,
-Э. Жұмағұлова,
-Бейімдеген:
-Г. Нұрпейсова
+А.Әбілқасымова,
+Т.Кучер,
+Э.Жұмағұлова, Бейімдеген:
+Г.Нұрпейсова
 </td>
 <td>2021</td>
 <td>Атамұра- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық.
 2-бөлім
@@ -17932,7 +18059,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқулық.
 2-бөлім
@@ -17948,7 +18075,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқулық.
 3-бөлім
@@ -17966,7 +18093,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқулық.
 2-бөлім
@@ -17981,14 +18108,14 @@ N. Mukhamedjanova
 <td>Мектеп - ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқулықтар</td>
+<td colspan="6">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқулықтар</td>
 </tr>
 <tr>
-<td colspan="5">0-сынып</td>
+<td colspan="6">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Сауат ашу.
 Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 0 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларға арналған оқулық. 1, 2 бөлім
 </td>
@@ -18002,7 +18129,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 0 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларға арналған оқулық.
 № 1, 2 бөлім
@@ -18017,7 +18144,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 0 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларға арналған оқулық
 </td>
@@ -18030,7 +18157,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 № 1, 2. Естімейтін балаларға арналған арнайы мектептің 0-сыныбына арналған оқулық
 </td>
@@ -18043,11 +18170,11 @@ N. Mukhamedjanova
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Зерде бұзылыстары бар балаларға арналған, арнайы мектептердің
 2- сыныбына арналған оқулық
@@ -18061,9 +18188,10 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
-Зерде бұзылыстары бар балаларға арналған, арнайы мектептердің 2- сыныбына арналған оқулық.
+Зерде бұзылыстары бар балаларға арналған, арнайы мектептердің
+2- сыныбына арналған оқулық
 №1, 2 бөлім
 </td>
 <td>
@@ -18076,7 +18204,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Зерде бұзылыстары бар балаларға арналған, арнайы мектептердің 2- сыныбына арналған оқулық
 </td>
@@ -18090,7 +18218,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для 2 класса с нерусским языком обучения специальных школ, для детей с нарушением интеллекта
 </td>
@@ -18103,7 +18231,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Зерде бұзылыстары бар балаларға арналған, арнайы мектептердің 2- сыныбына арналған оқулық
 </td>
@@ -18115,11 +18243,11 @@ N. Mukhamedjanova
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің 3 сыныбына арналған оқулық
 </td>
@@ -18132,7 +18260,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің бірінші бөліміне арналған оқулығы
 </td>
@@ -18145,7 +18273,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Зерде бұзылыстары бар балаларға арналған арнайы мектептердің 3- сыныбына арналған оқулық
 </td>
@@ -18159,7 +18287,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Зерде бұзылыстары бар балаларға арналған арнайы мектептердің 3- сыныбына арналған оқулық.
 1, 2 бөлім
@@ -18173,7 +18301,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Зерде бұзылыстары бар балаларға арналған арнайы мектептердің 3 сыныбына арналған оқулық
 </td>
@@ -18187,7 +18315,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для 3 класса с нерусским языком обучения специальных школ для детей с нарушением интеллекта
 </td>
@@ -18200,7 +18328,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Зерде бұзылыстары бар балаларға арналған арнайы мектептердің 3- сыныбына арналған оқулық.
 1, 2 бөлім
@@ -18210,11 +18338,11 @@ N. Mukhamedjanova
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Қазақ тілі. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 4-сынып оқушыларына арналған оқулық</td>
+<td colspan="2">Қазақ тілі. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 4-сынып оқушыларына арналған оқулық</td>
 <td>
 А. Биисова,
 Л. Джусупкалиева
@@ -18224,20 +18352,20 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>Математика. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 4-сынып оқушыларына арналған оқулық</td>
+<td colspan="2">Математика. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 4-сынып оқушыларына арналған оқулық</td>
 <td>
-Р. Сүлейменова,
-И. Елисеева
+Р.Сүлейменова,
+И.Елисеева
 </td>
 <td>2021</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Оқу және тіл дамыту. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 4-сынып оқушыларына арналған оқулық</td>
+<td colspan="2">Оқу және тіл дамыту. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 4-сынып оқушыларына арналған оқулық</td>
 <td>
 Р. Сүлейменова,
-А. Алтыбаева,
+А.Алтыбаева,
 А. Калиева,
 Л. Турсунова
 </td>
@@ -18246,7 +18374,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>Русский язык. Учебник для учащихся 4 класса с нарушением интеллекта специальных школ (классов) (с нерусским языком обучения)</td>
+<td colspan="2">Русский язык. Учебник для учащихся 4 класса с нарушением интеллекта специальных школ (классов) (с нерусским языком обучения)</td>
 <td>
 Б. Халыкова,
 О. Карелина
@@ -18256,17 +18384,17 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>5.</td>
-<td>Айналадағы әлем. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 4-сынып оқушыларына арналған оқулық</td>
+<td colspan="2">Айналадағы әлем. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 4-сынып оқушыларына арналған оқулық</td>
 <td>А. Юсупова</td>
 <td>2021</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Зерде даму бұзылыстары бар балаларға арналған, арнайы мектептердің 5- сыныбына арналған оқулық
 </td>
@@ -18279,9 +18407,9 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
-Зерде бұзылыстары бар балаларға арналған, арнайы мектептердің 5- сыныбына арналған оқулық
+Зерде даму бұзылыстары бар балаларға арналған, арнайы мектептердің 5- сыныбына арналған оқулық
 </td>
 <td>
 Р. Сүлейменова,
@@ -18293,7 +18421,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Зерде даму бұзылыстары бар балаларға арналған, арнайы мектептердің 5- сыныбына арналған оқулық
 </td>
@@ -18307,7 +18435,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для 5 класса с нерусским языком обучения специальных школ, для детей с нарушением интеллекта
 </td>
@@ -18320,9 +18448,9 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
-Зерде даму бұзылыстары бар балаларға арналған, арнайы мектептердің 5-сыныбына арналған оқулық
+Зерде даму бұзылыстары бар балаларға арналған, арнайы мектептердің 5- сыныбына арналған оқулық
 </td>
 <td>
 З.Мовкебаева
@@ -18332,12 +18460,12 @@ N. Mukhamedjanova
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
-Қазақ тілі.
+<td colspan="2">
+Қазақтілі.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің
 9-сыныбына (10 кезең) арналған оқулық
 </td>
@@ -18350,7 +18478,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептердің 6- сыныбына арналған оқулық
 </td>
@@ -18364,7 +18492,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептердің 6- сыныбына арналған оқулық
 </td>
@@ -18378,7 +18506,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для 6 класса с нерусским языком обучения специальных школ для детей с нарушением интеллекта.
 </td>
@@ -18391,9 +18519,9 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
-Зерде бұзылыстары бар балаларға арналған арнайы мектептердің6- сыныбынаарналған оқулық
+Зерде бұзылыстары бар балаларға арналған арнайы мектептердің 6- сыныбына арналған оқулық
 </td>
 <td>
 Р.Сүлейменова,
@@ -18404,7 +18532,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептердің 6-сыныбына арналған оқулық
 </td>
@@ -18416,11 +18544,11 @@ N. Mukhamedjanova
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Зерде даму бұзылыстары бар балаларға арналған, арнайы мектептердің 7- сыныбына арналған оқулық
 </td>
@@ -18433,7 +18561,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Зерде бұзылыстары бар балаларға арналған, арнайы мектептердің 7- сыныбына арналған оқулық
 </td>
@@ -18447,7 +18575,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Зерде даму бұзылыстары бар балаларға арналған, арнайы мектептердің 7- сыныбына арналған оқулық
 </td>
@@ -18461,7 +18589,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для 7 класса с нерусским языком обучения специальных школ, для детей с нарушением интеллекта
 </td>
@@ -18474,24 +18602,34 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Зерде даму бұзылыстары бар балаларға арналған, арнайы мектептердің 7- сыныбына арналған оқулық
 </td>
 <td>
-А.Айдарбекова,
-Н.Юлдабаева,
+А.Айдарбекова, Н.Юлдабаева,
 Т. Даутова
 </td>
 <td>2019</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td>6.</td>
+<td colspan="2">Қазақстан тарихы. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 7-сынып оқушыларына арналған оқулық</td>
+<td>
+Е. Әбіл,
+Г. Абаева,
+А. Макажанов
+</td>
+<td>2021</td>
+<td>Консалтинг &amp; Тренинг Компаниясы</td>
+</tr>
+<tr>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқулық
 </td>
@@ -18504,7 +18642,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептердің 8-сыныбына арналған оқулық
 </td>
@@ -18517,7 +18655,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептердің 8- сыныбына арналған оқулық.
 </td>
@@ -18531,7 +18669,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептердің 8- сыныбына арналған оқулық
 </td>
@@ -18545,7 +18683,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
 Зерде бұзылыстары бар балаларға арналған арнайы мектептердің 8- сыныбына арналған оқулық
 </td>
@@ -18559,7 +18697,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептердің 8- сыныбына арналған оқулық
 </td>
@@ -18571,11 +18709,22 @@ N. Mukhamedjanova
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td>7.</td>
+<td colspan="2">Қазақстан тарихы. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 8-сынып оқушыларына арналған оқулық</td>
+<td>
+Е. Әбіл,
+Г. Абаева,
+А. Габдуллина
+</td>
+<td>2021</td>
+<td>Консалтинг &amp; Тренинг Компаниясы</td>
+</tr>
+<tr>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Қазақ тілі. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
+<td colspan="2">Қазақтілі. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
 <td>
 А. Биисова,
 Ф. Жалетденова
@@ -18585,10 +18734,10 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>Математика. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
+<td colspan="2">Математика. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
 <td>
 Р. Сүлейменова,
-И. Елисеева,
+И.Елисеева,
 С.Парканова
 </td>
 <td>2021</td>
@@ -18596,7 +18745,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>Оқу және тіл дамыту. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
+<td colspan="2">Оқу және тіл дамыту. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
 <td>
 Р. Сүлейменова,
 К. Каменова,
@@ -18607,7 +18756,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>Русский язык. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов) (с нерусским языком обучения)</td>
+<td colspan="2">Русский язык. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов) (с нерусским языком обучения)</td>
 <td>
 В. Хвойницкая,
 Б. Халыкова
@@ -18617,7 +18766,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>5.</td>
-<td>Жаратылыстану. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
+<td colspan="2">Жаратылыстану. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
 <td>
 Н. Юлдабаева,
 Б. Халықова
@@ -18626,13 +18775,24 @@ N. Mukhamedjanova
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td>6.</td>
+<td colspan="2">Қазақстан тарихы. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
+<td>
+Е. Әбіл,
+Г. Абаева,
+А. Макажанов
+</td>
+<td>2021</td>
+<td>Консалтинг &amp; Тренинг Компаниясы</td>
+</tr>
+<tr>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
-Қазақ тілі.
-Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің10-сыныбына арналған оқу- әдістемелік кешен.
+<td colspan="2">
+Қазақтілі.
+Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің 10-сыныбына арналған оқу- әдістемелік кешен.
 Оқулық
 </td>
 <td>
@@ -18644,7 +18804,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқулық.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің дайындық кезеңіне арналған оқу-әдістемелік кешен
@@ -18654,17 +18814,17 @@ N. Mukhamedjanova
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">оқыту орыс тілінде</td>
+<td colspan="6">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<td colspan="5">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</td>
+<td colspan="6">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Обучение грамоте. Учебник № 1, 2 для специальной школы для детей с нарушением интеллекта</td>
+<td colspan="2">Обучение грамоте. Учебник № 1, 2 для специальной школы для детей с нарушением интеллекта</td>
 <td>
 Мовкебаева З,
 Воронкова В,
@@ -18675,7 +18835,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник для специальной школы для детей с нарушением интеллекта.
 1-класс
@@ -18690,7 +18850,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Учебник для специальной школы для детей с нарушением интеллекта
 </td>
@@ -18703,7 +18863,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Обучение грамоте.
 Рельефно-точечная грамота. Учебник для 1-класса специальных общеобразовательных школ для детей с нарушением зрения.
 1, 2, 3, 4 книга
@@ -18717,7 +18877,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі
 (для школ с русским языком обучения)
 </td>
@@ -18733,7 +18893,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>6.</td>
-<td>Математика</td>
+<td colspan="2">Математика</td>
 <td>
 Жакупова Г.,
 Орехова Н.,
@@ -18750,15 +18910,14 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>7.</td>
-<td>Естествознание</td>
+<td colspan="2">Естествознание</td>
 <td>
 Кузнецова С.,
 Сапаков Д.,
 Васева И.,
 Жамиева А.,
 Кусаинова М.,
-Тасбулатова М.
-Адаптировала:
+Тасбулатова М. Адаптировала:
 Белинская Т.
 </td>
 <td>2016</td>
@@ -18766,7 +18925,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>8.</td>
-<td>Познание мира</td>
+<td colspan="2">Познание мира</td>
 <td>
 Байтенова К.,
 Жакеева А.,
@@ -18781,11 +18940,11 @@ N. Mukhamedjanova
 <td>АОО «Назарбаев интеллектуальные школы»-САТР</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник.
 1-4 часть
@@ -18804,7 +18963,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Литературное чтение. Учебник.
 1-4 часть
 </td>
@@ -18822,7 +18981,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник.
 1-4 часть
@@ -18839,11 +18998,11 @@ N. Mukhamedjanova
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник.
 1-4 часть
@@ -18865,7 +19024,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Литературное чтение. Учебник.
 1-4 часть
 </td>
@@ -18886,7 +19045,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник.
 1-4 часть
@@ -18907,7 +19066,7 @@ N. Mukhamedjanova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Английский язык.
 Учебник.
 1-4 часть
@@ -18921,11 +19080,11 @@ Jenny Dooley
 <td>Express Publishing- САТР</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник
 </td>
@@ -18939,7 +19098,7 @@ Jenny Dooley
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
@@ -18956,14 +19115,13 @@ Jenny Dooley
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник.
 1, 2 часть
 </td>
 <td>
-Алдамуратова Т.,
-Байшоланова К.,
+Алдамуратова Т., Байшоланова К.,
 Байшоланов Е.
 Адаптировала:
 Калмакова И.
@@ -18972,11 +19130,11 @@ Jenny Dooley
 <td>Атамұра-САТР</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник
 </td>
@@ -18991,15 +19149,14 @@ Jenny Dooley
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник
 </td>
 <td>
 Савельева В.,
 Лукпанова Г.
-Ярмухамедова А.
-Адаптировала:
+Ярмухамедова А. Адаптировала:
 Жунусканова И.
 </td>
 <td>2020</td>
@@ -19007,7 +19164,7 @@ Jenny Dooley
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Учебник
 </td>
@@ -19024,7 +19181,7 @@ Jenny Dooley
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник
 </td>
@@ -19039,7 +19196,7 @@ Jenny Dooley
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Английский язык.
 Учебник
 </td>
@@ -19054,14 +19211,14 @@ Bob Obee
 <td>Express Publishing- САТР</td>
 </tr>
 <tr>
-<td colspan="5">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулықтар</td>
+<td colspan="6">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулықтар</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Обучение грамоте.
 Учебник в 6-ти частях
 </td>
@@ -19080,7 +19237,7 @@ Bob Obee
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Учебник для школ с русским языком обучения в 2-х частях
 </td>
@@ -19096,7 +19253,7 @@ Bob Obee
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник в 4-х частях
 </td>
@@ -19114,11 +19271,11 @@ Bob Obee
 <td>АОО «Назарбаев интеллектуальные школы»- САТР</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник.
 1, 2, 3, 4, 5 части
@@ -19137,7 +19294,7 @@ Bob Obee
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник.
 1, 2, 3, 4 части
@@ -19151,11 +19308,11 @@ Bob Obee
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник
 8 частей
@@ -19165,59 +19322,53 @@ Bob Obee
 Бучина Р.,
 Регель Н.,
 Труханова О.,
-Штукина Е.
-Адаптировала:
-Жунисканова Г.
+Штукина Е. Адаптировала: Жунисканова Г.
 </td>
 <td>2020</td>
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Литературное чтение. Учебник.8 частей</td>
+<td colspan="2">Литературное чтение. Учебник.8 частей</td>
 <td>
 Регель Н.,
 Труханова О.,
 Богатырева Е.,
 Бучина Р.,
-Штукина Е.
-Адаптировала:
-Жунисканова Г.
+Штукина Е. Адаптировала: Жунисканова Г.
 </td>
 <td>2020</td>
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник4 части
 </td>
 <td>
 Акпаева А.,
 Лебедева Л.,
-Мынжасарова М.,
-Лихобабенко Т.
-Адаптировала:
+Мынжасарова М., Лихобабенко Т. Адаптировала:
 Жумабекова Э.
 </td>
 <td>2020</td>
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык. Учебник для учащихся 4 класса с нарушением зрения (слабовидящие) специальных школ (классов)
 1-8 часть
 </td>
 <td>
-Е. Богатырёва,
-Р. Бучина,
-Н. Регель,
-О. Труханова,
+Е.Богатырёва,
+Р.Бучина,
+Н.Регель,
+О.Труханова,
 Е. Штукина
 Адаптировала:
 Р. Шаканова
@@ -19227,27 +19378,27 @@ Bob Obee
 </tr>
 <tr>
 <td>5.</td>
-<td>Литературное чтение. Учебник для учащихся 4 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-8 часть</td>
+<td colspan="2">Литературное чтение. Учебник для учащихся 4 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-8 часть</td>
 <td>
 Н. Регель,
-О. Труханова,
+О.Труханова,
 Е. Богатырёва,
 Р. Бучина,
-Е. Штукина
+Е.Штукина
 Адаптировала:
-Р. Шаканова.
+Р.Шаканова.
 </td>
 <td>2021</td>
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Математика. Учебник для учащихся 4 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-8 часть</td>
+<td colspan="2">Математика. Учебник для учащихся 4 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-8 часть</td>
 <td>
-А. Акпаева,
-Л. Лебедева,
+А.Акпаева,
+Л.Лебедева,
 М. Мынжасарова,
-Т. Лихобабенко
+Т.Лихобабенко
 Адаптировала:
 Р. Шаканова
 </td>
@@ -19256,7 +19407,7 @@ Bob Obee
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Английский язык.
 Учебник для учащихся 4 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-2 часть
 </td>
@@ -19271,11 +19422,11 @@ D. Bakbergenova
 <td>Express Publishing- САТР</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник.
 1, 2, 3 части
@@ -19286,7 +19437,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник.
 1, 2, 3, 4, 5, 6 части
@@ -19300,11 +19451,11 @@ D. Bakbergenova
 <td>Атамұра - САТР</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Русский язык. Учебник для учащихся 6 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-3 часть</td>
+<td colspan="2">Русский язык. Учебник для учащихся 6 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-3 часть</td>
 <td>
 З. Сабитова,
 А. Бейсембаев
@@ -19316,20 +19467,20 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>Русская литература. Учебник для учащихся 6 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-2 часть</td>
+<td colspan="2">Русская литература. Учебник для учащихся 6 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-2 часть</td>
 <td>
 Л. Рыгалова,
 Д. Берденова,
 С. Еримбетова
 Адаптировала:
-И. Жунусканова
+И.Жунусканова
 </td>
 <td>2021</td>
 <td>Атамұра-САТР</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Математика. Учебник для учащихся 6 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-4 часть</td>
+<td colspan="2">Математика. Учебник для учащихся 6 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-4 часть</td>
 <td>
 А. Абылкасымова,
 Т. Кучер,
@@ -19342,11 +19493,11 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>Английский язык. Учебник для учащихся 6 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-2 часть</td>
+<td colspan="2">Английский язык. Учебник для учащихся 6 класса с нарушением зрения (слабовидящие) специальных школ (классов) 1-2 часть</td>
 <td>
 Jenny Dooley,
 Bob Obee,
-N. Mukhamedjanova
+N.​Muk​hame​djan​ova
 Адаптировала:
 D. Bakbergenova
 </td>
@@ -19354,11 +19505,11 @@ D. Bakbergenova
 <td>Express Publishing- САТР</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Учебник.
 3ч
@@ -19375,7 +19526,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Учебник
 </td>
@@ -19383,8 +19534,7 @@ D. Bakbergenova
 АбылкасымоваА.,
 КучерТ.,
 Жумагулова З.,
-Корчевский В.
-Адаптировала:
+Корчевский В. Адаптировала:
 Нурпейсова Г.
 </td>
 <td>2020</td>
@@ -19392,7 +19542,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Учебник.
 1,2 ч
@@ -19400,21 +19550,20 @@ D. Bakbergenova
 <td>
 Смирнов В.,
 Туяков Е.
-Адаптировала:
-Нурпейсова Г.
+Адаптировала: Нурпейсова Г.
 </td>
 <td>2020</td>
 <td>Мектеп - САТР</td>
 </tr>
 <tr>
-<td colspan="5">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқулықтар</td>
+<td colspan="6">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқулықтар</td>
 </tr>
 <tr>
-<td colspan="5">0-сынып</td>
+<td colspan="6">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Обучение грамоте. Учебник № 1, 2 для специальной школы для детей с нарушением интеллекта</td>
+<td colspan="2">Обучение грамоте. Учебник № 1, 2 для специальной школы для детей с нарушением интеллекта</td>
 <td>
 Мовкебаева З.,
 Хамитова Д.
@@ -19424,7 +19573,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник № 1, 2 для специальной школы для детей с нарушением интеллекта
 </td>
@@ -19438,7 +19587,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Учебник для специальной школы для детей с нарушением интеллекта
 </td>
@@ -19450,11 +19599,11 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для 2 класса специальных школ, для детей с нарушением интеллекта
 часть 1, 2
@@ -19465,7 +19614,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник для 2 класса специальных школ, для детей с нарушением интеллекта
 Часть 1, 2
@@ -19480,7 +19629,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Учебник для 2 класса специальных школ, для детей с нарушением интеллекта
 </td>
@@ -19494,7 +19643,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқу орыс тілінде жүретін зерде бұзылыстары бар балаларға арналған, арнайы мектептердің 2 сыныбына арналған оқулық
 </td>
@@ -19507,7 +19656,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Учебник для 2 класса специальных школ, для детей с нарушением интеллекта
 </td>
@@ -19519,11 +19668,11 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник для 1 отделения специальной школы для детей с нарушением интеллекта с русским языком обучения
 </td>
@@ -19536,7 +19685,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для 3 класса специальных школ для детей с нарушением интеллекта
 </td>
@@ -19546,7 +19695,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник для 3 класса специальных школ для детей с нарушением интеллекта.Часть 1, 2
 </td>
@@ -19559,7 +19708,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Учебник для 3 класса специальных школ для детей с нарушением интеллекта
 </td>
@@ -19572,7 +19721,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Зерде бұзылыстары бар балаларға арналған оқыту орыс тілінде жүретін арнайы мектептердің 3 сыныбына арналған оқулық
 </td>
@@ -19585,7 +19734,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Учебник для 3класса специальных школ для детей с нарушением интеллекта.
 Часть 1, 2
@@ -19595,18 +19744,18 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Русский язык. Учебник для учащихся 4 класса с нарушением интеллекта специальных школ (классов)</td>
+<td colspan="2">Русский язык. Учебник для учащихся 4 класса с нарушением интеллекта специальных школ (классов)</td>
 <td>Кислякова Ю.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Математика. Учебник для учащихся 4 класса с нарушением интеллекта специальных школ (классов)</td>
+<td colspan="2">Математика. Учебник для учащихся 4 класса с нарушением интеллекта специальных школ (классов)</td>
 <td>
 Сулейменова Р.,
 Елисеева И.
@@ -19616,34 +19765,31 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>Чтение и развитие речи. Учебник для учащихся 4 класса с нарушением интеллекта специальных школ (классов)</td>
-<td>
-Радионова В.,
-Летошко М.
-</td>
+<td colspan="2">Чтение и развитие речи. Учебник для учащихся 4 класса с нарушением интеллекта специальных школ (классов)</td>
+<td>Радионова В., Летошко М.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Қазақ тілі. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 4-сынып оқушыларына арналған оқулық</td>
+<td colspan="2">Қазақ тілі. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 4-сынып оқушыларына арналған оқулық</td>
 <td>Есенжолова Г.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Мир вокруг. Учебник для учащихся 4 класса с нарушением интеллекта специальных школ (классов)</td>
+<td colspan="2">Мир вокруг. Учебник для учащихся 4 класса с нарушением интеллекта специальных школ (классов)</td>
 <td>Юсупова А.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Учебник для 5 класса специальных школ, для детей с нарушением интеллекта
 </td>
@@ -19656,7 +19802,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқу орыс тілінде жүретін зерде даму бұзылыстары бар балаларға арналған, арнайы мектептердің 5- сыныбына арналған оқулық
 </td>
@@ -19669,7 +19815,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Учебник для 5 класса специальных школ, для детей с нарушением интеллекта
 </td>
@@ -19682,7 +19828,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для 5 класса специальных школ, для детей с нарушением интеллекта
 </td>
@@ -19692,7 +19838,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник для 5 класса специальных школ, для детей с нарушением интеллекта
 </td>
@@ -19705,11 +19851,11 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для 6класса специальных школ для детей с нарушением интеллекта
 </td>
@@ -19719,7 +19865,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник для 6класса специальных школ для детей с нарушением интеллекта
 </td>
@@ -19732,7 +19878,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Учебник для 6 класса специальных школ для детей с нарушением интеллекта
 </td>
@@ -19745,7 +19891,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>Қазақ тілі. Зерде бұзылыстары бар балаларға арналған оқыту орыс тілінде жүретін арнайы мектептердің 6 сыныбына арналған оқулық</td>
+<td colspan="2">Қазақ тілі. Зерде бұзылыстары бар балаларға арналған оқыту орыс тілінде жүретін арнайы мектептердің 6 сыныбына арналған оқулық</td>
 <td>
 Г. Есенжолова,
 А. Ермағамбет
@@ -19755,7 +19901,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник для 6класса специальных школ для детей с нарушением интеллекта
 </td>
@@ -19767,11 +19913,11 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Учебник для 7 класса специальных школ, для детей с нарушением интеллекта
 </td>
@@ -19784,7 +19930,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Учебник для 7 класса специальных школ, для детей с нарушением интеллекта
 </td>
@@ -19797,7 +19943,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқу орыс тілінде жүретін зерде даму бұзылыстары бар балаларға арналған, арнайы мектептердің 7- сыныбына арналған оқулық
 </td>
@@ -19810,7 +19956,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Учебник для 7 класса специальных школ, для детей с нарушением интеллекта
 </td>
@@ -19824,7 +19970,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
 Учебник для 7 класса специальных школ, для детей с нарушением интеллекта
 </td>
@@ -19837,10 +19983,21 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td>6.</td>
+<td colspan="2">История Казахстана. Учебник для учащихся 7 класса с нарушением интеллекта специальных школ (классов)</td>
+<td>
+Абиль А.,
+Абаева Г.,
+Макажанов А,
+</td>
+<td>2021</td>
+<td>Компания Консалтинг &amp; Тренинг</td>
 </tr>
 <tr>
-<td>1.</td>
+<td colspan="6">8-сынып</td>
+</tr>
+<tr>
+<td colspan="2">1.</td>
 <td>
 Русский язык.
 Учебник для 8 класса специальных школ для детей с нарушением интеллекта
@@ -19850,10 +20007,10 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td>2.</td>
+<td colspan="2">2.</td>
 <td>
 Чтение и развитие речи.
-Учебник для 8класса специальных школ для детей с нарушением интеллекта
+Учебник для 8 класса специальных школ для детей с нарушением интеллекта
 </td>
 <td>
 Мельникова Т.,
@@ -19863,7 +20020,7 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td>3.</td>
+<td colspan="2">3.</td>
 <td>
 Қазақ тілі.
 Зерде даму бұзылыстары бар балаларға арналған оқыту орыс тілінде жүретін арнайы мектептердің
@@ -19877,7 +20034,7 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td>4.</td>
+<td colspan="2">4.</td>
 <td>
 Математика.
 Учебник для 8 класса специальных школ для детей с нарушением интеллекта
@@ -19891,7 +20048,7 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td>5.</td>
+<td colspan="2">5.</td>
 <td>
 Естествознание.
 Учебник для 8 класса специальных школ для детей с нарушением интеллекта
@@ -19904,18 +20061,29 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="2">6.</td>
+<td>История Казахстана. Учебник для учащихся 8 класса с нарушением интеллекта специальных школ (классов)</td>
+<td>
+Абиль А.,
+Абаева Г.,
+Габдуллина А.
+</td>
+<td>2021</td>
+<td>Компания Консалтинг &amp;Тренинг</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Русский язык. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов)</td>
+<td colspan="6">9-сынып</td>
+</tr>
+<tr>
+<td>1.</td>
+<td colspan="2">Русский язык. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов)</td>
 <td>Змушко А.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Математика. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов)</td>
+<td>2.</td>
+<td colspan="2">Математика. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов)</td>
 <td>
 Сулейменова Р.,
 Елисеева И.,
@@ -19925,8 +20093,8 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Чтение и развитие речи. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов)</td>
+<td>3.</td>
+<td colspan="2">Чтение и развитие речи. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов)</td>
 <td>
 Мельникова Т.,
 Дербисалова Г.
@@ -19935,15 +20103,15 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Қазақ тілі. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
+<td>4.</td>
+<td colspan="2">Қазақ тілі. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 9-сынып оқушыларына арналған оқулық</td>
 <td>Есенжолова Г.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td>10.</td>
-<td>Естествознание. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов)</td>
+<td>5.</td>
+<td colspan="2">Естествознание. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов)</td>
 <td>
 Юлдабаева Н.
 Халыкова Б.,
@@ -19952,20 +20120,34 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">Мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендер</td>
+<td>6.</td>
+<td colspan="2">История Казахстана. Учебник для учащихся 9 класса с нарушением интеллекта специальных школ (классов)</td>
+<td>
+Абиль А.,
+Абаева Г.,
+Макажанов А,
+</td>
+<td>2021</td>
+<td>Компания Консалтинг &amp; Тренинг</td>
 </tr>
 <tr>
-<td colspan="5">Мектепке дейінгі тәрбие мен оқыту</td>
+<td colspan="6">
+Мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған
+оқу-әдістемелік кешендер
+</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ тілінде</td>
+<td colspan="6">Мектепке дейінгі тәрбие мен оқыту</td>
 </tr>
 <tr>
-<td colspan="5">Ерте жас тобы (1 жастан бастап)</td>
+<td colspan="6">оқыту қазақ тілінде</td>
+</tr>
+<tr>
+<td colspan="6">Ерте жас тобы (1 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік нұсқау
 </td>
@@ -19978,7 +20160,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Үлестірмелі материалдар
 </td>
@@ -19991,7 +20173,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Сенсорика.
 Әдістемелік құрал
 </td>
@@ -20006,7 +20188,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал
 </td>
@@ -20020,25 +20202,25 @@ D. Bakbergenova
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td colspan="5">Кіші топ (2 жастан бастап)</td>
+<td colspan="6">Кіші топ (2 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Сөйлеуді дамыту. Әдістемелік нұсқау</td>
+<td colspan="2">Сөйлеуді дамыту. Әдістемелік нұсқау</td>
 <td>Ұ. Смаилова</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Сөйлеуді дамыту. Үлестірмелі материалдар</td>
+<td colspan="2">Сөйлеуді дамыту. Үлестірмелі материалдар</td>
 <td>Ұ. Смаилова</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Әдістемелік құрал
 </td>
@@ -20048,11 +20230,11 @@ D. Bakbergenova
 Б. Кожанова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Көркем әдебиет. Хрестоматия (2-5 жас)</td>
+<td colspan="2">Көркем әдебиет. Хрестоматия (2-5 жас)</td>
 <td>
 С. Жекенова,
 Қ. Тұрғынбаева,
@@ -20063,7 +20245,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік құрал
 </td>
@@ -20073,11 +20255,11 @@ D. Bakbergenova
 Г. Рахимова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Хрестоматия
 </td>
@@ -20087,11 +20269,11 @@ D. Bakbergenova
 Г.Рахимова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Сенсорика.
 Әдістемелік нұсқау
 </td>
@@ -20104,7 +20286,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік нұсқау
 </td>
@@ -20117,7 +20299,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Дидактикалық материалдар
 </td>
@@ -20130,7 +20312,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік құрал
 </td>
@@ -20140,11 +20322,11 @@ D. Bakbergenova
 Г. Шапатова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік нұсқау
 </td>
@@ -20154,14 +20336,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>12.</td>
-<td>Жаратылыстану. Демонстрациялықматериалдар</td>
+<td colspan="2">Жаратылыстану. Демонстрациялық материалдар</td>
 <td>Е. Бритвина</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Үлестірмелі материалдар
 </td>
@@ -20171,7 +20353,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал
 </td>
@@ -20181,11 +20363,11 @@ D. Bakbergenova
 А. Ибрагимова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік нұсқау
 </td>
@@ -20199,7 +20381,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Үлестірмелі материалдар
 </td>
@@ -20213,7 +20395,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>17.</td>
-<td>Сурет салу. Демонстрациялықматериалдар</td>
+<td colspan="2">Сурет салу. Демонстрациялық материалдар</td>
 <td>
 Ф. Жұмабекова,
 Г. Белгібаева,
@@ -20224,7 +20406,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік нұсқау
 </td>
@@ -20237,7 +20419,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Үлестірмелі материалдар
 </td>
@@ -20250,7 +20432,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік нұсқау
 </td>
@@ -20264,7 +20446,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Үлестірмелі материалдар
 </td>
@@ -20277,7 +20459,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Денешынықтыру.
 Әдістемелік нұсқау
 </td>
@@ -20287,7 +20469,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік нұсқау
 </td>
@@ -20300,7 +20482,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Демонстрациялық материалдар
 </td>
@@ -20314,7 +20496,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Музыка.
 Әдістемелік нұсқау
 </td>
@@ -20327,7 +20509,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нота хрестоматиясы
 </td>
@@ -20340,7 +20522,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал
 </td>
@@ -20355,7 +20537,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік құрал
 </td>
@@ -20370,7 +20552,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Сенсорика.
 Әдістемелік құрал
 </td>
@@ -20385,7 +20567,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Сенсорика.
 Әдістемелік құрал
 </td>
@@ -20395,14 +20577,14 @@ D. Bakbergenova
 Б. Кожанова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
-<td colspan="5">Ортаңғы топ (3 жастан бастап)</td>
+<td colspan="6">Ортаңғы топ (3 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Дене шынықтыру. Әдістемелік нұсқау</td>
+<td colspan="2">Денешынықтыру. Әдістемелік нұсқау</td>
 <td>
 О. Ничепай,
 Е. Юркова
@@ -20412,8 +20594,8 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Дене шынықтыру.
+<td colspan="2">
+Денешынықтыру.
 Әдістемелік құрал
 </td>
 <td>В. Слепнева</td>
@@ -20422,7 +20604,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>Сөйлеуді дамыту. Әдістемелік нұсқау</td>
+<td colspan="2">Сөйлеуді дамыту. Әдістемелік нұсқау</td>
 <td>
 А. Жұмаханова,
 М. Доскеева
@@ -20432,7 +20614,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>Сөйлеуді дамыту. Демонстрациялық материалдар</td>
+<td colspan="2">Сөйлеуді дамыту. Демонстрациялық материалдар</td>
 <td>
 А. Жұмаханова,
 М. Доскеева
@@ -20442,7 +20624,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>Сөйлеуді дамыту. Үлестірмелі материалдар</td>
+<td colspan="2">Сөйлеуді дамыту. Үлестірмелі материалдар</td>
 <td>
 М. Доскеева,
 А. Жұмаханова
@@ -20452,7 +20634,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>Сөйлеуді дамыту. Әдістемелік құрал</td>
+<td colspan="2">Сөйлеуді дамыту. Әдістемелік құрал</td>
 <td>
 Ж. Рахымбаева,
 Ә. Мұратханова
@@ -20462,7 +20644,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>Сөйлеуді дамыту. Әдістемелік нұсқаулық. 3+</td>
+<td colspan="2">Сөйлеуді дамыту. Әдістемелік нұсқаулық. 3+</td>
 <td>
 У. Ахметова,
 Р. Сахарханова,
@@ -20473,7 +20655,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>Сөйлеуді дамыту. Дәптер. 3+</td>
+<td colspan="2">Сөйлеуді дамыту. Дәптер. 3+</td>
 <td>
 У. Ахметова,
 Р. Сахарханова,
@@ -20484,7 +20666,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік нұсқау
 </td>
@@ -20497,7 +20679,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік құрал
 </td>
@@ -20510,7 +20692,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет. Сөйлеуді дамыту.
 Хрестоматия
 </td>
@@ -20525,7 +20707,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Хрестоматия.
 </td>
@@ -20535,7 +20717,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>13.</td>
-<td>Көркем әдебиет. Әдістемелік нұсқаулық 3+</td>
+<td colspan="2">Көркем әдебиет. Әдістемелік нұсқаулық 3+</td>
 <td>
 Н. Канайбекова,
 А. Канайбекова.
@@ -20545,7 +20727,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>14.</td>
-<td>Көркем әдебиет. Дәптер 3+</td>
+<td colspan="2">Көркем әдебиет. Дәптер 3+</td>
 <td>
 Н. Канайбекова,
 А. Канайбекова.
@@ -20555,7 +20737,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -20569,7 +20751,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методические рекомендации по проведению ОУД во второй младшей группе дошкольных организаций с казахским языком воспитания и обучения. К учебно-методическому комплексу «Говорим на русском языке»
 </td>
@@ -20583,7 +20765,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Русский язык. Начинаем говорить.
 Рабочая тетрадь для детей второй младшей группы с казахским языком воспитания и обучения
 </td>
@@ -20593,7 +20775,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>18.</td>
-<td>+3 Русский язык. Раздаточный материал</td>
+<td colspan="2">+3 Русский язык. Раздаточный материал</td>
 <td>
 Добрынина Г.,
 Криушова Е.,
@@ -20604,7 +20786,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
 Әдістемелік нұсқау
 </td>
@@ -20617,9 +20799,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
-Жұмысдәптері
+Жұмыс дәптері
 </td>
 <td>
 Ұ. Мұқанова,
@@ -20630,18 +20812,18 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>21.</td>
-<td>Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік құрал</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік құрал</td>
 <td>
 К. Атыманова,
 Ш. Турдалиева,
 Ж. Каримова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>22.</td>
-<td>Математика негіздері. Әдістемелік нұсқаулық. 3+</td>
+<td colspan="2">Математика негіздері. Әдістемелік нұсқаулық. 3+</td>
 <td>
 Е. Рябова,
 Н. Сартаева.
@@ -20651,7 +20833,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>23.</td>
-<td>Математика негіздері. №1, 2 жұмыс дәптері. 3+</td>
+<td colspan="2">Математика негіздері. №1, 2 жұмыс дәптері. 3+</td>
 <td>
 Е. Рябова,
 Н. Сартаева.
@@ -20661,7 +20843,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік нұсқау
 </td>
@@ -20674,7 +20856,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Үлестірмелі материалдар
 </td>
@@ -20687,7 +20869,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік құрал
 </td>
@@ -20701,7 +20883,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік құрал
 </td>
@@ -20711,11 +20893,14 @@ D. Bakbergenova
 Ш. Турдалиева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>28.</td>
-<td>Құрастыру. Альбом. 3+</td>
+<td colspan="2">
+Құрастыру. Альбом.
+3+
+</td>
 <td>
 Р. Аубакирова,
 И. Абремская
@@ -20725,7 +20910,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>29.</td>
-<td>Құрастыру. Әдістемелік нұсқаулық 3+</td>
+<td colspan="2">Құрастыру. Әдістемелік нұсқаулық 3+</td>
 <td>
 Р. Аубакирова,
 И. Абремская
@@ -20735,7 +20920,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік нұсқау
 </td>
@@ -20748,7 +20933,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Демонстрациялық материалдар
 </td>
@@ -20761,7 +20946,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Үлестірмелі материалдар
 </td>
@@ -20774,7 +20959,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>33.</td>
-<td>Жаратылыстану. Әдістемелік нұсқаулық. 3 +</td>
+<td colspan="2">Жаратылыстану. Әдістемелік нұсқаулық. 3 +</td>
 <td>
 Р. Каримова,
 А. Стамбекова,
@@ -20785,7 +20970,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>34.</td>
-<td>Жаратылыстану. №1, 2 жұмыс дәптері. 3 +</td>
+<td colspan="2">Жаратылыстану. №1, 2 жұмыс дәптері. 3 +</td>
 <td>
 Р. Каримова,
 А. Стамбекова,
@@ -20796,7 +20981,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік нұсқау
 </td>
@@ -20809,7 +20994,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Үлестірмелі материалдар
 </td>
@@ -20822,7 +21007,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік құрал
 </td>
@@ -20835,7 +21020,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>38.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік құрал
 </td>
@@ -20845,11 +21030,14 @@ D. Bakbergenova
 К. Атыманова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>39.</td>
-<td>Сурет салу. Альбом 3 +</td>
+<td colspan="2">
+Сурет салу. Альбом
+3 +
+</td>
 <td>
 Р. Аубакирова,
 И. Абремская
@@ -20859,7 +21047,10 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>40.</td>
-<td>Сурет салу. Әдістемелік нұсқаулық 3 +</td>
+<td colspan="2">
+Сурет салу. Әдістемелік нұсқаулық
+3 +
+</td>
 <td>
 Р. Аубакирова,
 И. Абремская
@@ -20869,7 +21060,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>41.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік нұсқау
 </td>
@@ -20882,7 +21073,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Үлестірмелі материалдар
 </td>
@@ -20895,7 +21086,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>43.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік құрал
 </td>
@@ -20908,7 +21099,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>44.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік құрал
 </td>
@@ -20918,11 +21109,14 @@ D. Bakbergenova
 К. Атыманова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>45.</td>
-<td>Мүсіндеу. Альбом 3 +</td>
+<td colspan="2">
+Мүсіндеу. Альбом
+3 +
+</td>
 <td>
 Р. Аубакирова,
 И. Абремская
@@ -20932,7 +21126,10 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>46.</td>
-<td>Мүсіндеу. Әдістемелік нұсқаулық 3 +</td>
+<td colspan="2">
+Мүсіндеу. Әдістемелік нұсқаулық
+3 +
+</td>
 <td>
 Р. Аубакирова,
 И. Абремская
@@ -20942,7 +21139,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>47.</td>
-<td>
+<td colspan="2">
 Мүсіндеу. Әдістемелік нұсқаулық.
 3 жастан бастап
 </td>
@@ -20956,7 +21153,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>48.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік нұсқау
 </td>
@@ -20966,7 +21163,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>49.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Үлестірмелі материалдар
 </td>
@@ -20979,7 +21176,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>50.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік құрал
 </td>
@@ -20992,7 +21189,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>51.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік құрал
 </td>
@@ -21002,11 +21199,14 @@ D. Bakbergenova
 К. Атыманова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>52.</td>
-<td>Жапсыру. Альбом 3 +</td>
+<td colspan="2">
+Жапсыру. Альбом
+3 +
+</td>
 <td>
 Р. Аубакирова,
 И. Абремская
@@ -21016,7 +21216,10 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>53.</td>
-<td>Жапсыру. Әдістемелік нұсқаулық 3 +</td>
+<td colspan="2">
+Жапсыру. Әдістемелік нұсқаулық
+3 +
+</td>
 <td>
 Р. Аубакирова,
 И. Абремская
@@ -21026,8 +21229,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>54.</td>
-<td>
-Жапсыру. Әдістемелік нұсқаулық.
+<td colspan="2">
+Жапсыру. Әдістемелік
+нұсқаулық.
 3 жастан бастап
 </td>
 <td>
@@ -21040,7 +21244,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>55.</td>
-<td>
+<td colspan="2">
 Музыка.
 Әдістемелік нұсқау
 </td>
@@ -21054,7 +21258,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>56.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нота хрестоматиясы
 </td>
@@ -21068,7 +21272,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>57.</td>
-<td>
+<td colspan="2">
 Музыка.
 Дидактикалық ойындар
 (3-6 жас)
@@ -21082,7 +21286,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>58.</td>
-<td>
+<td colspan="2">
 Музыка.
 Әдістемелік құрал
 </td>
@@ -21095,7 +21299,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>59.</td>
-<td>
+<td colspan="2">
 Музыка.
 Хрестоматия
 </td>
@@ -21108,7 +21312,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>60.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу. Экология негіздері.
 Әдістемелік нұсқау
 </td>
@@ -21121,7 +21325,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>61.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу. Экология негіздері.
 Үлестірмелі материалдар
 </td>
@@ -21134,7 +21338,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>62.</td>
-<td>Қоршаған ортамен танысу. Экология негіздері. Демонстрациялықматериалдар (электронды нұсқа)</td>
+<td colspan="2">Қоршаған ортамен танысу. Экология негіздері. Демонстрациялық материалдар (электронды нұсқа)</td>
 <td>
 Г. Игнатенко,
 Д. Ильясова
@@ -21144,7 +21348,11 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>63.</td>
-<td>Қоршаған ортамен танысу. Әдістемелік нұсқаулық. 3 +</td>
+<td colspan="2">
+Қоршаған ортамен танысу.
+Әдістемелік нұсқаулық.
+3 +
+</td>
 <td>
 М. Грушина,
 Б. Рахманбергенова,
@@ -21155,7 +21363,10 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>64.</td>
-<td>Қоршаған ортамен танысу. Дәптері 3 +</td>
+<td colspan="2">
+Қоршаған ортамен танысу.
+Дәптері 3 +
+</td>
 <td>
 М. Грушина,
 Б. Рахманбергенова,
@@ -21166,7 +21377,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>65.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Әдістемелік құрал
 </td>
@@ -21176,11 +21387,11 @@ D. Bakbergenova
 Б. Кожанова
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>66.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік құрал
 </td>
@@ -21190,11 +21401,11 @@ D. Bakbergenova
 Г. Рахимова
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>67.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Хрестоматия
 </td>
@@ -21204,11 +21415,11 @@ D. Bakbergenova
 Ж. Жолдагулова
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>68.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал
 </td>
@@ -21218,11 +21429,11 @@ D. Bakbergenova
 А. Ибрагимова
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>69.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу.
 Әдістемелік құрал
 </td>
@@ -21232,11 +21443,11 @@ D. Bakbergenova
 А. Ибрагимова
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>70.</td>
-<td>
+<td colspan="2">
 Логика. Жұмыс дәптері
 3 жастан бастап
 </td>
@@ -21248,11 +21459,11 @@ D. Bakbergenova
 <td>&quot;Shugylakitaр&quot;</td>
 </tr>
 <tr>
-<td colspan="5">Ересектер тобы (4 жастан бастап)</td>
+<td colspan="6">Ересектер тобы (4 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Денешынықтыру.
 Әдістемелік нұсқау
 </td>
@@ -21262,7 +21473,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>Сөйлеуді дамыту. Әдістемелік нұсқау</td>
+<td colspan="2">Сөйлеуді дамыту. Әдістемелік нұсқау</td>
 <td>
 Г. Ділмағамбетова,
 М. Сулейменова,
@@ -21273,7 +21484,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Жұмыс дәптері
 </td>
@@ -21287,7 +21498,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>Сөйлеуді дамыту. Демонстрациялықматериалдар</td>
+<td colspan="2">Сөйлеуді дамыту. Демонстрациялық материалдар</td>
 <td>
 Г. Ділмағамбетова,
 М. Сулейменова,
@@ -21298,7 +21509,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>Сөйлеуді дамыту. Әдістемелік құрал</td>
+<td colspan="2">Сөйлеуді дамыту. Әдістемелік құрал</td>
 <td>
 Ж. Рахымбаева,
 Ә. Мұратханова
@@ -21308,7 +21519,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Жұмыс дәптері
 </td>
@@ -21321,7 +21532,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Әдістемелік нұсқау
 </td>
@@ -21334,7 +21545,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Дәптер
 </td>
@@ -21347,7 +21558,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік нұсқау
 </td>
@@ -21360,7 +21571,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Жұмы сдәптері
 </td>
@@ -21373,7 +21584,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік құрал
 </td>
@@ -21388,7 +21599,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Жұмыс дәптері
 </td>
@@ -21401,9 +21612,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>13.</td>
-<td>
-Көркем әдебиет.
-Сөйлеуді дамыту. Хрестоматия
+<td colspan="2">
+Көркемәдебиет.
+Сөйлеудідамыту. Хрестоматия
 </td>
 <td>
 Ж. Рахымбаева,
@@ -21416,7 +21627,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік нұсқау
 </td>
@@ -21429,7 +21640,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Дәптер
 </td>
@@ -21442,7 +21653,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Хрестоматия.
 </td>
@@ -21452,7 +21663,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -21466,7 +21677,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Азбука-тетрадь
 </td>
@@ -21480,7 +21691,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методические рекомендации по проведению ОУД в средней группе дошкольных организаций с казахским языком воспитания и обучения. К учебно-методическому комплексу «Говорим на русском языке»
 </td>
@@ -21494,7 +21705,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>20.</td>
-<td>Русский язык. Изучаем русский язык. Рабочая тетрадь для детей средней группы с казахским языком воспитания и обучения</td>
+<td colspan="2">Русский язык. Изучаем русский язык. Рабочая тетрадь для детей средней группы с казахским языком воспитания и обучения</td>
 <td>
 Омар Б.,
 Садык А.,
@@ -21505,7 +21716,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -21515,7 +21726,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Тетрадь+СД
 </td>
@@ -21525,7 +21736,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>23.</td>
-<td>Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік нұсқау</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік нұсқау</td>
 <td>
 Е. Пузик,
 С. Неверова
@@ -21535,10 +21746,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>24.</td>
-<td>
-Қарапайым математикалық ұғымдарды қалыптастыру.
-Жұмыс дәптері № 1, № 2
-</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Жұмыс дәптері № 1, № 2</td>
 <td>
 Е. Пузик,
 С. Неверова
@@ -21548,7 +21756,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>25.</td>
-<td>Қарапайым математикалық ұғымдарды қалыптастыру. Демонстрациялықматериалдар</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Демонстрациялық материалдар</td>
 <td>
 Е. Пузик,
 С. Неверова
@@ -21558,7 +21766,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
 Әдістемелік нұсқау + СД
 </td>
@@ -21572,7 +21780,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
 Дәптер
 1-бөлім, 2-бөлім
@@ -21586,18 +21794,18 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>28.</td>
-<td>Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік құрал</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік құрал</td>
 <td>
 К. Атыманова,
 Ж. Каримова,
 Г. Шапатова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік нұсқау
 </td>
@@ -21610,7 +21818,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Үлестірмелі материалдар
 </td>
@@ -21623,7 +21831,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік құрал
 </td>
@@ -21637,7 +21845,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік нұсқау
 </td>
@@ -21651,7 +21859,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Альбом
 </td>
@@ -21665,7 +21873,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік нұсқау
 </td>
@@ -21678,7 +21886,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әліппе-дәптер
 </td>
@@ -21691,7 +21899,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал
 </td>
@@ -21704,7 +21912,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік нұсқау
 </td>
@@ -21718,7 +21926,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>38.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Дәптер №1,2
 </td>
@@ -21731,7 +21939,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік нұсқау
 </td>
@@ -21744,7 +21952,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>40.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 № 1, 2 жұмысдәптері
 </td>
@@ -21757,7 +21965,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>41.</td>
-<td>Сурет салу. Демонстрациялықматериалдар</td>
+<td colspan="2">Сурет салу. Демонстрациялық материалдар</td>
 <td>
 Р. Байғұлбекова,
 А. Шәкірова
@@ -21767,7 +21975,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік құрал
 </td>
@@ -21780,7 +21988,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>43.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік нұсқау
 </td>
@@ -21794,7 +22002,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>44.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Альбом №1, №2
 </td>
@@ -21808,7 +22016,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>45.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік құрал
 </td>
@@ -21818,11 +22026,11 @@ D. Bakbergenova
 А.Стыбаева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>46.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік нұсқау
 </td>
@@ -21835,7 +22043,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>47.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Үлестірмелі материалдар
 </td>
@@ -21848,7 +22056,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>48.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік құрал
 </td>
@@ -21861,7 +22069,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>49.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік нұсқау
 </td>
@@ -21875,7 +22083,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>50.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Альбом
 </td>
@@ -21889,7 +22097,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>51.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік нұсқау
 </td>
@@ -21902,7 +22110,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>52.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік құрал
 </td>
@@ -21915,7 +22123,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>53.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік нұсқау
 </td>
@@ -21929,7 +22137,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>54.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Альбом №1,2
 </td>
@@ -21943,7 +22151,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>55.</td>
-<td>
+<td colspan="2">
 Музыка.
 Әдістемелік құрал
 </td>
@@ -21956,7 +22164,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>56.</td>
-<td>
+<td colspan="2">
 Музыка.
 Хрестоматия
 </td>
@@ -21969,7 +22177,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>57.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу. Экология негіздері.
 Әдістемелік нұсқау
 </td>
@@ -21982,7 +22190,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>58.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу. Экология негіздері.
 Жұмыс дәптері
 </td>
@@ -21995,7 +22203,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>59.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу.
 Әдістемелік нұсқау
 </td>
@@ -22008,7 +22216,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>60.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу.
 Дәптер
 </td>
@@ -22021,7 +22229,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>61.</td>
-<td>
+<td colspan="2">
 Денешынықтыру.
 Әдістемелік құрал
 </td>
@@ -22031,11 +22239,11 @@ D. Bakbergenova
 М. Абаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>62.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Әдістемелік құрал
 </td>
@@ -22045,11 +22253,11 @@ D. Bakbergenova
 Б .Кожанова
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>63.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Хрестоматия
 </td>
@@ -22059,11 +22267,11 @@ D. Bakbergenova
 Г. Шапатова
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>64.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік құрал
 </td>
@@ -22073,11 +22281,11 @@ D. Bakbergenova
 К. Атыманова
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>65.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік құрал
 </td>
@@ -22087,11 +22295,11 @@ D. Bakbergenova
 К.Атыманова
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>66.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік құрал
 </td>
@@ -22101,11 +22309,11 @@ D. Bakbergenova
 К. Атыманова
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>67.</td>
-<td>
+<td colspan="2">
 Музыка.
 Әдістемелік нұсқау
 </td>
@@ -22118,7 +22326,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>68.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нота хрестоматиясы
 </td>
@@ -22131,7 +22339,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>69.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу.
 Әдістемелік құрал
 </td>
@@ -22141,11 +22349,11 @@ D. Bakbergenova
 Ш. Тұрдалиева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>70.</td>
-<td>Инабаттылық тәрбиесі. Әдістемелік нұсқаулық 4 және 5 жастан бастап</td>
+<td colspan="2">Инабаттылық тәрбиесі. Әдістемелік нұсқаулық 4 және 5 жастан бастап</td>
 <td>
 К. Атыманова,
 Ж. Каримова.,
@@ -22157,7 +22365,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>71.</td>
-<td>
+<td colspan="2">
 Логика. Жұмыс дәптері
 4 жастан бастап
 </td>
@@ -22170,11 +22378,11 @@ D. Bakbergenova
 <td>&quot;Shugylakitaр&quot;</td>
 </tr>
 <tr>
-<td colspan="5">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
+<td colspan="6">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Денешынықтыру.
 Әдістемелік нұсқау
 </td>
@@ -22184,7 +22392,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Денешынықтыру.
 Әдістемелік құрал
 </td>
@@ -22198,7 +22406,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>Дене шынықтыру. Әдістемелік құрал 5 жастан бастап</td>
+<td colspan="2">Денешынықтыру. Әдістемелік құрал 5 жастан бастап</td>
 <td>
 К. Атыманова,
 Ш. Турдалиева,
@@ -22209,7 +22417,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қауіпсіз мінез-құлық негіздері.
 Әдістемелік нұсқау
 </td>
@@ -22223,9 +22431,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
-Қауіпсізмінез-құлықнегіздері.
-Әліппедәптер
+<td colspan="2">
+Қауіпсіз мінез-құлық негіздері.
+Әліппе дәптер
 </td>
 <td>
 Р. Қасымбекова,
@@ -22237,9 +22445,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қауіпсіз мінез-құлық негіздері.
-Демонстрациялықматериалдар
+Демонстрациялық материалдар
 </td>
 <td>
 Р. Қасымбекова,
@@ -22251,8 +22459,8 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
-Қауіпсі змінез-құлық негіздері.
+<td colspan="2">
+Қауіпсіз мінез-құлық негіздері.
 Әдістемелік құрал
 </td>
 <td>С. Шелипова</td>
@@ -22261,7 +22469,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қауіпсіз мінез-құлық негіздері.
 Жұмыс дәптері
 </td>
@@ -22271,7 +22479,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қауіпсіз мінез-құлық негіздері.
 Әдістемелік құрал
 </td>
@@ -22281,7 +22489,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Әдістемелік нұсқау
 </td>
@@ -22294,7 +22502,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Жұмыс дәптері
 </td>
@@ -22307,7 +22515,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Әдістемелік нұсқау
 </td>
@@ -22320,7 +22528,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Дәптер
 </td>
@@ -22333,7 +22541,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Әдістемелік құрал
 </td>
@@ -22343,11 +22551,11 @@ D. Bakbergenova
 Ж. Каримова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік нұсқау
 </td>
@@ -22360,7 +22568,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Жұмыс дәптері
 </td>
@@ -22373,7 +22581,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік құрал
 </td>
@@ -22383,11 +22591,11 @@ D. Bakbergenova
 М.Сейтказина
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік нұсқау
 </td>
@@ -22400,7 +22608,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Дәптер
 </td>
@@ -22413,7 +22621,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>20.</td>
-<td>Сауат ашу негіздері. Әдістемелік нұсқау</td>
+<td colspan="2">Сауат ашу негіздері. Әдістемелік нұсқау</td>
 <td>
 Г. Тұрсынбаева,
 Қ. Үкібас
@@ -22423,8 +22631,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>21.</td>
-<td>
-Сауат ашу негіздері.
+<td colspan="2">
+Сауат ашу
+негіздері.
 Жұмыс дәптері
 </td>
 <td>
@@ -22436,7 +22645,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Сауат ашу негіздері.
 Әдістемелік нұсқау
 </td>
@@ -22449,7 +22658,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Сауат ашу негіздері.
 Дәптер № 1, 2
 </td>
@@ -22462,7 +22671,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Сауат ашу негіздері.
 Әдістемелік құрал
 </td>
@@ -22471,11 +22680,11 @@ D. Bakbergenova
 Ш. Турдалиева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Сауат ашу негіздері.
 Жұмыс дәптері
 </td>
@@ -22485,11 +22694,11 @@ D. Bakbergenova
 К. Атыманова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -22503,7 +22712,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Азбука-тетрадь
 </td>
@@ -22517,7 +22726,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методические рекомендации по проведению ОУД в старшей группе дошкольных организаций с казахским языком воспитания и обучения. К учебно-методическому комплексу «Говорим на русском языке»
 </td>
@@ -22531,7 +22740,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие для учителей дошкольных организаций с казахским языком воспитания и обучения
 </td>
@@ -22544,7 +22753,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>30.</td>
-<td>Русский язык. Говорим на русском языке. Рабочая тетрадь для детей старшей группы с казахским языком воспитания и обучения</td>
+<td colspan="2">Русский язык. Говорим на русском языке. Рабочая тетрадь для детей старшей группы с казахским языком воспитания и обучения</td>
 <td>
 Омар Б.,
 Садык А.,
@@ -22555,7 +22764,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -22565,11 +22774,11 @@ D. Bakbergenova
 Кабдешова Г.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>32.</td>
-<td>Русский язык. Методическое руководство. от 5-и лет</td>
+<td colspan="2">Русский язык. Методическое руководство. от 5-и лет</td>
 <td>
 Вассерберг Г.
 Каримова М.
@@ -22579,7 +22788,10 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>33.</td>
-<td>Русский язык. Рабочая тетрадь. от 5-и лет</td>
+<td colspan="2">
+Русский язык. Рабочая тетрадь.
+от 5-и лет
+</td>
 <td>
 Вассерберг Г.
 Каримова М.
@@ -22589,7 +22801,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>34.</td>
-<td>Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік нұсқау</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік нұсқау</td>
 <td>
 Ә. Ақпаева,
 Л. Лебедева
@@ -22599,7 +22811,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
 № 1, 2 жұмыс дәптері
 </td>
@@ -22612,7 +22824,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>36.</td>
-<td>Қарапайым математикалық ұғымдарды қалыптастыру. Демонстрациялықматериалдар</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Демонстрациялық материалдар</td>
 <td>
 Ә. Ақпаева,
 Л. Лебедева
@@ -22622,7 +22834,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
 Әдістемелік құрал
 </td>
@@ -22632,9 +22844,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>38.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
-Жұмысдәптері
+Жұмыс дәптері
 </td>
 <td>Т. Дрыгина</td>
 <td>2020</td>
@@ -22642,7 +22854,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Шығармашылық.
 Әдістемелік құрал
 </td>
@@ -22655,7 +22867,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>40.</td>
-<td>Мүсіндеу альбомы</td>
+<td colspan="2">Мүсіндеу альбомы</td>
 <td>
 Р. Әубәкірова,
 И. Абремская
@@ -22665,7 +22877,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>41.</td>
-<td>Аппликация альбомы</td>
+<td colspan="2">Аппликация альбомы</td>
 <td>
 Р. Әубәкірова,
 И. Абремская
@@ -22675,7 +22887,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>42.</td>
-<td>Сурет альбомы</td>
+<td colspan="2">Сурет альбомы</td>
 <td>
 Р. Әубәкірова,
 И. Абремская
@@ -22685,7 +22897,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>43.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Әдістемелік құрал
 </td>
@@ -22701,7 +22913,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>44.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту.
 Жұмыс дәптері
 </td>
@@ -22715,7 +22927,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>45.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Әдістемелік құрал
 </td>
@@ -22729,7 +22941,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>46.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Хрестоматия
 </td>
@@ -22742,7 +22954,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>47.</td>
-<td>Сауат ашу негіздері. Әдістемелік құрал.</td>
+<td colspan="2">Сауат ашу негіздері. Әдістемелік құрал.</td>
 <td>
 Г. Абдрахимова,
 М. Нұрманова
@@ -22752,7 +22964,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>48.</td>
-<td>
+<td colspan="2">
 Сауат ашу негіздері.
 Жұмыс дәптері
 </td>
@@ -22765,7 +22977,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>49.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен таныстыру.
 Жұмыс дәптері
 </td>
@@ -22778,7 +22990,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>50.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік нұсқау
 </td>
@@ -22791,7 +23003,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>51.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Альбом
 </td>
@@ -22804,7 +23016,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>52.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік нұсқау
 </td>
@@ -22818,7 +23030,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>53.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Альбом
 </td>
@@ -22832,7 +23044,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>54.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Әдістемелік құрал
 </td>
@@ -22842,11 +23054,11 @@ D. Bakbergenova
 Ш. Турдалиева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>55.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік нұсқау
 </td>
@@ -22859,7 +23071,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>56.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әліппе-дәптер
 </td>
@@ -22872,7 +23084,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>57.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал
 </td>
@@ -22885,7 +23097,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>58.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік нұсқау
 </td>
@@ -22899,9 +23111,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>59.</td>
-<td>
+<td colspan="2">
 Сурет салу.
-№ 1, 2 жұмысдәптері
+№ 1, 2 жұмыс дәптері
 </td>
 <td>
 Ф. Жұмабекова,
@@ -22913,7 +23125,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>60.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік нұсқау
 </td>
@@ -22926,7 +23138,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>61.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 № 1, 2 жұмыс дәптері
 </td>
@@ -22939,7 +23151,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>62.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік нұсқау
 </td>
@@ -22952,7 +23164,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>63.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Үлестірмелі материалдар
 </td>
@@ -22965,7 +23177,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>64.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу. Экология негіздері.
 Әдістемелік нұсқау
 </td>
@@ -22975,21 +23187,21 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>65.</td>
-<td>Қоршаған ортамен танысу. Жұмысдәптері</td>
+<td colspan="2">Қоршаған ортамен танысу. Жұмыс дәптері</td>
 <td>С. Сағиева</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>66.</td>
-<td>Қоршаған ортамен танысу. Экология негіздері. Демонстрациялықматериалдар</td>
+<td colspan="2">Қоршаған ортамен танысу. Экология негіздері. Демонстрациялық материалдар</td>
 <td>С. Сағиева</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>67.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу.
 Әдістемелік нұсқау
 </td>
@@ -23002,7 +23214,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>68.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу.
 Дәптер
 </td>
@@ -23015,21 +23227,18 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>69.</td>
-<td>Қоршаған ортаментанысу. Әдістемелік құрал</td>
+<td colspan="2">Қоршаған ортамен танысу. Әдістемелік құрал</td>
 <td>
 К. Атыманова,
 Ш.Турдалиева,
 Ж. Каримова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>70.</td>
-<td>
-Қоршаған ортамен танысу.
-Әдістемелік құрал
-</td>
+<td colspan="2">Қоршаған ортамен танысу. Әдістемелік құрал</td>
 <td>
 Т.Дрыгина,
 И.Тирская
@@ -23039,7 +23248,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>71.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу.
 Жұмыс дәптері
 </td>
@@ -23052,7 +23261,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>72.</td>
-<td>
+<td colspan="2">
 Қауіпсіз мінез-құлық негіздері.
 Әдістемелік нұсқау
 </td>
@@ -23065,7 +23274,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>73.</td>
-<td>Қауіпсіз мінез-құлық негіздері. Альбом</td>
+<td colspan="2">Қауіпсіз мінез-құлық негіздері. Альбом</td>
 <td>
 М. Грушина,
 У. Ахметова
@@ -23075,7 +23284,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>74.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет.
 Хрестоматия
 </td>
@@ -23085,11 +23294,11 @@ D. Bakbergenova
 М.Сейтказина
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>75.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
 Әдістемелік нұсқау
 </td>
@@ -23102,7 +23311,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>76.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
 Дәптер №1, №2
 </td>
@@ -23115,10 +23324,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>77.</td>
-<td>
-Қарапайым математикалық ұғымдарды қалыптастыру.
-Көрнекі материал
-</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Көрнекі материал</td>
 <td>
 Л. Бултекова,
 Е. Рябова
@@ -23128,18 +23334,18 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>78.</td>
-<td>Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік құрал</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік құрал</td>
 <td>
 К. Атыманова,
 Ш. Турдалиева,
 Ж.Каримова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>79.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
 Жұмыс дәптері
 </td>
@@ -23149,11 +23355,11 @@ D. Bakbergenova
 Ж. Каримова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>80.</td>
-<td>Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік нұсқау</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Әдістемелік нұсқау</td>
 <td>
 С. Күнтуғанова,
 В. Красникова,
@@ -23164,10 +23370,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>81.</td>
-<td>
-Қарапайым математикалық ұғымдарды қалыптастыру.
-Дәптер. 1-бөлім, 2-бөлім
-</td>
+<td colspan="2">Қарапайым математикалық ұғымдарды қалыптастыру. Дәптер. 1-бөлім, 2-бөлім</td>
 <td>
 С. Күнтуғанова,
 В. Красникова,
@@ -23178,7 +23381,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>82.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік нұсқау
 </td>
@@ -23192,7 +23395,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>83.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Дәптер №1, №2
 </td>
@@ -23206,7 +23409,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>84.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік нұсқау
 </td>
@@ -23220,7 +23423,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>85.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Альбом №1, №2
 </td>
@@ -23234,7 +23437,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>86.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Әдістемелік құрал
 </td>
@@ -23244,11 +23447,11 @@ D. Bakbergenova
 А.Стыбаева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>87.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік нұсқау
 </td>
@@ -23263,7 +23466,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>88.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Альбом
 </td>
@@ -23277,7 +23480,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>89.</td>
-<td>
+<td colspan="2">
 Мүсіндеу.
 Әдістемелік құрал
 </td>
@@ -23287,11 +23490,11 @@ D. Bakbergenova
 К. Атыманова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>90.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік нұсқау
 </td>
@@ -23305,7 +23508,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>91.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Альбом №1, №2
 </td>
@@ -23319,7 +23522,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>92.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Әдістемелік құрал
 </td>
@@ -23329,11 +23532,11 @@ D. Bakbergenova
 К. Атыманова
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>93.</td>
-<td>
+<td colspan="2">
 Музыка
 Әдістемелік нұсқау
 </td>
@@ -23346,7 +23549,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>94.</td>
-<td>
+<td colspan="2">
 Музыка
 Нота хрестоматиясы
 </td>
@@ -23359,7 +23562,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>95.</td>
-<td>
+<td colspan="2">
 Логика. Жұмыс дәптері
 5 жастан бастап
 </td>
@@ -23371,14 +23574,14 @@ D. Bakbergenova
 <td>&quot;Shugylakitaр&quot;</td>
 </tr>
 <tr>
-<td colspan="5">оқыту орыс тілінде</td>
+<td colspan="6">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<td colspan="5">Ерте жас тобы (1 жастан бастап)</td>
+<td colspan="6">Ерте жас тобы (1 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство
 </td>
@@ -23391,7 +23594,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Раздаточный материал
 </td>
@@ -23403,11 +23606,11 @@ D. Bakbergenova
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">Кіші топ (2 жастан бастап)</td>
+<td colspan="6">Кіші топ (2 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Физическая культура.
 Методическое руководство
 </td>
@@ -23417,17 +23620,17 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>Физическая культура. Методическое пособие</td>
+<td colspan="2">Физическая культура. Методическое пособие</td>
 <td>
 Абаева М.,
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Методическое руководство
 </td>
@@ -23441,7 +23644,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>Художественная литература. Демонстрационный материал</td>
+<td colspan="2">Художественная литература. Демонстрационный материал</td>
 <td>
 Конысбаева М.,
 Абдулова М.,
@@ -23452,7 +23655,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Хрестоматия
 </td>
@@ -23466,7 +23669,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Хрестоматия
 </td>
@@ -23475,21 +23678,21 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Художественная литература. Методическое пособие</td>
+<td colspan="2">Художественная литература. Методическое пособие</td>
 <td>
 Абаева М.,
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Сенсорика.
 Методическое руководство
 </td>
@@ -23499,7 +23702,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Сенсорика.
 Методическое пособие
 </td>
@@ -23508,21 +23711,21 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Сенсорика. Демонстрационный материал</td>
+<td colspan="2">Сенсорика. Демонстрационный материал</td>
 <td>
 Абаева М.,
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Конструирование. Методическое руководство</td>
+<td colspan="2">Конструирование. Методическое руководство</td>
 <td>
 Жумабекова Ф.,
 Ойшыбаева А.
@@ -23532,7 +23735,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>12.</td>
-<td>Конструирование. Дидактический материал</td>
+<td colspan="2">Конструирование. Дидактический материал</td>
 <td>
 Жумабекова Ф.,
 Ойшыбаева А.
@@ -23542,7 +23745,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое пособие
 </td>
@@ -23551,18 +23754,18 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Естествознание. Методическое руководство</td>
+<td colspan="2">Естествознание. Методическое руководство</td>
 <td>Бритвина Е.</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Демонстрационный материал
 </td>
@@ -23572,7 +23775,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Раздаточный материал.
 </td>
@@ -23582,7 +23785,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие
 </td>
@@ -23591,11 +23794,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Демонстрационный материал
 </td>
@@ -23604,11 +23807,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое руководство.
 </td>
@@ -23622,7 +23825,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>20.</td>
-<td>Рисование. Демонстрационный материал</td>
+<td colspan="2">Рисование. Демонстрационный материал</td>
 <td>
 Жумабекова Ф.,
 Бельгибаева Г.,
@@ -23633,7 +23836,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Рисование.
 Раздаточный материал
 </td>
@@ -23647,7 +23850,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое пособие
 </td>
@@ -23656,11 +23859,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое руководство
 </td>
@@ -23673,7 +23876,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Лепка.
 Раздаточный материал
 </td>
@@ -23686,7 +23889,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическоепособие
 </td>
@@ -23695,11 +23898,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое руководство
 </td>
@@ -23712,7 +23915,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Раздаточный материал
 </td>
@@ -23725,7 +23928,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое пособие
 </td>
@@ -23734,11 +23937,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое руководство
 </td>
@@ -23751,7 +23954,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Развитие речи
 Раздаточный материал
 </td>
@@ -23764,7 +23967,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>31.</td>
-<td>Развитие речи. Демострационный материал</td>
+<td colspan="2">Развитие речи. Демострационный материал</td>
 <td>
 Омарбекова Ф.,
 Ким И.
@@ -23774,7 +23977,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое пособие
 </td>
@@ -23783,11 +23986,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Развитие речи и художественная литература.
 Демонстрационный материал
 </td>
@@ -23796,11 +23999,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Музыка.
 Методическое руководство
 </td>
@@ -23810,7 +24013,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия
 </td>
@@ -23819,11 +24022,11 @@ D. Bakbergenova
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">Ортаңғы топ (3 жастан бастап)</td>
+<td colspan="6">Ортаңғы топ (3 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Методическое пособие
 </td>
@@ -23838,7 +24041,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Хрестоматия
 </td>
@@ -23853,7 +24056,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Рабочая тетрадь
 </td>
@@ -23868,7 +24071,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Физическая культура.
 Методическое руководство
 </td>
@@ -23881,7 +24084,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Физическая культура.
 Методическое пособие
 </td>
@@ -23891,7 +24094,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое пособие
 </td>
@@ -23900,11 +24103,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Развитие речи и художественная литература.
 Хрестоматия
 </td>
@@ -23914,7 +24117,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое руководство 3+
 </td>
@@ -23927,7 +24130,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>Развитие речи Тетрадь. 3+</td>
+<td colspan="2">Развитие речи Тетрадь. 3+</td>
 <td>
 Байгулбекова Р.,
 Ващинская Н.
@@ -23937,21 +24140,21 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>Развитие речи. Методическое руководство</td>
+<td colspan="2">Развитие речи. Методическое руководство</td>
 <td>Терехова Е.</td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Развитие речи. Рабочая тетрадь</td>
+<td colspan="2">Развитие речи. Рабочая тетрадь</td>
 <td>Терехова Е.</td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Методическое пособие
 </td>
@@ -23961,7 +24164,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Хрестоматия
 </td>
@@ -23974,7 +24177,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Художественная
 литература.
 Методическое пособие
@@ -23984,25 +24187,28 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Художественная литература. Методическое руководство. 3+</td>
+<td colspan="2">
+Художественная литература. Методическое руководство.
+3+
+</td>
 <td>Бражникова Е.</td>
 <td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Художественная литература. Рабочая тетрадь. 3+</td>
+<td colspan="2">Художественная литература. Рабочая тетрадь. 3+</td>
 <td>Бражникова Е.</td>
 <td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -24012,7 +24218,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік нұсқау
 </td>
@@ -24022,7 +24228,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Үлестірмелі материалдар
 </td>
@@ -24032,9 +24238,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-Демонстрациялықматериалдар
+Демонстрациялық материалдар
 </td>
 <td>
 К. Кумарова,
@@ -24045,7 +24251,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Қима материалдар
 (3-5 жас)
@@ -24059,7 +24265,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 +3 Қазақ тілі.
 Әдістемелік нұсқау
 </td>
@@ -24069,7 +24275,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 +3 Қазақ тілі.
 Үлестірмелі материалдар.
 </td>
@@ -24079,9 +24285,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 +3 Қазақ тілі.
-Демонстрациялықматериалдар
+Демонстрациялық материалдар
 </td>
 <td>
 К. Кумарова,
@@ -24092,7 +24298,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>25.</td>
-<td>Қазақ тілі. Әдістемелік нұсқаулық. 3+</td>
+<td colspan="2">Қазақ тілі. Әдістемелік нұсқаулық. 3+</td>
 <td>
 А. Қайырбекова,
 Д. Шамшанова
@@ -24102,7 +24308,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>26.</td>
-<td>Қазақ тілі. Дәптер.3+</td>
+<td colspan="2">Қазақ тілі. Дәптер.3+</td>
 <td>
 А. Қайырбекова,
 Д. Шамшанова
@@ -24112,7 +24318,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство
 </td>
@@ -24125,7 +24331,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Демонстрационный материал
 </td>
@@ -24138,7 +24344,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Раздаточный материал
 </td>
@@ -24151,7 +24357,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие
 </td>
@@ -24164,14 +24370,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>31.</td>
-<td>Естествознание. Методическое руководство. 3+</td>
+<td colspan="2">Естествознание. Методическое руководство. 3+</td>
 <td>Грушина М.</td>
 <td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Тетрадь. 3+
 </td>
@@ -24181,7 +24387,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Методическое руководство
 </td>
@@ -24194,7 +24400,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Рабочая тетрадь
 </td>
@@ -24207,7 +24413,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Методическое пособие
 </td>
@@ -24221,7 +24427,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Методическое пособие
 </td>
@@ -24234,21 +24440,21 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>37.Т</td>
-<td>Основы математики. Тетрадь №1, №2. 3+</td>
+<td colspan="2">Основы математики. Тетрадь №1, №2. 3+</td>
 <td>Рябова Е.</td>
 <td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>38.</td>
-<td>Основы математики. Методическое руководство 3+</td>
+<td colspan="2">Основы математики. Методическое руководство 3+</td>
 <td>Рябова Е.</td>
 <td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое руководство
 </td>
@@ -24261,7 +24467,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>40.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Раздаточный материал
 </td>
@@ -24274,21 +24480,20 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>41.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое пособие
 </td>
 <td>
 Саятова Ж.,
-Казыбаева А.,
-Рахымбаева Ж.
+Казыбаева А., Рахымбаева Ж.
 </td>
 <td>2018</td>
 <td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое пособие
 </td>
@@ -24301,7 +24506,10 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>43.</td>
-<td>Конструирование. Альбом. от 3+</td>
+<td colspan="2">
+Конструирование. Альбом.
+от 3+
+</td>
 <td>
 Аубакирова Р.,
 Абремская И.
@@ -24311,7 +24519,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>44.</td>
-<td>Конструирование. Методическое руководство. 3+</td>
+<td colspan="2">Конструирование. Методическое руководство. 3+</td>
 <td>
 Аубакирова Р.,
 Абремская И.
@@ -24321,7 +24529,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>45.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое руководство
 </td>
@@ -24334,7 +24542,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>46.</td>
-<td>
+<td colspan="2">
 Рисование.
 Демонстрационный материал
 </td>
@@ -24347,7 +24555,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>47.</td>
-<td>
+<td colspan="2">
 Рисование.
 Раздаточный материал
 </td>
@@ -24360,7 +24568,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>48.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое пособие
 </td>
@@ -24373,7 +24581,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>49.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое пособие
 </td>
@@ -24386,7 +24594,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>50.</td>
-<td>Рисование. Альбом. 3+</td>
+<td colspan="2">Рисование. Альбом. 3+</td>
 <td>
 Аубакирова Р.,
 Абремская И.
@@ -24396,7 +24604,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>51.</td>
-<td>Рисование. Методическое руководство 3+</td>
+<td colspan="2">Рисование. Методическое руководство 3+</td>
 <td>
 Аубакирова Р.,
 Абремская И.
@@ -24406,7 +24614,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>52.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое руководство
 </td>
@@ -24419,7 +24627,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>53.</td>
-<td>
+<td colspan="2">
 Лепка.
 Раздаточный материал
 </td>
@@ -24432,7 +24640,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>54.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое пособие
 </td>
@@ -24445,7 +24653,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>55.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое пособие
 </td>
@@ -24458,7 +24666,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>56.</td>
-<td>
+<td colspan="2">
 Лепка. Методическое руководство.
 от 3-х лет
 </td>
@@ -24472,7 +24680,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>57.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое руководство
 </td>
@@ -24485,7 +24693,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>58.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Раздаточный материал
 </td>
@@ -24498,7 +24706,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>59.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое пособие
 </td>
@@ -24511,7 +24719,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>60.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое пособие
 </td>
@@ -24524,7 +24732,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>61.</td>
-<td>Аппликация. Альбом.3+</td>
+<td colspan="2">Аппликация. Альбом.3+</td>
 <td>
 Аубакирова Р.,
 Абремская И.
@@ -24534,7 +24742,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>62.</td>
-<td>Аппликация. Методическое руководство.3+</td>
+<td colspan="2">Аппликация. Методическое руководство.3+</td>
 <td>
 Аубакирова Р.,
 Абремская И.
@@ -24544,7 +24752,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>63.</td>
-<td>Аппликация. Методическое руководство. от 3-х лет</td>
+<td colspan="2">Аппликация. Методическое руководство. от 3-х лет</td>
 <td>
 Федотова Н.
 Шайхина А.
@@ -24555,7 +24763,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>64.</td>
-<td>
+<td colspan="2">
 Музыка.
 Методическое руководство
 </td>
@@ -24568,7 +24776,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>65.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия
 </td>
@@ -24581,7 +24789,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>66.</td>
-<td>
+<td colspan="2">
 Музыка.
 Музыкальные подвижные игры
 </td>
@@ -24594,7 +24802,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>67.</td>
-<td>
+<td colspan="2">
 Музыка.
 Музыкальные дидактические игры
 </td>
@@ -24607,7 +24815,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>68.</td>
-<td>
+<td colspan="2">
 Музыка.
 Методическое пособие
 </td>
@@ -24617,7 +24825,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>69.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия
 </td>
@@ -24627,7 +24835,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>70.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром. Основы экологии.
 Методическое руководство
 </td>
@@ -24640,7 +24848,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>71.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром. Основы экологии. Демонстрационный материал
 (электронный вариант)
 </td>
@@ -24653,7 +24861,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>72.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром. Основы экологии.
 Раздаточный материал
 </td>
@@ -24666,7 +24874,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>73.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие
 </td>
@@ -24675,11 +24883,11 @@ D. Bakbergenova
 Стыбаева А.
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>74.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром.
 Методическое пособие
 </td>
@@ -24688,11 +24896,11 @@ D. Bakbergenova
 Стыбаева А.
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>75.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром.
 Тетрадь. 3+
 </td>
@@ -24702,7 +24910,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>76.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром.
 Методическое руководство. 3+
 </td>
@@ -24711,11 +24919,11 @@ D. Bakbergenova
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">Ересектер тобы (4 жастан бастап)</td>
+<td colspan="6">Ересектер тобы (4 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Физическая культура.
 Методическое руководство
 </td>
@@ -24725,7 +24933,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Рабочая тетрадь
 </td>
@@ -24735,7 +24943,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Развитие речи и художественная литература.
 Хрестоматия
 </td>
@@ -24745,14 +24953,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>Развитие речи. Методическое руководство. 4+</td>
+<td colspan="2">Развитие речи. Методическое руководство. 4+</td>
 <td>А.Шахманова</td>
 <td>2021</td>
 <td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Методическое пособие
 </td>
@@ -24762,7 +24970,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Рабочая тетрадь
 </td>
@@ -24772,7 +24980,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Методическое пособие
 </td>
@@ -24785,7 +24993,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Методическое руководство
 </td>
@@ -24795,14 +25003,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>Художественная литература.Хрестоматия</td>
+<td colspan="2">Художественная литература.Хрестоматия</td>
 <td>Ильяшева К.</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Художественная литература. Веселый колокольчик и его друзья.
 Рабочая тетрадь
 </td>
@@ -24812,14 +25020,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>11.</td>
-<td>Художественная литература. Методическое руководство+Аудиодиск</td>
+<td colspan="2">Художественная литература. Методическое руководство+Аудиодиск</td>
 <td>Бражникова Е.</td>
 <td>2020</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Тетрадь
 </td>
@@ -24832,7 +25040,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік нұсқау
 </td>
@@ -24842,7 +25050,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -24852,7 +25060,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -24862,9 +25070,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-Жұмысдәптері
+Жұмыс дәптері
 </td>
 <td>Е. Өміртаева</td>
 <td>2018</td>
@@ -24872,9 +25080,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-Мектепке дейінгі ұйымдардың тәрбие мен оқыту орыс тілінде жүргізілетін ортаңғы топта ұйымдастырылғаноқу қызметін жүргізуге арналған әдістемелік нұсқаулық («Қазақ тілінде сөйлейміз» оқу әдістемелік кешеніне)
+Мектепке дейінгі ұйымдардың тәрбие мен оқыту орыс тілінде жүргізілетін ортаңғы топта ұйымдастырылған оқу қызметін жүргізуге арналған әдістемелік нұсқаулық («Қазақ тілінде сөйлейміз» оқу әдістемелік кешеніне)
 </td>
 <td>
 Б. Омар,
@@ -24885,7 +25093,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 «Қазақ тілін үйренеміз»
 тәрбие мен оқыту орыс тілінде жүргізілетін ортаңғы топ балаларына арналған жұмыс дәптері /
 Рабочая тетрадь для детей средней группы с русским языком воспитания и обучения
@@ -24899,7 +25107,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>19.</td>
-<td>Қазақ тілін үйренеміз. Әдістемелік нұсқау</td>
+<td colspan="2">Қазақ тілін үйренеміз. Әдістемелік нұсқау</td>
 <td>
 К.Ильяшева,
 А.Шалаханова
@@ -24909,7 +25117,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Қазақ тілін үйренеміз.
 Әліппе-дәптер
 </td>
@@ -24919,7 +25127,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік нұсқау
 </td>
@@ -24929,9 +25137,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-№1, №2 жұмысдәптері
+№1, №2 жұмыс дәптері
 </td>
 <td>К.Кумарова</td>
 <td>2020</td>
@@ -24939,7 +25147,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Қазақ тілін үйренеміз.
 Әдістемелік нұсқау
 </td>
@@ -24952,7 +25160,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Қазақ тілін үйренеміз.
 №1, №2 жұмыс дәптері
 </td>
@@ -24962,7 +25170,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік нұсқаулық
 </td>
@@ -24975,7 +25183,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Дәптер
 </td>
@@ -24989,7 +25197,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>27.</td>
-<td>Формирование элементарных математических представлений. Методическое руководство</td>
+<td colspan="2">Формирование элементарных математических представлений. Методическое руководство</td>
 <td>
 Неверова С.,
 Пузик Е.
@@ -24999,7 +25207,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Рабочая тетрадь № 1, 2
 </td>
@@ -25012,7 +25220,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>29.</td>
-<td>Формирование элементарных математических представлений. Демонстрационный материал</td>
+<td colspan="2">Формирование элементарных математических представлений. Демонстрационный материал</td>
 <td>
 Неверова С.,
 Пузик Е.
@@ -25022,7 +25230,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Увлекательная математика.
 Рабочая тетрадь
 </td>
@@ -25035,14 +25243,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>31.</td>
-<td>Занимательные уроки. Рабочая тетрадь</td>
+<td colspan="2">Занимательные уроки. Рабочая тетрадь</td>
 <td>Радзиевская Л.</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Веселые уроки.
 Рабочая тетрадь
 </td>
@@ -25052,7 +25260,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Методическое пособие
 </td>
@@ -25065,7 +25273,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Рабочая тетрадь
 </td>
@@ -25075,7 +25283,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое руководство
 </td>
@@ -25088,7 +25296,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Раздаточный материал
 </td>
@@ -25101,7 +25309,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое пособие
 </td>
@@ -25115,7 +25323,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>38.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое пособие
 </td>
@@ -25128,7 +25336,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое руководство
 </td>
@@ -25142,7 +25350,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>40.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Альбом
 </td>
@@ -25156,7 +25364,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>41.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство
 </td>
@@ -25169,7 +25377,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Азбука-тетрадь
 </td>
@@ -25182,7 +25390,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>43.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие
 </td>
@@ -25192,7 +25400,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>44.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Рабочая тетрадь
 </td>
@@ -25202,7 +25410,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>45.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое руководство
 </td>
@@ -25215,7 +25423,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>46.</td>
-<td>
+<td colspan="2">
 Рисование.
 Рабочая тетрадь № 1, 2
 </td>
@@ -25228,7 +25436,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>47.</td>
-<td>
+<td colspan="2">
 Рисование.
 Демонстрационный материал
 </td>
@@ -25241,7 +25449,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>48.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое пособие
 </td>
@@ -25254,7 +25462,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>49.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое руководство
 </td>
@@ -25264,7 +25472,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>50.</td>
-<td>
+<td colspan="2">
 Лепка.
 Демонстрационный материал
 </td>
@@ -25274,7 +25482,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>51.</td>
-<td>
+<td colspan="2">
 Лепка.
 Раздаточный материал
 </td>
@@ -25287,7 +25495,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>52.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое пособие
 </td>
@@ -25300,7 +25508,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>53.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое пособие
 </td>
@@ -25313,7 +25521,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>54.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое руководство
 </td>
@@ -25327,7 +25535,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>55.</td>
-<td>
+<td colspan="2">
 Лепка.
 Альбом
 </td>
@@ -25341,7 +25549,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>56.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое руководство
 </td>
@@ -25355,7 +25563,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>57.</td>
-<td>
+<td colspan="2">
 Рисование.
 Альбом №1, 2
 </td>
@@ -25369,7 +25577,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>58.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое руководсто
 </td>
@@ -25382,7 +25590,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>59.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое пособие
 </td>
@@ -25395,7 +25603,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>60.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое пособие
 </td>
@@ -25408,7 +25616,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>61.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое руководство
 </td>
@@ -25422,7 +25630,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>62.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Альбом №1, 2
 </td>
@@ -25436,7 +25644,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>63.</td>
-<td>
+<td colspan="2">
 Музыка.
 Методическое руководство
 </td>
@@ -25449,7 +25657,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>64.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия.
 Часть 1, 2
@@ -25463,7 +25671,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>65.</td>
-<td>
+<td colspan="2">
 Музыка.
 Методическое пособие
 </td>
@@ -25473,7 +25681,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>66.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия
 </td>
@@ -25483,7 +25691,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>67.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром.
 Методическое пособие
 </td>
@@ -25493,7 +25701,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>68.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром.
 Рабочая тетрадь
 </td>
@@ -25503,7 +25711,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>69.</td>
-<td>Ознакомление с окружающим миром. Методическое пособие</td>
+<td colspan="2">Ознакомление с окружающим миром. Методическое пособие</td>
 <td>
 Мадалиева С.,
 Стыбаева А.
@@ -25513,7 +25721,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>70.</td>
-<td>
+<td colspan="2">
 Основы экологии.
 Рабочая тетрадь
 </td>
@@ -25523,7 +25731,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>71.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром. Основы экологии.
 Методическое руководство
 </td>
@@ -25536,7 +25744,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>72.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром. Основы экологии.
 Рабочая тетрадь
 </td>
@@ -25549,21 +25757,21 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>73.</td>
-<td>Ознакомление с окружающим миром. Методическое руководство</td>
+<td colspan="2">Ознакомление с окружающим миром. Методическое руководство</td>
 <td>Грушина М.</td>
 <td>2020</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>74.</td>
-<td>Ознакомление с окружающим миром. Тетрадь</td>
+<td colspan="2">Ознакомление с окружающим миром. Тетрадь</td>
 <td>Грушина М.</td>
 <td>2020</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>75.</td>
-<td>
+<td colspan="2">
 Физическая культура.
 Методическое пособие
 </td>
@@ -25573,11 +25781,11 @@ D. Bakbergenova
 Абаева М.
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>76.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое пособие
 </td>
@@ -25587,11 +25795,11 @@ D. Bakbergenova
 Абаева М.
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>77.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Хрестоматия
 </td>
@@ -25601,11 +25809,11 @@ D. Bakbergenova
 Абаева М.
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>78.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое руководство
 </td>
@@ -25615,7 +25823,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>79.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Рабочая тетрадь
 </td>
@@ -25625,7 +25833,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>80.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Дидактический материал
 </td>
@@ -25635,7 +25843,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>81.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Хрестоматия.
 </td>
@@ -25645,7 +25853,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>82.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое руководство
 </td>
@@ -25658,7 +25866,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>83.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Тетрадь
 </td>
@@ -25671,7 +25879,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>84.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Демонстрационный материал
 </td>
@@ -25680,11 +25888,11 @@ D. Bakbergenova
 Стыбаева А.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>85.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Рабочая тетрадь
 </td>
@@ -25693,11 +25901,11 @@ D. Bakbergenova
 Стыбаева А.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>86.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Методическое пособие
 </td>
@@ -25707,11 +25915,11 @@ D. Bakbergenova
 Абаева М.
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>87.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Методическое руководство +СД
 </td>
@@ -25724,7 +25932,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>88.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Тетрадь №1, 2
 </td>
@@ -25734,7 +25942,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>89.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие.
 </td>
@@ -25744,11 +25952,11 @@ D. Bakbergenova
 Абаева М.
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>90.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство
 </td>
@@ -25758,7 +25966,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>91.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Тетрадь
 </td>
@@ -25768,31 +25976,31 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>92.</td>
-<td>Методическое руководство «Обучаемся, играя» интегрированного курса обучения детей старшей группы по Типовой учебной программе дошкольного воспитания и обучения</td>
+<td colspan="2">Методическое руководство «Обучаемся, играя» интегрированного курса обучения детей старшей группы по Типовой учебной программе дошкольного воспитания и обучения</td>
 <td>Терехова Е.</td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>93.</td>
-<td>Хрестоматия к Методическому руководству «Обучаемся, играя» интегрированного курса обучения детей старшей группы по Типовой учебной программе дошкольного воспитания и обучения СД</td>
+<td colspan="2">Хрестоматия к Методическому руководству «Обучаемся, играя» интегрированного курса обучения детей старшей группы по Типовой учебной программе дошкольного воспитания и обучения СД</td>
 <td>Терехова Е.</td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>94.</td>
-<td>Перспективный план к Методическому руководству «Обучаемся, играя» интегрированного курса обучения детей старшей группы по Типовой учебной программе дошкольного воспитания и обучения</td>
+<td colspan="2">Перспективный план к Методическому руководству «Обучаемся, играя» интегрированного курса обучения детей старшей группы по Типовой учебной программе дошкольного воспитания и обучения</td>
 <td>Терехова Е.</td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
+<td colspan="6">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое пособие
 </td>
@@ -25806,7 +26014,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Музыкально-дидактические игры.
 Дидактические материалы
 </td>
@@ -25819,7 +26027,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Музыка.
 Дидактические материалы
 </td>
@@ -25829,7 +26037,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Хрестоматия
 </td>
@@ -25843,7 +26051,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое пособие
 </td>
@@ -25853,7 +26061,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>Основы грамоты. Методическое пособие</td>
+<td colspan="2">Основы грамоты. Методическое пособие</td>
 <td>
 Жунусова Р.,
 Нурманова М.,
@@ -25864,7 +26072,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Основы грамоты.
 Рабочая тетрадь
 </td>
@@ -25874,9 +26082,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
-Қазақтілі.
-Әдістемелікқұрал
+<td colspan="2">
+Қазақ тілі.
+Әдістемелік құрал
 </td>
 <td>
 Г.Абдрахимова,
@@ -25887,7 +26095,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -25900,7 +26108,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром.
 Рабочая тетрадь
 </td>
@@ -25913,7 +26121,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Основы безопасного поведения.
 Методическое пособие
 </td>
@@ -25923,7 +26131,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Основы безопасного поведения.
 Рабочая тетрадь
 </td>
@@ -25933,7 +26141,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Основы безопасного поведения.
 Методическое руководство
 </td>
@@ -25943,7 +26151,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Основы безопасного поведения.
 Тетрадь
 </td>
@@ -25953,7 +26161,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Основы грамоты.
 Методическое руководство
 </td>
@@ -25966,7 +26174,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Основы грамоты.
 Тетрадь №1, 2
 </td>
@@ -25979,7 +26187,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Основы грамоты.
 Демонстрационные материалы СД
 </td>
@@ -25992,7 +26200,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>18.</td>
-<td>Формирование элементарных математических представлений. Методическое пособие</td>
+<td colspan="2">Формирование элементарных математических представлений. Методическое пособие</td>
 <td>
 Дрыгина Т.,
 Борисова О.
@@ -26002,7 +26210,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Рабочая тетрадь
 </td>
@@ -26012,7 +26220,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие
 </td>
@@ -26022,7 +26230,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Рабочая тетрадь
 </td>
@@ -26032,7 +26240,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Физическая культура.
 Методическое руководство
 </td>
@@ -26042,7 +26250,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>23.</td>
-<td>Физическая культура. Методическое пособие</td>
+<td colspan="2">Физическая культура. Методическое пособие</td>
 <td>
 Слепнева В.,
 Абаева М.
@@ -26052,7 +26260,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Основы безопасного поведения.
 Методическое руководство
 </td>
@@ -26066,7 +26274,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Основы безопасного поведения.
 Рабочая тетрадь
 </td>
@@ -26080,7 +26288,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>26.</td>
-<td>Основы безопасного поведения. Демонстрационный материал</td>
+<td colspan="2">Основы безопасного поведения. Демонстрационный материал</td>
 <td>
 Касымбаева Р.,
 Гамарник Ю.,
@@ -26091,7 +26299,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Основы безопасного поведения.
 Методическое пособие
 </td>
@@ -26101,7 +26309,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Рабочая тетрадь
 </td>
@@ -26111,7 +26319,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Методическое пособие
 </td>
@@ -26121,7 +26329,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Рабочая тетрадь
 </td>
@@ -26131,14 +26339,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>31.</td>
-<td>Художественная литература. Методическое руководство</td>
+<td colspan="2">Художественная литература. Методическое руководство</td>
 <td>Ильяшева К.</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Азбука–тетрадь
 </td>
@@ -26148,7 +26356,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Хрестоматия
 </td>
@@ -26158,14 +26366,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>34.</td>
-<td>Основы грамоты. Методическое руководство</td>
+<td colspan="2">Основы грамоты. Методическое руководство</td>
 <td>Куликова И.</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Основы грамоты.
 Рабочая тетрадь
 </td>
@@ -26175,14 +26383,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>36.</td>
-<td>Основы грамоты и письма. От звука к букве и словам. Рабочая тетрадь</td>
+<td colspan="2">Основы грамоты и письма. От звука к букве и словам. Рабочая тетрадь</td>
 <td>Терехова Е.</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>37.</td>
-<td>Основы грамоты. Раздаточный материал</td>
+<td colspan="2">Основы грамоты. Раздаточный материал</td>
 <td>
 Куликова И.,
 Казанцева М.
@@ -26192,7 +26400,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>38.</td>
-<td>Основы грамоты. Методическое пособие</td>
+<td colspan="2">Основы грамоты. Методическое пособие</td>
 <td>
 Слепнева В.,
 Абаева М.
@@ -26202,7 +26410,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Основы грамоты.
 Рабочая тетрадь
 </td>
@@ -26212,7 +26420,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>40.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік нұсқау
 </td>
@@ -26225,7 +26433,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>41.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -26238,9 +26446,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-Мектепке дейінгі ұйымдардың тәрбие мен оқыту орыс тілінде жүргізілетін ересек топта ұйымдастырылғаноқу қызметін жүргізуге арналған әдістемелік нұсқаулық («Қазақ тілінде сөйлейміз» оқу әдістемелі кешеніне)
+Мектепке дейінгі ұйымдардың тәрбиемен оқыту орыс тілінде жүргізілетін ересек топта ұйымдастырылған оқу қызметін жүргізуге арналған әдістемелік нұсқаулық («Қазақ тілінде сөйлейміз» оқуәдістемелік кешеніне))
 </td>
 <td>
 Б. Омар,
@@ -26251,7 +26459,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>43.</td>
-<td>
+<td colspan="2">
 «Қазақ тілінде сөйлейміз»
 тәрбие мен оқыту орыс тілінде жүргізілетін ересек топ балаларына арналған жұмыс дәптері /
 Рабочая тетрадь для детей старшей группы с русским языком воспитания и обучения
@@ -26265,7 +26473,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>44.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік нұсқаулық.
 </td>
@@ -26278,7 +26486,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>45.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Дәптер №1, №2
 </td>
@@ -26291,7 +26499,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>46.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік нұсқау
 </td>
@@ -26304,7 +26512,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>47.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 №1, №2 жұмысдәптері
 </td>
@@ -26317,7 +26525,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>48.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Методическое руководство
 </td>
@@ -26330,7 +26538,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>49.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Рабочая тетрадь № 1, 2
 </td>
@@ -26343,7 +26551,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>50.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Демонстрационный материал
 </td>
@@ -26356,14 +26564,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>51.</td>
-<td>Думаем, считаем, решаем. Рабочая тетрадь</td>
+<td colspan="2">Думаем, считаем, решаем. Рабочая тетрадь</td>
 <td>Терехова Е.</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>52.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Методическое пособие
 </td>
@@ -26376,7 +26584,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>53.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Рабочая тетрадь
 </td>
@@ -26389,7 +26597,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>54.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Демонстрационный материал
 Аудиодиск
@@ -26400,7 +26608,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>55.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Тетрадь № 1, № 2
 </td>
@@ -26410,7 +26618,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>56.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Методическое руководство
 </td>
@@ -26423,7 +26631,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>57.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Тетрадь. №1, 2
 </td>
@@ -26436,7 +26644,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>58.</td>
-<td>
+<td colspan="2">
 Формирование элементарных математических представлений.
 Методическое руководство
 </td>
@@ -26449,7 +26657,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>59.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое руководство
 </td>
@@ -26462,7 +26670,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>60.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Альбом
 </td>
@@ -26475,7 +26683,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>61.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое пособие
 </td>
@@ -26488,7 +26696,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>62.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Рабочая тетрадь
 </td>
@@ -26501,7 +26709,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>63.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое пособие
 </td>
@@ -26514,7 +26722,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>64.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Методическое руководство
 </td>
@@ -26528,7 +26736,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>65.</td>
-<td>
+<td colspan="2">
 Конструирование.
 Альбом
 </td>
@@ -26542,14 +26750,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>66.</td>
-<td>Конструирование. Методическое пособие</td>
+<td colspan="2">Конструирование. Методическое пособие</td>
 <td>Вассерберг Г.</td>
 <td>2020</td>
 <td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>67.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство
 </td>
@@ -26562,7 +26770,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>68.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Азбука-тетрадь
 </td>
@@ -26575,7 +26783,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>69.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие
 </td>
@@ -26588,7 +26796,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>70.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство
 </td>
@@ -26598,7 +26806,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>71.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Тетрадь
 </td>
@@ -26608,7 +26816,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>72.</td>
-<td>
+<td colspan="2">
 Творчество.
 Методическое пособие
 </td>
@@ -26621,7 +26829,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>73.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое руководство
 </td>
@@ -26634,7 +26842,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>74.</td>
-<td>
+<td colspan="2">
 Рисование.
 Азбука-альбом № 1, 2
 </td>
@@ -26647,7 +26855,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>75.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое пособие
 </td>
@@ -26660,7 +26868,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>76.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое руководство
 </td>
@@ -26673,7 +26881,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>77.</td>
-<td>
+<td colspan="2">
 Лепка.
 Рабочая тетрадь № 1, 2
 </td>
@@ -26686,7 +26894,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>78.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое пособи.
 </td>
@@ -26699,7 +26907,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>79.</td>
-<td>
+<td colspan="2">
 Лепка.
 Методическое руководство
 </td>
@@ -26713,7 +26921,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>80.</td>
-<td>
+<td colspan="2">
 Лепка.
 Альбом
 </td>
@@ -26727,7 +26935,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>81.</td>
-<td>
+<td colspan="2">
 Рисование.
 Методическое руководство
 </td>
@@ -26741,7 +26949,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>82.</td>
-<td>
+<td colspan="2">
 Рисование
 Альбом №1, №2
 </td>
@@ -26755,7 +26963,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>83.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое руководство
 </td>
@@ -26769,7 +26977,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>84.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Раздаточный материал
 </td>
@@ -26782,7 +26990,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>85.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое пособие
 </td>
@@ -26795,7 +27003,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>86.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Методическое руководство
 </td>
@@ -26809,7 +27017,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>87.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Альбом №1, №2
 </td>
@@ -26823,7 +27031,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>88.</td>
-<td>
+<td colspan="2">
 Музыка.
 Методическое руководство
 </td>
@@ -26836,7 +27044,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>89.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия.
 Часть 1, 2
@@ -26850,7 +27058,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>90.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром. Основы экологии.
 Методическое руководство
 </td>
@@ -26863,7 +27071,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>91.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром.
 Рабочая тетрадь
 </td>
@@ -26876,14 +27084,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>92.</td>
-<td>Ознакомление с окружающим миром. Основы экологии. Демонстрационный материал</td>
+<td colspan="2">Ознакомление с окружающим миром. Основы экологии. Демонстрационный материал</td>
 <td>Сагиева С.</td>
 <td>2018</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>93.</td>
-<td>Ознакомление с окружающим миром. Методическое пособие</td>
+<td colspan="2">Ознакомление с окружающим миром. Методическое пособие</td>
 <td>
 Слепнева В.,
 Стыбаева А.
@@ -26893,7 +27101,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>94.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое руководство
 </td>
@@ -26908,7 +27116,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>95.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Рабочая тетрадь
 </td>
@@ -26923,33 +27131,27 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>96.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое руководство
 </td>
-<td>
-Байгулбекова Р.,
-Ващинская Н.
-</td>
+<td>Байгулбекова Р., Ващинская Н.</td>
 <td>2019</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>97.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Тетрадь № 1, № 2
 </td>
-<td>
-Байгулбекова Р.,
-Ващинская Н.
-</td>
+<td>Байгулбекова Р., Ващинская Н.</td>
 <td>2019</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>98.</td>
-<td>
+<td colspan="2">
 Развитие речи.
 Методическое пособие
 </td>
@@ -26958,11 +27160,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>99.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Методическое руководство
 </td>
@@ -26972,7 +27174,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>100.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Тетрадь
 </td>
@@ -26985,7 +27187,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>101.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Аудиодиск
 </td>
@@ -26995,7 +27197,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>102.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Методическое пособие
 </td>
@@ -27004,11 +27206,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>103.</td>
-<td>
+<td colspan="2">
 Художественная литература.
 Хрестоматия
 </td>
@@ -27017,11 +27219,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>104.</td>
-<td>
+<td colspan="2">
 Основы грамоты.
 Демострационный материал
 </td>
@@ -27030,11 +27232,11 @@ D. Bakbergenova
 Стыбаева А.
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>105.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром.
 Методическое руководство
 </td>
@@ -27044,7 +27246,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>106.</td>
-<td>
+<td colspan="2">
 Ознакомление с окружающим миром.
 Тетрадь
 </td>
@@ -27053,14 +27255,14 @@ D. Bakbergenova
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ және орыс тілдерінде</td>
+<td colspan="6">оқыту қазақ және орыс тілдерінде</td>
 </tr>
 <tr>
-<td colspan="5">Кіші топ (2 жастан бастап)</td>
+<td colspan="6">Кіші топ (2 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Құрастыру. Конструирование.
 Демонстрациялық материал. Демонстрационный материал
 </td>
@@ -27069,11 +27271,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Сурет салу.
 Рисование. Демонстрациялық материал.
 Демонстрационный материал
@@ -27083,11 +27285,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Сурет салу.Рисование.
 Альбом / Альбом
 </td>
@@ -27096,11 +27298,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Мүсіндеу. Лепка.
 Аппликация. Аппликация.
 Демонстрациялық материал. Демонстрационный материал
@@ -27110,11 +27312,11 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Мүсіндеу альбом.
 Альбом по Лепке
 </td>
@@ -27123,27 +27325,24 @@ D. Bakbergenova
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
-Аппликация Альбом. /
-Альбом по Аппликации
-</td>
+<td colspan="2">Аппликация Альбом. / Альбом по Аппликации</td>
 <td>
 Стыбаева А.,
 Слепнева В.
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
-<td colspan="5">Ортаңғы топ (3 жастан бастап)</td>
+<td colspan="6">Ортаңғы топ (3 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту және көркем әдебиет. Демонстрациялықжәне үлестірме метариалдар /
 Развитие речи и художественная литература.
 Демонстрационный и раздаточный материал
@@ -27154,7 +27353,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Құрастыру / Конструирование.
 Дидактикалықматериалдар / Дидактические материалы
 </td>
@@ -27168,7 +27367,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Сиқырлы құрылысшы / Волшебный строитель.
 Құрастыру бойынша демонстрациялық материалдар / Демонстрационный материал по конструированию
 </td>
@@ -27178,7 +27377,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Қоршаған ортамен танысу. Экология негіздері. Демонстрациялық материал / Естествознание. Ознакомление с окружающим миром. Основы экологии. Демонстрационный материал
 </td>
@@ -27188,7 +27387,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Сурет альбомы /
 Альбом по рисованию
 </td>
@@ -27201,17 +27400,17 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру/ Формирование элементарных математических представлений.
 Демонстрациялықжәнеүлестірмематериалдар/ Демонстрационный и раздаточный материал
 </td>
 <td>В. Слепнева</td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Сурет салу/ Рисование.
 Демонстрациялық материал/ Демонстрационный материал
 </td>
@@ -27220,11 +27419,11 @@ D. Bakbergenova
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Сурет салу/ Рисование.
 Жұмысдәптері/
 Рабочая тетрадь
@@ -27234,18 +27433,18 @@ D. Bakbergenova
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Көркем әдебиет. Дидактикалық-көрнекі құралдар топтамасы. Ортаңғы топ (3-4 жас). Художественная литература. Комплект наглядно-дидактических пособий. Средняя группа (3-4 года)</td>
+<td colspan="2">Көркем әдебиет. Дидактикалық-көрнекі құралдар топтамасы. Ортаңғы топ (3-4 жас). Художественная литература. Комплект наглядно-дидактических пособий. Средняя группа (3-4 года)</td>
 <td>Е. Ибраев</td>
 <td>2020</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Жұмыс дәптері.
 Аппликация.
@@ -27256,21 +27455,21 @@ D. Bakbergenova
 А.Стыбаева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Аппликация. Демонстрациялық материал.Аппликация. Демонстрационный материал</td>
+<td colspan="2">Аппликация. Демонстрациялық материал. Аппликация. Демонстрационный материал</td>
 <td>
 С.Мадалиева,
 А.Стыбаева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Мүсіндеу альбомы/ Альбом по лепке.
 3 жастан бастап / от 3-х лет
 </td>
@@ -27284,7 +27483,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>13.</td>
-<td>Жапсыру альбомы/Альбом по аппликации. 3 жастан бастап / от 3-х лет</td>
+<td colspan="2">Жапсыру альбомы/Альбом по аппликации. 3 жастан бастап / от 3-х лет</td>
 <td>
 Н. Федотова
 А. Шайхина
@@ -27294,11 +27493,11 @@ D. Bakbergenova
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td colspan="5">Ересектер тобы (4 жастан бастап)</td>
+<td colspan="6">Ересектер тобы (4 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Құрастыру.
 Дидактикалық материалдар/Конструирование.
 Дидактические материалы
@@ -27313,7 +27512,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>Аппликация альбомы / Альбом по аппликации</td>
+<td colspan="2">Аппликация альбомы / Альбом по аппликации</td>
 <td>
 Г. Жақанова,
 Қ. Еңсебаева
@@ -27323,7 +27522,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Сурет альбомы /
 Альбом по рисованию
 </td>
@@ -27336,7 +27535,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Мүсіндеу альбомы /
 Альбом по лепке
 </td>
@@ -27349,7 +27548,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Үлестірмелі материалдар / Аппликация.
 Раздаточный материал
@@ -27363,7 +27562,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.Демонстрациялық материал./
 Формирование элементарных математических представлений.
 Демонстрационный материал
@@ -27373,11 +27572,11 @@ D. Bakbergenova
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру/ Формирование элементарных математических представлений.
 Жұмыс дәптері/ Рабочая тетрадь
 </td>
@@ -27386,11 +27585,11 @@ D. Bakbergenova
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Құрастыру/ Конструирование.
 Демонстрациялық материал/ Демонстрационный материал
 </td>
@@ -27399,29 +27598,29 @@ D. Bakbergenova
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қоршаған ортамен танысу.Демонстрациялық материал./ Ознакомление с окружающим миром. Демонстрационный материал</td>
+<td colspan="2">Қоршаған ортамен танысу.Демонстрациялық материал./ Ознакомление с окружающим миром. Демонстрационный материал</td>
 <td>
 С. Мадалиева,
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Көркем әдебиет. Дидактикалық-көрнекі құралдар топтамасы. Мектепке дейінгі ұйымдағы ересек топ (4-5 жас). Художественная литература. Комплект наглядно-дидактических пособий. Старшая группа в дошкольной организации (4-5 лет)</td>
+<td colspan="2">Көркем әдебиет. Дидактикалық-көрнекі құралдар топтамасы. Мектепке дейінгі ұйымдағы ересек топ (4-5 жас). Художественная литература. Комплект наглядно-дидактических пособий. Старшая группа в дошкольной организации (4-5 лет)</td>
 <td>Е. Ибраев</td>
 <td>2020</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>
-Жаратылыстану. Демонстрациялықматериал.
+<td colspan="2">
+Жаратылыстану. Демонстрациялық материал.
 Естествознание.
 Демонстрационный материал
 </td>
@@ -27430,12 +27629,12 @@ D. Bakbergenova
 С.Мадалиева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>
-Жаратылыстану. Жұмысдәптері.
+<td colspan="2">
+Жаратылыстану. Жұмыс дәптері.
 Естествознание.
 Рабочая тетрадь
 </td>
@@ -27444,13 +27643,13 @@ D. Bakbergenova
 А.Стыбаева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Аппликация.
-Жұмысдәптері.
+Жұмыс дәптері.
 Аппликация.
 Рабочая тетрадь
 </td>
@@ -27459,11 +27658,11 @@ D. Bakbergenova
 А.Стыбаева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Аппликация. Демонстрациялық материал.
 Аппликация.Демонстрационный материал
 </td>
@@ -27472,14 +27671,14 @@ D. Bakbergenova
 А.Стыбаева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
-<td colspan="5">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
+<td colspan="6">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қауіпсіз мінез-құлық негіздері.
 Демонстрациялық материал / Основы безопасного поведения.
 Демонстрационный материал
@@ -27490,7 +27689,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту/ Развитие речи.
 Демонстрациялық материал/ Демонстрационный материал
 </td>
@@ -27499,11 +27698,11 @@ D. Bakbergenova
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру/ Формирование элементарных математических представлений.
 Демонстрациялық
 материал/ Демонстрационный материал
@@ -27513,11 +27712,11 @@ D. Bakbergenova
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Құрастыру/ Конструирование.
 Демонстрациялық
 материал/ Демонстрационный материал
@@ -27527,11 +27726,11 @@ D. Bakbergenova
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Жаратылыстану/ Естествознание
 Демонстрациялық материал/ Демонстрационный материал
 </td>
@@ -27540,11 +27739,11 @@ D. Bakbergenova
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қоршаған ортамен танысу/ Ознакомление с окружающим миром.
 Демонстрациялық
 материал/ Демонстрационный материал
@@ -27554,14 +27753,14 @@ D. Bakbergenova
 А. Стыбаева
 </td>
 <td>2019</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Аппликация.
 Аппликация.
-Демонстрациялықматериал.
+Демонстрациялық материал.
 Демонстрационный материал
 </td>
 <td>
@@ -27569,48 +27768,45 @@ D. Bakbergenova
 А.Стыбаева
 </td>
 <td>2020</td>
-<td>Shuǵylakitap</td>
+<td>Shugylakitap</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Жаратылыстану. Жұмыс дәптері
 5 жастан бастап /Естествознание. Рабочая тетрадь от 5-и лет
 </td>
 <td>
 А. Стыбаева.,
-В. Слепнева
+В.Слепнева
 </td>
 <td>2021</td>
 <td>«Shugylakitaр»</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Сурет салу. Демонстрациялық материал 5 жастан бастап / Рисование. Демонстрационный материал от 5-и лет</td>
-<td>
-С. Мадалиева.,
-А.Стыбаева
-</td>
+<td colspan="2">Сурет салу. Демонстрациялық материал 5 жастан бастап / Рисование. Демонстрационный материал от 5-и лет</td>
+<td>С. Мадалиева., А.Стыбаева</td>
 <td>2021</td>
 <td>«Shugylakitaр»</td>
 </tr>
 <tr>
-<td colspan="5">Цифрлық басылымдар</td>
+<td colspan="6">Цифрлық басылымдар</td>
 </tr>
 <tr>
-<td colspan="5">Мектепке дейінгі тәрбие мен оқыту</td>
+<td colspan="6">Мектепке дейінгі тәрбие мен оқыту</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ тілінде</td>
+<td colspan="6">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<td colspan="5">Кіші топ (2 жастан бастап)</td>
+<td colspan="6">Кіші топ (2 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Сөйлеуді дамыту. (18 цифрлық оқу-әдістемелік кешен) Ойыншықтар; Күн мен жаңбыр; Жемістер мен көгөністер; Нанның қасиеті; Балапан; Көжек; Міне, қар жауды!; Ғажайып дорба; Қуыршақ Данамен серуендеу; Аю мен әтеш; Жануарлар қалай дыбыстайды?; Шәйнек; Аю, тұр! Ояншы!; Қуыршақ Дананы тамақтандыру; Саяхатшылар әні; Көктем келді; Аспаптар қалай дыбыстайды?; Тауық пен балапан;
-2 жастан бастап www.​bil​imki​ds.​kz
+2 жастан бастапwww.bilimkids.kz
 </td>
 <td></td>
 <td>2021</td>
@@ -27618,9 +27814,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Мүсіндеу. (9 цифрлық оқу-әдістемелік кешен) Қуыршақтарға кәмпиттер; Үлкен және кішкентай сәбіздер; Тиінге жаңғақ; Қар; Шырша моншақтары; Бауырсақ әні; Құстарға жем шашайық; Сақина; Мерекелік шелпектер;
-2 жастан бастап www.​bil​imki​ds.​kz
+2 жастан бастапwww.bilimkids.kz
 </td>
 <td></td>
 <td>2021</td>
@@ -27628,9 +27824,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Жапсыру. (9 цифрлық оқу-әдістемелік кешен) Доппен ойнаған мысық; Піскен бауырсақтар; Қонжықтың сылдырмақтары; Шырша шары; Қоян; Теледидарда қар жауып тұр; Алаша; Алқаны жинайық; Бұлттар ұшып келеді;
-2 жастан бастап www.​bil​imki​ds.​kz
+2 жастан бастапwww.bilimkids.kz
 </td>
 <td></td>
 <td>2021</td>
@@ -27638,9 +27834,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Сенсорика. (18 цифрлық оқу-әдістемелік кешен) Түрлі ойыншықтар; Ғажайып дорба; Жапырақтар; Жеміс-көгөністерден жасалған тоқаш; Үлкен және кішкентай үйшіктер; Көліктегі аңдар; Қорқақ қоян; Шыршаны безендіру; Қолғап; Ормандағы қыс; Ыдыстар; Пирамида; Қуыршақ Дананың киімі; Әдемі кілем; Ғарыштағы бояулар; Пойызбен саяхат; Қорапшадағы мерекелік кәмпиттер; Кемпірқосақ;
-2 жастан бастап www.​bil​imki​ds.​kz
+2 жастан бастапwww.bilimkids.kz
 </td>
 <td></td>
 <td>2021</td>
@@ -27648,7 +27844,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Құрастыру. (18 цифрлық оқу-әдістемелік кешен) Жолмен жүрейік; Құлыншаққа қоршау; Күздік алмаларға қорапша; Балапанға саты; Жүк машинасы жолы; Күшік Викидің үйшігі; Жүргінші жолы; Мұнара; Шаңғы жолы; Жемшашар; Қошақанға шарбақ; Қонаққа орындықтар; Қонжыққа төсек; Диван; Құс ұясы; Гараж; Аула қақпасы; Біздің көше;
 2 жастан бастап www.​bil​imki​ds.​kz
 </td>
@@ -27658,9 +27854,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Көркем әдебиет. (18 цифрлық оқу-әдістемелік кешен) &quot;Маша мен Аю&quot; ертегісі; Саусақ санамағы; &quot;Шалқан&quot; ертегісі; М. Мақатаевтің &quot;Сап-сары жапырақтар&quot; өлеңі; Паровоз; &quot;Бауырсақ&quot; ертегісі; Менің Отаным; &quot;Үйшік&quot; ертегісі; Қар; &quot;Шұбар тауық&quot; ертегісі; Көше тазалаушы; &quot;Жеті лақ&quot; ертегісі; Қоянның үйшігі; М. Жұмабаевтың &quot;Бесік жыры&quot; өлеңі; Құлыншақ; &quot;Мысық, қораз және түлкі&quot; ертегісі; Көктем келді гүл алып; &quot;Үш аю&quot; ертегісі;
-2 жастан бастап www.​bil​imki​ds.​kz
+2 жастан бастапwww.bilimkids.kz
 </td>
 <td></td>
 <td>2021</td>
@@ -27668,9 +27864,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Сурет салу. (36 цифрлық оқу-әдістемелік кешен) Доп кетті домалап; Әжемнің жіптері; Жаңбыр; Алаша; Жапырақтар түсіп қалды; Алма; Тоқаштар; Сары балапан; Күн; Пойыз келе жатыр; Кірпі; Бауырсақ қашты қояннан; Аппақ қар; Бәйтерек; Мерекелік жалаулар; Шыршадағы ойыншықтар; Қысқы алашадағы қар; Ақша қар; Түлкі іздері; Құстар жем шоқиды; Ала Марғау; Сөредегі табақтар; Қорапшаға кәмпит жинадық; Доп; Әжеге алқа; Бұлақтар; Бауырсақтар; Сүлгіні безендірейік; Жұлдыздар; Құлыншаққа шарбақ; Жасыл желек; Әуедегі шарлар; Отшашулар (Салют); Гүлдер; Қозы; Алуан түсті алақан
-2 жастан бастап www.​bil​imki​ds.​kz
+2 жастан бастапwww.bilimkids.kz
 </td>
 <td></td>
 <td>2021</td>
@@ -27678,9 +27874,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Жаратылыстану. (36 цифрлық оқу-әдістемелік кешен) Қуыршақ Дана; Аю мен қонжық; Саңырауқұлақ; Қуыршақ Дана мен балапандар; Қош келдің, алтын күз; Жапырақтар; Наубайшы; Көлдегі үйректер; Жемістер мен көгөністер; Жүк машинасы; Тиін; Ит пен күшік; Алақай, қыс келді!; Алтын балық; Қар жауды; Жасыл шырша; Қысқы ойынға шығайық; Қардың қасиеті; Қысқы ормандағы аңдар; Ауладағы құстар; Жіппен ойнаған марғау; Көше тазалаушы; Тоңазытқыш; Қуыршақ Дана және дәрігер; Көктем шақырады; Бұлақ; Шәйнек; Асатаяқ; Ұшақ; Жылқы мен құлын; Аққайың; Ауаның қасиеті; Дауылпаз; Бақбақ гүл; Ешкі мен лақ; Құмның қасиеті;
-2 жастан бастап www.​bil​imki​ds.​kz
+2 жастан бастапwww.bilimkids.kz
 </td>
 <td></td>
 <td>2021</td>
@@ -27688,9 +27884,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Дене шынықтыру. (36 цифрлық оқу-әдістемелік кешен) Дана қуыршақпен сапқа тұру; Аюмен шеңберге тұру; Қояндармен бірге жүгіру; Қазақстан туы; Салтанатты адым; Еңбектеп жеміс жинайық; Нан қадірі; Секіреді торғай; Домалайды алмалар; Көліктегі жемістер; Жарысайық, аюмен!; Қасқырдан ептіміз; Секірейік, тоңбайық!; Тәуелсіз Қазақстан; Қалайық қардан аққала; Жаңа доп; Өрмелейік, дөңге; Тоңады қардан аяқтар; Қысқы ормандағы аңдар; Құстарға жем шашайық; Еңбектеген марғау; Мен спортшы боламын!; Велосипед; Шынықсақ – шымыр боламыз!; Көңілді құстар; Бұлақ көрсең, көзін аш; Арқан тарту; Спорт – өнер; Ғарышқа алыс самғайық!; Еңбектейміз ерінбей!; Егейік көктем ағашын; Дөп-дөңгелек шаңырақ; Солдаттармыз саптағы; Бақ-бақ гүлдер; Көк машина; Шынығамыз жазда;
-2 жастан бастап www.​bil​imki​ds.​kz
+2 жастан бастапwww.bilimkids.kz
 </td>
 <td></td>
 <td>2021</td>
@@ -27698,20 +27894,20 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Музыка. (36 цифрлық оқу-әдістемелік кешен) Қуыршақ Әйгерімнің барабаны; Асыл әжем; Сылдырмақтар сылдырлап; Айгөлектей дөңгелеп; Ару күз; Күз сыйлаған топ-топ; Көңілді тоқаштар; Торғайсың, тынбайсың!; Жайсаң күз; Пойыз; Кірпі; Ормандағы бауырсақ (мюзикл); Аппақ қар; Елтаңбасы елімнің; Әсем шырша; Аяз ата сыйлығы; Көңілді қыс; Ақша қар; Сұр көжек; Суық торғай; Қошақан; Ұшқыш; Электроника әлемі; Домалайды доп; Көңілді торғай; Таза бұлақ; Наурыз – жыл басы; Нағыз қазақ – домбыра; Ғарыштағы ғажайып; Ана, кең дала!; Жасыл желек; Әлди, әлди, бөпешім!; Отшашулар; Нәзік гүлдер; Еңбек түбі – зейнет; Жаз кереметтері;
-2 жастан бастап www.​bil​imki​ds.​kz
+2 жастан бастапwww.bilimkids.kz
 </td>
 <td></td>
 <td>2021</td>
 <td>Bilim Media Group</td>
 </tr>
 <tr>
-<td colspan="5">5 жастан 6 жасқа дейінгі – мектепалды даярлық</td>
+<td colspan="6">5 жастан 6 жасқа дейінгі – мектепалды даярлық</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Тәй-тәй.
 Көктем (6 мультимедиалық цифрлықбілім беру кешені):
 Жаттығулар: Есту арқылы қабылдау және есту-моторлы координациясы; Есту-көру моторлы координациясы; Математикалық дағдылар; Кеңістіктік қабылдау; Ойлау дағдылары; Әлеуметтік дағдылар.
@@ -27720,13 +27916,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2017</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Тәй-тәй.
 Жаз (3 мультимедиалық цифрлық білім беру кешені):
 Жаттығулар: Есту арқылы қабылдау және есту-моторлы координациясы; Қосымша материалдар: Жазғы демалыс қорабы; Өсімдіктер кітабы.
@@ -27735,13 +27931,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2017</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Тәй-тәй.
 Күз (7 мультимедиалық цифрлық білім беру кешені):
 Жаттығулар: Себеп-салдар байланысын орнату дағдылары; Көру арқылы қабылдау және көру-моторлы координациясы; Есту арқылы қабылдау және есту-моторлы координациясы; Ойлау дағдылары; Қосымша материалдар: Күз альбомы; Менің кітабым; Фото сурет жиектемесі.
@@ -27750,13 +27946,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2017</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Тәй-тәй.
 Қыс (12 мультимедиалық цифрлық білім беру кешені):
 Жаттығулар: Себеп-салдар байланысын орнату дағдылары; Көру арқылы қабылдау және көру-моторлы координациясы; Есту арқылы қабылдау және есту-моторлы координациясы; Графомоторикалық дағдылар; Табиғат пен танысу; Кеңістіктік қабылдау; Ойлау дағдылары; Әлеуметтік дағдылар; Қосымша материалдар: Айтылым; Қосымша тапсырмалар; Тақпақтар; Сурет-жұмбақтар.
@@ -27765,13 +27961,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2017</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Сөз ойындары. Жаттығулар.
 Тілді дамыту: Иллюстрациялық диктант (мультимедиалықцифрлық білім беру кешені)
 www.​bil​imla​nd.​kz
@@ -27779,13 +27975,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2017</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Сауат ашу негіздері.
 Электрондық дидактикалық құралы
 </td>
@@ -27806,7 +28002,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Қарапайым математикалық ұғымдарды қалыптастыру.
 Электрондық дидактикалық құралы
 </td>
@@ -27827,7 +28023,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Электрондық пазлдар.
 Электрондық дидактикалық құралы
 </td>
@@ -27848,7 +28044,7 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Электрондық бояу.
 Электрондық дидактикалық құралы
 </td>
@@ -27869,7 +28065,7 @@ Group
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Жұмбақтар.
 Электрондық дидактикалық құралы
 </td>
@@ -27890,7 +28086,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Сөйлейтін суреттер.
 Жаттығулар (14 цифрлық білім беру ресурсы):
 Сөздер, дыбыстар және еліктеуіш сөздер:
@@ -27901,13 +28097,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2019</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Логоритмика. Жаттығулар (29 цифрлық білім беру ресурсы):
 Локомоторлы жаттығулар:
 Локомоторлы қозғалыстар – Жүру және жүгіру; Секіруге және қарғуға арналған жаттығулар; Моторлы координацияға арналған жаттығулар.
@@ -27922,13 +28118,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2019</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Мектепке дайындық. Жаттығулар (30 цифрлық білім беру ресурсы):
 Бағалау: Сөйлеу дамуын бағалау; Есту және лингвистикалық дағдыларды бағалау; Жалпы моторикалық дағдыларды бағалау; Ұсақ моторика мен қолеңбегінбағалау; Көру арқылы сараптау мен жинақтау дағдыларды бағалау; Сол жақ пен оң жақтың басымдығын бағалау; Денені және кеңістікті бағдарлау дағдыларын бағалау; Ұғымдар мен математикалық дағдыларды бағалау; Эмоциялық және әлеуметтік дағдыларды бағалау.
 Лингвистикалық және есту дағдылары:
@@ -27947,14 +28143,14 @@ Group
 </td>
 </tr>
 <tr>
-<td colspan="5">оқыту орыс тілінде</td>
+<td colspan="6">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<td colspan="5">5 жастан 6 жасқа дейінгі – мектепалды даярлық</td>
+<td colspan="6">5 жастан 6 жасқа дейінгі – мектепалды даярлық</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Шаг за шагом.
 Весна (5 мультимедийных цифровых образовательных комплексов): Упражнения: Слуховое восприятие и слухо-моторная координация; Слухо-зрительно-моторная координация; Знакомство с природой; Пространственное восприятие; Навыки мышления.
 www.​bil​imla​nd.​kz
@@ -27962,13 +28158,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2017</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Шаг за шагом.
 Лето (6 мультимедийных цифровых образовательных комплексов): Упражнения: Визуальное восприятие и зрительно-моторная координация; Навыки мышления.
 Дополнительные материалы: Коробка с лета; Замок из песка; Книга растений; Мои летние каникулы.
@@ -27977,13 +28173,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2017</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Шаг за шагом.
 Осень (6 мультимедийных цифровых образовательных комплексов): Упражнения: Слуховое восприятие и слухо-моторная координация; Слухо-зрительно-моторная координация.
 Дополнительные материалы: Осенний альбом; Моя книга; Рамка для фотографии; Игра для тренировки памяти. www.​bil​imla​nd.​kz
@@ -27997,7 +28193,7 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Шаг за шагом.
 Зима (6 мультимедийных цифровых образовательных комплексов): Упражнения: Визуальное восприятие и зрительно-моторная координация; Слуховое восприятие и слухо-моторная координация; Навыки мышления.
 Дополнительные материалы: Произношение; Дополнительные материалы; Картинка-загадки.
@@ -28012,7 +28208,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Основы грамоты.
 Электронное дидактическое пособие
 </td>
@@ -28029,7 +28225,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Элементарные математические представления.
 Электронное дидактическое пособие
 </td>
@@ -28046,7 +28242,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Электронные пазлы.
 Электронное дидактическое пособие
 </td>
@@ -28063,7 +28259,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Электронная раскраска.
 Электронное дидактическое пособие
 </td>
@@ -28080,7 +28276,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Загадки.
 Электронное дидактическое пособие
 </td>
@@ -28097,7 +28293,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Говорящие картинки.
 Упражнения (14 цифровых образовательных ресурсов):
 Слова, звуки и звуко-подражательные слова:
@@ -28108,13 +28304,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2019</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Логоритмика. Упражнения (29 цифровых образовательных ресурсов):
 Локомоторные упражнения: Локомоторные движения – ходьба и бег; Прыжковые упражнения; Упражнения для развития моторной координации.
 Упражнения для развития слуха: Разнообразие частоты; Разнообразие ритма; Разнообразие тембра; Разнообразие динамики; Разнообразие акцента; Разнообразие артикуляции; Разнообразие мелодики.
@@ -28125,13 +28321,13 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2019</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Подготовка к школе. Упражнения (30 цифровых образовательных ресурсов):
 Оценка: Оценка речевого развития; Оценка слуховых и речевых навыков; Оценка крупных моторных навыков; Оценка мелкой моторики и навыков ручного труда; Оценка навыков зрительного анализа и синтеза; Оценка латерального доминирования; Оценка навыков телесной и пространственной ориентации; Оценка понятий и математических навыков. Оценка эмоциональных и социальных навыков.
 Слуховые и языковые навыки: Знание языка; Слуховая память и причинно-следственные связи; Сегментация предложения (анализ); Сегментация слова (анализ); Слуховая память и чувствительность; Упражнения по ритмике; Слияние слова (синтез); Слуховое восприятие и слухо-зрительная координация; Артикуляция.
@@ -28143,29 +28339,29 @@ www.​bil​imla​nd.​kz
 <td></td>
 <td>2019</td>
 <td>
-BilimMedia
+Bilim Media
 Group
 </td>
 </tr>
 <tr>
-<td colspan="5">1-11 сыныптарға арналған оқу-әдістемелік кешендер</td>
+<td colspan="6">1-11 сыныптарға арналған оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ тілінде</td>
+<td colspan="6">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Әліппе. №1, 2, 3 жазу дәптері</td>
+<td colspan="2">Әліппе. №1, 2, 3 жазу дәптері</td>
 <td>Ж. Жұмабаева</td>
 <td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Әліппе. Оқыту әдістемесі</td>
+<td colspan="2">Әліппе. Оқыту әдістемесі</td>
 <td>
 Ә. Жұмабаева,
 Б. Сабденова,
@@ -28177,7 +28373,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>Әліппе. Менің алғашқы сөздігім</td>
+<td colspan="2">Әліппе. Менің алғашқы сөздігім</td>
 <td>
 Ә. Жұмабаева,
 Г. Омарова
@@ -28187,7 +28383,36 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>Русский язык (для школ с нерусским языком обучения). Методическое руководство</td>
+<td colspan="2">Ана тілі. Оқыту әдістемесі</td>
+<td>Уайсова Г. И., Сәдуақас Г. Т., Бесірова А. С., Ахметкулова А.К.</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>5.</td>
+<td colspan="2">Ана тілі. №1,2 Жазу дәптерлері</td>
+<td>
+Уайсова Г.,
+Сәдуақас Г.,
+Бесірова А. С.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>6.</td>
+<td colspan="2">Ана тілі. Диктанттар мен мазмұндамалар жинағы</td>
+<td>
+Уайсова Г.,
+Сәдуақас Г.,
+Бесірова А. С.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>7.</td>
+<td colspan="2">Русский язык (для школ с нерусским языком обучения). Методическое руководство</td>
 <td>
 Атембаева Г.,
 Кадралиева А.,
@@ -28197,19 +28422,15 @@ Group
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Русский язык (для школ с нерусским языком обучения). Тетрадь ученика №1, 2</td>
-<td>
-Жексенбаева Б.,
-Кадралиева А.,
-Рахметова Т.
-</td>
+<td>8.</td>
+<td colspan="2">Русский язык (для школ с нерусским языком обучения). Тетрадь ученика №1, 2</td>
+<td>Жексенбаева Б., Кадралиева А., Рахметова Т.</td>
 <td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Математика. №1, 2, 3 жұмыс дәптерлері</td>
+<td>9.</td>
+<td colspan="2">Математика. №1, 2, 3 жұмыс дәптерлері</td>
 <td>
 В. Холодкова,
 И. Бакка
@@ -28218,8 +28439,8 @@ Group
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Математика. Әдістемелік нұсқау</td>
+<td>10.</td>
+<td colspan="2">Математика. Әдістемелік нұсқау</td>
 <td>
 Ә. Ақпаева,
 Л. Лебедева,
@@ -28230,8 +28451,8 @@ Group
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>
+<td>11.</td>
+<td colspan="2">
 Математика.
 №1, 2, 3, 4 жұмыс дәптері
 </td>
@@ -28245,8 +28466,8 @@ Group
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Цифрлық сауаттылық. Мұғалімге арналған әдістемелік нұсқаулық</td>
+<td>12.</td>
+<td colspan="2">Цифрлық сауаттылық. Мұғалімге арналған әдістемелік нұсқаулық</td>
 <td>
 Г. Көпеева,
 Ә. Қаптағаева,
@@ -28256,8 +28477,8 @@ Group
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td>10.</td>
-<td>Цифрлық сауаттылық. Жұмыс дәптері</td>
+<td>13.</td>
+<td colspan="2">Цифрлық сауаттылық. Жұмыс дәптері</td>
 <td>
 Г. Көпеева,
 Ә. Қаптағаева,
@@ -28267,8 +28488,8 @@ Group
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Жаратылыстану. Әдістемелік нұсқау</td>
+<td>14.</td>
+<td colspan="2">Жаратылыстану. Әдістемелік нұсқау</td>
 <td>
 Р. Қаратабанов,
 Г.Үржігітова,
@@ -28279,8 +28500,8 @@ Group
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Жаратылыстану. №1, 2 жұмыс дәптері</td>
+<td>15.</td>
+<td colspan="2">Жаратылыстану. №1, 2 жұмыс дәптері</td>
 <td>
 Р. Қаратабанов,
 Ж. Жартыбаева,
@@ -28290,8 +28511,8 @@ Group
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>13.</td>
-<td>
+<td>16.</td>
+<td colspan="2">
 Дүниетану. Оқыту әдістемесі
 +электрондық қосымша
 </td>
@@ -28303,8 +28524,8 @@ Group
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>14.</td>
-<td>Дүниетану. Оқушы дәптері</td>
+<td>17.</td>
+<td colspan="2">Дүниетану. Оқушы дәптері</td>
 <td>
 Б. Тұрмашева,
 С. Салиш
@@ -28313,34 +28534,34 @@ Group
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>15.</td>
-<td>Өзін-өзі тану. Мұғалімге арналған әдістемелік нұсқаулық</td>
+<td>18.</td>
+<td colspan="2">Өзін-өзі тану. Мұғалімге арналған әдістемелік нұсқаулық</td>
 <td>
 Р. Мұқажанова,
 Г. Омарова,
 Р. Ізғұттынова,
-Ж. Әкімбаева,
-Л. Жетпісбаева
+Ж.Әкімбаева,
+Л.Жетпісбаева
 </td>
 <td>2021</td>
 <td>Бөбек</td>
 </tr>
 <tr>
-<td>16.</td>
-<td>Өзін-өзі тану. Оқушы дәптері</td>
+<td>19.</td>
+<td colspan="2">Өзін-өзі тану. Оқушы дәптері</td>
 <td>
 Р. Мұқажанова,
 Г. Омарова,
 Р. Ізғұттынова,
-Ж. Әкімбаева,
-Л. Жетпісбаева
+Ж.Әкімбаева,
+Л.Жетпісбаева
 </td>
 <td>2021</td>
 <td>Бөбек</td>
 </tr>
 <tr>
-<td>17.</td>
-<td>Музыка. Оқыту әдістемесі</td>
+<td>20.</td>
+<td colspan="2">Музыка. Оқыту әдістемесі</td>
 <td>
 Ш. Құлманова,
 Б. Сүлейменова,
@@ -28350,8 +28571,8 @@ Group
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>18.</td>
-<td>Музыка. Нота хрестоматиясы</td>
+<td>21.</td>
+<td colspan="2">Музыка. Нота хрестоматиясы</td>
 <td>
 Ш. Құлманова,
 Н. Мирманов,
@@ -28362,8 +28583,8 @@ Group
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>19.</td>
-<td>Музыка. Фонохрестоматия</td>
+<td>22.</td>
+<td colspan="2">Музыка. Фонохрестоматия</td>
 <td>
 Ш. Құлманова,
 Б. Сүлейменова,
@@ -28373,8 +28594,8 @@ Group
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>20.</td>
-<td>Көркем еңбек. Әдістемелік нұсқау</td>
+<td>23.</td>
+<td colspan="2">Көркем еңбек. Әдістемелік нұсқау</td>
 <td>
 Е. Ермилова,
 С. Попкова,
@@ -28384,8 +28605,8 @@ Group
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>21.</td>
-<td>Көркем еңбек. жұмыс дәптері</td>
+<td>24.</td>
+<td colspan="2">Көркем еңбек жұмыс дәптері</td>
 <td>
 Е. Ермилова,
 С. Попкова,
@@ -28395,11 +28616,11 @@ Group
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқыту әдістемесі.
 1, 2-бөлім
@@ -28413,7 +28634,7 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері №1, №2
 </td>
@@ -28427,7 +28648,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Диктанттар жинағы
 </td>
@@ -28441,7 +28662,7 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Электрондық оқу құралы
 </td>
@@ -28451,7 +28672,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Хрестоматия.
 1, 2-бөлім
@@ -28462,7 +28683,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Оқыту әдістемесі.
 1, 2-бөлім
@@ -28476,9 +28697,9 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
-№1, 2 жұмысдәптері
+№1, 2 жұмыс дәптері
 </td>
 <td>В. Калиева</td>
 <td>2017</td>
@@ -28486,7 +28707,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Электрондық оқу құралы
 </td>
@@ -28499,7 +28720,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство + CD
 </td>
@@ -28512,7 +28733,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь № 1, 2
 </td>
@@ -28525,7 +28746,7 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік құрал
 </td>
@@ -28540,7 +28761,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Математика.
 № 1,2,3,4 жұмысдәптері
 </td>
@@ -28554,7 +28775,7 @@ Group
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Жұмыс дәптері
 </td>
@@ -28569,7 +28790,7 @@ Group
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Мұғалімге арналған нұсқаулық
 </td>
@@ -28584,7 +28805,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Дүниетану.
 Оқыту әдістемесі
 </td>
@@ -28598,7 +28819,7 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Дүниетану.
 Оқушы дәптері
 </td>
@@ -28612,7 +28833,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Мұғалімге арналған әдістемелік құрал
 </td>
@@ -28630,7 +28851,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқушы дәптері
 </td>
@@ -28648,7 +28869,7 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқытуәдістемесі
 </td>
@@ -28661,9 +28882,9 @@ Group
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
-№ 1, 2 жұмысдәптерлері
+№ 1, 2 жұмыс дәптерлері
 </td>
 <td>Н. Раупова</td>
 <td>2017</td>
@@ -28671,7 +28892,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Электрондық оқу құралы
 </td>
@@ -28681,7 +28902,7 @@ Group
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Музыка.
 Оқыту әдістемесі
 </td>
@@ -28694,7 +28915,7 @@ Group
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нота хрестоматиясы
 </td>
@@ -28710,7 +28931,7 @@ Group
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Музыка.
 Фонохрестоматия
 </td>
@@ -28724,11 +28945,11 @@ Group
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқыту әдістемесі.
 1, 2-бөлім
@@ -28742,7 +28963,7 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Диктанттар жинағы.
 </td>
@@ -28755,7 +28976,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 № 1, 2, 3, 4 жұмыс дәптері
 </td>
@@ -28769,9 +28990,9 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
-Оқыту әдістемесі.
+Оқытуәдістемесі.
 1, 2-бөлім
 </td>
 <td>
@@ -28783,7 +29004,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Хрестоматия
 </td>
@@ -28793,7 +29014,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 № 1, 2 жұмыс дәптері
 </td>
@@ -28803,7 +29024,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство.
 Электронный вариант
@@ -28817,7 +29038,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь № 1, 2
 </td>
@@ -28830,7 +29051,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік нұсқау + CD. Электронды нұсқа
 </td>
@@ -28845,7 +29066,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Математика.
 № 1, 2, 3, 4 жұмыс дәптері
 </td>
@@ -28859,7 +29080,7 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>Цифрлық сауаттылық. Әдістемелік нұсқау</td>
+<td colspan="2">Цифрлық сауаттылық. Әдістемелік нұсқау</td>
 <td>
 Р. Қадырқұлов,
 Ә. Рысқұлбекова
@@ -28869,7 +29090,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Мұғалімге арналған нұсқаулық
 </td>
@@ -28881,11 +29102,11 @@ Group
 А. Полежаева
 </td>
 <td>2018</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ</td>
+<td>«Назарбаев зияткерлік мектептері» ДББҰ</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Жұмыс дәптері.
 1, 2-бөлім
@@ -28898,11 +29119,11 @@ Group
 А. Полежаева
 </td>
 <td>2018</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ</td>
+<td>«Назарбаев зияткерлік мектептері» ДББҰ</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Дүниетану.
 Оқыту әдістемесі + CD
 </td>
@@ -28916,7 +29137,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Дүниетану.
 Оқушы дәптері
 </td>
@@ -28930,7 +29151,7 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Музыка.
 Оқыту әдістемесі
 </td>
@@ -28943,7 +29164,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Музыка.
 Фонохрестоматия
 </td>
@@ -28957,7 +29178,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нота хрестоматиясы
 </td>
@@ -28973,7 +29194,7 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқыту әдістемесі + CD
 </td>
@@ -28983,7 +29204,7 @@ Group
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 № 1, 2 жұмыс дәптері
 </td>
@@ -28993,7 +29214,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Мұғалімге арналған әдістемелік құрал
 </td>
@@ -29007,7 +29228,7 @@ Group
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқушы дәптері
 </td>
@@ -29020,11 +29241,11 @@ Group
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқыту әдістемесі
 </td>
@@ -29038,8 +29259,8 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Қазақтілі.
+<td colspan="2">
+Қазақ тілі.
 Диктанттар жинағы
 </td>
 <td>
@@ -29051,7 +29272,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 № 1, 2, 3, 4 жұмыс дәптері
 </td>
@@ -29065,7 +29286,7 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Әдістемелік нұсқау (электронды нұсқа)
 </td>
@@ -29080,7 +29301,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Хрестоматия
 </td>
@@ -29090,7 +29311,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Жұмыс дәптері № 1, 2
 </td>
@@ -29103,7 +29324,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство (электронная версия)
 </td>
@@ -29116,7 +29337,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь № 1, 2
 </td>
@@ -29129,7 +29350,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік нұсқау (электрондық нұсқа)
 </td>
@@ -29144,7 +29365,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Математика.
 № 1, 2, 3, 4 жұмысдәптері
 </td>
@@ -29157,8 +29378,8 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
-Ақпараттық коммуникациялықтехнологиялар.
+<td colspan="2">
+Көркем еңбек технологиялар.
 Мұғалім кітабы
 </td>
 <td>
@@ -29171,8 +29392,8 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
-Ақпараттық коммуникациялық технологиялар.
+<td colspan="2">
+Көркем еңбек технологиялар.
 Жұмыс дәптері
 </td>
 <td>
@@ -29185,7 +29406,7 @@ Group
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Мұғалімге арналған нұсқаулық
 </td>
@@ -29201,7 +29422,7 @@ Group
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Жұмыс дәптері.
 1,2 бөлім
@@ -29218,7 +29439,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Дүниетану.
 Оқыту әдістемесі + CD
 </td>
@@ -29232,7 +29453,7 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Дүниетану.
 Оқушы дәптері
 </td>
@@ -29246,7 +29467,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Мұғалімге арналған әдістемелік құрал
 </td>
@@ -29260,7 +29481,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Оқушы дәптері
 </td>
@@ -29274,7 +29495,7 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Музыка.
 Оқыту әдістемесі
 </td>
@@ -29287,7 +29508,7 @@ Group
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Музыка.
 Фонохрестоматия
 </td>
@@ -29301,7 +29522,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нота хрестоматиясы
 </td>
@@ -29316,7 +29537,7 @@ Group
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 № 1, 2 жұмыс дәптері
 </td>
@@ -29326,7 +29547,7 @@ Group
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Оқыту әдістемесі+СД
 </td>
@@ -29335,11 +29556,11 @@ Group
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Әдiстемелiк нұсқау
 </td>
@@ -29352,8 +29573,8 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Қазақтілі.
+<td colspan="2">
+Қазақ тілі.
 Мұғалім кітабы
 </td>
 <td>
@@ -29366,7 +29587,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Дидактикалық материалдар
 </td>
@@ -29380,8 +29601,8 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
-Қазақ тілі.
+<td colspan="2">
+Қазақтілі.
 Диктанттар мен мазмұндамалар жинағы
 </td>
 <td>
@@ -29394,7 +29615,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқыту әдістемесі
 </td>
@@ -29408,7 +29629,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Әдiстемелiк нұсқау
 </td>
@@ -29421,7 +29642,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -29434,7 +29655,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқытуәдістемесі
 </td>
@@ -29447,8 +29668,8 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
-Қазақәдебиеті.
+<td colspan="2">
+Қазақ әдебиеті.
 Хрестоматия
 </td>
 <td>
@@ -29460,7 +29681,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -29474,7 +29695,7 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -29487,7 +29708,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Методическое руководство
 </td>
@@ -29500,7 +29721,7 @@ Group
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Математика.
 Оқытуәдiстемесi
 </td>
@@ -29513,7 +29734,7 @@ Group
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Математика.
 Логикалық есептер мен тапсырмалар
 </td>
@@ -29523,7 +29744,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдiстемелiк нұсқау
 </td>
@@ -29536,7 +29757,7 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Математика.
 Есептер жинағы
 </td>
@@ -29550,7 +29771,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Мұғалімге арналған нұсқаулық
 </td>
@@ -29563,7 +29784,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Практикалық тапсырмалар жинағы
 </td>
@@ -29576,7 +29797,7 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Атлас кескін карта
 </td>
@@ -29589,7 +29810,7 @@ Group
 </tr>
 <tr>
 <td>20..</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Мұғалімге арналған нұсқаулық
 </td>
@@ -29603,7 +29824,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқыту әдістемесі +СД
 </td>
@@ -29618,7 +29839,7 @@ Group
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Информатика.
 Әдістемелікнұсқау
 </td>
@@ -29631,7 +29852,7 @@ Group
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Информатика.
 Мұғалім кітабы
 </td>
@@ -29645,7 +29866,7 @@ Group
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 (Ежелгі дүние).
 Әдiстемелiк нұсқау
@@ -29661,7 +29882,7 @@ Group
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқыту әдістемесі
 </td>
@@ -29675,7 +29896,7 @@ Group
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Дидактикалық материалдар.
 </td>
@@ -29689,7 +29910,7 @@ Group
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Хрестоматия
 </td>
@@ -29703,7 +29924,7 @@ Group
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Мұғалімге арналған нұсқаулық
 </td>
@@ -29715,13 +29936,13 @@ Group
 А. Марқабаева
 </td>
 <td>2017</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ</td>
+<td>«Назарбаев зияткерлік мектептері» ДББҰ</td>
 </tr>
 <tr>
 <td>29.</td>
-<td>Атлас. Ежелгі Қазақстан тарихы</td>
+<td colspan="2">Атлас. Ежелгі Қазақстан тарихы</td>
 <td>
-С. Кругликова
+С.Кругликова
 О. Пак
 </td>
 <td>2021</td>
@@ -29729,7 +29950,7 @@ Group
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Мұғалімге арналған нұсқаулық
 </td>
@@ -29741,11 +29962,14 @@ Group
 И. Тен
 </td>
 <td>2017</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ</td>
+<td>
+«Назарбаев зияткерлік
+мектептері» ДББҰ
+</td>
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Оқытуәдістемесі
 </td>
@@ -29759,14 +29983,14 @@ Group
 </tr>
 <tr>
 <td>32.</td>
-<td>Атлас. Ежелгі дүние тарихы</td>
-<td>С. Кругликова</td>
+<td colspan="2">Атлас. Ежелгі дүние тарихы</td>
+<td>С.Кругликова</td>
 <td>2021</td>
 <td>8&amp;8</td>
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Мұғалімдерге арналған әдістемелік құрал
 </td>
@@ -29781,7 +30005,7 @@ Group
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Музыка.
 Оқыту әдістемесі
 </td>
@@ -29794,7 +30018,7 @@ Group
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нота хрестоматиясы
 </td>
@@ -29810,7 +30034,7 @@ Group
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Музыка.
 Фонохрестоматия
 </td>
@@ -29825,7 +30049,7 @@ Group
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 (ұл балаларға арналған нұсқа).
 Әдістемелік нұсқау+CD
@@ -29842,7 +30066,7 @@ Group
 </tr>
 <tr>
 <td>38.</td>
-<td>
+<td colspan="2">
 Көркем еңбек
 (қыз балаларға арналған нұсқа).
 Әдістемелік нұсқау +CD
@@ -29858,11 +30082,11 @@ Group
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Қазақтілі. Оқыту әдістемесі</td>
+<td colspan="2">Қазақ тілі. Оқыту әдістемесі</td>
 <td>
 Б. Әрінова,
 Г. Раева,
@@ -29873,7 +30097,7 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Әдiстемелiк нұсқау
 </td>
@@ -29887,7 +30111,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Мұғалім кітабы
 </td>
@@ -29901,7 +30125,7 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Дидактикалық материалдар
 </td>
@@ -29915,9 +30139,9 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
-Қазақ тiлi.
-Диктанттар мен мазмұндамалар жинағы
+<td colspan="2">
+Қазақтiлi.
+Диктанттар менмазмұндамалар жинағы
 </td>
 <td>
 Т. Ермекова,
@@ -29929,7 +30153,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқыту әдістемесі
 </td>
@@ -29942,7 +30166,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -29955,7 +30179,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Әдiстемелiк нұсқау
 </td>
@@ -29968,7 +30192,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -29981,7 +30205,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -29996,7 +30220,7 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -30011,7 +30235,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Мұғалім кітабы
 </td>
@@ -30025,7 +30249,7 @@ Group
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -30038,7 +30262,7 @@ Group
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Методическое руководство
 </td>
@@ -30052,7 +30276,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Хрестоматия
 </td>
@@ -30062,7 +30286,7 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Книга для учителя
 </td>
@@ -30075,7 +30299,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Дидактические материалы
 </td>
@@ -30088,7 +30312,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Методическое руководство
 </td>
@@ -30101,7 +30325,7 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Хрестоматия
 </td>
@@ -30115,7 +30339,7 @@ Group
 </tr>
 <tr>
 <td>20.</td>
-<td>Сборник заданий для критериального оценивания достижений учащихся по всем видам речевой деятельности</td>
+<td colspan="2">Сборник заданий для критериального оценивания достижений учащихся по всем видам речевой деятельности</td>
 <td>
 Кабдулова К.,
 Аульбекова Г.,
@@ -30126,7 +30350,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Рабочая тетрадь № 1, 2.
 </td>
@@ -30139,7 +30363,7 @@ Group
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Книга для учителя
 </td>
@@ -30153,7 +30377,7 @@ Group
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Рабочая тетрадь № 1, 2
 </td>
@@ -30167,9 +30391,9 @@ Group
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Математика.
-Оқыту әдістемесі
+Оқытуәдістемесі
 </td>
 <td>
 Т. Алдамуратова,
@@ -30181,7 +30405,7 @@ Group
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Математика.
 Олимпиадаға дайындық есептер жинағы.
 (5-6-сыныптар)
@@ -30196,7 +30420,7 @@ Group
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдiстемелiк нұсқау + CD
 </td>
@@ -30209,7 +30433,7 @@ Group
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Математика.
 Дидактикалық материалдар
 </td>
@@ -30223,7 +30447,7 @@ Group
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Математика.
 Есептер жинағы
 </td>
@@ -30237,9 +30461,9 @@ Group
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Информатика.
-Оқыту әдістемесі + СД
+Оқыту әдістемесі +СД
 </td>
 <td>
 С. Мұхамбетжанова,
@@ -30252,7 +30476,7 @@ Group
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Информатика.
 Әдістемелік нұсқау
 </td>
@@ -30266,7 +30490,7 @@ Group
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Информатика.
 Мұғалім кітабы
 </td>
@@ -30280,7 +30504,7 @@ Group
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқыту әдістемесі
 </td>
@@ -30295,7 +30519,7 @@ Group
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Дидактикалық материалдар
 </td>
@@ -30310,14 +30534,14 @@ Group
 </tr>
 <tr>
 <td>34.</td>
-<td>Атлас. Орта ғасырлардағы Қазақстан тарихы</td>
-<td>Т. Окунева</td>
+<td colspan="2">Атлас. Орта ғасырлардағы Қазақстан тарихы</td>
+<td>Т.Окунева</td>
 <td>2021</td>
 <td>8&amp;8</td>
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Оқыту әдістемесі
 </td>
@@ -30330,7 +30554,7 @@ Group
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Хрестоматия
 </td>
@@ -30344,7 +30568,7 @@ Group
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Әдiстемелiк нұсқау
 </td>
@@ -30357,7 +30581,7 @@ Group
 </tr>
 <tr>
 <td>38.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Хрестоматия
 </td>
@@ -30371,7 +30595,7 @@ Group
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Оқыту әдістемесі
 </td>
@@ -30384,7 +30608,7 @@ Group
 </tr>
 <tr>
 <td>40.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдiстемелiк нұсқау
 </td>
@@ -30399,7 +30623,7 @@ Group
 </tr>
 <tr>
 <td>41.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал.
 Электронды нұсқа
@@ -30416,7 +30640,7 @@ Group
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Мұғалімге арналған әдістемелік құрал
 </td>
@@ -30430,7 +30654,7 @@ Group
 </tr>
 <tr>
 <td>43.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Әдістемелік нұсқау.
 (қыз балаларға арналған нұсқа)
@@ -30446,7 +30670,7 @@ Group
 </tr>
 <tr>
 <td>44.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Көрнекі құралдар топтамасы
 (қыз балаларға арналған нұсқа)
@@ -30457,7 +30681,7 @@ Group
 </tr>
 <tr>
 <td>45.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Әдістемелік нұсқау
 (ұл балаларға арналған нұсқа)
@@ -30473,7 +30697,7 @@ Group
 </tr>
 <tr>
 <td>46.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нота хрестоматиясы
 </td>
@@ -30488,11 +30712,11 @@ Group
 <td>Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Әдiстемелiк нұсқау
 </td>
@@ -30505,8 +30729,8 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Қазақтілі.
+<td colspan="2">
+Қазақ тілі.
 Оқыту әдістемесі
 </td>
 <td>
@@ -30519,7 +30743,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Мұғалім кітабы
 </td>
@@ -30534,7 +30758,7 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Дидактикалық материалдар
 </td>
@@ -30549,7 +30773,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Диктанттар мен мазмұндамалар жинағы
 </td>
@@ -30563,7 +30787,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Әдiстемелiк нұсқау
 </td>
@@ -30576,7 +30800,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -30589,7 +30813,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқыту әдістемесі
 </td>
@@ -30602,7 +30826,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -30615,7 +30839,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -30628,8 +30852,8 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
-Қазақәдебиеті.
+<td colspan="2">
+Қазақ әдебиеті.
 Хрестоматия
 </td>
 <td>
@@ -30641,7 +30865,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>Русский язык и литература. Методическое руководство</td>
+<td colspan="2">Русский язык и литература. Методическое руководство</td>
 <td>
 Жанпеис У.,
 Озекбаева Н.
@@ -30651,7 +30875,7 @@ Group
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқыту әдiстемесi
 </td>
@@ -30664,7 +30888,7 @@ Group
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дидактикалық материалдар
 </td>
@@ -30674,7 +30898,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқыту әдістемесі
 </td>
@@ -30687,7 +30911,7 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактикалық материалдар
 </td>
@@ -30697,7 +30921,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Әдістемелік нұсқау
 </td>
@@ -30711,7 +30935,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Есептер жинағы
 </td>
@@ -30724,7 +30948,7 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дидактикалық материалдар
 </td>
@@ -30738,7 +30962,7 @@ Group
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдістемелік құрал
 </td>
@@ -30751,7 +30975,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Есептер жинағы
 </td>
@@ -30764,7 +30988,7 @@ Group
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактикалық материалдар
 </td>
@@ -30777,9 +31001,9 @@ Group
 </tr>
 <tr>
 <td>23.</td>
-<td>Информатика. Әдістемелік нұсқау</td>
+<td colspan="2">Информатика. Әдістемелік нұсқау</td>
 <td>
-Р. Қадырқұлов,
+Р.Қадырқұлов,
 Н. Беристемова
 </td>
 <td>2021</td>
@@ -30787,7 +31011,7 @@ Group
 </tr>
 <tr>
 <td>24.</td>
-<td>Информатика. Мұғалімге арналған әдістемелік нұсқаулық</td>
+<td colspan="2">Информатика. Мұғалімге арналған әдістемелік нұсқаулық</td>
 <td>
 Г. Салғараева,
 А. Маханова,
@@ -30798,7 +31022,10 @@ Group
 </tr>
 <tr>
 <td>25.</td>
-<td>Информатика. Оқыту әдістемесі+ СD</td>
+<td colspan="2">
+Информатика.
+Оқыту әдістемесі+ СD
+</td>
 <td>
 С. Мухамбетжанова,
 А. Тен,
@@ -30809,7 +31036,7 @@ Group
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 География.
 Оқыту әдістемесі
 </td>
@@ -30822,7 +31049,7 @@ Group
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 География.
 Атлас
 </td>
@@ -30835,7 +31062,7 @@ Group
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 География.
 Әдістемелік құрал
 </td>
@@ -30848,7 +31075,7 @@ Group
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқыту әдістемесі
 </td>
@@ -30862,7 +31089,7 @@ Group
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Биология.
 Әдiстемелiк нұсқау
 </td>
@@ -30875,7 +31102,7 @@ Group
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Физика.
 Әдiстемелiк нұсқау
 </td>
@@ -30889,7 +31116,7 @@ Group
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Физика.
 Әдістемелік нұсқау
 </td>
@@ -30903,7 +31130,7 @@ Group
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Физика.
 Есептер мен жаттығулар жинағы
 </td>
@@ -30916,7 +31143,7 @@ Group
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Химия.
 Әдiстемелiк нұсқау
 </td>
@@ -30929,7 +31156,7 @@ Group
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Химия.
 Дидактикалық материалдар
 </td>
@@ -30939,7 +31166,7 @@ Group
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқыту әдістемесі
 </td>
@@ -30952,14 +31179,14 @@ Group
 </tr>
 <tr>
 <td>37.</td>
-<td>Қазақстан тарихы. Хрестоматия</td>
+<td colspan="2">Қазақстан тарихы. Хрестоматия</td>
 <td>З. Қабылдинов</td>
 <td>2018</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>38.</td>
-<td>Дүниежүзі тарихы. Әдістемелік нұсқау</td>
+<td colspan="2">Дүниежүзі тарихы. Әдістемелік нұсқау</td>
 <td>
 Ә. Көпекбай,
 Ж. Джұматаева
@@ -30969,7 +31196,7 @@ Group
 </tr>
 <tr>
 <td>39.</td>
-<td>Дүниежүзі тарихы. Хрестоматия</td>
+<td colspan="2">Дүниежүзі тарихы. Хрестоматия</td>
 <td>
 Г. Көкебаева,
 Р. Мырзабекова,
@@ -30980,15 +31207,15 @@ Group
 </tr>
 <tr>
 <td>40.</td>
-<td>Атлас. Дүниежүзі тарихы 1640-1900 жж.</td>
+<td colspan="2">Атлас. Дүниежүзі тарихы 1640-1900 жж.</td>
 <td>Окунева Т.</td>
 <td>2021</td>
 <td>8&amp;8</td>
 </tr>
 <tr>
 <td>41.</td>
-<td>
-Өзін-өзі тану.
+<td colspan="2">
+Өзін-өзітану.
 Мұғалімдерге арналған әдістемелік құрал
 </td>
 <td>
@@ -31002,7 +31229,7 @@ Group
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 (ұл балаларға арналған нұсқа).
 Әдістемелік құрал+CD
@@ -31019,7 +31246,7 @@ Group
 </tr>
 <tr>
 <td>43.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 (қыз балаларға арналған нұсқа).
 Әдістемелік нұсқау +CD
@@ -31035,7 +31262,7 @@ Group
 </tr>
 <tr>
 <td>44.</td>
-<td>
+<td colspan="2">
 Көркем еңбек ұлдарға арналған.
 Мұғалімге арналған нұсқаулық
 </td>
@@ -31046,11 +31273,14 @@ Group
 З. Хасенов
 </td>
 <td>2017</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ</td>
+<td>
+«Назарбаев зияткерлік
+мектептері» ДББҰ
+</td>
 </tr>
 <tr>
 <td>45.</td>
-<td>
+<td colspan="2">
 Көркем еңбек
 қыздарға арналған.
 Мұғалімге арналған нұсқаулық
@@ -31062,14 +31292,17 @@ Group
 Ф. Құрабаева
 </td>
 <td>2017</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ</td>
+<td>
+«Назарбаев зияткерлік
+мектептері» ДББҰ
+</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқыту әдістемесі
 </td>
@@ -31083,7 +31316,7 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Әдiстемелiк нұсқау
 </td>
@@ -31097,7 +31330,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Мұғалім кітабы
 </td>
@@ -31111,7 +31344,7 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Дидактикалық материалдар
 </td>
@@ -31125,7 +31358,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Диктанттар мен мазмұндамалар жинағы
 </td>
@@ -31139,7 +31372,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқыту әдістемесі
 </td>
@@ -31152,7 +31385,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -31165,7 +31398,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Әдiстемелiкнұсқау
 </td>
@@ -31179,7 +31412,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -31193,8 +31426,8 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
-Қазақәдебиеті.
+<td colspan="2">
+Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
 <td>
@@ -31209,7 +31442,7 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -31224,7 +31457,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Мұғалім кітабы
 </td>
@@ -31238,7 +31471,7 @@ Group
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -31251,7 +31484,7 @@ Group
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Методическое руководство
 </td>
@@ -31265,7 +31498,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Хрестоматия
 </td>
@@ -31275,7 +31508,7 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Книга для учителя
 </td>
@@ -31288,7 +31521,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>Русский язык и литература. Методическое руководство</td>
+<td colspan="2">Русский язык и литература. Методическое руководство</td>
 <td>
 Кабдулова К.,
 Аульбекова Г.
@@ -31298,7 +31531,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>Русский язык и литература. Хрестоматия</td>
+<td colspan="2">Русский язык и литература. Хрестоматия</td>
 <td>
 Кабдулова К.,
 Аульбекова Г.,
@@ -31309,18 +31542,17 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>Сборник заданий для критериального оценивания достижений учащихся по всем видам речевой деятельности</td>
+<td colspan="2">Сборник заданий для критериального оценивания достижений учащихся по всем видам речевой деятельности</td>
 <td>
 Кабдулова К.,
-Аульбекова Г.,
-Сырымбетова А.
+Аульбекова Г., Сырымбетова А.
 </td>
 <td>2018</td>
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқытуәдістемесі
 </td>
@@ -31333,7 +31565,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Әдiстемелiк нұсқау + СD
 </td>
@@ -31347,7 +31579,7 @@ Group
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дидактикалық материалдар
 </td>
@@ -31360,7 +31592,7 @@ Group
 </tr>
 <tr>
 <td>23.</td>
-<td>Алгебра. Есептер жинағы</td>
+<td colspan="2">Алгебра. Есептер жинағы</td>
 <td>
 В. Корчевский,
 З. Жұмағұлова
@@ -31370,7 +31602,7 @@ Group
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Әдістемелік нұсқау
 </td>
@@ -31384,9 +31616,9 @@ Group
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Алгебра.
-Есептермен тест тапсырмаларыжинағы
+Есептер мен тест тапсырмалары жинағы
 </td>
 <td>
 Г. Солтан,
@@ -31399,7 +31631,7 @@ Group
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқытуәдістемесі
 </td>
@@ -31412,7 +31644,7 @@ Group
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдістемелік нұсқау
 </td>
@@ -31425,7 +31657,7 @@ Group
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактикалық материалдар
 </td>
@@ -31438,7 +31670,7 @@ Group
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Есептер жинағы
 </td>
@@ -31451,7 +31683,7 @@ Group
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдiстемелiк нұсқау + жаттықтырғыш
 </td>
@@ -31468,7 +31700,7 @@ Group
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Есептер мен тест тапсырмалары жинағы
 </td>
@@ -31483,9 +31715,9 @@ Group
 </tr>
 <tr>
 <td>32.</td>
-<td>Информатика. Әдістемелік нұсқау</td>
+<td colspan="2">Информатика. Әдістемелік нұсқау</td>
 <td>
-Р. Қадырқұлов,
+Р.Қадырқұлов,
 У. Ғайыпбаева
 </td>
 <td>2021</td>
@@ -31493,7 +31725,7 @@ Group
 </tr>
 <tr>
 <td>33.</td>
-<td>Информатика. Мұғалімге арналған әдістемелік нұсқаулық</td>
+<td colspan="2">Информатика. Мұғалімге арналған әдістемелік нұсқаулық</td>
 <td>
 Г. Салғараева,
 А. Бекежанова,
@@ -31504,7 +31736,7 @@ Group
 </tr>
 <tr>
 <td>34.</td>
-<td>Информатика. Оқыту әдістемесі + СD</td>
+<td colspan="2">Информатика. Оқыту әдістемесі + СD</td>
 <td>
 С. Мухамбетжанова,
 А. Тен,
@@ -31515,7 +31747,7 @@ Group
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 География.
 Әдiстемелiк нұсқау
 </td>
@@ -31528,7 +31760,7 @@ Group
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 География.
 Әдістемелік құрал.
 Электронды нұсқа
@@ -31543,7 +31775,7 @@ Group
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқытуәдістемесі
 </td>
@@ -31556,7 +31788,7 @@ Group
 </tr>
 <tr>
 <td>38.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқытуәдістемесі
 </td>
@@ -31571,7 +31803,7 @@ Group
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Физика.
 Мұғалім кітабы
 </td>
@@ -31584,7 +31816,7 @@ Group
 </tr>
 <tr>
 <td>40.</td>
-<td>
+<td colspan="2">
 Химия.
 Оқытуәдістемесі
 </td>
@@ -31597,9 +31829,9 @@ Group
 </tr>
 <tr>
 <td>41.</td>
-<td>
+<td colspan="2">
 Химия.
-Есептер және жаттығулар жинағы.
+Есептержәне жаттығулар жинағы.
 (7-8-сыныптар)
 </td>
 <td>
@@ -31611,7 +31843,7 @@ Group
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Химия.
 Әдістемелік нұсқау
 </td>
@@ -31624,7 +31856,7 @@ Group
 </tr>
 <tr>
 <td>43.</td>
-<td>
+<td colspan="2">
 Химия.
 Дидактикалық материалдар
 </td>
@@ -31634,7 +31866,7 @@ Group
 </tr>
 <tr>
 <td>44.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқытуәдістемесі
 </td>
@@ -31647,7 +31879,7 @@ Group
 </tr>
 <tr>
 <td>45.</td>
-<td>Қазақстан тарихы Хрестоматия</td>
+<td colspan="2">Қазақстан тарихы Хрестоматия</td>
 <td>
 З. Қабылдинов,
 Р. Оразов
@@ -31657,7 +31889,7 @@ Group
 </tr>
 <tr>
 <td>46.</td>
-<td>Дүниежүзi тарихы. Әдiстемелiк нұсқау.</td>
+<td colspan="2">Дүниежүзi тарихы. Әдiстемелiкнұсқау.</td>
 <td>
 Н. Алдабек,
 Б. Аманқұлова
@@ -31667,7 +31899,7 @@ Group
 </tr>
 <tr>
 <td>47.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Хрестоматия
 </td>
@@ -31681,7 +31913,7 @@ Group
 </tr>
 <tr>
 <td>48.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Мұғалімге арналған әдістемелік құрал
 </td>
@@ -31695,7 +31927,7 @@ Group
 </tr>
 <tr>
 <td>49.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Көрнекі құралдар топтамасы
 (қыз балаларға арналған нұсқа)
@@ -31706,7 +31938,7 @@ Group
 </tr>
 <tr>
 <td>50.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Әдістемелік нұсқау
 (қыз балаларға арналған нұсқа)
@@ -31722,7 +31954,7 @@ Group
 </tr>
 <tr>
 <td>51.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Әдістемелік нұсқау
 (ұл балаларға арналған нұсқа)
@@ -31739,11 +31971,11 @@ Group
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Мұғалім кітабы
 </td>
@@ -31757,8 +31989,8 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Қазақтiлi.
+<td colspan="2">
+Қазақ тiлi.
 Дидактикалық материалдар
 </td>
 <td>
@@ -31770,21 +32002,18 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
-Қазақтiлi.
+<td colspan="2">
+Қазақ тiлi.
 Әдiстемелiк нұсқау
 </td>
-<td>
-М. Мамаева,
-Ж. Мукашова
-</td>
+<td>М. Мамаева, Ж. Мукашова</td>
 <td>2019</td>
 <td>Мектеп</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
-Қазақтілі.
+<td colspan="2">
+Қазақ тілі.
 Оқыту әдістемесі
 </td>
 <td>
@@ -31798,7 +32027,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Мұғалім кітабы
 </td>
@@ -31814,7 +32043,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -31827,8 +32056,8 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
-Қазақәдебиетi.
+<td colspan="2">
+Қазақ әдебиетi.
 Әдiстемелiк нұсқау
 </td>
 <td>
@@ -31840,7 +32069,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -31853,7 +32082,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқытуәдістемесі
 </td>
@@ -31866,7 +32095,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -31879,7 +32108,7 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -31895,7 +32124,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -31911,7 +32140,7 @@ Group
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Методическое руководство
 </td>
@@ -31924,7 +32153,7 @@ Group
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Хрестоматия
 </td>
@@ -31934,7 +32163,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Русский язык и литература для общеобразовательных школ с нерусским языком обучения.
 Методическое руководство
 (электронная версия)
@@ -31948,7 +32177,7 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Әдістемелік нұсқау
 </td>
@@ -31962,7 +32191,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Хрестоматия
 </td>
@@ -31976,7 +32205,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Оқыту әдістемесі
 </td>
@@ -31989,7 +32218,7 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дидактикалық материалдар
 </td>
@@ -32003,7 +32232,7 @@ Group
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Әдiстемелiк нұсқау+ CD
 </td>
@@ -32018,7 +32247,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дидактикалық материалдар
 </td>
@@ -32031,7 +32260,7 @@ Group
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Есептер жинағы
 </td>
@@ -32044,7 +32273,7 @@ Group
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Әдістемелік нұсқаулық
 </td>
@@ -32058,7 +32287,7 @@ Group
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Есептер мен тест тапсырмалары жинағы
 </td>
@@ -32073,7 +32302,7 @@ Group
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқыту әдiстемесi
 </td>
@@ -32086,7 +32315,7 @@ Group
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактикалық материалдар
 </td>
@@ -32100,7 +32329,7 @@ Group
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдiстемелiк нұсқау
 </td>
@@ -32113,7 +32342,7 @@ Group
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактикалық материалдар
 </td>
@@ -32126,7 +32355,7 @@ Group
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Есептер жинағы
 </td>
@@ -32139,7 +32368,7 @@ Group
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдiстемелiк нұсқаулық
 </td>
@@ -32153,7 +32382,7 @@ Group
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Есептер мен тест тапсырмалары жинағы
 </td>
@@ -32168,7 +32397,7 @@ Group
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Жаттықтырғыш/Тренажер
 </td>
@@ -32181,7 +32410,7 @@ Group
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Информатика.
 Әдістемелік құрал
 </td>
@@ -32194,7 +32423,7 @@ Group
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқыту әдістемесі
 </td>
@@ -32209,7 +32438,7 @@ Group
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Информатика.
 Әдістемелік нұсқау
 </td>
@@ -32223,7 +32452,7 @@ Group
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Информатика.
 Мұғалім кітабы
 </td>
@@ -32237,7 +32466,7 @@ Group
 </tr>
 <tr>
 <td>37.</td>
-<td>Қазақстан географиясы. Әдiстемелiк нұсқау</td>
+<td colspan="2">Қазақстан географиясы. Әдiстемелiк нұсқау</td>
 <td>
 С. Козина,
 Г. Головина,
@@ -32248,7 +32477,7 @@ Group
 </tr>
 <tr>
 <td>38.</td>
-<td>Қазақстан географиясы. Дидактикалық материалдар</td>
+<td colspan="2">Қазақстан географиясы. Дидактикалық материалдар</td>
 <td>
 Ш. Толыбекова,
 Г. Головина,
@@ -32259,7 +32488,7 @@ Group
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Қазақстан географиясы.
 Оқыту әдістемесі
 </td>
@@ -32274,7 +32503,7 @@ Group
 </tr>
 <tr>
 <td>40.</td>
-<td>
+<td colspan="2">
 Қазақстан географиясы.
 Әдістемелік құрал
 (электрондық нұсқа)
@@ -32288,7 +32517,7 @@ Group
 </tr>
 <tr>
 <td>41.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқыту әдістемесі
 </td>
@@ -32301,7 +32530,7 @@ Group
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Физика.
 Оқыту әдістемесі
 </td>
@@ -32316,7 +32545,7 @@ Group
 </tr>
 <tr>
 <td>43.</td>
-<td>
+<td colspan="2">
 Физика.
 Әдiстемелiк нұсқау
 </td>
@@ -32330,7 +32559,7 @@ Group
 </tr>
 <tr>
 <td>44.</td>
-<td>
+<td colspan="2">
 Физика.
 Мұғалім кітабы
 </td>
@@ -32343,7 +32572,7 @@ Group
 </tr>
 <tr>
 <td>45.</td>
-<td>
+<td colspan="2">
 Химия.
 Әдістемелік нұсқау
 </td>
@@ -32356,7 +32585,7 @@ Group
 </tr>
 <tr>
 <td>46.</td>
-<td>
+<td colspan="2">
 Химия.
 Есептер мен жаттығулар жинағы
 </td>
@@ -32366,9 +32595,9 @@ Group
 </tr>
 <tr>
 <td>47.</td>
-<td>
+<td colspan="2">
 Химия.
-Оқытуәдістемесі
+Оқыту әдістемесі
 </td>
 <td>
 М. Усманова,
@@ -32379,7 +32608,7 @@ Group
 </tr>
 <tr>
 <td>48.</td>
-<td>
+<td colspan="2">
 Химия.
 Есептер және жаттығулар жинағы
 </td>
@@ -32392,7 +32621,7 @@ Group
 </tr>
 <tr>
 <td>49.</td>
-<td>
+<td colspan="2">
 Химия кестеде.
 Дидактикалық материалдар.
 (9-11)
@@ -32406,8 +32635,9 @@ Group
 </tr>
 <tr>
 <td>50.</td>
-<td>
-Қазақстан тарихы. 8-9.
+<td colspan="2">
+Қазақстан тарихы.
+8-9.
 Әдiстемелiк нұсқау.
 1, 2-бөлім
 </td>
@@ -32421,7 +32651,7 @@ Group
 </tr>
 <tr>
 <td>51.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқыту әдістемесі.
 </td>
@@ -32434,7 +32664,7 @@ Group
 </tr>
 <tr>
 <td>52.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Хрестоматия.
 </td>
@@ -32447,7 +32677,7 @@ Group
 </tr>
 <tr>
 <td>53.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқыту әдістемесі
 </td>
@@ -32461,7 +32691,7 @@ Group
 </tr>
 <tr>
 <td>54.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Хрестоматия
 </td>
@@ -32475,7 +32705,7 @@ Group
 </tr>
 <tr>
 <td>55.</td>
-<td>
+<td colspan="2">
 Дүниежүзi тарихы. Әдiстемелiк нұсқау.
 1,2-бөлім
 </td>
@@ -32488,7 +32718,7 @@ Group
 </tr>
 <tr>
 <td>56.</td>
-<td>
+<td colspan="2">
 Құқық негіздері.
 Әдістемелік нұсқау
 </td>
@@ -32502,7 +32732,7 @@ Group
 </tr>
 <tr>
 <td>57.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Мұғалімге арналған әдістемелік құрал
 </td>
@@ -32516,7 +32746,7 @@ Group
 </tr>
 <tr>
 <td>58.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Жалпы білім беретін мектептің мұғалімдеріне арналған әдістемелік нұсқаулық
 (қыз балаларға арналған нұсқа)
@@ -32530,7 +32760,7 @@ Group
 </tr>
 <tr>
 <td>59.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Жалпы білім беретін мектептің 9-сыныбына арналған көрнекі құралдар топтамасы
 (қыз балаларға арналған нұсқа)
@@ -32541,7 +32771,7 @@ Group
 </tr>
 <tr>
 <td>60.</td>
-<td>
+<td colspan="2">
 Көркем еңбек.
 Жалпы білім беретін мектептің мұғалімдеріне арналған әдістемелік нұсқаулық
 (ұл балаларға арналған нұсқа)
@@ -32555,14 +32785,14 @@ Group
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқыту әдістемесі
 </td>
@@ -32577,7 +32807,7 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Әдiстемелiк нұсқау
 </td>
@@ -32591,7 +32821,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Мұғалім кітабы
 </td>
@@ -32605,7 +32835,7 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Дидактикалық материалдар
 </td>
@@ -32619,8 +32849,8 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
-Қазақәдебиеті.
+<td colspan="2">
+Қазақ әдебиеті.
 Хрестоматия
 </td>
 <td>
@@ -32632,7 +32862,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқыту әдістемесі
 </td>
@@ -32645,7 +32875,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Әдiстемелiк нұсқау
 </td>
@@ -32659,7 +32889,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -32673,7 +32903,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -32686,7 +32916,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -32702,7 +32932,7 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -32718,7 +32948,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -32733,9 +32963,9 @@ Group
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
-Әдістемелікқұрал (электрондық нұсқа)
+Әдістемелік құрал (электрондық нұсқа)
 </td>
 <td>
 О. Пак,
@@ -32749,7 +32979,7 @@ Group
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Әдістемелік нұсқау +CD
 </td>
@@ -32762,7 +32992,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Дидактикалық материалдар
 </td>
@@ -32775,9 +33005,9 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
-Есептержинағы
+Есептер жинағы
 </td>
 <td>
 А. Әбілқасымова,
@@ -32788,7 +33018,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдістемелік нұсқау
 </td>
@@ -32801,7 +33031,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Есептер жинағы
 </td>
@@ -32814,7 +33044,7 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Информатика.
 Әдістемелік нұсқау
 </td>
@@ -32828,7 +33058,7 @@ Group
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқыту әдістемесі
 </td>
@@ -32843,7 +33073,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Информатика.
 Мұғалім кітабы
 </td>
@@ -32860,7 +33090,7 @@ Group
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 География.
 Әдістемелік нұсқау
 </td>
@@ -32870,7 +33100,7 @@ Group
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқыту әдістемесі
 </td>
@@ -32883,7 +33113,7 @@ Group
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Физика.
 Мұғалім кітабы
 </td>
@@ -32896,7 +33126,7 @@ Group
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Химия.
 Әдістемелік нұсқау
 </td>
@@ -32909,7 +33139,7 @@ Group
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Химия.
 Есептер мен жаттығулар жинағы
 </td>
@@ -32919,14 +33149,14 @@ Group
 </tr>
 <tr>
 <td>27.</td>
-<td>Дүниежүзі тарихы. Әдістемелік нұсқау</td>
+<td colspan="2">Дүниежүзі тарихы. Әдістемелік нұсқау</td>
 <td>Ж. Жұматаева</td>
 <td>2019</td>
 <td>Мектеп</td>
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Құқық негіздері.
 Әдістемелік нұсқау
 </td>
@@ -32939,11 +33169,11 @@ Group
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқыту әдістемесі
 </td>
@@ -32957,7 +33187,7 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Мұғалім кітабы
 </td>
@@ -32971,7 +33201,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Дидактикалық материалдар
 </td>
@@ -32985,7 +33215,7 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -32998,7 +33228,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқыту әдістемесі
 </td>
@@ -33011,7 +33241,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Әдiстемелiк нұсқау
 </td>
@@ -33025,7 +33255,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -33039,7 +33269,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -33052,7 +33282,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -33065,7 +33295,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -33081,7 +33311,7 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -33097,10 +33327,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
-Алгебра және анализ бастамалары.
-Әдістемелік нұсқау + CD
-</td>
+<td colspan="2">Алгебра және анализ бастамалары. Әдістемелік нұсқау + CD</td>
 <td>
 А. Әбілқасымова,
 Т. Кучер,
@@ -33111,7 +33338,7 @@ Group
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Дидактикалық материалдар
 </td>
@@ -33124,8 +33351,8 @@ Group
 </tr>
 <tr>
 <td>14.</td>
-<td>
-Алгебражәне анализ бастамалары.
+<td colspan="2">
+Алгебра және анализ бастамалары.
 Есептер жинағы
 </td>
 <td>
@@ -33137,7 +33364,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Оқыту әдістемесі
 </td>
@@ -33150,7 +33377,7 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Дидактикалық материалдар
 </td>
@@ -33160,7 +33387,7 @@ Group
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдістемелік нұсқау
 </td>
@@ -33173,7 +33400,7 @@ Group
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Есептер жинағы
 </td>
@@ -33186,7 +33413,7 @@ Group
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқыту әдістемесі
 </td>
@@ -33199,7 +33426,7 @@ Group
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактикалық материалдар
 </td>
@@ -33209,7 +33436,7 @@ Group
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Информатика.
 Әдістемелікнұсқау
 </td>
@@ -33222,7 +33449,7 @@ Group
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқыту әдістемесі
 </td>
@@ -33237,7 +33464,7 @@ Group
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Информатика.
 Әдістемелік нұсқау
 </td>
@@ -33251,7 +33478,7 @@ Group
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Информатика.
 Мұғалім кітабы
 </td>
@@ -33265,7 +33492,7 @@ Group
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 География.
 Әдістемелік нұсқау
 </td>
@@ -33275,7 +33502,7 @@ Group
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 География.
 Әдістемелік нұсқау (электрондық нұсқа)
 </td>
@@ -33289,7 +33516,7 @@ Group
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Биология.
 Әдістемелік нұсқау
 </td>
@@ -33303,7 +33530,7 @@ Group
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Физика.
 Мұғалім кітабы
 </td>
@@ -33316,7 +33543,7 @@ Group
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Химия.
 Әдістемелік нұсқау
 </td>
@@ -33329,7 +33556,7 @@ Group
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Химия.
 Есептер жинағы
 </td>
@@ -33339,7 +33566,7 @@ Group
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Әдістемелік нұсқау
 </td>
@@ -33349,7 +33576,7 @@ Group
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Құқық негіздері.
 Әдістемелік нұсқау
 </td>
@@ -33362,11 +33589,11 @@ Group
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Әдістемелік нұсқау
 </td>
@@ -33380,7 +33607,7 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Хрестоматия
 </td>
@@ -33394,7 +33621,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Книга для учителя
 </td>
@@ -33407,7 +33634,7 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Әдістемелік нұсқау
 </td>
@@ -33420,7 +33647,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Хрестоматия
 </td>
@@ -33430,7 +33657,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Мұғалімге арналған әдістемелік құрал
 </td>
@@ -33444,7 +33671,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 Жалпы білім беретін мектептің оқытушы-ұйымдастырушыларына арналған әдістемелік нұсқаулық
 </td>
@@ -33464,7 +33691,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық бойыншаоқу-материалдық базасы.
 Жабдықтау және жетілдіру жөнінде ұсыныстар
 </td>
@@ -33478,10 +33705,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
-Алғашқы әскери және технологиялық дайындық.
-Жалпы білім беретін мектепке арналған көрнекі құралдар топтамасы
-</td>
+<td colspan="2">Алғашқы әскери және технологиялық дайындық. Жалпы білім беретін мектепке арналған көрнекі құралдар топтамасы</td>
 <td>
 В. Яковенко,
 А. Рихтер,
@@ -33492,7 +33716,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Графика және жобалау.
 Әдістемелік нұсқаулық
 </td>
@@ -33505,7 +33729,7 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Кәсіпкерлік және бизнес негіздері.
 Мұғалім кітабы
 </td>
@@ -33521,7 +33745,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Кәсіпкерлік және бизнес негіздері.
 Әдістемелік құрал
 </td>
@@ -33535,14 +33759,14 @@ Group
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Әдiстемелiк нұсқау
 </td>
@@ -33557,7 +33781,7 @@ Group
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқыту әдістемесі
 </td>
@@ -33571,7 +33795,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Мұғалім кітабы
 </td>
@@ -33585,7 +33809,7 @@ Group
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Дидактикалық материалдар
 </td>
@@ -33599,7 +33823,7 @@ Group
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Әдiстемелiк нұсқау
 </td>
@@ -33613,7 +33837,7 @@ Group
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -33627,7 +33851,7 @@ Group
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -33641,7 +33865,7 @@ Group
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқытуәдістемесі
 </td>
@@ -33655,7 +33879,7 @@ Group
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Мұғалім кітабы
 </td>
@@ -33669,7 +33893,7 @@ Group
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -33683,7 +33907,7 @@ Group
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -33697,7 +33921,7 @@ Group
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -33711,7 +33935,7 @@ Group
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Әдістемелік нұсқау+ CD
 </td>
@@ -33724,7 +33948,7 @@ Group
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Дидактикалық материалдар
 </td>
@@ -33737,7 +33961,7 @@ Group
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Есептер жинағы
 </td>
@@ -33750,7 +33974,7 @@ Group
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Электронный тренажер.
 CD-диск
@@ -33765,7 +33989,7 @@ CD-диск
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдістемелік нұсқау
 </td>
@@ -33778,7 +34002,7 @@ CD-диск
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Есептер жинағы
 </td>
@@ -33791,7 +34015,7 @@ CD-диск
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдістемелік нұсқаулық.
 10,11-сыныптар
@@ -33806,7 +34030,7 @@ CD-диск
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Жаттықтырғыш.
 Бастапқы деңгей.
@@ -33821,7 +34045,7 @@ CD-диск
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқыту әдістемесі
 </td>
@@ -33834,7 +34058,7 @@ CD-диск
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Информатика.
 Мұғалім кітабы
 </td>
@@ -33848,7 +34072,7 @@ CD-диск
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Информатика.
 Әдістемелік нұсқау
 </td>
@@ -33862,7 +34086,7 @@ CD-диск
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 География.
 Әдістемелік нұсқау.
 1,2-бөлім
@@ -33876,7 +34100,7 @@ CD-диск
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Дүниежүзі тарихы.
 Әдістемелік нұсқау
 </td>
@@ -33890,7 +34114,7 @@ CD-диск
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Құқық негіздері.
 Әдістемелік нұсқау
 1,2-бөлім
@@ -33905,7 +34129,7 @@ CD-диск
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Физика.
 Мұғалім кітабы
 </td>
@@ -33918,7 +34142,7 @@ CD-диск
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Биология.
 Оқыту әдістемесі+СД
 </td>
@@ -33932,7 +34156,7 @@ CD-диск
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Химия.
 Әдістемелік нұсқау
 </td>
@@ -33945,7 +34169,7 @@ CD-диск
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Химия.
 Есептер мен жаттығулар жинағы
 </td>
@@ -33957,11 +34181,11 @@ CD-диск
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тiлi.
 Әдiстемелiк нұсқау
 </td>
@@ -33977,7 +34201,7 @@ CD-диск
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Оқыту әдістемесі
 </td>
@@ -33992,7 +34216,7 @@ CD-диск
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Мұғалім кітабы
 </td>
@@ -34006,7 +34230,7 @@ CD-диск
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Дидактикалық
 материалдар
@@ -34021,7 +34245,7 @@ CD-диск
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -34035,7 +34259,7 @@ CD-диск
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Оқытуәдістемесі
 </td>
@@ -34049,7 +34273,7 @@ CD-диск
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Әдiстемелiк нұсқау
 </td>
@@ -34063,7 +34287,7 @@ CD-диск
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиетi.
 Хрестоматия
 </td>
@@ -34077,7 +34301,7 @@ CD-диск
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -34091,7 +34315,7 @@ CD-диск
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -34105,7 +34329,7 @@ CD-диск
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Мұғалім кітабы
 </td>
@@ -34119,7 +34343,7 @@ CD-диск
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -34133,7 +34357,7 @@ CD-диск
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Әдістемелік нұсқау+ CD
 </td>
@@ -34147,7 +34371,7 @@ CD-диск
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Дидактикалық материалдар
 </td>
@@ -34161,7 +34385,7 @@ CD-диск
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Есептер жинағы
 </td>
@@ -34175,7 +34399,7 @@ CD-диск
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Электронный тренажер.
 CD-диск
@@ -34190,7 +34414,7 @@ CD-диск
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Окыту әдістемесі
 </td>
@@ -34205,7 +34429,7 @@ CD-диск
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Алгебра және анализ бастамалары.
 Дидактикалық материалдар+ CD
 </td>
@@ -34220,7 +34444,7 @@ CD-диск
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдістемелік нұсқау
 </td>
@@ -34233,7 +34457,7 @@ CD-диск
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Есептер жинағы
 </td>
@@ -34246,7 +34470,7 @@ CD-диск
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Оқыту әдістемесі
 </td>
@@ -34261,7 +34485,7 @@ CD-диск
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактикалық материалдар+ CD
 </td>
@@ -34276,7 +34500,7 @@ CD-диск
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Әдістемелік нұсқаулық.
 10,11-сыныптар
@@ -34291,7 +34515,7 @@ CD-диск
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Информатика.
 Оқыту әдістемесі
 </td>
@@ -34304,9 +34528,9 @@ CD-диск
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Информатика.
-Мұғалімкітабы
+Мұғалім кітабы
 </td>
 <td>
 Г. Салғараева,
@@ -34318,7 +34542,7 @@ CD-диск
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Информатика.
 Әдістемелік нұсқау
 </td>
@@ -34333,7 +34557,7 @@ CD-диск
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 География.
 Әдістемелік нұсқау.
 1, 2-бөлім
@@ -34347,7 +34571,7 @@ CD-диск
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Биология.
 Әдістемелік нұсқау.
 1, 2 бөлім
@@ -34362,7 +34586,7 @@ CD-диск
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Физика.
 Мұғалім кітабы
 </td>
@@ -34375,7 +34599,7 @@ CD-диск
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Химия.
 Есептер мен жаттығулар жинағы
 </td>
@@ -34388,7 +34612,7 @@ CD-диск
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Құқықнегіздері.
 Әдістемелік нұсқау
 </td>
@@ -34401,11 +34625,11 @@ CD-диск
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Мұғалім кітабы
 </td>
@@ -34415,7 +34639,7 @@ CD-диск
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Әдістемелік нұсқау
 </td>
@@ -34429,7 +34653,7 @@ CD-диск
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Методическое руководство
 </td>
@@ -34443,7 +34667,7 @@ CD-диск
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Хрестоматия
 </td>
@@ -34453,7 +34677,7 @@ CD-диск
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Методическое руководство
 </td>
@@ -34468,7 +34692,7 @@ CD-диск
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русский язык и литература.
 Хрестоматия.
 1,2 части
@@ -34484,7 +34708,7 @@ CD-диск
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Оқыту әдістемесі
 </td>
@@ -34497,7 +34721,7 @@ CD-диск
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақстан тарихы.
 Хрестоматия
 </td>
@@ -34510,7 +34734,7 @@ CD-диск
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Өзін-өзі тану.
 Мұғалімге арналған әдістемелік құрал
 </td>
@@ -34524,7 +34748,7 @@ CD-диск
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Кәсіпкерлік және бизнес негіздері.
 Әдістемелік құрал
 </td>
@@ -34538,7 +34762,7 @@ CD-диск
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 Жалпы білім беретін мектептің оқытушы-ұйымдастырушыларына арналған әдістемелік нұсқаулық
 </td>
@@ -34551,7 +34775,7 @@ CD-диск
 </tr>
 <tr>
 <td>12.</td>
-<td>Алғашқы әскери және технологиялық дайындық. «Технологиялық дайындық» бөлімі бойынша жалпы білім беретін мектепке арналған көрнекі құралдар топтамасы. 1-бөлім. «Өмір қауіпсіздігінің негіздері» бөлімі бойынша жалпы білім беретін мектепке арналған көрнекі қүралдар топтамасы. 2-бөлім</td>
+<td colspan="2">Алғашқы әскери және технологиялық дайындық. «Технологиялық дайындық» бөлімі бойынша жалпы білім беретін мектепке арналған көрнекі құралдар топтамасы. 1-бөлім. «Өмір қауіпсіздігінің негіздері» бөлімі бойынша жалпы білім беретін мектепке арналған көрнекі қүралдар топтамасы. 2-бөлім</td>
 <td>
 В. Яковенко,
 А. Рихтер
@@ -34561,7 +34785,7 @@ CD-диск
 </tr>
 <tr>
 <td>13.</td>
-<td>Алғашқы әскери және технологиялық дайындық. «Технологиялық дайындық» бөлімі бойынша жеке және топтық жұмысқа арналған карточкалар жиынтығы</td>
+<td colspan="2">Алғашқы әскери және технологиялық дайындық. «Технологиялық дайындық» бөлімі бойынша жеке және топтық жұмысқа арналған карточкалар жиынтығы</td>
 <td>
 А. Рихтер,
 В. Яковенко
@@ -34571,7 +34795,7 @@ CD-диск
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 Жұмыс дәптері
 </td>
@@ -34584,7 +34808,7 @@ CD-диск
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 10, 11-сынып оқушыларының білімін бақылау жұмыстарын ұйымдастыру және өткізу бойынша материалдар жинағы
 </td>
@@ -34599,7 +34823,7 @@ CD-диск
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық.
 Әдістемелік нұсқау + қосымша + диск+ көрнекі құралдар
 </td>
@@ -34614,7 +34838,7 @@ CD-диск
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Графика және жобалау.
 Әдістемелік нұсқаулық
 </td>
@@ -34627,38 +34851,35 @@ CD-диск
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">5-11 сыныптар</td>
+<td colspan="6">5-11 сыныптар</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>«Өз жағыңда бол» өзін-өзі дұрыс бағалау бойынша психологиялық жаттығулар</td>
+<td colspan="2">«Өз жағыңда бол» өзін-өзі дұрыс бағалау бойынша психологиялық жаттығулар</td>
 <td>Ақерке Махмуд</td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>19.</td>
-<td>Қазақстан тарихы: Ежелгі заман. Орта ғасырлар. Жаңа заман. Қазіргі заман. Жалпы білім беретін мектепке арналған карталар топтамасы.</td>
+<td colspan="2">Қазақстан тарихы: Ежелгі заман. Орта ғасырлар. Жаңа заман. Қазіргі заман. Жалпы білім беретін мектепке арналған карталар топтамасы.</td>
 <td>Ф. Балсарин</td>
 <td>2020</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
 <td>20.</td>
-<td>Дүниежүзі тарихы: Ежелгі дүние. Орта ғасырлар. Жаңа заман. Қазіргі заман. Жалпы білім беретін мектепке арналған карталар топтамасы.</td>
-<td>
-Ш. Бектасов,
-А. Көшкімбаев
-</td>
+<td colspan="2">Дүниежүзі тарихы: Ежелгі дүние. Орта ғасырлар. Жаңа заман. Қазіргі заман. Жалпы білім беретін мектепке арналған карталар топтамасы.</td>
+<td>Ш. Бектасов, А. Көшкімбаев</td>
 <td>2020</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">7-11 сыныптар</td>
+<td colspan="6">7-11 сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Дүниежүзі және әлемнің жеке бөліктерінің, Қазақстанның географиялық карталары.
 1, 2-бөлім
 </td>
@@ -34670,528 +34891,543 @@ CD-диск
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">Цифрлық басылымдар</td>
+<td colspan="6">Цифрлық басылымдар</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Алгебра. Жиынтық бағалауға арналған электрондық дәптер-конструктор. 7-сынып (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-М. Ефимик,
+М.Ефимик,
 О. Калинина,
-О. Шаргалина,
-Ж. Ергалиев
+О.Шаргалина,
+Ж.Ергалиев
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Геометрия. Жиынтық бағалауға арналған электрондық дәптер-конструктор. 7-сынып
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-М. Ефимик,
+М.Ефимик,
 О. Калинина,
-О. Шаргалина,
-Ж. Ергалиев
+О.Шаргалина,
+Ж.Ергалиев
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Геометрия. Электрондық дәптер. 7-сынып
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-О. Колубекова,
-С. Алибеков,
-Ж. Ергалиев
+О.Колубекова,
+С.Алибеков,
+Ж.Ергалиев
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Геометрия. Жиынтық бағалауға арналған электрондық дәптер-конструктор.
 8-сынып
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-Е. Нипрук,
-О. Калинина,
-Ж. Ергалиев
+Е.Нипрук,
+О.Калинина,
+Ж.Ергалиев
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Алгебра. Жиынтық бағалауға арналған электрондық дәптер-конструктор.
 9-сынып
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-Д. Гудовщикова,
-Е. Бащук,
+Д.Гудовщикова,
+Е.Бащук,
 С. Ермакова,
-А. Абдрашитова,
-Е. Буякова,
-О. Калинина,
-Ж. Ергалиев
+А.Абдрашитова,
+Е.Буякова,
+О.Калинина,
+Ж.Ергалиев
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Алгебра. Электрондық дәптер. 9-сынып
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-О. Колубекова,
-С. Алибеков,
-Ж. Ергалиев
+О.Колубекова,
+С.Алибеков,
+Ж.Ергалиев
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Геометрия. Жиынтық бағалауға арналған электрондық дәптер-конструктор. 9-сынып
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-Д. Гудовщикова,
-Е. Бащук,
-Ю. Ким,
-О. Калинина,
-Ж. Ергалиев
+Д.Гудовщикова,
+Е.Бащук,
+Ю.Ким,
+О.Калинина,
+Ж.Ергалиев
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық. Оқушылардың білімін бақылау жұмыстарын ұйымдастыру және өткізу бойынша материалдар. Электрондық дәптер. 10-сынып
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
 В. Яковенко,
-В. Букин,
-А. Рихтер,
-Д. Зайко
+В.Букин,
+А.Рихтер,
+Д.Зайко
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
-Геометрия. ЖМБ және ҚГБ бойынша электрондық дәптер. 11-сынып
+<td colspan="2">
+Геометрия. ЖМБжәнеҚГБбойыншаэлектрондықдәптер. 11-сынып
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-О. Колубекова,
-С. Алибеков,
-Ж. Ергалиев
+О.Колубекова,
+С.Алибеков,
+Ж.Ергалиев
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Алғашқы әскери және технологиялық дайындық. Оқушылардың білімін бақылау жұмыстарын ұйымдастыру және өткізу бойынша материалдар. Электрондық дәптер. 11-сынып
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-В. Яковенко,
-В. Букин,
-А. Рихтер,
-Д. Зайко
+В.Яковенко,
+В.Букин,
+А.Рихтер,
+Д.Зайко
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">Өлкетану</td>
+<td colspan="6">Өлкетану</td>
 </tr>
 <tr>
-<td colspan="5">5-7 сыныптар</td>
+<td colspan="6">5-7 сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Бұхар жырау– «Халық бірлігінің жаршысы» (CD)</td>
+<td colspan="2">Бұхар жырау– «Халық бірлігінің жаршысы»(CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Мұса Шорманұлы – «Еуразиялық деңгейдегі тұлға» (CD)</td>
+<td colspan="2">Мұса Шорманұлы – «Еуразиялық деңгейдегі тұлға» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Мәшһүр Жүсіп Көпейұлы – «Қасиет иесі» (CD)</td>
+<td colspan="2">
+Мәшһүр Жүсіп Көпейұлы – «Қасиет иесі»
+(CD)
+</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Естай Беркімбайұлы – «Әнмен өрілген ғұмыр» (CD)</td>
+<td colspan="2">Естай Беркімбайұлы – «Әнмен өрілген ғұмыр» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Сұлтанмахмұт Торайғыров – «Тағдырмен тартыс» (CD)</td>
+<td colspan="2">Сұлтанмахмұт Торайғыров – «Тағдырмен тартыс» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Қаныш Сәтбаев – «Планетарлық деңгейдегі тұлға» (CD)</td>
+<td colspan="2">Қаныш Сәтбаев – «Планетарлық деңгейдегі тұлға» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Рафиқа Нұртазина – «Өмір сабақтары» (CD)</td>
+<td colspan="2">Рафиқа Нұртазина – «Өмір сабақтары» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Жаяу Мұса – «Ақын арманы» (CD)</td>
+<td colspan="2">Жаяу Мұса – «Ақын арманы» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қосым Пішембаев – «Тастың тілін түсінген» (CD)</td>
+<td colspan="2">Қосым Пішембаев – «Тастың тілін түсінген» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Әлкей Марғұлан – «Заңғар энциклопедист-ғалым» (CD)</td>
+<td colspan="2">Әлкей Марғұлан – «Заңғар энциклопедист-ғалым» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Шапық Шөкин – «Ғылым қайнарындағы өмір» (CD)</td>
+<td colspan="2">Шапық Шөкин – «Ғылым қайнарындағы өмір» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Малайсары батыр - «Ұлы дала батыры» (CD)</td>
+<td colspan="2">Малайсары батыр - «Ұлы дала батыры»(CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Олжабай батыр – «Он сан Орта жүздің ұраны» (CD)</td>
+<td colspan="2">Олжабай батыр – «Он сан Орта жүздің ұраны»(CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Жасыбай батыр - «Аңызға айналған ғұмыр» (CD)</td>
+<td colspan="2">
+Жасыбай батыр - «Аңызға айналған ғұмыр»
+(CD)
+</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Баян батыр - «Ұлы дала қолбасшысы» (CD)</td>
+<td colspan="2">Баян батыр - «Ұлы дала қолбасшысы» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Әбікей Сәтбаев – «Ағартушы-педагог» (CD)</td>
+<td colspan="2">Әбікей Сәтбаев – «Ағартушы-педагог»(CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Сұлтанбет сұлтан - «Арпалысқа толы ғұмыр» (CD)</td>
+<td colspan="2">Сұлтанбетсұлтан - «Арпалысқа толы ғұмыр» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>Әбікен Бектұров – «Аңызға айналған академик» (CD)</td>
+<td colspan="2">Әбікен Бектұров – «Аңызға айналған академик» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>19.</td>
-<td>Шәкен Айманов – «Қазақ киносының аңызы» (CD)</td>
+<td colspan="2">Шәкен Айманов – «Қазақ киносының аңызы» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>20.</td>
-<td>Григорий Потанин – «Қазақ мұңлығы» (CD)</td>
+<td colspan="2">Григорий Потанин – «Қазақ мұңлығы»(CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>21.</td>
-<td>Ермұхан Бекмаханов – «Тұлпардың ізі» (CD)</td>
+<td colspan="2">Ермұхан Бекмаханов – «Тұлпардың ізі» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>22.</td>
-<td>Павел Васильев – «Үзілген тағдыр» (CD)</td>
+<td colspan="2">Павел Васильев – «Үзілген тағдыр» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>23.</td>
-<td>Кемел Ақышев – «Алтын адам» (CD)</td>
+<td colspan="2">Кемел Ақышев – «Алтын адам» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>24.</td>
-<td>Дмитрий Багаев – «Өңірдің фотошежірешісі» немесе «Объективтегі әлем» (CD)</td>
+<td colspan="2">Дмитрий Багаев – «Өңірдің фотошежірешісі» немесе «Объективтегі әлем» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>25.</td>
-<td>Ғабдыл-Уахит Хазірет: «Шипагер» (CD)</td>
+<td colspan="2">
+Ғабдыл-Уахит Хазірет: «Шипагер»
+(CD)
+</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>26.</td>
-<td>Қалижан Бекхожин: «Ақиық ақын» (CD)</td>
+<td colspan="2">Қалижан Бекхожин: «Ақиық ақын» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>27.</td>
-<td>Иса Байзақов: «Қазақтың дүлдүл ақыны» (CD)</td>
+<td colspan="2">Иса Байзақов: «Қазақтың дүлдүл ақыны»(CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>28.</td>
-<td>Жүсіпбек Аймауытов: «Аймаңдай жазушы» (CD)</td>
+<td colspan="2">
+Жүсіпбек Аймауытов: «Аймаңдай жазушы»
+(CD)
+</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>29.</td>
-<td>Шоң би Едігеұлы: «Қарадан шығып хан болған» (CD)</td>
+<td colspan="2">Шоңби Едігеұлы: «Қарадан шығып хан болған» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>30.</td>
-<td>Шорман би Күшікұлы: «Әділдіктің жаршысы» (CD)</td>
+<td colspan="2">Шорман би Күшікұлы: «Әділдіктің жаршысы» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>31.</td>
-<td>Сәбит Дөнентаев: «Бозторғай ақын» (CD)</td>
+<td colspan="2">Сәбит Дөнентаев: «Бозторғай ақын» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>32.</td>
-<td>Мұхтар Саматов: «Ұлт қайраткері» (CD)</td>
+<td colspan="2">Мұхтар Саматов: «Ұлт қайраткері» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>33.</td>
-<td>Рүстембек Омаров: «Дәулескер күйші» (CD)</td>
+<td colspan="2">Рүстембек Омаров: «Дәулескер күйші» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>34.</td>
-<td>Мұсахан Қанапияұлы: «Тәлімгер» (CD)</td>
+<td colspan="2">Мұсахан Қанапияұлы: «Тәлімгер» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>35.</td>
-<td>Жұмат Шанин: «Театр тарланы» (CD)</td>
+<td colspan="2">Жұмат Шанин: «Театр тарланы» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>36.</td>
-<td>Всеволод Иванов: «Өмір өткелдері» (CD)</td>
+<td colspan="2">Всеволод Иванов: «Өмір өткелдері» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>37.</td>
-<td>Иманжүсіп Құтпанов: «Ерлік пен намыс жаршысы» (CD)</td>
+<td colspan="2">Иманжүсіп Құтпанов: «Ерлік пен намыс жаршысы» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>38.</td>
-<td>Қанаш Қамзин: «Ардақты жауынгер» (CD)</td>
+<td colspan="2">Қанаш Қамзин: «Ардақты жауынгер» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>39.</td>
-<td>Зейін Шашкин: «Қаламгер-дәрігер» (CD)</td>
+<td colspan="2">Зейін Шашкин: «Қаламгер-дәрігер» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>40.</td>
-<td>Жақан Ержанов: «Ғасыр тудырған ғұлама» CD)</td>
+<td colspan="2">
+Жақан Ержанов: «Ғасыр тудырған ғұлама»
+CD)
+</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>41.</td>
-<td>Зейтін Ақышев: «Педагог-жазушы» (CD)</td>
+<td colspan="2">Зейтін Ақышев: «Педагог-жазушы» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>42.</td>
-<td>Хамза Жұматов: «Ғалымның ұлы мұрасы» (CD)</td>
+<td colspan="2">Хамза Жұматов: «Ғалымның ұлы мұрасы» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>43.</td>
-<td>Аманжол Шәмкенов: «Қалдырған ізің мәңгілік» (CD)</td>
+<td colspan="2">Аманжол Шәмкенов: «Қалдырған ізің мәңгілік» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>44.</td>
-<td>Мұзафар Әлімбаев: «Өлеңім сыйым - халқыма» (CD)</td>
+<td colspan="2">Мұзафар Әлімбаев: «Өлеңім сыйым - халқыма» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>45.</td>
-<td>Әбілқас Сағынов: «Академик асулары» (CD)</td>
+<td colspan="2">Әбілқас Сағынов: «Академик асулары» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>46.</td>
-<td>Жабайхан Әбділдин: «Әлемдік философия биігінде» (CD)</td>
+<td colspan="2">Жабайхан Әбділдин: «Әлемдік философия биігінде» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
 <td>47.</td>
-<td>Олжас Сүлейменов: «Әлемдік тұлға» (CD)</td>
+<td colspan="2">Олжас Сүлейменов: «Әлемдік тұлға» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
-<td colspan="5">оқыту орыс тілінде</td>
+<td colspan="6">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Букварь. Методическое руководство</td>
+<td colspan="2">Букварь. Методическое руководство</td>
 <td>
 Аймагамбетова М.,
 Богатырева Е.,
@@ -35204,7 +35440,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>Букварь. Пропись №1, 2</td>
+<td colspan="2">Букварь. Пропись №1, 2</td>
 <td>
 Аймагамбетова М.,
 Богатырева Е.,
@@ -35217,18 +35453,29 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>Қазақ тілі (оқыту қазақ тілінде емес мектептер үшін) Әдістемелік нұсқау</td>
+<td colspan="2">Обучение грамоте. Рабочая тетрадь № 1, 2</td>
 <td>
-А. Хазимова,
-Б. Салыхова,
-М. Бейсебекова
+Аймагамбетова М.М.,
+Богатырева Е. В., Бучина Р. А.,
+Регель Н. В., Труханова О. И.
 </td>
 <td>2021</td>
-<td>Алматыкітап</td>
+<td>Алматыкітап баспасы</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Қазақ тілі (оқыту қазақ тілінде емес мектептер үшін) №1, 2, 3 жұмыс дәптері</td>
+<td colspan="2">Обучение грамоте. Методическое руководство для учителя</td>
+<td>
+Аймагамбетова М.М.,
+Богатырева Е. В., Бучина Р. А.,
+Регель Н. В., Труханова О. И.
+</td>
+<td>2021</td>
+<td>Алматыкітап баспасы</td>
+</tr>
+<tr>
+<td>5.</td>
+<td colspan="2">Қазақ тілі (оқыту Қазақ тілінде емес мектептер үшін) Әдістемелік нұсқау</td>
 <td>
 А. Хазимова,
 Б. Салыхова,
@@ -35238,8 +35485,19 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Математика. Рабочая тетрадь №1, 2, 3.</td>
+<td>6.</td>
+<td colspan="2">Қазақ тілі ( оқыту Қазақ тілінде емес мектептер үшін ) №1, 2, 3 жұмыс дәптері</td>
+<td>
+А. Хазимова,
+Б. Салыхова,
+М. Бейсебекова
+</td>
+<td>2021</td>
+<td>Алматыкітап</td>
+</tr>
+<tr>
+<td>7.</td>
+<td colspan="2">Математика. Рабочая тетрадь №1, 2, 3.</td>
 <td>
 Холодкова В.,
 Бакка И.
@@ -35248,35 +35506,31 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Математика. Методическое руководство 1, 2 часть</td>
+<td>8.</td>
+<td colspan="2">Математика. Методическое руководство 1, 2 часть</td>
 <td>
 Акпаева А.,
-Лебедева Л.,
-Мынжасарова М.,
-Лихобабенко Т.
+Лебедева Л., Мынжасарова М., Лихобабенко Т.
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>
+<td>9.</td>
+<td colspan="2">
 Математика. Рабочая тетрадь
-1, 2, 3, 4
+1, 2, 3,4
 </td>
 <td>
 Акпаева А.
-Лебедева Л.,
-Мынжасарова М.,
-Лихобабенко Т.
+Лебедева Л., Мынжасарова М., Лихобабенко Т.
 </td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>
+<td>10.</td>
+<td colspan="2">
 Цифровая грамотность.
 Методическое руководство
 </td>
@@ -35289,38 +35543,22 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Естествознание. Методическое руководство</td>
-<td>
-Кучербаева С.,
-Темникова И.,
-</td>
-<td>2021</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Естествознание. Тетрадь ученика</td>
-<td>
-Кучербаева С.,
-Темникова И.
-</td>
-<td>2021</td>
-<td>Атамұра</td>
-</tr>
-<tr>
 <td>11.</td>
-<td>Познание мира. Методическое руководство+электронное приложение</td>
-<td>
-Турмашева Б.,
-Салиш С.
-</td>
+<td colspan="2">Естествознание. Методическое руководство</td>
+<td>Кучербаева С., Темникова И.,</td>
 <td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Познание мира. Тетрадь ученика</td>
+<td colspan="2">Естествознание. Тетрадь ученика</td>
+<td>Кучербаева С., Темникова И.</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>13.</td>
+<td colspan="2">Познание мира. Методическое руководство+электронное приложение</td>
 <td>
 Турмашева Б.,
 Салиш С.
@@ -35329,8 +35567,18 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>13.</td>
-<td>Самопознание. Методическое руководство для учителя</td>
+<td>14.</td>
+<td colspan="2">Познание мира. Тетрадь ученика</td>
+<td>
+Турмашева Б.,
+Салиш С.
+</td>
+<td>2021</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>15.</td>
+<td colspan="2">Самопознание. Методическое руководство для учителя</td>
 <td>
 Мукажанова Р.,
 Омарова Г.,
@@ -35344,8 +35592,8 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Бөбек</td>
 </tr>
 <tr>
-<td>14.</td>
-<td>Самопознание. Тетрадь ученика</td>
+<td>16.</td>
+<td colspan="2">Самопознание. Тетрадь ученика</td>
 <td>
 Мукажанова Р.,
 Омарова Г.,
@@ -35357,32 +35605,32 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Бөбек</td>
 </tr>
 <tr>
-<td>15.</td>
-<td>Музыка. Руководство для учителя</td>
-<td>
-Кайдарова А.
-Есбатырова И.
-Даниярова А.
-Оспанова А.
-</td>
-<td>2021</td>
-<td>Назарбаев Зияткерлік мектептері</td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Музыка. Рабочая тетрадь</td>
-<td>
-Кайдарова А.
-Есбатырова И.
-Даниярова А.
-Оспанова А.
-</td>
-<td>2021</td>
-<td>Назарбаев Зияткерлік мектептері</td>
-</tr>
-<tr>
 <td>17.</td>
-<td>Художественный труд. Методическое руководство</td>
+<td colspan="2">Музыка. Руководство для учителя</td>
+<td>
+Кайдарова А.
+Есбатырова И.
+Даниярова А.
+Оспанова А.
+</td>
+<td>2021</td>
+<td>Назарбаев Зияткерлік мектептері</td>
+</tr>
+<tr>
+<td>18.</td>
+<td colspan="2">Музыка. Рабочая тетрадь</td>
+<td>
+Кайдарова А.
+Есбатырова И.
+Даниярова А.
+Оспанова А.
+</td>
+<td>2021</td>
+<td>Назарбаев Зияткерлік мектептері</td>
+</tr>
+<tr>
+<td>19.</td>
+<td colspan="2">Художественный труд. Методическое руководство</td>
 <td>
 Ермилова Е.,
 Попкова С.,
@@ -35392,8 +35640,8 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>18.</td>
-<td>
+<td>20.</td>
+<td colspan="2">
 Художественный труд.
 Рабочая тетрадь
 </td>
@@ -35406,11 +35654,11 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство.
 Часть 1,2 +CD
@@ -35427,7 +35675,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь № 1, 2, 3, 4
 </td>
@@ -35443,7 +35691,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Методическое руководство.
 Часть 1, 2, 3 +CD
@@ -35460,7 +35708,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Рабочая тетрадь № 1, 2, 3
 </td>
@@ -35476,7 +35724,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі. Балапан.
 Мұғалім кітабы
 </td>
@@ -35492,7 +35740,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ тілі. Балапан.
 № 1, 2, 3, 4 жазу дәптерлері
 </td>
@@ -35505,7 +35753,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ тілі. Балапан.
 Дидактикалық материал
 </td>
@@ -35522,7 +35770,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ тілі. Балапан.
 Лексикалық минимум
 </td>
@@ -35539,7 +35787,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое руководство+ CD
 </td>
@@ -35553,7 +35801,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь № 1, 2, 3, 4
 </td>
@@ -35567,7 +35815,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство + CD
 </td>
@@ -35583,7 +35831,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Научный дневничок.
 Рабочая тетрадь № 1, 2
@@ -35601,7 +35849,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Познание мира.
 Методическое руководство
 </td>
@@ -35615,7 +35863,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Познание мира.
 Тетрадь ученика
 </td>
@@ -35629,7 +35877,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Методическое пособие для учителя
 </td>
@@ -35647,7 +35895,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Тетрадь ученика
 </td>
@@ -35665,7 +35913,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Методическое руководство
 </td>
@@ -35678,7 +35926,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Рабочая тетрадь № 1, 2
 </td>
@@ -35688,7 +35936,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Музыка.
 Методическое руководство
 </td>
@@ -35701,7 +35949,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия.
 </td>
@@ -35715,7 +35963,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Музыка.
 Рабочая тетрадь
 </td>
@@ -35727,11 +35975,11 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство.
 1, 2 часть.
@@ -35748,7 +35996,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 № 1, 2 части
@@ -35764,7 +36012,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Методическое руководство.
 1, 2 часть.
@@ -35781,7 +36029,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Рабочая тетрадь
 № 1, 2, 3, 4
@@ -35797,7 +36045,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Мұғалім кітабы
 </td>
@@ -35813,7 +36061,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Дидактикалық материалдар
 </td>
@@ -35829,7 +36077,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Лексикалық минимум
 </td>
@@ -35845,9 +36093,9 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-№ 1, № 2 жазудәптері
+№ 1, № 2 жазу дәптері
 </td>
 <td>
 Ф. Оразбаева,
@@ -35861,8 +36109,8 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
-Қазақ тілі.
+<td colspan="2">
+Қазақтілі.
 Жиынтық бағалау дәптері
 </td>
 <td>
@@ -35877,7 +36125,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое руководство + СD.
 Электронный вариант
@@ -35893,7 +36141,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь № 1, 2, 3, 4
 </td>
@@ -35906,17 +36154,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>Цифровая грамотность. Методическое руководство</td>
-<td>
-Кадиркулов Р.,
-Рыскулбекова А.
-</td>
+<td colspan="2">Цифровая грамотность. Методическое руководство</td>
+<td>Кадиркулов Р., Рыскулбекова А.</td>
 <td>2021</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство
 </td>
@@ -35929,7 +36174,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Тетрадь ученика № 1, 2
 </td>
@@ -35942,7 +36187,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Познание мира.
 Методическое руководство + CD
 </td>
@@ -35956,7 +36201,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Познание мира.
 Тетрадь ученика
 </td>
@@ -35970,7 +36215,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Музыка.
 Методическое руководство
 </td>
@@ -35983,7 +36228,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Музыка.
 Фонохрестоматия
 (Диск 1, 2)
@@ -35998,7 +36243,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Музыка.
 Рабочая тетрадь № 1, 2
 </td>
@@ -36011,7 +36256,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия
 </td>
@@ -36024,7 +36269,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Методическое руководство +СD
 </td>
@@ -36034,14 +36279,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>22.</td>
-<td>Художественный труд. Рабочая тетрадь № 1, 2</td>
+<td colspan="2">Художественный труд. Рабочая тетрадь № 1, 2</td>
 <td>Раупова Н.</td>
 <td>2018</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Методическое пособие для учителя
 </td>
@@ -36055,7 +36300,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Тетрадь ученика
 </td>
@@ -36068,11 +36313,11 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 1, 2 часть
@@ -36090,7 +36335,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык
 Рабочая тетрадь № 1, 2
 </td>
@@ -36105,7 +36350,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Методическое руководство
 1, 2 часть
@@ -36113,8 +36358,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
 Регель Н.,
-Труханова О.,
-Богатырева Е.,
+Труханова О., Богатырева Е.,
 Бучина Р.,
 </td>
 <td>2019</td>
@@ -36122,7 +36366,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Литературное чтение.
 Рабочая тетрадь № 1, 2, 3, 4
 </td>
@@ -36137,10 +36381,10 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік нұсқау
-(электрондық нұсқа)
+(электрондық нұсқа))
 </td>
 <td>
 Н.Дәулеткереева,
@@ -36153,7 +36397,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 № 1, 2 жұмыс дәптері
 </td>
@@ -36163,7 +36407,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое руководство
 1, 2 часть
@@ -36180,7 +36424,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочие тетради№ 1, 2, 3, 4
 </td>
@@ -36193,7 +36437,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Информационно-коммуникационные технологии.
 Книга для учителя
 </td>
@@ -36207,7 +36451,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Информационно-коммуникационные технологии.
 Рабочая тетрадь
 </td>
@@ -36221,7 +36465,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Руководство для учителя
 </td>
@@ -36237,7 +36481,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Рабочая тетрадь.
 1, 2 части
@@ -36254,7 +36498,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Познание мира.
 Тетрадь ученика
 </td>
@@ -36268,7 +36512,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Познание мира.
 Методическое руководство+СД
 </td>
@@ -36282,7 +36526,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Методическое пособие для учителя
 </td>
@@ -36296,7 +36540,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Тетрадь ученика
 </td>
@@ -36310,7 +36554,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Музыка.
 Рабочая тетрадь
 </td>
@@ -36323,7 +36567,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия
 </td>
@@ -36336,7 +36580,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Музыка.
 Методическое руководство + фонохрестоматия
 (электронная версия)
@@ -36347,7 +36591,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Рабочая тетрадь № 1, 2
 </td>
@@ -36357,7 +36601,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Методическое руководство+СД
 </td>
@@ -36366,11 +36610,11 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Бәйшешек.
 Мұғалім кітабы
@@ -36387,7 +36631,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Бәйшешек.
 Дидактикалық материал
@@ -36404,7 +36648,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Бәйшешек.
 Лексикалық минимум
@@ -36421,7 +36665,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -36435,7 +36679,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -36450,7 +36694,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Руководство для учителя
 </td>
@@ -36468,7 +36712,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Руководство для учителя + CD
 </td>
@@ -36486,7 +36730,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -36499,7 +36743,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -36514,7 +36758,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Дидактический материал.
 </td>
@@ -36529,7 +36773,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия
 </td>
@@ -36544,7 +36788,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое руководство
 </td>
@@ -36557,7 +36801,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Математика.
 Логические задачи
 </td>
@@ -36567,7 +36811,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое руководство
 </td>
@@ -36580,7 +36824,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Математика.
 Сборник задач
 </td>
@@ -36594,7 +36838,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство+ СД
 </td>
@@ -36609,7 +36853,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -36623,7 +36867,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Информатика.
 Книга для учителя
 </td>
@@ -36637,7 +36881,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие.
 Часть 1, 2
@@ -36652,7 +36896,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Руководство для учителя
 </td>
@@ -36667,7 +36911,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство
 </td>
@@ -36680,7 +36924,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>22.</td>
-<td>Сборник практических заданий по естествознанию</td>
+<td colspan="2">Сборник практических заданий по естествознанию</td>
 <td>
 Абдиманапов Б.,
 Абулгазиев А.
@@ -36690,7 +36934,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Атлас с комплектом контурных карт
 </td>
@@ -36703,7 +36947,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Методическое руководство.
 </td>
@@ -36717,7 +36961,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Дидактические материалы
 </td>
@@ -36731,7 +36975,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Хрестоматия
 </td>
@@ -36745,7 +36989,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Руководство для учителя
 </td>
@@ -36761,7 +37005,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>28.</td>
-<td>Атлас. История древнего Казахстана.</td>
+<td colspan="2">Атлас. История древнего Казахстана.</td>
 <td>
 Кругликова С.
 Пак О.
@@ -36771,7 +37015,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Руководство для учителя
 </td>
@@ -36787,7 +37031,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>30.</td>
-<td>Всемирная история. Методическое руководство</td>
+<td colspan="2">Всемирная история. Методическое руководство</td>
 <td>
 Толбаева Л.,
 Момынтаева Л.,
@@ -36798,14 +37042,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>31.</td>
-<td>Атлас. История древнего мира.</td>
+<td colspan="2">Атлас. История древнего мира.</td>
 <td>Кругликова С.</td>
 <td>2021</td>
 <td>8&amp;8</td>
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Методическое пособие для учителя
 </td>
@@ -36820,7 +37064,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Музыка.
 Методическое руководство
 </td>
@@ -36834,7 +37078,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия
 </td>
@@ -36850,7 +37094,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 Музыка.
 Фонохрестоматия
 </td>
@@ -36865,7 +37109,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 Художественный труд
 (вариант для мальчиков).
 Методическое руководство +CD
@@ -36882,7 +37126,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Художественный труд
 (вариант для девочек)
 Методическое руководство +CD
@@ -36897,11 +37141,11 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Методическое руководство
 </td>
@@ -36915,8 +37159,8 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Қазақ тілі мен әдебиеті:
+<td colspan="2">
+Қазақ тілі мен әдебиеті.
 Бәйшешек.
 Мұғалім кітабы
 </td>
@@ -36932,7 +37176,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті: Бәйшешек.
 Дидактикалық материал
 </td>
@@ -36948,8 +37192,8 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
-Қазақ тілі мен әдебиеті:
+<td colspan="2">
+Қазақ тілі мен әдебиеті :
 Бәйшешек.
 Лексикалық минимум
 </td>
@@ -36965,7 +37209,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -36981,7 +37225,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Книга для учителя
 </td>
@@ -36995,7 +37239,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -37008,7 +37252,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия
 </td>
@@ -37021,7 +37265,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -37034,7 +37278,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое пособие.
 Электронный вариант
@@ -37050,7 +37294,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое руководство
 </td>
@@ -37063,7 +37307,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Математика.
 Сборник задач для подготовки к олимпиадам
 (5-6-классы)
@@ -37078,7 +37322,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое руководство +СD
 </td>
@@ -37091,7 +37335,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Математика.
 Дидактические материалы
 </td>
@@ -37105,7 +37349,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Математика.
 Сборник задач
 </td>
@@ -37119,7 +37363,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство+ СД
 </td>
@@ -37134,13 +37378,12 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
 <td>
-Кадиркулов Р.,
-Беристемова Н.,
+Кадиркулов Р., Беристемова Н.,
 Гаипбаева У.
 </td>
 <td>2020</td>
@@ -37148,7 +37391,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Информатика.
 Книга для учителя
 </td>
@@ -37162,7 +37405,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Методическое руководство
 </td>
@@ -37177,7 +37420,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Дидактические материалы
 </td>
@@ -37191,14 +37434,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>21.</td>
-<td>Атлас. История Казахстана в период средневековья.</td>
+<td colspan="2">Атлас. История Казахстана в период средневековья.</td>
 <td>Окунева Т.</td>
 <td>2021</td>
 <td>8&amp;8</td>
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Методическое руководство
 </td>
@@ -37211,7 +37454,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Хрестоматия
 </td>
@@ -37225,7 +37468,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Методическое руководство
 </td>
@@ -37238,7 +37481,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Всемирная история
 Хрестоматия
 </td>
@@ -37252,7 +37495,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство
 </td>
@@ -37265,7 +37508,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое руководство
 </td>
@@ -37280,7 +37523,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие.
 Электронный вариант
@@ -37297,7 +37540,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Методическое пособие для учителя
 </td>
@@ -37311,7 +37554,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Методическое руководство для учителей
 (вариант для девочек)
@@ -37327,7 +37570,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Комплект наглядных пособий
 (вариант для девочек)
@@ -37338,7 +37581,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Методическое руководство для учителей
 (вариант для мальчиков)
@@ -37354,7 +37597,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Музыка.
 Нотная хрестоматия
 </td>
@@ -37369,10 +37612,10 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
-<td>1.</td>
+<td colspan="2">1.</td>
 <td>
 Қазақ тілі мен әдебиеті.
 Бәйшешек.
@@ -37389,7 +37632,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td>2.</td>
+<td colspan="2">2.</td>
 <td>
 Қазақ тілі мен әдебиеті.
 Бәйшешек.
@@ -37406,9 +37649,9 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td>3.</td>
+<td colspan="2">3.</td>
 <td>
-Қазақ тілі мен әдебиеті.
+Қазақ тілі мен әдебиеті..
 Бәйшешек.
 Лексикалық минимум
 </td>
@@ -37423,7 +37666,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td>4.</td>
+<td colspan="2">4.</td>
 <td>
 Русский язык.
 Методическое руководство
@@ -37437,7 +37680,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>5.</td>
+<td colspan="2">5.</td>
 <td>
 Русский язык.
 Методическое руководство
@@ -37452,7 +37695,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>6.</td>
+<td colspan="2">6.</td>
 <td>
 Русская литература.
 Методическое руководство
@@ -37465,7 +37708,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>7.</td>
+<td colspan="2">7.</td>
 <td>
 Русская литература.
 Методическое руководство
@@ -37479,7 +37722,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>8.</td>
+<td colspan="2">8.</td>
 <td>
 Русская литература.
 Хрестоматия
@@ -37492,7 +37735,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>9.</td>
+<td colspan="2">9.</td>
 <td>
 Алгебра.
 Методическое руководство
@@ -37505,7 +37748,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>10.</td>
+<td colspan="2">10.</td>
 <td>
 Алгебра.
 Дидактические материалы
@@ -37515,7 +37758,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>11.</td>
+<td colspan="2">11.</td>
 <td>
 Геометрия.
 Методическое руководство
@@ -37528,7 +37771,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>12.</td>
+<td colspan="2">12.</td>
 <td>
 Геометрия.
 Дидактические материалы
@@ -37538,7 +37781,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>13.</td>
+<td colspan="2">13.</td>
 <td>
 Алгебра.
 Методическое руководство
@@ -37552,7 +37795,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>14.</td>
+<td colspan="2">14.</td>
 <td>
 Алгебра.
 Сборник задач.
@@ -37565,7 +37808,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>15.</td>
+<td colspan="2">15.</td>
 <td>
 Алгебра.
 Дидактические материалы.
@@ -37579,7 +37822,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>16.</td>
+<td colspan="2">16.</td>
 <td>
 Геометрия.
 Методическое руководство
@@ -37592,7 +37835,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>17.</td>
+<td colspan="2">17.</td>
 <td>
 Геометрия.
 Сборник задач
@@ -37605,7 +37848,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>18.</td>
+<td colspan="2">18.</td>
 <td>
 Геометрия.
 Дидактические материалы
@@ -37618,7 +37861,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>19.</td>
+<td colspan="2">19.</td>
 <td>
 Информатика.
 Методическое руководство
@@ -37631,7 +37874,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>20.</td>
+<td colspan="2">20.</td>
 <td>Информатика. Методическое руководство для учителя.</td>
 <td>
 Салғараева Г.,
@@ -37642,7 +37885,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td>21.</td>
+<td colspan="2">21.</td>
 <td>Информатика. Методическое руководство+ СD</td>
 <td>
 Мухамбетжанова С.,
@@ -37653,7 +37896,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>22.</td>
+<td colspan="2">22.</td>
 <td>
 География.
 Методическое руководство
@@ -37666,7 +37909,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>23.</td>
+<td colspan="2">23.</td>
 <td>
 География.
 Атлас
@@ -37676,7 +37919,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>24.</td>
+<td colspan="2">24.</td>
 <td>
 География.
 Методическое руководство
@@ -37690,7 +37933,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>25.</td>
+<td colspan="2">25.</td>
 <td>
 География.
 Дидактические материалы
@@ -37704,7 +37947,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>26.</td>
+<td colspan="2">26.</td>
 <td>
 География.
 Методическое пособие
@@ -37717,7 +37960,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td>27.</td>
+<td colspan="2">27.</td>
 <td>
 Биология.
 Методическое руководство
@@ -37731,7 +37974,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>28.</td>
+<td colspan="2">28.</td>
 <td>
 Биология.
 Методическое руководство
@@ -37744,7 +37987,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>29.</td>
+<td colspan="2">29.</td>
 <td>
 Физика.
 Методическое руководство
@@ -37758,7 +38001,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>30.</td>
+<td colspan="2">30.</td>
 <td>
 Физика.
 Методическое руководство
@@ -37772,7 +38015,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>31.</td>
+<td colspan="2">31.</td>
 <td>
 Физика.
 Сборник задач и упражнений
@@ -37785,7 +38028,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>32.</td>
+<td colspan="2">32.</td>
 <td>
 Физика.
 Книга для учителя+CD
@@ -37798,7 +38041,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td>33.</td>
+<td colspan="2">33.</td>
 <td>
 Химия.
 Методическое руководство
@@ -37811,7 +38054,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>34.</td>
+<td colspan="2">34.</td>
 <td>
 Химия.
 Дидактические материалы
@@ -37821,7 +38064,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td>35.</td>
+<td colspan="2">35.</td>
 <td>
 История Казахстана.
 Методическое руководство
@@ -37834,7 +38077,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>36.</td>
+<td colspan="2">36.</td>
 <td>
 История Казахстана.
 Хрестоматия
@@ -37844,14 +38087,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>37.</td>
+<td colspan="2">37.</td>
 <td>Атлас. Всемирная история 1640-1900 гг.</td>
 <td>Окунева Т.</td>
 <td>2021</td>
 <td>8&amp;8</td>
 </tr>
 <tr>
-<td>38.</td>
+<td colspan="2">38.</td>
 <td>
 Самопознание.
 Методическое пособие для учителя
@@ -37866,7 +38109,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Бөбек</td>
 </tr>
 <tr>
-<td>39.</td>
+<td colspan="2">39.</td>
 <td>
 Художественный труд
 (вариант для мальчиков).
@@ -37883,7 +38126,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td>40.</td>
+<td colspan="2">40.</td>
 <td>
 Художественный труд
 (вариант для девочек)
@@ -37899,7 +38142,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td>41.</td>
+<td colspan="2">41.</td>
 <td>
 Художественный труд для мальчиков.
 Руководство для учителя
@@ -37914,7 +38157,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>АОО «Назарбаев интеллектуальные школы»</td>
 </tr>
 <tr>
-<td>42.</td>
+<td colspan="2">42.</td>
 <td>
 Художественный труд для девочек.
 Руководство для учителя
@@ -37929,11 +38172,11 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>АОО «Назарбаев интеллектуальные школы»</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Методическое руководство
 </td>
@@ -37948,7 +38191,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Бәйтерек.
 Мұғалім кітабы
@@ -37965,7 +38208,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Бәйтерек.
 Дидактикалық материал
@@ -37982,7 +38225,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Бәйтерек.
 Лексикалық минимум
@@ -37999,7 +38242,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -38014,7 +38257,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Книга для учителя
 </td>
@@ -38028,7 +38271,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -38043,7 +38286,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия
 </td>
@@ -38056,7 +38299,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Книга для учителя
 </td>
@@ -38069,7 +38312,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестомати.
 </td>
@@ -38082,7 +38325,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Методическое руководство
 </td>
@@ -38095,7 +38338,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Методическое
 Руководство +СD
@@ -38110,7 +38353,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дидактические материалы
 </td>
@@ -38123,7 +38366,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Сборник задач
 </td>
@@ -38136,7 +38379,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Методическое руководство
 </td>
@@ -38150,7 +38393,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Сборник задач и тестовых заданий
 </td>
@@ -38165,7 +38408,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -38178,7 +38421,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактические материалы
 </td>
@@ -38188,7 +38431,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -38201,7 +38444,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактические материалы
 </td>
@@ -38214,7 +38457,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Сборник задач
 </td>
@@ -38227,7 +38470,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство + тренажер
 </td>
@@ -38235,8 +38478,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 Солтан Г.,
 Солтан А.,
 Жумадилова А.
-Тренажер/ авт.:
-Колубекова О.,
+Тренажер/ авт.: Колубекова О.,
 Алибеков С.
 </td>
 <td>2018</td>
@@ -38244,7 +38486,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Сборник задач и тестовых заданий
 </td>
@@ -38259,7 +38501,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>24.</td>
-<td>Информатика. Методическое руководство</td>
+<td colspan="2">Информатика. Методическое руководство</td>
 <td>
 Кадиркулов Р.,
 Гайыпбаева У.
@@ -38269,10 +38511,9 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>25.</td>
-<td>Информатика. Методическое руководство</td>
+<td colspan="2">Информатика. Методическое руководство</td>
 <td>
-Салгараева Г.,
-Бекежанова А.,
+Салгараева Г., Бекежанова А.,
 Базаева Ж.
 </td>
 <td>2021</td>
@@ -38280,7 +38521,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>26.</td>
-<td>Информатика. Методическое руководство+ СD</td>
+<td colspan="2">Информатика. Методическое руководство+ СD</td>
 <td>
 Мухамбетжанова С.,
 Тен А.,
@@ -38291,7 +38532,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 География.
 Методическое руководство
 </td>
@@ -38304,7 +38545,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 География.
 Методическое пособие.
 Электронный вариант
@@ -38319,7 +38560,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Биология.
 Методическое руководство
 </td>
@@ -38332,7 +38573,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Физика.
 Книга для учителя
 </td>
@@ -38345,7 +38586,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Химия.
 Методическое руководство
 </td>
@@ -38358,7 +38599,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Химия.
 Сборник задач и упражнений
 (7-8-классы)
@@ -38372,7 +38613,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 Химия.
 Методическое руководство
 </td>
@@ -38385,7 +38626,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 Химия.
 Дидактические материалы
 </td>
@@ -38395,9 +38636,9 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>35.</td>
-<td>История Казахстана. Методическое руководство</td>
+<td colspan="2">История Казахстана. Методическое руководство</td>
 <td>
-Мясников Е.,
+МясниковЕ.,
 Кабульдинов З.,
 Шаймерденова М.
 </td>
@@ -38406,7 +38647,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>36.</td>
-<td>История Казахстана. Хрестоматия</td>
+<td colspan="2">История Казахстана. Хрестоматия</td>
 <td>
 Кабульдинов З.,
 Оразов Р.
@@ -38416,7 +38657,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Методическое руководство
 </td>
@@ -38429,7 +38670,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>38.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Хрестоматия
 </td>
@@ -38443,7 +38684,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Методическое пособие для учителя
 </td>
@@ -38458,7 +38699,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>40.</td>
-<td>
+<td colspan="2">
 Художественный труд
 Методическое руководство
 (вариант для девочек)
@@ -38474,7 +38715,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>41.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Комплект наглядных пособий
 (вариант для девочек)
@@ -38485,7 +38726,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Художественный труд
 Методическое руководство
 (вариант для мальчиков)
@@ -38502,11 +38743,11 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -38521,7 +38762,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -38536,7 +38777,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия.1, 2 часть
 </td>
@@ -38549,7 +38790,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия
 </td>
@@ -38564,7 +38805,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -38579,7 +38820,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -38592,7 +38833,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -38607,7 +38848,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия
 </td>
@@ -38622,7 +38863,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Методическое руководство
 </td>
@@ -38636,7 +38877,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Оқыту әдістемесі
 </td>
@@ -38649,7 +38890,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Бәйтерек.
 Мұғалім кітабы
@@ -38666,7 +38907,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Бәйтерек.
 Дидактикалық материал
@@ -38683,7 +38924,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Бәйтерек.
 Лексикалық минимум
@@ -38700,7 +38941,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Методическое руководство +CD
 </td>
@@ -38715,7 +38956,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дидактические материалы
 </td>
@@ -38728,7 +38969,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Сборник задач
 </td>
@@ -38741,7 +38982,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -38754,7 +38995,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактические материалы
 </td>
@@ -38767,7 +39008,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Сборник задач
 </td>
@@ -38780,7 +39021,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Методическое руководство
 </td>
@@ -38793,7 +39034,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Дидактические материалы
 </td>
@@ -38807,7 +39048,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -38820,21 +39061,17 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактические материалы
 </td>
-<td>
-Шыныбеков А.,
-Шыныбеков Д.,
-Мендигалиева Г.
-</td>
+<td>Шыныбеков А., Шыныбеков Д., Мендигалиева Г.</td>
 <td>2019</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Методическое руководство
 </td>
@@ -38848,7 +39085,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Алгебра.
 Сборник задач и тестовых заданий
 </td>
@@ -38863,7 +39100,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -38877,7 +39114,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Сборник задач и тестовых заданий
 </td>
@@ -38892,7 +39129,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Жаттықтырғыш/
 Тренажер
@@ -38906,7 +39143,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -38919,7 +39156,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -38934,7 +39171,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>31.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -38951,7 +39188,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>32.</td>
-<td>
+<td colspan="2">
 Информатика.
 Книга для учителя
 </td>
@@ -38965,7 +39202,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>33.</td>
-<td>
+<td colspan="2">
 География Казахстана.
 Методическое руководство
 (электронная версия)
@@ -38979,7 +39216,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>34.</td>
-<td>
+<td colspan="2">
 География Казахстана.
 Методическое руководство
 </td>
@@ -38993,7 +39230,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>35.</td>
-<td>
+<td colspan="2">
 География Казахстана.
 Дидактические материалы
 </td>
@@ -39007,7 +39244,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>36.</td>
-<td>
+<td colspan="2">
 География Казахстана.
 Методическое руководство
 </td>
@@ -39022,7 +39259,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>37.</td>
-<td>
+<td colspan="2">
 Биология.
 Методическое руководство
 </td>
@@ -39035,7 +39272,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>38.</td>
-<td>
+<td colspan="2">
 Физика.
 Книга для учителя
 </td>
@@ -39048,7 +39285,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>39.</td>
-<td>
+<td colspan="2">
 Химия.
 Методическое руководство
 </td>
@@ -39061,7 +39298,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>40.</td>
-<td>
+<td colspan="2">
 Химия.
 Сборник задач и упражнений
 </td>
@@ -39071,7 +39308,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>41.</td>
-<td>
+<td colspan="2">
 Химия.
 Методическое руководство
 </td>
@@ -39084,7 +39321,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>42.</td>
-<td>
+<td colspan="2">
 Химия.
 Сборник задач и упражнений
 </td>
@@ -39097,7 +39334,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>43.</td>
-<td>Химия в таблицах (9-11). Дидактический материал</td>
+<td colspan="2">Химия в таблицах (9-11). Дидактический материал</td>
 <td>
 Сакарьянова К.,
 Усманова М.
@@ -39107,7 +39344,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>44.</td>
-<td>
+<td colspan="2">
 История Казахстана. 8-9.
 Методическое руководство
 1, 2 часть
@@ -39122,21 +39359,17 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>45.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Методическое руководство.
 </td>
-<td>
-Мясников Е.,
-Кабульдинов З.,
-Шаймерденова М.
-</td>
+<td>Мясников Е., Кабульдинов З., Шаймерденова М.</td>
 <td>2019</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>46.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Хрестоматия.
 </td>
@@ -39149,7 +39382,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>47.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Методическое руководство
 </td>
@@ -39163,7 +39396,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>48.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Хрестоматия
 </td>
@@ -39177,7 +39410,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>49.</td>
-<td>
+<td colspan="2">
 Всемирная история. 8-9
 Методическое руководство
 1, 2 часть
@@ -39191,7 +39424,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>50.</td>
-<td>
+<td colspan="2">
 Основы права.
 Методическое руководство
 </td>
@@ -39205,7 +39438,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>51.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Методическое пособие для учителя
 </td>
@@ -39219,7 +39452,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>52.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Методическое руководство для учителей общеобразовательной школы
 (вариант для девочек)
@@ -39233,7 +39466,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>53.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Комплек наглядных пособий для 9-класса общеобразовательной школы
 (вариант для девочек)
@@ -39244,7 +39477,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>54.</td>
-<td>
+<td colspan="2">
 Художественный труд.
 Методическое руководство для учителей общеобразовательной школы
 (вариант для мальчиков)
@@ -39258,14 +39491,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -39281,7 +39514,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -39295,7 +39528,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия
 </td>
@@ -39308,7 +39541,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия
 </td>
@@ -39323,7 +39556,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -39338,7 +39571,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Методическое руководство
 (электронная версия)
@@ -39355,7 +39588,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Методическое руководство +CD
 </td>
@@ -39368,7 +39601,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Дидактические материалы
 </td>
@@ -39381,7 +39614,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Сборник задач
 </td>
@@ -39394,7 +39627,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -39407,7 +39640,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Сборник задач
 </td>
@@ -39420,7 +39653,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -39434,7 +39667,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -39449,7 +39682,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Информатика.
 Книга для учителя
 </td>
@@ -39463,7 +39696,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 География.
 Методическое руководство
 </td>
@@ -39473,7 +39706,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Биология.
 Методическое руководство
 </td>
@@ -39486,7 +39719,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Физика.
 Книга для учителя
 </td>
@@ -39499,7 +39732,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Химия.
 Методическое руководство.
 1, 2 часть
@@ -39513,7 +39746,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Химия.
 Сборник задач и упражнений
 </td>
@@ -39523,7 +39756,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Методическое руководство
 </td>
@@ -39533,7 +39766,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Основы права.
 Методическое руководство
 </td>
@@ -39546,11 +39779,11 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 (электронная версия)
@@ -39561,7 +39794,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -39577,7 +39810,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -39591,7 +39824,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия
 </td>
@@ -39604,7 +39837,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия
 </td>
@@ -39618,7 +39851,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -39632,7 +39865,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Методическое руководство
 </td>
@@ -39642,7 +39875,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Дидактические материалы
 </td>
@@ -39652,7 +39885,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -39665,7 +39898,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактические материалы
 </td>
@@ -39675,7 +39908,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Методическое руководство +CD
 </td>
@@ -39689,7 +39922,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Дидактические материалы
 </td>
@@ -39702,7 +39935,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Сборник задач
 </td>
@@ -39715,7 +39948,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -39728,7 +39961,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Сборник задач
 </td>
@@ -39741,7 +39974,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -39754,7 +39987,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -39769,7 +40002,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -39783,7 +40016,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Информатика.
 Книга для учителя
 </td>
@@ -39797,7 +40030,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 География.
 Методическое руководство
 (электронная версия)
@@ -39813,7 +40046,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 География.
 Методическое руководство
 </td>
@@ -39823,7 +40056,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Биология.
 Методическое руководство.
 1, 2 часть
@@ -39838,7 +40071,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Физика.
 Книга для учителя
 </td>
@@ -39851,7 +40084,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Химия.
 Методическое руководство
 1, 2 часть
@@ -39865,7 +40098,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Химия.
 Сборник задач и упражнений
 </td>
@@ -39875,7 +40108,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Методическое руководство
 </td>
@@ -39885,7 +40118,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Основы права.
 Методическое руководство
 </td>
@@ -39898,11 +40131,11 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Методическое руководство
 </td>
@@ -39916,7 +40149,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Тіл-Байрақ.
 Мұғалім кітабы
@@ -39933,7 +40166,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Тіл-Байрақ.
 Дидактикалық материал
@@ -39950,7 +40183,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Тіл-Байрақ.
 Лексикалық минимум
@@ -39967,7 +40200,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Методическое руководство
 </td>
@@ -39980,7 +40213,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Хрестоматия
 </td>
@@ -39990,7 +40223,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Методическое пособие для учителя
 </td>
@@ -40004,7 +40237,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка.
 Методическое руководство для преподавателей-организаторов общеобразовательной школы
 </td>
@@ -40023,7 +40256,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка.
 Учебно-материальная база по начальной военной и технологической подготовке.
 Рекомендации по оборудованию и совершенствованию
@@ -40038,7 +40271,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка.
 Комплект наглядных пособий для общеобразовательных школ
 </td>
@@ -40052,7 +40285,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Графика и проектирование.
 Методическое руководство
 </td>
@@ -40065,7 +40298,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Основы предпринимательства и бизнеса.
 Книга для учителя
 (ОГН; ЕМН)
@@ -40082,7 +40315,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Основы предпринимательства и бизнеса.
 Методическое пособие
 </td>
@@ -40095,14 +40328,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство.
 Часть 1, 2
@@ -40119,7 +40352,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -40133,7 +40366,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Книга для учителя
 </td>
@@ -40148,7 +40381,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -40162,7 +40395,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 Часть 1, 2
@@ -40177,7 +40410,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия.
 1, 2 часть
@@ -40191,7 +40424,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -40206,7 +40439,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия
 </td>
@@ -40221,7 +40454,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Методическое руководство +CD
 </td>
@@ -40234,7 +40467,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Дидактические материалы
 </td>
@@ -40247,7 +40480,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Сборник задач
 </td>
@@ -40260,7 +40493,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Электронный тренажер.
 CD-диск
@@ -40275,7 +40508,7 @@ CD-диск
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -40288,7 +40521,7 @@ CD-диск
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Сборник задач
 </td>
@@ -40301,7 +40534,7 @@ CD-диск
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Геометрия. ОГН
 Методическое руководство.
 10, 11 классы
@@ -40316,7 +40549,7 @@ CD-диск
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Тренажер.
 Базовый уровень.
@@ -40331,7 +40564,7 @@ CD-диск
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -40344,7 +40577,7 @@ CD-диск
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Информатика.
 Книга для учителя
 </td>
@@ -40358,7 +40591,7 @@ CD-диск
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -40372,7 +40605,7 @@ CD-диск
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 География.
 Методическое руководство.
 Часть 1, 2
@@ -40386,7 +40619,7 @@ CD-диск
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Биология.
 Методическое руководство+СД
 </td>
@@ -40400,7 +40633,7 @@ CD-диск
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Физика.
 Книга для учителя
 </td>
@@ -40413,7 +40646,7 @@ CD-диск
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Химия.
 Сборник задач и упражнений
 </td>
@@ -40426,7 +40659,7 @@ CD-диск
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Методическое руководство
 </td>
@@ -40440,7 +40673,7 @@ CD-диск
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Основы права.
 Методическое руководство.
 Часть 1, 2
@@ -40454,11 +40687,11 @@ CD-диск
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -40474,7 +40707,7 @@ CD-диск
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -40488,7 +40721,7 @@ CD-диск
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -40502,7 +40735,7 @@ CD-диск
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Книга для учителя
 </td>
@@ -40516,7 +40749,7 @@ CD-диск
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое руководство
 </td>
@@ -40530,7 +40763,7 @@ CD-диск
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -40544,7 +40777,7 @@ CD-диск
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия. 1, 2 часть
 </td>
@@ -40557,7 +40790,7 @@ CD-диск
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Методическое руководство
 </td>
@@ -40572,7 +40805,7 @@ CD-диск
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Русская литература.
 Хрестоматия.
 </td>
@@ -40587,7 +40820,7 @@ CD-диск
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Методическое руководство +CD
 </td>
@@ -40601,7 +40834,7 @@ CD-диск
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Дидактические материалы
 </td>
@@ -40615,7 +40848,7 @@ CD-диск
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Сборник задач
 </td>
@@ -40629,7 +40862,7 @@ CD-диск
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Электронный тренажер.
 CD-диск
@@ -40644,7 +40877,7 @@ CD-диск
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Методическое руководство
 </td>
@@ -40659,7 +40892,7 @@ CD-диск
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Алгебра и начала анализа.
 Дидактические материалы+CD
 </td>
@@ -40674,7 +40907,7 @@ CD-диск
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -40687,7 +40920,7 @@ CD-диск
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Сборник задач
 </td>
@@ -40700,7 +40933,7 @@ CD-диск
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство
 </td>
@@ -40715,7 +40948,7 @@ CD-диск
 </tr>
 <tr>
 <td>19.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Дидактические материалы+CD
 </td>
@@ -40730,7 +40963,7 @@ CD-диск
 </tr>
 <tr>
 <td>20.</td>
-<td>
+<td colspan="2">
 Геометрия.
 Методическое руководство.
 10, 11 классы
@@ -40745,7 +40978,7 @@ CD-диск
 </tr>
 <tr>
 <td>21.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -40758,7 +40991,7 @@ CD-диск
 </tr>
 <tr>
 <td>22.</td>
-<td>
+<td colspan="2">
 Информатика.
 Методическое руководство
 </td>
@@ -40772,9 +41005,9 @@ CD-диск
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Информатика.
-Книга для учителя
+Книгадля учителя
 </td>
 <td>
 Салгараева Г.,
@@ -40786,7 +41019,7 @@ CD-диск
 </tr>
 <tr>
 <td>24.</td>
-<td>
+<td colspan="2">
 География.
 Методическое руководство.
 Часть 1, 2
@@ -40800,7 +41033,7 @@ CD-диск
 </tr>
 <tr>
 <td>25.</td>
-<td>
+<td colspan="2">
 Биология.
 Методическое руководство.
 Часть 1, 2
@@ -40815,7 +41048,7 @@ CD-диск
 </tr>
 <tr>
 <td>26.</td>
-<td>
+<td colspan="2">
 Физика.
 Книгадля учителя
 </td>
@@ -40828,7 +41061,7 @@ CD-диск
 </tr>
 <tr>
 <td>27.</td>
-<td>
+<td colspan="2">
 Химия.
 Сборник задач и упражнений
 </td>
@@ -40841,7 +41074,7 @@ CD-диск
 </tr>
 <tr>
 <td>28.</td>
-<td>
+<td colspan="2">
 Всемирная история.
 Методическое руководство
 </td>
@@ -40855,7 +41088,7 @@ CD-диск
 </tr>
 <tr>
 <td>29.</td>
-<td>
+<td colspan="2">
 Основы права.
 Методическое руководство.
 Часть 1, 2
@@ -40869,11 +41102,11 @@ CD-диск
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</td>
+<td colspan="6">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Методическое руководство
 </td>
@@ -40887,7 +41120,7 @@ CD-диск
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті.
 Оқыту әдістемесі
 </td>
@@ -40901,7 +41134,7 @@ CD-диск
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Тіл-Байрақ.
 Мұғалім кітабы
@@ -40918,7 +41151,7 @@ CD-диск
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Тіл-Байрақ.
 Дидактикалық материал
@@ -40935,7 +41168,7 @@ CD-диск
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі мен әдебиеті:
 Тіл-Байрақ.
 Лексикалық минимум
@@ -40952,7 +41185,7 @@ CD-диск
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Методическое руководство
 </td>
@@ -40962,7 +41195,7 @@ CD-диск
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 История Казахстана.
 Хрестоматия
 </td>
@@ -40975,7 +41208,7 @@ CD-диск
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Самопознание.
 Методическое пособие для учителя
 </td>
@@ -40990,7 +41223,7 @@ CD-диск
 </tr>
 <tr>
 <td>9.</td>
-<td>Начальная военная и технологическая подготовка. Методическое руководство +приложение +диск+наглядные пособия</td>
+<td colspan="2">Начальная военная и технологическая подготовка. Методическое руководство +приложение +диск+наглядные пособия</td>
 <td>
 Тасбулатов А.,
 Майхиев Д.,
@@ -41002,7 +41235,7 @@ CD-диск
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Начальная военнаяи технологическая подготовка.
 Методическое руководство для преподавателей-организаторов общеобразовательной школы
 </td>
@@ -41015,7 +41248,7 @@ CD-диск
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Начальная военнаяи технологическая подготовка.
 Рабочая тетрадь
 </td>
@@ -41028,7 +41261,7 @@ CD-диск
 </tr>
 <tr>
 <td>12.</td>
-<td>Начальная военная и технологическая подготовка. Комплект карточек для индивидуальной и групповой работы к разделу «Технологическая подготовка».</td>
+<td colspan="2">Начальная военная и технологическая подготовка. Комплект карточек для индивидуальной и групповой работы к разделу «Технологическая подготовка».</td>
 <td>
 Рихтер А.,
 Яковенко В.
@@ -41038,7 +41271,7 @@ CD-диск
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка.
 Комплект наглядных пособий для общеобразовательной школы раздела «Технологическая подготовка» Часть 1; раздела «Основы безопасности жизнедеятельности»
 Часть 2
@@ -41052,7 +41285,7 @@ CD-диск
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка.
 Сборник материалов по организации и проведению контроля с учащимися 10, 11 классов
 </td>
@@ -41067,7 +41300,7 @@ CD-диск
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Графика и проектирование.
 Методическое руководство
 </td>
@@ -41081,7 +41314,7 @@ CD-диск
 </tr>
 <tr>
 <td>16.</td>
-<td>
+<td colspan="2">
 Основы предпринимательства и бизнеса.
 Методическое пособие
 </td>
@@ -41093,11 +41326,11 @@ CD-диск
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">5-11 сыныптар</td>
+<td colspan="6">5-11 сыныптар</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Сборник психологических упражнений по здоровой самооценке
 «Будь на своей стороне»
 </td>
@@ -41107,14 +41340,14 @@ CD-диск
 </tr>
 <tr>
 <td>18.</td>
-<td>История Казахстана: Древняя история. Средние века. Новая история.Новейшая история. Комплект карт для общеобразовательной школы.</td>
+<td colspan="2">История Казахстана: Древняя история. Средние века. Новая история.Новейшая история. Комплект карт для общеобразовательной школы.</td>
 <td>Балсарин Ф</td>
 <td>2020</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
 <td>19.</td>
-<td>Всемирная история: Древняя история. Средние века. Новая история. Новейшая история. Комплект карт для общеобразовательной школы.</td>
+<td colspan="2">Всемирная история: Древняя история. Средние века. Новая история. Новейшая история. Комплект карт для общеобразовательной школы.</td>
 <td>
 Бектасов Ш.,
 Кушкумбаев А.
@@ -41123,11 +41356,11 @@ CD-диск
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">7-11 сыныптар</td>
+<td colspan="6">7-11 сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Географические карты Казахстана, мира и отдельных частей света.
 1, 2 часть.
 </td>
@@ -41139,20 +41372,20 @@ CD-диск
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">Цифрлық басылымдар</td>
+<td colspan="6">Цифрлық басылымдар</td>
 </tr>
 <tr>
-<td colspan="5">оқыту орыс тілінде</td>
+<td colspan="6">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</td>
+<td colspan="6">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</td>
 </tr>
 <tr>
 <td>1</td>
-<td>
+<td colspan="2">
 Русская литература ЕМН.
 Хрестоматия. Электронное пособие (web-платформа)
 11 класс
@@ -41168,7 +41401,7 @@ CD-диск
 </tr>
 <tr>
 <td>2</td>
-<td>
+<td colspan="2">
 Русская литература ОГН.
 Хрестоматия. Электронное пособие (web-платформа)
 11 класс
@@ -41183,19 +41416,17 @@ CD-диск
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Геометрия. Электронная тетрадь-конструктор для суммативного оценивания. 7 класс
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-Ефимик М.,
-Калинина О.,
-Шаргалина О.,
+Ефимик М., Калинина О., Шаргалина О.,
 Ергалиев Ж.
 </td>
 <td>2021</td>
@@ -41203,26 +41434,25 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Геометрия. Электронная тетрадь.
 7 класс
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-Колубекова О.,
-Алибеков С.,
+Колубекова О., Алибеков С.,
 Ергалиев Ж.
 </td>
 <td>2021</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Геометрия. Электронная тетрадь-конструктор для суммативного оценивания. 8 класс
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
@@ -41236,18 +41466,17 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Геометрия. Электронная тетрадь-конструктор для суммативного оценивания. 9 класс (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-Гудовщикова Д.,
-Бащук Е.,
-Ким Ю.,
+Гудовщикова Д., Бащук Е.,
+КимЮ.,
 Калинина О.,
 Ергалиев Ж.
 </td>
@@ -41255,11 +41484,11 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка. Материалы по организации и проведению контроля с учащимися. Электронная тетрадь. 10 класс
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
@@ -41274,19 +41503,18 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Геометрия. Электронная тетрадь.
 По направлениям ЕМН и ОГН. 11 класс
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
 </td>
 <td>
-Колубекова О.,
-Алибеков С.,
+Колубекова О., Алибеков С.,
 Ергалиев Ж.
 </td>
 <td>2021</td>
@@ -41294,7 +41522,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Начальная военная и технологическая подготовка. Материалы по организации и проведению контроля с учащимися. Электронная тетрадь. 11 класс
 (web-платформа)
 http://​kel​eshe​k-​2030.​kz/​portal.​php
@@ -41309,168 +41537,168 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">Өлкетану</td>
+<td colspan="6">Өлкетану</td>
 </tr>
 <tr>
-<td colspan="5">5-7 сыныптар</td>
+<td colspan="6">5-7 сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Бухар жырау – «Певец народного единства» (CD)</td>
+<td colspan="2">Бухар жырау – «Певец народного единства» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Муса Шорманов – «Личность евразийского масштаба» (CD)</td>
+<td colspan="2">Муса Шорманов – «Личность евразийского масштаба» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Машхур Жусуп Копеев – «Я – камень, забытый Богом на земле» (CD)</td>
+<td colspan="2">Машхур Жусуп Копеев – «Я – камень, забытый Богом на земле» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Естай Беркимбаев – «Песня на все времена» (CD)</td>
+<td colspan="2">Естай Беркимбаев – «Песня на все времена» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Султанмахмут Торайгыров – «Наперекор судьбе» (CD)</td>
+<td colspan="2">Султанмахмут Торайгыров – «Наперекор судьбе» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Каныш Сатпаев - «Личность планетарного масшатаба» (CD)</td>
+<td colspan="2">Каныш Сатпаев - «Личность планетарного масшатаба» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Рафика Нуртазина – «Уроки жизни» (CD)</td>
+<td colspan="2">Рафика Нуртазина – «Уроки жизни» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Жаяу Муса – «Мечты поэта» (CD)</td>
+<td colspan="2">Жаяу Муса – «Мечты поэта» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Косым Пшембаев - «С камнем на «ты» (CD)</td>
+<td colspan="2">Косым Пшембаев - «С камнем на «ты» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Алькей Маргулан - «Великий ученый-энциклопедист» (CD)</td>
+<td colspan="2">Алькей Маргулан - «Великий ученый-энциклопедист» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Краеведение. Шапык Чокин – «Жизнь – на алтарь науки» (CD)</td>
+<td colspan="2">Краеведение. Шапык Чокин – «Жизнь – на алтарь науки» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Малайсары батыр – «Великий воин степи» (CD)</td>
+<td colspan="2">Малайсары батыр – «Великий воин степи» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Жасыбай батыр – «Жизнь, ставшая легендой» (CD)</td>
+<td colspan="2">Жасыбай батыр – «Жизнь, ставшая легендой» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Баян батыр – «Полководец Великой степи» (CD)</td>
+<td colspan="2">Баян батыр – «Полководец Великой степи» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Абикей Сатпаев - «Педагог - просветитель» (CD)</td>
+<td colspan="2">Абикей Сатпаев - «Педагог - просветитель» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Абикен Бектуров – «Легендарный академик» (CD)</td>
+<td colspan="2">Абикен Бектуров – «Легендарный академик» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Шакен Айманов – «Легенда казахского кино (CD)</td>
+<td colspan="2">Шакен Айманов – «Легенда казахского кино (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>Григорий Потанин – «Великий путешественник» (CD)</td>
+<td colspan="2">Григорий Потанин – «Великий путешественник» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>19.</td>
-<td>Ермухан Бекмаханов – «По стопам истории» (CD)</td>
+<td colspan="2">Ермухан Бекмаханов – «По стопам истории» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>20.</td>
-<td>Павел Васильев – «Прерванный путь» (CD)</td>
+<td colspan="2">Павел Васильев – «Прерванный путь» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>21.</td>
-<td>Кемель Акишев – «Золотой человек» (CD)</td>
+<td colspan="2">Кемель Акишев – «Золотой человек» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>22.</td>
-<td>Дмитрий Багаев – «Мир из объектива» (CD)</td>
+<td colspan="2">Дмитрий Багаев – «Мир из объектива» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>23.</td>
-<td>
+<td colspan="2">
 Калижан Бекхожин:
 «С поэзией иду...» (CD)
 </td>
@@ -41480,142 +41708,142 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>24.</td>
-<td>Иса Байзаков: «Мастер поэтического слова» (CD)</td>
+<td colspan="2">Иса Байзаков: «Мастер поэтического слова» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>25.</td>
-<td>Жусипбек Аймауытов: «Свет казахской интеллигенции» (CD)</td>
+<td colspan="2">Жусипбек Аймауытов: «Свет казахской интеллигенции» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>26.</td>
-<td>Шорман би: «Светоч справедливости» (CD)</td>
+<td colspan="2">Шорман би: «Светоч справедливости» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>27.</td>
-<td>Сабит Донентаев: «Золотое перо казахской поэзии» (CD)</td>
+<td colspan="2">Сабит Донентаев: «Золотое перо казахской поэзии» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>28.</td>
-<td>Мухтар Саматов: «Деятель национального масштаба» (CD)</td>
+<td colspan="2">Мухтар Саматов: «Деятель национального масштаба» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>29.</td>
-<td>Рустембек Омаров: «Наследник великих кюйши» (CD)</td>
+<td colspan="2">Рустембек Омаров: «Наследник великих кюйши» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>30.</td>
-<td>Мусахан Канапиянов: «Наставник» (CD)</td>
+<td colspan="2">Мусахан Канапиянов: «Наставник» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>31.</td>
-<td>Жумат Шанин: «Легенда казахского театра» (CD)</td>
+<td colspan="2">Жумат Шанин: «Легенда казахского театра» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>32.</td>
-<td>Всеволод Иванов: «Жизненные перевалы» (CD)</td>
+<td colspan="2">Всеволод Иванов: «Жизненные перевалы» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>33.</td>
-<td>Иманжүсип Кутпанов: «Трагический дух эпохи» (CD)</td>
+<td colspan="2">Иманжүсип Кутпанов: «Трагический дух эпохи» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>34.</td>
-<td>Канаш Камзин: «Доблестный воин» (CD)</td>
+<td colspan="2">Канаш Камзин: «Доблестный воин» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>35.</td>
-<td>Зейин Шашкин: «Казахский Чехов» (CD)</td>
+<td colspan="2">Зейин Шашкин: «Казахский Чехов» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>36.</td>
-<td>Зейтин Акишев: «Педагог-писатель» (CD)</td>
+<td colspan="2">Зейтин Акишев: «Педагог-писатель» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>37.</td>
-<td>Хамза Жуматов: «Великое наследие ученого» (CD)</td>
+<td colspan="2">Хамза Жуматов: «Великое наследие ученого» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>38.</td>
-<td>Музафар Алимбаев: «Стихи свои я детям подарю…» (CD)</td>
+<td colspan="2">Музафар Алимбаев: «Стихи свои я детям подарю…» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>39.</td>
-<td>Абилкас Сагинов: «Яркий след академика» (CD)</td>
+<td colspan="2">Абилкас Сагинов: «Яркий след академика» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>40.</td>
-<td>Жабайхан Абдильдин: «Восхождение к вершинам мировой философии» (CD)</td>
+<td colspan="2">Жабайхан Абдильдин: «Восхождение к вершинам мировой философии» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
 <td>41.</td>
-<td>Олжас Сулейменов: «Личность мировой величины» (CD)</td>
+<td colspan="2">Олжас Сулейменов: «Личность мировой величины» (CD)</td>
 <td></td>
 <td>2021</td>
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ және орыс тілдерінде</td>
+<td colspan="6">оқыту қазақ және орыс тілдерінде</td>
 </tr>
 <tr>
-<td colspan="5">Неміс тілі</td>
+<td colspan="6">Неміс тілі</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Deutsch 1.
 Arbeitsbuch №1, №2
 </td>
@@ -41629,7 +41857,7 @@ Beibytnur Shumabekova
 </tr>
 <tr>
 <td></td>
-<td>
+<td colspan="2">
 Deutsch 1.
 Lehrerhandbuch +CD
 </td>
@@ -41641,7 +41869,7 @@ Beibytnur Shumabekova
 </tr>
 <tr>
 <td></td>
-<td>
+<td colspan="2">
 Deutsch 1.
 Bildkarten “Zug mit Buchstaben”
 </td>
@@ -41653,11 +41881,11 @@ Beibytnur Shumabekova
 <td>2020</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
-<td>Deutsch 2. Klasse Arbeitsbuch Teil 1, 2</td>
+<td colspan="2">Deutsch 2. Klasse Arbeitsbuch Teil 1, 2</td>
 <td>
 Diana Kabenova,
 Asina Ospanova
@@ -41666,12 +41894,12 @@ Asina Ospanova
 <td rowspan="3">NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<td>Deutsch 2. Klasse Lehrerhandbuch</td>
+<td colspan="2">Deutsch 2. Klasse Lehrerhandbuch</td>
 <td>Aiman Baigoshayeva</td>
 <td>2021</td>
 </tr>
 <tr>
-<td>Deutsch 2. Klasse Hörtexte zum Lehrbuch und Arbeitsbuch (Аудиоматериалы к учебнику и рабочей тетради)</td>
+<td colspan="2">Deutsch 2. KlasseHörtextezumLehrbuchundArbeitsbuch (Аудиоматериалы к учебнику и рабочей тетради)</td>
 <td>
 Diana Kabenova,
 Asina Ospanova
@@ -41679,142 +41907,111 @@ Asina Ospanova
 <td>2021</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
-<td>Deutsch 4.​Klasse Arbeitsbuch Teil 1, 2</td>
+<td colspan="2">Deutsch 4.​Klasse Arbeitsbuch Teil 1, 2</td>
+<td>Kristina Samosledova, Anastasia Potemkina, Kulasch Schubakova</td>
+<td>2021</td>
+<td rowspan="3">NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
+</tr>
+<tr>
+<td colspan="2">Deutsch 4. Klasse Lehrerhandbuch</td>
+<td>Aigul Bishkenova, Kulshanat Bulatbayeva, Kristina Samosledova</td>
+<td>2021</td>
+</tr>
+<tr>
+<td colspan="2">Deutsch 4.​Kla​sseC​DHörtextezumLehrbuchundArbeitsbuch (Аудиоматериалы к учебнику и рабочей тетради)</td>
+<td>Kristina Samosledova, Anastasia Potemkina, Kulshanat Bulatbayeva</td>
+<td>2021</td>
+</tr>
+<tr>
+<td colspan="6">5-сынып</td>
+</tr>
+<tr>
+<td rowspan="3">1.</td>
+<td colspan="2">Deutsch 5.​Klasse Arbeitsbuch Teil 1, 2, 3, 4</td>
 <td>
-Kristina Samosledova,
-Anastasia Potemkina,
-Kulasch Schubakova
+Kulshanat Bulatbayeva,
+Assemgul Magsam, Ulshan Abdrachimova
 </td>
 <td>2021</td>
 <td rowspan="3">NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<td>Deutsch 4. Klasse Lehrerhandbuch</td>
-<td>
-Aigul Bishkenova,
-Kulshanat Bulatbayeva,
-Kristina Samosledova
-</td>
+<td colspan="2">Deutsch 5. Klasse Lehrerhandbuch</td>
+<td>Aigul Bishkenova, Kulshanat Bulatbayeva</td>
 <td>2021</td>
 </tr>
 <tr>
-<td>Deutsch 4.​Klasse CD Hörtexte zum Lehrbuch und Arbeitsbuch (Аудиоматериалы к учебнику и рабочей тетради)</td>
-<td>
-Kristina Samosledova,
-Anastasia Potemkina,
-Kulshanat Bulatbayeva
-</td>
+<td colspan="2">Deutsch 5. KlasseCDHörtextezumLehrbuchundArbeitsbuch (Аудиоматериалы к учебнику и рабочей тетради)</td>
+<td>Kulshanat Bulatbayeva, Assemgul Magsam</td>
 <td>2021</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
-<td>Deutsch 5. Klasse Arbeitsbuch Teil 1, 2, 3, 4</td>
-<td>
-Kulshanat Bulatbayeva,
-Assemgul Magsam,
-Ulshan Abdrachimova
-</td>
+<td colspan="2">Deutsch 6.​Klasse Arbeitsbuch Teil 1, 2, 3, 4</td>
+<td>Kulshanat Bulatbayeva, Sagyngul Schakenova, Gulmira Arystankulova</td>
 <td>2021</td>
 <td rowspan="3">NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<td>Deutsch 5. Klasse Lehrerhandbuch</td>
-<td>
-Aigul Bishkenova,
-Kulshanat Bulatbayeva
-</td>
+<td colspan="2">Deutsch 6. Klasse Lehrerhandbuch</td>
+<td>Aigul Bishkenova, Kulshanat Bulatbayeva, Gulsira Kenshetaeva</td>
 <td>2021</td>
 </tr>
 <tr>
-<td>Deutsch 5. Klasse CD Hörtexte zum Lehrbuch und Arbeitsbuch (Аудиоматериалы к учебнику и рабочей тетради)</td>
-<td>
-Kulshanat Bulatbayeva,
-Assemgul Magsam
-</td>
+<td colspan="2">Deutsch 6. Klasse CD</td>
+<td>Kulshanat Bulatbayeva, Sagyngul Schakenova, Gulmira Arystankulova</td>
 <td>2021</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">Француз тілі</td>
+</tr>
+<tr>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
-<td>Deutsch 6. Klasse Arbeitsbuch Teil 1, 2, 3, 4</td>
+<td colspan="2">Le Francais Pour le Kazakhstan classe 1. Cahier d’activites</td>
 <td>
-Kulshanat Bulatbayeva,
-Sagyngul Schakenova,
-Gulmira Arystankulova
-</td>
-<td>2021</td>
-<td rowspan="3">NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
-</tr>
-<tr>
-<td>Deutsch 6. Klasse Lehrerhandbuch</td>
-<td>
-Aigul Bishkenova,
-Kulshanat Bulatbayeva,
-Gulsira Kenshetaeva
-</td>
-<td>2021</td>
-</tr>
-<tr>
-<td>Deutsch 6. Klasse CD</td>
-<td>
-Kulshanat Bulatbayeva,
-Sagyngul Schakenova,
-Gulmira Arystankulova
-</td>
-<td>2021</td>
-</tr>
-<tr>
-<td colspan="5">Француз тілі</td>
-</tr>
-<tr>
-<td colspan="5">1-сынып</td>
-</tr>
-<tr>
-<td rowspan="3">1.</td>
-<td>Le Francais Pour le Kazakhstan classe 1. Cahier d’activites</td>
-<td>
-A. Gousseva
-A. Gubernieva
-D. Kouzatbek
+A.​Gousseva
+A.​Gub​erni​eva
+D.​Kou​zatb​ek
 </td>
 <td>2021</td>
 <td rowspan="3">ТОО EDU Stream и Просвещение</td>
 </tr>
 <tr>
-<td>Le Francais Pour le Kazakhstan classe 1. I-e book</td>
+<td colspan="2">Le Francais Pour le Kazakhstan classe 1. I-e book</td>
 <td>
-A. Gousseva
-A. Gubernieva
-D. Kouzatbek
+A.​Gousseva
+A.​Gub​erni​eva
+D.​Kou​zatb​ek
 </td>
 <td>2021</td>
 </tr>
 <tr>
-<td>Le Francais Pour le Kazakhstan classe 1. Livre du professeur</td>
+<td colspan="2">Le Francais Pour le Kazakhstan classe 1. Livre du professeur</td>
 <td>
-M. Kalougina
-D. Kouzatbek
+M.​Kal​ougi​na
+D.​Kou​zatb​ek
 </td>
 <td>2021</td>
 </tr>
 <tr>
-<td colspan="5">Ағылшын тілі</td>
+<td colspan="6">Ағылшын тілі</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
-<td rowspan="9"></td>
-<td>Smiles for Kazakhstan Grade 1. Workbook</td>
+<td rowspan="9">1.</td>
+<td colspan="2">Smiles for Kazakhstan Grade 1. Workbook</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -41827,7 +42024,7 @@ Publishing
 </td>
 </tr>
 <tr>
-<td>Smiles for Kazakhstan Grade 1. Teacher`s book</td>
+<td colspan="2">Smiles for Kazakhstan Grade 1. Teacher`s book</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -41836,7 +42033,7 @@ Natalya Mukhamedjanova
 <td>2021</td>
 </tr>
 <tr>
-<td>Smiles for Kazakhstan Grade 1. Interactive Whiteboard Software</td>
+<td colspan="2">Smiles for Kazakhstan Grade 1. Interactive Whiteboard Software</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -41845,7 +42042,7 @@ Natalya Mukhamedjanova
 <td>2021</td>
 </tr>
 <tr>
-<td>Smiles for Kazakhstan Grade 1. E-book</td>
+<td colspan="2">Smiles for Kazakhstan Grade 1. E-book</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -41854,7 +42051,7 @@ Natalya Mukhamedjanova
 <td>2021</td>
 </tr>
 <tr>
-<td>Smiles for Kazakhstan Grade 1. Pupil`s CD</td>
+<td colspan="2">Smiles for Kazakhstan Grade 1. Pupil`s CD</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -41863,7 +42060,7 @@ Natalya Mukhamedjanova
 <td>2021</td>
 </tr>
 <tr>
-<td>Smiles for Kazakhstan Grade 1. Picture Flashcards</td>
+<td colspan="2">Smiles for Kazakhstan Grade 1. Picture Flashcards</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -41872,7 +42069,7 @@ Natalya Mukhamedjanova
 <td>2021</td>
 </tr>
 <tr>
-<td>Smiles for Kazakhstan Grade 1. Story Cards</td>
+<td colspan="2">Smiles for Kazakhstan Grade 1. Story Cards</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -41881,7 +42078,7 @@ Natalya Mukhamedjanova
 <td>2021</td>
 </tr>
 <tr>
-<td>Smiles for Kazakhstan Grade 1. Teacher’s Multimedia Resource Pack, Multi-ROM (Class CD 1 &amp; DVD PAL), Class CD 2, Teacher’s Resource Pack CD-ROM</td>
+<td colspan="2">Smiles for Kazakhstan Grade 1. Teacher’s Multimedia Resource Pack, Multi-ROM (Class CD 1 &amp; DVD PAL), Class CD 2, Teacher’s Resource Pack CD-ROM</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -41890,7 +42087,7 @@ Natalya Mukhamedjanova
 <td>2021</td>
 </tr>
 <tr>
-<td>Smiles for Kazakhstan Grade 1. Posters</td>
+<td colspan="2">Smiles for Kazakhstan Grade 1. Posters</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -41899,11 +42096,11 @@ Natalya Mukhamedjanova
 <td>2021</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td rowspan="11">1.</td>
-<td>
+<td colspan="2">
 Smiles 2 for Kazakhstan
 Activity Book
 </td>
@@ -41911,8 +42108,7 @@ Activity Book
 Jenny Dooley,
 Virginia Evans.
 Series Consultant:
-Bob Obee.
-Translations by
+Bob Obee. Translations by
 N.​Muk​hame​djan​ova
 </td>
 <td>2017</td>
@@ -41922,7 +42118,7 @@ Publishing
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles 2 for Kazakhstan
 Teacher's Book
 </td>
@@ -41930,14 +42126,13 @@ Teacher's Book
 Jenny Dooley,
 Virginia Evans.
 Series Consultant:
-Bob Obee.
-Translations by
+Bob Obee. Translations by
 N.​Muk​hame​djan​ova
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles 2 for Kazakhstan
 Vocabulary and Grammar Practice
 </td>
@@ -41952,64 +42147,64 @@ N.​Muk​hame​djan​ova
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles 2 for Kazakhstan
 Story Cards,
 Posters
 </td>
 <td>
-Jenny Dooley,
-Virginia Evans
+JennyDooley,
+VirginiaEvans
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles 2 forKazakhstan
 Flashcards
 </td>
 <td>
-Jenny Dooley,
-Virginia Evans
+JennyDooley,
+VirginiaEvans
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles 2 forKazakhstan
 IWS
 </td>
 <td>
-Jenny Dooley,
-Virginia Evans
+JennyDooley,
+VirginiaEvans
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles 2 forKazakhstan
 DVD
 </td>
 <td>
-Jenny Dooley,
-Virginia Evans
+JennyDooley,
+VirginiaEvans
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles 2 for Kazakhstan
 Teacher's Resource Pack
 CD-Rom
 </td>
 <td>
-Jenny Dooley,
-Virginia Evans
+JennyDooley,
+VirginiaEvans
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>Smiles 2 for Kazakhstan e-Book</td>
+<td colspan="2">Smiles 2 for Kazakhstan e-Book</td>
 <td>
 Jenny Dooley,
 Virginia Evans
@@ -42017,49 +42212,47 @@ Virginia Evans
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles 2 for Kazakhstan
 Class CDs 1, 2
 </td>
 <td>
-Jenny Dooley,
-Virginia Evans
+JennyDooley,
+VirginiaEvans
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles 2 for Kazakhstan
 Pupil's CD
 </td>
 <td>
 JennyDooley,
-Virginia Evans
+VirginiaEvans
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td rowspan="8">1.</td>
-<td>
+<td colspan="2">
 Smiles 3 for Kazakhstan
 (Grade 3)
 Activity Book
 </td>
 <td>
-Jenny Dooley,
-Series Consultant:
-Bob Obee.
+Jenny Dooley,Series Consultant: Bob Obee.
 Translationsby
 N.​Muk​hame​djan​ova
 </td>
 <td>2018</td>
-<td rowspan="8">Express Publishing</td>
+<td rowspan="8">ExpressPublishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 (Grade 3)
 Teacher's Book
@@ -42069,12 +42262,12 @@ Jenny Dooley,
 Series Consultant:
 Bob Obee.
 Translationsby
-N. Mukhamedjanova
+N.​Muk​hame​djan​ova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 (Grade 3)
 Vocabulary and
@@ -42082,7 +42275,7 @@ Grammar Practice
 </td>
 <td>
 Jenny Dooley,
-Series Consultant:
+SeriesConsultant:
 Bob Obee.
 Translationsby
 N.​Muk​hame​djan​ova
@@ -42090,7 +42283,7 @@ N.​Muk​hame​djan​ova
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 (Grade 3)
 Teacher's Multimedia
@@ -42099,25 +42292,25 @@ Resource Pack
 Resource Pack CD-ROM)
 </td>
 <td>
-Jenny Dooley,
-Virginia Evans
+JennyDooley,
+VirginiaEvans
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 (Grade 3).
 Interactive Whiteboard Software
 </td>
 <td>
-Jenny Dooley,
-Virginia Evans
+JennyDooley,
+VirginiaEvans
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 (Grade 3)
 e-Book
@@ -42129,29 +42322,14 @@ VirginiaEvans
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 (Grade 3)
 Picture Flashcards
 </td>
 <td>
 Jenny Dooley,
-Series Consultant:
-Bob Obee.
-Translationsby
-N. Mukhamedjanova
-</td>
-<td>2018</td>
-</tr>
-<tr>
-<td>
-Smiles for Kazakhstan
-(Grade 3)
-Posters
-</td>
-<td>
-Jenny Dooley,
-Series Consultant:
+SeriesConsultant:
 Bob Obee.
 Translationsby
 N.​Muk​hame​djan​ova
@@ -42159,11 +42337,26 @@ N.​Muk​hame​djan​ova
 <td>2018</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="2">
+Smiles for Kazakhstan
+(Grade 3)
+Posters
+</td>
+<td>
+Jenny Dooley,
+SeriesConsultant:
+Bob Obee.
+Translationsby
+N.​Muk​hame​djan​ova
+</td>
+<td>2018</td>
+</tr>
+<tr>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td rowspan="8">1.</td>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 Grade 4
 Activity Book
@@ -42175,10 +42368,10 @@ Translations by
 N.​Muk​hame​djan​ova
 </td>
 <td>2019</td>
-<td rowspan="8">Express Publishing</td>
+<td rowspan="8">ExpressPublishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 Grade 4
 Teacher's Book
@@ -42192,7 +42385,7 @@ N.​Muk​hame​djan​ova
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 Grade 4
 Vocabulary and
@@ -42207,7 +42400,7 @@ N.​Muk​hame​djan​ova
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 Grade 4
 Interactive Whiteboard Software
@@ -42222,7 +42415,7 @@ N.​Muk​hame​djan​ova
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 Grade 4
 Picture Flashcards
@@ -42236,36 +42429,36 @@ N.​Muk​hame​djan​ova
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 Grade 4 Posters
 </td>
-<td>Jenny Dooley</td>
+<td>JennyDooley</td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 Grade 4
 Pupil's Multi-ROM
 (Pupil`s CD\DVD)
 </td>
-<td>Jenny Dooley</td>
+<td>JennyDooley</td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 Grade 4
 Teacher's Resource Pack
 CD-Rom
 </td>
-<td>Jenny Dooley</td>
+<td>JennyDooley</td>
 <td>2019</td>
 </tr>
 <tr>
 <td></td>
-<td>
+<td colspan="2">
 Smiles for Kazakhstan
 Grade 4 e-Book
 </td>
@@ -42274,24 +42467,24 @@ Grade 4 e-Book
 <td></td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
-<td>
+<td colspan="2">
 Eyes Open 1 for Kazakhstan
 Grade 5
 Workbook
 </td>
 <td>
-Vicki Anderson,
-Eoin Higgins
+VickiAnderson,
+EoinHiggins
 </td>
 <td>2017</td>
-<td rowspan="5">Cambridge University Press</td>
+<td rowspan="5">CambridgeUniversityPress</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 1 for Kazakhstan
 Grade 5
 Teacher`s book
@@ -42300,7 +42493,7 @@ Teacher`s book
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 1 for Kazakhstan Grade 5
 Course plan
 </td>
@@ -42314,7 +42507,7 @@ Eoin Higgins
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 1 Class
 Audio CD (3)
 </td>
@@ -42322,7 +42515,7 @@ Audio CD (3)
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 EyesOpen 1
 Video DVD
 </td>
@@ -42331,7 +42524,7 @@ Video DVD
 </tr>
 <tr>
 <td rowspan="9">2.</td>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 5)
 Workbook &amp; Grammar Book
@@ -42347,7 +42540,7 @@ NatalyaMukhamedjianova
 <td rowspan="9">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 5).
 Teacher`s Book
@@ -42362,7 +42555,7 @@ NatalyaMukhamedjianova
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 5)
 DVD Activity Book
@@ -42375,7 +42568,7 @@ Bob Obee
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 5)
 DVD Activity Book Key
@@ -42388,7 +42581,7 @@ Bob Obee
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 5)
 Class CD (1,2,3)
@@ -42396,14 +42589,12 @@ Class CD (1,2,3)
 <td>
 Virginia Evans,
 Jenny Dooley,
-Bob Obee.
-Translations by:
-Natalya Mukhamedjianova
+Bob Obee.Translations by: Natalya Mukhamedjianova
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 5)
 Interactive Whiteboard Software
@@ -42413,12 +42604,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjianova
+NatalyaMukhamedjianova
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 5)
 Teacher`s Resource Pack &amp;
@@ -42429,12 +42620,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjianova
+NatalyaMukhamedjianova
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 5)
 e-Book
@@ -42444,12 +42635,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjianova
+NatalyaMukhamedjianova
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 5)
 PAL Express
@@ -42464,16 +42655,16 @@ Bob Obee
 </tr>
 <tr>
 <td rowspan="4">3.</td>
-<td>
+<td colspan="2">
 EnglishPlus
 Жұмысдәптері
 </td>
-<td>Janet Hardy-Gould</td>
+<td>JanetHardy-Gould</td>
 <td>2017</td>
 <td rowspan="4">Oxford University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 EnglishPlus
 Мұғалімкітабы
 </td>
@@ -42485,7 +42676,7 @@ Beth Godfrey
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 EnglishPlus Аудио
 CD (1,2,3)
 </td>
@@ -42493,76 +42684,76 @@ CD (1,2,3)
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 EnglishPlus
 Тест дискісі
 </td>
-<td>Rob Sved</td>
+<td>RobSved</td>
 <td>2017</td>
 </tr>
 <tr>
 <td rowspan="3">4.</td>
-<td>
+<td colspan="2">
 Tiger Time 5 for Kazakhstan
 Activity Book
 </td>
 <td>
 CarolRead,
-Mark Ormerod
+MarkOrmerod
 </td>
 <td>2017</td>
 <td rowspan="3">Macmillan Publishers</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Tiger Time 5 for Kazakhstan
 Teacher`s Book
 </td>
 <td>
-Carol Read,
-Mark Ormerod
+CarolRead,
+MarkOrmerod
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 TigerTime 5
 Ресурсный диск по УМК
 </td>
 <td>
-Carol Read,
-Mark Ormerod
+CarolRead,
+MarkOrmerod
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
-<td>
+<td colspan="2">
 Eyes Open 2 for Kazakhstan
 (Grade 6)
 Workbook
 </td>
 <td>
-Vicki Anderson,
-Eoin Higgins
+VickiAnderson,
+EoinHiggins
 </td>
 <td>2018</td>
-<td rowspan="5">CambridgeUniversityPress</td>
+<td rowspan="5">Cambridge University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 2 for Kazakhstan
 (Grade 6)
 Teacher`s book
 </td>
-<td>Garan Holcombe</td>
+<td>GaranHolcombe</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 2 for Kazakhstan
 (Grade 6)
 Class Audio
@@ -42577,16 +42768,16 @@ Meredith Levy
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 2 for Kazakhstan
 (Grade 6)
 Video DVD
 </td>
-<td>Garan Holcombe</td>
+<td>GaranHolcombe</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 2 for Kazakhstan
 (Grade 6)
 Supplementary Materials for teachers
@@ -42601,7 +42792,7 @@ Meredith Levy
 </tr>
 <tr>
 <td rowspan="9">2.</td>
-<td>
+<td colspan="2">
 Excelfor Kazakhstan
 (Grade 6)
 Workbook &amp;
@@ -42612,13 +42803,13 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjanova
+NatalyaMukhamedjanova
 </td>
 <td>2018</td>
 <td rowspan="9">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excelfor Kazakhstan
 (Grade 6)
 Teacher`s Book
@@ -42628,12 +42819,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjanova
+NatalyaMukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excelfor Kazakhstan
 (Grade 6)
 Class CD (1,2, 3)
@@ -42643,12 +42834,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjanova
+NatalyaMukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excelfor Kazakhstan
 (Grade 6)
 e-Book
@@ -42656,14 +42847,12 @@ e-Book
 <td>
 Virginia Evans,
 Jenny Dooley,
-Bob Obee.
-Translations by:
-Natalya Mukhamedjanova
+Bob Obee.Translations by: Natalya Mukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excelfor Kazakhstan
 (Grade 6)
 Teacher`s Resource Pack &amp; Tests (CD-ROM)
@@ -42671,57 +42860,47 @@ Teacher`s Resource Pack &amp; Tests (CD-ROM)
 <td>
 Virginia Evans,
 Jenny Dooley,
-Bob Obee.
-Translations by:
-Natalya Mukhamedjanova
+Bob Obee.Translations by: Natalya Mukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excelfor Kazakhstan
 (Grade 6)
 Interactive Whiteboard Software
 </td>
 <td>
 Virginia Evans,
-Jenny Dooley,
-BobObee.
-Translations by:
+Jenny Dooley,BobObee.Translations by:
 Natalya Mukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excelfor Kazakhstan
 (Grade 6)
 Express DVD Video (PAL)
 </td>
 <td>
 Virginia Evans,
-Jenny Dooley,
-BobObee.
-Translations by:
+Jenny Dooley,BobObee.Translations by:
 Natalya Mukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excelfor Kazakhstan
 (Grade 6)
 DVD Activity Book
 </td>
-<td>
-Virginia Evans,
-Jenny Dooley,
-BobObee
-</td>
+<td>Virginia Evans,JennyDooley,BobObee</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excelfor Kazakhstan
 (Grade 6)
 DVD Activity Book Key
@@ -42735,17 +42914,17 @@ Bob Obee
 </tr>
 <tr>
 <td rowspan="4">3.</td>
-<td>
+<td colspan="2">
 English Plus for Kazakhstan
 (Grade 6)
 Workbook
 </td>
-<td>Janet Hardy-Gould</td>
+<td>JanetHardy-Gould</td>
 <td>2018</td>
 <td rowspan="4">Oxford University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English Plus for Kazakhstan
 (Grade 6)
 Teacher`s Book
@@ -42758,7 +42937,7 @@ Bess Bradfield
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English Plus for Kazakhstan
 (Grade 6)
 Class Audio CDs (1, 2)
@@ -42767,19 +42946,19 @@ Class Audio CDs (1, 2)
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English Plus for Kazakhstan
 (Grade 6) Test CDs
 </td>
 <td>
-Bess Bradfield,
-Sheila Dignen
+BessBradfield,
+SheilaDignen
 </td>
 <td>2018</td>
 </tr>
 <tr>
 <td rowspan="3">4.</td>
-<td>
+<td colspan="2">
 Laser A1+ for Kazakhstan
 (Grade 6)
 Workbook)
@@ -42792,7 +42971,7 @@ Steve Taylore-Knowles
 <td rowspan="3">Macmillan Publishers</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Laser A1+ for Kazakhstan
 (Grade 6)
 Teacher`s Book (Digibook,
@@ -42805,7 +42984,7 @@ Steve Taylore-Knowles
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Laser A1+ for Kazakhstan
 (Grade 6)
 Class Audio CD
@@ -42818,7 +42997,7 @@ Steve Taylore-Knowles
 </tr>
 <tr>
 <td rowspan="6">5.</td>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 6
 Workbook &amp;
@@ -42830,16 +43009,16 @@ CD/CD-ROM)
 <td rowspan="6">MM Publications</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 6
 Teacher’s Book
 </td>
-<td>H. Q. Mitchell – Marileni Malkogianni</td>
+<td>H. Q. Mitchell – MarileniMalkogianni</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 6
 Teacher’s Resource
@@ -42849,58 +43028,58 @@ CD/CD-ROM
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 6
 Class CDs (1, 2, 3, 4)
 </td>
-<td>H. Q. Mitchell – Marileni Malkogianni</td>
+<td>H. Q. Mitchell – MarileniMalkogianni</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 6
 Interactive Whiteboard Material
 </td>
-<td>H. Q. Mitchell – Marileni Malkogianni</td>
+<td>H. Q. Mitchell – MarileniMalkogianni</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 6
 Online Material
 </td>
-<td>H. Q. Mitchell – Marileni Malkogianni</td>
+<td>H. Q. Mitchell – MarileniMalkogianni</td>
 <td>2018</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
-<td>
+<td colspan="2">
 Eyes Open 3 for Kazakhstan Grade 7
 Workbook
 </td>
 <td>
-Vicki Anderson,
-Eoin Higgins
+VickiAnderson,
+EoinHiggins
 </td>
 <td>2017</td>
-<td rowspan="5">CambridgeUniversityPress</td>
+<td rowspan="5">Cambridge University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 3 for Kazakhstan Grade 7
 Teacher`s book
 </td>
-<td>Garan Holcombe</td>
+<td>GaranHolcombe</td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 3 for Kazakhstan Grade 7
 Course plan
 </td>
@@ -42914,7 +43093,7 @@ Eoin Higgins
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 3 Class Audio
 CD (3)
 </td>
@@ -42922,13 +43101,13 @@ CD (3)
 <td>2017</td>
 </tr>
 <tr>
-<td>EyesOpen 3 Video DVD</td>
+<td colspan="2">EyesOpen 3 Video DVD</td>
 <td></td>
 <td>2017</td>
 </tr>
 <tr>
 <td rowspan="9">2.</td>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 7)
 Workbook &amp; Grammar Book
@@ -42938,13 +43117,13 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjianova
+NatalyaMukhamedjianova
 </td>
 <td>2017</td>
 <td rowspan="9">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 7)
 Teacher`s Book
@@ -42954,12 +43133,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjianova
+NatalyaMukhamedjianova
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 7)
 DVD Activity Book
@@ -42972,7 +43151,7 @@ Bob Obee
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 7)
 DVD Activity Book Key
@@ -42985,22 +43164,20 @@ Bob Obee
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 7)
 Class CD (1,2,3,4)
 </td>
 <td>
 Virginia Evans,
-Jenny Dooley,
-BobObee.
-Translationsby:
-Natalya Mukhamedjianova
+Jenny Dooley,BobObee. Translationsby:
+NatalyaMukhamedjianova
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 7)
 Interactive Whiteboard Software
@@ -43010,12 +43187,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjianova
+NatalyaMukhamedjianova
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 7)
 Teacher`s Resource Pack &amp; Tests (CD-ROM)
@@ -43025,12 +43202,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjianova
+NatalyaMukhamedjianova
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 7)
 e-Book
@@ -43040,12 +43217,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjianova
+NatalyaMukhamedjianova
 </td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 7)
 PAL Express
@@ -43060,9 +43237,9 @@ Bob Obee
 </tr>
 <tr>
 <td rowspan="4">3.</td>
-<td>
+<td colspan="2">
 EnglishPlus
-Жұмыс дәптері
+Жұмысдәптері
 </td>
 <td>
 Janet Hardy-Gould,
@@ -43072,9 +43249,9 @@ Kate Mellersh
 <td rowspan="4">Oxford University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 EnglishPlus
-Мұғалім кітабы
+Мұғалімкітабы
 </td>
 <td>
 Sheila Dignen,
@@ -43084,27 +43261,27 @@ Peter Redpath
 <td>2017</td>
 </tr>
 <tr>
-<td>
-English Plus
+<td colspan="2">
+EnglishPlus
 Аудио CD (1,2,3)
 </td>
 <td></td>
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 EnglishPlus
 Тест дискісі
 </td>
 <td>
-Bess Bradfield,
-Sheila Dignen
+BessBradfield,
+SheilaDignen
 </td>
 <td>2017</td>
 </tr>
 <tr>
 <td rowspan="5">4.</td>
-<td>
+<td colspan="2">
 Laser A2 for Kazakhstan
 Work Book
 </td>
@@ -43116,7 +43293,7 @@ Steve Taylore-Knowles
 <td rowspan="5">Macmillan Publishers</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Laser A2 for Kazakhstan
 Teacher`s Book
 </td>
@@ -43127,7 +43304,7 @@ Steve Taylore-Knowles
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Laser A2
 Digibook
 </td>
@@ -43138,7 +43315,7 @@ Steve Taylore-Knowles
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Laser A2
 Teacher`s DVD-ROM
 </td>
@@ -43149,7 +43326,7 @@ Steve Taylore-Knowles
 <td>2017</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Laser A2
 Class Audio CD
 </td>
@@ -43161,59 +43338,59 @@ Steve Taylore-Knowles
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Messages 3 for Kazakhstan
 Teachers Book
 </td>
 <td>
-Diana Goodey,
-Meredith Levy
+DianaGoodey,
+MeredithLevy
 </td>
 <td>2016</td>
 <td>Cambridge University Press</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Messages 3 for Kazakhstan
 Teachers Resourse Pack
 </td>
 <td>
-Peter McDonnel,
-Sarah Ackroyd
+PeterMcDonnel,
+SarahAckroyd
 </td>
 <td>2016</td>
 <td>Cambridge University Press</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Messages 3 for Kazakhstan
 Class Audio CD
 </td>
 <td>
-Diana Goodey,
-Neol Goodey
+DianaGoodey,
+NeolGoodey
 </td>
 <td>2016</td>
 <td>Cambridge University Press</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Messages 3 forKazakhstan
 DVD
 </td>
 <td>
-Diana Goodey,
-Neol Goodey
+DianaGoodey,
+NeolGoodey
 </td>
 <td>2016</td>
 <td>Cambridge University Press</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Upbeat Pre-Intermediate
 Language Builder Kazakhstan
 </td>
@@ -43224,11 +43401,11 @@ Judy Copage,
 Liz Kilbey
 </td>
 <td>2016</td>
-<td>Pearson Educationlimited</td>
+<td>Pearson Education limited</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Upbeat Pre-Intermediate
 Teacher`s Book
 </td>
@@ -43239,11 +43416,11 @@ Judy Copage,
 Liz Kilbey
 </td>
 <td>2016</td>
-<td>Pearson Education Limited</td>
+<td>Pearson Education limited</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Upbeat Pre-Intermediate class
 Audio CD
 </td>
@@ -43254,11 +43431,11 @@ Judy Copage,
 Liz Kilbey
 </td>
 <td>2016</td>
-<td>Pearson Educationlimited</td>
+<td>Pearson Education limited</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Upbeat Pre-Intermediate
 Test Book
 </td>
@@ -43269,11 +43446,11 @@ Judy Copage,
 Liz Kilbey
 </td>
 <td>2016</td>
-<td>Pearson Educationlimited</td>
+<td>Pearson Education limited</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>UpbeatPre-IntermediateMotivator</td>
+<td colspan="2">UpbeatPre-IntermediateMotivator</td>
 <td>
 Ingrid Freebairn,
 Jonathan Bygrave,
@@ -43281,44 +43458,44 @@ Judy Copage,
 Liz Kilbey
 </td>
 <td>2016</td>
-<td>Pearson Educationlimited</td>
+<td>Pearson Education limited</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>
+<td colspan="2">
 Discover English 3 for Kazakhstan
 WorkBook
 </td>
-<td>Izabella Hearn</td>
+<td>IzabellaHearn</td>
 <td>2016</td>
-<td>Pearson Educationlimited</td>
+<td>Pearson Education limited</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>
+<td colspan="2">
 Discover English 3 for Kazakhstan
 teacher’s book
 </td>
-<td>Kate Wakeman</td>
+<td>KateWakeman</td>
 <td>2016</td>
-<td>Pearson Educationlimited</td>
+<td>Pearson Education limited</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Discover English 3 for Kazakhstan Class audio CD</td>
+<td colspan="2">Discover English 3 for Kazakhstan Class audio CD</td>
 <td>
-Izabella Hearn,
+IzabellaHearn,
 JayneWildman
 </td>
 <td>2016</td>
-<td>Pearson Educationlimited</td>
+<td>Pearson Education limited</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
-<td>
+<td colspan="2">
 Eyes Open 4 for Kazakhstan
 (Grade 8)
 Class Audio CD (1, 2, 3)
@@ -43334,34 +43511,34 @@ Liz Kilbey
 <td rowspan="5">Cambridge University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 4 for Kazakhstan
 (Grade 8) Workbook
 </td>
 <td>
-Vicki Anderson,
-Eoin Higgins
+VickiAnderson,
+EoinHiggins
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 4 for Kazakhstan
 (Grade 8) Teacher`s book)
 </td>
-<td>Garan Holcombe</td>
+<td>GaranHolcombe</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 4 for Kazakhstan
 (Grade 8) Video DVD)
 </td>
-<td>Garan Holcombe</td>
+<td>GaranHolcombe</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Eyes Open 4 for Kazakhstan
 (Grade 8)
 Supplementary Materials for teachers)
@@ -43376,7 +43553,7 @@ Eoin Higgins)
 </tr>
 <tr>
 <td rowspan="9">2.</td>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 8)
 Workbook &amp; Grammar Book
@@ -43386,13 +43563,13 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjanova
+NatalyaMukhamedjanova
 </td>
 <td>2018</td>
 <td rowspan="9">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 8)
 Teacher`s Book
@@ -43402,12 +43579,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjanova
+NatalyaMukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 8)
 Class CD (1,2,3)
@@ -43417,12 +43594,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjanova)
+NatalyaMukhamedjanova)
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 8)
 e-Book
@@ -43432,12 +43609,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjanova
+NatalyaMukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 8)
 Teacher`s Resource Pack &amp;Tests (CD-ROM)
@@ -43447,12 +43624,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjanova
+NatalyaMukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 8)
 Interactive Whiteboard Software
@@ -43462,12 +43639,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjanova
+NatalyaMukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 8)
 DVD Video (PAL)
@@ -43477,12 +43654,12 @@ Virginia Evans,
 Jenny Dooley,
 Bob Obee.
 Translationsby:
-Natalya Mukhamedjanova
+NatalyaMukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 8)
 DVD Activity Book
@@ -43495,7 +43672,7 @@ Bob Obee
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 8)
 DVD Activity Book Key
@@ -43509,7 +43686,7 @@ Bob Obee
 </tr>
 <tr>
 <td rowspan="4">3.</td>
-<td>English Plus for Kazakhstan (Grade 8) Workbook</td>
+<td colspan="2">English Plus for Kazakhstan (Grade 8) Workbook</td>
 <td>
 Janet Hardy-Gould,
 James Styring
@@ -43518,7 +43695,7 @@ James Styring
 <td rowspan="4">Oxford University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English Plus for Kazakhstan (Grade 8)
 Teacher`s Book
 </td>
@@ -43530,25 +43707,25 @@ Peter Redpath
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English Plus for Kazakhstan (Grade 8)
 Class Audio CDs (1, 2, 3)
 </td>
 <td>
-Ben Wetz,
-Diana Pye
+BenWetz,
+DianaPye
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English Plus for Kazakhstan (Grade 8)
 Test CDs
 </td>
 <td>
-Шэйла Дигнэн,
-Питер Редпат,
-Эмма Уоткинс
+ШэйлаДигнэн,
+ПитерРедпат,
+ЭммаУоткинс
 (Sheila Dignen,
 Peter Redpath,
 Emma Watkins
@@ -43557,7 +43734,7 @@ Emma Watkins
 </tr>
 <tr>
 <td rowspan="3">4.</td>
-<td>
+<td colspan="2">
 Laser B1 for Kazakhstan
 Workbook
 </td>
@@ -43569,7 +43746,7 @@ Steve Taylore-Knowles
 <td rowspan="3">Macmillan Publishers</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Laser B1 for Kazakhstan
 Teacher`s Book (Digibook,
 Teacher`s DVD-ROM)
@@ -43581,7 +43758,7 @@ Steve Taylore-Knowles
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Laser B1 for Kazakhstan
 Class Audio CD)
 </td>
@@ -43593,60 +43770,60 @@ Steve Taylore-Knowles)
 </tr>
 <tr>
 <td rowspan="6">5.</td>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 8 Workbook &amp; Grammar Section+ Student’s
 CD/CD-ROM)
 </td>
-<td>H. Q. Mitchell – Marileni Malkogianni</td>
+<td>H. Q. Mitchell – MarileniMalkogianni</td>
 <td>2018</td>
 <td rowspan="6">MM Publications</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 8
 Teacher’s Book
 </td>
-<td>H. Q. Mitchell – Marileni Malkogianni</td>
+<td>H. Q. Mitchell – MarileniMalkogianni</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 8 Teacher’s Resource
 CD/CD-ROM
 </td>
-<td>H. Q. Mitchell – Marileni Malkogianni</td>
+<td>H. Q. Mitchell – MarileniMalkogianni</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 8 Class CDs (1, 2, 3, 4)
 </td>
-<td>H. Q. Mitchell – Marileni Malkogianni</td>
+<td>H. Q. Mitchell – MarileniMalkogianni</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 8 Interactive Whiteboard Material
 </td>
-<td>H. Q. Mitchell – Marileni Malkogianni</td>
+<td>H. Q. Mitchell – MarileniMalkogianni</td>
 <td>2018</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 8 Online Material
 </td>
-<td>H. Q. Mitchell – Marileni Malkogianni</td>
+<td>H. Q. Mitchell – MarileniMalkogianni</td>
 <td>2018</td>
 </tr>
 <tr>
 <td rowspan="2">6.</td>
-<td>
+<td colspan="2">
 PhysicsGrade 8
 Teacher’sBook
 </td>
@@ -43655,14 +43832,14 @@ Michael O`Callaghan,
 Pat Doyle,
 Orla Molamphy,
 Ger Reilly,
-Zakhidam Dzhulai,
-Aizat Aimakhanova
+ZakhidamDzhulai,
+AizatAimakhanova
 </td>
 <td>2018</td>
 <td rowspan="2">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 PhysicsGrade 8
 Student’sPortfolio
 </td>
@@ -43671,14 +43848,14 @@ Michael O`Callaghan,
 Pat Doyle,
 Orla Molamphy,
 Ger Reilly,
-Zakhidam Dzhulai,
-Aizat Aimakhanova
+ZakhidamDzhulai,
+AizatAimakhanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
 <td rowspan="2">7.</td>
-<td>
+<td colspan="2">
 ChemistryGrade 8
 Teacher’sBook
 </td>
@@ -43690,10 +43867,10 @@ Ger Reily,
 Olga Poluyeva)
 </td>
 <td>2018</td>
-<td rowspan="2">Express Publishing</td>
+<td rowspan="2">ExpressPublishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Chemistry Grade 8
 Student`s Portfolio)
 </td>
@@ -43708,7 +43885,7 @@ Olga Poluyeva
 </tr>
 <tr>
 <td rowspan="2">8.</td>
-<td>
+<td colspan="2">
 Biology Grade 8
 Teacher`s book
 </td>
@@ -43718,13 +43895,13 @@ Pat Doyle,
 Orla Molamphy,
 Ger Reilly,
 Dyakina Elena,
-Yntyk Shayakhmetova
+YntykShayakhmetova
 </td>
 <td>2018</td>
 <td rowspan="2">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Biology Grade 8
 Student`s Portfolio
 </td>
@@ -43734,16 +43911,16 @@ Pat Doyle,
 Orla Molamphy,
 Ger Reilly,
 Dyakina Elena,
-Yntyk Shayakhmetova
+YntykShayakhmetova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 9)
 Workbook &amp; Grammar Book
@@ -43755,10 +43932,10 @@ Translations by:
 Natalya Mukhamedjianova
 </td>
 <td>2019</td>
-<td rowspan="9">Express Publishing</td>
+<td rowspan="9">ExpressPublishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 9)
 Teacher`s Book
@@ -43772,29 +43949,29 @@ Natalya Mukhamedjianova
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 9) DVD Activity Book
 </td>
 <td>
-Jenny Dooley,
-Bob Obee.
+JennyDooley,
+BobObee.
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 9) DVD Activity Book Key
 </td>
 <td>
-Jenny Dooley,
-Bob Obee.
+JennyDooley,
+BobObee.
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 9)
 Interactive Whiteboard Software
@@ -43808,7 +43985,7 @@ Natalya Mukhamedjianova
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 9)
 Class CD(1, 2, 3, 4)
@@ -43822,7 +43999,7 @@ Natalya Mukhamedjianova
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 9)
 Teacher`s Resource Pack &amp; Tests
@@ -43836,32 +44013,32 @@ Natalya Mukhamedjianova
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 9)
 DVD Video
 </td>
 <td>
-Jenny Dooley,
-Bob Obee.
+JennyDooley,
+BobObee.
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Excel for Kazakhstan
 (Grade 9)
 e-Book
 </td>
 <td>
-Jenny Dooley,
-Bob Obee.
+JennyDooley,
+BobObee.
 </td>
 <td>2019</td>
 </tr>
 <tr>
 <td rowspan="6">2.</td>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 9
 Workbook (Term 1, 2, 3, 4)
@@ -43869,73 +44046,73 @@ Workbook (Term 1, 2, 3, 4)
 </td>
 <td>
 H. Q. Mitchel,
-Marileni Malkogianni
+MarileniMalkogianni
 </td>
 <td>2019</td>
 <td rowspan="6">MM Publications</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 9 Teacher`s book
 </td>
 <td>
 H. Q. Mitchel,
-Marileni Malkogianni
+MarileniMalkogianni
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 9
 Class CDs (1,2)
 </td>
 <td>
 H. Q. Mitchel,
-Marileni Malkogianni
+MarileniMalkogianni
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 9
 Teacher`s Resourse CD-ROM
 </td>
 <td>
 H. Q. Mitchel,
-Marileni Malkogianni
+MarileniMalkogianni
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 9
 Interactive Whiteboard Material DVD
 </td>
 <td>
 H. Q. Mitchel,
-Marileni Malkogianni
+MarileniMalkogianni
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Full Blast for Kazakhstan
 Grade 9
 Student’sOnlineMaterial
 </td>
 <td>
 H. Q. Mitchel,
-Marileni Malkogianni
+MarileniMalkogianni
 </td>
 <td>2019</td>
 </tr>
 <tr>
 <td rowspan="5">3.</td>
-<td>
+<td colspan="2">
 Think for Kazakhstan
 Grade 9
 Workbook
@@ -43949,7 +44126,7 @@ Peter Lewis-Jones
 <td rowspan="5">Cambridge University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Think for Kazakhstan
 Grade 9
 Teacher`s book
@@ -43963,7 +44140,7 @@ Peter Lewis-Jones
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Think for Kazakhstan
 Grade 9 Supplementary Materials forTeachers
 </td>
@@ -43974,7 +44151,7 @@ N. Tutbayeva
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Think for Kazakhstan
 Grade 9 Class Audio CD (1,2)
 </td>
@@ -43986,7 +44163,7 @@ Peter Lewis-Jones
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Think for Kazakhstan
 Grade 9 Video DVD
 </td>
@@ -43999,7 +44176,7 @@ Peter Lewis-Jones
 </tr>
 <tr>
 <td rowspan="4">4.</td>
-<td>
+<td colspan="2">
 English Plus Grade 9
 Workbook (Kazakhstan Edition)
 </td>
@@ -44008,7 +44185,7 @@ Workbook (Kazakhstan Edition)
 <td rowspan="4">Oxford University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English Plus Grade 9
 Teacher`s book
 (Kazakhstan Edition)
@@ -44020,7 +44197,7 @@ Helen Casey and de la Mare
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English Plus Grade 9
 Class Audio CDs (1,2,3)
 (Kazakhstan Edition)
@@ -44029,7 +44206,7 @@ Class Audio CDs (1,2,3)
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English Plus Grade 9
 CDs (Kazakhstan Edition)
 </td>
@@ -44038,7 +44215,7 @@ CDs (Kazakhstan Edition)
 </tr>
 <tr>
 <td rowspan="3">5.</td>
-<td>
+<td colspan="2">
 Laser B1+ for Kazakhstan
 Grade 9 Workbook+ Workbook Audio CD
 </td>
@@ -44050,7 +44227,7 @@ Steve Taylore-Knowles
 <td rowspan="3">Macmillan Publishers</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Laser B1+ for Kazakhstan
 Grade 9
 Teacher`s Book
@@ -44062,7 +44239,7 @@ Steve Taylore-Knowles
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Laser B1+ for Kazakhstan
 Grade 9
 Class Audio CD
@@ -44075,7 +44252,7 @@ Steve Taylore-Knowles
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Biology.
 Grade 9.
 Student`s Portfolio
@@ -44086,14 +44263,14 @@ Pat Doyle,
 Orla Molamphy,
 Ger Reilly,
 Dyakina Elena,
-Yntyk Shayakhmetova
+YntykShayakhmetova
 </td>
 <td>2018</td>
 <td>Express Publishing</td>
 </tr>
 <tr>
 <td rowspan="3">7.</td>
-<td>
+<td colspan="2">
 Physics
 Grade 9
 Teacher`s book
@@ -44102,13 +44279,13 @@ Teacher`s book
 Tom Tierney,
 Pat Doyle,
 ZakhidamJulay,
-Aizat Aimakhanova
+AizatAimakhanova
 </td>
 <td>2019</td>
 <td rowspan="3">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Physics
 Grade 9
 Student`s Portfolio
@@ -44116,13 +44293,13 @@ Student`s Portfolio
 <td>
 Tom Tierney,
 Pat Doyle,
-Zakhidam Julay,
-Aizat Aimakhanova
+ZakhidamJulay,
+AizatAimakhanova
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Physics
 Grade 9 DigitalResources
 </td>
@@ -44131,7 +44308,7 @@ Grade 9 DigitalResources
 </tr>
 <tr>
 <td rowspan="3">8.</td>
-<td>
+<td colspan="2">
 Chemistry
 Grade 9
 Teacher`s book
@@ -44146,7 +44323,7 @@ GalymzhanKaramyrzayev
 <td rowspan="3">ExpressPublishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Chemistry
 Grade 9
 Student`s Portfolio
@@ -44160,7 +44337,7 @@ GalymzhanKaramyrzayev
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Chemistry
 Grade 9
 DigitalResources
@@ -44169,51 +44346,51 @@ DigitalResources
 <td>2019</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 10 (Grammar Schools)
 Workbook &amp; Grammar book
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 <td rowspan="9">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 10 (Grammar Schools)
 Teacher`s book
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 10 (Grammar Schools)
 DVD Activity Book
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 10 (Grammar Schools)
 DVD Activity Book KEY
@@ -44225,92 +44402,92 @@ BobObee
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 10 (Grammar Schools)
 Class CDs
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 10 (Grammar Schools)
 Interactive Whiteboard Software
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 10 (Grammar Schools)
 Teacher`s Resource Pack &amp; Test
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 10 (Grammar Schools)
 DVD Video
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 10 (Grammar Schools)
 e-Book
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
 <td rowspan="3">2.</td>
-<td>
+<td colspan="2">
 Gateway for Kazakhstan
 Grade 10 (Humanities schools) Workbook
 </td>
 <td>
-Annie Cornford,
-Frances Watkins
+AnnieCornford,
+FrancesWatkins
 </td>
 <td>2019</td>
 <td rowspan="3">Macmillan Publishers</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Gateway for Kazakhstan
 Grade 10 (Humanities schools)
 Teacher`s Book Premium Pack
 </td>
 <td>
-Anna Cole,
-Ursula Mallows
+AnnaCole,
+UrsulaMallows
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Gateway for Kazakhstan
 Grade 10 (Humanities schools) Class CDs (1,2)
 </td>
@@ -44319,7 +44496,7 @@ Grade 10 (Humanities schools) Class CDs (1,2)
 </tr>
 <tr>
 <td rowspan="2">3.</td>
-<td>
+<td colspan="2">
 Biology Grade 10
 Teacher`s book
 (Grammar Schools)
@@ -44329,13 +44506,13 @@ Michael O`Callaghan,
 Special advisor:
 Andela Bury,
 Dyakina Elena,
-Yntyk Shayakhmetova
+YntykShayakhmetova
 </td>
 <td>2019</td>
 <td rowspan="2">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Biology Grade 10
 Digital Resources
 (Grammar Schools)
@@ -44345,21 +44522,21 @@ Digital Resources
 </tr>
 <tr>
 <td rowspan="3">4.</td>
-<td>
+<td colspan="2">
 Physics Grade 10
 Student`s Portfolio
 (Grammar Schools)
 </td>
 <td>
 Tom Tierney,
-Zakhidam Dzhulai,
-Aizat Aimakhanova
+ZakhidamDzhulai,
+AizatAimakhanova
 </td>
 <td>2019</td>
 <td rowspan="3">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Physics Grade 10
 Teacher`s book
 (Grammar Schools)
@@ -44368,13 +44545,13 @@ Teacher`s book
 Tom Tierney,
 Special advisor:
 Pat Doyle,
-Zakhidam Dzhulai,
-Aizat Aimakhanova
+ZakhidamDzhulai,
+AizatAimakhanova
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Physics Grade 10
 Digital Resources
 (Grammar Schools)
@@ -44384,7 +44561,7 @@ Digital Resources
 </tr>
 <tr>
 <td rowspan="3">5.</td>
-<td>
+<td colspan="2">
 Chemistry Grade 10
 Student`s Portfolio
 (Grammar School)
@@ -44398,7 +44575,7 @@ Olga Polueva
 <td rowspan="3">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Chemistry Grade 10
 Teacher`s book
 (Grammar Schools)
@@ -44411,7 +44588,7 @@ Olga Polueva
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Chemistry Grade 10
 Digital Resources
 (Grammar Schools)
@@ -44420,121 +44597,121 @@ Digital Resources
 <td>2019</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 10 (Science Schools)
 Workbook &amp; Grammar book
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 <td rowspan="9">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 10 (Science Schools)
 Teacher`s book
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 10 (Science Schools)
 DVD Activity Book
 </td>
 <td>
 Jenny Dooley,
-Bob Obee
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 10 (Science Schools)
 DVD Activity Book KEY
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 10 (Science Schools)
 Class CDs
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 10 (Science Schools)
 Interactive Whiteboard Software
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 10 (Science Schools)
 Teacher`s Resource Pack &amp; Test
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 10 (Science Schools)
 e-Book
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 10 (Science Schools)
 DVD Video
 </td>
 <td>
-Jenny Dooley,
-Bob Obee
+JennyDooley,
+BobObee
 </td>
 <td>2019</td>
 </tr>
 <tr>
 <td rowspan="4">2.</td>
-<td>
+<td colspan="2">
 English
 Grade 10 (Sciences)
 Workbook
@@ -44548,7 +44725,7 @@ Lewis Lansford
 <td rowspan="4">Study Inn-Cambridge University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English
 Grade 10 (Sciences)
 Teacher`s
@@ -44561,7 +44738,7 @@ Chris Sowton
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English
 Grade 10 (Sciences)
 Suplementary Materials for Teachers
@@ -44573,7 +44750,7 @@ R. Akysheva
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English
 Grade 10 (Sciences)
 Disc with Class Audio and Video materials
@@ -44587,29 +44764,29 @@ Chris Sowton
 </tr>
 <tr>
 <td rowspan="3">3.</td>
-<td>
+<td colspan="2">
 Gateway for Kazakhstan
 Grade 10 (Science Schools)
 Workbook
 </td>
 <td>
-Frances Treloar,
-Gill Holley
+FrancesTreloar,
+GillHolley
 </td>
 <td>2019</td>
 <td rowspan="3">Macmillan Publishers</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Gateway for Kazakhstan
 Grade 10 (Science Schools)
 Teacher`s Book Premium Pack
 </td>
-<td>Anna Cole</td>
+<td>AnnaCole</td>
 <td>2019</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Gateway for Kazakhstan
 Grade 10 (Science Schools)
 Class CDs (1,2)
@@ -44619,7 +44796,7 @@ Class CDs (1,2)
 </tr>
 <tr>
 <td rowspan="2">4.</td>
-<td>
+<td colspan="2">
 Biology Grade 10
 Teacher`s book
 (Science Schools)
@@ -44629,13 +44806,13 @@ Michael O`Callaghan,
 Special advisor:
 Andela Bury,
 Dyakina Elena,
-Yntyk Shayakhmetova
+YntykShayakhmetova
 </td>
 <td>2019</td>
 <td rowspan="2">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Biology Grade 10
 Digital Resources (Science Schools)
 </td>
@@ -44644,7 +44821,7 @@ Digital Resources (Science Schools)
 </tr>
 <tr>
 <td rowspan="3">5.</td>
-<td>
+<td colspan="2">
 Physics Grade 10
 Student`s Portfolio
 (Science Schools)
@@ -44652,13 +44829,13 @@ Student`s Portfolio
 <td>
 Tom Tierney,
 ZakhidamJulay,
-Aizat Aimakhanova
+AizatAimakhanova
 </td>
 <td>2019</td>
 <td rowspan="3">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Physics Grade 10
 Teacher`s book
 (Science Schools)
@@ -44667,19 +44844,19 @@ Teacher`s book
 Tom Tierney,
 Special advisor:
 Pat Doyle,
-Zakhidam Dzhulai,
-Aizat Aimakhanova
+ZakhidamDzhulai,
+AizatAimakhanova
 </td>
 <td>2019</td>
 </tr>
 <tr>
-<td>Physics Grade 10 Digital Resources (Science Schools)</td>
+<td colspan="2">Physics Grade 10 Digital Resources (Science Schools)</td>
 <td></td>
 <td>2019</td>
 </tr>
 <tr>
 <td rowspan="3">6.</td>
-<td>
+<td colspan="2">
 Chemistry Grade 10
 Student`s Portfolio
 (Science School)
@@ -44693,7 +44870,7 @@ Olga Polueva
 <td rowspan="3">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Chemistry Grade 10
 Teacher`s book
 (Science Schools)
@@ -44706,19 +44883,19 @@ Olga Polueva
 <td>2019</td>
 </tr>
 <tr>
-<td>Chemistry Grade 10 Digital Resources (Science Schools)</td>
+<td colspan="2">Chemistry Grade 10 Digital Resources (Science Schools)</td>
 <td></td>
 <td>2019</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
-<td>Laser B2 forKazakhstan (Humanities )Workbook Audio CD</td>
+<td colspan="2">Laser B2 forKazakhstan (Humanities )Workbook Audio CD</td>
 <td>
 Malcolm Mann,
 Steve Taylore-Knowles
@@ -44727,7 +44904,7 @@ Steve Taylore-Knowles
 <td rowspan="3">Macmillan Education</td>
 </tr>
 <tr>
-<td>Laser B2 forKazakhstan (Humanities )Teacher`s Book with DVD-ROM and Digibook</td>
+<td colspan="2">Laser B2 forKazakhstan (Humanities )Teacher`s Book with DVD-ROM and Digibook</td>
 <td>
 Malcolm Mann,
 Steve Taylore-Knowles
@@ -44735,7 +44912,7 @@ Steve Taylore-Knowles
 <td>2020</td>
 </tr>
 <tr>
-<td>Laser B2 forKazakhstan (Humanities )Class Audio CDs</td>
+<td colspan="2">Laser B2 forKazakhstan (Humanities )Class Audio CDs</td>
 <td>
 Malcolm Mann,
 Steve Taylore-Knowles
@@ -44744,57 +44921,39 @@ Steve Taylore-Knowles
 </tr>
 <tr>
 <td rowspan="6">2.</td>
-<td>New Destinations for Kazakhstan Grade 11HumanitiesWorkbook (Term 1, 2, 3, 4) (includes CD-ROM)</td>
-<td>
-H. Q. Mitchel,
-Marileni Malkogianni
-</td>
+<td colspan="2">New Destinations for Kazakhstan Grade 11HumanitiesWorkbook (Term 1, 2, 3, 4) (includes CD-ROM)</td>
+<td>H. Q. Mitchel,MarileniMalkogianni</td>
 <td>2020</td>
 <td rowspan="6">MM Publications</td>
 </tr>
 <tr>
-<td>New Destinations for Kazakhstan Grade 11 Humanities Teacher`s book</td>
-<td>
-H. Q. Mitchel,
-Marileni Malkogianni
-</td>
+<td colspan="2">New Destinations for Kazakhstan Grade 11 Humanities Teacher`s book</td>
+<td>H. Q. Mitchel, MarileniMalkogianni</td>
 <td>2020</td>
 </tr>
 <tr>
-<td>New Destinations for Kazakhstan Grade 11HumanitiesClass CDs (1,2,3)</td>
-<td>
-H. Q. Mitchel,
-Marileni Malkogianni
-</td>
+<td colspan="2">New Destinations for Kazakhstan Grade 11HumanitiesClass CDs (1,2,3)</td>
+<td>H. Q. Mitchel, MarileniMalkogianni</td>
 <td>2020</td>
 </tr>
 <tr>
-<td>New Destinations for Kazakhstan Grade 11 Humanities Interactive Whiteboard Material DVD</td>
-<td>
-H. Q. Mitchel,
-Marileni Malkogianni
-</td>
+<td colspan="2">New Destinations for Kazakhstan Grade 11 Humanities Interactive Whiteboard Material DVD</td>
+<td>H. Q. Mitchel, MarileniMalkogianni</td>
 <td>2020</td>
 </tr>
 <tr>
-<td>New Destinations for Kazakhstan Grade 11Humanities Teacher`s Resourсe CD-ROM</td>
-<td>
-H. Q. Mitchel,
-Marileni Malkogianni
-</td>
+<td colspan="2">New Destinations for Kazakhstan Grade 11Humanities Teacher`s Resourсe CD-ROM</td>
+<td>H. Q. Mitchel, MarileniMalkogianni</td>
 <td>2020</td>
 </tr>
 <tr>
-<td>New Destinations for Kazakhstan Grade 11HumanitiesStudent’s Online Material</td>
-<td>
-H. Q. Mitchel,
-Marileni Malkogianni
-</td>
+<td colspan="2">New Destinations for Kazakhstan Grade 11HumanitiesStudent’s Online Material</td>
+<td>H. Q. Mitchel, MarileniMalkogianni</td>
 <td>2020</td>
 </tr>
 <tr>
 <td rowspan="4">3.</td>
-<td>
+<td colspan="2">
 English
 Grade 11 (Humanities)
 Workbook
@@ -44810,7 +44969,7 @@ R.​Akysheva
 <td rowspan="4">«Study Inn (Cambridge University Press материалдары негізінде)»</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English
 Grade 11 (Humanities)
 Teacher`s Book
@@ -44825,7 +44984,7 @@ R.​Akysheva
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English
 Grade 11 (Humanities)
 Class Audio and Video Materials
@@ -44839,7 +44998,7 @@ R.​Akysheva
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 English
 Grade 11 (Humanities)
 Supplementary materials for teachers
@@ -44853,21 +45012,20 @@ R.​Akysheva
 </tr>
 <tr>
 <td rowspan="9">4.</td>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 11 (Grammar Schools)
 Workbook&amp; Grammar book
 </td>
 <td>
 Jenny Dooley,
-Bob Obee,
-N.​Muk​hame​djan​ova
+Bob Obee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 <td rowspan="9">Express Publishing</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 11 (Grammar Schools)
 Teacher`s book
@@ -44880,7 +45038,7 @@ N.​Muk​hame​djan​ova
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 11 (Grammar Schools)
 Class CDs
@@ -44893,7 +45051,7 @@ N.​Muk​hame​djan​ova
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 11 (Grammar Schools)
 eBook
@@ -44906,7 +45064,7 @@ N.​Muk​hame​djan​ova
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 11 (Grammar Schools)
 DVD Video (PAL)
@@ -44919,7 +45077,7 @@ N.​Muk​hame​djan​ova
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 11 (Grammar Schools)
 DVD Activity Book
@@ -44932,7 +45090,7 @@ N.​Muk​hame​djan​ova
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 11 (Grammar Schools)
 DVD Activity Book KEY
@@ -44945,7 +45103,7 @@ N.​Muk​hame​djan​ova
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 11 (Grammar Schools)
 Interactive Whiteboard Software
@@ -44958,7 +45116,7 @@ N.​Muk​hame​djan​ova
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Aspect for Kazakhstan
 Grade 11 (Grammar Schools)
 Teacher`s Resource Pack &amp; Tests CD-ROM
@@ -44971,151 +45129,142 @@ N.​Muk​hame​djan​ova
 <td>2020</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 11 (Science Schools)
 Workbook &amp; Grammar book
 </td>
 <td>
 Jenny Dooley,
-Bob Obee,
-N.​Muk​hame​djan​ova
+Bob Obee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 <td rowspan="9">Express Publishing</td>
 </tr>
 <tr>
-<td>Action for KazakhstanGrade 11 (Science Schools) Teacher`s book</td>
+<td colspan="2">Action for KazakhstanGrade 11 (Science Schools) Teacher`s book</td>
 <td>
 Jenny Dooley,
-Bob Obee,
-N.​Muk​hame​djan​ova
+Bob Obee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for KazakhstanGrade 11 (Science Schools)
 Class CDs
 </td>
 <td>
 Jenny Dooley,
-Bob Obee,
-N.​Muk​hame​djan​ova
+Bob Obee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for KazakhstanGrade 11 (Science Schools)
 eBook
 </td>
 <td>
 Jenny Dooley,
-Bob Obee,
-N.​Muk​hame​djan​ova
+Bob Obee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan Grade 11 (Science Schools)
 DVD Video (PAL)
 </td>
 <td>
 Jenny Dooley,
-Bob Obee,
-N.​Muk​hame​djan​ova
+Bob Obee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 11(Science Schools)
 DVDActivity Book
 </td>
 <td>
 JennyDooley,
-BobObee,
-N.​Muk​hame​djan​ova
+BobObee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for KazakhstanGrade 11 (Science Schools)
 DVD Activity BookKEY
 </td>
 <td>
 Jenny Dooley,
-Bob Obee,
-N.​Muk​hame​djan​ova
+Bob Obee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 11(Science Schools)
 Interactive Whiteboard Software
 </td>
 <td>
 JennyDooley,
-BobObee,
-N.​Muk​hame​djan​ova
+BobObee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Action for Kazakhstan
 Grade 11 (Science Schools)
 Teacher`s Resource Pack &amp; Tests CD-ROM
 </td>
 <td>
 Jenny Dooley,
-Bob Obee,
-N.​Muk​hame​djan​ova
+Bob Obee, N.​Muk​hame​djan​ova
 </td>
 <td>2020</td>
 </tr>
 <tr>
 <td rowspan="4">2.</td>
-<td>
+<td colspan="2">
 SolutionsKazakhstanEdition
 Grade 11 (ScienceSchools)
 Workbook
 </td>
 <td>
-Tim Falla,
+TimFalla,
 Paul A Davies,
-Paul Kelly,
-Helen Wendholt,
-Sylvia Wheeldon
+PaulKelly,
+HelenWendholt,
+SylviaWheeldon
 </td>
 <td>2020</td>
 <td rowspan="4">Oxford University Press</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 SolutionsKazakhstanEdition
 Grade 11 (ScienceSchools)
 Teacher`sBook
 </td>
 <td>
-Helen Halliwell,
-Katherine Stannett
-Jeremy Bowell
+HelenHalliwell,
+KatherineStannett
+JeremyBowell
 </td>
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 SolutionsKazakhstan Edition
 Grade 11 (Science Schools)
 Class Audio CDs
@@ -45127,7 +45276,7 @@ TimFalla
 <td>2020</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 SolutionsKazakhstan Edition
 Grade 11 (Science Schools)
 Teacher`s Resource Disk
@@ -45139,257 +45288,170 @@ TimFalla
 <td>2020</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ және орыс тілдерінде</td>
+<td colspan="6">оқыту қазақ және орыс тілдерінде</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Кескін карталар. Ежелгі Қазақстан тарихы / Контурные карты. История древнего Казахстана.</td>
+<td colspan="2">Кескін карталар. Ежелгі Қазақстан тарихы / Контурные карты. История древнего Казахстана.</td>
 <td>Кругликова С.</td>
 <td>2021</td>
 <td>8&amp;8</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Кескін карталар. Орта ғасырлардағы Қазақстан тарихы / Контурные карты. История Казахстана в период средневековья.</td>
+<td colspan="2">Кескін карталар. Орта ғасырлардағы Қазақстан тарихы / Контурные карты. История Казахстана в период средневековья.</td>
 <td>Окунева Т.</td>
 <td>2021</td>
 <td>8&amp;8</td>
 </tr>
 <tr>
-<td colspan="5">оқыту ұйғыр тілінде</td>
+<td colspan="6">оқыту ұйғыр тілінде</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
+<td colspan="2">Елипбә. Һөсни хәт №1, 2, 3</td>
 <td>
-Сават ечиш.
-Оқутуш методикиси.
-1-қисим
-</td>
-<td>
-М. Мәһәмдинов,
-Г. Азнибақиева,
+М. Махамдинов,
+Г. Азнабакиева,
 Г. Садирова
 </td>
-<td>2016</td>
+<td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Сават ечиш.
-Оқутуш методикиси.
-2-қисим
+<td colspan="2">
+Елипбә.
+Оқутуш методикиси
 </td>
 <td>
-А. Арзиева,
-С. Һошурова
+М. Махамдинов,
+Г. Азнабакиева,
+Г. Садирова
 </td>
-<td>2016</td>
+<td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
-Сават ечиш.
-№1, 2, 3 һөснихәт
+<td colspan="2">
+Ана тили.
+Иш дәптири №1, 2,
 </td>
 <td>
-М. Мәһәмдинов,
-Г. Азнибақиева,
+М. Махамдинов,
+Г. Азнабакиева,
 Г. Садирова
 </td>
-<td>2016</td>
+<td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
-Сават ечиш.
-2-қисим.
-№1-иш дәптири,
-№2-иш дәптири
+<td colspan="2">
+Ана тили.
+Оқутуш методикиси
 </td>
 <td>
-А. Арзиева,
-С. Һошурова
+М. Махамдинов,
+Г. Азнабакиева,
+Г. Садирова
 </td>
-<td>2016</td>
+<td>2021</td>
 <td>Атамұра</td>
 </tr>
 <tr>
 <td>5.</td>
+<td colspan="2">Ана тили. Диктантлар топлими</td>
 <td>
-Математика.
-Иш дәптири.
-1-бөлүм
+М. Махамдинов,
+Г. Азнабакиева,
+Г. Садирова
 </td>
-<td>
-Г. Жақыпова,
-Н. Орехова,
-Н. Лебедева,
-С. Уақбаева,
-Ә. Мәдхалықова,
-Н. Иманбаева
-</td>
-<td>2016</td>
-<td>
-«Назарбаев зияткерлікмектептері» ДББҰ -
-«Мектеп»
-</td>
+<td>2021</td>
+<td>Атамұра</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Математика.
-Ишд әптири.
-2-бөлүм
+№1, 2, 3, 4 иш дәптири
 </td>
 <td>
-Г. Жақыпова,
-Н. Орехова,
-Н. Лебедева,
-С. Уақбаева,
-А. Мұқашева
+Ә. Ақпаева,
+Л.Лебедева,
+М. Мыңжасарова,
+Т. Лихобабенко
 </td>
-<td>2016</td>
-<td>
-«Назарбаев зияткерлікмектептері» ДББҰ -
-«Мектеп»
-</td>
+<td>2021</td>
+<td>Алматыкітап</td>
 </tr>
 <tr>
 <td>7.</td>
+<td colspan="2">Цифрлиқ саватлиқ. Иш дәптири</td>
 <td>
-Тәбиәтшунаслиқ.
-Иш дәптири
+Г. Көпеева,
+Ә. Қаптағаева,
+А. Юсупова
 </td>
-<td>
-С. Кузнецова,
-Д. Сапақов,
-И. Васева,
-Ә. Жамиева,
-М. Қусаинова,
-М. Тасболатова
-</td>
-<td>2016</td>
-<td>
-«Назарбаев зияткерлікмектептері» ДББҰ -
-«Мектеп»
-</td>
+<td>2021</td>
+<td>Арман-ПВ</td>
 </tr>
 <tr>
 <td>8.</td>
+<td colspan="2">Өзини-өзи тонуш. Муәллимгә беғишланған методикилиқ қолланма</td>
 <td>
-Дуниятонуш.
-Иш дәптири
+Р. Муқажанова,
+Г. Омарова,
+Р. Изғуттынова,
+Ж.Әкимбаева,
+Л.Жетписбаева
 </td>
-<td>
-Қ. Байтенова,
-А. Жакеева,
-Е. Попова,
-Ш. Сауқатова,
-Ж. Сейтахметова,
-Л. Уфимцева
-</td>
-<td>2016</td>
-<td>
-«Назарбаев зияткерлікмектептері» ДББҰ -
-«Мектеп»
-</td>
+<td>2021</td>
+<td>ҰҒПББСО «Бөбек»</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Өзини-өзи тонуш. Методикилиқ қолланма</td>
+<td colspan="2">Өзини-өзи тонуш. Оқуғучи дәптири</td>
 <td>
-Р. Мукажанова,
+Р. Муқажанова,
 Г. Омарова,
 Р. Изғуттынова,
-Ж. Әкимбаева,
-Л. Жетписбаева
+Ж.Әкимбаева,
+Л.Жетписбаева
 </td>
-<td>2016</td>
-<td>Бөбек</td>
+<td>2021</td>
+<td>ҰҒПББСО «Бөбек»</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>
-Өзини-өзи тонуш.
-Оқуғучи дәптири
-</td>
-<td>
-Р. Мукажанова,
-Г. Омарова,
-Р. Изғуттынова,
-Ж. Әкимбаева,
-Л. Жетписбаева
-</td>
-<td>2016</td>
-<td>Бөбек</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>
-Музыка.
-Методикилиқ қолланма
-</td>
-<td>
-М. Оразалиева,
-С. Омарова
-</td>
-<td>2016</td>
-<td>Алматыкітап</td>
-</tr>
-<tr>
-<td>12.</td>
-<td>
-Музыка.
-Нота хрестоматияси
-</td>
-<td>
-Құраст.:
-М. Оразалиева,
-Н. Рембакиева,
-С. Ушурова
-</td>
-<td>2016</td>
-<td>Алматыкітап</td>
-</tr>
-<tr>
-<td>13.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
-Оқутуш методикиси
+Иш дәптири
 </td>
-<td>Н. Раупова</td>
-<td>2016</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>14.</td>
 <td>
-Бәдиий әмгәк.
-№1-иш дәптири,
-№2-иш дәптири
+Е. Ермилова,
+С. Попкова,
+С. Козина
 </td>
-<td>Н. Раупова</td>
-<td>2016</td>
-<td>Атамұра</td>
+<td>2021</td>
+<td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Оқутуш методикиси.
 1, 2 қисим
@@ -45404,7 +45466,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 № 1, 2 иш дәптири
 </td>
@@ -45418,7 +45480,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Диктантлар топлими
 </td>
@@ -45428,7 +45490,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Әдәбий оқуш.
 Оқутуш методикиси
 </td>
@@ -45441,8 +45503,8 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
-Әдәбийоқуш.
+<td colspan="2">
+Әдәбий оқуш.
 Хрестоматия
 </td>
 <td>
@@ -45454,7 +45516,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Тәбиәтшунаслиқ.
 Иш дәптири
 </td>
@@ -45467,7 +45529,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Дуниятонуш.
 Иш дәптири
 </td>
@@ -45481,7 +45543,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Оқутуш методикиси
 </td>
@@ -45491,9 +45553,9 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
-Бәдиийәмгәк.
-№ 1, 2 ишдәптири.
+<td colspan="2">
+Бәдиий әмгәк.
+№ 1, 2 иш дәптири.
 </td>
 <td>Н. Раупова</td>
 <td>2017</td>
@@ -45501,7 +45563,7 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Математика.
 Методикилиқ қурал
 </td>
@@ -45516,7 +45578,7 @@ TimFalla
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Математика.
 Иш дәптири. 1, 2, 3, 4 бөлүм
 </td>
@@ -45530,7 +45592,7 @@ TimFalla
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Методикилиқ қолланма
 </td>
@@ -45548,7 +45610,7 @@ TimFalla
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Оқуғучи дәптири
 </td>
@@ -45564,11 +45626,11 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Оқутуш методикиси
 </td>
@@ -45582,7 +45644,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Диктантлар топлими
 </td>
@@ -45592,7 +45654,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 № 1, 2 иш дәптири
 </td>
@@ -45606,7 +45668,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Әдәбий оқуш.
 Хрестоматия
 </td>
@@ -45619,8 +45681,8 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
-Әдәбийоқуш.
+<td colspan="2">
+Әдәбий оқуш.
 Оқутуш методикиси
 </td>
 <td>
@@ -45632,7 +45694,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 № 1, 2 иш дәптири
 </td>
@@ -45642,7 +45704,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Математика.
 Методикилиқ қурал.
 Электронлуқ нусха
@@ -45658,7 +45720,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Математика.
 Иш дәптири.
 1, 2, 3, 4 бөлүм
@@ -45673,17 +45735,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
-Әхбаратлиқ – коммуникацияликтехнологияләр.
-Ишдәптири
-</td>
-<td>Г. Көпеева</td>
-<td>2018</td>
-<td>Арман –ПВ</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Өзини-өзи тонуш. Методикилиқ қолланма</td>
+<td colspan="2">Өзини-өзи тонуш. Методикилиқ қолланма</td>
 <td>
 Р. Ізғұттынова,
 Р. Мұратханова,
@@ -45693,8 +45745,8 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>
+<td>10.</td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Оқуғучи дәптири
 </td>
@@ -45707,11 +45759,11 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Оқутуш методикиси
 </td>
@@ -45725,9 +45777,9 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
-Диктантлар топлими
+Диктантлартоплими
 </td>
 <td>Г. Садирова</td>
 <td>2019</td>
@@ -45735,7 +45787,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Әдәбий оқуш.
 Оқутуш методикиси
 </td>
@@ -45748,7 +45800,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Әдәбий оқуш.
 Хрестоматия
 </td>
@@ -45761,9 +45813,9 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
-№ 1, 2, 3, 4 иш дәптири
+№ 1, 2, 3, 4 ишдәптири
 </td>
 <td>
 Ә. Ақпаева,
@@ -45774,7 +45826,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Математика.
 Методикилиқ қолланма
 </td>
@@ -45789,9 +45841,9 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Тәбиәтшунаслиқ.
-Иш дәптири.
+Ишдәптири.
 1, 2 қисим
 </td>
 <td>
@@ -45802,12 +45854,12 @@ TimFalla
 М. Хонтай
 </td>
 <td>2019</td>
-<td>Назарбаев Әқлий мәктәплири</td>
+<td>Назарбаев Әқлиймәктәплири</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>
-Өзини-өзит онуш.
+<td colspan="2">
+Өзини-өзи тонуш.
 Муәллимгә беғишланған методикилиқ қолланма
 </td>
 <td>
@@ -45820,8 +45872,8 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
-Өзини-өзи тонуш.
+<td colspan="2">
+Өзини-өзит онуш.
 Оқуғучи дәптири
 </td>
 <td>
@@ -45833,11 +45885,11 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Информатика.
 Муәллим китави
 </td>
@@ -45850,7 +45902,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Методикилиқ қолланма
 </td>
@@ -45865,7 +45917,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Қизлар үчүн нусха. Методикилиқ қолланма
 </td>
@@ -45881,7 +45933,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Оғуллар үчүн нусха. Методикилиқ қолланма
 </td>
@@ -45896,11 +45948,11 @@ TimFalla
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Методикилиқ қолланма (қизлар үчүн нусха)
 </td>
@@ -45915,7 +45967,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Методикилиқ қолланма
 (оғуллар үчүн нусха)
@@ -45931,7 +45983,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>Өзини-өзи тонуш. Методикилиқ қолланма</td>
+<td colspan="2">Өзини-өзи тонуш. Методикилиқ қолланма</td>
 <td>
 С. Нуркеева,
 Б. Әлиев,
@@ -45941,11 +45993,11 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Методикилиқ қолланма
 </td>
@@ -45959,7 +46011,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>Уйғур әдәбияти. Методикилиқ қолланма</td>
+<td colspan="2">Уйғурәдәбияти. Методикилиқ қолланма</td>
 <td>
 А. Һәмраев,
 Х. Ниязова,
@@ -45970,7 +46022,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>Уйғур әдәбияти. Хрестоматия</td>
+<td colspan="2">Уйғур әдәбияти. Хрестоматия</td>
 <td>
 А. Һәмраев,
 Г. Садирова,
@@ -45982,9 +46034,9 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
-Бәдиий әмгәк.
-Қизлар үчүн нусха. Методикилиқ қолланма
+<td colspan="2">
+Бәдиийәмгәк.
+Қизлар үчүн нусха. Методикили ққолланма
 </td>
 <td>
 Р. Алимсаева,
@@ -45997,9 +46049,9 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
-Оғуллар үчүнн усха. Методикилиқ қолланма
+Оғуллар үчүн нусха. Методикилиқ қолланма
 </td>
 <td>
 В. Чукалин,
@@ -46013,7 +46065,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Методикилиқ қолланма
 </td>
@@ -46027,11 +46079,11 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Методикилиқ қолланма
 (қизлар үчүн нусха)
@@ -46047,7 +46099,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Бәдиий әмгәк.
 Методикилиқ қолланма
 </td>
@@ -46064,7 +46116,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Методикилиқ қолланма
 </td>
@@ -46078,7 +46130,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>Уйғур әдәбияти. Методикилиқ қолланма</td>
+<td colspan="2">Уйғур әдәбияти. Методикилиқ қолланма</td>
 <td>
 П. Мәхсәтова,
 М. Савутова
@@ -46088,7 +46140,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>Уйғур әдәбияти. Хрестоматия</td>
+<td colspan="2">Уйғур әдәбияти. Хрестоматия</td>
 <td>
 П. Мәхсәтова,
 Г. Тайирова
@@ -46098,7 +46150,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>Өзини-өзи тонуш. Методикилиқ қолланма</td>
+<td colspan="2">Өзини-өзи тонуш. Методикилиқ қолланма</td>
 <td>
 Р. Мұратханова
 Р. Ізғұттынова
@@ -46108,13 +46160,13 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
-Методикилиққолланма
+Методикилиқ қолланма
 </td>
 <td>
 Р. Арзиев,
@@ -46127,7 +46179,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>Уйғур әдәбияти. Методикилиқ қолланма</td>
+<td colspan="2">Уйғур әдәбияти. Методикилиқ қолланма</td>
 <td>
 А. Һәмраев,
 Т. Садиров,
@@ -46138,7 +46190,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>Уйғур әдәбияти. Хрестоматия</td>
+<td colspan="2">Уйғур әдәбияти. Хрестоматия</td>
 <td>
 Д.Рәйһанов,
 Т. Садиров,
@@ -46149,7 +46201,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Муәллимгә беғишланған методикилиқ қолланма
 </td>
@@ -46162,14 +46214,14 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Методикилиқ қолланма
 </td>
@@ -46184,7 +46236,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Методикилиқ қолланма
 </td>
@@ -46197,7 +46249,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Хрестоматия
 </td>
@@ -46210,11 +46262,11 @@ TimFalla
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Уйғур тили.
 Методикилиқ қолланма
 </td>
@@ -46229,7 +46281,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Методикилиқ қолланма
 </td>
@@ -46242,7 +46294,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Хрестоматия
 </td>
@@ -46254,11 +46306,11 @@ TimFalla
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Муәллимгә беғишланған методикилиқ қолланма
 </td>
@@ -46272,7 +46324,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>Тәдбикарлиқвәтиҗарәтасаслири. Методикилиқ қолланма</td>
+<td colspan="2">Тәдбикарлиқвәтиҗарәтасаслири. Методикилиқ қолланма</td>
 <td>
 С.Щеглов,
 Е.Дуйсенханов,
@@ -46282,14 +46334,14 @@ TimFalla
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық бағыт</td>
+<td colspan="6">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Уйғур тили. Методикилиқ қолланма</td>
+<td colspan="2">Уйғур тили. Методикилиқ қолланма</td>
 <td>
 М. Юнусова,
 Р. Һашимова,
@@ -46300,7 +46352,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>Уйғур әдәбияти. Методикилиқ қолланма</td>
+<td colspan="2">Уйғур әдәбияти. Методикилиқ қолланма</td>
 <td>
 П. Мәхсәтова,
 М. Савутова
@@ -46310,7 +46362,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>Уйғур әдәбияти. Хрестоматия</td>
+<td colspan="2">Уйғур әдәбияти. Хрестоматия</td>
 <td>
 П. Мәхсәтова,
 Р. Һәмраева
@@ -46319,11 +46371,11 @@ TimFalla
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Уйғур тили. Методикилиқ қолланма</td>
+<td colspan="2">Уйғур тили. Методикилиқ қолланма</td>
 <td>
 М. Юнусова,
 Р. Һашимова,
@@ -46334,7 +46386,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>Уйғур әдәбияти. Методикилиқ қолланма</td>
+<td colspan="2">Уйғур әдәбияти. Методикилиқ қолланма</td>
 <td>
 П. Мәхсәтова,
 Г. Дуганова
@@ -46344,7 +46396,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Уйғур әдәбияти.
 Хрестоматия
 </td>
@@ -46356,11 +46408,11 @@ TimFalla
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Өзини-өзи тонуш.
 Муәллимгә беғишланған методикилиқ қолланма
 </td>
@@ -46373,11 +46425,11 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">9 (8) сыныпқа арналған оқу-әдістемелік кешен</td>
+<td colspan="6">9 (8) сыныпқа арналған оқу-әдістемелік кешен</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Қазақстан тарихи. Мұғалімдерге арналған оқу құралы</td>
+<td colspan="2">Қазақстан тарихи. Мұғалімдерге арналған оқу құралы</td>
 <td>
 З.Қабылдинов,
 М.Шаймерденова,
@@ -46387,195 +46439,150 @@ TimFalla
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="5">оқыту өзбек тілінде</td>
+<td colspan="6">оқыту өзбек тілінде</td>
 </tr>
 <tr>
-<td colspan="5">1- сынып</td>
+<td colspan="6">1- сынып</td>
 </tr>
 <tr>
 <td>1.</td>
+<td colspan="2">Алифбе №1, №2 Ҳуснихат дафтари</td>
 <td>
-Савод таълими.
-Методик қулланма.
-1, 2 қисм
+Шамадиева Н.,
+Аташикова З.,
+Мусаева М.
 </td>
-<td>
-М. Мусаева,
-З. Аташикова,
-Н. Шамадиева
-</td>
-<td>2016</td>
+<td>2021</td>
 <td>Жазушы</td>
 </tr>
 <tr>
 <td>2.</td>
+<td colspan="2">Алифбе ўқув фанининг ўқитиш методикаси</td>
 <td>
-Савод таълими.
-Хуснихат №1, 2, 3
+Шамадиева Н.,
+Аташикова З.,
+Мусаева М.
 </td>
-<td>
-М. Мусаева,
-З. Аташикова,
-Н. Шамадиева
-</td>
-<td>2016</td>
+<td>2021</td>
 <td>Жазушы</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
-Савод таълими.
-3-қисм.
-Иш дафтари №1, 2
+<td colspan="2">
+Она тили.
+№3, №4 Иш дафтари
 </td>
 <td>
-Н. Шамадиева,
-З. Аташикова,
-М. Мусаева
+Шамадиева Н.,
+Аташикова З.,
+Мусаева М.
 </td>
-<td>2016</td>
+<td>2021</td>
 <td>Жазушы</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
-Математика.
-Иш дафтари.
-№1 булим.
+<td colspan="2">
+Она тили.
+Уқув фанини уқитиш методикаси
 </td>
 <td>
-Г. Жақыпова,
-Н. Орехова,
-Н. Лебедева,
-С. Уақбаева,
-Ә. Мәдхалықова,
-Н. Иманбаева
+Мусаева М.
+Шамадиева Н.,
+Аташикова З.
 </td>
-<td>2016</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ - «Жазушы»</td>
+<td>2021</td>
+<td>Жазушы</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
-Иш дафтари.
-№2 булим
+№1, 2, 3, 4 иш дафтари
 </td>
 <td>
-Г. Жақыпова,
-Н. Орехова,
-Н. Лебедева,
-С. Уақбаева,
-А. Мұқашева
+А. Ақпаева,
+Л.Лебедева,
+М. Минжасарова,
+Т. Лихобабенко
 </td>
-<td>2016</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ - «Жазушы»</td>
+<td>2021</td>
+<td>Алматыкітап- Жазушы</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Табиатшунослик.
-Иш дафтари
+Ўқувчи дафтари
 </td>
 <td>
-С. Кузнецова,
-Д. Сапақов,
-И. Васева,
-А. Жамиева,
-М. Құсайынова,
-М. Тасбулатова
+С.Кучербаева,
+И.Темникова
 </td>
-<td>2016</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ - «Жазушы»</td>
+<td>2021</td>
+<td>Атамұра- Жазушы</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>
-Дунëтаниш.
-Иш дафтари
+<td colspan="2">
+Дунётаниш.
+Ўқувчи дафтари
 </td>
 <td>
-К. Байтенова,
-А. Жакеева,
-Е. Попова,
-Ш. Саукатова,
-Ж. Сейтахметова,
-Л. Уфимцева
+Б. Турмашева,
+С. Салиш
 </td>
-<td>2016</td>
-<td>Назарбаев Зияткерлікмектептері» ДББҰ - «Жазушы»</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>
-Уз-узини англаш.
-Уқитувчи учун услубий қулланм.
-</td>
-<td>
-Р. Мукажанова,
-Г. Омарова,
-А. Сапарбаева,
-С. Кедрук,
-Е. Клевцова
-</td>
-<td>2016</td>
-<td>Бобек</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>
-Уз-узини англаш.
-Уқувчи дафтари
-</td>
-<td>
-Р. Мукажанова,
-Г. Омарова,
-А. Сапарбаева,
-С. Кедрук,
-Е. Клевцова
-</td>
-<td>2016</td>
-<td>Бобек</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>
-Мусиқа
-Нота хрестоматияси
-</td>
-<td>
-Тузувчи:
-М. Оразалиева
-</td>
-<td>2016</td>
-<td>Алматыкітап -Жазушы</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>
-Бадиий мехнат.
-Услубий қулланма
-</td>
-<td>Н. Раупова</td>
-<td>2016</td>
-<td>Атамұра -Жазушы</td>
-</tr>
-<tr>
-<td>12.</td>
-<td>
-Бадиий мехнат.
-Ишдафтари №1, 2
-</td>
-<td>Н. Раупова</td>
-<td>2016</td>
+<td>2021</td>
 <td>Атамұра - Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td>8.</td>
+<td colspan="2">Ўз-ўзини англаш. Ўқитувчи учун услубий қўлланма</td>
+<td>
+Р.Мукажанова,
+Г.Ўмарова,
+А.Сапарбаева
+С.Кедрук,
+Е.Клевцова,
+</td>
+<td>2021</td>
+<td>ҰҒПББСО «Бөбек»</td>
+</tr>
+<tr>
+<td>9.</td>
+<td colspan="2">Ўз-ўзини англаш.Ўқувчи дафтари</td>
+<td>
+Р.Мукажанова,
+Г.Ўмарова,
+А.Сапарбаева,
+С.Кедрук,
+Е.Клевцова
+Т.Рудькова,
+А.Намазбаева
+</td>
+<td>2021</td>
+<td>ҰҒПББСО «Бөбек»</td>
+</tr>
+<tr>
+<td>10.</td>
+<td colspan="2">
+Бадиий меҳнат.
+Иш дафтари
+</td>
+<td>
+Е. Ермилова,
+С. Попкова,
+С. Козина
+</td>
+<td>2021</td>
+<td>Мектеп- Жазушы</td>
+</tr>
+<tr>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Әдістемелік құрал
 </td>
@@ -46589,7 +46596,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Жұмысдәптері №1, №2
 </td>
@@ -46603,7 +46610,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Әдістемелік құрал
 </td>
@@ -46617,7 +46624,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 Жұмыс дәптері
 </td>
@@ -46631,10 +46638,10 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
 № 1, 2, 3, 4
-ишдафтари
+иш дафтари
 </td>
 <td>
 А. Акпаева,
@@ -46646,7 +46653,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Табиатшунослик.
 № 1, 2 иш дафтари
 </td>
@@ -46663,7 +46670,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Укувчи дафтари
 </td>
@@ -46680,7 +46687,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Мусиқа.
 Нота хрестоматияси
 </td>
@@ -46696,7 +46703,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Бадииймехнат.
 № 1, 2 иш дафтари
 </td>
@@ -46705,11 +46712,11 @@ TimFalla
 <td>Атамұра –Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Иш дафтари № 1, 2
 </td>
@@ -46723,8 +46730,8 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Адабийуқиш.
+<td colspan="2">
+Адабий уқиш.
 Ишдафтари
 </td>
 <td>
@@ -46737,9 +46744,9 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
-Ишдафтари.
+Иш дафтари.
 1, 2, 3, 4 қисм
 </td>
 <td>
@@ -46754,24 +46761,11 @@ TimFalla
 <td>Алматыкітап-Жазушы</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>
-Ахборот- коммуникацион технологиялари.
-Иш дафтари
-</td>
-<td>
-Р. Кадыркулов,
-А. Рыскулбекова
-</td>
-<td>2018</td>
-<td>Алматыкітап-Жазушы</td>
-</tr>
-<tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек тили.
 Иш дафтари №1, 2
 </td>
@@ -46785,7 +46779,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Адабий уқиш.
 Иш дафтари
 </td>
@@ -46799,7 +46793,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 №1, 2, 3, 4 ишдафтари
 </td>
@@ -46812,7 +46806,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Уқитувчи учун услубий қулланма
 </td>
@@ -46826,7 +46820,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Уқувчи дафтари
 </td>
@@ -46839,11 +46833,11 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Информатика.
 Уқитувчи учун китоб
 </td>
@@ -46856,7 +46850,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Методик қулланма
 (уғил болалар учун нусха)
@@ -46873,7 +46867,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Дарслик
 (қизлар учун нусха)
@@ -46890,10 +46884,10 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Методик қулланма
-(қизлар учунн усха)
+(қизлар учун нусха)
 </td>
 <td>
 Р. Алимсаева,
@@ -46906,17 +46900,16 @@ TimFalla
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Мажмуа
 </td>
 <td>
-Составители:
-(Тузувчилар)
+Составители: (Тузувчилар)
 Б. Турдикулов,
 З. Ташева,
 А. Урмонова
@@ -46926,7 +46919,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Методик қулланма
 (уғил болалар учун нусха)
@@ -46942,8 +46935,8 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
-Бадиий мехнат.
+<td colspan="2">
+Бадииймехнат.
 Методик қулланма
 (қизлар учун нусха)
 </td>
@@ -46958,7 +46951,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Методик қулланма
 </td>
@@ -46971,14 +46964,14 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Методик қулланма
-(уғил болалар учун нусха)
+( уғил болалар учун нусха )
 </td>
 <td>
 В. Чукалин,
@@ -46992,7 +46985,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Методик қулланма
 (қизлар учун нусха)
@@ -47007,11 +47000,11 @@ TimFalla
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Мажмуа
 </td>
@@ -47027,7 +47020,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Методик қулланма
 (уғил болалар учун нусха)
@@ -47045,7 +47038,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Бадиий мехнат.
 Методик қулланма
 (қизлар учун нусха)
@@ -47060,11 +47053,11 @@ TimFalla
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Мажмуа
 </td>
@@ -47078,7 +47071,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Уз-узини англаш.
 Уқитувчи учун услубий қулланма
 </td>
@@ -47091,14 +47084,14 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Мажмуа
 </td>
@@ -47111,11 +47104,11 @@ TimFalla
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Тадбиркорликва бизнес асослари. Услубий кўлланма</td>
+<td colspan="2">Тадбиркорликва бизнес асослари. Услубий кўлланма</td>
 <td>
 С. Шчеглов,
 Е. Дуйсенханов,
@@ -47125,14 +47118,14 @@ TimFalla
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">11-сынып</td>
+<td colspan="6">11-сынып</td>
 </tr>
 <tr>
-<td colspan="5">жаратылыстану-математикалық бағыт</td>
+<td colspan="6">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Узбек адабиети.
 Мажмуа
 </td>
@@ -47145,11 +47138,11 @@ TimFalla
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="5">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<td colspan="6">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Уз-узини англаш. Уқитувчи учун услубий қӘлланма</td>
+<td colspan="2">Уз-узини англаш. Уқитувчи учун услубий қӘлланма</td>
 <td>
 Г. Омарова,
 А. Рысбаева,
@@ -47161,7 +47154,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>Тадбиркорликва бизнес асослари. Услубий кулланма</td>
+<td colspan="2">Тадбиркорликва бизнес асослари. Услубий кулланма</td>
 <td>
 Е. Дуйсенханов,
 С. Шчеглов
@@ -47170,14 +47163,14 @@ TimFalla
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="5">оқыту тәжік тілінде</td>
+<td colspan="6">оқыту тәжік тілінде</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Худшиносй.
 Дафтариталаба
 </td>
@@ -47193,7 +47186,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Худшиносй.
 Дастуриметодйбароимуаллим
 </td>
@@ -47208,14 +47201,17 @@ TimFalla
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ тілінде</td>
+<td colspan="6">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<td colspan="5">5-11 сыныптарға арналған «Абайтану» және «Өлкетану» оқу-әдістемелік кешендері</td>
+<td colspan="6">
+5-11 сыныптарға арналған «Абайтану» және «Өлкетану»
+оқу-әдістемелік кешендері
+</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Мұғалім кітабы.
 9 – сынып
@@ -47226,7 +47222,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Әдістемелік құрал.
 5-7 сынып
@@ -47240,7 +47236,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Абайтану. Мұғалім кітабы.
 10-11 сынып
 </td>
@@ -47250,7 +47246,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Өлкетану.
 Хрестоматия. 1, 2 бөлім
 </td>
@@ -47270,7 +47266,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Мұғалім кітабы.
 9-сынып
@@ -47281,7 +47277,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Абайтану: Мұғалім кітабы.
 Жалпы білім беретін мектептің 9-сынып мұғалімдеріне арналған әдістемелік құрал
 </td>
@@ -47295,7 +47291,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Абайтану.
 Мұғалім кітабы.
 10-сынып
@@ -47305,44 +47301,41 @@ TimFalla
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td colspan="5">оқыту орыс тілінде</td>
+<td colspan="6">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<td colspan="5">5-11 сыныптар</td>
+<td colspan="6">5-11 сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Краеведение.
 Хрестоматия.
 1, 2 часть
 </td>
 <td>
-Байпаков К.,
-Кабульдинов З.,
+Байпаков К., Кабульдинов З.,
 Кан Г.,
 Корабаев С.,
 Абдигалиев Б.,
-Сужикова А.,
-Абдишукурулы О.,
-Диденко А.,
+Сужикова А., Абдишукурулы О., Диденко А.,
 Мазбаев О.
 </td>
 <td>2019</td>
 <td>Алматыкітап</td>
 </tr>
 <tr>
-<td colspan="5">Ерекше білім беруге қажеттілігі бар балаларғы арналған оқу әдебиеттері</td>
+<td colspan="6">Ерекше білім беруге қажеттілігі бар балаларғы арналған оқу әдебиеттері</td>
 </tr>
 <tr>
-<td colspan="5">оқыту қазақ тілінде</td>
+<td colspan="6">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<td colspan="5">Мектепке дейінгі тәрбие мен оқыту</td>
+<td colspan="6">Мектепке дейінгі тәрбие мен оқыту</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Біз сөйлеп үйренеміз.
 Есту қабілетінде бұзылыстары бар мектеп жасына дейінгі балалар мен төменгі сынып оқушыларына арналған жұмыс дәптері.
 </td>
@@ -47356,8 +47349,8 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Дауыссыз К, Х, дыбыстарын дұрыс айтуға үйрету.
+<td colspan="2">
+ДауыссызК, Х, дыбыстарын дұрыса йтуға үйрету.
 Оқу-әдістемелік құрал
 </td>
 <td>Қ. Өмірбекова</td>
@@ -47366,7 +47359,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Біз сөйлеп үйренеміз.
 Есту қабілетінде бұзылыстары бар мектеп жасына дейінгі балалар мен төменгі сынып оқушыларына арналған оқу құралы
 </td>
@@ -47380,30 +47373,30 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>3-7 жастағы балалардың даму ерекшеліктері. Мұғалімдерге, тәрбиешілерге, психологтарға арналған әдістемелік құрал</td>
+<td colspan="2">3-7 жастағы балалардың даму ерекшеліктері. Мұғалімдерге, тәрбиешілерге, психологтарға арналған әдістемелік құрал</td>
 <td>Г. Есенжолова</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</td>
+<td colspan="6">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<td colspan="5">0-сынып</td>
+<td colspan="6">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Көркем еңбек (тифлографика)</td>
+<td colspan="2">Көркем еңбек (тифлографика)</td>
 <td>Т. Вишневская</td>
 <td>2018</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Сауат ашу.
 Әдістемелік құрал
 </td>
@@ -47413,8 +47406,8 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Сауаташу.
+<td colspan="2">
+Сауат ашу.
 Жұмыс дәптері № 1, 2
 </td>
 <td>
@@ -47426,7 +47419,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>Айналадағы әлем. Әдістемелік құрал</td>
+<td colspan="2">Айналадағы әлем. Әдістемелік құрал</td>
 <td>
 З. Мовкебаева,
 Д. Хамитова
@@ -47436,7 +47429,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Жұмыс дәптері № 1, 2
 </td>
@@ -47449,7 +47442,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік құрал
 </td>
@@ -47463,9 +47456,9 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Математика.
-Жұмысдәптері № 1, 2
+Жұмыс дәптері № 1, 2
 </td>
 <td>
 Р. Сулейменова,
@@ -47477,7 +47470,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қол еңбегі.
 Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 1 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларды оқытуға арналған әдістемелік құрал
 </td>
@@ -47491,7 +47484,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қол еңбегі.
 Жұмыс дәптері № 1, 2
 </td>
@@ -47505,9 +47498,9 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Бейнелеу өнері.
-Зерде бұзылыстары барбілім алушыларға арналған арнайы мектептің 1 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларды оқытуға арналған әдістемелік құрал
+Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 1 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларды оқытуға арналған әдістемелік құрал
 </td>
 <td>
 Б. Халықова,
@@ -47518,7 +47511,7 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Бейнелеу өнері.
 Жұмыс дәптері № 1, 2
 </td>
@@ -47531,7 +47524,7 @@ TimFalla
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Сауат ашу.
 Рельефті-нүктелі әліппе. Әдістемелік нұсқау.
 Көру қабілеті зақымдалған бастауыш сынып мұғалімдеріне арналған
@@ -47545,22 +47538,22 @@ TimFalla
 </tr>
 <tr>
 <td>12.</td>
-<td>Көркем еңбек (тифлографика)</td>
+<td colspan="2">Көркем еңбек (тифлографика)</td>
 <td>Т. Вишневская</td>
 <td>2018</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</td>
+<td colspan="6">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Сауат ашу.
-Жазу дәптері № 1, 2, 3, 4, 5
+Жазу дәптері№ 1, 2, 3, 4, 5
 </td>
 <td>
 Ж. Жұмабаева
@@ -47575,7 +47568,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Сауат ашу.
 Жұмыс дәптері
 № 1, 2
@@ -47594,7 +47587,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь № 1, 2, 3 для школ с казахским языком обучения
 </td>
@@ -47609,7 +47602,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Жұмыс дәптері
 № 1, 2, 3, 4
@@ -47624,14 +47617,14 @@ TimFalla
 Э. Жұмабекова
 </td>
 <td>2016</td>
-<td>«Назарбаев зияткерлікмектептері» ДББҰ -ӘБЕО</td>
+<td>«Назарбаев зияткерлік мектептері» ДББҰ -ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 №1-4 жұмыс дәптері
 </td>
@@ -47647,7 +47640,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Әдебиеттік оқу.
 №1-3 жұмыс дәптері
 </td>
@@ -47661,30 +47654,29 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 №1-8жұмыс дәптері
 </td>
 <td>
 Ә. Ақпаева,
 Л. Лебедева,
-М. Мыңжасарова
-Бейімдеген:
+М. Мыңжасарова Бейімдеген:
 Э. Жумабекова
 </td>
 <td>2020</td>
 <td>Алматыкітап-ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Қазақ тілі. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған жұмыс дәптері №1-4</td>
+<td colspan="2">Қазақ тілі. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған жұмыс дәптері №1-4</td>
 <td>
-Ә. Жұмабаева,
-А. Амирова,
-М. Оспанбекова
+Ә.Жұмабаева,
+А.Амирова,
+М.Оспанбекова
 Бейімдеген:
 И. Жунусканова
 </td>
@@ -47693,11 +47685,10 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>Әдебиеттік оқу. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған жұмыс дәптері №1-3</td>
+<td colspan="2">Әдебиеттік оқу. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған жұмыс дәптері №1-3</td>
 <td>
 З. Мүфтибекова,
-Ә. Рысқұлбекова
-Бейімдеген:
+Ә. Рысқұлбекова Бейімдеген:
 И. Жунусканова
 </td>
 <td>2021</td>
@@ -47705,10 +47696,9 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>Әдебиеттік оқу. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған хрестоматия</td>
+<td colspan="2">Әдебиеттік оқу. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған хрестоматия</td>
 <td>
-З. Мүфтибекова,
-Бейімдеген:
+З. Мүфтибекова, Бейімдеген:
 И. Жунусканова
 </td>
 <td>2021</td>
@@ -47716,25 +47706,24 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 4-сынып оқушыларына арналған жұмыс дәптері №1-8
 </td>
 <td>
-Ә. Ақпаева,
-Л. Лебедева,
-Бейімдеген:
+Ә.Ақпаева,
+Л.Лебедева, Бейімдеген:
 Р. Шаканова
 </td>
 <td>2021</td>
 <td>Атамұра- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Қазақ әдебиеті. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 6-сынып оқушыларына арналған хрестоматия</td>
+<td colspan="2">Қазақ әдебиеті. Арнайы мектептердің (сыныптардың) көру қабілеті бұзылған (нашар көретін) 6-сынып оқушыларына арналған хрестоматия</td>
 <td>
 А. Ақтанова,
 А. Жүндібаева
@@ -47745,14 +47734,14 @@ TimFalla
 <td>Атамұра- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</td>
+<td colspan="6">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<td colspan="5">0-сынып</td>
+<td colspan="6">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Сауат ашу.
 Әдістемелік құрал.
 </td>
@@ -47766,7 +47755,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Сауат ашу.
 Жұмыс дәптері
 № 1, 2
@@ -47781,7 +47770,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік құрал
 </td>
@@ -47795,9 +47784,9 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
-Жұмыс дәптері
+Жұмысдәптері
 </td>
 <td>
 Р. Сулейменова,
@@ -47809,7 +47798,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Әдістемелік құрал
 </td>
@@ -47822,7 +47811,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Жұмыс дәптері
 № 1, 2
@@ -47836,7 +47825,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>Қолеңбегі. Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 0-сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларды оқытуға арналған әдістемелік құрал</td>
+<td colspan="2">Қолеңбегі. Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 0-сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларды оқытуға арналған әдістемелік құрал</td>
 <td>
 Б. Халықова,
 А. Рсалдинова,
@@ -47847,7 +47836,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қол еңбегі.
 Жұмыс дәптері
 № 1, 2
@@ -47862,7 +47851,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>Бейнелеу өнері. Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 0 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларды оқытуға арналған әдістемелік құрал</td>
+<td colspan="2">Бейнелеу өнері. Зерде бұзылыстары бар білім алушыларға арналған арнайы мектептің 0 сыныбындағы жеңіл ақыл-ой кемістігі бар білім алушыларды оқытуға арналған әдістемелік құрал</td>
 <td>
 Б. Халықова,
 Н. Юлдабаева
@@ -47872,7 +47861,7 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Бейнелеу өнері.
 Жұмыс дәптері
 № 1, 2
@@ -47886,9 +47875,9 @@ TimFalla
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Математика.
-Әдістемелік құрал.
+Әдістемелікқұрал.
 </td>
 <td>
 К. Ибрагимова,
@@ -47900,9 +47889,9 @@ TimFalla
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Математика.
-Жұмыс дәптері
+Жұмысдәптері
 № 1, 2
 </td>
 <td>
@@ -47914,11 +47903,11 @@ TimFalla
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -47931,7 +47920,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -47944,7 +47933,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік құрал
 </td>
@@ -47958,7 +47947,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Жұмыс дәптері
 </td>
@@ -47972,7 +47961,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Әдістемелік құрал
 </td>
@@ -47986,9 +47975,9 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
-Жұмыс дәптері
+Жұмысдәптері
 </td>
 <td>
 К. Бектаева,
@@ -48000,7 +47989,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -48010,7 +47999,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -48023,7 +48012,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Әдістемелік құрал
 </td>
@@ -48036,7 +48025,7 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Жұмыс дәптері
 </td>
@@ -48048,14 +48037,13 @@ TimFalla
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің
-3 сыныбына арналған жұмыс дәптері
+Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің 3 сыныбына арналған жұмыс дәптері
 </td>
 <td>
 К. Бекмұхамбетова,
@@ -48066,10 +48054,9 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің
-3 сыныбына арналған әдістемелік нұсқау
+Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің 3 сыныбына арналған Әдістемелік нұсқау
 </td>
 <td>
 К. Бекмұхамбетова,
@@ -48080,7 +48067,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің бірінші бөліміне арналған жұмыс дәптері
 </td>
@@ -48090,7 +48077,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің бірінші бөліміне арналған әдістемелік нұсқау
 </td>
@@ -48100,7 +48087,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -48114,7 +48101,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -48128,9 +48115,9 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Математика.
-Әдістемелік құрал
+Әдістемелікқұрал
 </td>
 <td>И.Елисеева</td>
 <td>2020</td>
@@ -48138,9 +48125,9 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Математика.
-Жұмыс дәптері
+Жұмысдәптері
 </td>
 <td>Ш.Карипжанова</td>
 <td>2020</td>
@@ -48148,7 +48135,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Әдістемелік құрал
 </td>
@@ -48162,7 +48149,7 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Жұмыс дәптері
 </td>
@@ -48176,7 +48163,7 @@ TimFalla
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -48189,7 +48176,7 @@ TimFalla
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -48202,9 +48189,9 @@ TimFalla
 </tr>
 <tr>
 <td>13.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
-Әдістемелік құрал
+Әдістемелікқұрал
 </td>
 <td>Ю. Кислякова</td>
 <td>2020</td>
@@ -48212,20 +48199,20 @@ TimFalla
 </tr>
 <tr>
 <td>14.</td>
-<td>
-Айналадағы әлем.
-Жұмыс дәптері
+<td colspan="2">
+Айналадағыәлем.
+Жұмысдәптері
 </td>
 <td>А. Юсупова</td>
 <td>2020</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Қазақ тілі. Әдістемелік құрал</td>
+<td colspan="2">Қазақ тілі. Әдістемелік құрал</td>
 <td>
 А. Биисова,
 Л. Джусупкалиева
@@ -48235,7 +48222,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>Қазақ тілі. Жұмыс дәптері</td>
+<td colspan="2">Қазақ тілі. Жұмыс дәптері</td>
 <td>
 А. Биисова,
 Л. Джусупкалиева
@@ -48245,7 +48232,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Кестелік көбейту және бөлу. Білім алуда ерекше қажеттіліктері бар оқушыларға арналған
 №1, №2 жұмыс дәптері
@@ -48259,7 +48246,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Кестелік көбейту және бөлу.
 Әдістемелік нұсқау
@@ -48270,27 +48257,27 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>Математика. Әдістемелік құрал</td>
+<td colspan="2">Математика. Әдістемелік құрал</td>
 <td>
 Р. Сүлейменова,
-И. Елисеева
+И.Елисеева
 </td>
 <td>2021</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Математика. Жұмыс дәптері</td>
+<td colspan="2">Математика. Жұмыс дәптері</td>
 <td>Ш. Карипжанова</td>
 <td>2021</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Оқу және тіл дамыту. Әдістемелік құрал.</td>
+<td colspan="2">Оқу және тіл дамыту. Әдістемелік құрал.</td>
 <td>
 Р. Сүлейменова,
-А. Алтыбаева,
+А.Алтыбаева,
 А. Калиева,
 Л. Турсунова
 </td>
@@ -48299,10 +48286,10 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>Оқу және тіл дамыту. Жұмыс дәптері</td>
+<td colspan="2">Оқу және тіл дамыту. Жұмыс дәптері</td>
 <td>
 Р. Сүлейменова,
-А. Алтыбаева,
+А.Алтыбаева,
 А. Калиева,
 Л. Турсунова
 </td>
@@ -48311,7 +48298,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>Русский язык. Методическое пособие</td>
+<td colspan="2">Русский язык. Методическое пособие</td>
 <td>
 Б. Халыкова,
 О. Карелина
@@ -48321,7 +48308,7 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -48334,24 +48321,24 @@ TimFalla
 </tr>
 <tr>
 <td>11.</td>
-<td>Айналадағы әлем. Әдістемелік құрал</td>
+<td colspan="2">Айналадағы әлем. Әдістемелік құрал</td>
 <td>А. Юсупова</td>
 <td>2021</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Айналадағы әлем. Жұмыс дәптері</td>
+<td colspan="2">Айналадағы әлем. Жұмыс дәптері</td>
 <td>А. Юсупова</td>
 <td>2021</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -48364,7 +48351,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -48377,7 +48364,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік құрал
 </td>
@@ -48391,7 +48378,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Жұмыс дәптері
 </td>
@@ -48405,7 +48392,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Әдістемелік құрал
 </td>
@@ -48419,9 +48406,9 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
-Жұмыс дәптері
+Жұмысдәптері
 </td>
 <td>
 К. Бектаева,
@@ -48433,7 +48420,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -48446,7 +48433,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -48459,7 +48446,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Әдістемелік құрал
 </td>
@@ -48472,7 +48459,7 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Айналадағы әлем.
 Жұмыс дәптері
 </td>
@@ -48485,7 +48472,7 @@ TimFalla
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия.
 5 сынып
@@ -48498,11 +48485,11 @@ TimFalla
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>«Әдебиет» арнайы білім беру мекемелеріне арналған хрестоматия</td>
+<td colspan="2">«Әдебиет»арнайы білім беру мекемелеріне арналған хрестоматия</td>
 <td>
 Г. Есенжолова,
 Т. Мельникова
@@ -48512,7 +48499,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -48526,7 +48513,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -48540,7 +48527,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Әдістемелік құрал
 </td>
@@ -48554,7 +48541,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Жұмыс дәптері
 </td>
@@ -48568,7 +48555,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -48581,7 +48568,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -48594,7 +48581,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік құрал
 </td>
@@ -48604,7 +48591,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Математика.
 Жұмыс дәптері
 </td>
@@ -48614,7 +48601,7 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал
 </td>
@@ -48627,7 +48614,7 @@ TimFalla
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Жұмыс дәптері
 </td>
@@ -48639,11 +48626,11 @@ TimFalla
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -48656,7 +48643,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -48669,7 +48656,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік құрал
 </td>
@@ -48683,7 +48670,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Жұмыс дәптері
 </td>
@@ -48697,7 +48684,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Әдістемелік құрал
 </td>
@@ -48711,7 +48698,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Жұмыс дәптері
 </td>
@@ -48725,7 +48712,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -48738,7 +48725,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -48751,7 +48738,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал
 </td>
@@ -48765,7 +48752,7 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Жұмыс дәптері
 </td>
@@ -48778,11 +48765,22 @@ TimFalla
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td>11.</td>
+<td colspan="2">Қазақстан тарихы. Әдістемелік құрал</td>
+<td>
+Е. Әбіл,
+Г. Абаева,
+Г. Кертаева
+</td>
+<td>2021</td>
+<td>Консалтинг &amp; Тренинг Компаниясы</td>
+</tr>
+<tr>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -48795,8 +48793,8 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Қазақтілі
+<td colspan="2">
+Қазақ тілі
 Әдістемелік құрал
 </td>
 <td>
@@ -48808,7 +48806,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ әдебиеті.
 Хрестоматия
 </td>
@@ -48821,14 +48819,17 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>«Диалогтық сөйлеу тілін дамыту» логопедтнр мен тәрбиешілерге арналған</td>
+<td colspan="2">
+«Диалогтық сөйлеу тілін дамыту» логопедтер мен
+тәрбиешілерге арналған
+</td>
 <td>Г. Есенжолова</td>
 <td>2012</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -48841,7 +48842,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Оқу және тіл дамыту.
 Әдістемелік құрал
 </td>
@@ -48855,7 +48856,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -48868,7 +48869,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік құрал
 </td>
@@ -48878,7 +48879,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал
 </td>
@@ -48890,11 +48891,22 @@ TimFalla
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td>10.</td>
+<td colspan="2">Қазақстан тарихы. Әдістемелік құрал</td>
+<td>
+Е. Әбіл,
+Г. Абаева,
+Г. Кертаева
+</td>
+<td>2021</td>
+<td>Консалтинг &amp; Тренинг Компаниясы</td>
+</tr>
+<tr>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Көмекші мектепке арналған.
 Мұғалімге арналған әдістемелік құрал
@@ -48908,7 +48920,7 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Көмекші мектепке арналған.
 Жұмыс дәптері
@@ -48922,7 +48934,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>Қазақ тілі. Әдістемелік құрал</td>
+<td colspan="2">Қазақ тілі. Әдістемелік құрал</td>
 <td>
 А. Биисова,
 Ф. Жалетденова
@@ -48932,7 +48944,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>Математика. Әдістемелік құрал</td>
+<td colspan="2">Математика. Әдістемелік құрал</td>
 <td>
 Р. Сүлейменова,
 И. Елисеева
@@ -48942,10 +48954,7 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
-Оқу және тіл дамыту.
-Әдістемелік құрал
-</td>
+<td colspan="2">Оқу және тіл дамыту. Әдістемелік құрал</td>
 <td>
 Р. Сүлейменова,
 К. Каменова,
@@ -48956,7 +48965,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>Русский язык. Методическое пособие</td>
+<td colspan="2">Русский язык. Методическое пособие</td>
 <td>
 В. Хвойницкая,
 Б. Халыкова
@@ -48966,7 +48975,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Жаратылыстану.
 Әдістемелік құрал
 </td>
@@ -48978,13 +48987,24 @@ TimFalla
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">10-сынып</td>
+<td>8.</td>
+<td colspan="2">Қазақстан тарихы. Әдістемелік құрал,</td>
+<td>
+Г. Абаева,
+Г. Кертаева,
+Е. Әбіл
+</td>
+<td>2021</td>
+<td>Консалтинг &amp; Тренинг Компаниясы</td>
+</tr>
+<tr>
+<td colspan="6">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің
+Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп тің
 10-сыныбына арналған.
 Әдістемелік құрал
 </td>
@@ -48997,9 +49017,9 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>
-Қазақтілі.
-Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің10-сыныбына арналған жұмыс дәптері
+<td colspan="2">
+Қазақ тілі.
+Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп тің 10-сыныбына арналған жұмыс дәптері
 </td>
 <td>
 К. Бекмухамбетова,
@@ -49010,7 +49030,7 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Білім берудің бірінші кезеңі (дайындық кезеңі).
 Жұмыс дәптері
@@ -49021,7 +49041,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Әдістемелік құрал.
 Білім берудің бірінші кезеңі
@@ -49033,13 +49053,13 @@ TimFalla
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Еңбекке баулу.
-Қолөнер кәсібі.
+Қол өнеркәсібі.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп.
 2- бөлім.
 Оқу-әдістемелік кешен. «Қағазбен және қатырма қағазбен жұмыс»:
-Мұғалімге арналған бағдарламалық-әдістемелік кұрал.
+Мұғалімге арналған бағдарламалық-әдістемелік кұрал
 2-бөлім
 </td>
 <td>
@@ -49051,13 +49071,12 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Еңбекке баулу.
-Қол өнеркәсібі.
-Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп.
-2-бөлім.
+Қолөнер кәсібі.
+Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2-бөлім.
 «Моншақпен және шытыра моншақпен жұмыс»:
-Оқу-әдістемеліккешен
+Оқу-әдістемелік кешен
 </td>
 <td>
 Р. Қойшибаева,
@@ -49068,9 +49087,9 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>
-Еңбекк ебаулу.
-Қолөнеркәсібі. «Моншақпен және шытыра моншақпен жұмыс»:
+<td colspan="2">
+Еңбекке баулу.
+Қолөнер кәсібі. «Моншақпен және шытыра моншақпен жұмыс»:
 Бұйымдардың технологиялық картасы
 </td>
 <td>Р. Қойшибаева</td>
@@ -49079,10 +49098,10 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Еңбекке баулу.
 Қолөнер кәсібі. «Моншақпен және шытыра моншақпен жұмыс»:
-Жұмысдәптері
+Жұмыс дәптері
 </td>
 <td>Р. Қойшибаева</td>
 <td>2014</td>
@@ -49090,7 +49109,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Еңбекке баулу.
 Қолөнер кәсібі.
 Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп.
@@ -49107,15 +49126,15 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Қалдық материалдар менжұмыс. Бұйымдарды жасаудың технологиялық картасы</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Қалдық материалдармен жұмыс Бұйымдарды жасаудың технологиялық картасы</td>
 <td>К. Гелеверя</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>
-Еңбекке баулу. Қолөнер кәсібі. Қалдық материалдармен жұмыс.
+<td colspan="2">
+Еңбекке баулу. Қолөнер кәсібі. Қалдық материалдармен жұмыс
 Жұмыс дәптері
 </td>
 <td>К. Гелеверя</td>
@@ -49124,7 +49143,7 @@ TimFalla
 </tr>
 <tr>
 <td>12.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелі ккешен. Сазбен және тұзды қамырмен жұмыс. Мұғалімге арналған бағдарламалық-әдістемелік кұрал. 2-бөлім</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. Сазбен және тұзды қамырмен жұмыс. Мұғалімге арналған бағдарламалық-әдістемелік кұрал 2-бөлім</td>
 <td>
 Т. Петрова,
 В. Юдина,
@@ -49136,29 +49155,29 @@ TimFalla
 </tr>
 <tr>
 <td>13.</td>
-<td>Еңбекке баулу. Қолөнеркәсібі.Сазбенжұмыс. Жұмысдәптер №1</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Сазбен жұмыс. Жұмыс дәптер №1</td>
 <td>Т. Петрова</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Сазбен жұмыс. Жұмыс дәптері№2</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Сазбен жұмыс. Жұмыс дәптері№2</td>
 <td>Т. Петрова</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Сазбен және тұзды қамырмен жұмыс. Бұйымдарды жасаудың технологиялық картасы. Сазбен жұмыс</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Сазбен және тұзды қамырмен жұмыс. Бұйымдарды жасаудың технологиялық картасы. Сазбен жұмыс</td>
 <td>Т. Петрова</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>
-Еңбекке баулу. Қолөнер кәсібі. Сазбен және тұзды қамырмен жұмыс. Бұйымдардың технологиялық картасы.
+<td colspan="2">
+Еңбекке баулу. Қолөнер кәсібі. Сазбен және тұзды қамырмен жұмыс. Бұйымдарды жасаудың технологиялық картасы.
 Тұзды қамырмен жұмыс
 </td>
 <td>
@@ -49170,10 +49189,10 @@ TimFalla
 </tr>
 <tr>
 <td>17.</td>
-<td>
+<td colspan="2">
 Еңбекке баулу.
-Қолөнерк әсібі.
-Тұздық амырме нжұмыс.
+Қолөнер кәсібі.
+Тұзды қамырмен жұмыс.
 Жұмыс дәптер
 </td>
 <td>В. Юдина</td>
@@ -49182,10 +49201,10 @@ TimFalla
 </tr>
 <tr>
 <td>18.</td>
-<td>
+<td colspan="2">
 Еңбекке баулу.
 Қолөнер кәсібі.
-Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп. 2- бөлім. Оқу-әдістемелік кешен. Ағашпен жұмыс. Мұғалімге арналған бағдарламалық-әдістемелік құрал. 2-бөлім
+Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп 2- бөлім. Оқу-әдістемелік кешен. Ағашпен жұмыс. Мұғалімге арналған бағдарламалық-әдістемелік құрал. 2-бөлім
 </td>
 <td>
 К. Гелеверя,
@@ -49196,38 +49215,35 @@ TimFalla
 </tr>
 <tr>
 <td>19.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Ағашпен жұмыс.Бұйымдарды жасаудың технологиялық картасы</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Ағашпен жұмыс. Бұйымдарды жасаудың технологиялық картасы</td>
 <td>К.Гелеверя</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>20.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Ағашпен жұмыс. Жұмыс дәптері</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Ағашпен жұмыс. Жұмыс дәптері</td>
 <td>К. Гелеверя</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>21.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Табиғи материалдармен жұмыс. Бұйымдардың технологиялық картасы</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Табиғи материалдармен жұмыс. Бұйымдардың технологиялық картасы</td>
 <td>З. Самратова</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>22.</td>
-<td>Еңбекке баулу. Қолөн еркәсібі. Табиғи материалдармен жұмыс. Жұмыс дәптері</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Табиғи материалдармен жұмыс. Жұмыс дәптері</td>
 <td>З. Самратова</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>23.</td>
-<td>
-Еңбекк ебаулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайымектеп.
-2- бөлім. Оқу-әдістемелік кешен. Тоқыма материалдармен жұмыс
-</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп 2- бөлім. Оқу-әдістемелік кешен. Тоқыма материалдармен жұмыс</td>
 <td>
 Т. Петрова,
 К. Жағипарова
@@ -49237,39 +49253,36 @@ TimFalla
 </tr>
 <tr>
 <td>24.</td>
-<td>Еңбекке баулу.Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Изонить бөлімі</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Изонить бөлімі</td>
 <td>Т. Петрова</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>25.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Құрақ құрау бөлімі</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Құрақ құрау бөлімі</td>
 <td>Т. Петрова</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>26.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Матадан жасалатын Жапсырма құрақ бөлімі</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Матадан жасалатын жапсырма құрақ бөлімі</td>
 <td>Т. Петрова</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>27.</td>
-<td>Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Бұйымдарды жасаудың технологиялық картасы. Жұмсақ ойыншық бөлімі</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәсібі. Тоқыма материалдармен жұмыс. Бұйымдарды жасаудың технологиялық картасы. Жұмсақ ойыншық бөлімі</td>
 <td>Т. Петрова</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>28.</td>
-<td>
-Еңбекке баулу.
-Қолөнер кәсібі.
-Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп
-(2- бөлім).
+<td colspan="2">
+Еңбекке баулу. Қолөнер кәсібі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп (2- бөлім).
 Әдістемелік кұрал
 </td>
 <td>А. Айдарбекова</td>
@@ -49278,14 +49291,14 @@ TimFalla
 </tr>
 <tr>
 <td>29.</td>
-<td>Еңбекке баулу. Қолөнер кәcібі. Қағазбен және қатырм ақағазбе нжұмыс. Бұйымдардың технологиялық картасы</td>
+<td colspan="2">Еңбекке баулу. Қолөнер кәcібі. Қағазбен және қатырма қағазбен жұмыс. Бұйымдардың технологиялық картасы</td>
 <td>В. Юдина</td>
 <td>2014</td>
 <td>ӘБЕО</td>
 </tr>
 <tr>
 <td>30.</td>
-<td>
+<td colspan="2">
 Еңбекке баулу. Қолөнер кәcібі. Қағазбен және қатырма қағазбен жұмыс.
 Жұмыс дәптері
 </td>
@@ -49294,40 +49307,37 @@ TimFalla
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="5">оқыту орыс тілінде</td>
+<td colspan="6">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<td colspan="5">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</td>
+<td colspan="6">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<td colspan="5">0-сынып</td>
+<td colspan="6">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Художественный труд (тифлографика)</td>
+<td colspan="2">Художественный труд (тифлографика)</td>
 <td>Вишневская Т.</td>
 <td>2018</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Обучение грамоте.
 Методическое пособие
 </td>
-<td>
-Воронкова В.,
-Мовкебаева З.
-</td>
+<td>Воронкова В., Мовкебаева З.</td>
 <td>2018</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Обучение грамоте.
 Рабочая тетрадь № 1, 2
 </td>
@@ -49340,35 +49350,27 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое пособи
 </td>
-<td>
-Сулейменова Р.,
-Елисеева И.,
-Карипжанова Ш.
-</td>
+<td>Сулейменова Р., Елисеева И., Карипжанова Ш.</td>
 <td>2018</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь № 1,
 </td>
-<td>
-Сулейменова Р.,
-Елисеева И.,
-Карипжанова Ш.
-</td>
+<td>Сулейменова Р., Елисеева И., Карипжанова Ш.</td>
 <td>2018</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Методическое пособие
 </td>
@@ -49381,7 +49383,7 @@ TimFalla
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Рабочая тетрадь № 1, 2
 </td>
@@ -49394,7 +49396,7 @@ TimFalla
 </tr>
 <tr>
 <td>7.</td>
-<td>Ручной труд. Методическое пособие для специальной школы для детей с нарушением интеллекта</td>
+<td colspan="2">Ручной труд. Методическое пособие для специальной школы для детей с нарушением интеллекта</td>
 <td>
 Халыкова Б.,
 Рсалдинова А.,
@@ -49405,7 +49407,7 @@ TimFalla
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Ручной труд.
 Рабочая тетрадь № 1, 2
 </td>
@@ -49419,7 +49421,7 @@ TimFalla
 </tr>
 <tr>
 <td>9.</td>
-<td>Изобразительное искусство. Методическое пособие для специальной школы для детей с нарушением интеллекта</td>
+<td colspan="2">Изобразительное искусство. Методическое пособие для специальной школы для детей с нарушением интеллекта</td>
 <td>
 Халыкова Б.,
 Юлдабаева Н.
@@ -49429,7 +49431,7 @@ TimFalla
 </tr>
 <tr>
 <td>10.</td>
-<td>Изобразительное искусство. Рабочая тетрадь № 1, 2</td>
+<td colspan="2">Изобразительное искусство. Рабочая тетрадь № 1, 2</td>
 <td>
 Халыкова Б.,
 Юлдабаева Н.
@@ -49439,7 +49441,7 @@ TimFalla
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Обучение грамоте.
 Рельефно-точечная грамота. Методические рекомендации
 </td>
@@ -49452,20 +49454,20 @@ TimFalla
 </tr>
 <tr>
 <td>12.</td>
-<td>Художественный труд (тифлографика)</td>
+<td colspan="2">Художественный труд (тифлографика)</td>
 <td>Вишневская Т.</td>
 <td>2018</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</td>
+<td colspan="6">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<td colspan="5">1-сынып</td>
+<td colspan="6">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Обучение грамоте,
 пропись № 1, 2, 3, 4, 5, 6, 7
 </td>
@@ -49476,15 +49478,14 @@ TimFalla
 Регель Н.,
 Труханова О.
 Адаптировали:
-Вишневская Т.,
-Тулегенова А.
+Вишневская Т., Тулегенова А.
 </td>
 <td>2017</td>
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Обучение грамоте.
 Рабочая тетрадь № 1, 2
 </td>
@@ -49495,16 +49496,15 @@ TimFalla
 Регель Н.,
 Труханова О.
 Адаптировали:
-Вишневская Т.,
-Тулегенова А.
+Вишневская Т., Тулегенова А.
 </td>
 <td>2017</td>
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
-Қазақтілі.
+<td colspan="2">
+Қазақ тілі.
 Рабочая тетрадь
 № 1, 2, 3, 4 для школ с русским языком обучения
 </td>
@@ -49520,7 +49520,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь № 1, 2, 3, 4
 </td>
@@ -49540,11 +49540,11 @@ TimFalla
 <td>АОО «Назарбаев интеллектуальные школы»- САТР</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь №1-4
 </td>
@@ -49552,59 +49552,51 @@ TimFalla
 Богатырева Е.,
 Бучина Р.,
 Регель Н.,
-Труханова О.
-Адаптировала:
-Жунисканова Г.
+Труханова О. Адаптировала: Жунисканова Г.
 </td>
 <td>2020</td>
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Литературное чтение. Рабочая тетрадь №1-8</td>
+<td colspan="2">Литературное чтение. Рабочая тетрадь №1-8</td>
 <td>
 Регель Н.,
-Труханова О.,
-Богатырева Е.,
+Труханова О., Богатырева Е.,
 Бучина Р.
-Адаптировала:
-Жунисканова Г.
+Адаптировала: Жунисканова Г.
 </td>
 <td>2020</td>
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь №1-8
 </td>
 <td>
 Акпаева А.,
-Лебедева Л.,
-Мынжасарова М.,
-Лихобабенко Т.
-Адаптировала:
-Жумабекова Э.
+Лебедева Л., Мынжасарова М., Лихобабенко Т. Адаптировала: Жумабекова Э.
 </td>
 <td>2020</td>
 <td>Алматыкітап- САТР</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 1-4 ч.
 </td>
 <td>
-Е. Богатырёва,
-Р. Бучина,
-Н. Регель,
-О. Труханова,
+Е.Богатырёва,
+Р.Бучина,
+Н.Регель,
+О.Труханова,
 Адаптировала:
 Р. Шаканова
 </td>
@@ -49613,10 +49605,9 @@ TimFalla
 </tr>
 <tr>
 <td>2.</td>
-<td>Литературное чтение. Рабочая тетрадь 1-8 ч.</td>
+<td colspan="2">Литературное чтение. Рабочая тетрадь 1-8 ч.</td>
 <td>
-Н. Регель,
-О.Труханова,
+Н. Регель, О.Труханова,
 Е. Богатырёва,
 Р. Бучина,
 Адаптировала:
@@ -49627,10 +49618,10 @@ TimFalla
 </tr>
 <tr>
 <td>3.</td>
-<td>Математика. Рабочая тетрадь 1-8 ч.</td>
+<td colspan="2">Математика. Рабочая тетрадь 1-8 ч.</td>
 <td>
-А. Акпаева,
-Л. Лебедева
+А.Акпаева,
+Л.Лебедева
 Адаптировала:
 Р. Шаканова
 </td>
@@ -49639,7 +49630,7 @@ TimFalla
 </tr>
 <tr>
 <td>4.</td>
-<td>Английский язык. Рабочая тетрадь 1-4 ч.</td>
+<td colspan="2">Английский язык. Рабочая тетрадь 1-4 ч.</td>
 <td>
 Jenny Dooley,
 Bob Obee,
@@ -49651,29 +49642,29 @@ D. Bakbergenova
 <td>Express Publishing- САТР</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Русская литература. Хрестоматия</td>
+<td colspan="2">Русская литература.Хрестоматия</td>
 <td>
 Л. Рыгалова,
 Д. Берденова,
 Адаптировала:
-И. Жунусканова
+И.Жунусканова
 </td>
 <td>2021</td>
 <td>Атамұра- САТР</td>
 </tr>
 <tr>
-<td colspan="5">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</td>
+<td colspan="6">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<td colspan="5">0-сынып</td>
+<td colspan="6">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Обучение грамоте.
 Методическое пособие
 </td>
@@ -49683,7 +49674,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Обучение грамоте.
 Рабочая тетрадь № 1, 2
 </td>
@@ -49696,35 +49687,27 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое пособие
 </td>
-<td>
-Сулейменова Р.,
-Елисеева И.,
-Карипжанова Ш.
-</td>
+<td>Сулейменова Р., Елисеева И., Карипжанова Ш.</td>
 <td>2018</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь
 </td>
-<td>
-Сулейменова Р.,
-Елисеева И.,
-Карипжанова Ш.
-</td>
+<td>Сулейменова Р., Елисеева И., Карипжанова Ш.</td>
 <td>2018</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Методическое пособие
 </td>
@@ -49737,7 +49720,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Рабочая тетрадь № 1, 2
 </td>
@@ -49750,7 +49733,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>Ручной труд. Методическое пособие для специальной школы для детей с нарушением интеллекта</td>
+<td colspan="2">Ручной труд. Методическое пособие для специальной школы для детей с нарушением интеллекта</td>
 <td>
 Халыкова Б.,
 Рсалдинова А.,
@@ -49761,7 +49744,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Ручной труд.
 Рабочая тетрадь № 1, 2
 </td>
@@ -49775,7 +49758,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>Изобразительное искусство Методическое пособие для специальной школы для детей с нарушением интеллекта</td>
+<td colspan="2">Изобразительное искусство Методическое пособие для специальной школы для детей с нарушением интеллекта</td>
 <td>
 Халыкова Б.,
 Юлдабаева Н.
@@ -49785,7 +49768,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Изобразительное искусство.
 Рабочая тетрадь № 1, 2
 </td>
@@ -49797,11 +49780,11 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">2-сынып</td>
+<td colspan="6">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -49811,7 +49794,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -49824,7 +49807,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое пособие
 </td>
@@ -49838,7 +49821,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь
 </td>
@@ -49852,13 +49835,12 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Методическое пособие
 </td>
 <td>
-Айдарбекова А.,
-Радионова В.,
+Айдарбекова А., Радионова В.,
 Летошко М.
 </td>
 <td>2019</td>
@@ -49866,7 +49848,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Рабочая тетрадь
 </td>
@@ -49876,7 +49858,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -49889,7 +49871,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -49902,7 +49884,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Методическое пособие
 </td>
@@ -49915,7 +49897,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Рабочая тетрадь
 </td>
@@ -49927,11 +49909,11 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">3-сынып</td>
+<td colspan="6">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Математика.
 Методические указания для 1 отделения специальной школы для детей с нарушением интеллекта с русским языком обучения
 </td>
@@ -49941,7 +49923,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь для 1 отделения специальной школы для детей с нарушением интеллекта с русским языком обучения
 </td>
@@ -49951,7 +49933,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -49964,7 +49946,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -49977,7 +49959,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое пособие
 </td>
@@ -49987,7 +49969,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь
 </td>
@@ -49997,7 +49979,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Методическое пособие
 </td>
@@ -50010,7 +49992,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Рабочая тетрадь
 </td>
@@ -50020,7 +50002,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -50033,7 +50015,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -50046,7 +50028,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Методическое пособие
 </td>
@@ -50056,7 +50038,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Рабочая тетрадь
 </td>
@@ -50065,11 +50047,11 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">4-сынып</td>
+<td colspan="6">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -50079,7 +50061,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -50089,7 +50071,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Математика.
 Изучение табличного умножения и деления со школьниками, имеющими трудности в обучении.
 Методические рекомендации
@@ -50100,7 +50082,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Математика.
 Табличное умножение и деление.
 Рабочая тетрадь №1, №2
@@ -50114,34 +50096,31 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>Математика. Методическое пособие</td>
+<td colspan="2">Математика. Методическое пособие</td>
 <td>Елисеева И.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Математика. Рабочая тетрадь</td>
+<td colspan="2">Математика. Рабочая тетрадь</td>
 <td>Карипжанова Ш.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Методическое пособие
 </td>
-<td>
-Радионова В.,
-Летошко М.
-</td>
+<td>Радионова В., Летошко М.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Рабочая тетрадь
 </td>
@@ -50151,38 +50130,38 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>Қазақ тілі. Әдістемелік құрал</td>
+<td colspan="2">Қазақ тілі. Әдістемелік құрал</td>
 <td>Есенжолова Г.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Қазақ тілі. Жұмыс дәптері</td>
+<td colspan="2">Қазақ тілі. Жұмыс дәптері</td>
 <td>Ермағамбет Ә.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Мир вокруг. Методическое пособие</td>
+<td colspan="2">Мир вокруг. Методическое пособие</td>
 <td>Юсупова А.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Мир вокруг. Рабочая тетрадь</td>
+<td colspan="2">Мир вокруг. Рабочая тетрадь</td>
 <td>Юсупова А.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">5-сынып</td>
+<td colspan="6">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Методическое пособие
 </td>
@@ -50196,7 +50175,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Рабочая тетрадь
 </td>
@@ -50206,9 +50185,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
-Әдістемелікқұрал
+Әдістемелік құрал
 </td>
 <td>
 Р. Сулейменова,
@@ -50219,9 +50198,9 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
-Қазақтілі.
-Жұмысдәптері
+<td colspan="2">
+Қазақ тілі.
+Жұмыс дәптері
 </td>
 <td>
 Р. Сулейменова,
@@ -50232,7 +50211,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Методическое пособие
 </td>
@@ -50242,7 +50221,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Мир вокруг.
 Рабочая тетрадь
 </td>
@@ -50255,7 +50234,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -50265,7 +50244,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -50275,7 +50254,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое пособие
 </td>
@@ -50289,7 +50268,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь
 </td>
@@ -50303,7 +50282,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Казахская литература.
 Хрестоматия.
 5 класс
@@ -50313,11 +50292,11 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">6-сынып</td>
+<td colspan="6">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Казахская литература.
 Хрестоматия
 </td>
@@ -50327,7 +50306,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Казахская литература.
 Хрестоматия для всех типов специальных (коррекционных) школ
 </td>
@@ -50337,7 +50316,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -50350,14 +50329,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>Русский язык. Рабочая тетрадь</td>
+<td colspan="2">Русский язык. Рабочая тетрадь</td>
 <td>Мельникова Т.</td>
 <td>2020</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое пособие
 </td>
@@ -50367,7 +50346,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь
 </td>
@@ -50377,7 +50356,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Методическое пособие
 </td>
@@ -50390,7 +50369,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Рабочая тетрадь
 </td>
@@ -50400,7 +50379,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -50413,8 +50392,8 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
-Қазақтілі.
+<td colspan="2">
+Қазақ тілі.
 Жұмысдәптері
 </td>
 <td>
@@ -50426,7 +50405,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>11.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие
 </td>
@@ -50439,7 +50418,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>12.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Рабочая тетрадь
 </td>
@@ -50451,11 +50430,11 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">7-сынып</td>
+<td colspan="6">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -50465,7 +50444,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Рабочая тетрадь
 </td>
@@ -50475,21 +50454,20 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Методическое пособие
 </td>
 <td>
 Радионова В.,
-Летошко М.,
-Дербисалова Г.
+Летошко М., Дербисалова Г.
 </td>
 <td>2019</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Рабочая тетрадь
 </td>
@@ -50499,7 +50477,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -50512,7 +50490,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Жұмыс дәптері
 </td>
@@ -50525,13 +50503,12 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие
 </td>
 <td>
-Айдарбекова А.,
-Юлдабаева Н.,
+Айдарбекова А., Юлдабаева Н.,
 Даутова Т.
 </td>
 <td>2019</td>
@@ -50539,13 +50516,12 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>8.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Рабочая тетрадь
 </td>
 <td>
-Айдарбекова А.,
-Юлдабаева Н.,
+Айдарбекова А., Юлдабаева Н.,
 Даутова Т.
 </td>
 <td>2019</td>
@@ -50553,7 +50529,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>9.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое пособие
 </td>
@@ -50567,7 +50543,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>10.</td>
-<td>
+<td colspan="2">
 Математика.
 Рабочая тетрадь
 </td>
@@ -50580,11 +50556,25 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">8-сынып</td>
+<td>11.</td>
+<td colspan="2">
+История Казахстана.
+Методическое пособие
+</td>
+<td>
+Абиль А.,
+Абаева Г.,
+Кертаева Г.
+</td>
+<td>2021</td>
+<td>Компания Консалтинг &amp; Тренинг</td>
+</tr>
+<tr>
+<td colspan="6">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>
+<td colspan="2">
 Казахская литература.
 Хрестоматия
 </td>
@@ -50594,7 +50584,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>
+<td colspan="2">
 Казахская литература.
 Хрестоматия для всех типов специальных (коррекционных) школ
 </td>
@@ -50604,7 +50594,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>3.</td>
-<td>
+<td colspan="2">
 Русский язык.
 Методическое пособие
 </td>
@@ -50617,7 +50607,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>
+<td colspan="2">
 Чтение и развитие речи.
 Методическое пособие
 </td>
@@ -50630,7 +50620,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>5.</td>
-<td>
+<td colspan="2">
 Қазақ тілі.
 Әдістемелік құрал
 </td>
@@ -50643,7 +50633,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>6.</td>
-<td>
+<td colspan="2">
 Математика.
 Методическое пособие
 </td>
@@ -50653,7 +50643,7 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>7.</td>
-<td>
+<td colspan="2">
 Естествознание.
 Методическое пособие
 </td>
@@ -50665,11 +50655,25 @@ D. Bakbergenova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="5">9-сынып</td>
+<td>8.</td>
+<td colspan="2">
+История Казахстана.
+Методическое пособие
+</td>
+<td>
+Абаева Г.,
+Кертаева Г.,
+Абиль А.
+</td>
+<td>2021</td>
+<td>Компания Консалтинг &amp; Тренинг</td>
+</tr>
+<tr>
+<td colspan="6">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Русский язык. Методическое пособие</td>
+<td colspan="2">Русский язык. Методическое пособие</td>
 <td>
 Змушко А.,
 Мельникова Т.
@@ -50679,14 +50683,14 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>2.</td>
-<td>Математика. Методическое пособие</td>
+<td colspan="2">Математика. Методическое пособие</td>
 <td>Елисеева И.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Чтение и развитие речи. Методическое пособие</td>
+<td colspan="2">Чтение и развитие речи. Методическое пособие</td>
 <td>
 Змушко А.,
 Мельникова Т.
@@ -50696,19 +50700,33 @@ D. Bakbergenova
 </tr>
 <tr>
 <td>4.</td>
-<td>Қазақ тілі. Әдістемелік құрал</td>
+<td colspan="2">Қазақ тілі. Әдістемелік құрал</td>
 <td>Есенжолова Г.</td>
 <td>2021</td>
 <td>САТР</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Естествознание. Методическое пособие</td>
+<td colspan="2">Естествознание. Методическое пособие</td>
 <td>
 Халыкова Б.,
 Юлдабаева Н.
 </td>
 <td>2021</td>
 <td>САТР</td>
+</tr>
+<tr>
+<td>6.</td>
+<td colspan="2">
+История Казахстана.
+Методическое пособие
+</td>
+<td>
+Абиль А.,
+Абаева Г.,
+Кертаева Г.
+</td>
+<td>2021</td>
+<td>Компания Консалтинг &amp; Тренинг</td>
 </tr>
 </table>
