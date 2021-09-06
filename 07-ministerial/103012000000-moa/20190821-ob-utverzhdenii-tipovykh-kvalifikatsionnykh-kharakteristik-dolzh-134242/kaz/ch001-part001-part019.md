@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/134242/kaz/21.08.2019
+source: https://zan.gov.kz/client/#!/doc/134242/kaz/06.09.2021
 ---
 
 ## 19-параграф. Өсімдіктерді қорғау жөніндегі бас агроном
