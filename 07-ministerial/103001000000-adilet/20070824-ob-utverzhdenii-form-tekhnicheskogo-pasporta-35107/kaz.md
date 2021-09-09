@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/35107/kaz/27.12.2018
+source: https://zan.gov.kz/client/#!/doc/35107/kaz/09.09.2021
 ---
 
 # Техникалық паспорттардың нысандарын бекіту туралы
