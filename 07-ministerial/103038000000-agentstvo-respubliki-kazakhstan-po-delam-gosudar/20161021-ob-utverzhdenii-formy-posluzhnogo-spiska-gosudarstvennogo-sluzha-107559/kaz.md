@@ -13,6 +13,11 @@ approval_date: 2016-10-21
 version_date: 2016-10-21
 registry_number: '107559'
 source: https://zan.gov.kz/client/#!/doc/107559/kaz/21.10.2016
+repealed_on: 2021-10-18
+repealed_by:
+  code: '158616'
+  title: Мемлекеттік қызметті өткерудің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/158616/kaz
 ---
 
 # Мемлекеттік қызметшінің қызметтік тізімінің нысанын бекіту туралы

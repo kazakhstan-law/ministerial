@@ -13,6 +13,11 @@ approval_date: 2016-10-21
 version_date: 2016-10-21
 registry_number: '107559'
 source: https://zan.gov.kz/client/#!/doc/107559/rus/21.10.2016
+repealed_on: 2021-10-18
+repealed_by:
+  code: '158616'
+  title: О некоторых вопросах прохождения государственной службы
+  link: https://zan.gov.kz/client/#!/doc/158616/rus
 ---
 
 # Об утверждении формы послужного списка государственного служащего
