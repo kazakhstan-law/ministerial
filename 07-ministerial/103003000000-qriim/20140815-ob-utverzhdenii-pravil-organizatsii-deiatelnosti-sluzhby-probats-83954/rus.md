@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83954/rus/28.04.2021
+source: https://zan.gov.kz/client/#!/doc/83954/rus/21.10.2021
 ---
 
 # Об утверждении Правил организации деятельности службы пробации
