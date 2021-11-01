@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
+source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.11.2021
 ---
 
 # Электр энергиясына шекті тарифтерді бекіту туралы
@@ -38,25 +38,27 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 
 ## Электр энергиясына шекті тарифтер
 
-> *Ескерту. Шекті тарифтер жаңа редакцияда - ҚР Энергетика министрінің м.а. 23.09.2019 № 313 (01.10.2019 бастап қолданысқа енгізіледі); ҚР Энергетика министрінің 29.06.2020 № 243 (01.07.2020 бастап қолданысқа енгізіледі); өзгерістер енгізілді - ҚР Энергетика министрінің м.а. 09.07.2020 № 250 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); жаңа редакцияда - ҚР Энергетика министрінің 30.03.2021 № 108 (01.04.2021 бастап қолданысқа енгізіледі); жаңа редакцияда - ҚР Энергетика министрінің м.а. 24.06.2021 № 211 (01.07.2021 бастап қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. Шекті тарифтер жаңа редакцияда - ҚР Энергетика министрінің м.а. 23.09.2019 № 313 (01.10.2019 бастап қолданысқа енгізіледі); ҚР Энергетика министрінің 29.06.2020 № 243 (01.07.2020 бастап қолданысқа енгізіледі); өзгерістер енгізілді - ҚР Энергетика министрінің м.а. 09.07.2020 № 250 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі);жаңа редакцияда - ҚР Энергетикаминистрінің 30.03.2021 № 108 (01.04.2021 бастап қолданысқа енгізіледі); жаңа редакцияда - ҚР Энергетика министрінің м.а. 24.06.2021 № 211 (01.07.2021 бастап қолданысқа енгізіледі); 30.10.2021 № 332 (01.11.2021 бастап қолданысқа енгізіледі) бұйрықтарымен.*
 
-теңге/кВтсағ
+> *теңге/кВтсағ*
 
 <table>
 <tr>
-<th rowspan="2">Электр энергиясын сататын энергия өндіруші ұйымдар тобы</th>
-<th colspan="7">Жылдар бойынша электр энергиясына шекті тарифтер</th>
+<td rowspan="2">№ р/т</td>
+<td rowspan="2">Электр энергиясын сататын энергия өндіруші ұйымдар тобы</td>
+<td colspan="7">Жылдар бойынша электр энергиясына шекті тарифтер</td>
 </tr>
 <tr>
-<th>2019 жыл</th>
-<th>2020 жыл</th>
-<th>2021 жыл</th>
-<th>2022 жыл</th>
-<th>2023 жыл</th>
-<th>2024 жыл</th>
-<th>2025 жыл</th>
+<td>2019 жыл</td>
+<td>2020 жыл</td>
+<td>2021 жыл</td>
+<td>2022 жыл</td>
+<td>2023 жыл</td>
+<td>2024 жыл</td>
+<td>2025 жыл</td>
 </tr>
 <tr>
+<td>1</td>
 <td>1-топ</td>
 <td>5,76</td>
 <td>5,80</td>
@@ -67,6 +69,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>5,90</td>
 </tr>
 <tr>
+<td>2</td>
 <td>2-топ</td>
 <td>4,50</td>
 <td>5,55</td>
@@ -77,6 +80,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>5,59</td>
 </tr>
 <tr>
+<td>3</td>
 <td>3-топ</td>
 <td>7,73</td>
 <td>9,13</td>
@@ -87,6 +91,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>8,59</td>
 </tr>
 <tr>
+<td>4</td>
 <td>4-топ</td>
 <td>5,83</td>
 <td>7,50</td>
@@ -97,16 +102,18 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>7,91</td>
 </tr>
 <tr>
+<td>5</td>
 <td>5-топ</td>
 <td>8,10</td>
 <td>9,10</td>
-<td>10,45</td>
-<td>10,45</td>
-<td>10,45</td>
-<td>10,45</td>
-<td>10,45</td>
+<td>26,25</td>
+<td>26,25</td>
+<td>26,25</td>
+<td>26,25</td>
+<td>26,25</td>
 </tr>
 <tr>
+<td>6</td>
 <td>6-топ</td>
 <td>6,70</td>
 <td>7,91</td>
@@ -117,6 +124,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>8,78</td>
 </tr>
 <tr>
+<td>7</td>
 <td>7-топ</td>
 <td>6,44</td>
 <td>7,72</td>
@@ -127,6 +135,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>8,48</td>
 </tr>
 <tr>
+<td>8</td>
 <td>8-топ</td>
 <td>6,70</td>
 <td>8,38</td>
@@ -137,6 +146,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>9,44</td>
 </tr>
 <tr>
+<td>9</td>
 <td>9-топ</td>
 <td>5,06</td>
 <td>6,17</td>
@@ -147,6 +157,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>6,70</td>
 </tr>
 <tr>
+<td>10</td>
 <td>10-топ</td>
 <td>6,60</td>
 <td>8,29</td>
@@ -157,6 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>9,49</td>
 </tr>
 <tr>
+<td>11</td>
 <td>11-топ</td>
 <td>7,00</td>
 <td>7,00</td>
@@ -167,6 +179,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>6,77</td>
 </tr>
 <tr>
+<td>12</td>
 <td>12-топ</td>
 <td>4,03</td>
 <td>4,80</td>
@@ -177,6 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>4,93</td>
 </tr>
 <tr>
+<td>13</td>
 <td>13-топ</td>
 <td>8,42</td>
 <td>10,39</td>
@@ -187,6 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>12,02</td>
 </tr>
 <tr>
+<td>14</td>
 <td>14- топ</td>
 <td>7,80</td>
 <td>10,10</td>
@@ -197,6 +212,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>12,68</td>
 </tr>
 <tr>
+<td>15</td>
 <td>15-топ</td>
 <td>8,20</td>
 <td>9,50</td>
@@ -207,6 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>10,70</td>
 </tr>
 <tr>
+<td>16</td>
 <td>16-топ</td>
 <td>7,57</td>
 <td>8,86</td>
@@ -217,6 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>10,53</td>
 </tr>
 <tr>
+<td>17</td>
 <td>17-топ</td>
 <td>10,20</td>
 <td>11,78</td>
@@ -227,6 +245,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>11,97</td>
 </tr>
 <tr>
+<td>18</td>
 <td>18-топ</td>
 <td>8,00</td>
 <td>9,95</td>
@@ -237,6 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>11,66</td>
 </tr>
 <tr>
+<td>19</td>
 <td>19-топ</td>
 <td>6,30</td>
 <td>6,30</td>
@@ -247,6 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>5,76</td>
 </tr>
 <tr>
+<td>20</td>
 <td>20-топ</td>
 <td>6,82</td>
 <td>8,48</td>
@@ -257,6 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>13,24</td>
 </tr>
 <tr>
+<td>21</td>
 <td>21-топ</td>
 <td>6,54</td>
 <td>8,10</td>
@@ -267,6 +289,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>8,10</td>
 </tr>
 <tr>
+<td>22</td>
 <td>22-топ</td>
 <td>7,30</td>
 <td>7,30</td>
@@ -277,6 +300,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>7,07</td>
 </tr>
 <tr>
+<td>23</td>
 <td>23-топ</td>
 <td>6,40</td>
 <td>8,67</td>
@@ -287,6 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>8,44</td>
 </tr>
 <tr>
+<td>24</td>
 <td>24-топ</td>
 <td>6,33</td>
 <td>7,61</td>
@@ -297,6 +322,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>7,28</td>
 </tr>
 <tr>
+<td>25</td>
 <td>25-топ</td>
 <td>6,57</td>
 <td>9,47</td>
@@ -307,6 +333,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>8,89</td>
 </tr>
 <tr>
+<td>26</td>
 <td>26-топ</td>
 <td>8,70</td>
 <td>10,30</td>
@@ -317,6 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>10,23</td>
 </tr>
 <tr>
+<td>27</td>
 <td>27-топ</td>
 <td>12,12</td>
 <td>13,10</td>
@@ -327,6 +355,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>13,04</td>
 </tr>
 <tr>
+<td>28</td>
 <td>28-топ</td>
 <td>8,95</td>
 <td>10,02</td>
@@ -337,6 +366,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>11,44</td>
 </tr>
 <tr>
+<td>29</td>
 <td>29-топ</td>
 <td>10,55</td>
 <td>11,81</td>
@@ -347,6 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>11,43</td>
 </tr>
 <tr>
+<td>30</td>
 <td>30-топ</td>
 <td>7,60</td>
 <td>7,60</td>
@@ -357,6 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>7,60</td>
 </tr>
 <tr>
+<td>31</td>
 <td>31-топ</td>
 <td>8,94</td>
 <td>10,40</td>
@@ -367,6 +399,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>12,44</td>
 </tr>
 <tr>
+<td>32</td>
 <td>32-топ</td>
 <td>1,10</td>
 <td>1,10</td>
@@ -377,6 +410,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>1,46</td>
 </tr>
 <tr>
+<td>33</td>
 <td>33-топ</td>
 <td>2,43</td>
 <td>3,44</td>
@@ -387,6 +421,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>2,85</td>
 </tr>
 <tr>
+<td>34</td>
 <td>34-топ</td>
 <td>1,86</td>
 <td>2,59</td>
@@ -397,6 +432,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>2,14</td>
 </tr>
 <tr>
+<td>35</td>
 <td>35-топ</td>
 <td>8,72</td>
 <td>8,10</td>
@@ -407,6 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>8,77</td>
 </tr>
 <tr>
+<td>36</td>
 <td>36-топ</td>
 <td>12,02</td>
 <td>12,02</td>
@@ -417,6 +454,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>10,90</td>
 </tr>
 <tr>
+<td>37</td>
 <td>37-топ</td>
 <td>8,78</td>
 <td>10,80</td>
@@ -427,6 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>13,05</td>
 </tr>
 <tr>
+<td>38</td>
 <td>38-топ</td>
 <td>13,68</td>
 <td>15,46</td>
@@ -437,6 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>15,04</td>
 </tr>
 <tr>
+<td>39</td>
 <td>39-топ</td>
 <td>10,02</td>
 <td>11,30</td>
@@ -447,6 +487,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>12,34</td>
 </tr>
 <tr>
+<td>40</td>
 <td>40-топ</td>
 <td>9,24</td>
 <td>11,30</td>
@@ -457,6 +498,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>11,58</td>
 </tr>
 <tr>
+<td>41</td>
 <td>41-топ</td>
 <td>8,76</td>
 <td>8,76</td>
@@ -467,6 +509,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>8,53</td>
 </tr>
 <tr>
+<td>42</td>
 <td>42-топ</td>
 <td>11,38</td>
 <td>12,78</td>
@@ -477,6 +520,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>12,35</td>
 </tr>
 <tr>
+<td>43</td>
 <td>43-топ</td>
 <td>7,00</td>
 <td>7,00</td>
@@ -487,6 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>7,48</td>
 </tr>
 <tr>
+<td>44</td>
 <td>44-топ</td>
 <td>7,39</td>
 <td>7,39</td>
@@ -497,6 +542,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>7,16</td>
 </tr>
 <tr>
+<td>45</td>
 <td>45-топ</td>
 <td>-</td>
 <td>12,10</td>
@@ -507,6 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>10,67</td>
 </tr>
 <tr>
+<td>46</td>
 <td>46-топ</td>
 <td>-</td>
 <td>-</td>
@@ -517,6 +564,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>16,92</td>
 </tr>
 <tr>
+<td>47</td>
 <td>47-топ</td>
 <td>-</td>
 <td>-</td>
@@ -525,5 +573,16 @@ source: https://zan.gov.kz/client/#!/doc/126965/kaz/01.07.2021
 <td>10,17</td>
 <td>10,17</td>
 <td>10,17</td>
+</tr>
+<tr>
+<td>48</td>
+<td>48-топ</td>
+<td>-</td>
+<td>-</td>
+<td>33,10</td>
+<td>33,10</td>
+<td>33,10</td>
+<td>33,10</td>
+<td>33,10</td>
 </tr>
 </table>
