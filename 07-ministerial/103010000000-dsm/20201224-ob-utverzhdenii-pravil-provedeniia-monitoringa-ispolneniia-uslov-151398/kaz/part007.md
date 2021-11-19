@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151398/kaz/24.12.2020
+source: https://zan.gov.kz/client/#!/doc/151398/kaz/19.11.2021
 ---
 
 > *Тегін медициналық көмектің*  
