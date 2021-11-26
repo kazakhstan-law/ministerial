@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/119299/rus/01.06.2020
+source: https://zan.gov.kz/client/#!/doc/119299/rus/26.11.2021
 ---
 
 # О некоторых вопросах применения контрольно-кассовых машин
