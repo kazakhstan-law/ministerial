@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/107863/rus/27.05.2019
+source: https://zan.gov.kz/client/#!/doc/107863/rus/10.12.2021
 ---
 
 ## 1. Документы по личному составу
