@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/123595/rus/21.04.2021
+source: https://zan.gov.kz/client/#!/doc/123595/rus/01.01.2022
 ---
 
 # Об утверждении Типовой архитектуры «электронного акимата»

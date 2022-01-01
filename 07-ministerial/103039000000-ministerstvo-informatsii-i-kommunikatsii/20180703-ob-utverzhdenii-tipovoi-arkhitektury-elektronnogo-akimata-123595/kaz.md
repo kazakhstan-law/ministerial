@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/123595/kaz/21.04.2021
+source: https://zan.gov.kz/client/#!/doc/123595/kaz/01.01.2022
 ---
 
 # «Электрондық әкімдіктің» үлгілік архитектурасын бекіту туралы
