@@ -11,11 +11,11 @@ approved_on: 2018-03-19
 approved_by:
 - '103002000000'
 version_date:
-  kaz: 2021-07-14
-  rus: 2021-07-14
+  kaz: 2022-01-01
+  rus: 2022-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/120334/kaz/14.07.2021
-  rus: https://zan.gov.kz/client/#!/doc/120334/rus/14.07.2021
+  kaz: https://zan.gov.kz/client/#!/doc/120334/kaz/01.01.2022
+  rus: https://zan.gov.kz/client/#!/doc/120334/rus/01.01.2022
 caused_by:
   code: '157245'
   requisite: Приказ Министра финансов Республики Казахстан от 14 июля 2021 года № 677. Зарегистрирован в Министерстве юстиции Республики Казахстан 15 июля 2021 года № 23540
