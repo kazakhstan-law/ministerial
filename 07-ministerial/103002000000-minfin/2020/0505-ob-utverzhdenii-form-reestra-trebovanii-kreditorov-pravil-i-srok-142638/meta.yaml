@@ -11,11 +11,11 @@ approved_on: 2020-05-05
 approved_by:
 - '103002000000'
 version_date:
-  kaz: 2021-06-29
-  rus: 2021-06-29
+  kaz: 2022-01-01
+  rus: 2022-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/142638/kaz/29.06.2021
-  rus: https://zan.gov.kz/client/#!/doc/142638/rus/29.06.2021
+  kaz: https://zan.gov.kz/client/#!/doc/142638/kaz/01.01.2022
+  rus: https://zan.gov.kz/client/#!/doc/142638/rus/01.01.2022
 caused_by:
   code: '156831'
   requisite: Приказ Министра финансов Республики Казахстан от 29 июня 2021 года № 626. Зарегистрирован в Министерстве юстиции Республики Казахстан 8 июля 2021 года № 23365
