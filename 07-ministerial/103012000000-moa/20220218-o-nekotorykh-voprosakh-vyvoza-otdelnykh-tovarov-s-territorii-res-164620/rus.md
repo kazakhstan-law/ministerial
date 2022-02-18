@@ -15,6 +15,11 @@ approval_date: 2022-02-18
 version_date: 2022-02-18
 registry_number: '164620'
 source: https://zan.gov.kz/client/#!/doc/164620/rus/18.02.2022
+repealed_on: 2022-05-01
+repealed_by:
+  code: '164620'
+  title: О некоторых вопросах вывоза отдельных товаров с территории Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/164620/rus
 ---
 
 # О некоторых вопросах вывоза отдельных товаров с территории Республики Казахстан
