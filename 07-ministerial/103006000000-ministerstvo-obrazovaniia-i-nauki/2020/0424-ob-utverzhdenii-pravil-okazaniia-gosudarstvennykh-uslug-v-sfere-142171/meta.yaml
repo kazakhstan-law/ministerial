@@ -11,8 +11,15 @@ approved_on: 2020-04-24
 approved_by:
 - '103006000000'
 version_date:
-  kaz: 2020-04-24
-  rus: 2020-04-24
+  kaz: 2022-02-21
+  rus: 2022-02-21
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/142171/kaz/24.04.2020
-  rus: https://zan.gov.kz/client/#!/doc/142171/rus/24.04.2020
+  kaz: https://zan.gov.kz/client/#!/doc/142171/kaz/21.02.2022
+  rus: https://zan.gov.kz/client/#!/doc/142171/rus/21.02.2022
+caused_by:
+  code: '164702'
+  requisite: Приказ Министра образования и науки Республики Казахстан от 21 февраля 2022 года № 55. Зарегистрирован в Министерстве юстиции Республики Казахстан 22 февраля 2022 года № 26885
+  title:
+    rus: О внесении изменений и дополнений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/164702/rus
