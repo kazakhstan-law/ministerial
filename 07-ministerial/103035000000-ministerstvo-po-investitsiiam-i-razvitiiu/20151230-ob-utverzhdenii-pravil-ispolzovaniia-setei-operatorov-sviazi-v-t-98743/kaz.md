@@ -1,5 +1,5 @@
 ---
-version_id: '98743_66078'
+version_id: '98743_563400'
 act_code: '98743'
 language: kaz
 title: Бірыңғай кезекшілік-диспетчерлік "112" қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатері төнген немесе қатер туындаған және жойылған, төтенше жағдай енгізілген кезде, қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқа мәтіндік хабарлар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану қағидаларын бекіту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103035000000'
 approval_date: 2015-12-30
-version_date: 2015-12-30
+version_date: 2022-03-03
 registry_number: '98743'
-source: https://zan.gov.kz/client/#!/doc/98743/kaz/30.12.2015
+caused_by:
+  code: '165033'
+  title: «Бірыңғай кезекшілік-диспетчерлік «112» қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатері төнген немесе қатер туындаған және жойылған, төтенше жағдай енгізілген кезде, қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқа мәтіндік хабарлар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану қағидаларын бекіту туралы» Қазақстан Республикасы Инвестициялар және даму министрінің міндетін атқарушының 2015 жылғы 30 желтоқсандағы № 1274 бұйрығына өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/165033/kaz
+source: https://zan.gov.kz/client/#!/doc/98743/kaz/03.03.2022
 ---
 
 # Бірыңғай кезекшілік-диспетчерлік «112» қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатері төнген немесе қатер туындаған және жойылған, төтенше жағдай енгізілген кезде, қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқа мәтіндік хабарлар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану қағидаларын бекіту туралы
@@ -64,9 +68,13 @@ source: https://zan.gov.kz/client/#!/doc/98743/kaz/30.12.2015
 
 # Бірыңғай кезекшілік-диспетчерлік «112» қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану қағидалары
 
-## 1. Жалпы ережелер
+## 1-тарау. Жалпы ережелер
 
-1. Осы Бірыңғай кезекшілік-диспетчерлік «112» қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану қағидалары (бұдан әрі -Қағидалар) «Байланыс туралы» 2004 жылғы 5 шілдедегі Қазақстан Республикасының Заңы (бұдан әрі - Заң) 14-бабының 4-тармағына сәйкес әзірленді және бірыңғай кезекшілік-диспетчерлік «112» қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану тәртібін айқындайды.
+> *Ескерту. 1-тараудың тақырыбы жаңа редакцияда – ҚР Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрінің 03.03.2022 № 73/НҚ (алғаш ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
+1. Осы Бірыңғай кезекшілік-диспетчерлік «112» қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану қағидалары (бұдан әрі – Қағидалар) «Байланыс туралы» Қазақстан Республикасының Заңы (бұдан әрі – Заң) 14-бабының 4-тармағына сәйкес әзірленді және бірыңғай кезекшілік-диспетчерлік «112» қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларының желілерін пайдалану тәртібін айқындайды.
+
+> *Ескерту. 1-тармақ жаңа редакцияда – ҚР Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрінің 03.03.2022 № 73/НҚ (алғаш ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 2. Осы Қағидаларда мынадай анықтамалар пайдаланылады:
 
@@ -82,7 +90,9 @@ source: https://zan.gov.kz/client/#!/doc/98743/kaz/30.12.2015
 
    6) хабарламаларды сотада кеңінен тарату технологиясы (бұдан әрі – Cell Broadcast) – ақпараттық хабарламаларды белгілі бір географиялық облыста дереу жеткізуге арналған ұялы байланыс желілерінде қысқа мәтіндік хабарламаларды жаппай жіберу.
 
-## 2. Бірыңғай кезекшілік-диспетчерлік «112» қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларын пайдалану тәртібі
+## 2-тарау. Бірыңғай кезекшілік-диспетчерлік «112» қызметіне қоңырау шалушы абоненттің орналасқан жерін анықтау және төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына қысқаша мәтіндік хабарламалар жіберу жөнінде қызметтер көрсету мақсатында байланыс операторларын пайдалану тәртібі
+
+> *Ескерту. 2-тараудың тақырыбы жаңа редакцияда – ҚР Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрінің 03.03.2022 № 73/НҚ (алғаш ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 3. Төтенше жағдайлар қатері төнген немесе туындаған және әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайлар қатерін болдырмау, төтенше жағдайды енгізу кезінде қорғаныс, қауіпсіздік және құқық тәртібі мүддесінде халықтың ұялы байланыс телефондарына SMS - хабарламалар жіберу осы Қағидаларға 1-қосымшаға сәйкес SMS – хабарламалардың типтік үлгілерінің тізбесіне сәйкес жүзеге асырылады. «112» БКДҚ орындаушылары SMS – хабарламалардың типтік үлгілерінің тізбесіне сәйкес келмейтін SMS – хабарламаларды жібермейді.
 
@@ -130,6 +140,8 @@ source: https://zan.gov.kz/client/#!/doc/98743/kaz/30.12.2015
 > *1-қосымша*
 
 # SMS-хабарламалардың типтік үлгілерінің тізбесі
+
+> *Ескерту. Тізбеге өзгерістер енгізілді – ҚР Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрінің 03.03.2022 № 73/НҚ (алғаш ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
@@ -472,6 +484,131 @@ Terrorirstik kauiptiliktin kizgilt sari dengei toktatildi
 ХХ.ХХ.ХХг.
 ХХХХХХХХ...XXX
 Otmena krasnogo urovnya terrorirsticheskoi opasnosti
+</td>
+</tr>
+<tr>
+<td>16-1</td>
+<td></td>
+<td></td>
+<td>
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х тас жолы жабық. Трассаны XX-XX км су басуы
+Орыс тілінде:
+Трасса XXXX...Х
+закрыта. Перелив
+через трассу
+XX-XX км
+</td>
+<td>
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х tas zholy zhabyk. Trassany XX-XX km su basu
+Trassa XXXX…X zakryta. Pereliv cherez trassu XX-XX km
+</td>
+</tr>
+<tr>
+<td>16-2</td>
+<td></td>
+<td></td>
+<td>
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х тас жолы ашық
+Орыс тілінде:
+Трасса XXXX...Х открыта
+</td>
+<td>
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х tas zholy ashyk
+Trassa XXXX…X otkryta
+</td>
+</tr>
+<tr>
+<td>16-3</td>
+<td></td>
+<td></td>
+<td>
+Қазақ тілінде:
+ХХ.ХХ.ХХ ж.
+ХХХХХХХХ.. .XXX
+Террористік қауіптіліктің сары деңгейі ұзартылды
+Орыс тілінде:
+ХХ.ХХ.ХХ г.
+ХХХХХХХХ.. .XXX
+Продлен желтый уровень террористической опасности
+</td>
+<td>
+ХХ.ХХ.ХХ zh.
+ХХХХХХХХ...XXX
+Terroristik kauiptiliktin sary dengei uzartyldy
+ХХ.ХХ.ХХ g.
+ХХХХХХХХ...XXX
+Prodlen jeltyi uroven terroristicheskoi opasnosti
+</td>
+</tr>
+<tr>
+<td>16-4</td>
+<td></td>
+<td></td>
+<td>
+Қазақ тілінде:
+ХХ.ХХ.ХХ ж.
+ХХХХХХХХ.. .XXX
+Террористік қауіптіліктің қызғылт сары деңгейі ұзартылды
+Орыс тілінде:
+ХХ.ХХ.ХХ г.
+ХХХХХХХХ.. .XXX
+Продлен оранжевый уровень террористической опасности
+</td>
+<td>
+ХХ.ХХ.ХХ zh.
+ХХХХХХХХ...XXX
+Terroristik kauiptiliktin kyzgylt sary dengei uzartyldy
+ХХ.ХХ.ХХ g.
+ХХХХХХХХ...XXX
+Prodlen oranjevyi uroven terroristicheskoi opasnosti
+</td>
+</tr>
+<tr>
+<td>16-5</td>
+<td></td>
+<td></td>
+<td>
+Қазақ тілінде:
+ХХ.ХХ.ХХ ж.
+ХХХХХХХХ.. .XXX
+Антитеррорлық жаттығу өткізілуде. Сабыр сақтауды сұраймыз
+Орыс тілінде:
+ХХ.ХХ.ХХ г.
+ХХХХХХХХ.. .XXX
+Проводится антитеррористическое учение. Просьба соблюдать спокойствие
+</td>
+<td>
+ХХ.ХХ.ХХ zh.
+ХХХХХХХХ...XXX
+Antiterrorlyk zhattygu otkizilude. Sabyr saktaudy suraimyz
+ХХ.ХХ.ХХ g.
+ХХХХХХХХ...XXX
+Provoditsya antiterroristicheskoe uchenie. Prosba soblyudat spokoistvie
+</td>
+</tr>
+<tr>
+<td>16-6</td>
+<td></td>
+<td></td>
+<td>
+Қазақ тілінде:
+Газ тұтынушы. Түтін мұржасындағы тартымды тексеріңіз және оның жарамдылығын бақылаңыз, көміртегі газы өлімге әкеледі. Сіздің өміріңіз сіздің қолыңызда
+Орыс тілінде:
+Потребитель газа. Проверьте тягу в дымоходе и следите за его исправностью, угарный газ смертелен. Ваша жизнь в Ваших руках
+</td>
+<td>
+Gaz tutynýshy. Tútin murjasyndaǵy tartymdy tekserińiz jáne onyń jaramdylyǵyn baqylańyz, kómirtegi gazy ólimge ákeledi. Sizdiń ómirińiz sizdiń qolyńyzda
+Potrebitel' gaza. Proverte tyagu v dymohode i sledite za ego ispravnost'yu, ugarnyj gaz smertelen. Vasha zhizn' v Vashih rukah
 </td>
 </tr>
 <tr>
@@ -946,93 +1083,110 @@ Ugroza povtornogo selya po ruslu reki XXXX…X otsutstvuet
 </td>
 </tr>
 <tr>
-<td rowspan="5">22</td>
-<td rowspan="5">Беткейдердің шайылуы (жаңбыр болғандықтан сел тасқыны)</td>
-<td rowspan="5">20206</td>
+<td rowspan="6">22</td>
+<td rowspan="6">Беткейдердің шайылуы (жаңбыр болғандықтан сел тасқыны)</td>
+<td rowspan="6">20206</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-Беткейдердің шайылу қатері
-Русс яз:
+Беткейлерді шаю қатері
+Орыс тілінде:
 Угроза склоновых смывов
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-Betkeiterdin shaiylu kateri
+Betkeilerdi shaiu kaypi
 Ugroza sklonovyh smyvov
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-Беткейдердің шайылу
-Русс яз:
+Беткейлердің шайылуы
+Орыс тілінде:
 Склоновые смывы
 </td>
 <td>
-2) По факту:
-XX.XX.XX.XX.XX-
-XXXXXXXXX…X
-Betkeiterdin shaiylu
+2) Нақты жағдайда:
+XX.XX.XX.XX.XX- XXXXXXXXX…X
+Betkeilerdin shaiyluy
 Sklonovye smyvy
 </td>
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-Беткейдердің шайылу қатері жоқ
-Русс яз:
+Беткейлердің шайылу қатері жоқ
+Орыс тілінде:
 Снятие угрозы склоновых смывов
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-B
-etkeiterdin shaiylu kateri zhok
+Betkeilerdin shaiylu kateri zhok
 Snyatie ugrozy sklonovyh smyvov
 </td>
 </tr>
 <tr>
 <td>
-1) При угрозе:
+4) При угрозе:
 Каз яз:
+ХХ.ХХ.ХХ ж.
+ХХХХХХХХ.. .XXX
+Көлбеу ағын су күтілуде
+Орыс тілінде:
+Ожидаются склоновые стоки
+</td>
+<td>
+4) При угрозе:
+ХХ.ХХ.ХХ zh.
+ХХХХХХХХ...XXX
+Kölbeu ağyn su kütіlude
+Ozhidayutsya sklonovye stoki
+</td>
+</tr>
+<tr>
+<td>
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XXXX...X жауын-шашыннан сел ағыны
-Русс яз:
+Орыс тілінде:
 Угроза селевого потока вследствие дождя в XXXX...X
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-XXXX...X zhauyn-shashynnan sel agyny
+XXXX...X
+zhauyn-shashynnan sel agyny
 Ugroza selevogo potoka vsledstvie dozhdya v XXXX…X
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XXXX...X жауын-шашыннан сел ағыны болды
-Русс яз:
+Орыс тілінде:
 Вследствие дождя произошел селевой поток в XXXX...X
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XXXX...X zhauyn-shashynnan sel agyny boldy
@@ -1040,96 +1194,131 @@ Vsledstvie dozhdya proizoshel selevoi potok v XXXX…X
 </td>
 </tr>
 <tr>
-<td rowspan="5">23</td>
-<td rowspan="5">Көшкіндер</td>
-<td rowspan="5">20210</td>
+<td rowspan="7">23</td>
+<td rowspan="7">Көшкіндер</td>
+<td rowspan="7">20210</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Көшкін жүру қатері
-Русс яз:
+Орыс тілінде:
 Угроза схода лавин
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-Koshkin zhuru kateri
+Koshkin zhüru kateri
 Ugroza shoda lavin
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
-XXXXXXXXX…X
-Көшкін жүру
-Русс яз:
+XXXXXXXXXX
+Көшкін болды
+Орыс тілінде:
 Сход лавин
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-Koshkin zhuru
+Koshkin boldy
 Shod lavin
 </td>
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Көшкін жүру қатері жоқ
-Русс яз:
+Орыс тілінде:
 Снятие угрозы схода лавин
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-Koshkin zhuru kateri zhok
+Koshkin zhüru kateri zhok
 Snyatiye ugrozy shoda lavin
 </td>
 </tr>
 <tr>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Дауылды алдын ала ескерту.XXXX...X көшкін жүру қатері
-Русс яз:
-Штормовое предупреждение. Угроза схода лавин в XXXX...X
+Орыс тілінде:
+Штормовое предупреждение
+Угроза схода лавин в XXXX...X
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-Dauyldy aldyn ala eskertu.XXXX...X koshkin zhuru kateri
+Dauyldy aldyn ala eskertu.XXXX...X
+koshkin zhüru kateri
 Shtormovoe preduprezhdenie. Ugroza shoda lavin v XXXX…X
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-XXXX...X көшкін жүру
-Русс яз:
+XXXX...X көшкін болды
+Орыс тілінде:
 Произошел сход лавин в XXXX...X
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-XXXX…X koshkin zhuru
+XXXX…X koshkin boldy
 Proizoshel shod lavin v XXXX…X
+</td>
+</tr>
+<tr>
+<td>
+3) При планировании:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+Профилактикалық көшкін түсіру жүргізіледі
+Орыс тілінде:
+Будет произведен профилактический спуск лавин на XXXXXXXXX…X
+</td>
+<td>
+3) XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+Profilaktikalyq koshkin tusiru zhurgiziledi
+Budet proizveden profilakticheskii
+spusk lavin na XXXXXXXXX…X
+</td>
+</tr>
+<tr>
+<td>
+4) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+Профилактикалық көшкін түсіру
+Орыс тілінде:
+Профилактический спуск лавин на XXXXXXXXXX
+</td>
+<td>
+4) XX.XX.XX.XX.XX-XXXXXXXXX…X Profilaktikalyk koshkin tüsiru
+Profilakticheskii spusk lavin na XXXXXXXX…X
 </td>
 </tr>
 <tr>
@@ -1516,38 +1705,37 @@ Shotormovoe preduprezhdenie dozhdya s perehodom krupnyi grad v raione XXXX…X
 </td>
 </tr>
 <tr>
-<td rowspan="3">31</td>
-<td rowspan="3">Нөсер жауын (жауын)</td>
-<td rowspan="3">20308</td>
+<td rowspan="6">31</td>
+<td rowspan="6">Нөсер жауын (жауын)</td>
+<td rowspan="6">20308</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Нөсер жауын күтілуде
-Русс яз:
+Орыс тілінде:
 Ожидается сильный дождь
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Noser zhauyn kutilude
+Noser zhauyn kütilude
 Ozhidaetsya silnyi dozhd
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
-XX.XX.XX.XX.XX
-XXXXXXXXX…X
+2) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XXXXXXXXXXX…X
 Нөсер жауын
-Русс яз:
+Орыс тілінде:
 Сильный дождь
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Noser zhauyn
@@ -1556,20 +1744,69 @@ Silnyi dozhd
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
-XXXXXXXXX…X
+XXXXXXXXXX
 Нөсер жауын күтілу қатері жоқ
-Русс яз:
+Орыс тілінде:
 Снятие угрозы сильного дождя
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Noser zhauyn kutilu kateri zhok
+Noser zhauyn kütilu kateri zhok
 Snyatie ugrozy silnogo dozhdya
+</td>
+</tr>
+<tr>
+<td>
+4) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX XXXXXXXXX…X Нөсер жауын күтілуде
+Орыс тілінде:
+Ожидается дождь (ливень)
+</td>
+<td>
+4) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Noser zhauyn kütilude
+Ozhidaetsya dozhd (liven)
+</td>
+</tr>
+<tr>
+<td>
+5) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Нөсер жауын
+Орыс тілінде:
+Дождь (ливень)
+</td>
+<td>
+5) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Noser zhauyn
+Dozhd (liven)
+</td>
+</tr>
+<tr>
+<td>
+6) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Дауылды алдын ала ескерту. ХХХХ...Х аумағында қарға ауысатын жауын
+Орыс тілінде:
+Штормовое предупреждение. Дождь с переходом в снег на территории ХХХХ...Х
+</td>
+<td>
+6) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Dauyldy aldyn ala eskertu. ХХХХ...Х aumagynda karga auysatyn zhauyn
+Shotormovoe preduprezhdenie. Dozhd s perehodom v sneg na territorii ХХХХ...Х
 </td>
 </tr>
 <tr>
@@ -1705,39 +1942,39 @@ Snyatie ugrozy prodolzhitelnogo dozhdya
 </td>
 </tr>
 <tr>
-<td rowspan="5">34</td>
-<td rowspan="5">Қалың қар</td>
-<td rowspan="5">20311</td>
+<td rowspan="8">34</td>
+<td rowspan="8">Қалың қар</td>
+<td rowspan="8">20311</td>
 <td>
-1) При угрозе:
-Каз яз:
-XX.XX.XX.XX.XX
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.​XX.​XX.​XX.​XX
 XXXXXXXXX…X
 Қалың қар күтілуде
-Русс яз:
+Орыс тілінде:
 Ожидается сильный снегопад
 </td>
 <td>
-1) При угрозе:
-XX.XX.XX.XX.XX
+1) Қауіп-қатер кезінде:
+XX.​XX.​XX.​XX.​XX
 XXXXXXXXX…X
-Kalyn kar kutilude
+Kalyn kar kütilude
 Ozhidaetsya silnyi snegopad
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
-XX.XX.XX.XX.XX
-XXXXXXXXX…X
+2) Нақты жағдайда:
+Қазақ тілінде:
+XX.​XX.​XX.​XX.​XX
+XXXXXXXXXX
 Қалың қар
-Русс яз:
+Орыс тілінде:
 Сильный снегопад
 </td>
 <td>
-2) По факту:
-XX.XX.XX.XX.XX
+2) Нақты жағдайда:
+XX.​XX.​XX.​XX.​XX
 XXXXXXXXX…X
 Kalyn kar
 Silnyi snegopad
@@ -1745,56 +1982,111 @@ Silnyi snegopad
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
-XX.XX.XX.XX.XX
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
+XX.​XX.​XX.​XX.​XX
 XXXXXXXXX…X
 Қалың қар қатері жоқ
-Русс яз:
+Орыс тілінде:
 Снятие угрозы сильного снегопада
 </td>
 <td>
-3) При снятии угрозы:
-XX.XX.XX.XX.XX
+3) Қауіп-қатер алынған кезде:
+XX.​XX.​XX.​XX.​XX
 XXXXXXXXX…X
-Kalyn kar kutilu kateri zhok
+Qalyn qar qateri zhok
 Snyatie ugrozy silnogo snegopada
 </td>
 </tr>
 <tr>
 <td>
-1) При угрозе:
-Каз яз:
-XX.XX.XX.XX.XX
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.​XX.​XX.​XX.​XX
 XXXXXXXXX…X
-Дауылды алдын ала ескерту.ХХХХ...Х ауданында қалың қар, боран күтүлуде.
-Русс яз:
+Дауылды алдын ала ескерту.
+ХХХХ...Х ауданында қалың қар, боран күтiлуде.
+Орыс тілінде:
 Штормовое предупреждение.Ожидается сильный снегопад, метель в районе XXXX...X
 </td>
 <td>
-1) При угрозе:
-XX.XX.XX.XX.XX
+1) Қауіп-қатер кезінде:
+XX.​XX.​XX.​XX.​XX
 XXXXXXXXX…X
-Dauyldy aldyn ala eskertu. XXXX..X audanynda kalyn kar, boran kutulude
-Shotormovoe preduprezhdenie. Ozhidaetsya silnyi snegopad, metel v raione XXXX…X
+Dauyldy aldyn ala eskertu. XXXX..X audanynda kalyn kar, boran kutilyde
+Shotormovoe preduprezhdenie.
+Ozhidaetsya silnyi snegopad, metel v raione XXXX…X
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
-XX.XX.XX.XX.XX
+2) Нақты жағдайда:
+Қазақ тілінде:
+XX.​XX.​XX.​XX.​XX
 XXXXXXXXX…X
 XXXX...X аумағында қалың қар, боран.Көрінуі ХХм. дейін, ХХХХ...Х жолдары жабық
-Русс яз:
+Орыс тілінде:
 Сильный снегопад, метель в районе XXXX...X. Видимость до XXм. Движение закрыто на дорогах XXXХ…Х
 </td>
 <td>
-2) По факту:
-XX.XX.XX.XX.XX
+2) Нақты жағдайда:
+XX.​XX.​XX.​XX.​XX
 XXXXXXXXX…X
 XXXX…X aumagynda kalyn kar, boran.Korinui XXm. deiin, XXXX…X zholdar zhabyk
-Silnyi snegopad, metel v raione XXXX…X.Vidimost do XX m.dvizhenie zakryto na dorogah XXXX...X
+Silnyi snegopad, metel v raione XXXX…X.​Vidimost do XX m.​dvi​zhen​ie zakryto na dorogah XXXX...X
+</td>
+</tr>
+<tr>
+<td>
+3) Нақты жағдайда:
+Қазақ тілінде:
+XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X
+XXXX...Х тас жолы жабық. Қалың қар
+Орыс тілінде:
+Трасса XXXX...Х закрыта. Сильный снегопад
+</td>
+<td>
+4) XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X
+XXXX...Х tas zholy zhabyk.
+Kalyn каr
+Trassa XXXX…X zakryta.
+Silnyi snegopad
+</td>
+</tr>
+<tr>
+<td>
+4) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.​XX.​XX.​XX.​XX
+XXXXXXXXX…X
+Қар жауу күтілуде
+Орыс тілінде:
+Ожидается снегопад
+</td>
+<td>
+5) XX.​XX.​XX.​XX.​XX
+XXXXXXXXX…X
+Kar zhauu kutilude
+Ozhidaetsya snegopad
+</td>
+</tr>
+<tr>
+<td>
+5) Нақты жағдайда:
+Қазақ тілінде:
+XX.​XX.​XX.​XX.​XX
+XXXXXXXXXX
+Қар жауу
+Орыс тілінде:
+Снегопад
+</td>
+<td>
+XX.​XX.​XX.​XX.​XX
+XXXXXXXXX…X
+Kar zhauu
+Snegopad
 </td>
 </tr>
 <tr>
@@ -1855,20 +2147,20 @@ Snyatie ugrozy silnogo oledeneniya
 </td>
 </tr>
 <tr>
-<td rowspan="3">36</td>
-<td rowspan="3">Қатты бұрқасын</td>
-<td rowspan="3">20314</td>
+<td rowspan="4">36</td>
+<td rowspan="4">Қатты бұрқасын</td>
+<td rowspan="4">20314</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қатты бұрқасын қатері
-Русс яз:
+Орыс тілінде:
 Угроза сильной метели
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Katty burkasin kateri
@@ -1877,16 +2169,16 @@ Ugroza silnoy meteli
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қатты бұрқасын
-Русс яз:
+Орыс тілінде:
 Сильная метель
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Katty burkasin
@@ -1895,16 +2187,16 @@ Silnaya metel
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қатты бұрқасын қатері жоқ
-Русс яз:
+Орыс тілінде:
 Снятие угрозы сильной метели
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Katty burkasin kateri zhoк
@@ -1912,20 +2204,39 @@ Snyatie ugrozy silnoy meteli
 </td>
 </tr>
 <tr>
-<td rowspan="3">37</td>
-<td rowspan="3">Қатты көктайғақ</td>
-<td rowspan="3">20315</td>
 <td>
-1) При угрозе:
-Каз яз:
+4) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+ХХ м/с қатты бұрқасын жел. Х ауысым Х-ХХ сыныптарында сабақ болмайды
+Орыс тілінде:
+Сильная метель, ветер ХХ м/с. Отмена занятий Х-ХХ класс Х смены
+</td>
+<td>
+4) XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XX m/s кatty burkasyn zhel. Х ausym Х-ХХ
+synyptarynda sabak bolmaidy
+Silnaya metel, veter XX m/s.
+Otmena zanyatii X-XX klass Х smeny
+</td>
+</tr>
+<tr>
+<td rowspan="7">37</td>
+<td rowspan="7">Қатты көктайғақ</td>
+<td rowspan="7">20315</td>
+<td>
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қатты көктайғақ қатері
-Русс яз:
+Орыс тілінде:
 Угроза сильного гололеда
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Katty koktaigak kateri
@@ -1934,16 +2245,16 @@ Ugroza silnogo gololeda
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қатты көктайғақ
-Русс яз:
+Орыс тілінде:
 Сильный гололед
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Katty koktaigak
@@ -1952,16 +2263,16 @@ Silnyi gololed
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қатты көктайғақ қатері жоқ
-Русс яз:
+Орыс тілінде:
 Снятие угрозы сильного гололеда
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Katty koktaigak kateri zhok
@@ -1969,38 +2280,106 @@ Snyatie ugrozy silnogo gololeda
 </td>
 </tr>
 <tr>
-<td rowspan="3">38</td>
-<td rowspan="3">Қатты аяз</td>
-<td rowspan="3">20316</td>
 <td>
-1) При угрозе:
-Каз яз:
+4) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+Көктайғақ. Х ауысым Х-ХХ сыныптарында сабақ болмайды
+Орыс тілінде:
+Гололед. Отмена занятий Х-ХХ класс Х смены
+</td>
+<td>
+4) XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+Koktaigak. Х ausym X-XX synyptarynda sabak bolmaidy
+Gololed. Otmena zanyatii X-XX klass Х smeny
+</td>
+</tr>
+<tr>
+<td>
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Көктайғақ қатері
+Орыс тілінде:
+Угроза гололеда
+</td>
+<td>
+1) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Koktaigak kateri
+Ugroza gololeda
+</td>
+</tr>
+<tr>
+<td>
+2) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Көктайғақ
+Орыс тілінде:
+Гололед
+</td>
+<td>
+2) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Koktaigak
+Gololed
+</td>
+</tr>
+<tr>
+<td>
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+көктайғақ қатері жоқ
+Орыс тілінде:
+Снятие угрозы гололеда
+</td>
+<td>
+3) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Koktaigak kateri zhok
+Snyatie ugrozy gololeda
+</td>
+</tr>
+<tr>
+<td rowspan="7">38</td>
+<td rowspan="7">Қатты аяз</td>
+<td rowspan="7">20316</td>
+<td>
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қатты аяз күтілуде
-Русс яз:
+Орыс тілінде:
 Ожидается сильный мороз
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Katty ayaz kutilude
+Katty ayaz kü tilude
 Ozhidaetsya silnyi moroz
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
-XXXXXXXXX…X
+XXXXXXXXX…
 Қатты аяз
-Русс яз:
+Орыс тілінде:
 Сильный мороз
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Katty ayaz
@@ -2009,16 +2388,19 @@ Silnyi moroz
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
-XX.XX.XX.XX.XX
+3) Қауіп-қатер
+алынған кезде:
+Қазақ тілінде:
+XX.XX.XX.XX.X
 XXXXXXXXX…X
-Қатты аяз қатері жоқ
-Русс яз:
-Снятие угрозы сильного мороза
+Қатты аяз
+қатері жоқ
+Орыс тілінде:
+Снятие угрозы
+сильного мороза
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Katty ayaz kateri zhok
@@ -2026,113 +2408,238 @@ Snyatie ugrozy silnogo moroza
 </td>
 </tr>
 <tr>
-<td rowspan="4">39</td>
-<td rowspan="4">Қатты ыстық</td>
-<td rowspan="4">20317</td>
 <td>
-1) При угрозе:
-Каз яз:
-XX.XX.XX.XX.XX
-XXXXXXXXX…X
-ХХ °С дейін қатты ыстық күтілуде
-Русс яз:
-Ожидается сильная жара до ХХ °С
+4) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х тас жолы жабық. Қатты аяз
+Орыс тілінде:
+Трасса XXXX...Х закрыта.
+Сильный мороз
 </td>
 <td>
-1) При угрозе:
-XX.XX.XX.XX.XX
-XXXXXXXXX…X
-XX °С deiin katty ystyk kutilude
-Ozhidaetsya silnaya zhara do XX °С
-</td>
-</tr>
-<tr>
-<td>
-2) По факту:
-Каз яз:
-XX.XX.XX.XX.XX
-XXXXXXXXX…X
-ХХ °С дейін қатты ыстық
-Русс яз:
-Сильная жара до ХХ °С
-</td>
-<td>
-2) По факту:
-XX.XX.XX.XX.XX
-XXXXXXXXX…X
-XX °С deiin katty ystyk
-Silnaya zhara do XX °С
+4) XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х tas joly jabyq.
+Qatty aıaz
+Trassa XXXX...Х zakryta.
+Silnyi moroz
 </td>
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-ХХ °С дейін қатты ыстық болу қатері жоқ
-Русс яз:
-Снятие угрозы сильной жары до ХХ °С
+Аяз күтілуде
+Орыс тілінде:
+Ожидается мороз
 </td>
 <td>
-3) При снятии угрозы:
-XX.XX.XX.XX.XX
+1) XX.XX.XX.XX.XX
 XXXXXXXXX…X
-XX °С deiin katty ystyk bolu kateri zhok
-Snyatie ugrozy silnoi zhary do XX °С
+Aıaz kütilýde
+Ozhidaetsya moroz
+</td>
+</tr>
+<tr>
+<td>
+2) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…
+XX C дейін аяз
+Орыс тілінде:
+Мороз до ХХ С
+</td>
+<td>
+2) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX C deıin aıaz
+Moroz dо ХХ С
 </td>
 </tr>
 <tr>
 <td>
-1) При угрозе:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Дауылды алдын ала ескерту.ХХ °С дейін қатты ыстық.
-Русс яз:
-Штормовое предупреждение. Повышение температуры до ХХ °С
+Аяз қатері жоқ
+Орыс тілінде:
+Снятие угрозы мороза
 </td>
 <td>
-1) При угрозе:
-XX.XX.XX.XX.XX
+3) XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Dauyldy aldyn ala eskertu.XX °С deiin katty ystyk.
-Shotormovoe preduprezhdenie. Silnaya zhara do XX °С
+Aıaz qateri joq
+Snyatie ugrozy moroza
 </td>
 </tr>
 <tr>
-<td rowspan="5">40</td>
-<td rowspan="5">Қалың тұман</td>
-<td rowspan="5">20318</td>
+<td rowspan="7">39</td>
+<td rowspan="7">Қатты ыстық</td>
+<td rowspan="7">20317</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+ХХ Ү С дейін қатты ыстық күтілуде
+Орыс тілінде:
+Ожидается сильная жара до ХХ Ү С
+</td>
+<td>
+1) Қауіп-қатер кезінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX Ү С deiin katty ystyk kütilude
+Ozhidaetsya silnaya zhara do XX Ү С
+</td>
+</tr>
+<tr>
+<td>
+2) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+ХХ ҮС дейін қатты ыстық
+Орыс тілінде:
+Сильная жара до ХХ ҮС
+</td>
+<td>
+2) Нақты жағдайда:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX ҮС deiin katty ystyk
+Silnaya zhara do XX ҮС
+</td>
+</tr>
+<tr>
+<td>
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X ХХ ҮС дейін қатты ыстық болу қатері жоқ
+Орыс тілінде:
+Снятие угрозы сильной жары до ХХ ҮС
+</td>
+<td>
+3) Қауіп-қатер алынған кезде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX ҮС deiin katty ystyk bolu kateri zhok
+Snyatie ugrozy silnoi zhary do XX ҮС
+</td>
+</tr>
+<tr>
+<td>
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Дауылды алдын ала ескерту.
+ХХ ҮС дейін
+қатты ыстық.
+Орыс тілінде:
+Штормовое предупреждение. Повышение температуры до ХХ ҮС
+</td>
+<td>
+1) Қауіп-қатер кезінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Dauyldy aldyn ala eskertu.
+XX ҮС deiin qatty ystyq.
+Shtormovoe preduprezhdenie.
+Povyshenie temperatury do XX ҮС
+</td>
+</tr>
+<tr>
+<td>
+2) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+ХХ ҮС дейін ыстық күтілуде
+Орыс тілінде:
+Ожидается жара до ХХ ҮС
+</td>
+<td>
+2) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX ҮС deiin ystyq kütilude
+Ozhidaetsya zhara do XX ҮС
+</td>
+</tr>
+<tr>
+<td>
+3) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+ХХ ҮС дейін ыстық
+Орыс тілінде:
+Жара до ХХ ҮС
+</td>
+<td>
+3) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX ҮС deiin ystyk
+Zhara do XX ҮС
+</td>
+</tr>
+<tr>
+<td>
+4) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+ХХ ҮС дейін ыстық болу қатері жоқ
+Орыс тілінде:
+Снятие угрозы жары до ХХ ҮС
+</td>
+<td>
+4) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX ҮС deiin ystyk bolu kateri zhok
+Snyatie ugrozy zhary do XX ҮС
+</td>
+</tr>
+<tr>
+<td rowspan="10">40</td>
+<td rowspan="10">Қалың тұман</td>
+<td rowspan="10">20318</td>
+<td>
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қалың тұман күтілуде
-Русс яз:
+Орыс тілінде:
 Ожидается сильный туман
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Kalyn tuman kutilude
+Kalyn tuman kütilude
 Ozhidaetsya silnyi tuman
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қалың тұман
-Русс яз:
+Орыс тілінде:
 Сильный туман
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Kalyn tuman
@@ -2141,56 +2648,146 @@ Silnyi tuman
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Қалың тұман түсу қатері жоқ
-Русс яз:
+Қалың тұман қатері жоқ
+Орыс тілінде:
 Снятие угрозы сильного тумана
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Kalyn tuman kateri zhoк
+Qalyn tuman qateri zhoq
 Snyatie ugrozy silnogo tumana
 </td>
 </tr>
 <tr>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Дауылды алдын ала ескерту. ХХХХ...Х жолдарында қалың тұман
-Русс яз:
-Штормовое предупреждение. Сильный туман на дорогах XXXX…Х
+Дауылды алдын ала ескерту.
+ХХХХ...Х жолдарында қалың тұман
+Орыс тілінде:
+Штормовое предупреждение.
+Сильный туман на дорогах XXXX…Х
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Dauyldy aldyn ala eskertu. ХХХХ...Х zholdarynda kalyn tuman
+Dauyldy aldyn ala eskertu.
+ХХХХ...Х zholdarynda kalyn tuman
 Shotormovoe preduprezhdenie. Silnyi tuman na dorogah XXXX…X
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қалың тұман, көрінуі ХХ м дейін
-Русс яз:
+Орыс тілінде:
 Сильный туман на дорогах XXXX…Х, видимость до ХХм
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Kalyn tuman, korinu XX m deiin
 Silnyi tuman na dorogah XXXX…X, vidimost do XX m
+</td>
+</tr>
+<tr>
+<td>
+1) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х тас жолы жабық. Қалың тұман
+Орыс тілінде:
+Трасса XXXX...Х закрыта. Сильный туман
+</td>
+<td>
+1) XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х tas zholy zhabyk. Kalyn tuman
+Trassa XXXX…X zakryta.
+Silnyi tuman
+</td>
+</tr>
+<tr>
+<td>
+2) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х тас жолы жабық. Тұман күтілуде
+Орыс тілінде:
+Трасса XXXX...Х закрыта. Ожидается туман
+</td>
+<td>
+2) XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х tas zholy zhabyk.
+Tuman kütilude
+Trassa XXXX…X zakryta. Ozhidaetsya tuman
+</td>
+</tr>
+<tr>
+<td>
+3) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Тұман күтілуде
+Орыс тілінде:
+Ожидается туман
+</td>
+<td>
+3) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Tuman kutilude
+Ozhidaetsya tuman
+</td>
+</tr>
+<tr>
+<td>
+4) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Тұман
+Орыс тілінде:
+Туман
+</td>
+<td>
+4) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Tuman
+Tuman
+</td>
+</tr>
+<tr>
+<td>
+5) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Тұман қатері жоқ
+Орыс тілінде:
+Снятие угрозы тумана
+</td>
+<td>
+5) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Tuman qateri zhoq
+Snyatie ugrozy tumana
 </td>
 </tr>
 <tr>
@@ -2497,38 +3094,37 @@ Snyatie ugrozy vysokoi pozharnoi opasnosti lesov
 </td>
 </tr>
 <tr>
-<td rowspan="3">46</td>
-<td rowspan="3">Боран</td>
-<td rowspan="3">20324</td>
+<td rowspan="4">46</td>
+<td rowspan="4">Боран</td>
+<td rowspan="4">20324</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
-XXXXXXXXX…X
-ХХ м/с дейінгі боран болу қатері
-Русс яз:
+XXXXXXXXX…X ХХ м/с дейінгі боран болу қатері
+Орыс тілінде:
 Угроза бурана до ХХ м/с
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XX m/s deyingi boran bolu kateri
-Ugroza vozniknoveniya burana do XX m/s
+Ugroza burana do XX m/s
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 ХХ м/с дейінгі боран
-Русс яз:
+Орыс тілінде:
 Буран до ХХ м/с
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XX m/s deyingi boran
@@ -2537,20 +3133,39 @@ Buran do XX m/s
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 ХХ м/с дейінгі боран болу қатері жоқ
-Русс яз:
+Орыс тілінде:
 Снятие угрозы буранa до ХХ м/с
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XX m/s deiingi boran bolu kateri zhok
 Snyatie ugrozy burana do XX m/s
+</td>
+</tr>
+<tr>
+<td>
+4) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х тас жолы жабық. Күшті боран
+Орыс тілінде:
+Трасса XXXX...Х закрыта. Сильный буран
+</td>
+<td>
+4) XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х tas zholy zhabyk.
+Kushti boran
+Trassa XXXX…X zakryta.
+Silnyi buran
 </td>
 </tr>
 <tr>
@@ -2672,20 +3287,20 @@ Snytie ugrozy silnogo volneniya na more
 </td>
 </tr>
 <tr>
-<td rowspan="4">49</td>
-<td rowspan="4">Теңіз деңгейінің қатты тербелуі</td>
-<td rowspan="4">20404</td>
+<td rowspan="5">49</td>
+<td rowspan="5">Теңіз деңгейінің қатты тербелуі</td>
+<td rowspan="5">20404</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Теңіз деңгейінің қатты тербелу қатері
-Русс яз:
+Орыс тілінде:
 Угроза сильного колебания уровня моря
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Teniz dengeyinin katty terbelu kateri
@@ -2694,16 +3309,16 @@ Ugroza silnogo kolebanya urovnya morya
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Теңіз деңгейінің қатты тербелуі
-Русс яз:
+Орыс тілінде:
 Сильное колебание уровня моря
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Teniz dengeyinin katty terbelui
@@ -2712,16 +3327,16 @@ Silnoye kolebanye urovnya morya
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Теңіз деңгейінің қатты тербелу қатері жоқ
-Русс яз:
+Орыс тілінде:
 Снятие угрозы сильного колебания уровня моря
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Teniz dengeyinin katty terbelu kateri zhok
@@ -2730,20 +3345,37 @@ Snytie ugrozy silnogo kolebanya urovnya morya
 </tr>
 <tr>
 <td>
-1) При угрозе:
-Каз яз:
+4) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XXXXXXXXXX…XXXXXXXX…X жел, жоғары толқындар күтілуде.
+Теңізге жүзу құралдарымен шығуға және шомылғу болмайды
+Орыс тілінде:
+Ожидается ветер XXXXXXXXX…, высокие волны. Не выходить на море на плавательных средствах и для купания.
+</td>
+<td>
+4) Қауіп-қатер кезінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XXXXXXXXX…X jel, joğary tolqyndar kütılude. Teñızge jüzu qūraldarymen shyguga jäne şomylyga bolmaidy
+Ozhidaetsya veter XXXXXXXXX…X, vysokie volnye. Ne vyxodit na more na plavatelnyx sredstvax i dlya kupaniya.
+</td>
+</tr>
+<tr>
+<td>
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Дауылды алдын ала ескерту. XXXX…X участкесінде жел көтерген толқындар
-Русс яз:
+Орыс тілінде:
 Штормовое предупреждение. Нагонные волны на участке XXXX…X
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Dauyldy aldyn ala eskertu. XXXX…X uchaskesinde zhel kotergen tolkyndar
-Shotormovoe preduprezhdenie.Nagonnye volny na uchastke XXXX…X
+Shotormovoe preduprezhdenie. Nagonnye volny na uchastke XXXX…X
 </td>
 </tr>
 <tr>
@@ -2920,20 +3552,20 @@ Snytie ugrozy obledeneniya sudov i portovyh sooruzheniy
 <td colspan="5">Гидрологиялық қауіпті жағдайлар</td>
 </tr>
 <tr>
-<td rowspan="5">53</td>
-<td rowspan="5">Су деңгейінің жоғары болуы (су басуы)</td>
-<td rowspan="5">20501</td>
+<td rowspan="6">53</td>
+<td rowspan="6">Су деңгейінің жоғары болуы (су басуы)</td>
+<td rowspan="6">20501</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Су басу қатері
-Русс яз:
+Орыс тілінде:
 Угроза наводнения
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Su basu kateri
@@ -2942,16 +3574,16 @@ Ugroza navodneniya
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Су басу
-Русс яз:
+Орыс тілінде:
 Наводнение
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Su basu
@@ -2960,17 +3592,17 @@ Navodneniyе
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Су басу қатері жоқ
-Русс яз:
+Орыс тілінде:
 Снятие угрозы наводнения
 </td>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 Su basu kateri zhok
@@ -2979,16 +3611,16 @@ Snyatie ugrozy navodneniya
 </tr>
 <tr>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XXXX...X су басу қатері
-Русс яз:
+Орыс тілінде:
 Угроза наводнения в XXXX...X
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XXXXX su basu kateri
@@ -2997,20 +3629,39 @@ Ugroza navodneniya v XXXX…X
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XXXX...X елді мекендерді және ХХХХ...Х жол учаскелерін су басты
-Русс яз:
+Орыс тілінде:
 Подтоплены населенные пункты XXXX...X и участки дорог XXXX...X
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XXXX…X eldi mekenderdi zhane XXXX…X zhol uchaskelerin su basty
 Podtopleny naselennye punkty XXXX…X i uchastki dorog XXXX…X
+</td>
+</tr>
+<tr>
+<td>
+3) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X Өзендерде су деңгейінің көтерілуі
+Орыс тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X Подъемы уровня воды на реках
+</td>
+<td>
+3) XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х Ozenderde su dengeyinin koterilui
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х Podyomy urovnya vody na rekah
 </td>
 </tr>
 <tr>
@@ -4051,20 +4702,20 @@ Snyata ugroza vozniknoveniya ekzoticheskih i osobo opasnyh infekcionnyh zaboleva
 </td>
 </tr>
 <tr>
-<td rowspan="4">72</td>
-<td rowspan="4">Қауіпті жұқпалы аурулардың эпидемиялық шығуы</td>
-<td rowspan="4">20803</td>
+<td rowspan="9">72</td>
+<td rowspan="9">Қауіпті жұқпалы аурулардың эпидемиялық шығуы</td>
+<td rowspan="9">20803</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
-XXXXXXXXX…X
+XXXXXXXX…X
 Қауіпті жұқпалы аурулардың эпидемиялық шығу қатері
-Русс яз:
+Орыс тілінде:
 Угроза возникновения эпидемической вспышки опасных инфекционных заболеваний
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Kauіptі zhukpali aurulardin epidemiyalyk shigu katerі
@@ -4073,16 +4724,16 @@ Ugroza vozniknoveniya epidemicheskoy vspyshki opasnyh infekcionnyh zabolevaniy
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қауіпті жұқпалы аурулардың эпидемиялық шығу жағдайлары тіркелді
-Русс яз:
+Орыс тілінде:
 Зарегистрированы случаи эпидемической вспышки опасных инфекционных заболеваний
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 ХХ.ХХ.ХХ.ХХ.ХХ.
 XXXXXXXXX…X
 Kauіptі zhukpali aurulardin epidemiyalyk shigu zhagdailary tirkeldy
@@ -4091,39 +4742,133 @@ Zaregistrirovany sluchai epidemicheskoy vspyshki opasnyh infekcionnyh zabolevani
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Қауіпті жұқпалы аурулардың эпидемиялық шығу қатері жоқ
-Русс яз:
+Орыс тілінде:
 Снята угроза возникновения эпидемической вспышки опасных инфекционных заболеваний
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 ХХ.ХХ.ХХ.ХХ.ХХ.
 XXXXXXXXX…X
-Kauіptі zhukpali aurulardin epidemiyalyk shigu katerі
-zhok
+Kauіptі zhukpali aurulardin epidemiyalyk shigu katerі zhok
 Snyata ugroza vozniknoveniya epidemicheskoy vspyshki opasnyh infekcionnyh zabolevaniy
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 XXXX...X елді мекендерінде ХХХХ...Х карантин жарияланды.Қозғалысқа шектеу қойылған
-Русс яз:
+Орыс тілінде:
 Объявлен карантин XXXX…X в населенных пунктах XXXX…X. Проезд ограничен
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 ХХ.ХХ.ХХ.ХХ.ХХ.
 XXXXXXXXX…X
-XXXX…X eldi mekenderinde XXXX…X karantin zhariyalandy.Kozgalyska shekteu koiylgan
-Obyavlen karantin XXXX…X v naselennyh punktah XXXX…X.Proezd ogranichen
+XXXX…X eldi mekenderinde XXXX…X karantin zhariyalandy.
+Kozgalyska shekteu koiylgan
+Obyavlen karantin XXXX…X v naselennyh punktah XXXX…X.
+Proezd ogranichen
+</td>
+</tr>
+<tr>
+<td>
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х карантин енгізіледі
+Орыс тілінде:
+XXXX...Х вводится карантин
+</td>
+<td>
+1) Қауіп-қатер кезінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х
+karantin engiziledi
+XXXX...Х
+vvoditsya karantin
+</td>
+</tr>
+<tr>
+<td>
+2) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х кіруі-шығуы шектеледі
+Орыс тілінде:
+XXXX...Х ограничен въезд-выезд
+</td>
+<td>
+2) Нақты жағдайда:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х kiry-shygyy shekteledi
+XXXX...Х ogranichen vezd-vyezd
+</td>
+</tr>
+<tr>
+<td>
+3) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х қоғамдық көлік ХХ.ХХ-ден ХХ.ХХ-ға дейін тоқтатылды
+Орыс тілінде:
+XXXX…X приостановлен общественный транспорт с ХХ.ХХ до ХХ.ХХ
+</td>
+<td>
+3) Нақты жағдайда:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х qogamdyq kolik ХХ.ХХ-den ХХ.ХХ-ga deiin toktatyldy
+XXXX…X Priostanovlen obshestvennyi transport s ХХ.ХХ dо ХХ.ХХ
+</td>
+</tr>
+<tr>
+<td>
+4) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х қоғамдық көлік қозғалысы ХХ.ХХ-ден ХХ.ХХ-ге дейін шектеулі
+Орыс тілінде:
+XXXX…X ограничено движение общественного транспорта с ХХ.ХХ до ХХ.ХХ
+</td>
+<td>
+4) Қауіп-қатер кезінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х qogamdyq kolik qozgalysy ХХ.ХХ-den ХХ.ХХ-ge deiin shekteyli
+Ogranicheno dvijenie obshestvennogo transporta XX.XX do XX.XX
+</td>
+</tr>
+<tr>
+<td>
+5) Қауіп-қатер алынған кезде
+Қазақ тілінде:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х қоғамдық көлік қозғалысының шектеуі алынды
+Орыс тілінде:
+XXXX…X снято ограничение движения общественного транспорта
+</td>
+<td>
+5) Қауіп-қатер алынған кезде
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х qogamdyq kolik qozgalysynyn shekteyi alyndy
+XXXX…X
+snato ogranichenie dvijenia obshestvennogo transporta
 </td>
 </tr>
 <tr>
@@ -6296,42 +7041,72 @@ Ostorozhno tonkiy led
 </td>
 </tr>
 <tr>
-<td rowspan="2">110</td>
-<td rowspan="2">Мас және нашақорлық күйде жәбірленгендер</td>
-<td rowspan="2">21805</td>
+<td rowspan="4">110</td>
+<td rowspan="4">Мас және нашақорлық күйде жәбірленгендер</td>
+<td rowspan="4">21805</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Мас күйде шомылуға болмайды
-Русс яз:
+Орыс тілінде:
 Купание в пьяном виде запрещено
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Mas kuide shomyluga bolmaidy
+Mas küide shomyluga bolmaidy
 Kupanie v piyanom vide zapresheno
 </td>
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Мас күйде суға батқандар саны өсті
-Русс яз:
+Орыс тілінде:
 Рост числа утонувших в пьяном виде
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Mas kuide suga batkandar sany osti
+Mas küide suga batkandar sany osti
 Rost chisla utonuvshyh v piyanom vide
+</td>
+</tr>
+<tr>
+<td>
+3) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+Белгіленбеген орындарда шомылуға тыйым салынады
+Орыс тілінде:
+Купаниe в не установленных местах запрещается
+</td>
+<td>
+3) XX.XX.XX.XX.XX
+Belgilenbegen oryndarda shomyluga tyiym salinadi
+Kupanie v ne ustanovlennih mestah zapreshaetsya
+</td>
+</tr>
+<tr>
+<td>
+4) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+Су айдындарында балаларды ересектердің қарауынсыз қалдырмаңыздар
+Орыс тілінде:
+Неоставляйте детей на водоемах без присмотра взрослых
+</td>
+<td>
+4) XX.XX.XX.XX.XX
+Su aidyndarynda balalardy eresekterdin karauynsyz kaldyrmanyzdar
+Ne ostavlyaite detei na vodoemah bez prismotra vzroslih
 </td>
 </tr>
 <tr>
@@ -10095,20 +10870,20 @@ Snyatie ugrozy prevysheniya PDK vrednyh veshestv v grunte XXXXXXXXXXXXXXXXXXX
 </td>
 </tr>
 <tr>
-<td rowspan="3">177</td>
-<td rowspan="3">Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кетуі</td>
-<td rowspan="3">10402</td>
+<td rowspan="5">177</td>
+<td rowspan="5">Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кетуі</td>
+<td rowspan="5">10402</td>
 <td>
-1) При угрозе:
-Каз яз:
+1) Қауіп-қатер кезінде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX… X
 Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кету қатері
-Русс яз:
+Орыс тілінде:
 Угроза превышения ПДК вредных веществ в атмосферном воздухе XXXXX
 </td>
 <td>
-1) При угрозе:
+1) Қауіп-қатер кезінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX… X
 Atmosferalyk auadagy ziyandy zattardyn shekty zhol berilgen koncentraciyasynan asyp ketu kateri
@@ -10117,16 +10892,16 @@ Ugroza prevysheniya PDK vrednyh veshestv v atmosfernom vozduhe XXXXXXXXXXXXX
 </tr>
 <tr>
 <td>
-2) По факту:
-Каз яз:
+2) Нақты жағдайда:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX… X
 Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кетуі
-Русс яз:
+Орыс тілінде:
 Превышение ПДК вредных веществ в атмосферном воздухе XXXXXXXXX
 </td>
 <td>
-2) По факту:
+2) Нақты жағдайда:
 XX.XX.XX.XX.XX
 XXXXXXXXX… X
 Atmosferalyk auadagy ziyandy zattardyn shekty zhol berilgen koncentraciyasynan asyp ketu
@@ -10135,20 +10910,58 @@ Atmosferalyk auadagy ziyandy zattardyn shekty zhol berilgen koncentraciyasynan a
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
-Каз яз:
+3) Қауіп-қатер алынған кезде:
+Қазақ тілінде:
 XX.XX.XX.XX.XX
 XXXXXXXXX… X
 Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кету қатері жоқ
-Русс яз:
-Снятие угрозы превышения ПДК вредных веществ в атмосферном воздухе
+Орыс тілінде:
+Снятие угрозы превышения ПДК вредных веществ в атмосферном воздухе с ХХ.ХХ до ХХ.ХХ
 </td>
 <td>
-3) При снятии угрозы:
+3) Қауіп-қатер алынған кезде:
 XX.XX.XX.XX.XX
 XXXXXXXXX… X
 Atmosferalyk auadagy ziyandy zattardyn shekty zhol berilgen koncentraciyasynan asyp ketu kateri zhok
-Snyatie ugrozy prevysheniya PDK vrednyh veshestv v atmosfernom vozduhe XXXXXXXXXXXXX
+Snyatie ugrozy prevysheniya PDK vrednyh veshestv v atmosfernom vozduhe s ХХ.ХХ dо ХХ.ХХ
+</td>
+</tr>
+<tr>
+<td>
+4) Қауіп-қатер кезінде:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX… X
+Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кету қатері. Хабарлама ТВ арналары бойынша ХХ ден ХХ дейін
+Орыс тілінде:
+Угроза превышения ПДК вредных веществ в атмосферном воздухе. Сообщение по ТВ каналам с ХХ.ХХ до ХХ.ХХ
+</td>
+<td>
+4) Қауіп-қатер кезінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX… X
+Atmosferalyq ayadagy ziandy zattardyn shekti jol berilgen konsentrasiasynan asyp kety qateri. Habarlama TV arnalary boiynsha
+ХХ den ХХ de deiin
+Ugroza prevysheniya PDK v atmosfernom vozduxe. Soobshenie po TV kanalam
+s ХХ.ХХ dо ХХ.ХХ
+</td>
+</tr>
+<tr>
+<td>
+5) Нақты жағдайда:
+Қазақ тілінде:
+XX.XX.XX.XX.XX
+XXXXXXXXX… X
+Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кетуі. Pадио және ТВ бойынша ТЖД нұсқауларын орындаңыздар.
+Орыс тілінде:
+Превышение ПДК вредных веществ в атмосферном воздухе. Действуйте указаниям ДЧС по радио и ТВ с ХХ.ХХ до ХХ.ХХ
+</td>
+<td>
+Нақты жағдайда:
+.XX.XX.XX.XX
+XXXXXXXXX… X
+Atmosferalyq ayadagy ziandy zattardyn shekti jol berilgen konsentrasiasynan asyp ketyi. Radio jane TV boiynsha TJD nusqaylaryn oryndanyzdar
+Privyshenie PDK vrednyx veshestv v atmosfernom vozduxe. Deistvuite ukazaniyam DCHS po radio i TV s ХХ.ХХ dо ХХ.ХХ
 </td>
 </tr>
 <tr>

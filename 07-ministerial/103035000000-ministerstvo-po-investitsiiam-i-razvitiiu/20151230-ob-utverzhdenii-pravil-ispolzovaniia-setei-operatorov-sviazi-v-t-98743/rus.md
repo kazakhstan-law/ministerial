@@ -1,5 +1,5 @@
 ---
-version_id: '98743_66079'
+version_id: '98743_563401'
 act_code: '98743'
 language: rus
 title: Об утверждении Правил использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе "112" услуги по определению местоположения звонящего абонента и рассылке коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103035000000'
 approval_date: 2015-12-30
-version_date: 2015-12-30
+version_date: 2022-03-03
 registry_number: '98743'
-source: https://zan.gov.kz/client/#!/doc/98743/rus/30.12.2015
+caused_by:
+  code: '165033'
+  title: О внесении изменений и дополнений в приказ Министра по инвестициям и развитию Республики Казахстан от 30 декабря 2015 года № 1274 «Об утверждении Правил использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе «112» услуги по определению местоположения звонящего абонента и рассылке коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка»
+  link: https://zan.gov.kz/client/#!/doc/165033/rus
+source: https://zan.gov.kz/client/#!/doc/98743/rus/03.03.2022
 ---
 
 # Об утверждении Правил использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе «112» услуги по определению местоположения звонящего абонента и рассылке коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка
@@ -69,9 +73,13 @@ source: https://zan.gov.kz/client/#!/doc/98743/rus/30.12.2015
 
 # Правила использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе «112» услуги по определению местоположения звонящего абонента и рассылки коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка
 
-## 1. Общие положения
+## Глава 1. Общие положения
 
-1. Настоящие Правила использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе «112» услуги по определению местоположения звонящего абонента и рассылки коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка (далее – Правила) разработаны в соответствии с пунктом 4 статьи 14 Закона Республики Казахстан от 5 июля 2004 года «О связи» (далее – Закон) и определяет порядок использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе «112» услуги по определению местоположения звонящего абонента и рассылки коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка.
+> *Сноска. Заголовок главы 1 в редакции приказа Министра цифрового развития, инноваций и аэрокосмической промышленности РК от 03.03.2022 № 73/НҚ (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+1. Настоящие Правила использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе «112» услуги по определению местоположения звонящего абонента и рассылки коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка (далее – Правила) разработаны в соответствии с пунктом 4 статьи 14 Закона Республики Казахстан «О связи» (далее – Закон) и определяет порядок использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе «112» услуги по определению местоположения звонящего абонента и рассылки коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка.
+
+> *Сноска. Пункт 1 в редакции приказа Министра цифрового развития, инноваций и аэрокосмической промышленности РК от 03.03.2022 № 73/НҚ (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 2. В настоящих Правилах используются следующие определения:
 
@@ -87,7 +95,9 @@ source: https://zan.gov.kz/client/#!/doc/98743/rus/30.12.2015
 
    6) технология широковещательной передачи сообщений в соте (далее – Cell Broadcast) – массовая рассылка коротких текстовых сообщений на сетях сотовой связи, предназначенная для незамедлительной доставки информационных сообщений в определенной географической области.
 
-## 2. Порядок использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе «112» услуги по определению местоположения звонящего абонента и рассылки коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка
+## Глава 2. Порядок использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе «112» услуги по определению местоположения звонящего абонента и рассылки коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка
+
+> *Сноска. Заголовок главы 2 в редакции приказа Министра цифрового развития, инноваций и аэрокосмической промышленности РК от 03.03.2022 № 73/НҚ (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 3. Рассылка SMS-сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуаций социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка осуществляется в соответствии с перечнем типовых шаблонов SMS-сообщений, согласно приложению 1 к настоящим Правилам. Исполнителями ЕДДС «112» не рассылается SMS-сообщений не соответствующих перечню типовых шаблонов SMS-сообщений.
 
@@ -135,6 +145,8 @@ source: https://zan.gov.kz/client/#!/doc/98743/rus/30.12.2015
 > *к Правилам использования сетей операторов связи в целях предоставления единой дежурно-диспетчерской службе «112» услуги по определению местоположения звонящего абонента и рассылке коротких текстовых сообщений на телефоны сотовой связи населения при угрозе или возникновении и снятии угрозы чрезвычайных ситуации социального, природного и техногенного характера, введения чрезвычайного положения, в интересах обороны, безопасности и правопорядка*
 
 # Перечень типовых шаблонов SMS-сообщений
+
+> *Сноска. Перечень с изменениями, внесенными приказом Министра цифрового развития, инноваций и аэрокосмической промышленности РК от 03.03.2022 № 73/НҚ (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -477,6 +489,131 @@ Terrorirstik kauiptiliktin kizgilt sari dengei toktatildi
 ХХ.ХХ.ХХг.
 ХХХХХХХХ...XXX
 Otmena krasnogo urovnya terrorirsticheskoi opasnosti
+</td>
+</tr>
+<tr>
+<td>16-1</td>
+<td></td>
+<td></td>
+<td>
+Каз яз:
+XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X
+XXXX...Х тас жолы жабық. Трассаны XX-XX км су басуы
+Рус яз:
+Трасса XXXX...Х
+закрыта. Перелив
+через трассу
+XX-XX км
+</td>
+<td>
+XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X
+XXXX...Х tas zholy zhabyk. Trassany XX-XX km su basu
+Trassa XXXX…X zakryta. Pereliv cherez trassu XX-XX km
+</td>
+</tr>
+<tr>
+<td>16-2</td>
+<td></td>
+<td></td>
+<td>
+Каз яз:
+XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X
+XXXX...Х тас жолы ашық
+Рус яз:
+Трасса XXXX...Х открыта
+</td>
+<td>
+XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X
+XXXX...Х tas zholy ashyk
+Trassa XXXX…X otkryta
+</td>
+</tr>
+<tr>
+<td>16-3</td>
+<td></td>
+<td></td>
+<td>
+Каз яз:
+ХХ.ХХ.ХХ ж.
+ХХХХХХХХ.. .XXX
+Террористік қауіптіліктің сары деңгейі ұзартылды
+Рус яз:
+ХХ.ХХ.ХХ г.
+ХХХХХХХХ.. .XXX
+Продлен желтый уровень террористической опасности
+</td>
+<td>
+ХХ.ХХ.ХХ zh.
+ХХХХХХХХ...XXX
+Terroristik kauiptiliktin sary dengei uzartyldy
+ХХ.ХХ.ХХ g.
+ХХХХХХХХ...XXX
+Prodlen jeltyi uroven terroristicheskoi opasnosti
+</td>
+</tr>
+<tr>
+<td>16-4</td>
+<td></td>
+<td></td>
+<td>
+Каз яз:
+ХХ.ХХ.ХХ ж.
+ХХХХХХХХ.. .XXX
+Террористік қауіптіліктің қызғылт сары деңгейі ұзартылды
+Рус яз:
+ХХ.ХХ.ХХ г.
+ХХХХХХХХ.. .XXX
+Продлен оранжевый уровень террористической опасности
+</td>
+<td>
+ХХ.ХХ.ХХ zh.
+ХХХХХХХХ...XXX
+Terroristik kauiptiliktin kyzgylt sary dengei uzartyldy
+ХХ.ХХ.ХХ g.
+ХХХХХХХХ...XXX
+Prodlen oranjevyi uroven terroristicheskoi opasnosti
+</td>
+</tr>
+<tr>
+<td>16-5</td>
+<td></td>
+<td></td>
+<td>
+Каз яз:
+ХХ.ХХ.ХХ ж.
+ХХХХХХХХ.. .XXX
+Антитеррорлық жаттығу өткізілуде. Сабыр сақтауды сұраймыз
+Рус яз:
+ХХ.ХХ.ХХ г.
+ХХХХХХХХ.. .XXX
+Проводится антитеррористическое учение. Просьба соблюдать спокойствие
+</td>
+<td>
+ХХ.ХХ.ХХ zh.
+ХХХХХХХХ...XXX
+Antiterrorlyk zhattygu otkizilude. Sabyr saktaudy suraimyz
+ХХ.ХХ.ХХ g.
+ХХХХХХХХ...XXX
+Provoditsya antiterroristicheskoe uchenie. Prosba soblyudat spokoistvie
+</td>
+</tr>
+<tr>
+<td>16-6</td>
+<td></td>
+<td></td>
+<td>
+Каз яз:
+Газ тұтынушы. Түтін мұржасындағы тартымды тексеріңіз және оның жарамдылығын бақылаңыз, көміртегі газы өлімге әкеледі. Сіздің өміріңіз сіздің қолыңызда
+Рус яз:
+Потребитель газа. Проверьте тягу в дымоходе и следите за его исправностью, угарный газ смертелен. Ваша жизнь в Ваших руках
+</td>
+<td>
+Gaz tutynýshy. Tútin murjasyndaǵy tartymdy tekserińiz jáne onyń jaramdylyǵyn baqylańyz, kómirtegi gazy ólimge ákeledi. Sizdiń ómirińiz sizdiń qolyńyzda
+Potrebitel' gaza. Proverte tyagu v dymohode i sledite za ego ispravnost'yu, ugarnyj gaz smertelen. Vasha zhizn' v Vashih rukah
 </td>
 </tr>
 <tr>
@@ -951,44 +1088,40 @@ Ugroza povtornogo selya po ruslu reki XXXX…X otsutstvuet
 </td>
 </tr>
 <tr>
-<td rowspan="5">22</td>
-<td rowspan="5">
-Склоновый смыв
-(селевой поток вследствие дождя)
-</td>
-<td rowspan="5">20206</td>
+<td rowspan="6">22</td>
+<td rowspan="6">Склоновый смыв (селевой поток вследствие дождя)</td>
+<td rowspan="6">20206</td>
 <td>
 1) При угрозе:
 Каз яз:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-Беткейдердің шайылу қатері
+Беткейлерді шаю қаупі
 Русс яз:
 Угроза склоновых смывов
 </td>
 <td>
 1) При угрозе:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-Betkeiterdin shaiylu kateri
-Ugroza sklonovyh smyvov
+Betkeilerdi shaiu kaypi
+Ugroza skqlonovyh smyvov
 </td>
 </tr>
 <tr>
 <td>
 2) По факту:
 Каз яз:
-XX.XX.XX.XX.XX-
-XXXXXXXXX…X
-Беткейдердің шайылу
+XX.​XX.​XX.​XX.​XX- XXXXXXXXX…X
+Беткейлердің шайылуы
 Русс яз:
 Склоновые смывы
 </td>
 <td>
 2) По факту:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-Betkeiterdin shaiylu
+Betkeilerdin shaiyluy
 Sklonovye smyvy
 </td>
 </tr>
@@ -996,36 +1129,52 @@ Sklonovye smyvy
 <td>
 3) При снятии угрозы:
 Каз яз:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-Беткейдердің шайылу қатері жоқ
+Беткейлердің шайылу қатері жоқ
 Русс яз:
 Снятие угрозы склоновых смывов
 </td>
 <td>
 3) При снятии угрозы:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-B
-etkeiterdin shaiylu kateri zhok
+Betkeilerdin shaiylu kateri zhok
 Snyatie ugrozy sklonovyh smyvov
+</td>
+</tr>
+<tr>
+<td>
+4) При угрозе:
+Каз яз:
+ХХ.ХХ.ХХ ж.
+ХХХХХХХХ.. .XXX
+Көлбеу ағын су күтілуде
+Русс яз:
+Ожидаются склоновые стоки
+</td>
+<td>
+4) При угрозе:
+ХХ.ХХ.ХХ zh.
+ХХХХХХХХ...XXX
+Kölbeu ağyn su kütіlude
+Ozhidayutsya sklonovye stoki
 </td>
 </tr>
 <tr>
 <td>
 1) При угрозе:
 Каз яз:
-XX.XX.XX.XX.XX-
-XXXXXXXXX…X
-XXXX...X жауын-шашыннан сел ағыны
+XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X XXXX...X жауын-шашыннан сел ағыны
 Русс яз:
 Угроза селевого потока вследствие дождя в XXXX...X
 </td>
 <td>
 1) При угрозе:
-XX.XX.XX.XX.XX-
-XXXXXXXXX…X
-XXXX...X zhauyn-shashynnan sel agyny
+XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X XXXX...X zhauyn-shashynnan
+sel agyny
 Ugroza selevogo potoka vsledstvie dozhdya v XXXX…X
 </td>
 </tr>
@@ -1033,7 +1182,7 @@ Ugroza selevogo potoka vsledstvie dozhdya v XXXX…X
 <td>
 2) По факту:
 Каз яз:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
 XXXX...X жауын-шашыннан сел ағыны болды
 Русс яз:
@@ -1041,20 +1190,19 @@ XXXX...X жауын-шашыннан сел ағыны болды
 </td>
 <td>
 2) По факту:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
 XXXX...X zhauyn-shashynnan sel agyny boldy
 Vsledstvie dozhdya proizoshel selevoi potok v XXXX…X
 </td>
 </tr>
 <tr>
-<td rowspan="5">23</td>
-<td rowspan="5">Лавины</td>
-<td rowspan="5">20210</td>
+<td rowspan="7">23</td>
+<td rowspan="7">Лавины</td>
+<td rowspan="7">20210</td>
 <td>
 1) При угрозе:
-Каз яз:
-XX.XX.XX.XX.XX-
+Каз яз: XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
 Көшкін жүру қатері
 Русс яз:
@@ -1062,9 +1210,9 @@ XXXXXXXXX…X
 </td>
 <td>
 1) При угрозе:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-Koshkin zhuru kateri
+Koshkin zhüru kateri
 Ugroza shoda lavin
 </td>
 </tr>
@@ -1072,17 +1220,17 @@ Ugroza shoda lavin
 <td>
 2) По факту:
 Каз яз:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-Көшкін жүру
+Көшкін болды
 Русс яз:
 Сход лавин
 </td>
 <td>
 2) По факту:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-Koshkin zhuru
+Koshkin boldy
 Shod lavin
 </td>
 </tr>
@@ -1090,7 +1238,7 @@ Shod lavin
 <td>
 3) При снятии угрозы:
 Каз яз:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
 Көшкін жүру қатері жоқ
 Русс яз:
@@ -1098,9 +1246,9 @@ XXXXXXXXX…X
 </td>
 <td>
 3) При снятии угрозы:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-Koshkin zhuru kateri zhok
+Koshkin zhüru kateri zhok
 Snyatiye ugrozy shoda lavin
 </td>
 </tr>
@@ -1108,17 +1256,20 @@ Snyatiye ugrozy shoda lavin
 <td>
 1) При угрозе:
 Каз яз:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-Дауылды алдын ала ескерту.XXXX...X көшкін жүру қатері
+Дауылды алдын ала ескерту.
+XXXX...X көшкін жүру қатері
 Русс яз:
-Штормовое предупреждение. Угроза схода лавин в XXXX...X
+Штормовое предупреждение.
+Угроза схода лавин в XXXX...X
 </td>
 <td>
 1) При угрозе:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-Dauyldy aldyn ala eskertu.XXXX...X koshkin zhuru kateri
+Dauyldy aldyn ala eskertu.
+XXXX...X koshkin zhüru kateri
 Shtormovoe preduprezhdenie. Ugroza shoda lavin v XXXX…X
 </td>
 </tr>
@@ -1126,18 +1277,52 @@ Shtormovoe preduprezhdenie. Ugroza shoda lavin v XXXX…X
 <td>
 2) По факту:
 Каз яз:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-XXXX...X көшкін жүру
+XXXX...X көшкін болды
 Русс яз:
 Произошел сход лавин в XXXX...X
 </td>
 <td>
 2) По факту:
-XX.XX.XX.XX.XX-
+XX.​XX.​XX.​XX.​XX-
 XXXXXXXXX…X
-XXXX…X koshkin zhuru
+XXXX…X koshkin boldy
 Proizoshel shod lavin v XXXX…X
+</td>
+</tr>
+<tr>
+<td>
+3) При планировании:
+Каз яз:
+XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X
+Профилактикалық көшкін түсіру жүргізіледі
+Русс яз:
+Будет произведен профилактический спуск лавин на XXXXXXXXX…X
+</td>
+<td>
+3) XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X
+Profilaktikalyq koshkin tusiru zhurgiziledi
+Budet proizveden profilaktіcheskii spusk lavinna XXXXXXXXX…X
+</td>
+</tr>
+<tr>
+<td>
+4) По факту:
+Каз яз:
+XX.​XX.​XX.​XX.​XX-
+XXXXXXXX…X
+Профилактикалық көшкін түсіру
+Русс яз:
+Профилактический спуск лавин на XXXXXXXXX…X
+</td>
+<td>
+4) XX.​XX.​XX.​XX.​XX-
+XXXXXXXXX…X
+Profilaktikalyk koshkin tüsiru
+Profilakticheskii spusk lavin na XXXXXXXX…X
 </td>
 </tr>
 <tr>
@@ -1524,9 +1709,9 @@ Shotormovoe preduprezhdenie dozhdya s perehodom krupnyi grad v raione XXXX…X
 </td>
 </tr>
 <tr>
-<td rowspan="3">31</td>
-<td rowspan="3">Сильный дождь (ливень)</td>
-<td rowspan="3">20308</td>
+<td rowspan="6">31</td>
+<td rowspan="6">Сильный дождь (ливень)</td>
+<td rowspan="6">20308</td>
 <td>
 1) При угрозе:
 Каз яз:
@@ -1540,7 +1725,7 @@ XXXXXXXXX…X
 1) При угрозе:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Noser zhauyn kutilude
+Noser zhauyn kütilude
 Ozhidaetsya silnyi dozhd
 </td>
 </tr>
@@ -1576,8 +1761,59 @@ XXXXXXXXX…X
 3) При снятии угрозы:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Noser zhauyn kutilu kateri zhok
+Noser zhauyn kütilu kateri zhok
 Snyatie ugrozy silnogo dozhdya
+</td>
+</tr>
+<tr>
+<td>
+4) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Нөсер жауын күтілуде
+Русс яз:
+Ожидается дождь (ливень)
+</td>
+<td>
+4) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Noser zhauyn kütilude
+Ozhidaetsya dozhd (liven)
+</td>
+</tr>
+<tr>
+<td>
+5) По факту:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Нөсер жауын
+Русс яз:
+Дождь (ливень)
+</td>
+<td>
+5) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Noser zhauyn
+Dozhd (liven)
+</td>
+</tr>
+<tr>
+<td>
+6) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Дауылды алдын ала ескерту. ХХХХ...Х аумағында қарға ауысатын жауын
+Русс яз:
+Штормовое предупреждение. Дождь с переходом в снег на территории ХХХХ...Х
+</td>
+<td>
+6) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Dauyldy aldyn ala eskertu. ХХХХ...Х aumagynda karga auysatyn zhauyn
+Shotormovoe preduprezhdenie. Dozhd s perehodom v sneg na territorii ХХХХ...Х
 </td>
 </tr>
 <tr>
@@ -1713,9 +1949,9 @@ Snyatie ugrozy prodolzhitelnogo dozhdya
 </td>
 </tr>
 <tr>
-<td rowspan="5">34</td>
-<td rowspan="5">Сильный снегопад</td>
-<td rowspan="5">20311</td>
+<td rowspan="8">34</td>
+<td rowspan="8">Сильный снегопад</td>
+<td rowspan="8">20311</td>
 <td>
 1) При угрозе:
 Каз яз:
@@ -1729,7 +1965,7 @@ XXXXXXXXX…X
 1) При угрозе:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Kalyn kar kutilude
+Kalyn kar kütilude
 Ozhidaetsya silnyi snegopad
 </td>
 </tr>
@@ -1765,7 +2001,7 @@ XXXXXXXXX…X
 3) При снятии угрозы:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Kalyn kar kutilu kateri zhok
+Qalyn qar qateri zhoq
 Snyatie ugrozy silnogo snegopada
 </td>
 </tr>
@@ -1775,16 +2011,20 @@ Snyatie ugrozy silnogo snegopada
 Каз яз:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Дауылды алдын ала ескерту.ХХХХ...Х ауданында қалың қар, боран күтүлуде.
+Дауылды алдын ала ескерту.
+ХХХХ...Х ауданында қалың қар, боран күтілуде.
 Русс яз:
-Штормовое предупреждение.Ожидается сильный снегопад, метель в районе XXXX...X
+Штормовое предупреждение.
+Ожидается сильный снегопад, метель в районе XXXX...X
 </td>
 <td>
 1) При угрозе:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Dauyldy aldyn ala eskertu. XXXX..X audanynda kalyn kar, boran kutulude
-Shotormovoe preduprezhdenie. Ozhidaetsya silnyi snegopad, metel v raione XXXX…X
+Dauyldy aldyn ala eskertu.
+XXXX..X aydanynda kalyn kar, boran kutilude
+Shotormovoe preduprezhdenie.
+Ozhidaetsya silnyi snegopad, metel v raione XXXX…X
 </td>
 </tr>
 <tr>
@@ -1793,7 +2033,8 @@ Shotormovoe preduprezhdenie. Ozhidaetsya silnyi snegopad, metel v raione XXXX…
 Каз яз:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-XXXX...X аумағында қалың қар, боран.Көрінуі ХХм. дейін, ХХХХ...Х жолдары жабық
+XXXX...X аумағында қалың қар, боран.
+Көрінуі ХХ м. дейін, ХХХХ...Х жолдары жабық
 Русс яз:
 Сильный снегопад, метель в районе XXXX...X. Видимость до XXм. Движение закрыто на дорогах XXXХ…Х
 </td>
@@ -1803,6 +2044,60 @@ XX.XX.XX.XX.XX
 XXXXXXXXX…X
 XXXX…X aumagynda kalyn kar, boran.Korinui XXm. deiin, XXXX…X zholdar zhabyk
 Silnyi snegopad, metel v raione XXXX…X.Vidimost do XX m.dvizhenie zakryto na dorogah XXXX...X
+</td>
+</tr>
+<tr>
+<td>
+3) По факту:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х тас жолы жабық. Қалың қар
+Рус яз:
+Трасса XXXX...Х закрыта.
+Сильный снегопад
+</td>
+<td>
+4) XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х tas zholy zhabyk.
+Kalyn каr
+Trassa XXXX…X zakryta.
+Silnyi snegopad
+</td>
+</tr>
+<tr>
+<td>
+4) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Қар жауу күтілуде
+Русс яз:
+Ожидается снегопад
+</td>
+<td>
+5) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Kar zhauu kütilude
+Ozhidaetsya snegopad
+</td>
+</tr>
+<tr>
+<td>
+5) По факту:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Қар жауу
+Русс яз:
+Снегопад
+</td>
+<td>
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Kar zhauu
+Snegopad
 </td>
 </tr>
 <tr>
@@ -1863,9 +2158,9 @@ Snyatie ugrozy silnogo oledeneniya
 </td>
 </tr>
 <tr>
-<td rowspan="3">36</td>
-<td rowspan="3">Сильные метели</td>
-<td rowspan="3">20314</td>
+<td rowspan="4">36</td>
+<td rowspan="4">Сильные метели</td>
+<td rowspan="4">20314</td>
 <td>
 1) При угрозе:
 Каз яз:
@@ -1920,9 +2215,28 @@ Snyatie ugrozy silnoy meteli
 </td>
 </tr>
 <tr>
-<td rowspan="3">37</td>
-<td rowspan="3">Сильный гололед</td>
-<td rowspan="3">20315</td>
+<td>
+4) По факту:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+ХХ м/с қатты бұрқасын жел. Х ауысым Х-ХХ сыныптарында сабақ болмайды
+Рус яз:
+Сильная метель, ветер ХХ м/с. Отмена занятий Х-ХХ класс Х смены
+</td>
+<td>
+4) XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XX m/s кatty burkasyn zhel.
+Х ausym Х-ХХ
+synyptarynda sabak bolmaidy
+Silnaya metel, veter XX m/s. Otmena zanyatii X-XX klass Х smeny
+</td>
+</tr>
+<tr>
+<td rowspan="7">37</td>
+<td rowspan="7">Сильный гололед</td>
+<td rowspan="7">20315</td>
 <td>
 1) При угрозе:
 Каз яз:
@@ -1977,9 +2291,77 @@ Snyatie ugrozy silnogo gololeda
 </td>
 </tr>
 <tr>
-<td rowspan="3">38</td>
-<td rowspan="3">Сильный мороз</td>
-<td rowspan="3">20316</td>
+<td>
+4) По факту:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+Көктайғақ. Х ауысым Х-ХХ сыныптарында сабақ болмайды
+Рус яз:
+Гололед. Отмена занятий Х-ХХ класс Х смены
+</td>
+<td>
+4) XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+Koktaigak. Х ausym X-XX synyptarynda sabak bolmaidy
+Gololed. Otmena zanyatii X-XX klass Х smeny
+</td>
+</tr>
+<tr>
+<td>
+1) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Көктайғақ қатері
+Русс яз:
+Угроза гололеда
+</td>
+<td>
+1) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Koktaigak kateri
+Ugroza gololeda
+</td>
+</tr>
+<tr>
+<td>
+2) По факту:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Көктайғақ
+Русс яз:
+Гололед
+</td>
+<td>
+2) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Koktaigak
+Gololed
+</td>
+</tr>
+<tr>
+<td>
+3) При снятии угрозы:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+көктайғақ қатері жоқ
+Русс яз:
+Снятие угрозы гололеда
+</td>
+<td>
+3) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Koktaigak kateri zhok
+Snyatie ugrozy gololeda
+</td>
+</tr>
+<tr>
+<td rowspan="7">38</td>
+<td rowspan="6">Сильный мороз</td>
+<td rowspan="6">20316</td>
 <td>
 1) При угрозе:
 Каз яз:
@@ -1993,7 +2375,7 @@ XXXXXXXXX…X
 1) При угрозе:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Katty ayaz kutilude
+Katty ayaz kütilude
 Ozhidaetsya silnyi moroz
 </td>
 </tr>
@@ -2017,13 +2399,14 @@ Silnyi moroz
 </tr>
 <tr>
 <td>
-3) При снятии угрозы:
+3) При снятии
+урозы:
 Каз яз:
-XX.XX.XX.XX.XX
-XXXXXXXXX…X
-Қатты аяз қатері жоқ
+X.XX.XX.XX XXXX…X
+Қатты аяз қатеріжоқ
 Русс яз:
-Снятие угрозы сильного мороза
+Снятие угрозы
+сильного мороза
 </td>
 <td>
 3) При снятии угрозы:
@@ -2034,24 +2417,39 @@ Snyatie ugrozy silnogo moroza
 </td>
 </tr>
 <tr>
-<td rowspan="4">39</td>
-<td rowspan="4">Сильная жара</td>
-<td rowspan="4">20317</td>
+<td>
+4) По факту:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х тас жолы жабық. Қатты аяз
+Рус яз:
+Трасса XXXX...Х закрыта. Сильный мороз
+</td>
+<td>
+4) XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х tas joly jabyq.
+Qatty aıaz
+Trassa XXXX...Х zakryta.
+Silnyi moroz
+</td>
+</tr>
+<tr>
 <td>
 1) При угрозе:
 Каз яз:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-ХХ °С дейін қатты ыстық күтілуде
+Аяз күтілуде
 Русс яз:
-Ожидается сильная жара до ХХ °С
+Ожидается мороз
 </td>
 <td>
-1) При угрозе:
-XX.XX.XX.XX.XX
+1) XX.XX.XX.XX.XX
 XXXXXXXXX…X
-XX °С deiin katty ystyk kutilude
-Ozhidaetsya silnaya zhara do XX °С
+Aıaz kütilýde
+Ozhidaetsya moroz
 </td>
 </tr>
 <tr>
@@ -2060,16 +2458,73 @@ Ozhidaetsya silnaya zhara do XX °С
 Каз яз:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-ХХ °С дейін қатты ыстық
+XX C дейін аяз
 Русс яз:
-Сильная жара до ХХ °С
+Мороз до ХХ С
+</td>
+<td>
+2) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX C deıin aıaz
+Moroz dо ХХ С
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>
+3) При снятии угрозы:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Аяз қатері жоқ
+Русс яз:
+Снятие угрозы мороза
+</td>
+<td>
+3) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Aıaz qateri joq
+Snyatie ugrozy moroza
+</td>
+</tr>
+<tr>
+<td rowspan="7">39</td>
+<td rowspan="7">Сильная жара</td>
+<td rowspan="7">20317</td>
+<td>
+1) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+ХХ Ү С дейін қатты ыстық күтілуде
+Русс яз:
+Ожидается сильная жара до ХХ Ү С
+</td>
+<td>
+1) При угрозе:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX Ү С deiin katty ystyk kütilude
+Ozhidaetsya silnaya zhara do XX Ү С
+</td>
+</tr>
+<tr>
+<td>
+2) По факту:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+ХХ ҮС дейін қатты ыстық
+Русс яз:
+Сильная жара до ХХ ҮС
 </td>
 <td>
 2) По факту:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-XX °С deiin katty ystyk
-Silnaya zhara do XX °С
+XX ҮС deiin katty ystyk
+Silnaya zhara do XX ҮС
 </td>
 </tr>
 <tr>
@@ -2077,17 +2532,16 @@ Silnaya zhara do XX °С
 3) При снятии угрозы:
 Каз яз:
 XX.XX.XX.XX.XX
-XXXXXXXXX…X
-ХХ °С дейін қатты ыстық болу қатері жоқ
+XXXXXXXXX…X ХХ ҮС дейін қатты ыстық болу қатері жоқ
 Русс яз:
-Снятие угрозы сильной жары до ХХ °С
+Снятие угрозы сильной жары до ХХ ҮС
 </td>
 <td>
 3) При снятии угрозы:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-XX °С deiin katty ystyk bolu kateri zhok
-Snyatie ugrozy silnoi zhary do XX °С
+XX ҮС deiin katty ystyk bolu kateri zhok
+Snyatie ugrozy silnoi zhary do XX ҮС
 </td>
 </tr>
 <tr>
@@ -2096,22 +2550,76 @@ Snyatie ugrozy silnoi zhary do XX °С
 Каз яз:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Дауылды алдын ала ескерту.ХХ °С дейін қатты ыстық.
+Дауылды алдын ала ескерту. ХХ ҮС дейін қатты ыстық.
 Русс яз:
-Штормовое предупреждение. Повышение температуры до ХХ °С
+Штормовое предупреждение.
+Повышение температуры до ХХ ҮС
 </td>
 <td>
 1) При угрозе:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Dauyldy aldyn ala eskertu.XX °С deiin katty ystyk.
-Shotormovoe preduprezhdenie. Silnaya zhara do XX °С
+Dauyldy aldyn ala eskertu.
+XX YC deiin qatty ystyq
+Shtormovoe preduprezhdenie.
+Povyshenie temperatury do XX ҮС
 </td>
 </tr>
 <tr>
-<td rowspan="5">40</td>
-<td rowspan="5">Сильный туман</td>
-<td rowspan="5">20318</td>
+<td>
+2) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+ХХ ҮС дейін ыстық күтілуде
+Русс яз:
+Ожидается жара до ХХ Ү С
+</td>
+<td>
+2) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX ҮС deiin ystyq kütilude
+Ozhidaetsya zhara do XX ҮС
+</td>
+</tr>
+<tr>
+<td>
+3) По факту:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+ХХ ҮС дейін ыстық
+Русс яз:
+Жара до ХХ ҮС
+</td>
+<td>
+3) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX ҮС deiin ystyk
+Zhara do XX ҮС
+</td>
+</tr>
+<tr>
+<td>
+4) При снятии угрозы:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+ХХ ҮС дейін ыстық болу қатері жоқ
+Русс яз:
+Снятие угрозы жары до ХХ ҮС
+</td>
+<td>
+4) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XX ҮС deiin ystyk bolu kateri zhok
+Snyatie ugrozy zhary do XX ҮС
+</td>
+</tr>
+<tr>
+<td rowspan="10">40</td>
+<td rowspan="10">Сильный туман</td>
+<td rowspan="10">20318</td>
 <td>
 1) При угрозе:
 Каз яз:
@@ -2125,7 +2633,7 @@ XXXXXXXXX…X
 1) При угрозе:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Kalyn tuman kutilude
+Kalyn tuman kütilude
 Ozhidaetsya silnyi tuman
 </td>
 </tr>
@@ -2153,7 +2661,7 @@ Silnyi tuman
 Каз яз:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Қалың тұман түсу қатері жоқ
+Қалың тұман қатері жоқ
 Русс яз:
 Снятие угрозы сильного тумана
 </td>
@@ -2161,7 +2669,7 @@ XXXXXXXXX…X
 3) При снятии угрозы:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Kalyn tuman kateri zhoк
+Qalyn tuman qateri zhoq
 Snyatie ugrozy silnogo tumana
 </td>
 </tr>
@@ -2171,7 +2679,8 @@ Snyatie ugrozy silnogo tumana
 Каз яз:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Дауылды алдын ала ескерту. ХХХХ...Х жолдарында қалың тұман
+Дауылды алдын ала ескерту.
+ХХХХ...Х жолдарында қалың тұман
 Русс яз:
 Штормовое предупреждение. Сильный туман на дорогах XXXX…Х
 </td>
@@ -2199,6 +2708,92 @@ XX.XX.XX.XX.XX
 XXXXXXXXX…X
 Kalyn tuman, korinu XX m deiin
 Silnyi tuman na dorogah XXXX…X, vidimost do XX m
+</td>
+</tr>
+<tr>
+<td>
+1) По факту:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х тас жолы жабық. Қалың тұман
+Рус яз:
+Трасса XXXX...Х закрыта. Сильный туман
+</td>
+<td>
+1) XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х tas zholy zhabyk. Kalyn tuman
+Trassa XXXX…X zakryta. Silnyi tuman
+</td>
+</tr>
+<tr>
+<td>
+2) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х тас жолы жабық. Тұман күтілуде
+Рус яз:
+Трасса XXXX...Х закрыта. Ожидается туман
+</td>
+<td>
+2) XX.XX.XX.XX.XX-
+XXXXXХХХХ…Х
+XXXX...Х tas zholy zhabyk. Tuman kütilude
+Trassa XXXX…X zakryta.
+Ozhidaetsya tuman
+</td>
+</tr>
+<tr>
+<td>
+3) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Тұман күтілуде
+Русс яз:
+Ожидается туман
+</td>
+<td>
+3) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Tuman kütilude
+Ozhidaetsya tuman
+</td>
+</tr>
+<tr>
+<td>
+4) По факту:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Тұман
+Русс яз:
+Туман
+</td>
+<td>
+4) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Tuman
+Tuman
+</td>
+</tr>
+<tr>
+<td>
+5) При снятии угрозы:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Тұман қатері жоқ
+Русс яз:
+Снятие угрозы тумана
+</td>
+<td>
+5) XX.XX.XX.XX.XX
+XXXXXXXXX…X
+Tuman qateri zhoq
+Snyatie ugrozy tumana
 </td>
 </tr>
 <tr>
@@ -2505,14 +3100,13 @@ Snyatie ugrozy vysokoi pozharnoi opasnosti lesov
 </td>
 </tr>
 <tr>
-<td rowspan="3">46</td>
-<td rowspan="3">Буран</td>
-<td rowspan="3">20324</td>
+<td rowspan="4">46</td>
+<td rowspan="4">Буран</td>
+<td rowspan="4">20324</td>
 <td>
 1) При угрозе:
 Каз яз:
-XX.XX.XX.XX.XX-
-XXXXXXXXX…X
+XX.XX.XX.XX.XX- XXXXXXXX…X
 ХХ м/с дейінгі боран болу қатері
 Русс яз:
 Угроза бурана до ХХ м/с
@@ -2522,7 +3116,7 @@ XXXXXXXXX…X
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XX m/s deyingi boran bolu kateri
-Ugroza vozniknoveniya burana do XX m/s
+Ugroza burana do XX m/s
 </td>
 </tr>
 <tr>
@@ -2559,6 +3153,23 @@ XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XX m/s deiingi boran bolu kateri zhok
 Snyatie ugrozy burana do XX m/s
+</td>
+</tr>
+<tr>
+<td>
+4) По факту:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х тас жолы жабық. Күшті боран
+Рус яз:
+Трасса XXXX...Х закрыта. Сильный буран
+</td>
+<td>
+4) XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х tas zholy zhabyk. Kushti boran
+Trassa XXXX…X zakryta. Silnyi buran
 </td>
 </tr>
 <tr>
@@ -2680,9 +3291,9 @@ Snytie ugrozy silnogo volneniya na more
 </td>
 </tr>
 <tr>
-<td rowspan="4">49</td>
-<td rowspan="4">Сильное колебание уровня моря</td>
-<td rowspan="4">20404</td>
+<td rowspan="5">49</td>
+<td rowspan="5">Сильное колебание уровня моря</td>
+<td rowspan="5">20404</td>
 <td>
 1) При угрозе:
 Каз яз:
@@ -2738,11 +3349,32 @@ Snytie ugrozy silnogo kolebanya urovnya morya
 </tr>
 <tr>
 <td>
+4) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XXXXXXXXX…X жел, жоғары толқындар күтілуде. Теңізге жүзу құралдарымен және шомылуға болмайды
+Русс яз:
+Ожидается ветер XXXXXXXXX…X, высокие волны. Не выходить на море на плавательных средствах и для купания.
+</td>
+<td>
+4) При угрозе:
+XX.XX.XX.XX.XX
+XXXXXXXXX…X
+XXXXXXXXX…X jel, joğary tolqyndar kütılude. Teñızge jüzy qūraldarymen shyguga jäne şhomylyğa
+bolmaidy
+Ozhidaetsya veter XXXXXXXXX…X, vysokie volnye. Ne vyxodit na more na plavatelnyx sredstvax
+i dlya kupaniya.
+</td>
+</tr>
+<tr>
+<td>
 1) При угрозе:
 Каз яз:
 XX.XX.XX.XX.XX-
 XXXXXXXXX…X
-Дауылды алдын ала ескерту. XXXX…X участкесінде жел көтерген толқындар
+Дауылды алдын ала ескерту.
+XXXX…X участкесінде жел көтерген толқындар
 Русс яз:
 Штормовое предупреждение. Нагонные волны на участке XXXX…X
 </td>
@@ -2928,9 +3560,9 @@ Snytie ugrozy obledeneniya sudov i portovyh sooruzheniy
 <td colspan="5">Гидрологические опасные явления</td>
 </tr>
 <tr>
-<td rowspan="5">53</td>
-<td rowspan="5">Высокий уровень воды (наводнение)</td>
-<td rowspan="5">20501</td>
+<td rowspan="6">53</td>
+<td rowspan="6">Высокий уровень воды (наводнение)</td>
+<td rowspan="6">20501</td>
 <td>
 1) При угрозе:
 Каз яз:
@@ -3008,7 +3640,7 @@ Ugroza navodneniya v XXXX…X
 2) По факту:
 Каз яз:
 XX.XX.XX.XX.XX-
-XXXXXXXXX…X
+XXXXXXXX…X
 XXXX...X елді мекендерді және ХХХХ...Х жол учаскелерін су басты
 Русс яз:
 Подтоплены населенные пункты XXXX...X и участки дорог XXXX...X
@@ -3019,6 +3651,26 @@ XX.XX.XX.XX.XX-
 XXXXXXXXX…X
 XXXX…X eldi mekenderdi zhane XXXX…X zhol uchaskelerin su basty
 Podtopleny naselennye punkty XXXX…X i uchastki dorog XXXX…X
+</td>
+</tr>
+<tr>
+<td>
+3) По факту:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXXXX…X
+Өзендерде су деңгейінің көтерілуі
+Рус яз:
+XX.XX.XX.XX.XX- XXXXXXXX…X Подъемы уровня воды на реках
+</td>
+<td>
+3) XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х Ozenderde su dengeyinin koterilui
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х Podyomy urovnya
+vody na rekah
 </td>
 </tr>
 <tr>
@@ -4059,9 +4711,9 @@ Snyata ugroza vozniknoveniya ekzoticheskih i osobo opasnyh infekcionnyh zaboleva
 </td>
 </tr>
 <tr>
-<td rowspan="4">72</td>
-<td rowspan="4">Эпидемическая вспышка опасных инфекционных заболеваний</td>
-<td rowspan="4">20803</td>
+<td rowspan="9">72</td>
+<td rowspan="9">Эпидемическая вспышка опасных инфекционных заболеваний</td>
+<td rowspan="9">20803</td>
 <td>
 1) При угрозе:
 Каз яз:
@@ -4111,8 +4763,7 @@ XXXXXXXXX…X
 3) При снятии угрозы:
 ХХ.ХХ.ХХ.ХХ.ХХ.
 XXXXXXXXX…X
-Kauіptі zhukpali aurulardin epidemiyalyk shigu katerі
-zhok
+Kauіptі zhukpali aurulardin epidemiyalyk shigu katerі zhok
 Snyata ugroza vozniknoveniya epidemicheskoy vspyshki opasnyh infekcionnyh zabolevaniy
 </td>
 </tr>
@@ -4122,16 +4773,112 @@ Snyata ugroza vozniknoveniya epidemicheskoy vspyshki opasnyh infekcionnyh zabole
 Каз яз:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-XXXX...X елді мекендерінде ХХХХ...Х карантин жарияланды.Қозғалысқа шектеу қойылған
+XXXX...X елді мекендерінде ХХХХ...Х карантин жарияланды. Қозғалысқа шектеу қойылған
 Русс яз:
-Объявлен карантин XXXX…X в населенных пунктах XXXX…X. Проезд ограничен
+Объявлен карантин XXXX…X в населенных пунктах XXXX…X.
+Проезд ограничен
 </td>
 <td>
 2) По факту:
 ХХ.ХХ.ХХ.ХХ.ХХ.
 XXXXXXXXX…X
-XXXX…X eldi mekenderinde XXXX…X karantin zhariyalandy.Kozgalyska shekteu koiylgan
-Obyavlen karantin XXXX…X v naselennyh punktah XXXX…X.Proezd ogranichen
+XXXX…X eldi mekenderinde XXXX…X karantin zhariyalandy.
+Kozgalyska shekteu koiylgan
+Obyavlen karantin XXXX…X v naselennyh punktah XXXX…X.
+Proezd ogranichen
+</td>
+</tr>
+<tr>
+<td>
+1) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х карантин енгізіледі
+Рус яз:
+XXXX...Х вводится карантин
+</td>
+<td>
+1) При угрозе:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х
+karantin engiziledi
+XXXX...Х
+vvoditsya karantin
+</td>
+</tr>
+<tr>
+<td>
+2) По факту:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х кіруі-шығуы шектеледі
+Рус яз:
+XXXX...Х ограничен въезд-выезд
+</td>
+<td>
+2) По факту:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х kiry-shygyy shekteledi
+XXXX...Х ogranichen vezd-vyezd
+</td>
+</tr>
+<tr>
+<td>
+3) По факту:
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х қоғамдық көлік ХХ.ХХ-ден ХХ.ХХ-ға дейін тоқтатылды
+Рус яз:
+XXXX…X приостановлен общественный транспорт с ХХ.ХХ до ХХ.ХХ
+</td>
+<td>
+3) По факту:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х qogamdyq kolik ХХ.ХХ-den ХХ.ХХ-ga deiin toktatyldy
+XXXX…X Priostanovlen obshestvennyi transport s ХХ.ХХ dо ХХ.ХХ
+</td>
+</tr>
+<tr>
+<td>
+4) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX- XXXXXXXX…X
+XXXX...Х қоғамдық көлік қозғалысы ХХ.ХХ-ден ХХ.ХХ-ге дейін шектеулі
+Рус яз:
+XXXX…X ограничено движение общественного транспорта с ХХ.ХХ до ХХ.ХХ
+</td>
+<td>
+4) При угрозе:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х qogamdyq kolik qozgalysy ХХ.ХХ-den ХХ.ХХ-ge deiin shekteyli
+Ogranicheno dvijenie obshestvennogo transporta
+XX.XX do XX.XX
+</td>
+</tr>
+<tr>
+<td>
+5) При снятии угрозы
+Каз яз:
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х қоғамдық көлік қозғалысының шектеуі алынды
+Рус яз:
+XXXX…X снято ограничение движения общественного транспорта
+</td>
+<td>
+5) При снятии угрозы
+XX.XX.XX.XX.XX-
+XXXXXXXXX…X
+XXXX...Х qogamdyq kolik qozgalysynyn shekteyi alyndy
+XXXX…X
+snуato ogranichenie dvijenia obshestvennogo transporta
 </td>
 </tr>
 <tr>
@@ -6304,13 +7051,13 @@ Ostorozhno tonkiy led
 </td>
 </tr>
 <tr>
-<td rowspan="2">110</td>
-<td rowspan="2">Пострадавшие, находившиеся в состоянии алкогольного и наркотического опьянения</td>
-<td rowspan="2">21805</td>
+<td rowspan="4">110</td>
+<td rowspan="4">Пострадавшие, находившиеся в состоянии алкогольного и наркотического опьянения</td>
+<td rowspan="4">21805</td>
 <td>
 1) При угрозе:
 Каз яз:
-XX.XX.XX.XX.XX
+X.XX.XX.XX.XX
 XXXXXXXXX…X
 Мас күйде шомылуға болмайды
 Русс яз:
@@ -6320,7 +7067,7 @@ XXXXXXXXX…X
 1) При угрозе:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Mas kuide shomyluga bolmaidy
+Mas küide shomyluga bolmaidy
 Kupanie v piyanom vide zapresheno
 </td>
 </tr>
@@ -6338,8 +7085,38 @@ XXXXXXXXX…X
 2) По факту:
 XX.XX.XX.XX.XX
 XXXXXXXXX…X
-Mas kuide suga batkandar sany osti
+Mas küide suga batkandar sany osti
 Rost chisla utonuvshyh v piyanom vide
+</td>
+</tr>
+<tr>
+<td>
+3) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+Белгіленбеген орындарда шомылуға тыйым салынады
+Русс яз:
+Купаниe в не установленных местах запрещается
+</td>
+<td>
+3) XX.XX.XX.XX.XX
+Belgilenbegen oryndarda shomyluga tyiym salinadi
+Kupanie v ne ustanovlennih mestah zapreshaetsya
+</td>
+</tr>
+<tr>
+<td>
+4) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+Су айдындарында балаларды ересектердің қарауынсыз қалдырмаңыздар
+Русс яз:
+Неоставляйте детей на водоемах без присмотра взрослых
+</td>
+<td>
+4) XX.XX.XX.XX.XX
+Su aidyndarynda balalardy eresekterdin karauynsyz kaldyrmanуzdar
+Ne ostavlyaite detei na vodoemah bez prismotra vzroslih
 </td>
 </tr>
 <tr>
@@ -10097,9 +10874,9 @@ Snyatie ugrozy prevysheniya PDK vrednyh veshestv v grunte XXXXXXXXXXXXXXXXXXX
 </td>
 </tr>
 <tr>
-<td rowspan="3">177</td>
-<td rowspan="3">Превышение предельно допустимых концентраций вредных веществ в атмосферном воздухе</td>
-<td rowspan="3">10402</td>
+<td rowspan="5">177</td>
+<td rowspan="5">Превышение предельно допустимых концентраций вредных веществ в атмосферном воздухе</td>
+<td rowspan="5">10402</td>
 <td>
 1) При угрозе:
 Каз яз:
@@ -10143,14 +10920,49 @@ XX.XX.XX.XX.XX
 XXXXXXXXX… X
 Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кету қатері жоқ
 Русс яз:
-Снятие угрозы превышения ПДК вредных веществ в атмосферном воздухе
+Снятие угрозы превышения ПДК вредных веществ в атмосферном воздухе с ХХ.ХХ до ХХ.ХХ
 </td>
 <td>
 3) При снятии угрозы:
 XX.XX.XX.XX.XX
 XXXXXXXXX… X
 Atmosferalyk auadagy ziyandy zattardyn shekty zhol berilgen koncentraciyasynan asyp ketu kateri zhok
-Snyatie ugrozy prevysheniya PDK vrednyh veshestv v atmosfernom vozduhe XXXXXXXXXXXXX
+Snyatie ugrozy prevysheniya PDK vrednyh veshestv v atmosfernom vozduhe s ХХ.ХХ dо ХХ.ХХ
+</td>
+</tr>
+<tr>
+<td>
+4) При угрозе:
+Каз яз:
+XX.XX.XX.XX.XX
+XXXXXXXXX… X
+Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кету қатері. Хабарлама ТВ арналары бойынша ХХ ден ХХ дейін
+Русс яз:
+Угроза превышения ПДК вредных веществ в атмосферном воздухе. Сообщение по ТВ каналам с ХХ.ХХ до ХХ.ХХ
+</td>
+<td>
+4) При угрозе:
+XX.XX.XX.XX.XX
+XXXXXXXXX… X
+Atmosferalyq ayadagy ziandy zattardyn shekti jol berilgen konsentrasiasynan asyp kety qateri. Habarlama TV arnalary boiynsha ХХ-den ХХ-de deiin
+Ugroza prevysheniya PDK v atmosfernom vozduxe. Soobshenie po TV kanalam
+s ХХ.ХХ dо ХХ.ХХ
+</td>
+</tr>
+<tr>
+<td>
+5) По факту:
+Каз яз:
+XX.XX.XX.XX.XX XXXXXXXXX… X
+Атмосфералық ауадағы зиянды заттардың шекті жол берілген концентрациясынан асып кетуі. Pадио және ТВ бойынша ТЖД нұсқауларын орындаңыздар.
+Русс яз:
+Превышение ПДК вредных веществ в атмосферном воздухе. Действуйте указаниям ДЧС по радио и ТВ ХХ.ХХ до ХХ.ХХ
+</td>
+<td>
+По факту:
+.XX.XX.XX.XX XXXXXXXXX… X
+Atmosferalyq ayadagy ziandy zattardyn shekti jol berilgen konsentrasiasynan asyp ketyi. Radio jane TV boiynsha TJD nusqaylaryn oryndanyzdar
+Privyshenie PDK vrednyx veshestv v atmosfernom vozduxe. Deistvuite ukazaniyam DCHS po radio i TV s ХХ.ХХ dо ХХ.ХХ
 </td>
 </tr>
 <tr>
