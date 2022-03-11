@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/148139/rus/14.12.2021
+source: https://zan.gov.kz/client/#!/doc/148139/rus/11.03.2022
 ---
 
 # Об утверждении форм учетной документации в области здравоохранения
