@@ -13,6 +13,11 @@ approval_date: 2022-04-16
 version_date: 2022-04-16
 registry_number: '166592'
 source: https://zan.gov.kz/client/#!/doc/166592/kaz/16.04.2022
+repealed_on: 2022-06-15
+repealed_by:
+  code: '166592'
+  title: Қазақстан Республикасының аумағынан жекелеген тауарларды әкету мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/166592/kaz
 ---
 
 # Қазақстан Республикасының аумағынан жекелеген тауарларды әкету мәселелері туралы
