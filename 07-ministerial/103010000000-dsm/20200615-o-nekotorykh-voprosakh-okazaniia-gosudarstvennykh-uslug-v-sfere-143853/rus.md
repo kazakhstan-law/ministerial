@@ -13,6 +13,11 @@ approval_date: 2020-06-15
 version_date: 2020-06-15
 registry_number: '143853'
 source: https://zan.gov.kz/client/#!/doc/143853/rus/15.06.2020
+repealed_on: 2022-07-19
+repealed_by:
+  code: '167797'
+  title: О некоторых вопросах оказания государственных услуг в сфере фармацевтической деятельности
+  link: https://zan.gov.kz/client/#!/doc/167797/rus
 ---
 
 # О некоторых вопросах оказания государственных услуг в сфере фармацевтической деятельности
