@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/116924/rus/26.10.2021
+source: https://zan.gov.kz/client/#!/doc/116924/rus/06.06.2022
 ---
 
 # Об утверждении Правил сертификации в сфере легкой и сверхлегкой авиации
