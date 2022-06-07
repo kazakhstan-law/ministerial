@@ -1,5 +1,5 @@
 ---
-version_id: '99865_310552'
+version_id: '99865_578929'
 act_code: '99865'
 language: kaz
 title: Мектепке дейінгі, орта білім беру ұйымдарын, сондай-ақ арнайы білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормаларын бекіту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2016-01-22
-version_date: 2017-12-29
+version_date: 2022-06-07
 registry_number: '99865'
 caused_by:
-  code: '118404'
-  title: «Мектепке дейінгі, орта білім беру ұйымдарын, сондай-ақ арнайы білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормаларын бекіту туралы» Қазақстан Республикасы Білім және ғылым министрінің 2016 жылғы 22 қаңтардағы № 70 бұйрығына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/118404/kaz
-source: https://zan.gov.kz/client/#!/doc/99865/kaz/29.12.2017
+  code: '168724'
+  title: «Мектепке дейінгі, орта білім беру ұйымдарын, сондай-ақ арнайы білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормаларын бекіту туралы» Қазақстан Республикасы Білім және ғылым министрінің 2016 жылғы 22 қаңтардағы № 70 бұйрығына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/168724/kaz
+source: https://zan.gov.kz/client/#!/doc/99865/kaz/07.06.2022
 ---
 
 # Мектепке дейінгі, орта білім беру ұйымдарын, сондай-ақ арнайы білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормаларын бекіту туралы
@@ -46,6673 +46,22236 @@ source: https://zan.gov.kz/client/#!/doc/99865/kaz/29.12.2017
 
 > *Қазақстан Республикасы*  
 > *Білім және ғылым Министрінің*  
-> *2016 жылғы «22» қаңтардағы*  
-> *№ 70 бұйрығымен бекітілген*
+> *2016 жылғы 22 қаңтардағы № 70*  
+> *бұйрығымен бекітілген*
 
-# Мектепке дейінгі, орта білім беру ұйымдарын, сондай-ақ арнайы білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормалары
+## Мектепке дейінгі, орта білім беру ұйымдарын, сондай-ақ арнаулы білім беру ұйымдарын құралдармен және жиһаздармен жабдықтау нормалары
 
-## Мектепке дейінгі білім беру ұйымдарын жабдықтармен және жиһазбен жабдықтаудың нормасы
+> *Ескерту. Нормалар жаңа редакцияда - ҚР Білім және ғылым министрінің 07.06.2022 № 265 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
-> *Ескерту. Бөлімге өзгеріс енгізілді - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
-
-<table>
-<tr>
-<td colspan="2">№</td>
-<td colspan="2">Атауы</td>
-<td colspan="4">Өлшем бірлік</td>
-<td colspan="6">Ерте жас тобы (1-2жас)</td>
-<td colspan="3">1-інші кіші топ (2-3 жас)</td>
-<td colspan="4">2-інші кіші топ (3-4 жас)</td>
-<td colspan="3">Ортаңғы топ (4-5 жас)</td>
-<td colspan="2">Ересек топ (5-6(7) жас)</td>
-</tr>
-<tr>
-<td colspan="26">Топтық жабдықтар және жиһаз</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="2">Қолдардың ұсақ моторикасын дамытуға арналған дидактикалық ойыншықтар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5">5</td>
-<td colspan="3">5</td>
-<td colspan="4">5</td>
-<td colspan="3">5</td>
-<td colspan="2">5</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td colspan="2">Дидактикалық ойыншықтар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5">3</td>
-<td colspan="3">3</td>
-<td colspan="4">6</td>
-<td colspan="3">6</td>
-<td colspan="2">6</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td colspan="2">Мозаика</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="4">6</td>
-<td colspan="3">6</td>
-<td colspan="2">6</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td colspan="2">Матрешка</td>
-<td colspan="5">дана</td>
-<td colspan="5">5</td>
-<td colspan="3">5</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td colspan="2">Сылдырмақ</td>
-<td colspan="5">дана</td>
-<td colspan="5">10</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td colspan="2">Үшкіл</td>
-<td colspan="5">дана</td>
-<td colspan="5">2</td>
-<td colspan="3">2</td>
-<td colspan="4">2</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td colspan="2">Шелек</td>
-<td colspan="5">дана</td>
-<td colspan="5">5</td>
-<td colspan="3">5</td>
-<td colspan="4">5</td>
-<td colspan="3">5</td>
-<td colspan="2">5</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td colspan="2">Кіші құрылыс жиынтығы</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">2</td>
-<td colspan="4">4</td>
-<td colspan="3">4</td>
-<td colspan="2">4</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td colspan="2">Үлкен құрылыс жиынтығы</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">1</td>
-<td colspan="4">2</td>
-<td colspan="3">2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td colspan="2">Пластмасса және ағаш бөлшектермен конструкторлар</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">2</td>
-<td colspan="4">4</td>
-<td colspan="3">4</td>
-<td colspan="2">4</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td colspan="2">Болат бөлшектермен конструкторлар</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">10</td>
-<td colspan="4">10</td>
-<td colspan="3">10</td>
-<td colspan="2">10</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td colspan="2">Музыкалық және дыбыстық ойыншықтар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td colspan="2">Қима суреттер</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5">1</td>
-<td colspan="3">2</td>
-<td colspan="4">4</td>
-<td colspan="3">4</td>
-<td colspan="2">4</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td colspan="2">Ұлттық музыкалық аспаптар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td colspan="2">«Көлік» ойыншығы</td>
-<td colspan="5">дана</td>
-<td colspan="5">5</td>
-<td colspan="3">10</td>
-<td colspan="4">10</td>
-<td colspan="3">10</td>
-<td colspan="2">10</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td colspan="2">Ойыншық жиһаз</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5">2</td>
-<td colspan="3">2</td>
-<td colspan="4">3</td>
-<td colspan="3">3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td colspan="2">Балалар ыдысы</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5">2</td>
-<td colspan="3">2</td>
-<td colspan="4">3</td>
-<td colspan="3">3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td colspan="2">Түрлі тақырыптаға лото</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">10</td>
-<td colspan="4">10</td>
-<td colspan="3">10</td>
-<td colspan="2">10</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td colspan="2">Пазлдар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">10</td>
-<td colspan="4">10</td>
-<td colspan="3">10</td>
-<td colspan="2">10</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td colspan="2">Көкөністер мен жемістердің нақпішіндері</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5">2</td>
-<td colspan="3">2</td>
-<td colspan="4">3</td>
-<td colspan="3">3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td colspan="2">Маусымдық киімдері бар қуыршақтар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5">2</td>
-<td colspan="3">3</td>
-<td colspan="4">3</td>
-<td colspan="3">3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td colspan="2">Қуыршақ театрына арналған шымылдық</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td colspan="2">Үстел үсті театрына арналған қуыршақтар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">3</td>
-<td colspan="4">3</td>
-<td colspan="3">3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td colspan="2">Көлеңке театрына арналған қуыршақтар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td colspan="2">Саусақ театрына арналған қуыршақтар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">3</td>
-<td colspan="4">3</td>
-<td colspan="3">3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td colspan="2">Фланелеграф</td>
-<td colspan="5">дана</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td colspan="2">Компьютерлік үстел</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td colspan="2">Жартылай жұмсақ орындық</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td colspan="2">Кітап сөресі</td>
-<td colspan="5">дана</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td colspan="2">4 балаға арналған жұмыс үстелі</td>
-<td colspan="5">дана</td>
-<td colspan="5">3</td>
-<td colspan="3">5</td>
-<td colspan="4">7</td>
-<td colspan="3">7</td>
-<td colspan="2">7</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td colspan="2">Дидактикалық сабақтарға арналған үстел</td>
-<td colspan="5">дана</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td colspan="2">Балалар орындығы</td>
-<td colspan="5">дана</td>
-<td colspan="5">12</td>
-<td colspan="3">20</td>
-<td colspan="4">28</td>
-<td colspan="3">28</td>
-<td colspan="2">28</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td colspan="2">Ойыншықтарға арналған шкаф</td>
-<td colspan="5">дана</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td colspan="2">Құралдар мен ойыншықтарды сақтау жүйесі</td>
-<td colspan="5">дана</td>
-<td colspan="5">1</td>
-<td colspan="3">2</td>
-<td colspan="4">2</td>
-<td colspan="3">2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td colspan="2">Оқу және әдістемелік әдебиеттерге арналған шкаф</td>
-<td colspan="5">дана</td>
-<td colspan="5">1</td>
-<td colspan="3">2</td>
-<td colspan="4">2</td>
-<td colspan="3">2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td colspan="2">Маркерлі тақта</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">37</td>
-<td colspan="2">Дербес компьютер (жүйелік блок, монитор, пернетақта, оптикалық тінтуір), жиынтық құрылғы (микрофонды-телефонды гарнитур, акустикалық жүйе, желілік сүзгі, көп атқарымдық құрылғы)</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="26">Ұсынылатын жиынтықтар және жиһаз</td>
-</tr>
-<tr>
-<td colspan="2">38</td>
-<td colspan="2">Шашкалар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2">5</td>
-</tr>
-<tr>
-<td colspan="2">39</td>
-<td colspan="2">Шахматтар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2">5</td>
-</tr>
-<tr>
-<td colspan="2">40</td>
-<td colspan="2">Балалар доминосы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-<td colspan="3">10</td>
-<td colspan="4">10</td>
-<td colspan="3">10</td>
-<td colspan="2">10</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td colspan="2">Ойыншық таразылар</td>
-<td colspan="6">дана</td>
-<td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td colspan="2">Ұлттық киімдегі қуыршақтар жиыны</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">43</td>
-<td colspan="2">Сөйлейтін және ән айтатын қуыршақтар</td>
-<td colspan="6">дана</td>
-<td colspan="4"></td>
-<td colspan="3">5</td>
-<td colspan="4">5</td>
-<td colspan="3">5</td>
-<td colspan="2">5</td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td colspan="2">Қуыршақ-марионеткалар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td colspan="2">Үрлемелі және қызықты ойыншықтар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-<td colspan="3">2</td>
-<td colspan="4">3</td>
-<td colspan="3">3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td colspan="2">Сюжетті-рольді ойындар</td>
-<td colspan="6"></td>
-<td colspan="4">1</td>
-<td colspan="3">3</td>
-<td colspan="4">4</td>
-<td colspan="3">6</td>
-<td colspan="2">7</td>
-</tr>
-<tr>
-<td colspan="2">47</td>
-<td colspan="2">Қуыршақтар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">48</td>
-<td colspan="2">Қуыршақтарға арналған төсек жабдықтары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">2</td>
-<td colspan="3">2</td>
-<td colspan="4">2</td>
-<td colspan="3">2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">«Із кесушілер» ойыны</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">«Дизайнерлік студия» ойыны</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">«Кішкентай үй иесі» ойыны</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">«Шебер қолдар» ойыны</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td colspan="2">«Сұлулық салоны» ойыншығы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">40</td>
-<td colspan="2">«Құрылысшылар» ойыны</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td colspan="2">«Жануарлар» ойыны</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td colspan="2">«Бағбандар» ойыны</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">59</td>
-<td colspan="2">Оқу және әдістемелік әдебиеттерге арналған стеллаж</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">60</td>
-<td colspan="2">Хабарландыруларға арналған тақта</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">62</td>
-<td>web-камера</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">63</td>
-<td>Интерактивті тақта</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">64</td>
-<td>Проектор</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">65</td>
-<td>Интерактивті планшет</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">66</td>
-<td>Интерактивті таяқша</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">67</td>
-<td>Интерактивті тестілеу жүйесі</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">68</td>
-<td>Бейнекамера</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">69</td>
-<td>Фотоаппарат</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">70</td>
-<td>Кіріктірілген жұмыс ортасы</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">71</td>
-<td>Декодер</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">72</td>
-<td>Интерактивті үстел</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">73</td>
-<td>Интерактивті тақтаға арналған жылжымалы тұғыр</td>
-<td colspan="7">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">74</td>
-<td>Мультимедиялық құралдар</td>
-<td colspan="7">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="5">1</td>
-<td colspan="3">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="26">Бейнелеу іс-әрекетіне арналған жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">75</td>
-<td colspan="3">Сурет салуға арналған альбом</td>
-<td colspan="5">дана</td>
-<td colspan="3"></td>
-<td colspan="4">20</td>
-<td colspan="6">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">76</td>
-<td colspan="3">Акварельді бояулар жиынтығы</td>
-<td colspan="5">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="4">20</td>
-<td colspan="6">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">77</td>
-<td colspan="3">Акварельді қылқаламдар</td>
-<td colspan="5">дана</td>
-<td colspan="3"></td>
-<td colspan="4">20</td>
-<td colspan="6">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">78</td>
-<td colspan="3">Түрлі түсті қарындаштар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="3">10</td>
-<td colspan="4">20</td>
-<td colspan="6">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">79</td>
-<td colspan="3">Қарандаштарға арналған стақандар</td>
-<td colspan="5">дана</td>
-<td colspan="3"></td>
-<td colspan="4">20</td>
-<td colspan="6">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">80</td>
-<td colspan="3">Мата майлықтар</td>
-<td colspan="5">дана</td>
-<td colspan="3"></td>
-<td colspan="4">20</td>
-<td colspan="6">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="26">Ұсынылатын бейнелеу іс-әрекетіне арналған жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">81</td>
-<td colspan="3">Бейнелеу өнеріне арналған креативті жиынтық</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">82</td>
-<td colspan="3">Қара графитті қарындаш</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">83</td>
-<td colspan="3">Гуашь бояулар жиынтығы</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">10</td>
-<td colspan="5">10</td>
-<td colspan="2">10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">84</td>
-<td colspan="3">Қылқаламның астына қоятын үйкек</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">85</td>
-<td colspan="3">Қарандаштарға арналған стақандар</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">86</td>
-<td colspan="3">Гуаштың түстерін араластыруға арналған тәрелкелер</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">87</td>
-<td colspan="3">Балалардың жұмысын талдауға арналған қабырға</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">1</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">88</td>
-<td colspan="3">Мосы</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">2</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">89</td>
-<td colspan="3">Түрлі түсті кортон және қағаз</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">90</td>
-<td colspan="3">Мүсіндеуге арналған тақта</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">91</td>
-<td colspan="3">Қарандаш-желім</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">92</td>
-<td colspan="3">Балаларға арналған қайшы</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">93</td>
-<td colspan="3">Ермексаз (жиынтық)</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">94</td>
-<td colspan="3">Сорғы жиынтығы</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">95</td>
-<td colspan="3">Мүсіндеуге арналған балшық</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="3">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">95-1</td>
-<td colspan="3">Ойын алаңы, бағдарламаланатын робот ойыншығы, тапсырмалары бар карточкалар мен әдістемелік құралдан тұратын бағдарламалау дағдыларын дамытуға арналған старттық жинақ</td>
-<td colspan="5">Жинақ</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">95-2</td>
-<td colspan="3">Тақта және кодтау блоктары, моторлар, датчиктер, электрондық және конструкциялық элементтер, әдістемелік оқулықтардан тұратын бағдарламалау дағдыларын дамытуға арналған базалық жинақ</td>
-<td colspan="5">Жинақ</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="5">4</td>
-<td colspan="2">4</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">95-3</td>
-<td colspan="3">Конструкциялық элементтер, микроконтроллер, датчиктер, картридер және әдістемелік оқулықтардан тұратын мектеп жасына дейінгі балаларға арналған робототехникалық жинақ</td>
-<td colspan="5">Жинақ</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="5">4</td>
-<td colspan="2">4</td>
-<td colspan="2">4</td>
-</tr>
-<tr>
-<td colspan="2">95-4</td>
-<td colspan="3">Конструкциялық элементтер, микроконтроллер, датчиктер, және әдістемелік оқулықтардан тұратын мектеп жасына дейінгі балаларға арналған робототехникалық жинақ</td>
-<td colspan="5">Жинақ</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">95-5</td>
-<td colspan="3">Конструкциялық элементтерден, технологиялық картадан және әдістемелік оқулықтан тұратын мектеп жасына дейінгі балалар топтарының жаратылыстану ғылымдары, технология, өнер, конструкциялық құрастыру және математика саласындағы зерттеу қызметіне арналған конструкциялық жинақ</td>
-<td colspan="5">Жинақ</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">95-6</td>
-<td colspan="3">Конструкциялық элементер, фигуралар, объектілер, технологиялық карталар мен әдістемелік құралдан тұратын шығармашылық және танымдық қабілетті дамытуға арналған конструкциялық жинақ</td>
-<td colspan="5">Жинақ</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="5">4</td>
-<td colspan="2">4</td>
-<td colspan="2">4</td>
-</tr>
-<tr>
-<td colspan="2">95-7</td>
-<td colspan="3">Конструкциялық элементтер, фигуралар, объектілер, технологиялық карталар және әдістемелік оқулықтан тұратын ерте жастан математикалық дамытуға арналған конструкциялық жинақ</td>
-<td colspan="5">Жинақ</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="5">3</td>
-<td colspan="2">3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">95-8</td>
-<td colspan="3">Әдістемелік оқулықпен бірге 2 және 3 өлшемді модельдеуге арналған геометриялық фигуралардан тұратын ерте жастан математикалық дамытуға арналған конструкциялық жинақ</td>
-<td colspan="5">Жинақ</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">95-9</td>
-<td colspan="3">Геометриялық фигуралар, конструкциялық элементтер және әдістемелік оқулықтан тұратын балаларды роботтармен ойынға дайындауға арналған конструкциялық жинақ</td>
-<td colspan="5">Жинақ</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="26">Ұсынылатын бейнелеу іс-әрекетіне арналған жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">96</td>
-<td colspan="4">Мүсіндеуге және жапсыруға арналған креативті жиынтықтар</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="2">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">97</td>
-<td colspan="4">Мүсіндеу жұмыстарын қоюға арналған подиум</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">98</td>
-<td colspan="4">Балалар жұмысын талдауға арналған қабырға</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">99</td>
-<td colspan="4">Матадан жасалған майлықтар</td>
-<td colspan="5">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">100</td>
-<td colspan="4">Әртүрлі трафареттер</td>
-<td colspan="5">дана</td>
-<td colspan="5"></td>
-<td colspan="2">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="26">Топ бөлмесінің құрастыру және қол еңбегіне арналған жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">101</td>
-<td colspan="5">Құрылыс блоктарының жиынтығы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">2</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="26">Ұсынылатын құрастыру және қол еңбегіне арналған жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">102</td>
-<td colspan="5">Тігуге арналған жиынтықтар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2">3</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">103</td>
-<td colspan="5">Моншақтар мен ұсақжиынтығы моншақтар жНабор бусин и бисера</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="5">15</td>
-<td colspan="2">15</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="2">104</td>
-<td colspan="5">Оригамиге арналған түрлі-түсті картондар мен қағаздар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">105</td>
-<td colspan="5">Балалар құралдарының жинағы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="5">3</td>
-<td colspan="2">3</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">106</td>
-<td colspan="5">Материалдарды өңдеуге арналған модулді кіші білдек</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="26">Суреттер топтамасы</td>
-</tr>
-<tr>
-<td colspan="2">107</td>
-<td colspan="5">Жыл мезгілдері</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">108</td>
-<td colspan="5">Өсімдіктер және жануарлар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">109</td>
-<td colspan="5">Көліктер</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">110</td>
-<td colspan="5">Кім боламын?</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">111</td>
-<td colspan="5">Менің Қазақстаным</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">112</td>
-<td colspan="5">Мемлекеттік рәміздер</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">113</td>
-<td colspan="5">Тіршілік әрекетінің қауіпсіздік негіздері</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">114</td>
-<td colspan="5">Ұлттық костюмдер, тұрмыстық заттар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">115</td>
-<td colspan="5">Құстар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">116</td>
-<td colspan="5">Үй және жабайы жануарлар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">117</td>
-<td colspan="5">Қарапайым сюжеттер</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">118</td>
-<td colspan="5">Жолда жүру ережелері</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">119</td>
-<td colspan="5">Тіл дамытуға арналған суретті сөздік</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">123</td>
-<td colspan="5">Балалар көркем әдебиеті</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">124</td>
-<td colspan="5">Балалар кітаптары қазақстандық авторлардың шығармаларымен</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">125</td>
-<td colspan="5">Балалар көркем әдебиетіне арналған хрестоматия</td>
-<td colspan="4">дана</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="26">Қарапайым математикалық ұғымдарын қалыптастыруға арналған жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">126</td>
-<td colspan="5">Геометриялық пішіндер жиынтығы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">3</td>
-<td colspan="5">4</td>
-<td colspan="2">4</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">127</td>
-<td colspan="5">Түрлі пішіндегі заттар бейнеленген суреттер жиынтығы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">128</td>
-<td colspan="5">Геометриялық жазық пішіндер жиынтығы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">129</td>
-<td colspan="5">Сандар кассасы</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2">10</td>
-<td colspan="5">10</td>
-<td colspan="2">10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">130</td>
-<td colspan="5">Санау материалының жиынтығы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">10</td>
-<td colspan="5">10</td>
-<td colspan="2">10</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">131</td>
-<td colspan="5">1 ден 10 ға дейінгі сандары бар карточкалар жиынтығы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">132</td>
-<td colspan="5">10-ға дейінгі есептеу сатысы немесе иірімдері</td>
-<td colspan="4">дана</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">133</td>
-<td colspan="5">Санау таяқшалары</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">134</td>
-<td colspan="5">Көрсететін циферблатты сағаттар</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="26">Математикалық қарапайым ұғымдарды қалыптастыруға ұсынылған</td>
-</tr>
-<tr>
-<td colspan="2">135</td>
-<td colspan="5">Геометриялық пішіндер</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">2</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">136</td>
-<td colspan="5">Құм сағат</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">137</td>
-<td colspan="5">Секунд өлшегіш</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">138</td>
-<td colspan="5">Сандырды үйретуге арналған кілемше</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2">2</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="26">Табиғат бұрышына арналған қосымша жабдықтар және жиһаз</td>
-</tr>
-<tr>
-<td colspan="2">139</td>
-<td colspan="5">Бөлме өсімдіктері</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2">4</td>
-<td colspan="5">6</td>
-<td colspan="2">6</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="2">140</td>
-<td colspan="5">Стеллаж</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">141</td>
-<td colspan="5">Мүкамал</td>
-<td colspan="4">жиынтық</td>
-<td colspan="5"></td>
-<td colspan="2">2</td>
-<td colspan="5">3</td>
-<td colspan="2">3</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="26">Табиғат бұрышына ұсынылған жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">142</td>
-<td colspan="5">Аквариум</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">143</td>
-<td colspan="5">Құстарға арналған тор</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">144</td>
-<td colspan="5">Гүлге арналған тұғыр</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2">2</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">145</td>
-<td colspan="5">Табиғат күнтізбесі</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="26">Топқа арналған қосымша жабдықтар мен жиһаздар</td>
-</tr>
-<tr>
-<td colspan="2">146</td>
-<td colspan="5">Ыдыстарға арналған шкаф</td>
-<td colspan="4">дана</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">147</td>
-<td colspan="5">Жуыну құралдарына арналған шкаф</td>
-<td colspan="4">дана</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">148</td>
-<td colspan="5">Инвентарларды жинауға арналған шкаф</td>
-<td colspan="4">дана</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">149</td>
-<td colspan="5">Киімге арналған шкаф</td>
-<td colspan="4">дана</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">150</td>
-<td colspan="5">Арнайы киімге арналған ілгіш</td>
-<td colspan="4">дана</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">151</td>
-<td colspan="5">Сүлгіге арналған ілгіш</td>
-<td colspan="4">дана</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">152</td>
-<td colspan="5">Киімге арналған тумбочка</td>
-<td colspan="4">дана</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">153</td>
-<td colspan="5">Жиегі бар айна</td>
-<td colspan="4">дана</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">154</td>
-<td colspan="5">Шаңсорғыш</td>
-<td colspan="4">дана</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">155</td>
-<td colspan="5">Тұрмыстық термометр</td>
-<td colspan="4">дана</td>
-<td colspan="5">3</td>
-<td colspan="2">3</td>
-<td colspan="5">3</td>
-<td colspan="2">3</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">156</td>
-<td colspan="5">Кезекшілерге арналған алжапқыш</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2">2</td>
-<td colspan="5">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">157</td>
-<td colspan="5">Киімге арналған шкаф</td>
-<td colspan="4">дана</td>
-<td colspan="5">4</td>
-<td colspan="2">4</td>
-<td colspan="5">6</td>
-<td colspan="2">6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">158</td>
-<td colspan="5">Бір орындық төсек</td>
-<td colspan="4">дана</td>
-<td colspan="5">10</td>
-<td colspan="2">20</td>
-<td colspan="5">25</td>
-<td colspan="2">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">159</td>
-<td colspan="5">Үсті-үстіне қойылған екі қабатты төсек</td>
-<td colspan="4">дана</td>
-<td colspan="5">5</td>
-<td colspan="2">10</td>
-<td colspan="5">10</td>
-<td colspan="2">13</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">160</td>
-<td colspan="5">Үсті-үстіне қойылған үш қабатты төсек</td>
-<td colspan="4">дана</td>
-<td colspan="5"></td>
-<td colspan="2">6</td>
-<td colspan="5">9</td>
-<td colspan="2">9</td>
-<td>9</td>
-</tr>
-<tr>
-<td colspan="2">161</td>
-<td colspan="5">Балалар орындығы</td>
-<td colspan="4">дана</td>
-<td colspan="5">4</td>
-<td colspan="2">4</td>
-<td colspan="5">6</td>
-<td colspan="2">6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="26">Меңгеруші бөлмесіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="10">Атауы</td>
-<td colspan="8">өлшем бірлік</td>
-<td colspan="6">саны</td>
-</tr>
-<tr>
-<td colspan="2">162</td>
-<td colspan="10">Жиынтықтағы басшының үстелі</td>
-<td colspan="8">дана</td>
-<td colspan="6">1</td>
-</tr>
-<tr>
-<td colspan="2">163</td>
-<td colspan="10">Басшының креслосы</td>
-<td colspan="8">дана</td>
-<td colspan="6">1</td>
-</tr>
-<tr>
-<td colspan="2">164</td>
-<td colspan="10">Жартылай жұмсақ орындық</td>
-<td colspan="8">дана</td>
-<td colspan="6">6</td>
-</tr>
-<tr>
-<td colspan="2">165</td>
-<td colspan="10">Кабинетке арналған шкаф</td>
-<td colspan="8">дана</td>
-<td colspan="6">2</td>
-</tr>
-<tr>
-<td colspan="2">166</td>
-<td colspan="10">Өртенбейтін шкаф</td>
-<td colspan="8">дана</td>
-<td colspan="6">1</td>
-</tr>
-<tr>
-<td colspan="2">167</td>
-<td colspan="10">Дербес компьютер (жүйелі блок, монитор, пернетақта, оптикалық тінтуір), толықтырушы құрылғы (микрофондық-телефондық гарнитур, акустикалық жүйе, желілік фильтр, көп функционалды құрал)</td>
-<td colspan="8">жиын</td>
-<td colspan="6">1</td>
-</tr>
-<tr>
-<td colspan="2">168</td>
-<td colspan="10">Телефон</td>
-<td colspan="8">дана</td>
-<td colspan="6">1</td>
-</tr>
-<tr>
-<td>169</td>
-<td colspan="11">Теледидар</td>
-<td colspan="8">дана</td>
-<td colspan="6">1</td>
-</tr>
-<tr>
-<td colspan="26">Әдістемелік кабинетке арналған жабдықтар және жиһаз</td>
-</tr>
-<tr>
-<td>170</td>
-<td colspan="11">Кабинетке арналған үстел</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>171</td>
-<td colspan="11">Жартылай жұмсақ орындық</td>
-<td colspan="7">дана</td>
-<td colspan="7">10</td>
-</tr>
-<tr>
-<td>172</td>
-<td colspan="11">Кітапқа және құралға арналған шкаф</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td>173</td>
-<td colspan="11">Көрнекі стеллаж</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>174</td>
-<td colspan="11">Дербес компьютер (жүйелі блок, монитор, пернетақта, оптикалық тышқан), толықтырукшы құрылғы (микрофондық-телефондық гарнитур, акустикалық жүйе, желілік фильтр, көп атқарымды құрылғы)</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>175</td>
-<td colspan="11">Телефон</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>176</td>
-<td colspan="11">Қазақстан Республикасының рәміздері белгіленген плакат жиыны</td>
-<td colspan="7">жиын</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>177</td>
-<td colspan="11">Әдістемелік құрал жиыны</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>178</td>
-<td colspan="11">Сабаққа арналған көрнекі материал</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>179</td>
-<td colspan="11">Жер шарының глобусы</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>180</td>
-<td colspan="11">Қазақстан Республикасының картасы</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>181</td>
-<td colspan="11">Жыл мезгілдері бойынша суреттер жиыны</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>182</td>
-<td colspan="11">Заттық сурет жиыны</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>183</td>
-<td colspan="11">Электрондық оқу баспасының жиыны</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td colspan="26">Әдістемелік кабинетке ұсынылатын жабдықтар және жиһаз дар</td>
-</tr>
-<tr>
-<td>184</td>
-<td colspan="11">Музыкалық орталық</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>185</td>
-<td colspan="11">Ламинатор</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>186</td>
-<td colspan="11">Мұқаба машинасы</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>187</td>
-<td colspan="11">Жемістер,жидектер,санырауқұлақтар муляждары</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">10</td>
-</tr>
-<tr>
-<td>188</td>
-<td colspan="11">«Пайдалы қазбалар» үлестірмелі коллекциясы</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">10</td>
-</tr>
-<tr>
-<td>189</td>
-<td colspan="11">Зерттеу әрекеттеріне арналған құралдар</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>190</td>
-<td colspan="11">«Арнайы көлік»</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>191</td>
-<td colspan="11">Есеп материалы»</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>192</td>
-<td colspan="11">Костюмдағы қуыршақ</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>193</td>
-<td colspan="11">Ертегідегі қуыршақ-кейіпкерлер</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>194</td>
-<td colspan="11">Ұлттық ойынщықтар</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>195</td>
-<td colspan="11">Тіл дамыту бойыншы мазмұнды суреттер</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td colspan="26">Қазақ тілі кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>196</td>
-<td colspan="11">Компьютер үстелі</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>197</td>
-<td colspan="11">Жартылай жұмсақ орындық</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>198</td>
-<td colspan="11">Оқу құралдарына арналған шкаф</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>199</td>
-<td colspan="11">Маркерлік тақта</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>200</td>
-<td colspan="11">Сабаққа арналған балалар жиһазының жиыны</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>201</td>
-<td colspan="11">Дербес компьютер (жүйелі блок, монитор, пернетақта, оптикалық тінтуір), толықтырушы құрылғы (микрофондық-телефондық гарнитур, акустикалық жүйе, желілік фильтр, көп атқарымды құрылғы)</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>202</td>
-<td colspan="11">Мультимедиялық құрал</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>203</td>
-<td colspan="11">Әдеби және көрнекі құралдар</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>204</td>
-<td colspan="11">Аяк-қап</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>205</td>
-<td colspan="11">Кесе</td>
-<td colspan="7">дана</td>
-<td colspan="7">6</td>
-</tr>
-<tr>
-<td>206</td>
-<td colspan="11">Қазан</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>207</td>
-<td colspan="11">Түйгіш</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>208</td>
-<td colspan="11">Ыдыс-аяқ сақтауға арналған қапшық</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>209</td>
-<td colspan="11">Ожау</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>210</td>
-<td colspan="11">Торсық</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>211</td>
-<td colspan="11">Тостаған</td>
-<td colspan="7">дана</td>
-<td colspan="7">4</td>
-</tr>
-<tr>
-<td>212</td>
-<td colspan="11">Табақ</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>213</td>
-<td colspan="11">Шәйнек</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>214</td>
-<td colspan="11">Ақ орамал</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>215</td>
-<td colspan="11">Түрлі түсті орамал</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>216</td>
-<td colspan="11">Желбірлі көйлек</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>217</td>
-<td colspan="11">Бөрік</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>218</td>
-<td colspan="11">Қамзол</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>219</td>
-<td colspan="11">Кимешек</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>220</td>
-<td colspan="11">Сәукеле</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>221</td>
-<td colspan="11">Тақия</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>222</td>
-<td colspan="11">Бөрік</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>223</td>
-<td colspan="11">Жейде</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>224</td>
-<td colspan="11">Кестемен безендірілген шалбар</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>225</td>
-<td colspan="11">Қалпақ</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>226</td>
-<td colspan="11">Мәсі</td>
-<td colspan="7">пара</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>227</td>
-<td colspan="11">Тақия</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>228</td>
-<td colspan="11">Тұлып</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>229</td>
-<td colspan="11">Шапан</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>230</td>
-<td colspan="11">Алқа</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>231</td>
-<td colspan="11">Білезік</td>
-<td colspan="7">пара</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>232</td>
-<td colspan="11">Моншақ</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>233</td>
-<td colspan="11">Сырға</td>
-<td colspan="7">пара</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>234</td>
-<td colspan="11">Сақина</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>235</td>
-<td colspan="11">Жүзік</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>236</td>
-<td colspan="11">Алқа</td>
-<td colspan="7">пара</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>237</td>
-<td colspan="11">Домбыра</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>238</td>
-<td colspan="11">Дауылпаз</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>239</td>
-<td colspan="11">Жетіген</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>240</td>
-<td colspan="11">Қобыз</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>241</td>
-<td colspan="11">Сазсырнай</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>242</td>
-<td colspan="11">Сылдырмақ</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>243</td>
-<td colspan="11">Шаңқобыз</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>244</td>
-<td colspan="11">Бесік</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>245</td>
-<td colspan="11">Домалақ үстел</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>246</td>
-<td colspan="11">Көрпе</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>247</td>
-<td colspan="11">Қоржын</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>248</td>
-<td colspan="11">Қамшы</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>249</td>
-<td colspan="11">Сандық</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>250</td>
-<td colspan="11">Сырмақ</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>251</td>
-<td colspan="11">Өрнекті киіз</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td colspan="26">Әкімшілік-шаруашылық кабинетіне ұсынылатын жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>252</td>
-<td colspan="11">Кабинетке арналған үстел</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>253</td>
-<td colspan="11">Жартылай жұмсақ орындық</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>254</td>
-<td colspan="11">Құжаттарға арналған шкаф</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>255</td>
-<td colspan="11">Дербес компьютер (жүйелі блок, монитор, пернетақта, оптикалық тінтуір), толықтырушы құрал (микрофондық-телефондық гарнитур, акустикалық жүйе, желілік фильтр, көп атқарымды құрылғы) устройство</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td colspan="26">Дене шынықтыру залына арналған жабдықтар</td>
-</tr>
-<tr>
-<td>256</td>
-<td colspan="11">Ағаштан жасалған гимнастикалық қабырға</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>257</td>
-<td colspan="11">Гимнастикалық қабырғаға арналған саты</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>258</td>
-<td colspan="11">Тұғырлы сырғанақ</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>259</td>
-<td colspan="11">Гимнастикаға арналған кедір тақта</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>260</td>
-<td colspan="11">Едендегі гимнастикалық ағаш</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>261</td>
-<td colspan="11">Гимнастикалық орындық</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td>262</td>
-<td colspan="11">Тартылуға арналған арқан</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>263</td>
-<td colspan="11">Массажды жол</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>264</td>
-<td colspan="11">Түрлі биіктікте еңбектеуге арналған доғалар</td>
-<td colspan="7">жиын</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>265</td>
-<td colspan="11">Ойын шаршысы</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">10</td>
-</tr>
-<tr>
-<td>266</td>
-<td colspan="11">Ұзын түрлі түсті лента</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>267</td>
-<td colspan="11">Қысқа түрті түсті лента</td>
-<td colspan="7">дана</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>268</td>
-<td colspan="11">Балалар шығыршығы</td>
-<td colspan="7">дана</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>269</td>
-<td colspan="11">Гимнастикалық таяқ</td>
-<td colspan="7">дана</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>270</td>
-<td colspan="11">Секіргіш</td>
-<td colspan="7">дана</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>271</td>
-<td colspan="11">Түрлі түсті жалау</td>
-<td colspan="7">дана</td>
-<td colspan="7">50</td>
-</tr>
-<tr>
-<td>272</td>
-<td colspan="11">Ұзын жіп</td>
-<td colspan="7">дана</td>
-<td colspan="7">4</td>
-</tr>
-<tr>
-<td>273</td>
-<td colspan="11">Қысқы жіп</td>
-<td colspan="7">дана</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>274</td>
-<td colspan="11">Гигиеналық жабыны бар спорттық матрас</td>
-<td colspan="7">дана</td>
-<td colspan="7">4</td>
-</tr>
-<tr>
-<td>275</td>
-<td colspan="11">Баскетбол добы</td>
-<td colspan="7">дана</td>
-<td colspan="7">10</td>
-</tr>
-<tr>
-<td>276</td>
-<td colspan="11">Волейбол добы</td>
-<td colspan="7">дана</td>
-<td colspan="7">10</td>
-</tr>
-<tr>
-<td>277</td>
-<td colspan="11">Футбол добы</td>
-<td colspan="7">дана</td>
-<td colspan="7">10</td>
-</tr>
-<tr>
-<td>278</td>
-<td colspan="11">Резеңке доп</td>
-<td colspan="7">дана</td>
-<td colspan="7">30</td>
-</tr>
-<tr>
-<td>279</td>
-<td colspan="11">Лақтыруға арналған доп</td>
-<td colspan="7">дана</td>
-<td colspan="7">20</td>
-</tr>
-<tr>
-<td>280</td>
-<td colspan="11">Лақтыруға арналған капшық</td>
-<td colspan="7">дана</td>
-<td colspan="7">20</td>
-</tr>
-<tr>
-<td>281</td>
-<td colspan="11">Допқа арналған себет</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td colspan="26">Дене шынықтыру залына ұсынылатын жабдықтар</td>
-</tr>
-<tr>
-<td>282</td>
-<td colspan="11">Өрмелеуге арналған арқан</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>283</td>
-<td colspan="11">Арқан саты</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>284</td>
-<td colspan="11">Теңгеру жолы</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>285</td>
-<td colspan="11">Балалар гантелі</td>
-<td colspan="7">дана</td>
-<td colspan="7">5</td>
-</tr>
-<tr>
-<td>286</td>
-<td colspan="11">Массаж сақинасы</td>
-<td colspan="7">дана</td>
-<td colspan="7">10</td>
-</tr>
-<tr>
-<td>287</td>
-<td colspan="11">Массаж төбешігі</td>
-<td colspan="7">жиын</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td>288</td>
-<td colspan="11">Балалар кедергілер жолағы</td>
-<td colspan="7">жиын</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>289</td>
-<td colspan="11">Бірдей биіктікте еңбектеуге арналған доғалар</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>290</td>
-<td colspan="11">Балалар тренажері</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td>291</td>
-<td colspan="11">Кегл жиынтығы</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>292</td>
-<td colspan="11">Денсаулық жолы</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>293</td>
-<td colspan="11">Ысқырық</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>294</td>
-<td colspan="11">Құм сағат</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>295</td>
-<td colspan="11">Жұмсақ үрленген үлгі мен элементтер жиынтығы</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>296</td>
-<td colspan="11">Аяқты сорғыш</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>297</td>
-<td colspan="11">Қолды сорғыш</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>298</td>
-<td colspan="11">Допқа арналған тұғыр</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>299</td>
-<td colspan="11">Допқа арналған секірме</td>
-<td colspan="7">дана</td>
-<td colspan="7">12</td>
-</tr>
-<tr>
-<td>300</td>
-<td colspan="11">Ауыр доп</td>
-<td colspan="7">дана</td>
-<td colspan="7">5</td>
-</tr>
-<tr>
-<td>301</td>
-<td colspan="11">Массаж добы</td>
-<td colspan="7">дана</td>
-<td colspan="7">15</td>
-</tr>
-<tr>
-<td>302</td>
-<td colspan="11">Шариктер жиынымен құрғақ бассейн</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td colspan="26">Дене шынықтыру алаңына арналған жабдықтар</td>
-</tr>
-<tr>
-<td>303</td>
-<td colspan="11">Балаларға арналған торқапшығы бар футбол қақпасы</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>304</td>
-<td colspan="11">Балалар баскетбол бағанасы</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>305</td>
-<td colspan="11">Торқапшықпен бадминтон мен волейболға арналған бағана жиыны</td>
-<td colspan="7">жиын</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td colspan="26">Дене шынықтыру алаңына ұсынылатын жабдықтар</td>
-</tr>
-<tr>
-<td>306</td>
-<td colspan="11">Шығыршыққа арналған жиынтық</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">4</td>
-</tr>
-<tr>
-<td>307</td>
-<td colspan="11">Лақтыруға арналған нысана</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td>308</td>
-<td colspan="11">Бодминтонға арналған жиынтық</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">4</td>
-</tr>
-<tr>
-<td>309</td>
-<td colspan="11">Үстел тиннисіне арналған жиынтық</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>310</td>
-<td colspan="11">Үстел теннисіне арналған орындық</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>311</td>
-<td colspan="11">Балалар велосипеді</td>
-<td colspan="7">дана</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>312</td>
-<td colspan="11">Доңғалақша</td>
-<td colspan="7">дана</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td colspan="26">қысқы жабдықтар</td>
-</tr>
-<tr>
-<td>313</td>
-<td colspan="11">Хоккей доптаяғы</td>
-<td colspan="7">дана</td>
-<td colspan="7">10</td>
-</tr>
-<tr>
-<td>314</td>
-<td colspan="11">Балалар конькиі</td>
-<td colspan="7">дана</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>315</td>
-<td colspan="11">Балалар шаңғысы</td>
-<td colspan="7">дана</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>316</td>
-<td colspan="11">Шана</td>
-<td colspan="7">дана</td>
-<td colspan="7">10</td>
-</tr>
-<tr>
-<td colspan="26">ойын алаңы</td>
-</tr>
-<tr>
-<td>317</td>
-<td colspan="11">Ойын құралдары</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td>318</td>
-<td colspan="11">Төбешік</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>319</td>
-<td colspan="11">Тербелме</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>320</td>
-<td colspan="11">Құмсалғыш</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>321</td>
-<td colspan="11">Әткеншек</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>322</td>
-<td colspan="11">Спорт құрылысы</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>323</td>
-<td colspan="11">15орынға беседка</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td colspan="26">музыка залы</td>
-</tr>
-<tr>
-<td>324</td>
-<td colspan="11">Компьютер үстелі</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>325</td>
-<td colspan="11">Кресло</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>326</td>
-<td colspan="11">Құралға арналған шкаф</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>327</td>
-<td colspan="11">Балалар орындығы</td>
-<td colspan="7">дана</td>
-<td colspan="7">60</td>
-</tr>
-<tr>
-<td>328</td>
-<td colspan="11">Интерактивті тақта</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>329</td>
-<td colspan="11">Проектор</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>330</td>
-<td colspan="11">Интерактивті тақтаға арналған жылжымалы тұғыр</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>331</td>
-<td colspan="11">Ноутбук</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>332</td>
-<td colspan="11">Музыка орталығы</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>333</td>
-<td colspan="11">Сандық пианино</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>334</td>
-<td colspan="11">Аккордеон</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>335</td>
-<td colspan="11">Балалар музыка аспабы</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>336</td>
-<td colspan="11">Ұлттық музыкалық аспаптар</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>337</td>
-<td colspan="11">Музыкалық шығарманы тындауға арналған суреттер</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>338</td>
-<td colspan="11">Композиторлар портретінің жиыны</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>339</td>
-<td colspan="11">Дыбысхана</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>340</td>
-<td colspan="11">Мультимедиялық құрал</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>341</td>
-<td colspan="11">Музыкалық-дидактикалық ойын</td>
-<td colspan="7">дана</td>
-<td colspan="7">5</td>
-</tr>
-<tr>
-<td colspan="26">ұсынылатын жабдықтар</td>
-</tr>
-<tr>
-<td>342</td>
-<td colspan="11">Хореграфиялық сабаққа арналған айна</td>
-<td colspan="7">дана</td>
-<td colspan="7">6</td>
-</tr>
-<tr>
-<td>343</td>
-<td colspan="11">Хореографиялық станок</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>344</td>
-<td colspan="11">Фортепьяно</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>345</td>
-<td colspan="11">DVD-плеер</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>346</td>
-<td colspan="11">Теледидар</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>347</td>
-<td colspan="11">Түрлі түсті жалау</td>
-<td colspan="7">дана</td>
-<td colspan="7">60</td>
-</tr>
-<tr>
-<td>348</td>
-<td colspan="11">Түрлі түсті лента</td>
-<td colspan="7">дана</td>
-<td colspan="7">30</td>
-</tr>
-<tr>
-<td>349</td>
-<td colspan="11">Гүл</td>
-<td colspan="7">дана</td>
-<td colspan="7">60</td>
-</tr>
-<tr>
-<td>350</td>
-<td colspan="11">Қамшы</td>
-<td colspan="7">дана</td>
-<td colspan="7">6</td>
-</tr>
-<tr>
-<td>351</td>
-<td colspan="11">Телпек,бетперде</td>
-<td colspan="7">дана</td>
-<td colspan="7">25</td>
-</tr>
-<tr>
-<td>352</td>
-<td colspan="11">Ұлттық костюм</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">4</td>
-</tr>
-<tr>
-<td>353</td>
-<td colspan="11">Карнавалдық костюм</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">6</td>
-</tr>
-<tr>
-<td>354</td>
-<td colspan="11">Даңғырлатып ойнайтын аспап</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">5</td>
-</tr>
-<tr>
-<td>355</td>
-<td colspan="11">Жіпсіз микрофон</td>
-<td colspan="7">дана</td>
-<td colspan="7">6</td>
-</tr>
-<tr>
-<td>356</td>
-<td colspan="11">Микрофонға арналған баған</td>
-<td colspan="7">дана</td>
-<td colspan="7">6</td>
-</tr>
-<tr>
-<td>357</td>
-<td colspan="11">Дыбыс шығаратын құрал жиыны</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td colspan="26">бір балаға шаққанда жұмсақ жабдықтар</td>
-</tr>
-<tr>
-<td>358</td>
-<td colspan="11">Балалар матрасы</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>359</td>
-<td colspan="11">матрас</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>360</td>
-<td colspan="11">Балалар жастығы</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>361</td>
-<td colspan="11">Балалар жастық тысы</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td>362</td>
-<td colspan="11">Балалар ақжаймасы</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td>363</td>
-<td colspan="11">Балалар ақжайма тысы</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td>364</td>
-<td colspan="11">Балалар көрпесі</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>365</td>
-<td colspan="11">Жамылғы</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>366</td>
-<td colspan="11">Балалар майлығы</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td colspan="26">Бір топқа шаққанда жұмсақ жабдықтар</td>
-</tr>
-<tr>
-<td>367</td>
-<td colspan="11">Топтық бөлмеге арналған кілем</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>368</td>
-<td colspan="11">Жатын бөлмеге арналған кілемше</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>369</td>
-<td colspan="11">Топтағы терезелерге арналған перделер</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td colspan="26">Бір адамға шаққанда қызметкерлерге арналған</td>
-</tr>
-<tr>
-<td>370</td>
-<td colspan="11">Орамал</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>371</td>
-<td colspan="11">Алжапқыш</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>372</td>
-<td colspan="11">Ақ халат</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>373</td>
-<td colspan="11">Қара халат</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td colspan="26">Коридор мен әкімшілік бөлмесіне арналған жұмсақ жабдықтар</td>
-</tr>
-<tr>
-<td>374</td>
-<td colspan="11">Бөлмеге арналған кілем</td>
-<td colspan="7">дана</td>
-<td colspan="7">4</td>
-</tr>
-<tr>
-<td>375</td>
-<td colspan="11">Ұзын кілемше</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>376</td>
-<td colspan="11">Перделер</td>
-<td colspan="7">жиынтық</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td colspan="26">Кір жууға арналған құралдар тізімі</td>
-</tr>
-<tr>
-<td>377</td>
-<td colspan="11">Кірді жібітуге арналған арба</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>378</td>
-<td colspan="11">Кірді тасуға арналған арба</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>379</td>
-<td colspan="11">Тұрмыстық кір жуу машинасы</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>380</td>
-<td colspan="11">Кәсіби кір жуу машинасы</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>381</td>
-<td colspan="11">Кептіргіш машина</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>382</td>
-<td colspan="11">Өндірістік үстел</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>383</td>
-<td colspan="11">Кірге арналған стеллаж</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-<tr>
-<td>384</td>
-<td colspan="11">Кәсіби үтіктеу үстелі</td>
-<td colspan="7">дана</td>
-<td colspan="7">1</td>
-</tr>
-<tr>
-<td>385</td>
-<td colspan="11">Үтіктеу тақтасы</td>
-<td colspan="7">дана</td>
-<td colspan="7">2</td>
-</tr>
-<tr>
-<td>386</td>
-<td colspan="11">Тұрмыстық үтік</td>
-<td colspan="7">дана</td>
-<td colspan="7">3</td>
-</tr>
-</table>
+## Мектепке дейінгі, орта білім беру ұйымдарын, сондай-ақ арнаулы білім беру ұйымдарын әкімшілік күй-жайларын құралдармен және жиһаздармен жабдықтау нормалары
 
 <table>
 <tr>
-<td>
-<strong>Бастауыш білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормалары</strong>
-Ескерту. Бөлімге өзгерістер енгізілді - ҚР Білім және ғылым министрінің 03.07.2017 № 317 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.
-<table>
-<tr>
-<td rowspan="2">№</td>
-<td colspan="2" rowspan="2">атауы</td>
-<td colspan="4" rowspan="2">Өлшем бірлігі</td>
-<td colspan="11">Сыныптарға бойынша кабинетке минималды саны</td>
+<th>№</th>
+<th>Атауы</th>
+<th>Өлшем бірлігі</th>
+<th>Саны</th>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-</tr>
-<tr>
-<td colspan="18">Оқу кабинеттеріне арналған және жиһаз</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="17">«Ағылшын тілі» пәні</td>
+<th colspan="4">Білім беру ұйымы басшысының кеңсесі</th>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2">Әліппе</td>
-<td colspan="4">дана</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2"></td>
+<td>Жиынтықтағы басшының үстелі</td>
+<td>жиынтық</td>
+<td>1</td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2">Алфавит</td>
-<td colspan="4">дана</td>
-<td colspan="2">1</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Басшының креслосы</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2">Әріптер кассасы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>3</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2">Грамматикалық кестелер жиынтығы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Кабинетке арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2">Сөздіктер</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Телефон</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="2">Альбомдар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="2">Оқуға арналған әдебиеттер</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="18">«Математика» пәні</td>
+<td>Көп функциялы құрылғы (көшірме/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2">Сызба құралдары</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>9</td>
-<td colspan="2">Демонстрациялық есепшот</td>
-<td colspan="4">дана</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>10</td>
-<td colspan="2">Көлемді геометриялық пішіндер</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Өртке төзімді сейф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Қабылдау бөлмесі-іс жүргізу кабинеті</th>
 </tr>
 <tr>
 <td>11</td>
-<td colspan="2">Жазықтық геометриялық пішіндер</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Кабинетке арналған үстел</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>12</td>
-<td colspan="2">Демонстрациялық сағат моделі</td>
-<td colspan="4">дана</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Жартылай жұмсақ орындықтар</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="2">Демонстрациялық жиынтық</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Кабинетке арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>14</td>
-<td colspan="2">Кальулятор</td>
-<td colspan="4">дана</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Телефон</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>15</td>
-<td colspan="2">Магнитті бекіткіштері бар сандар</td>
-<td colspan="4">дана</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>16</td>
-<td colspan="2">Демонстрациялық иінтірек таразылары</td>
-<td colspan="4">дана</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Көп функциялы құрылғы (көшірме/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>17</td>
-<td colspan="2">Геометриялык денелер мен сыйымдылыктар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>18</td>
-<td colspan="2">Бүтін пластина және шеңбер бөлшектері</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">Сағаттың моделі</td>
-<td colspan="4">дана</td>
-<td colspan="2">13</td>
-<td colspan="3">13</td>
-<td colspan="4">13</td>
-<td colspan="2">13</td>
+<th colspan="4">Әдістемелік кабинет / мұғалімдер бөлмесі</th>
+</tr>
+<tr>
+<td>19</td>
+<td>Кабинетке арналған үстел</td>
+<td>дана</td>
+<td>(жалпы педагогтердің санынан 30%)</td>
 </tr>
 <tr>
 <td>20</td>
-<td colspan="2">Сандар және сандық материалдар кассасы</td>
-<td colspan="4">дана</td>
-<td colspan="2">25</td>
-<td colspan="3">25</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>Жартылай жұмсақ орындықтар</td>
+<td>дана</td>
+<td>(жалпы педагогтердің санынан 30%)</td>
 </tr>
 <tr>
 <td>21</td>
-<td colspan="2">Сандар жиынтығы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">25</td>
-<td colspan="3">25</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
+<td>Кабинетке арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>22</td>
-<td colspan="2">1 метр таспа</td>
-<td colspan="4">дана</td>
-<td colspan="2"></td>
-<td colspan="3">13</td>
-<td colspan="4">13</td>
-<td colspan="2">13</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>23</td>
-<td colspan="2">Геометриялық фигуралар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2"></td>
-<td colspan="3">13</td>
-<td colspan="4">13</td>
-<td colspan="2">13</td>
+<td>Көп функциялы құрылғы (көшірме/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>24</td>
-<td colspan="2">100 дейінгі санау тізбегі</td>
-<td colspan="4">дана</td>
-<td colspan="2"></td>
-<td colspan="3">25</td>
-<td colspan="4">25</td>
-<td colspan="2">2</td>
+<td>Интерактивті панель</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>25</td>
-<td colspan="2">Көбейту кестесі (плакаттар)</td>
-<td colspan="4">дана</td>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="18">«Дүние тану» пәні</td>
+<td>Маркерлік тақта/бұрылмалы бор</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>26</td>
-<td colspan="2">Глобус</td>
-<td colspan="4">дана</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>27</td>
-<td colspan="2">Компас</td>
-<td colspan="4">дана</td>
-<td colspan="2">25</td>
-<td colspan="3">25</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>бума</td>
+<td>1</td>
 </tr>
 <tr>
 <td>28</td>
-<td colspan="2">Ауа-райын бақылауға арналған зертханалық жиынтық</td>
-<td colspan="4">дана</td>
-<td colspan="11">1</td>
+<td>Маркер тақтасына арналған өшіргіш</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>29</td>
-<td colspan="2">Физикалық картасы</td>
-<td colspan="4">дана</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>30</td>
-<td colspan="2">Саяси әлемнің картасы</td>
-<td colspan="4">дана</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынтық</td>
+<td>3</td>
 </tr>
 <tr>
 <td>31</td>
-<td colspan="2">Ежелгі әлем картасы</td>
-<td colspan="4">дана</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
 </tr>
 <tr>
 <td>32</td>
-<td colspan="2">Демонстрациялық және зертханалық жабдықтар жиынтығы</td>
-<td colspan="4">комплект</td>
-<td colspan="11">1</td>
-</tr>
-<tr>
-<td colspan="18">«Өзін-өзі тану» пәні</td>
+<td>Мектепке арналған бор</td>
+<td>дана</td>
+<td>100</td>
 </tr>
 <tr>
 <td>33</td>
-<td colspan="2">«Өзін-өзі тану» пәніне арналған терминдер сөздігі</td>
-<td colspan="4">дана</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>34</td>
-<td colspan="2">Көсем сөздер жазылған плакаттар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
+<td>Акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Басшы орынбасарының кабинеті</th>
 </tr>
 <tr>
 <td>35</td>
-<td colspan="2">Шығармашылық, жобалық жұмыстаға арналған үлестірме материалдар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">13</td>
-<td colspan="3">13</td>
-<td colspan="4">13</td>
-<td colspan="2">13</td>
-</tr>
-<tr>
-<td colspan="18">«Музыка» пәні</td>
+<td>Кабинетке арналған үстел</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>36</td>
-<td colspan="2">Пианино</td>
-<td colspan="4">дана</td>
-<td colspan="11">1</td>
+<td>Жартылай жұмсақ орындықтар</td>
+<td>дана</td>
+<td>4</td>
 </tr>
 <tr>
 <td>37</td>
-<td colspan="2">Музыкалық аспаптар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="11">1</td>
+<td>Кабинетке арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>38</td>
-<td colspan="2">Ұлттық музыкалық аспаптар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="11">1</td>
-</tr>
-<tr>
-<td colspan="18">«Бейнелеу өнері» пәні</td>
+<td>Телефон</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>39</td>
-<td colspan="2">«Алтын адам және онымен бірге табылған артефактілер» плакаттар)</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Микрофон-телефон гарнитурасымен және вweb-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
 <td>40</td>
-<td colspan="2">Суретшілердің иллюстрациялары</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Көп функциялы құрылғы (көшірме/принтер/сканер)</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
 <td>41</td>
-<td colspan="2">«Қазақтың ұлттық ою-өрнегі» (плакаттар)</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>42</td>
-<td colspan="2">Бейнелеу шығармашылығына арналған жиынтық және модельдеу</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5"></td>
+<td>Акустикалық жүйе</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
+<th colspan="4">Бухгалтерия</th>
+</tr>
+<tr>
 <td>43</td>
-<td colspan="2">Бейнелеу шығармашылығына арналған жиынтық</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">13</td>
-<td colspan="3">13</td>
-<td colspan="5">13</td>
-<td>13</td>
+<td>Кабинетке арналған үстел</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>44</td>
-<td colspan="2">Жеке қорғау құралдары</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">13</td>
-<td colspan="3">13</td>
-<td colspan="5">13</td>
-<td>13</td>
+<td>Жартылай жұмсақ орындықтар</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>45</td>
-<td colspan="2">Гипстік формалар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Кабинетке арналған шкаф</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
 <td>46</td>
-<td colspan="2">Материалдарды сақтауға арналған жиынтық</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
+<td>Телефон</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>47</td>
-<td colspan="2">Саз балшық, ермексаз</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Өртке төзімді сейф</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
 <td>48</td>
-<td colspan="2">Қуыршақтар және қуыршақ театрына арналған жабдықтар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
 <td>49</td>
-<td colspan="2">Мольберт</td>
-<td colspan="4">дана</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="5">1</td>
-<td></td>
+<td>Көп функциялы құрылғы (көшірме/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>50</td>
-<td colspan="2">Ұлттық ойыншықтар</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+</table>
+
+## Мектепке дейінгі білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормалары
+
+<table>
+<tr>
+<th rowspan="2">№</th>
+<th rowspan="2">Атауы</th>
+<th colspan="5">Топтардың толымдылығына байланысты бірліктер саны</th>
+</tr>
+<tr>
+<th>Өлшембірлігі</th>
+<th>Бөбекжасы (ерте жастағы топ, кіші топ)</th>
+<th>Мектепке дейінгі жас (орта топ)</th>
+<th>Мектепке дейінгі жас (ересек топ)</th>
+<th>Мектеп алды жас ( мектеп алды топ)</th>
+</tr>
+<tr>
+<th colspan="7">Коммуникативтік дағдыларды дамытуға арналған оқу және ойын материалдары</th>
 </tr>
 <tr>
 <td>51</td>
-<td colspan="2">Қазақ халық шығармашылығының бұйымдар жиынтығы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="5"></td>
+<td>Әр түрлі көлемдегі пирамида</td>
+<td>дана</td>
+<td>2</td>
+<td>2</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="18">«Еңбекке баулу» пәні</td>
-</tr>
-<tr>
 <td>52</td>
-<td colspan="2">Қағаз бен картонды өңдеуге арналған құралдар</td>
-<td colspan="4">жинақ</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Ермек-ойыншық</td>
+<td>дана</td>
+<td>8</td>
+<td>5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>3</td>
-<td colspan="2">Матаны өңдеуге арналған құралдар</td>
-<td colspan="4">жинақ</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>53</td>
+<td>Баулармен, түймелермен, белдіктермен, құлыптармен және үстел үсті ойыны</td>
+<td>дана</td>
+<td>6</td>
+<td>6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>54</td>
-<td colspan="2">Түрлі материалдарды техникалық модельдеу мен өңдеуге арналған құралдар</td>
-<td colspan="4">жинақ</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Қуыршақ</td>
+<td>дана</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
 </tr>
 <tr>
 <td>55</td>
-<td colspan="2">Ермексазбен мүсіндеуге арналған жинақ</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">13</td>
-<td colspan="3">13</td>
-<td colspan="5">13</td>
-<td>13</td>
+<td>Ұлттық киімдегі қуыршақ</td>
+<td>жиынтық</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>56</td>
-<td colspan="2">Қағаз және картонмен жұмыс істеуге арналған жинақ</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">13</td>
-<td colspan="3">13</td>
-<td colspan="5">13</td>
-<td>13</td>
+<td>Маусымдық киімдегі қуыршақ</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>57</td>
-<td colspan="2">Түрлі материалдармен жұмыс істеуге арналған жинақ</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">13</td>
-<td colspan="3">13</td>
-<td colspan="5">13</td>
-<td>13</td>
+<td>Қуыршақ театрының жиынтығы</td>
+<td>жиынтық</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>58</td>
+<td>«Киіз үй және оның жабдықтары» ойын жиынтығы</td>
+<td>жиынтық</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>59</td>
+<td>Ойыншық жиһаз</td>
+<td>дана</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>60</td>
-<td colspan="2">«Қазақтың ұлттық ою-өрнегі» ( плакаттар)</td>
-<td colspan="4">жиынтық</td>
-<td colspan="2">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="18">Дамыту құралдары</td>
+<td>Ойыншық ыдыстар жиынтығы</td>
+<td>жиынтық</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>61</td>
-<td colspan="2">Дамыту ойындары</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Машина</td>
+<td>дана</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
 </tr>
 <tr>
 <td>62</td>
-<td colspan="2">Тақырыптар бойынша ойыншықтар жиыны</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Көлік жиынтығы (жеңіл, жүк, әуе, су, арнайы)</td>
+<td>жиынтық</td>
+<td></td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>63</td>
-<td colspan="2">Маркерлі-магнитті тақта</td>
-<td colspan="3">дана</td>
-<td colspan="3">25</td>
-<td colspan="3">25</td>
-<td colspan="5">25</td>
-<td>25</td>
+<td>Құммен ойнауға арналған жиынтық</td>
+<td>жиынтық</td>
+<td></td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>64</td>
-<td colspan="2">Плакаттар</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Ұсақ моториканы дамытуға арналған дидактикалық ойыншық</td>
+<td>дана</td>
+<td></td>
+<td>5</td>
+<td>10</td>
+<td>10</td>
 </tr>
 <tr>
 <td>65</td>
-<td colspan="2">Шығармашылық жұмыстарға арналған стенд</td>
-<td colspan="3">дана</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="18">«Сауат ашу» пәні</td>
+<td>Ірі моториканы дамытуға арналған дидактикалық ойыншық</td>
+<td>дана</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>66</td>
-<td colspan="2">Әлiппе – плакат</td>
-<td colspan="3">дана</td>
-<td colspan="3">1</td>
-<td colspan="3"></td>
-<td colspan="5"></td>
+<td>Ойыншық арба</td>
+<td>дана</td>
+<td>5</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>67</td>
-<td colspan="2">Әліппе – суретті әріптер жинағы</td>
-<td colspan="3">дана</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
+<td>Ойыншық (жануарлар, құстар)</td>
+<td>жиынтық</td>
+<td>3</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>68</td>
-<td colspan="2">Кеспелі әліппе</td>
-<td colspan="3">дана</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5"></td>
+<td>Туған өлке туралы иллюстрациялық альбомдар</td>
+<td>жиынтық</td>
 <td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>69</td>
-<td colspan="2">Тіл дамытуға арналған сюжетті суреттер</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3"></td>
-<td colspan="5"></td>
+<td>Тақырыптар бойынша заттық суреттер жиынтығы</td>
+<td>жиынтық</td>
 <td></td>
-</tr>
-<tr>
-<td colspan="18">«Қазақ тілі» пәні</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>70</td>
-<td colspan="2">Әлiппе – плакат</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
+<td>Сюжетті суреттер</td>
+<td>жиынтық</td>
 <td>1</td>
+<td>3</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>71</td>
-<td colspan="2">Әріптер мен буын кассасы</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="4">2</td>
-<td colspan="4"></td>
-<td></td>
+<td>Кітапшалар, ертегілер, оның ішінде сөйлейтін кітапшалар мен ертегілер (жиынтықта 15 кітаптан кем емес)</td>
+<td>жиынтық</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>72</td>
-<td colspan="2">Дауыссыз әріп кассасы</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="4">2</td>
-<td colspan="4"></td>
-<td></td>
-</tr>
-<tr>
-<td>73</td>
-<td colspan="2">Дауысты әріп кассасы</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td></td>
-</tr>
-<tr>
-<td>74</td>
-<td colspan="2">Тіл дамытуға арналған суреттер</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="4"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="18">«Русский язык» пәні</td>
-</tr>
-<tr>
-<td>75</td>
-<td colspan="2">Әріптердін баспа және жазба түрі</td>
-<td colspan="2">дана</td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
+<td>Глобус</td>
+<td>дана</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="18">Экранды-дыбыстық құралдар мен баспа құралдары</td>
+<td>73</td>
+<td>Көкөністер мен жемістердің муляждары</td>
+<td>жиынтық</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>74</td>
+<td>Фланелеграф</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="7">Танымдық және зияткерлік дағдыларды дамытуға арналған оқу және ойын материалдары</th>
+</tr>
+<tr>
+<td>75</td>
+<td>Дидактикалық ойындар (санау, түс, өлшем, геометриялық пішіндер, тірі және өлі табиғат, жыл мезгілдері, кеңістікпен уақытты бағдарлау)</td>
+<td>дана</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>76</td>
-<td colspan="2">Бейнефильмдер жиынтығы (ертегілер, мультфильмдер)</td>
-<td colspan="3">жиынтқ</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
+<td>Сенсорлық дамытуға арналған дидактикалық ойын материалдары: (визуалды, аудио, тактильді)</td>
+<td>жиынтық</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>77</td>
-<td colspan="2">Бейнефильмдер жиынтығы (көркем және деректі фильмдер)</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
-<td>1</td>
+<td>Ірі бөлшектері бар конструктор (ағаш немесе пластмасса)</td>
+<td>жиынтық</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>78</td>
-<td colspan="2">Аудиожазбалар жиынтығы (CD-дискілерде)</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
-<td>1</td>
+<td>Ағаш немесе пластмасса бөлшектері бар конструктор</td>
+<td>жиынтық</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>79</td>
-<td colspan="2">Балаларға арналған әндер жинағы (аудиодискілер)</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
+<td>Демонстрациялық геометриялық пішіндер жиынтығы</td>
+<td>жиынтық</td>
+<td></td>
+<td></td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>80</td>
-<td colspan="2">Электронды оқу басылымдары</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
-<td>1</td>
+<td>Үлестірмелі геометриялық пішіндер жиынтығы</td>
+<td>жиынтық</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>81</td>
-<td colspan="2">Демонстрациялық плакаттар</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
+<td>Жазық геометриялық пішіндр жиынтығы</td>
+<td>жиынтық</td>
+<td></td>
+<td></td>
+<td>3</td>
 <td>1</td>
 </tr>
 <tr>
 <td>82</td>
-<td colspan="2">Иллюстрациялар мен портреттер</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
-<td>1</td>
+<td>Көлемді өлшеуге арналған материалдары бар өлшейтін стақандар мен қасықтар</td>
+<td>дана</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
 </tr>
 <tr>
 <td>83</td>
-<td colspan="2">Дидактикалық материалдар</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
+<td>Әртүрлі пішінді заттар бейнеленген заттық суреттер</td>
+<td>жиынтық</td>
+<td></td>
+<td>25</td>
+<td>25</td>
 <td></td>
 </tr>
 <tr>
 <td>84</td>
-<td colspan="2">Үлестірме материалдар</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="4">1</td>
-<td colspan="4">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="18">Орыс тілді мектептегі оқу кабинеттеріне арналған</td>
+<td>Сандар кассасы</td>
+<td>дана</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td>85</td>
-<td colspan="2">«Сауат ашу» - оқу құралы</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>Санау материалы</td>
+<td>жиынтық</td>
 <td></td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td>86</td>
-<td colspan="2">Әріптер (баспа түрі)</td>
-<td colspan="3">дана</td>
-<td colspan="3">1</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>Магнитті санау жиынтығы</td>
+<td>жиынтық</td>
 <td></td>
+<td></td>
+<td></td>
+<td>4</td>
 </tr>
 <tr>
 <td>87</td>
-<td colspan="2">Әріптер (жазба түрі)</td>
-<td colspan="3">дана</td>
-<td colspan="3">1</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>1-ден 5-ке дейінгі сандары бар карточкалар жиынтығы</td>
+<td>жиынтық</td>
+<td></td>
+<td></td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
 <td>88</td>
-<td colspan="2">Кеспелі әліппе</td>
-<td colspan="3">дана</td>
-<td colspan="3">2</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>1-ден 10-ға дейінгі сандары бар карточкалар жиынтығы</td>
+<td>жиынтық</td>
 <td></td>
+<td></td>
+<td></td>
+<td>5</td>
 </tr>
 <tr>
 <td>89</td>
-<td colspan="2">Әріптер мен буын кассасы</td>
-<td colspan="3">дана</td>
-<td colspan="3">25</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>5-ке дейінгі сандары бар санамақтар</td>
+<td>дана</td>
+<td></td>
+<td></td>
+<td>25</td>
 <td></td>
 </tr>
 <tr>
 <td>90</td>
-<td colspan="2">«Дұрыс жаз, қаламды дұрыс ұста!» плакаты</td>
-<td colspan="3">дана</td>
-<td colspan="3">1</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>10-ға дейінгі сандары бар санамақтар</td>
+<td>дана</td>
 <td></td>
+<td></td>
+<td></td>
+<td>25</td>
 </tr>
 <tr>
 <td>91</td>
-<td colspan="2">«Дұрыс отыр!» плакаты</td>
-<td colspan="3">дана</td>
-<td colspan="3">1</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>Санау таяқшалары</td>
+<td>жиынтық</td>
 <td></td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td>92</td>
-<td colspan="2">Тіл дамытуға арналған суеттер</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td>Құмсағаты</td>
+<td>дана</td>
 <td></td>
-</tr>
-<tr>
-<td colspan="18">«Қазақ тілі» пәні</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>93</td>
-<td colspan="2">Әлiппе – плакат</td>
-<td colspan="3">дана</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Сандарды зерттеуге арналған ойын кілемшесі</td>
+<td>дана</td>
+<td></td>
+<td>2</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>94</td>
-<td colspan="2">Суретті әліпп</td>
-<td colspan="3">дана</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5"></td>
+<td>Циферблаты бар сағат</td>
+<td>дана</td>
 <td></td>
+<td></td>
+<td></td>
+<td>1</td>
 </tr>
 <tr>
 <td>95</td>
-<td colspan="2">Кеспелі әліппе</td>
-<td colspan="3">дана</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5"></td>
+<td>Өлшеуіш лента</td>
+<td>дана</td>
 <td></td>
+<td></td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>96</td>
-<td colspan="2">Әріптер мен буын кассасы</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5"></td>
+<td>Пазл Танграм</td>
+<td>дана</td>
 <td></td>
-</tr>
-<tr>
-<td colspan="18">«Әдебиеттік оқу» пәні</td>
+<td></td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td>97</td>
-<td colspan="2">Суреттік жоспар жасау үшін иллюстрациялық жиынтық</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Иінтіректері бар оқу таразысы</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>98</td>
-<td colspan="2">Тіл дамытуға арналған суреттер</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Электронды зияткерлік ойындар</td>
+<td>жинақ</td>
 <td></td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
 <td>99</td>
-<td colspan="2">Мәтіндерге арналған суреттер</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Шахмат</td>
+<td>жинақ</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>100</td>
-<td colspan="2">Сурет көшірмелерінің жинағы</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Дойбы</td>
+<td>жинақ</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>101</td>
-<td colspan="2">«Шығармалар жанрлары», «Халық ауыз шығармашылығы» плакаттар</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="18">«Русский язык» пәні</td>
+<td>20-25 бөлшекті пазлдар</td>
+<td>дана</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>102</td>
-<td colspan="2">Алфавит</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>100 бөлшекті пазлдар</td>
+<td>дана</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>103</td>
-<td colspan="2">Дауыссыз әріп веер-кассасы</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="3">25</td>
-<td colspan="5">2</td>
+<td>Әртүрлі тақырыптағы лото</td>
+<td>дана</td>
+<td></td>
+<td></td>
+<td>5</td>
 <td>5</td>
 </tr>
 <tr>
 <td>104</td>
-<td colspan="2">Дауысты әріп кассасы</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="3">25</td>
-<td colspan="5">25</td>
-<td>25</td>
+<td>Суретті домино</td>
+<td>дана</td>
+<td></td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>105</td>
-<td colspan="2">Бейнефильмдер (ертегілер, мультфильмдер)</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Дамытушы үстел ойындары</td>
+<td>жинақ</td>
+<td></td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>106</td>
-<td colspan="2">Аудиожазбалар (CD-дискілерде)</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Кубик Рубик</td>
+<td>дана</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>107</td>
-<td colspan="2">Балаларға арналған әндер (аудиодискілер)</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Мозаика</td>
+<td>дана</td>
+<td></td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<th colspan="7">Ұсынылатын қосымша материалдар мен жабдықтар</th>
 </tr>
 <tr>
 <td>108</td>
-<td colspan="2">Электрондық оқу басылымдары</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Интерактивті үстел</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>109</td>
-<td colspan="2">Демонстрациялық плакаттар</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Бағдарламалау дағдыларын дамытуға арналған жиынтық</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
 </tr>
 <tr>
 <td>110</td>
-<td colspan="2">Иллюстрациялар мен портреттер</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Конструкциялық элементтері, датчиктері, микробақылағышы бар жиынтық</td>
+<td>жиынтық</td>
+<td></td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
 </tr>
 <tr>
 <td>111</td>
-<td colspan="2">Дидактикалық материалдар</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Конструкциялық элементтерден, мүсіндерден, объектілерден, нұсқаулықтардан тұратын конструкциялық жиынтық</td>
+<td>жиынтық</td>
+<td></td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<th colspan="7">Шығармашылық дағдыларды, зерттеушілік әрекетті дамытуға арналған оқу және ойын материалдары</th>
 </tr>
 <tr>
 <td>112</td>
-<td colspan="2">Үлестірме материалдар</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="18">Ұйғыр, өзбек, тәжік тілді мектептердегі оқу кабинеттері үшін</td>
-</tr>
-<tr>
-<td colspan="18">«Сауат ашу» пәні</td>
+<td>Әртүрлі сылдырмақтар</td>
+<td>дана</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>113</td>
-<td colspan="2">Алфавит (ана тілде)</td>
-<td colspan="3">дана</td>
-<td colspan="4">1</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td></td>
+<td>Музыкалық ойыншықтар</td>
+<td>жиынтық</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
 <td>114</td>
-<td colspan="2">Кеспелі әліппе (ана тілде)</td>
-<td colspan="3">дана</td>
-<td colspan="4">25</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td></td>
+<td>Балалардың дыбыстық музыкалық аспаптары</td>
+<td>жиынтық</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
 <td>115</td>
-<td colspan="2">Әріптер мен буын к ассасы (ана тілде)</td>
-<td colspan="3">дана</td>
-<td colspan="4">2</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
+<td>Қоңыраулар</td>
+<td>дана</td>
 <td></td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
 </tr>
 <tr>
 <td>116</td>
-<td colspan="2">Әріптер жиынтығы (ана тілде)</td>
-<td colspan="3">дана</td>
-<td colspan="4">25</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
+<td>Қалпақтар</td>
+<td>дана</td>
 <td></td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>117</td>
-<td colspan="2">Буын жиынтығы (ана тілде)</td>
-<td colspan="3">дана</td>
-<td colspan="4">25</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
+<td>Сөмкелер</td>
+<td>дана</td>
 <td></td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>118</td>
-<td colspan="2">Тіл дамытуға арналған суреттер</td>
-<td colspan="3">жиынтық</td>
-<td colspan="4">1</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
+<td>Әртүрі мамандыққа арналған балалар киімдері</td>
+<td>дана</td>
 <td></td>
-</tr>
-<tr>
-<td colspan="18">«Ана тілі» (өзбек, ұйғыр, тәжік тілдері)</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>119</td>
-<td colspan="2">Алфавит (ана тілде)</td>
-<td colspan="3">дана</td>
-<td colspan="4"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Марионетка қуыршақтар</td>
+<td>жиынтық</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
 <td>120</td>
-<td colspan="2">Плакаттар мен көрнекі құралдар</td>
-<td colspan="3">жиынтық</td>
-<td colspan="4"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
+<td>Саусақ театрына арналған қуыршақтар</td>
+<td>жиынтық</td>
+<td></td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>121</td>
-<td colspan="2">Ана тіліне арналған орфографиялық сөздік</td>
-<td colspan="3">дана</td>
-<td colspan="4"></td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
+<td>Көлеңке театрына арналған ширма</td>
+<td>дана</td>
+<td></td>
 <td>1</td>
-</tr>
-<tr>
-<td colspan="18">«Қазақ тілі» пәні</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>122</td>
-<td colspan="2">Әлiппе – плакат</td>
-<td colspan="3">дана</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Бейнелеу өнеріне арналған материалдар мен құралдар: қарандаштар (қарапайым, түрлі түсті), бор, фломастерлер, бояулар, гуашь, қылқалам, сызғыш, сорғыш қағаз сүлгілер, пластмасса стақандары</td>
+<td>жиынтық</td>
+<td>20</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td>123</td>
-<td colspan="2">Суретті әліппе</td>
-<td colspan="3">дана</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
-<td colspan="5"></td>
+<td>Бұйымдар жасауға арналған матриалдар мен құралдар: ермексаз, қамыр, саз, ағаш, желім</td>
+<td>жиынтық</td>
 <td></td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td>124</td>
-<td colspan="2">Кеспелі әліппе</td>
-<td colspan="3">дана</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
-<td colspan="5"></td>
+<td>Фигуралы үлкен трафареттер</td>
+<td>жиынтық</td>
 <td></td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>125</td>
-<td colspan="2">Қазақ тілінің әріптері мен буын кассасы</td>
-<td colspan="3">жиынтық</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
-<td colspan="5"></td>
+<td>Боямақтар</td>
+<td>дана</td>
 <td></td>
-</tr>
-<tr>
-<td colspan="18">«Әдебиеттік оқу» пәні</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td>126</td>
-<td colspan="2">Суреттік жоспар жасау үшін иллюстрациялық жиынтық</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Жапсыруға арналған материалдар мен құралдар: түрлі-түсті қағаз, түрлі-түсті және ақ картон, мата, желім, қайшы, скотч</td>
+<td>жиынтық</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td>127</td>
-<td colspan="2">Тіл дамытуға арналған суреттер</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Зерттеу, зерделеу және бұйымдар жасауға арналған әртүрлі табиғи материалдар</td>
+<td>жиынтық</td>
 <td></td>
+<td>2</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>128</td>
-<td colspan="2">Мәтіндерге арналған суреттер</td>
-<td colspan="3">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Балаларға арналған мольберт</td>
+<td>дана</td>
 <td>1</td>
-</tr>
-<tr>
-<td colspan="18">«Русский язык» пәні</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>129</td>
-<td colspan="2">Алфавит</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5">1</td>
+<td>Матадан және клеенкадан жасалған алжапқыштар</td>
+<td>дана</td>
 <td></td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
 <td>130</td>
-<td colspan="2">Дауыссыз әріп кассасы</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
-<td>25</td>
+<td>Тазалауға арналған мүкәммалдар (леген, шүберектер, щеткалар)</td>
+<td>жиынтық</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>131</td>
-<td colspan="2">Дауысты әріп кассасы</td>
-<td colspan="3">дана</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="18">«Ағылшын тілі» пәні</td>
+<td>Ауыл шаруашылығы және тұрмыстық еңбектің фото және суреттері бар альбомдар</td>
+<td>жиынтық</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>132</td>
-<td colspan="3">Транскрипциясы бар суретті алфавит (кесте)</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Ойыншықтар-құралдар</td>
+<td>жиынтық</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>133</td>
-<td colspan="3">Афавит</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Өсімдіктерге күтім жасауға арналған құралдар жиынтығы</td>
+<td>жиынтық</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
 <td>134</td>
-<td colspan="3">Әріптер кассасы</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5"></td>
+<td>Бөлме өсімдіктері</td>
+<td>дана</td>
 <td></td>
+<td>6</td>
+<td>6</td>
+<td>8</td>
 </tr>
 <tr>
 <td>135</td>
-<td colspan="3">Грамматикалық плакаттар</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Сөре</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>136</td>
-<td colspan="3">Сөздіктер</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Тәжірибелерге арналған жиынтық</td>
+<td>жиынтық</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
 <td>137</td>
-<td colspan="3">Альбомдар</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Табиғат күнтізбесі</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>138</td>
-<td colspan="3">Оқуға арналған әдебиет</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Табиғат туралы кітаптар (соның ішінде сөйлейтін кітаптар)</td>
+<td>дана</td>
+<td></td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
 </tr>
 <tr>
 <td>139</td>
-<td colspan="3">CD/DVD- дискілердегі бейнефильмдер (мультфильмдер, ертегілер)</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>«Дыбыс», «су және ауа», «жылу» тақырыптары бойынша эксперименттерге арналған жабдықтар</td>
+<td>жиынтық</td>
+<td></td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>140</td>
-<td colspan="3">Дискідегі бейнефильмдер жинағы</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Лупа</td>
+<td>дана</td>
+<td></td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>141</td>
-<td colspan="3">Аудиожазбалар жиынтығы (CD-дискілер)</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Оқу микроскопы</td>
+<td>дана</td>
+<td></td>
+<td></td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>142</td>
-<td colspan="3">Балаларға арналған әндер жинағы (аудиодискілер)</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Пайдалы қазбалар жиынтығы</td>
+<td>жиынтық</td>
+<td></td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
 <td>143</td>
-<td colspan="3">Электрондық плакаттар жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Өсімдіктер гербарийлерінің жиынтығы</td>
+<td>жиынтық</td>
 <td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>144</td>
-<td colspan="3">Электрондық оқу басылымдары</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
+<td>Жануарлар, өсімдіктер, жәндіктер туралы балалар энциклопедиялары</td>
+<td>дана</td>
+<td></td>
 <td>1</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="7">Ұсынылатын қосымша жабдықтар</th>
 </tr>
 <tr>
 <td>145</td>
-<td colspan="3">Демонстрациялық плкаттар</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Ойыналаңы, бағдарламаланатын робот- ойыншық, тапсырмалары бар кәртішкелер және әдістемелік құрал бар алгоритмдермен кодтау дағдыларын дамытуға арналған жиынтық</td>
+<td>жиынтық</td>
+<td></td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
 </tr>
 <tr>
 <td>146</td>
-<td colspan="3">Иллюстрациялар мен портреттер</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Мектеп жасына дейінгі балаларға арналған конструкциялық элементтері, сездіргілері, микроконтроллері және әдістемелік құралы бар робототехникалық жиынтық</td>
+<td>жиынтық</td>
+<td></td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
 </tr>
 <tr>
 <td>147</td>
-<td colspan="3">Дидактикалық материалдар жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="3">1</td>
-<td colspan="5">1</td>
-<td>1</td>
+<td>Конструкциялық элементтерден, мүсіндерден, объектілерден, технологиялық карталардан және әдістемелік құралдан тұратын конструкторлық жиынтық</td>
+<td>жиынтық</td>
+<td></td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<th colspan="7">Қимыл дағдыларын дамыту мен сауықтыруға арналған оқу және ойын материалдары</th>
 </tr>
 <tr>
 <td>148</td>
-<td colspan="3">Үлестірме материалдар</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5">1</td>
+<td>Ұлттық ойындарға арналған жабдықтар мен құрал-саймандар</td>
+<td>жиынтық</td>
+<td></td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="18">Мектепке дейінгі ұйымдардың кабинеттеріне жабдықтар және жиһаз</td>
-</tr>
-<tr>
 <td>149</td>
-<td colspan="7">Аудиториялық қабырға тақтасы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Қимылды ойындарға арналған жабдықтар мен құрал-саймандар</td>
+<td>жиынтық</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>150</td>
-<td colspan="7">Компьютерге арналған үстел</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Майтабандылықтың алдын алуға және сымбатты қалыптастыруға арналған жабдық</td>
+<td>жиынтық</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>151</td>
-<td colspan="7">Орындықтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Спорт туралы альбомы</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>152</td>
-<td colspan="7">Бір орынды оқушы үстелі</td>
-<td colspan="6">дана</td>
-<td colspan="4">25</td>
+<td>Дұрыс тамақтану туралы альбомы</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>153</td>
-<td colspan="7">Оқушы орындықтары</td>
-<td colspan="6">дана</td>
-<td colspan="4">25</td>
+<td>Салауатты өмір салтын насихаттау альбомы</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>154</td>
-<td colspan="7">Құралдар мен кітаптарға арналған шкафтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Доптарға арналған себет</td>
+<td>дана</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>155</td>
-<td colspan="7">Плакаттарға арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Лақтыруға арналған қалталар</td>
+<td>дана</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
 </tr>
 <tr>
 <td>156</td>
-<td colspan="7">Ойыншықтар мен құралдарды сақтайтын жүйе</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>157</td>
-<td colspan="7">Теледидардың астына қоятын жиһаз</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>158</td>
-<td colspan="7">Дербес компьютер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>159</td>
-<td colspan="7">Интерактивтік тақта</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>160</td>
-<td colspan="7">Теледидар</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>161</td>
-<td colspan="7">Музыкалық центр</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Тіл дамытуға және сауат ашуға дайындауға арналған құралдар</td>
-</tr>
-<tr>
-<td>162</td>
-<td colspan="7">Әлiппе - плакат</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>163</td>
-<td colspan="7">Алфавит (орыс тілде)</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>164</td>
-<td colspan="7">Ағылшын тілінен суретті әліппе</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>165</td>
-<td colspan="7">Тіл дамытуға арналған суреттер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>166</td>
-<td colspan="7">Сөздік</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>167</td>
-<td colspan="7">Қазақ-орыс сөздігі</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>168</td>
-<td colspan="7">Ертегілер жинағы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>169</td>
-<td colspan="7">Өлеңдер жинағы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>170</td>
-<td colspan="7">Дискілердегі бейнефильмдер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>171</td>
-<td colspan="7">Электрондық оқу басылымдары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>172</td>
-<td colspan="7">Демонстрациялық плакаттар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>173</td>
-<td colspan="7">Иллюстрациялар мен портреттер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Шығармашылық қабілетін дамытуға арналған құралдар</td>
-</tr>
-<tr>
-<td>174</td>
-<td colspan="7">Иллюстрациялар мен портреттер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>175</td>
-<td colspan="7">Шығармашылық бейнелеу</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">13</td>
-</tr>
-<tr>
-<td>176</td>
-<td colspan="7">Мольберт</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>177</td>
-<td colspan="7">Қуыршақ театрына арналған жиынтық</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>178</td>
-<td colspan="7">Ұлттық киімді қуыршақтар жиынтығы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>179</td>
-<td colspan="7">Демонстрацияық плакаттар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>180</td>
-<td colspan="7">Үлестірме материалдар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>181</td>
-<td colspan="7">Электрондық оқу басылымдары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td>182</td>
-<td colspan="7">Сызу жабдықтары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>183</td>
-<td colspan="7">Демонстрациялық есепшот</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>184</td>
-<td colspan="7">Көлемді геометриялық пішіндер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>185</td>
-<td colspan="7">Демонстрациялық сағат моделі</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>186</td>
-<td colspan="7">Магнитті бекіткіштері бар сандар жиынтығы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>187</td>
-<td colspan="7">Есептеуге арналған материалдар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>188</td>
-<td colspan="7">Әртүрлі формадағы бейнеленген заттардың суреттері</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">15</td>
-</tr>
-<tr>
-<td>189</td>
-<td colspan="7">1 ден 10-ға дейінгі сандары бар карточкалар жинағы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>190</td>
-<td colspan="7">Демонстрациялық плакаттар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>191</td>
-<td colspan="7">Үлестірме материалдар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>192</td>
-<td colspan="7">Электрондық оқу басылымдары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Көркем еңбек</td>
-</tr>
-<tr>
-<td>193</td>
-<td colspan="7">Материалдарды өңдеуге арналған құралдары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>194</td>
-<td colspan="7">Көркем еңбекке арналған жиынтық</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>195</td>
-<td colspan="7">Модульді ағаш өңдеу станогы</td>
-<td colspan="6">дана</td>
-<td colspan="4">3</td>
-</tr>
-<tr>
-<td>196</td>
-<td colspan="7">Демонстрациялық плакаттар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>197</td>
-<td colspan="7">Иллюстрациялар мен портреттер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>198</td>
-<td colspan="7">Үлестірме материалдар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>199</td>
-<td colspan="7">Электрондық оқу басылымдары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>200</td>
-<td colspan="7">Түрлі-түсті жалауша</td>
-<td colspan="6">дана</td>
-<td colspan="4">60</td>
-</tr>
-<tr>
-<td>201</td>
-<td colspan="7">Түлі-түсті ұзын ленталар</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td>202</td>
-<td colspan="7">Түрлі-түсті қысқа ленталар</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>203</td>
-<td colspan="7">Қысқа гинастикалық тақ</td>
-<td colspan="6">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>204</td>
-<td colspan="7">Эстафета таяқшасы</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>205</td>
-<td colspan="7">Секіргіш жіптер (скакалка)</td>
-<td colspan="6">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>206</td>
-<td colspan="7">Қысқа бау</td>
-<td colspan="6">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>207</td>
-<td colspan="7">Лақтыруға арналған доптар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td>208</td>
-<td colspan="7">Лақтыруға арналған қапшықтар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td colspan="18">Музыка</td>
-</tr>
-<tr>
-<td>209</td>
-<td colspan="7">Музыкалық аспаптар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">10</td>
-</tr>
-<tr>
-<td>210</td>
-<td colspan="7">Музыкалық ойыншықтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">10</td>
-</tr>
-<tr>
-<td>211</td>
-<td colspan="7">Ұлттық музыкалық аспаптар</td>
-<td colspan="6">дана</td>
-<td colspan="4">3</td>
-</tr>
-<tr>
-<td>212</td>
-<td colspan="7">Балаларға арналған әндер жинағы (аудиодискілер)</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>213</td>
-<td colspan="7">Электрондық оқу басылымдары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>214</td>
-<td colspan="7">Демонстрациялық плакаттар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>215</td>
-<td colspan="7">Иллюстрациялар мен портреттер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>216</td>
-<td colspan="7">Үлестірме материалдар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>217</td>
-<td colspan="7">Мозаика</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>218</td>
-<td colspan="7">Құрылысқа арналған жиынтық</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td>219</td>
-<td colspan="7">Конструкторлар</td>
-<td colspan="6">дана</td>
-<td colspan="4">10</td>
-</tr>
-<tr>
-<td>220</td>
-<td colspan="7">Әртүрлі лото</td>
-<td colspan="6">дана</td>
-<td colspan="4">10</td>
-</tr>
-<tr>
-<td>221</td>
-<td colspan="7">Дойбы</td>
-<td colspan="6">дана</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td>222</td>
-<td colspan="7">Шахмат</td>
-<td colspan="6">дана</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td>223</td>
-<td colspan="7">Балаларға арналған суретті домино</td>
-<td colspan="6">дана</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td>224</td>
-<td colspan="7">Пазлы</td>
-<td colspan="6">дана</td>
-<td colspan="4">10</td>
-</tr>
-<tr>
-<td>225</td>
-<td colspan="7">Әр-түрлі тақырыптағы ойындар жиынтығы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">10</td>
-</tr>
-<tr>
-<td>226</td>
-<td colspan="7">Дидактикалық ойыншықтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">10</td>
-</tr>
-<tr>
-<td>227</td>
-<td colspan="7">Көлік ойыншықтары</td>
-<td colspan="6">дана</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td>228</td>
-<td colspan="7">Жануарлар бейнесіндегі ойыншықтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>229</td>
-<td colspan="7">Қуыршақтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td>230</td>
-<td colspan="7">Көкөністер мен жемістер муляждары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>231</td>
-<td colspan="7">Азық-түлік муляждары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>232</td>
-<td colspan="7">Медициналық дәрі қорабы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>233</td>
-<td colspan="7">Табиғат бұрышы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>234</td>
-<td colspan="7">Қабырғаға ілетін плакаттар</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Оқу кабинеттеріне арналған жабдықтар және жиһаз</td>
-</tr>
-<tr>
-<td>235</td>
-<td colspan="7">Аудиториялық қабырға тақтасы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>236</td>
-<td colspan="7">Қабырғаға ілетін тақта</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>237</td>
-<td colspan="7">Компьютерге арналған жанама құрылғысы бар жазу үстелі</td>
-<td colspan="6">дана</td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td>238</td>
-<td colspan="7">Оқытушының орындығы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>239</td>
-<td colspan="7">Бір орынды оқушы үстелі</td>
-<td colspan="6">дана</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td>240</td>
-<td colspan="7">Оқушы орындығы</td>
-<td colspan="6">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>241</td>
-<td colspan="7">Шкафтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>242</td>
-<td colspan="7">Плакаттарға арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>243</td>
-<td colspan="7">Ойыншықтар мен құралдарды сақтайтын жүйе</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>244</td>
-<td colspan="7">Теледидардың астына қоятын жиһаз</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>245</td>
-<td colspan="7">Дербес компьютер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>246</td>
-<td colspan="7">Интерактивті тақта немесе экран</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>247</td>
-<td colspan="7">Теледидар</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>248</td>
-<td colspan="7">Музыкалық центр</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Әкімшілікке арналған жабдықтар және жиһаз</td>
-</tr>
-<tr>
-<td colspan="18">Директордың кабинеті</td>
-</tr>
-<tr>
-<td>249</td>
-<td colspan="7">Басшының үстелі</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>250</td>
-<td colspan="7">Басшының креслосы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>251</td>
-<td colspan="7">Жартылай жұмсақ орындықтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">3</td>
-</tr>
-<tr>
-<td>252</td>
-<td colspan="7">Кабинетке арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>253</td>
-<td colspan="7">Телефон</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>254</td>
-<td colspan="7">Дербес компьютер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Қабылдау бөлмесі</td>
-</tr>
-<tr>
-<td>255</td>
-<td colspan="7">Кабинетке арналған үстел</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>256</td>
-<td colspan="7">Жартылай жұмсақ орындықтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>257</td>
-<td colspan="7">Кабинетке арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>258</td>
-<td colspan="7">Телефон</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>259</td>
-<td colspan="7">Дербес кмпьютер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Әдістемелік кабинет</td>
-</tr>
-<tr>
-<td>260</td>
-<td colspan="7">Кабинетке арналған үстел</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>261</td>
-<td colspan="7">Жартылай жұмсақ орындықтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">4</td>
-</tr>
-<tr>
-<td>262</td>
-<td colspan="7">Кабинетке арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>263</td>
-<td colspan="7">Дербес комьютер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>264</td>
-<td colspan="7">Электрондық оқу басылымдары</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Оқу-тәрбие жөніндегі директор орынбасарының кабинеті</td>
-</tr>
-<tr>
-<td>265</td>
-<td colspan="7">Үстел</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>266</td>
-<td colspan="7">Жартылай жұмсақ орындықтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">4</td>
-</tr>
-<tr>
-<td>267</td>
-<td colspan="7">Кабинетке арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>268</td>
-<td colspan="7">Телефон</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>269</td>
-<td colspan="7">Дербес компьютер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Шаруашылық істері жөніндегі директор орынбасарының кабинеті</td>
-</tr>
-<tr>
-<td>270</td>
-<td colspan="7">Бір тумбалы үстел</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>271</td>
-<td colspan="7">Жартылай жұмсақ орындықтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>272</td>
-<td colspan="7">Шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>273</td>
-<td colspan="7">Телефон</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Бухгалтерия</td>
-</tr>
-<tr>
-<td>274</td>
-<td colspan="7">Үстел</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>275</td>
-<td colspan="7">Орындық</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>276</td>
-<td colspan="7">Шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>277</td>
-<td colspan="7">Телефон</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>278</td>
-<td colspan="7">Өртке төзімді сейф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td>279</td>
-<td colspan="7">Дербес компьютер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="18">Кітапхана</td>
-</tr>
-<tr>
-<td colspan="2">280</td>
-<td colspan="6">Кітапханашыға арналған жиһаз комплекті</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">293</td>
-<td colspan="6">Оқырман формулярларына арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">294</td>
-<td colspan="6">Картотекаға арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">295</td>
-<td colspan="6">Кітапханалық сөрелер</td>
-<td colspan="6">дана</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td colspan="2">296</td>
-<td colspan="6">Орындықтары бар оқушы үстелдері</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td colspan="2">297</td>
-<td colspan="6">Жартылай жұмсақ орындықтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">6</td>
-</tr>
-<tr>
-<td colspan="2">298</td>
-<td colspan="6">Дербес компьютер</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">299</td>
-<td colspan="6">Түптеуге арналған жабдық</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">300</td>
-<td colspan="6">Кітап түптеу және жөндеу үшін жұмыстарына арналған материалдар мен құрал-жабдықтар</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">301</td>
-<td colspan="6">Кітап қоры: оқу құралдары, анықтамалық, көркем әдебиеттер мен басылымдар, аудио-видеотека</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="18">Акт залы</td>
-</tr>
-<tr>
-<td colspan="2">302</td>
-<td colspan="6">Акт залдарына арналған кресло</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">303</td>
-<td colspan="6">Мінбе</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">304</td>
-<td colspan="6">Сахнаға және радиорубкаға арналған жиhаз</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">305</td>
-<td colspan="6">Төралқа үстелі</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">306</td>
-<td colspan="6">Төралқа орындығы немесе креслосы</td>
-<td colspan="6">дана</td>
-<td colspan="4">4</td>
-</tr>
-<tr>
-<td colspan="2">307</td>
-<td colspan="6">Ноутбук</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">308</td>
-<td colspan="6">Акты залына арналған проектор</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">309</td>
-<td colspan="6">Проекторға арналған үстел немесе бекіткіш</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">310</td>
-<td colspan="6">Проекциялық үлкен экран</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">311</td>
-<td colspan="6">Дыбыс колонкасы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">312</td>
-<td colspan="6">Сымсыз микрофон</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td colspan="2">313</td>
-<td colspan="6">Сым тартылған микрофон</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">314</td>
-<td colspan="6">Микрофонға арналған ірек</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td colspan="2">315</td>
-<td colspan="6">Микшер пульты</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">316</td>
-<td colspan="6">Синтезатор</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">317</td>
-<td colspan="6">Дыбыс қуатын күшейткіш</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">318</td>
-<td colspan="6">Музыкалық центр</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Ақпараттық-білім беру саласының (АБС) желілік инфрақұрылымы</td>
-</tr>
-<tr>
-<td colspan="2">319</td>
-<td colspan="6">Сервер</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">320</td>
-<td colspan="6">Монитор</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">321</td>
-<td colspan="6">Үздіксіз қорек блогы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">322</td>
-<td colspan="6">Желілік фильтр</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td colspan="2">323</td>
-<td colspan="6">Қолжетімділік коммутатор</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">324</td>
-<td colspan="6">Коммутациялық шкаф</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">325</td>
-<td colspan="6">Үстел</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">326</td>
-<td colspan="6">Кресло</td>
-<td colspan="6">дана</td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="2">327</td>
-<td colspan="6">Медициналық дәрі қорабы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Ақпараттық-білім беру саласының (АБС) желілік инфрақұрылымының оқу кабинеттеріне арналған жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">328</td>
-<td colspan="6">Маркерлік қабырға тақтасы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">329</td>
-<td colspan="6">Компьютерге арналған үстел</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">330</td>
-<td colspan="6">Кресло</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">330-1</td>
-<td colspan="6">Ноутбук</td>
-<td colspan="6">Дана</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td colspan="2">330-2</td>
-<td colspan="6">Конструкциялық элементтер, микроконтроллер, моторлар, датчиктер, қосымша бөлшектер, зарядтаушы құрылғы және әдістемелік құралдан тұратын робототехникалық жинақ</td>
-<td colspan="6">Жинақ</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td colspan="2">330-3</td>
-<td colspan="6">Конструкциялық элементтер, микроконтроллер, картридерлер, датчиктер және әдістемелік оқулықтан тұратын робототехникалық жинақ</td>
-<td colspan="6">Жинақ</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td colspan="2">330-4</td>
-<td colspan="6">Бағдарламалайтын контроллер, радиомодуль, қашықтықтан басқару пульті, датчиктер, конструкциялық және электр элементтерінен және әдістемелік оқулықтан тұратын жаттығулар мен жарыстарға арналған робототехникалық жинақ</td>
-<td colspan="6">Жинақ</td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="2">330-5</td>
-<td colspan="6">Ойын алаңы, бағдарламалайтын ойыншық-робот, тапсырмалары бар карточкалары және әдістемелік оқулықтан тұратын бағдарламалау дағдыларын дамытуға арналған старттық жинақ</td>
-<td colspan="6">Жинақ</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="2">330-6</td>
-<td colspan="6">Пластик жинағы мен әдістемелік құралы бар 3D қалам</td>
-<td colspan="6">Дана</td>
-<td colspan="4">5</td>
-</tr>
-<tr>
-<td colspan="2">330-7</td>
-<td colspan="6">Конструкциялық элементтер, фигуралар мен объектілер, технологиялық карталар және әдістемелік оқулықтан тұратын механизмдер жұмысының прициптерін, механика негіздерін үйренуге арналған конструкциялық жинақ</td>
-<td colspan="6">Жинақ</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">330-8</td>
-<td colspan="6">Конструкциялық элементтер, объектілер, аспаптар, технологиялық карталар мен әдістемелік оқулықтан тұратын инженерлік ғылымдар, қалпына келтірілетін энергия көздері, пневматика негіздерін үйренуге арналған конструкторлық жинақ</td>
-<td colspan="6">Жинақ</td>
-<td></td>
-<td colspan="2">2</td>
+<td>Резеңке доп (әр түрлі диаметрлі)</td>
+<td>дана</td>
+<td>6</td>
+<td>3</td>
+<td>3</td>
 <td>3</td>
 </tr>
 <tr>
-<td colspan="2">331</td>
-<td colspan="6">Оқушының компьютер үстелі</td>
-<td colspan="6">дана</td>
-<td colspan="4">14</td>
+<td>157</td>
+<td>Диаметрі 500-600 миллиметр балалар шеңбері</td>
+<td>дана</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
-<td colspan="2">332</td>
-<td colspan="6">Екі орынды оқушы үстелі</td>
-<td colspan="6">дана</td>
-<td colspan="4">7</td>
+<td>158</td>
+<td>Гимнастикалық таяқ</td>
+<td>дана</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">333</td>
-<td colspan="6">Оқушы орындығы</td>
-<td colspan="6">дана</td>
-<td colspan="4">28</td>
+<td>159</td>
+<td>Кеглдер жиынтығы</td>
+<td>жинақ</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
-<td colspan="2">334</td>
-<td colspan="6">Шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>160</td>
+<td>Массаж жолы</td>
+<td>дана</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
-<td colspan="2">335</td>
-<td colspan="6">Жүйелі блок</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<th colspan="7">Әлеуметтік дағдыларды қалыптастыруға, командалық жұмыс дағдыларын дамытуға арналған оқу және ойын материалдары</th>
 </tr>
 <tr>
-<td colspan="2">336</td>
-<td colspan="6">Оқушыға арналған жүйелі блок</td>
-<td colspan="6">дана</td>
-<td colspan="4">14</td>
+<td>161</td>
+<td>Отбасылық генеалогиялық бәйтерек жасауға арналған панель</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">337</td>
-<td colspan="6">Монитор</td>
-<td colspan="6">дана</td>
-<td colspan="4">15</td>
+<td>162</td>
+<td>Сюжеттік-рөлдік ойын</td>
+<td>жинақ</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
 </tr>
 <tr>
-<td colspan="2">338</td>
-<td colspan="6">Web-камера</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>163</td>
+<td>Тақырыптық альбомдар</td>
+<td>жинақ</td>
+<td></td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
 </tr>
 <tr>
-<td colspan="2">339</td>
-<td colspan="6">Қабырғалық акустикалық жүй</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>164</td>
+<td>Бөбек-кітапшалар</td>
+<td>дана</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">340</td>
-<td colspan="6">Микрофон-телефоны бар гарнитура</td>
-<td colspan="6">дана</td>
-<td colspan="4">15</td>
+<th colspan="7">Топтық бөлмеге арналған жабдықпен жиһаз</th>
 </tr>
 <tr>
-<td colspan="2">341</td>
-<td colspan="6">Көпфункциялық құрылғы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>165</td>
+<td>Жазу үстелі</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">342</td>
-<td colspan="6">Желілік коммутатор</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>166</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">343</td>
-<td colspan="6">Желілік фильтр</td>
-<td colspan="6">дана</td>
-<td colspan="4">16</td>
+<td>167</td>
+<td>Кітап сөресі</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">344</td>
-<td colspan="6">Проектор</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>168</td>
+<td>2-4 орындық балаларға арналған үстелдер (мектепке дейінгі ұйым әкімшілігінің қалауы бойынша, отыратын орындардың жалпы саны 20 және 25)</td>
+<td>дана</td>
+<td>10-5</td>
+<td>12-6</td>
+<td>12-6</td>
+<td>12-6</td>
 </tr>
 <tr>
-<td colspan="2">345</td>
-<td colspan="6">Проекторға арналған бекіткіш (төбеге бекітетін құралымен бірге)</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>169</td>
+<td>Балалар орындығы</td>
+<td>дана</td>
+<td>20</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="2">346</td>
-<td colspan="6">Интерактивті тақта</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>170</td>
+<td>Ойыншықтарды орналастыруға арналған шкафтар, қабырғалар, сөрелер, жәшіктер-қажеттілігіне қарай</td>
+<td>дана</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
 </tr>
 <tr>
-<td colspan="2">347</td>
-<td colspan="6">АКТ-ға арналған басылымдар жинағы</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">1</td>
+<td>171</td>
+<td>Маркерлік тақта</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">348</td>
-<td colspan="6">Электронды плакаттардың жинағы</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">1</td>
+<td>172</td>
+<td>Хабарландыру тақтасы</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">349</td>
-<td colspan="6">АКТ-ға арналған әдестемелік және анықтамалық әдебиет</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">1</td>
+<td>173</td>
+<td>Жұмсақ ойын және дамыту модульдері</td>
+<td>дана</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">350</td>
-<td colspan="6">Демонстрациялық тақта/ст</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>174</td>
+<td>Балалар жұмыстарына арналған Стенд</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">351</td>
-<td colspan="6">Дәрі қорабы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>175</td>
+<td>Мольберт</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">352</td>
-<td colspan="6">Электрмен жабдықтау қалқаны</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>176</td>
+<td>Материалдарды сақтауға арналған мөлдір контейнерлер</td>
+<td>дана</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
-<td colspan="18">Лингафон кабинеті</td>
+<th colspan="7">Топтық бөлме үшін ұсынылатын жабдық</th>
 </tr>
 <tr>
-<td colspan="2">353</td>
-<td colspan="6">Маркер тақтасы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>177</td>
+<td>Микрофон-телефон гарнитурасы және web-камерасыбар жиынтықта Интернетке қол жеткізу мүмкіндігі бар дербес компьютер</td>
+<td>жинақ</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">354</td>
-<td colspan="6">Оқытушының үстелі</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>178</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">355</td>
-<td colspan="6">Кресло</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>179</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">356</td>
-<td colspan="6">Оқушының үстелі (полукабина)</td>
-<td colspan="6">дана</td>
-<td colspan="4">14</td>
+<td>180</td>
+<td>Шарлармен құрғақ бассейн</td>
+<td>дана</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">35</td>
-<td colspan="6">Оқушының орындығы</td>
-<td colspan="6">дана</td>
-<td colspan="4">14</td>
+<th colspan="7">Топтық бөлме үшін қосымша жабдықпен жиһаз</th>
 </tr>
 <tr>
-<td colspan="2">358</td>
-<td colspan="6">Көрнекі құралдарға арналған шкафтар</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>181</td>
+<td>Ыдысқа арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
 </tr>
 <tr>
-<td colspan="2">359</td>
-<td colspan="6">Лингафондық жабдық</td>
-<td colspan="6">дана</td>
-<td colspan="4"></td>
+<td>182</td>
+<td>Жуғыш заттарға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">360</td>
-<td colspan="6">Оқытушының пульті</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>183</td>
+<td>Тазалау құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">361</td>
-<td colspan="6">Кабинеттің блок-таратушысы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>184</td>
+<td>Бір секциялы/екі секциялы балалардын киіміне арналған шкаф</td>
+<td>дана</td>
+<td>20/10</td>
+<td>25/13</td>
+<td>25/13</td>
+<td>25/13</td>
 </tr>
 <tr>
-<td colspan="2">362</td>
-<td colspan="6">Оқушының басқару блогы</td>
-<td colspan="6">дана</td>
-<td colspan="4">14</td>
+<td>185</td>
+<td>Арнайы киімдерге арналған ілгіш</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">363</td>
-<td colspan="6">Микрофон-телефоны бар гарнитура</td>
-<td colspan="6">дана</td>
-<td colspan="4">15</td>
+<td>186</td>
+<td>Орамалға арналған ілгіш</td>
+<td>дана</td>
+<td>20</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="2">364</td>
-<td colspan="6">МР-3 плеер</td>
-<td colspan="6"></td>
-<td colspan="4">2</td>
+<td>187</td>
+<td>Төсек-жабдық салатын тумба</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">365</td>
-<td colspan="6">Плакаттар және қабырға стенділер жиынтығы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
+<td>188</td>
+<td>Жақтаудағы айна</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">366</td>
-<td colspan="6">Желілік фильтр</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>189</td>
+<td>Шаңсорғыш</td>
+<td>дана</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="18">Мультимедиялық лингафон кабинетіне арналған құрал-жабдықтардың тізімі</td>
+<td>190</td>
+<td>Кезекшілерге арналған алжапқыш</td>
+<td>дана</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>191</td>
+<td>Бір орындық/ екі қабатты/ үш қабатты жылжы малыкереует</td>
+<td>жатын орын</td>
+<td>20</td>
+<td>25/13/8</td>
+<td>25/13/8</td>
+<td>25/13/8</td>
+</tr>
+<tr>
+<td>192</td>
+<td>Балалар орындығы</td>
+<td>дана</td>
+<td>4</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td>193</td>
+<td>Гигрометр</td>
+<td>дана</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>№</th>
+<th>Атауы</th>
+<th>Өлшем бірлігі</th>
+<th>Саны</th>
+</tr>
+<tr>
+<th colspan="4">Қазақ тілі кабинетіне арналған жабдықпен жиһаз</th>
+</tr>
+<tr>
+<td>194</td>
+<td>Компьютерге арналған жалғамасы бар педагог үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>195</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>196</td>
+<td>Көрнекі- оқу құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>197</td>
+<td>Маркерлік тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>198</td>
+<td>Сабаққа арналған балалар жиһазының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>199</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>200</td>
+<td>Көп функционалды құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>201</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>202</td>
+<td>Акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>203</td>
+<td>Мектепке дейінгі балаларға арналған хрестоматия</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>204</td>
+<td>Оқу-әдістемелік кешен</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>205</td>
+<td>Қазақ халқының тұрмыстық заттары</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>206</td>
+<td>USB-шығысы бар немесе интернетке қосылған теледидар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>207</td>
+<td>Сюжеттік суреттер</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>208</td>
+<td>Қазақстан Республикасының рәміздері бейнеленген плакат (лицензиялық)</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>209</td>
+<td>Тақырыптық суреттер</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Дене шынықтыру залы</th>
+</tr>
+<tr>
+<td>210</td>
+<td>Едендегі гимнастикалық ағаш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>211</td>
+<td>Гимнастикалық ағаш қабырға</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>212</td>
+<td>Гимнастикаға арналған кедір тақта</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>213</td>
+<td>Түрлі биіктікте еңбектеуге арналған доғалар</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>214</td>
+<td>Тартуға арналған арқан</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>215</td>
+<td>Допқа арналған себет</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>216</td>
+<td>Түрлі түсті ұзын лента</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>217</td>
+<td>Түрлі түсті қысқа лента</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>218</td>
+<td>Гимнастикалық қабырғаға арналған баспалдақ</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>219</td>
+<td>Гигиеналық жабыны бар спорттық матрас</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>220</td>
+<td>Лақтыруға арналған қапшық</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>221</td>
+<td>Баскетбол добы</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>222</td>
+<td>Волейбол добы</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>223</td>
+<td>Лақтыруға арналған доп</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>224</td>
+<td>Резеңке доп</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>225</td>
+<td>Футбол добы</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>226</td>
+<td>Диаметрі 1000 миллиметр балалар шеңбері</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>227</td>
+<td>Диаметрі 500-600 миллиметр балар шеңбері</td>
+<td>дана</td>
+<td>60</td>
+</tr>
+<tr>
+<td>228</td>
+<td>Гимнастикалық таяқша</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>229</td>
+<td>Секіргіш</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>230</td>
+<td>Гимнастикалық орындық</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>231</td>
+<td>Түрлі түсті жалау</td>
+<td>дана</td>
+<td>50</td>
+</tr>
+<tr>
+<td>232</td>
+<td>Жылжымалы төбешік</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>233</td>
+<td>Ойын текшесі</td>
+<td>жинағы</td>
+<td>10</td>
+</tr>
+<tr>
+<td>234</td>
+<td>Массаж жолы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="4">Дене шынықтыру пәніне ұсынылатын құрал-жабдықтар</th>
+</tr>
+<tr>
+<td>235</td>
+<td>Өрмелеуге арналған арқан</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>236</td>
+<td>Арқан саты</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>237</td>
+<td>Теңгеружолы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>238</td>
+<td>Балалардың пластмасса гантельдері 250/500 грамм</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>239</td>
+<td>Массаж шеңбері</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>240</td>
+<td>Массаж төбешігі</td>
+<td>жиын</td>
+<td>3</td>
+</tr>
+<tr>
+<td>241</td>
+<td>Балалардың 4 элементті кедергілер жолағы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>242</td>
+<td>Бірдей биіктікте еңбектеуге арналған доғалар 6 дана</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>243</td>
+<td>Балалар тренажері</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>244</td>
+<td>Кегл жиынтығы</td>
+<td>жиынтық</td>
+<td>2</td>
+</tr>
+<tr>
+<td>245</td>
+<td>Денсаулық жолы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>246</td>
+<td>Ысқырық</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>247</td>
+<td>Құм сағат</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>248</td>
+<td>Жұмсақ үрленген үлгі мен элементтер жиынтығы</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>249</td>
+<td>Аяқ сорғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>250</td>
+<td>Қол сорғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>251</td>
+<td>Допқа арналған тұғыр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>252</td>
+<td>Секіруге арналған доп</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>253</td>
+<td>Ауырдоп 0.5 килограмм</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>254</td>
+<td>Массаж добы 80-100 миллиметр</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>255</td>
+<td>Массаж добы 120-150 миллиметр</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>256</td>
+<td>Шариктер жиынымен құрғақ бассейн</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>257</td>
+<td>Динамометр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>258</td>
+<td>Спирометр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="4">Спорт алаңы</th>
+</tr>
+<tr>
+<td>259</td>
+<td>Балаларға арналған торқапшығы бар футбол қақпасы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>260</td>
+<td>Балалар баскетбол бағанасы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>261</td>
+<td>Торқапшықпен бадминтон мен волейболға арналған бағана жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Спорт алаңы үшін ұсынылатын жабдық</th>
+</tr>
+<tr>
+<td>262</td>
+<td>Шығыршыққа арналған жиынтық</td>
+<td>жиынтық</td>
+<td>15</td>
+</tr>
+<tr>
+<td>263</td>
+<td>Лақтыруға арналған нысана</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>264</td>
+<td>Бадминтонға арналған жиынтық</td>
+<td>жиынтық</td>
+<td>15</td>
+</tr>
+<tr>
+<td>265</td>
+<td>Үстел теннисіне арналған жиынтық</td>
+<td>жиынтық</td>
+<td>2</td>
+</tr>
+<tr>
+<td>266</td>
+<td>Үстел теннисіне арналған үстел</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>267</td>
+<td>Балалар велосипеді</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>268</td>
+<td>Доңғалақша</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>269</td>
+<td>Хоккей доптаяғы</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>270</td>
+<td>Балалар шаңғысы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>271</td>
+<td>Шана</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<th colspan="4">Ойын алаңы</th>
+</tr>
+<tr>
+<td>272</td>
+<td>Ойын жабдығы</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>273</td>
+<td>Төбешік</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>274</td>
+<td>Тербелме</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>275</td>
+<td>Құмсалғыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>276</td>
+<td>Әткеншек</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>277</td>
+<td>Спортқұрылысы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>278</td>
+<td>15 орынға арналған беседка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Ұсынылатын 1-інде 2 тез тұрғызылатын спорттық ғимарат (спорт залы және бассейн)</th>
+</tr>
+<tr>
+<td>279</td>
+<td>Жалпақ табандылықтың алдын алуға арналған жол</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>280</td>
+<td>Жүзу тақтасы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>281</td>
+<td>Қалқымалы ойыншық</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>282</td>
+<td>Бататын ойыншық</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>283</td>
+<td>Жеңқаптар</td>
+<td>пара</td>
+<td>25</td>
+</tr>
+<tr>
+<td>284</td>
+<td>Резеңке доп</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>285</td>
+<td>Поролон таяқша</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>286</td>
+<td>Қалқымалы шеңбер</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>287</td>
+<td>Түрлі-түстіқалтқы</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>288</td>
+<td>Құтқару шеңбері</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="4">Музыка залы</th>
+</tr>
+<tr>
+<td>289</td>
+<td>Компьютерге арналған жалғамасы бар педагог үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>290</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>291</td>
+<td>Оқу-көрнекі құралдарға арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>292</td>
+<td>балалар орындығы</td>
+<td>дана</td>
+<td>60</td>
+</tr>
+<tr>
+<td>293</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>294</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>295</td>
+<td>Көп функционалды құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>296</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>297</td>
+<td>Акустикалық немесе қарапайым пианино</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>298</td>
+<td>Балалар музыка аспабы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>299</td>
+<td>Ұлттық музыкалық аспап</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>300</td>
+<td>Музыкалық шығарманы тындауға арналған суреттер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>301</td>
+<td>Композиторлар портретінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>302</td>
+<td>Фонотека</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Бір балаға шаққандағы жабдықтар жұмсақ мүкәммал</th>
+</tr>
+<tr>
+<td>303</td>
+<td>Балалар матрасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>304</td>
+<td>Матрас тысқабы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>305</td>
+<td>Балалар жастығы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>306</td>
+<td>Балалар жастықтысы</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>307</td>
+<td>Балалара қжаймасы</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>308</td>
+<td>Балаларақ жайматысы</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>309</td>
+<td>Балалар көрпесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>310</td>
+<td>Жамылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>311</td>
+<td>Балалар сүлгісі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<th colspan="4">Бір топқа шаққандағы жабдықтар жұмсақ мүкәммал</th>
+</tr>
+<tr>
+<td>312</td>
+<td>Топтық бөлмеге арналған кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>313</td>
+<td>Жатын бөлмеге арналған кілемшелер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>314</td>
+<td>Топ бөлмелеріне арналған перделер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>315</td>
+<td>Қызметкерлерге арналған үшкі орамал</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>316</td>
+<td>Қызметкерлерге арналған ал жапқыш</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>317</td>
+<td>Қызметкерлерге арналған ақ халат</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>318</td>
+<td>Қызметкерлерге арналған қою түсті халат</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="4">Кір жуу бөлмесіне арналған жабдық пен жұмсақ мүкәммал</th>
+</tr>
+<tr>
+<td>319</td>
+<td>Перделер мен шымылдықтар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>320</td>
+<td>Кірді жібітуге арналған арба</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>321</td>
+<td>Кіржуу машинасы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>322</td>
+<td>Кептіргіш машина</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>323</td>
+<td>Өндірістік үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>324</td>
+<td>Кірге арналған стеллаж</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>325</td>
+<td>Кәсіби үтіктеу үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>326</td>
+<td>Үтіктеу тақтасы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>327</td>
+<td>Тұрмыстық үтік</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="4">Мектепке дейінгі білім беру ұйымдарында дамытушы пәндік-кеңістіктік ортаны құру және психологиялық –педагогикалық қолдау үшін ұсынылатын жабдық</th>
+</tr>
+<tr>
+<th colspan="4">Жұмсақ ойын бөлмесі (көп функциялы жабдық)</th>
+</tr>
+<tr>
+<td>328</td>
+<td>Жұмсақ еден жасауға арналған еден төсеніштері</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>329</td>
+<td>Жиында түрлі-түсті пластикалық шарлармен толтырылған құрғақ бассейн</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>330</td>
+<td>Жұмсақ көп функциялы жиынтықтар, конструкторлар</td>
+<td>жиынтық</td>
+<td>4</td>
+</tr>
+<tr>
+<td>331</td>
+<td>дамытуға арналған әртүрлі және түрлі мөлшердегі толтырылатын терапиялық доптар</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>332</td>
+<td>Сипау дағдыларын дамытуға арналған жұмсақ тактильді- дамытушы панель</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>333</td>
+<td>Жууға болатын әртүрлі түсті полимерлі матамен қапталған поролоннан жасалған жұмсақ жиһаз</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>334</td>
+<td>Поролоннан жасалған ойын лабиринті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>335</td>
+<td>Поролоннан жасалған дидактикалық манеж</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>336</td>
+<td>тақырыптық тысқаптары бар поролоннан жасалған дидактикалық едендік ойыншық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>337</td>
+<td>Еден кілемшелері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Жалпы моториканы дамытуға арналған жабдық</th>
+</tr>
+<tr>
+<td>338</td>
+<td>Қозғалыстарды үйлестіруді, тактильді сезімдерді дамытуға ықпал ететін әртүрлі еден төсеніштері</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>339</td>
+<td>балалардың қабырға баспалдақтары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>340</td>
+<td>Доңғалақ- трансформер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>341</td>
+<td>Ойын құбыры (поролоннан жасалған вестибулярлық тренажер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>342</td>
+<td>Интерактивті сенсорлық еден модульдері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Ұсақ моториканы дамытуға арналға н жабдық</th>
+</tr>
+<tr>
+<td>343</td>
+<td>Ұсақ моториканы дамытуға арналған сәндік- дамытушы панель</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>344</td>
+<td>Тактильді сезімдерді, ұсақ моториканы, қиялды және көрустимуляциясын дамытуға арналған дамытушы едендік текше</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>345</td>
+<td>Үстел-мозаика</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>346</td>
+<td>Қабырғаға ілетін тактильдік- дамытушы панель</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>347</td>
+<td>Үстелге қойылатын тактильдік- дамытушы панель</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>348</td>
+<td>Дыбыс әсеріне, логиканы дамытуға, ойын терапиясына және жануарлардың дауыстарын ажыратуға арналған интерактивті дыбыстық панель</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>349</td>
+<td>Қабырғаға арналған акустикалы тактильді панель</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>350</td>
+<td>Жеке және топтық сабақтарға арналған дидактикалық модульдік кешен</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>351</td>
+<td>дидактикалық дамытушы ойыншық және құрал</td>
+<td>жиынтық</td>
+<td>6</td>
+</tr>
+<tr>
+<td>352</td>
+<td>Математикалық білім діқ алыптастыруға арналған жүйелі дидактикалық материал</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>353</td>
+<td>Мультимедиялық интерактивті бағдарламалық-әдістемелік оқыту кешені (қазақ, орыс және ағылшын тілдерінде)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>354</td>
+<td>Жолдарда жүріп-тұрудың негізгі ережелері мен дағдыларын, қауіпсіз өмір сүру негіздерін, оның ішінде өрт қауіпсіздігін оқытуға арналған дидактикалық едендік ойын жиындары; гигиенаның негізгі дағдыларын, қоғамдық көлікте жүру кезіндегі балалардың мінез-құлқының негізгі ережелерін үйрету</td>
+<td>жиын</td>
+<td>4</td>
+</tr>
+<tr>
+<td>355</td>
+<td>Монтессори-педагогика элементтері мен дамытушы дидактикалық материал</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="2">Сенсорлы бөлме</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>356</td>
+<td>Әртүрлі мөлшердегі түйіршіктері бар пуфик-кресло</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>357</td>
+<td>Қабырға, еден төсеніштері</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>358</td>
+<td>Пластикалық жартылайм өлдір шарлармен толтырылған құрғақ бассейн</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>359</td>
+<td>Жарық көзі бар фиброоптикалық талшықтар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>360</td>
+<td>Тактильді панельдер</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>361</td>
+<td>Фиброоптикалық кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>362</td>
+<td>Басқару пульті бар интерактивтіауа-көпіршікті түтік</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>363</td>
+<td>Интерактивті ауа көпіршікті-түтікке арналған жұмсақ платформа</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>364</td>
+<td>Ауа-көпіршікті түтікке арналған екі акрил айнасы бар жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>365</td>
+<td>Фиброоптикалық туннель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>366</td>
+<td>Жарық көзі бар айналы шар</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>367</td>
-<td colspan="7">Оқытушының үстелі</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>368</td>
-<td colspan="7">Оқытушының креслосы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Тактильдік жол</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>369</td>
-<td colspan="7">Оқушының үстелі (полукабина)</td>
-<td colspan="6">дана</td>
-<td colspan="4">14</td>
+<td>Жиында құмы бар, құммен сурет салуға арналған жарық үстелі</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>370</td>
-<td colspan="7">Оқушының орындығы</td>
-<td colspan="6">дана</td>
-<td colspan="4">14</td>
+<td>Тактильдік- дамытушы ойыншық</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>371</td>
-<td colspan="7">Оргтехникаға арналған тіреу</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Еденге арналған кілем жабыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Мүмкіндігі шектеулі балалардың білім алуына арнайы жағдай жасау үшін ұсынылатын жабдықтар мен жиһаз</th>
 </tr>
 <tr>
 <td>372</td>
-<td colspan="7">Көрнекі құралдарға арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Компьютерге арналған құрал-жабдықтар</td>
+<td>Көзі көрмейтін және нашар көретін балаларға, тірек-қимыл аппараты бұзылған балаларға ғимарат, үй-жайы емес кабинет ішінде кіруді/шығуды және қозғалуды қамтамасыз ететін айлаб ұйымдар (қабаттарға орын ауыстыруды ескере отырып)</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>373</td>
-<td colspan="7">Оқытушының жүйелік блогы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Естімейтін және нашар еститін балаларға, сондай-ақ кохлеарлық импланттары бар балаларға арналған дыбыс күшейткіш айла бұйымдар</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>374</td>
-<td colspan="7">Оқушының жүйелік блогы</td>
-<td colspan="6">дана</td>
-<td colspan="4">14</td>
+<td>Тірек-қимыл аппараты мен көру қабілеті бұзылған балаларға арналған оқу орнын ұйымдастыруға арналған құрылғылар мен жиһаз</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Қауіпсіздікті қамтамасыз ету үшін ұсынылатын жабдықтар</th>
 </tr>
 <tr>
 <td>375</td>
-<td colspan="7">Монитор</td>
-<td colspan="6">дана</td>
-<td colspan="4">15</td>
+<td>Кіруді бақылау және басқару жүйесімен, күзет сигнализациясық ұралдарымен, хабардар ету құралдарымен жабдықтар жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>376</td>
-<td colspan="7">Web-камера</td>
-<td colspan="6">дана</td>
-<td colspan="4"></td>
+<td>Бейнекамералары бар бейнебақылау жүйесі жабдықтарының жиынтығы (мектепке дейінгі ұйым ғимаратының алаңына байланысты)</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>377</td>
-<td colspan="7">Акустикалық жүйе</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Дауыстық хабарлауы бар өрт дабылы жүйесін орнату</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+</table>
+
+## Орта білім беру ұйымдары мен арнайы білім беру ұйымдарының жалпы мақсаттағы үй-жайларын жабдықтармен және жиһазбен жарақтандыру нормалары
+
+<table>
+<tr>
+<th>№</th>
+<th>Атауы</th>
+<th>Өлшем бірлігі</th>
+<th>Саны</th>
+</tr>
+<tr>
+<th colspan="4">Кітап сақтайтын және оқу залы бар кітапхана</th>
 </tr>
 <tr>
 <td>378</td>
-<td colspan="7">Микрофон-телефоны бар гарнитура</td>
-<td colspan="6">дана</td>
-<td colspan="4">15</td>
+<td>Диван</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>379</td>
-<td colspan="7">Көпфункциялық құрылғы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>380</td>
-<td colspan="7">Желілік коммутатор</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Интерактивті және проекциялық құрал-жабдықтар</td>
+<td>Пуфик</td>
+<td>дана</td>
+<td>4</td>
 </tr>
 <tr>
 <td>381</td>
-<td colspan="7">Интерактивтік тақта</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Кітапханашы ресепшні</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>382</td>
-<td colspan="7">Ультрақысқафокусты проектор</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Кітапханалық көрме сөресі, 5 қиғаш сөре</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>383</td>
-<td colspan="7">Проекторды қабырға ілуге арналған бекіткіш</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Қосымша құрал-жабдықтары және құрамдастары бар лингафонды кабинет</td>
+<td>Кітапханалық екіжақты сөре, 3 сөре</td>
+<td>дана</td>
+<td>4</td>
 </tr>
 <tr>
 <td>384</td>
-<td colspan="7">Кабинеттің блок-таратушысы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Кітапханалық екіжақты сөре, 5 сөре</td>
+<td>дана</td>
+<td>16</td>
 </tr>
 <tr>
 <td>385</td>
-<td colspan="7">Оқушының басқару блогі</td>
-<td colspan="6">дана</td>
-<td colspan="4">14</td>
+<td>Кітапханалық біржақты сөре, 5 сөре</td>
+<td>дана</td>
+<td>4</td>
 </tr>
 <tr>
 <td>386</td>
-<td colspan="7">Кабинетті басқаратын жүйе</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Журнал үстелі</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>387</td>
-<td colspan="7">Плакаттар мен қабырға стенді жинағы</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">1</td>
+<td>Бір орынды компьютерлік үстел</td>
+<td>дана</td>
+<td>4</td>
 </tr>
 <tr>
 <td>388</td>
-<td colspan="7">Дәрі қорабы</td>
-<td colspan="6">дана</td>
-<td colspan="4"></td>
+<td>Бір орынды оқырман үстелі</td>
+<td>дана</td>
+<td>6</td>
 </tr>
 <tr>
 <td>389</td>
-<td colspan="7">Желілік сүзгі</td>
-<td colspan="6">дана</td>
-<td colspan="4">15</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>10</td>
 </tr>
 <tr>
 <td>390</td>
-<td colspan="7">Электр жабдықтау қалқаны</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">Музыка залы</td>
+<td>Ұйымдастыру техникасына арналған тумбочка</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>391</td>
-<td colspan="7">Айнасы бар хореографиялық станок</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Мерзімді басылымдарға арналған кітапхана шкафы</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>392</td>
-<td colspan="7">Құралдар-саймандарға арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Оқырман формулярларына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>393</td>
-<td colspan="7">Арқасы жоқ айналғыш орындық</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Web-камера</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>394</td>
-<td colspan="7">Балаларға арналған орындық</td>
-<td colspan="6">дана</td>
-<td colspan="4">60</td>
+<td>Акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>395</td>
-<td colspan="7">«Ноталық желі» сыныптық тақта</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>396</td>
-<td colspan="7">Ноутбук</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Маршрути затор</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>397</td>
-<td colspan="7">DVD-плеер</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Микрофон-телефондық гарнитура</td>
+<td>дана</td>
+<td>5</td>
 </tr>
 <tr>
 <td>398</td>
-<td colspan="7">Музыкалық центр</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Көп функционалды құрылғы (көшіргіш/принтер/сканер) қара-ақ</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>399</td>
-<td colspan="7">Қабырғалық бекіткіші бар теледидар</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>интернетке қолжетімділігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>5</td>
 </tr>
 <tr>
 <td>400</td>
-<td colspan="7">Акустикалық жүйе</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
+<td>Түрлі түсті принтер</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>401</td>
-<td colspan="7">Сымсыз микрофон</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Кітапхана процестерін кешенді автоматтандыруға және электрондық каталогтарды құруға арналған бағдарламалық жасақтама</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>402</td>
-<td colspan="7">Сым тартылған микрофон</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>403</td>
-<td colspan="7">Электронное пианино</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>GR – кодтарға арналған сканер</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>404</td>
-<td colspan="7">Соқпалы аспаптар жинағы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
+<td>Түптеужабдығы</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>405</td>
-<td colspan="7">Балаларға арналған музыкалық аспаптар жинағы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
+<td>Кітаптарды жөндеуге арналған құралдар мен материалдар</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>406</td>
-<td colspan="7">Ұлттық музыкалық аспаптар жинағы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
+<td>Кітапхана қоры: оқу, анықтама, көркем әдебиет және басылымдар, аудио-бейнетека</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>407</td>
-<td colspan="7">Фонотека</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
+<td>Қабырға картиналары</td>
+<td>дана</td>
+<td>6</td>
 </tr>
 <tr>
 <td>408</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
+<td>Еден кілемі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Жаңартылған кітапхана (е-кітапхана)</th>
 </tr>
 <tr>
 <td>409</td>
-<td colspan="7">Композиторлар портреттері</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">1</td>
+<td>Кітапханашы ресепшні</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>410</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>411</td>
-<td colspan="7">Карнавал костюмі</td>
-<td colspan="6">дана</td>
-<td colspan="4">12</td>
-</tr>
-<tr>
-<td colspan="18">Дене шынықтыру кабинетіне арналған жабдықтармен жиһаздар тізімі</td>
+<td>интернетке қолжетімділігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>11</td>
 </tr>
 <tr>
 <td>412</td>
-<td colspan="7">Кабинетке арналған маркер тақтасы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Көп функционалды құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>413</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
+<td>Ақпараттық анықтамалық – іздестіру кітапхана жүйесі</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>414</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
+<td>Web-камера</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>415</td>
-<td colspan="7">Кабинетке арналған шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">3</td>
+<td>Акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>416</td>
-<td colspan="7">Медициналық дәрі қорабы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Маршрути затор</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>417</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
+<td>Микрофонды-телефондықгарнитура</td>
+<td>дана</td>
+<td>11</td>
 </tr>
 <tr>
 <td>418</td>
-<td colspan="7">Қолдың білезік буынының динамометриясы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>419</td>
-<td colspan="7">Ойын ысқырығы</td>
-<td colspan="6">дана</td>
-<td colspan="4">15</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>420</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
+<td>Электронды форматтағык ітапхана қоры</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>421</td>
-<td colspan="7">Электромегафон</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Үш секциялы шкаф</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>422</td>
-<td colspan="7">Жай пластикалық табло</td>
-<td colspan="6">дана</td>
-<td colspan="4">3</td>
+<td>Бір орынды компьютерлік үстел</td>
+<td>дана</td>
+<td>10</td>
 </tr>
 <tr>
 <td>423</td>
-<td colspan="7">Электронды табло</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Компьютерлік кресло</td>
+<td>дана</td>
+<td>10</td>
 </tr>
 <tr>
 <td>424</td>
-<td colspan="7">Ұзындық өлшеуіш, 10м</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Еден кілемі</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>425</td>
-<td colspan="7">Ұзындық өлшеуіш, 50м</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
-</tr>
-<tr>
-<td colspan="18">спорт құрал-саймандарын сақтау бөлме</td>
+<td>Қабырға картиналары</td>
+<td>дана</td>
+<td>12</td>
 </tr>
 <tr>
 <td>426</td>
-<td colspan="7">Спорт құрал-саймандарын сақтауға арналған стеллаж</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Диван</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>427</td>
-<td colspan="7">Доптарды сақтауға арналған стеллаж</td>
-<td colspan="6">дана</td>
-<td colspan="4">4</td>
+<td>Журнал үстелі</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>428</td>
-<td colspan="7">Допқа арналған себет</td>
-<td colspan="6">дана</td>
-<td colspan="4">4</td>
+<td>Пуфик</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<th colspan="4">Жалпы білім беретін мектептердің мәжіліс залы</th>
 </tr>
 <tr>
 <td>429</td>
-<td colspan="7">Допқа арналған желүрме</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td colspan="18">Спорттық зал</td>
-</tr>
-<tr>
-<td colspan="18">Гимнастика</td>
+<td>Секциялық/театрлық кресло</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>430</td>
-<td colspan="7">Еден үстілік бөрене</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Дәріскер трибунасы</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>431</td>
-<td colspan="7">Қос брус жинағы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Төралқаға арналға н үстел</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>432</td>
-<td colspan="7">Әр биіктегі қоссырық жинағы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Төралқағ а арналған орындық немесе кресло</td>
+<td>дана</td>
+<td>5</td>
 </tr>
 <tr>
 <td>433</td>
-<td colspan="7">Гантель жиынтығы, 1кг (құйма)</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>434</td>
-<td colspan="7">Швед қабырғасына арналған қырлы тақталар</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Сцена</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>435</td>
-<td colspan="7">Теңестіретін жолдар</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Өлшемдеріне сәйкес сахн акиімі</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>436</td>
-<td colspan="7">Түрлі биіктікке көтерілуге арналған доғалар жиынтығы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4"></td>
+<td>Жылжымалы механизмі бар шымылдық</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>437</td>
-<td colspan="7">Өрмелеу арқаны (5м)</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Проекторы бар экран /LED-экран</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>438</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
+<td>Сахнаны жарықтандыруғ аарналған жабдық</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>439</td>
-<td colspan="7">Гимнастикалық кіші ат</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Акт залы мен төралқа үстеліне арналған дыбы сжабдығы</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>440</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>441</td>
-<td colspan="7">Ағаштан, пластиктен жасалған текшелер</td>
-<td colspan="6">дана</td>
-<td colspan="4">10</td>
+<td>Пианино</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>442</td>
-<td colspan="7">Гимнастикалық лента</td>
-<td colspan="6">дана</td>
-<td colspan="4">20</td>
+<td>10 микрофонға арналған радио микрофондық жүйе</td>
+<td>жиынтық</td>
+<td>1</td>
 </tr>
 <tr>
 <td>443</td>
-<td colspan="7">Жіп саты</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Дыбыс/жарық операт орының жұмыс орны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Акт залы мен музыка кабинетіне арналған музыкалық аспаптар жиыны</th>
 </tr>
 <tr>
 <td>444</td>
-<td colspan="7">Гимнастикалық төсеніш-мат</td>
-<td colspan="6">дана</td>
-<td colspan="4">20</td>
+<td>Асатаяқ</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>445</td>
-<td colspan="7">Медицинбол 1 илограмм</td>
-<td colspan="6">дана</td>
-<td colspan="4">5</td>
+<td>Балалардың марштық барабаны</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>446</td>
-<td colspan="7">Медицинбол 2 килограмм</td>
-<td colspan="6">дана</td>
-<td colspan="4">5</td>
+<td>Баян</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>447</td>
-<td colspan="7">Серіппелі гимнастикалық көпір</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Дауылпаз</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>448</td>
-<td colspan="7">Гимнастикалық тік көпір</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Домбыра</td>
+<td>дана</td>
+<td>25</td>
 </tr>
 <tr>
 <td>449</td>
-<td colspan="7">Гимнастикалық таяқшалар</td>
-<td colspan="6">дана</td>
-<td colspan="4">30</td>
+<td>Ағаш кастаньеттер</td>
+<td>пара</td>
+<td>2</td>
 </tr>
 <tr>
 <td>450</td>
-<td colspan="7">Биік керме</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Жинақтағы сылдырмақтар</td>
+<td>жиынтық</td>
+<td>2</td>
 </tr>
 <tr>
 <td>451</td>
-<td colspan="7">Аласа керме</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Ксилофон</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>452</td>
-<td colspan="7">Балаларға арналған пластмасс шеңбер</td>
-<td colspan="6">дана</td>
-<td colspan="4">30</td>
+<td>Ұзын сапты маракастар</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>453</td>
-<td colspan="7">Секіргіш</td>
-<td colspan="6">дана</td>
-<td colspan="4">30</td>
+<td>Сырнай</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>454</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
+<td>Тұяқтас</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>455</td>
-<td colspan="7">Гимнастикалық қабырға (ағаш)</td>
-<td colspan="6">дана</td>
-<td colspan="4">8</td>
+<td>Шаңқобыз</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="4">Серверлік</th>
 </tr>
 <tr>
 <td>456</td>
-<td colspan="7">Көмкерілген туннель</td>
-<td colspan="6">штука</td>
-<td colspan="4">1</td>
+<td>Сервер</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>457</td>
-<td colspan="7">Түрлі-түсті жалауша</td>
-<td colspan="6">дана</td>
-<td colspan="4">40</td>
-</tr>
-<tr>
-<td colspan="18">Жеңіл атлетика</td>
+<td>Үздіксіз қуаттау көзі</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>458</td>
-<td colspan="7">Биіктікке секіруге арналған тақтайша</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>459</td>
-<td colspan="7">Биіктікке секіруге арналған тірек</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Қолжетімділік коммутаторы</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>460</td>
-<td colspan="7">Эстафета таяқшасы</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Коммутациялық шкаф</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>461</td>
-<td colspan="7">Жеңіл атлетикалық кедергілер</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">1</td>
+<td>Үстел</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>462</td>
-<td colspan="7">Лақтыруға арналған граната, 300 грамм</td>
-<td colspan="6">дана</td>
-<td colspan="4">10</td>
+<td>Кресло</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>463</td>
-<td colspan="7">Лақтыруға арналан доппен қапшық</td>
-<td colspan="6">дана</td>
-<td colspan="4">40</td>
+<td>Медициналық дәрі қобдиша</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="2">Хореография залы</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td>464</td>
-<td colspan="7">Лақтыруға арналған нысана</td>
-<td colspan="6">дана</td>
-<td colspan="4">3</td>
-</tr>
-<tr>
-<td colspan="18">Шаңғы және коньки</td>
+<td>Гардероб орындығы</td>
+<td>дана</td>
+<td>3</td>
 </tr>
 <tr>
 <td>465</td>
-<td colspan="7">Шаңғы комплекті (шаңғы, бәтеңке, шаңғы бекітпесі)</td>
-<td colspan="6">комплект</td>
-<td colspan="4">35</td>
+<td>Екі қатарлы хореографиялық білдек</td>
+<td>метр</td>
+<td>8</td>
 </tr>
 <tr>
 <td>466</td>
-<td colspan="7">Шаңғы таяқшалары</td>
-<td colspan="6">жұп</td>
-<td colspan="4">35</td>
+<td>Қабырғаға бекітілетін биіктігі 2 метр айна</td>
+<td>метр</td>
+<td>8</td>
+</tr>
+<tr>
+<th></th>
+<th>Қауіпсіздікті қамтамасыз ет у үшін ұсынылған құрал- жабдықтар</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td>467</td>
-<td colspan="7">Конькилер</td>
-<td colspan="6">комплект</td>
-<td colspan="4">35</td>
-</tr>
-<tr>
-<td colspan="18">Қимылды және спорт ойындары</td>
+<td>Кіруді бақылау және басқару жүйесімен, күзет сигнализациясын хабардар ету құралдарымен жабдық жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>468</td>
-<td colspan="7">Шағын футбол қақпасы</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Бейнекамералары бар бейнебақылау жүйесі жабдықтарының жиынтығы (мектеп ғимаратының алаңына байланысты)</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>469</td>
-<td colspan="7">Допқа арналған себеттер</td>
-<td colspan="6">дана</td>
-<td colspan="4">4</td>
+<td>Дауыстық хабарлауы бар өрт дабылы жүйесін орнату</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+</table>
+
+## Жалпы білім беретін мектепте психологиялық-педагогикалық қолдау үшін ұсынылатын кабинеттерді жабдықтармен жабдықтау нормалары
+
+<table>
+<tr>
+<th>№</th>
+<th>Атауы</th>
+<th>Өлшембірлігі</th>
+<th>Саны</th>
+</tr>
+<tr>
+<th colspan="2">Сенсорлық бөлме</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <td>470</td>
-<td colspan="7">Кегельдер (жиынтық)</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">4</td>
+<td>Әр түрлі мөлшердегі түйіршіктері бар пуфик-кресло</td>
+<td>дана</td>
+<td>4</td>
 </tr>
 <tr>
 <td>471</td>
-<td colspan="7">Үлкен резеңке добы</td>
-<td colspan="6">дана</td>
-<td colspan="4">30</td>
+<td>Қабырға, еден төсеніштері</td>
+<td>дана</td>
+<td>4</td>
 </tr>
 <tr>
 <td>472</td>
-<td colspan="7">Кіші резеңке добы</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Пластикалық жартылай мөлдір шарлармен толтырылған құрғақ бассейн</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>473</td>
-<td colspan="7">Баскетбол добы</td>
-<td colspan="6">дана</td>
-<td colspan="4">3</td>
+<td>Жарық көзі бар фиброоптикалық талшықтар</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>474</td>
-<td colspan="7">Волейбол добы</td>
-<td colspan="6">дана</td>
-<td colspan="4">30</td>
+<td>Тактильді панельдер</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>475</td>
-<td colspan="7">Футбол добы</td>
-<td colspan="6">дана</td>
-<td colspan="4">30</td>
+<td>Фиброоптикалық кілем</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>476</td>
-<td colspan="7">Гандбол добы</td>
-<td colspan="6">дана</td>
-<td colspan="4">10</td>
+<td>Басқару пульті бар интерактивті ауа-көпіршікті түтік</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>477</td>
-<td colspan="7">«Русская лапта» ойынына арналған</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">1</td>
+<td>Интерактивті ауа көпіршікті-түтікке арналған жұмсақ платформа</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>478</td>
-<td colspan="7">Волейбол торы</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Ауа-көпіршікті түтікке арналған екі акрил айнасы бар жиын</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>479</td>
-<td colspan="7">Футбол қақпасының торы</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Фиброоптикалық туннель</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>480</td>
-<td colspan="7">Волейбол тірегі</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Жарықкөзі бар айналы шар</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
 <td>481</td>
-<td colspan="7">Өлшеуіш текше</td>
-<td colspan="6">дана</td>
-<td colspan="4">40</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>482</td>
-<td colspan="7">Шығыршығы бар баскетбол қалқан</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td>482</td>
-<td colspan="7">Тоғыз-құмалақ</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">5</td>
+<td>Тактильдік жол</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>483</td>
-<td colspan="7">Шахмат</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">5</td>
+<td>Жиында құмы бар, құммен сурет салуға арналған жарық үстелі</td>
+<td>жиын</td>
+<td>2</td>
 </tr>
 <tr>
 <td>484</td>
-<td colspan="7">Дойбы</td>
-<td colspan="6">жиынтық</td>
-<td colspan="4">5</td>
+<td>Тактильдік- дамытушы ойыншық</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>485</td>
-<td colspan="7">Үстел теннисі</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Еденге арналған кілем жабыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Психолог кабинеті</th>
 </tr>
 <tr>
 <td>486</td>
-<td colspan="7">Үстел теннисі ойынына арналған жинақ</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">1</td>
+<td>Компьютерге арналған тумбочкасы бар үстел</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>487</td>
-<td colspan="7">Бадминтон ойынына арналған жинақ</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">1</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>488</td>
-<td colspan="7">Асық ойынына арналған жинақ</td>
-<td colspan="6">жинақ</td>
-<td colspan="4">2</td>
-</tr>
-<tr>
-<td colspan="18">Спорт алаңы</td>
+<td>Жартылайашық шкаф</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>489</td>
-<td colspan="7">Футбол қақпасының торы</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Жартылай жұмсақ үстел</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>490</td>
-<td colspan="7">Шағын футбол қақпасы</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Тербеліс әсері бар жартылай жұмсақ кресло</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>491</td>
-<td colspan="7">Қалқанды баскетбол тіректері</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>Шағын журнал үстелі</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>492</td>
-<td colspan="7">Волейбол торы мен тіреггі</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>балалар үстелі</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>493</td>
-<td colspan="7">Қатар орналасқан қоссырық</td>
-<td colspan="6">дана</td>
-<td colspan="4">2</td>
+<td>балалар орындығы</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>494</td>
-<td colspan="7">Гимнастикалық керме</td>
-<td colspan="6">дана</td>
-<td colspan="4">5</td>
+<td>Жұмсақ пуф</td>
+<td>дана</td>
+<td>2</td>
 </tr>
 <tr>
 <td>495</td>
-<td colspan="7">Төреші мінбесі</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Магнитті/тығынды тақта</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
 <td>496</td>
-<td colspan="7">Ұзындыққа секіруге арналған сектор</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>Жиында микрофон-телефон гарнитурасы және web-камерасы, интернетке қол жеткізу мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
-<td>49</td>
-<td colspan="7">Лақтыруға арналған сектор</td>
-<td colspan="6">дана</td>
-<td colspan="4">1</td>
+<td>497</td>
+<td>Үстелге арналған а кустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="20">Білім алушылардың жеке пайдалануы үшін жабдықтар</td>
+<td>498</td>
+<td>Маршрути затор</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
-<td>477</td>
-<td colspan="7">Оқулықтар, ауыстыратын аяқ киімін және спорттық құралдарын сақтауға арналған жеке шкаф</td>
-<td colspan="6">дана</td>
-<td colspan="4">25</td>
+<td>499</td>
+<td>Көп функционалдық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>500</td>
+<td>Портативті колонка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>501</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>502</td>
+<td>Ойын әрекетін дамытуға арналған ойын немесе ойыншық</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>503</td>
+<td>Ақыл-ойы бұзылған балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>504</td>
+<td>Әдістемелік әдебиеттер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>505</td>
+<td>Қабырғалық бактерицидті сәулелендіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>506</td>
+<td>Үстелге арналған түрлі-түсті релаксация шамы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>507</td>
+<td>Ынталандырушы көрнекі- дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>508</td>
+<td>Еденге арналған кілем жабыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Әлеуметтік педагог кабинеті</th>
+</tr>
+<tr>
+<td>509</td>
+<td>Компьютерге арналған тумбочкасы бар үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>510</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>511</td>
+<td>Жартылайашық шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>512</td>
+<td>Жартылай жұмсақ үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>513</td>
+<td>Жиынтықта жұмсақ жиһаз</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>514</td>
+<td>Шағын журнал үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>515</td>
+<td>Балалар үстелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>516</td>
+<td>Балалар орындығы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>517</td>
+<td>Флипчарт</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>518</td>
+<td>Жиында микрофон-телефон гарнитурасы және web-камерасы, интернетке қол жеткізу мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>519</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>520</td>
+<td>Маршрути затор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>521</td>
+<td>Көп функционалдық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>522</td>
+<td>Портативті колонка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>523</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>524</td>
+<td>Дамытатын дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>525</td>
+<td>Ақпараттық стенд</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>526</td>
+<td>Әдістемелік әдебиеттер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>527</td>
+<td>Қабырғалық бактерицидті сәулелендіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>528</td>
+<td>Жарығы көмескі шам</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>529</td>
+<td>Ортопедиялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>530</td>
+<td>Еденге арналған кілем жабыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Логопед кабинеті (логопедтік пункт)</th>
+</tr>
+<tr>
+<td>531</td>
+<td>Компьютерге арналған тумбочкасы бар үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>532</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>533</td>
+<td>Жартылайашық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>534</td>
+<td>Магниттік/тығынды тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>535</td>
+<td>Жиында микрофон-телефон гарнитурасы және web-камерасы, интернетке қол жеткізу мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>536</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>537</td>
+<td>Маршрути затор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>538</td>
+<td>Көп функционалдық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>539</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>540</td>
+<td>балалар үстелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>541</td>
+<td>балалар орындығы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>542</td>
+<td>Кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>543</td>
+<td>Топтық логопедтік сабақтарға арналған қабырға айнасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>544</td>
+<td>Жеке логопедтік сабақтарға арналған қабырға айнасы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>545</td>
+<td>Логопедтік шпатель</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>546</td>
+<td>Қойылымдықл огопедтік зонд</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>547</td>
+<td>Массажды логопедтік зонд</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>548</td>
+<td>Логопедтік қосалқы зонд</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>549</td>
+<td>Стерили затор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>550</td>
+<td>Сөйлеудің дыбыстық және лексикалық-грамматикалық жағын дамытуға арналған тренажер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>551</td>
+<td>Есту қабілетін дамытуға және коммуникативтік-сөйлеу дағдыларын қалыптастыруға арналған тренажер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>552</td>
+<td>Қарапайым сөйлеу коммуникациясын игеруге және дамытуға арналған сөйлеу тренажері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>553</td>
+<td>Лексикалық тақырыптар бойынша ойын немесе ойыншық</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>554</td>
+<td>Көрнекі- дидактикалық материал</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>555</td>
+<td>Қабырғалық бактерицидті сәулелендіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>556</td>
+<td>Әдістемелік әдебиеттер мен оқу құралдары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="2">Білім беру ұйымдарындағы инклюзияны қолдау кабинеттеріне ұсынылған жабдық пен жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>557</td>
+<td>Жеке сабақтарға арналған аражабындары бар парталар</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>558</td>
+<td>Топтық сабақтарға арналған үстел</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>559</td>
+<td>Педагог үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>560</td>
+<td>Орындықтар</td>
+<td>дана</td>
+<td>18</td>
+</tr>
+<tr>
+<td>561</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>562</td>
+<td>Құжаттарға арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>563</td>
+<td>Бормен жазылатын тақта</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>564</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>565</td>
+<td>Түсті басып шығару функциясы бар көп функциялы құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>566</td>
+<td>Ламинаттағыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>567</td>
+<td>Пластик кескіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>568</td>
+<td>Батут</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>569</td>
+<td>Сорғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>570</td>
+<td>Фитбол</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>571</td>
+<td>Кресло-қап</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>572</td>
+<td>Қабырғалық бедерлер немесе төсеніштер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>573</td>
+<td>Гамак</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>574</td>
+<td>Жұмсақ еден жабыны</td>
+<td>квадрат метр</td>
+<td>6</td>
+</tr>
+<tr>
+<td>575</td>
+<td>Ауыркөрпе</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>576</td>
+<td>Стенд (көрнекі күнтізбе)</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>577</td>
+<td>Оқиғалар есептегіші саусаққа</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>578</td>
+<td>Таймер</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>579</td>
+<td>Маракас</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>580</td>
+<td>Қоңырау</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>581</td>
+<td>Таяқтағы қоңыраулар</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>582</td>
+<td>Үй және жабайы жануарлар түріндегі ойыншық тар</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>583</td>
+<td>Көкөністер мен жемістер нақ пішіндерінің жиынтығы</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>584</td>
+<td>Маркермен сурет салуғаа рналған екі жақты тақта</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>585</td>
+<td>Ойыншық -сұрыптағыш</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>586</td>
+<td>Қысқыштары бар дамытушы ойын</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>587</td>
+<td>«Кішкентай шебер» ойын жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>588</td>
+<td>Құрылыс ойын жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>589</td>
+<td>2 килограммнан кинетикалық құм</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>590</td>
+<td>Балаларға арналған резеңке доп</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>591</td>
+<td>Конструктор</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>592</td>
+<td>Естелік ойын</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>593</td>
+<td>Балалар ыдыстарының арнайы жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>594</td>
+<td>Полиэстерден жасалған жұмсақ доп</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>595</td>
+<td>Социумдағы дербес өмірге бейімделу үшін қажетті дағдыларды тестілеуге арналған мемлекеттік және орыс тілдеріндегі жиынтық</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>596</td>
+<td>Металл тақтайша</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 </table>
-<strong>Негізгі орта білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормалары</strong>
-Ескерту. Бөлімге өзгерістер енгізілді - ҚР Білім және ғылым министрінің 03.07.2017 № 317 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.
+
+## Бастауыш білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормалары
+
+<table>
+<tr>
+<th>№</th>
+<th>Атауы</th>
+<th>Өлшембірлік</th>
+<th>Саны</th>
+</tr>
+<tr>
+<th colspan="4">Бастауыш сыныптардың кабинеті</th>
+</tr>
+<tr>
+<th colspan="4">Бастауыш сыныптардың әрбір кабинетіне арналған жиһаз және жабдық</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>597</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>598</td>
+<td>Демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>599</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>600</td>
+<td>Биіктігі бойынша реттелетін 25 оқушыға арналған бір немесе екі орынды оқушылар үстелдерінің жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>601</td>
+<td>Биіктігі бойынша реттелетін оқушы орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>602</td>
+<td>Оқу-көрнекі құралдарға арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>603</td>
+<td>Беті торға және сызыққа сызылған маркермен және бормен жазылатын құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Компьютерлік және мультимедиялық жабдықтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>604</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>605</td>
+<td>Микрофон-телефон гарнитурасы және web-камерасы бар жиынтықта интернетке қол жеткізу мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>606</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>607</td>
+<td>Көп функционалды құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>608</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Көрнекі құралдар мен әдебиеттер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>609</td>
+<td>Көркем әдебиет жинағы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>610</td>
+<td>Бастауыш мектеп тақырыптары бойынша электрондық кестелер мен плакаттар жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>611</td>
+<td>Сөйлеуді дамытуға арналған сюжеттік суреттер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>612</td>
+<td>Заттық суреттер жиынтығы (жануарлар, өсімдіктер, көлік, жемістер, көкөністер, жиһаз, киім)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>613</td>
+<td>Бастауыш мектеп тақырыптары бойынша тақырыптық постерлер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>614</td>
+<td>«Көркемжазу. Әліпби» А-2 нысан демонстрациялық кестелері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>615</td>
+<td>«Таза жазу. Алфавит» А-2 нысан демонстрациялық кестесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>616</td>
+<td>«Бастауыш мектеп кабинетіндегі қауіпсіздік техникасы ережелері» қабырға плакаты</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Математика және қисын бойынша құралдар мен керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>617</td>
+<td>Өлшеу таспасы 1 метр</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>618</td>
+<td>Үлгі көлемнің демонстрациялық бірлігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>619</td>
+<td>Демонстрациялық геометриялық пішіндер мен жаймалар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>620</td>
+<td>Үлестірмелі геометриялық фигуралар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>621</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызу құралдарының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>622</td>
+<td>Магниттік демонстрациялық сандар мен белгілер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>623</td>
+<td>Бастауыш мектепке арналған математика бойынша анықтамалық кестелер</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>624</td>
+<td>10 және 20 аралығында қосу және азайтуды үйретуге арналған оқу құралы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>625</td>
+<td>Ауызша санауға арналған үлестірмелі оқу құралы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>626</td>
+<td>Үлестің, бөлшектің, бүтіннің үлестірмелі оқу құралы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>627</td>
+<td>100 шегінде қосу мен азайтуды, көбейтуді, бөлуді, үлестермен және бөлшектермен жұмыс істеуді үйретуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>628</td>
+<td>Циферблаты бар демонстрациялық сағаттар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>629</td>
+<td>Оқушыларға арналған циферблатты сағаттар</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>630</td>
+<td>Жеке қорғаныс құралдарының жиынтығы: алжапқыш, жеңқап, қорғаныс көзілдірігі</td>
+<td>жиын</td>
+<td>25</td>
+</tr>
+<tr>
+<td>631</td>
+<td>«Бастауыш мектеп кабинетіндегі қауіпсіздік техникасы ережелері» қабырға плакаты</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>632</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>633</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>634</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>635</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>636</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>637</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>638</td>
+<td>Тақтаға жазуға арналған бор</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Жаратылыстану мен әлемді тануға арналған жабдықтар мен керек-жарақтар</th>
+</tr>
+<tr>
+<td>639</td>
+<td>Бастауыш мектепке арналған анемометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>640</td>
+<td>Батарейка 1,5V</td>
+<td>дана</td>
+<td>80</td>
+</tr>
+<tr>
+<td>641</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>642</td>
+<td>Жершары физикалық 320 миллиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>643</td>
+<td>Зертханалық динамометр 2,5 Н</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>644</td>
+<td>Саяси әлем картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>645</td>
+<td>ҚР физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>646</td>
+<td>«Бастауыш мектепке арналған пайдалы қазбалар»жинағы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>647</td>
+<td>Мектеп компасы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>648</td>
+<td>Қол ұлғайтқыш әйнегі</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>649</td>
+<td>Адам анатомиясының моделі Адам денесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>650</td>
+<td>Күн жүйесінің моделі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>651</td>
+<td>Сандық мультиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>652</td>
+<td>Ерітуге арналған заттар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>653</td>
+<td>Механика бойынша жүк жиынтығы (10х100 грамм)</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>654</td>
+<td>Топырақты зерттеуге арналған жиынтық (13 оқу тобына)</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>655</td>
+<td>Тәжірибелерге арналған магниттер жиынтығы (13 жұмыс тобына)</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>656</td>
+<td>Үйкеліс күші мен серпімділік күшімен танысуға арналған керек-жарақтар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>657</td>
+<td>Әртүрлі электр өткізгіштік денелер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>658</td>
+<td>Термометрлер жиынтығы: көше, бөлме, су</td>
+<td>жиынты</td>
+<td>8</td>
+</tr>
+<tr>
+<td>659</td>
+<td>Өлшеу рулеткасы 5 метр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>660</td>
+<td>балалар секундомері</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>661</td>
+<td>Демонстрациялық термометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>662</td>
+<td>Құмсағат 1 минут</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>663</td>
+<td>Құмсағат 3 минут</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>664</td>
+<td>Әмбебап штатив</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Пәнді терең оқытуға ұсынылатын құрал-жабдықтар</th>
+</tr>
+<tr>
+<td>665</td>
+<td>Жас физиктер жинағы</td>
+<td>жиын</td>
+<td>5</td>
+</tr>
+<tr>
+<td>666</td>
+<td>Жас биологтар жинағы</td>
+<td>жиын</td>
+<td>5</td>
+</tr>
+<tr>
+<td>667</td>
+<td>Бастауыш мектепке арналған сандық зертхана: демонстрациялық жиын «Бастауыш мектетің ғылыми негізі»</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>668</td>
+<td>Бастауыш мектепке арналған «Биология» шағын зертханасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>669</td>
+<td>Бастауыш мектепке арналған «Су және ауа» шағын зертханасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>670</td>
+<td>Бастауыш мектепке арналған «Дыбыс» шағын зертханасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>671</td>
+<td>Бастауыш мектепкеа рналған «Магнетизм» шағын зертханасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>672</td>
+<td>Бастауыш мектепке арналған «Механика» шағын зертханасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>673</td>
+<td>Бастауыш мектепке арналған «Оптика» шағын зертханасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>674</td>
+<td>Бастауыш мектепке арналған «Жылу» шағын зертханасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>675</td>
+<td>Бастауыш мектепке арналған «Электрлену» шағын зертханасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Бастауыш сыныптардың 3-4 кабинетіне шаққандағы жабдық</th>
+</tr>
+<tr>
+<th colspan="4">Жаратылыстанумен әлемді тануға арналған жабдықтармен керек-жарақтар</th>
+</tr>
+<tr>
+<td>676</td>
+<td>10Н демонстрациялық динамометр (жұп)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>677</td>
+<td>Бастауыш мектепке арналған жаңбыр өлшегіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>678</td>
+<td>Сандық USB микроскопы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>679</td>
+<td>Бастауыш мектепте емеханиканы зерттеуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>680</td>
+<td>Бастауыш мектепте оптиканы зерттеуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>681</td>
+<td>Бастауыш мектептің барлық тақырыптары бойынша интеграцияланған ғылыми эксперименттерге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>682</td>
+<td>Бастауыш мектепте салмақ пен тепе-теңдікті зерттеуге арналған жиынтық (13 оқу тобына)</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>683</td>
+<td>Бастауыш мектеп те дыбыстық құбылыстарды зерттеуге арналған жиынтық (13 оқу тобына)</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>684</td>
+<td>Бастауыш мектепте электрэнергиясын оқуға арналған жиынтық (13 оқу тобына)</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>685</td>
+<td>Қалпына келтірілетін энергияны зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>686</td>
+<td>Оқытушы мен оқушыларға арналған зертханалық ыдыс жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>687</td>
+<td>Мөлдір және мөлдір емес денелер жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>688</td>
+<td>Бастауыш мектепке арналған флюгер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>689</td>
+<td>Кішкентай қолшамы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>690</td>
+<td>Дыбыс, жылу, жарық, температура сездіргілері бар цифрлық зертхана</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Математика және қисын</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>691</td>
+<td>Зияткерлі койындар, пазлдар, ой жұмбақ</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<th colspan="4">Бастауыш мектепте лингвистикалық бағыттағы пәндерді бөлек оқытуға ұсынылған кабинет (қазақшаЯ2/ орысшаЯ2 / ағылшыншаЯ3)</th>
+</tr>
+<tr>
+<td>692</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>693</td>
+<td>Шын тақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>694</td>
+<td>Биіктігі бойынша реттелетін 15 оқушыға арналған бір немесе екі орынды оқу шылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>695</td>
+<td>Биіктігі бойынша реттелетін оқушы орындығы</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>696</td>
+<td>Оқу-көрнекі құралдарға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>697</td>
+<td>Маркермен және бормен жазылатын құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>698</td>
+<td>Жиында микрофон-телефон гарнитурасы және web-камерасы, интернетке қол жеткізу мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>699</td>
+<td>Көп функционалды құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>700</td>
+<td>Камера ұжаты</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>701</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>702</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>703</td>
+<td>Қазақ, орыс және ағылшын тілдерін үйренуге арналған электрондық кестелер, плакаттар, ойындар жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>704</td>
+<td>Қазақ, орыс және ағылшын тілдерінде суреттері бар Әліппе плакаттары А-2 форматында</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>705</td>
+<td>Қазақша бас әріп және баспа, орыс бас әріп және баспа, ағылшын бас әріп, баспа және транскрипциясы бар Әліппе плакаттары А-2 форматында</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>706</td>
+<td>Бастауыш мектепке арналған қазақ және орыс тілі бойынша тірек кестелер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>707</td>
+<td>Қазақ, орыс, ағылшын алфавиттерінің демонстрациялық әріптер жиынтығы А-6 форматында</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>708</td>
+<td>Қазақ және орыс тілдерінің буындары бойынша үлестірілетін карточкалар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>709</td>
+<td>Тілдерді үйренуге арналған тақырыптық постерлер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>710</td>
+<td>Қазақ жән еорыс тілдеріндегі сандар, түстер атауларының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>711</td>
+<td>Орыс тіліндегі «Суреттегі сөздік сөздер» карточкалар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>712</td>
+<td>Ағылшын тілі тақырыптары бойынша білім беру ойындарының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>713</td>
+<td>Қазақ тілі бойынша сөздіктер: түсіндірме, орфографиялық синонимдер, антонимдер, грамматика бойынша анықтамалар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>714</td>
+<td>Орыс тілі бойынша сөздіктер: түсіндірме, орфографиялық синонимдер, антонимдер, грамматика бойынша анықтамалар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>715</td>
+<td>Қазақ, ағылшын, орыс тілдерінде суреттердегі сөздіктер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>716</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>717</td>
+<td>Қоқыссебеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>718</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>719</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>720</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>721</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>722</td>
+<td>Мектепте тақтаға жазуға арналған бор</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th></th>
+<th>Мектепалды сыныптардың оқу кабинеті</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>723</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>724</td>
+<td>Демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>725</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>726</td>
+<td>Бір орынды үстел</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>727</td>
+<td>Оқушы орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>728</td>
+<td>Оқу-көрнекі құралдарға арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>729</td>
+<td>Маркермен және бормен жазылатын құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Компьютерлік және мультимедиялық жабдықтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>730</td>
+<td>Жиында микрофон-телефон гарнитурасы және web-камерасы, интернетке қол жеткізу мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>731</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>732</td>
+<td>Маршрути затор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>733</td>
+<td>Көп функционалды құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>734</td>
+<td>USB кірісі және интернетке кіру мүмкіндігі бар теледидар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>735</td>
+<td>Сымсыз технологиялы музыкалы қорталық (аппаратура)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>736</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Пәндік- дамытушылық ортаны жабдықтауға арналған оқу құралдары мен жабдықтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>737</td>
+<td>Циферблатты демонстрациялық сағаттар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>738</td>
+<td>Цифрларкассасы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>739</td>
+<td>Мультимедиялық құралдар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>740</td>
+<td>Көкөністер мен жемістердің, тамақ өнімдерінің нақ пішіндері</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>741</td>
+<td>Демонстрациялық геометриялық фигуралар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>742</td>
+<td>Үлестірмелі геометриялық фигуралар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>743</td>
+<td>Ермек саздан мүсіндеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>25</td>
+</tr>
+<tr>
+<td>744</td>
+<td>Қағаз және картонмен жұмыс істеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>25</td>
+</tr>
+<tr>
+<td>745</td>
+<td>Көлемді көрсетуге арналған сыйымдылықтар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>746</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызу құралдарының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>747</td>
+<td>Жазық геометриялық фигуралар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>748</td>
+<td>«Дыбыс», «Су және ауа», «Жылу», «Магнетизм» тақырыптары бойынша эксперименттерге арналған жабдықтар мен керек-жарақтар</td>
+<td>жиын</td>
+<td>13</td>
+</tr>
+<tr>
+<td>749</td>
+<td>«Қазақтың ұлттық ою-өрнегі» плакаттары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>750</td>
+<td>Суреттердегі Әліппе және қазақ және орыс тілдеріндегі Әліпби</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>751</td>
+<td>Жазушылармен ақындардың портреттері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>752</td>
+<td>Суреттер репродукциясы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>753</td>
+<td>Ертегілер мен өлеңдер жинақтары, сөздіктер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>754</td>
+<td>10-ға дейінгі есептегіш иірімдер</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>755</td>
+<td>Санау материалы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>756</td>
+<td>Магниттік санау жиынтығы</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>757</td>
+<td>Балалардың сөйлеуін дамытуға арналған сюжеттік суреттер</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>758</td>
+<td>Фланелеграф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>759</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>760</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>761</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>762</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>763</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>764</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>765</td>
+<td>Тақтаға жазуға арналған бор</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th></th>
+<th>Мектеп алды сыныптардың ойын бөлмесі</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Ойын бөлмесіне арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>766</td>
+<td>Ойындарға арналған балалар жиһазының жиындығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>767</td>
+<td>Ойыншықтар мен құралдарды сақтауға арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Ойын бөлмесіне арналған жабдықтар мен керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>768</td>
+<td>«Жануарлар, Құстар» ойыншықтары</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>769</td>
+<td>«Жиһаз» ойыншығы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>770</td>
+<td>«Ыдыстар» ойыншығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>771</td>
+<td>«Көлік» ойыншығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>772</td>
+<td>Ұсақ моториканы дамытуға арналған дидактикалық ойыншықтар</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>773</td>
+<td>Қолға арналған тақырыптық жұмсақ ойыншықтар</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>774</td>
+<td>Зияткерлік үстел ойындары және ой жұмбақ</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>775</td>
+<td>Металл бөлшектері бар конструктор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>776</td>
+<td>Пластмасса және ағаш бөлшектері бар конструктор</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>777</td>
+<td>Көлеңкелі театрға арналған қуыршақтар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>778</td>
+<td>Саусаққа кигізілетін қуыршақтар</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>779</td>
+<td>Маусымдық киімдері бар қуыршақтар</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>780</td>
+<td>Әртүрлі тақырыптағы лото</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>781</td>
+<td>Жұмсақ едендік ойын модульдері</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>782</td>
+<td>Пазлдар 1000 бөлшек</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>783</td>
+<td>Пуфик</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>784</td>
+<td>Құрылыс жинағы</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<td>785</td>
+<td>Керме шымылдық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>786</td>
+<td>Жол қозғалысының ережелері бойынша керек-жарақтар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>787</td>
+<td>Табиғаттың маусымдық өзгерістері бойынша көрнекі құралдар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>788</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>789</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>790</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>791</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>792</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>793</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>794</td>
+<td>Тақтаға жазуға арналған бор</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Цифрлық сауаттылық, АКТ және робототехника сабақтарын өткізуге арналған кабинет</th>
+</tr>
+<tr>
+<td>795</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>796</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>797</td>
+<td>Бір орынды компьютер үстелі</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>798</td>
+<td>Көтергіш – бұрылмалы балалар креслосы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>799</td>
+<td>Оқу-көрнекі құралдарға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>800</td>
+<td>1200х1200 миллиметр ернеулері бар роботтармен сабақ өткізуге арналған үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>801</td>
+<td>Екі орынды ернеулері бар үстел</td>
+<td>дана</td>
+<td>7</td>
+</tr>
+<tr>
+<td>802</td>
+<td>Оқушы орындығы</td>
+<td>дана</td>
+<td>14</td>
+</tr>
+<tr>
+<td>803</td>
+<td>Маркерлі тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>804</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>805</td>
+<td>Жиында микрофон-телефон гарнитурасы және web-камерасы, интернетке қол жеткізу мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>806</td>
+<td>Интернетке қол жетімділігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>13</td>
+</tr>
+<tr>
+<td>807</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>808</td>
+<td>Микрофонды-телефонды гарнитура</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>809</td>
+<td>Көп функционалдық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>810</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>811</td>
+<td>Электрмен жабдықтау қалқаны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>812</td>
+<td>АКТ бойынша анықтамалық және әдістемелік әдебиеттер</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>813</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>814</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>815</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>816</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>817</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>818</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>819</td>
+<td>Жарыстарға арналған алаңдар жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>820</td>
+<td>Микропроцессор, мотор, сездіргілер, конструкциялық элементтер, әдістемелік материалдар бар робототехникалық бағдарламаланатын жиынтық</td>
+<td>жиынты</td>
+<td>7</td>
+</tr>
+<tr>
+<td>821</td>
+<td>«Компьютерде жұмыс істеу кезіндегі қауіпсіздік техникасы ережелері» қабырға плакаты</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Бастауыш мектепке арналған дене шынықтыру оқытушысының нұсқаушы бөлмесі (екі оқытушыға есептегенде)</th>
+</tr>
+<tr>
+<td>822</td>
+<td>Медициналық дәрі қобдиша</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>823</td>
+<td>Маркерлі тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>824</td>
+<td>Доптарға арналған тасымалданатын себет</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>825</td>
+<td>Допты үрлеуге арналған сорғы, жиынтықта 20 инесі бар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>826</td>
+<td>Жиында микрофон-телефон гарнитурасы және web-камерасы, интернетке қол жеткізу мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>827</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>828</td>
+<td>Өлшеуіш таспа 10 метр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>829</td>
+<td>Ойын ысқырығы</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>830</td>
+<td>Секундомер</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>831</td>
+<td>Доптарды сақтауға арналған сөре</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>832</td>
+<td>Спорттық инвентарларды сақтауға арналған сөре</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>833</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>834</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>835</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>836</td>
+<td>Қарапайым пластикалық табло</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>837</td>
+<td>Кабинетке арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>838</td>
+<td>Электромегафон</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="4">Ұсынылатын 1-інде 2 тез тұрғызылатын спорттық ғимарат (спорт залы және бассейн)</th>
+</tr>
+<tr>
+<td>839</td>
+<td>Жалпақ табандылықтың алдыналуға арналған жол</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>840</td>
+<td>Жүзу тақтасы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>841</td>
+<td>Қалқымалы ойыншық</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>842</td>
+<td>Бататын ойыншық</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>843</td>
+<td>Жеңқаптар</td>
+<td>жиын</td>
+<td>25</td>
+</tr>
+<tr>
+<td>844</td>
+<td>Резеңкедоп</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>845</td>
+<td>Поролон таяқша</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>846</td>
+<td>Қалқымалы шеңбер</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>847</td>
+<td>Түрлі-түсті қлтқы (жалауша)</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>848</td>
+<td>Құтқару шеңбері</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="4">Гимнастикамен айналысуға арналған құрал-саймандар мен жабдықтар</th>
+</tr>
+<tr>
+<td>849</td>
+<td>Едендегі гимнастикалық ағаш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>850</td>
+<td>Швед қабырғасына арналған кедір тақта</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>851</td>
+<td>Өрмелеуге арналған арқан 5 метр / арқансаты</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>852</td>
+<td>Тартуға арналған арқан</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>853</td>
+<td>Гимнастикалық кіші ат</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>854</td>
+<td>Гантельдер жиынтығы 1 килограмм (құйылған)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>855</td>
+<td>Ағаш/пластик текше</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>856</td>
+<td>Гимнастикалық таспа</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>857</td>
+<td>Гимнастикалық жабын</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>858</td>
+<td>Медицинбол 1 килограмм</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>859</td>
+<td>Гимнастикалық көпір</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>860</td>
+<td>Гимнастикалық түзу көпір</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>861</td>
+<td>балаларға арналған пластик шеңбер</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>862</td>
+<td>Гимнастикалық таяқ</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>863</td>
+<td>Төмен керме</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>864</td>
+<td>Секіргіш</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>865</td>
+<td>Гимнастикалық орындық</td>
+<td>дана</td>
+<td>16</td>
+</tr>
+<tr>
+<td>866</td>
+<td>Гимнастикалық қабырға</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>867</td>
+<td>Қаңқалы туннель</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>868</td>
+<td>Түрлі түсті жалауша</td>
+<td>дана</td>
+<td>60</td>
+</tr>
+<tr>
+<th colspan="4">Жеңіл атлетикамен айналысуға арналған құрал-саймандар мен жабдықтар</th>
+</tr>
+<tr>
+<td>869</td>
+<td>Биіктікке секіруге арналған жолақ</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>870</td>
+<td>Биіктікке секіруге арналған бағана</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>871</td>
+<td>Эстафета таяқшасы</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>872</td>
+<td>Биіктікке секіруге арналған төсеніштер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>873</td>
+<td>Лақтыруға арналған нысана</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>874</td>
+<td>Лақтыруға арналған доп</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<th colspan="4">Шаңғы жарыстарымен конькимен жүгіру дайындығына арналған инвентарь</th>
+</tr>
+<tr>
+<td>875</td>
+<td>Әртүрлі өлшемді шаңғылар (шаңғылар, бәтеңкелер, бекіткіштер) жиынтығы</td>
+<td>жиын</td>
+<td>15</td>
+</tr>
+<tr>
+<td>876</td>
+<td>Әртүрлім өлшердегі шаңғы таяқтары</td>
+<td>пара</td>
+<td>15</td>
+</tr>
+<tr>
+<th colspan="4">Қозғалмалы және спорттықойындарға арналған жабдықтар</th>
+</tr>
+<tr>
+<td>877</td>
+<td>Мини футбол қақпасы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>878</td>
+<td>Допқа арналған тасымалданатын себет</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>879</td>
+<td>Кегльдер/конустар/фишкалар/тіректер жиынтығы</td>
+<td>жиын</td>
+<td>50</td>
+</tr>
+<tr>
+<td>880</td>
+<td>Баскетбол добы №3/№5</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>881</td>
+<td>Волейбол добы №5</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>882</td>
+<td>Футбол добы №4/№5</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>883</td>
+<td>Гандбол добы</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>884</td>
+<td>Үлкен резеңке доп</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>885</td>
+<td>Шағын резеңке доп</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>886</td>
+<td>Волейбол торы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>887</td>
+<td>Мини футбол қақпасына арналған тор</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>888</td>
+<td>Волейбол тұғыры</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>889</td>
+<td>Ішкі диаметрі 42 сантиметр сақиналы баскетбол қалқаны</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>890</td>
+<td>«Тоғызқұмалақ» үстел ойыны</td>
+<td>жиынты</td>
+<td>15</td>
+</tr>
+<tr>
+<td>891</td>
+<td>Шахматтар</td>
+<td>жиынты</td>
+<td>15</td>
+</tr>
+<tr>
+<td>892</td>
+<td>Шахмат сағаттары</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>893</td>
+<td>Дойбылар</td>
+<td>жиынты</td>
+<td>15</td>
+</tr>
+<tr>
+<td>894</td>
+<td>Бадминтон ойнауға арналған жиынтық</td>
+<td>жиынты</td>
+<td>15</td>
+</tr>
+<tr>
+<td>895</td>
+<td>Асық ойынына арналған жиынтық (Бес тас және асық ату)</td>
+<td>жиынты</td>
+<td>15</td>
+</tr>
+<tr>
+<td>896</td>
+<td>Спорттық балалар манишкасы</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>897</td>
+<td>Балалардың баскетбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>898</td>
+<td>Балалардың волейбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<th colspan="4">Спорт алаңшасы</th>
+</tr>
+<tr>
+<td>899</td>
+<td>Параллель металл қос сырықтар</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>900</td>
+<td>Торы бар мини футболға арналған қақпа</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>901</td>
+<td>Торы бар футбол қақпасы</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>902</td>
+<td>Резеңке немесе тартанды жеңі латлетикалық жол</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>903</td>
+<td>Гимнастикалық керме</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>904</td>
+<td>Гимнастикалық кедергілер жолағы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>905</td>
+<td>Лақтыруға арналған сектор</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>906</td>
+<td>Ұзындық қасекіру секторы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>907</td>
+<td>Қалқаны және торы бар баскетбол тағаны</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>908</td>
+<td>Торы барволей болтағаны</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>909</td>
+<td>Төрешілер мұнарасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Бастауыш мектеп оқушыларының жеке пайдалануына арналған жабдық</th>
+</tr>
+<tr>
+<td>910</td>
+<td>Оқулықтарды, аяқ киімді,спорттық керек-жарақтарды және сыртқы киімді сақтауға арналған жеке шкаф</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th colspan="4">Бастауыш мектептің барлық кабинеттеріне 1 жиынтық есебінен жабдықтармен керек-жарақтар</th>
+</tr>
+<tr>
+<td>911</td>
+<td>Музыкалық аспаптар жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>912</td>
+<td>Ұлттық ойыншықтар жинынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>913</td>
+<td>Қазақхалық шығармашылығының пәндер жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>914</td>
+<td>Балалар музыкасы мен әндерінің электрондық тасымалдағыштағы жазбалары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>915</td>
+<td>Мольберт</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>916</td>
+<td>Микрофонмен сымсыз технологиялары бар музыкалық құрал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>917</td>
+<td>Гипстік қалыптар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>918</td>
+<td>Суреттердің репродукцияларының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>919</td>
+<td>«Шығарма жанрлары», «Халықауыз әдебиеті» плакаттары</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>920</td>
+<td>«Қазақтың ұлттықою-өрнегі» плакаттары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Бастауыш білім беру ұйымдарында дамытушы пәндік-кеңістікті кортаны құру және психологиялық-педагогикалық қолдау үшін ұсынылатын жабдық</th>
+</tr>
+<tr>
+<th></th>
+<th>Жұмсақ ойын бөлмесі (көп функциялы жабдық)</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>921</td>
+<td>Тақырыптық қаптары бар поролоннан жасалған дидактикалық едендік ойыншық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>922</td>
+<td>Поролоннан жасалған ойын лабиринті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>923</td>
+<td>Поролоннан жасалған дидактикалық манеж</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>924</td>
+<td>Жұмсақ еден жасау үшін еден төсеніштері</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>925</td>
+<td>Жууға болатын әртүрлі түсті полимерлі матамен қапталған поролоннан жасалған жұмсақ жиһаз</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>926</td>
+<td>дамытуға арналған әртүрлі және түрлі мөлшердегі толтырылатын терапиялық доптар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>927</td>
+<td>Жұмсақ көп функциялы жиынтықтар, конструкторлар</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>928</td>
+<td>Сипау дағдыларын дамытуға арналған жұмсақ тактильді-дамытушы панель</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>929</td>
+<td>Жиында түрлі-түсті пластикалық шарлармен толтырылған құрғақ бассейн</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>930</td>
+<td>Еден кілем жабындары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Жалпы моториканы дамытуға арналған жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>931</td>
+<td>Қозғалыстарды үйлестіруді, тактильді сезімдерді дамытуға ықпал ететін әртүрлі еден төсеніштері</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>932</td>
+<td>Доңғалақ-трансформер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>933</td>
+<td>Балалардың қабырға баспалдақтары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>934</td>
+<td>Поролоннан жасалған вестибулярлық тренажер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Ұсақ моториканы дамытуға арналған жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>935</td>
+<td>Дидактикалық оқу құралы бар ойыншық</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<td>936</td>
+<td>Монтессори-педагогика элементтері бар дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>937</td>
+<td>Жеке және топтық сабақтарға арналған дидактикалық модульдік кешен</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>938</td>
+<td>Тактильді сезімдерді, ұсақ моториканы, қиялды және көру стимуляциясын дамытуға арналған дамытушы едендік текше.</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>939</td>
+<td>Ұсақ моториканы дамытуға арналған сәндік-дамытушы панель</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>940</td>
+<td>Интерактивті дыбыстық панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>941</td>
+<td>Қабырғаға арналған акустикалы тактильді панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>942</td>
+<td>Қабырғаға арналған тактильді-дамытушы панель</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>943</td>
+<td>Үстелге арналған тактильді- дамытушы панель</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>944</td>
+<td>Үстел-мозаика</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>945</td>
+<td>Математикалық білімді қалыптастыруға арналған жүйелі дидактикалық материал</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>946</td>
+<td>Мультимедиялық интерактивті бағдарламалық-әдістемелік оқыту кешені ( қазақ, орыс және ағылшын тілдерінде)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>947</td>
+<td>Жолдарда жүріп-тұрудың негізгі ережелері мен дағдыларын, қауіпсіз өмір сүру негіздерін, оның ішінде өрт қауіпсіздігін оқытуға арналған дидактикалық еденді койын жиындары, гигиенаның негізгі дағдыларын, қоғамдық көлікте жүру кезіндегі балалардың мінез-құлқының негізгі ережелерін үйрету.</td>
+<td>жиын</td>
+<td>4</td>
+</tr>
+<tr>
+<th colspan="4">Мүмкіндігі шектеулі балалардың білім алуына арнайы жағдай жасау үшін ұсынылатын жабдықтар мен жиһаз</th>
+</tr>
+<tr>
+<td>948</td>
+<td>Көзі көрмейтін және нашарк өретін балаларға, тірек-қимыл аппараты бұзылған балаларға ғимарат, үй-жай немесе кабинет ішінде кіруді/шығуды және қозғалуды қамтамасыз ететін бұйымдар (қабаттарға орын ауыстыруды ескере отырып)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>949</td>
+<td>Естімейтін және нашареститін балаларға, сондай-ақ кохлеарлық импланттары бар балаларға арналған дыбыс күшейткіш бұйымдары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>950</td>
+<td>Тірек-қимыл аппараты мен көру қабілеті бұзылған балаларға арналған оқу орнын ұйымдастыруға арналған құрылғылар мен жиһаз</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Қауіпсіздікті қамтамасыз ету үшін ұсынылған құрал- жабдықтар</th>
+</tr>
+<tr>
+<td>951</td>
+<td>Кіруді бақылау және басқару жүйесімен, күзет сигнализациясын хабардар ету құралдарымен жабдық жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>952</td>
+<td>Бейнекамералары бар бейнебақылау жүйесі жабдықтарының жиынтығы ( мектеп ғимаратының алаңын абайланысты)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>953</td>
+<td>Дауыстық хабарлауы бар өрт дабылы жүйесін орнату</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+</table>
+
+## Негізгі орта білім беру ұйымдарын жабдықтармен және жиһазбен жабдықтау нормалары
+
+<table>
+<tr>
+<th>№</th>
+<th>Атауы</th>
+<th>Өлшем бірлігі</th>
+<th>Саны</th>
+</tr>
+<tr>
+<th colspan="4">Қазақ тілі және әдебиеті кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>954</td>
+<td>Маркермен және бормен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>955</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>956</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>957</td>
+<td>25 оқушыға арналған бір немесе екі орынды оқу шылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>958</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>959</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>960</td>
+<td>Плакаттарға (карталарға) арналған аласа шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>961</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>962</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>963</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>964</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>965</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Плакаттар мен стендтер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>966</td>
+<td>Қазақ тілін оқыту тақырыптары бойынша плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>967</td>
+<td>«Әдебиет теориясының жетекш іұғымдары» плакаттары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>968</td>
+<td>«Қазақақындары мен жазушылары» портреттері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>969</td>
+<td>Пластикалық негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>970</td>
+<td>Электрондық оқу басылымдарының жиыны, оның ішінде аудио мәтіндер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>971</td>
+<td>Дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>972</td>
+<td>Үлестірме материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>973</td>
+<td>Картиналар репродукциясы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>974</td>
+<td>Ертегілер ( қазақ және әлем ертегілері) жинағы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>975</td>
+<td>Әдебиеттану: терминдер сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>976</td>
+<td>Қазақ әдебиеті: энциклопедиялық анықтамалық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>977</td>
+<td>Қазақ тілінің диалектілер сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>978</td>
+<td>Қазақ тілінің орфографиялық сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>979</td>
+<td>Қазақ тілінің орфоэпиялық сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>980</td>
+<td>Қазақ тілінің түсіндірме сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>981</td>
+<td>Қазақ тілінің фразеологиялық сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>982</td>
+<td>Қазақ тілінің этимологиялық сөздігі</td>
+<td>дана</td>
+<td></td>
+</tr>
+<tr>
+<td>983</td>
+<td>Қазақстан жазушыларының антологиясы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>984</td>
+<td>Мақал-мәтелдер жинағы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>985</td>
+<td>Тіл білімі терминдерінің түсіндірме сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>986</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>987</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>988</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>989</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>990</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>991</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>992</td>
+<td>Мектеп боры</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Ағылшын тілі кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>993</td>
+<td>Маркермен немесе бормен жазылатын тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>994</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>995</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>996</td>
+<td>13 оқушыға арналған бір немесе екі орынды үстелдер жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>997</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>998</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>999</td>
+<td>Плакаттарға (карталарға) арналған аласа шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1000</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1001</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1002</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1003</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1004</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Плакаттар мен стендтер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1005</td>
+<td>Ағылшын тілінің тақырыптары бойынша плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1006</td>
+<td>Пластикалық негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1007</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1008</td>
+<td>Дидактикалық материалдар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1009</td>
+<td>Үлестірме материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1010</td>
+<td>Транскрипциясы бар әліпби</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1011</td>
+<td>Оқытылатын тілдің елі жөніндегі альбом</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1012</td>
+<td>Оқытылатын тілдерінің картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1013</td>
+<td>Оқытылатын тілдің түсіндірме сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1014</td>
+<td>Оқуға арналған әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1015</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1016</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1017</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1018</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1019</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1020</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1021</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Математика кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1022</td>
+<td>Маркермен және бормен жазылатын бес элементті құраматақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1023</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1024</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1025</td>
+<td>25 оқушыға арналған бір немесе екі орынды оқу шылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1026</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1027</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1028</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1029</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1030</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1031</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1032</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Графикалық калькуляторы бар математикадан сандық зертхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1033</td>
+<td>Қайта зарядталатын батареясы бар графикалық калькулятор</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<th></th>
+<th>Жалпы мақсаттағы оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1034</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызба аспаптар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Демонстрациялық оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1035</td>
+<td>Куб пен сфераның демонстрациясына арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1036</td>
+<td>Көлемді геометриялық фигуралардың демонстрациясына арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1037</td>
+<td>Жаймалы геометриялық фигуралардың демонстрациясына арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1038</td>
+<td>Демонстрациялық қимасы бар мөлдір геометриялық денелер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1039</td>
+<td>Жазық фигураларды жасауға арналған жиынтық</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1040</td>
+<td>Ықтималдық заңдарын зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1041</td>
+<td>Жиынтық Шаршы мен шеңбердің бөлшекті бөліктері</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертханалық құралдар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1042</td>
+<td>Көлемді геометриялық фигураларды үлестірмелі жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1043</td>
+<td>13 жұмыстобына арналған өзектік геометриялық пішіндер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Плакаттар мен стендтер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1044</td>
+<td>Пластик негіздегі қабырғастендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1045</td>
+<td>Электрондық оқу басылымдарының жиыны, оның ішінде плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1046</td>
+<td>Дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1047</td>
+<td>Үлестірме материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1048</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1049</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1050</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1051</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1052</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1053</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1054</td>
+<td>Мектеп боры</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Зияткерлік ойындар мен логиканы дамытуға арналған кабинеті (математика кабинетімен біріктіруге болады)</th>
+</tr>
+<tr>
+<td></td>
+<td>Жиһаз</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1055</td>
+<td>Маркерлі қабырғалық тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1056</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1057</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1058</td>
+<td>24 оқушыға арналған екі орынды оқу шылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1059</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>24</td>
+</tr>
+<tr>
+<td>1060</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1061</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1062</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1063</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1064</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1065</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Үстел ойындары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1066</td>
+<td>Жасқа сәйкес әртүрлі басқа тырғыштар</td>
+<td>дана</td>
+<td>24</td>
+</tr>
+<tr>
+<td>1067</td>
+<td>Жасына сәйкес әртүрлі үстел ойындары</td>
+<td>дана</td>
+<td>24</td>
+</tr>
+<tr>
+<td>1068</td>
+<td>«Тоғыз құмалақ» үстел ойыны</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1069</td>
+<td>Пазлдар</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<th></th>
+<th>Шахмат секциясы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1070</td>
+<td>Шахматшы қойын дәптері</td>
+<td>дана</td>
+<td>24</td>
+</tr>
+<tr>
+<td>1071</td>
+<td>Шахмат бойынша электронды басылымдар жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1072</td>
+<td>Шахмат бойынша оқу-әдістемелік материалдар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1073</td>
+<td>Жиынында фигуралары бар шахматтық демонтсрациялық тақта</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1074</td>
+<td>Шахмат сағаттары</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1075</td>
+<td>Жиынтықта тақтасы бар шахматтар</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1076</td>
+<td>Жиынтықта тақтасы бар дойбы</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1077</td>
+<td>Демонстрациялық тақтаға арналған магнитті дойбы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1078</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1079</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1080</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1081</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1082</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1083</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<th colspan="4">Орыс тілі және әдебиеті кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1084</td>
+<td>Маркермен және бормен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1085</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1086</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1087</td>
+<td>25 оқушыға арналған бір немесе екі орынды оқушылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1088</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1089</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1090</td>
+<td>Плакаттарға (карталарға) арналған аласа шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1091</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1092</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1093</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1094</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1095</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Плакаттар мен стендтер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1096</td>
+<td>Орыс тілі және орыс әдебиеті тақырыптары бойынша плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1097</td>
+<td>Пластикалық негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1098</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1099</td>
+<td>Дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1100</td>
+<td>Орыс тілінің орфографиялық сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1101</td>
+<td>Үлестірме материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1102</td>
+<td>Орыс тілінің синонимдері мен антонимдерінің сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1103</td>
+<td>Орыс тілінің түсіндірме сөздігі Ожегов С. И.</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1104</td>
+<td>Орыс әдеби тілінің фразеологиялық сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1105</td>
+<td>Көркем әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1106</td>
+<td>Орыс әдебиеті энциклопедиясы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1107</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1108</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1109</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1110</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1111</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1112</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1113</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Зертхана бөлмесі бар физика кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1114</td>
+<td>Маркермен және бормен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1115</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1116</td>
+<td>Электр энергиясы жеткізілген демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1117</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1118</td>
+<td>2 орынды зертханалық үстел</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1119</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1120</td>
+<td>Ашық және жабықсөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертхана бөлмесіне арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1121</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1122</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1123</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1124</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1125</td>
+<td>Ашық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1126</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1127</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1128</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1129</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1130</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Физика бойынша сандық зертхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1131</td>
+<td>Гальванометрлік берілгіші</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1132</td>
+<td>Қозғалыс берілгіші</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1133</td>
+<td>Күш және үдеу берілгіші</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1134</td>
+<td>Дыбыс берілгіші</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1135</td>
+<td>Магнитті өріс берілгіші</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1136</td>
+<td>Түс және жарық берілгіші</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1137</td>
+<td>Фото затвор берілгіші</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1138</td>
+<td>Температура берілгіші</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1139</td>
+<td>Датчиктермен жұмыс істеуге арналған динамикалық жүйе</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1140</td>
+<td>Арнайы бағдарламалық жасақтамасы бар деректер тіркеушісі (сымсыз сездіргілер үшін қажет емес)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1141</td>
+<td>Сандық зертханадағы эксперименттері бар кітап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Демонстрациялық жиынтықтар, аспаптар мен керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1142</td>
+<td>Барометр-анероид</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1143</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1144</td>
+<td>Айнымалы токты өлшеуге арналған вольтметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1145</td>
+<td>Вимшурст генераторы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1146</td>
+<td>Психрометрлік гигрометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1147</td>
+<td>Демонстрациялық динамометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1148</td>
+<td>Дөңес және ойы сайна ( жиынтықта оптика болмаған кезде)</td>
+<td>пара</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1149</td>
+<td>Айнымалы және тұрақты ток көзі</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1150</td>
+<td>Резонанстық жәшіктердегі камертондар</td>
+<td>пара</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1151</td>
+<td>Томсон орауышы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1152</td>
+<td>Демонстрациялық блоктар жиыны (жиынтықта Механика болмаған кезде)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1153</td>
+<td>Демонстрациялық кедергілер магазині</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1154</td>
+<td>U-тәріздес демонстрациялық магнит</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1155</td>
+<td>Магнитті демонстрациялық жолақ</td>
+<td>пара</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1156</td>
+<td>Сұйықтықты демонстрациялық манометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1157</td>
+<td>Электр статикалық маятник</td>
+<td>пара</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1158</td>
+<td>Айнымалы токты өлшеуге арналған микроамперметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1159</td>
+<td>Айнымалы токты өлшеуге арналған миллиамперметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1160</td>
+<td>Кристалдық тор үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1161</td>
+<td>Атмосфералық қысымды зерттеуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1162</td>
+<td>Механиканы зерттеуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1163</td>
+<td>Оптиканы зерттеуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1164</td>
+<td>Электр статиканы зерттеуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1165</td>
+<td>Штативі бар 5 маятник шарының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1166</td>
+<td>Физика кабинетіне арналған құралдар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1167</td>
+<td>Капиллярлар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1168</td>
+<td>Физика кабинетіне арналған зертхана ыдыстары мен керек-жарақтарының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1169</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызба аспаптар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1170</td>
+<td>Қолсорғысы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1171</td>
+<td>Баллистикалық тапанша</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1172</td>
+<td>Сандық Мультиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1173</td>
+<td>Зертханалық электрплитасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1174</td>
+<td>Өткізгіштің кедергісінің оның ұзындығына, қимасына және материалына тәуелділігін көрсетуге арналған аспап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1175</td>
+<td>Газ заңдарын зерттеуге арналған манометрі бар аспап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1176</td>
+<td>Жүгірткі реостаты</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1177</td>
+<td>Байланысатын ыдыстар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1178</td>
+<td>Паскаль шары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1179</td>
+<td>Сақинасы бар шар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1180</td>
+<td>Әмбебап штатив</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертхана аспаптары мен керек-жарақтары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1181</td>
+<td>Бағыттамалы зертханалық амперметр 0,6 А-3А</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1182</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1183</td>
+<td>Бағыттамалы зертханалық вольтметр 3V-15V</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1184</td>
+<td>Бірполюсті зертханалық ажыратқыш</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1185</td>
+<td>Зертханалық динамометр</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1186</td>
+<td>Капсуладағытемірұнтағы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1187</td>
+<td>Галилей науасы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1188</td>
+<td>Стаканы бар калориметр</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1189</td>
+<td>Зертханалық бастапқы орам орауышы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1190</td>
+<td>Зертханалық блоктар жиыны</td>
+<td>жиын</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1191</td>
+<td>Қосқыш сымдар жиыны</td>
+<td>жиын</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1192</td>
+<td>Зертханалық шам ұстағыш</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1193</td>
+<td>Экраны бар тұғырдағы линза</td>
+<td>жиын</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1194</td>
+<td>U-тәріздес зертханалық магнит</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1195</td>
+<td>Зертханалық жолақты магнит жұп</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1196</td>
+<td>Математикалық маятник</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1197</td>
+<td>Электр қозғалтқыштың (жиналмалы) зертханалық үлгісі</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1198</td>
+<td>Механика бойынша жүктер жиынтығы (10х100 грамм)</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1199</td>
+<td>Дифракциялықт орлар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1200</td>
+<td>Калориметрлік денелер жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1201</td>
+<td>Қаттылығы әртүрлі серіппелер жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1202</td>
+<td>Көлемі және массасы тең денелер жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1203</td>
+<td>Электр тізбектерін құрастыруға арналған тақша</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1204</td>
+<td>Дифракциялық торлардың жиынтығы бар жарық толқынының ұзындығын өлшеуге арналған аспап</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1205</td>
+<td>Зертханалық электрплитасы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1206</td>
+<td>Жүгірткі реостаты</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1207</td>
+<td>Зертханалық иінтірек - сызғыш</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1208</td>
+<td>Штативтегі магнитті жебелер (жұп)</td>
+<td>пара</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1209</td>
+<td>Зертханалық трибометр</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1210</td>
+<td>Зертханалық құрама штатив</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1211</td>
+<td>Бөлшектері бар құрастырмалы электромагнит</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары, стендтер мен кестелер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1212</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1213</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1214</td>
+<td>Физикадан электронды плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1215</td>
+<td>Жылжымалы жұлдызды аспанның картасы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1216</td>
+<td>Физикадан виртуалды жұмыстарды жүргізуге арналған бағдарламалық жасақтама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1217</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1218</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1219</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1220</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1221</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1222</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1223</td>
+<td>Мектеп боры</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th></th>
+<th>Информатика кабинеті (IT- сынып)</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1224</td>
+<td>Маркерлі тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1225</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1226</td>
+<td>Аунақшадағы айналмалы кресло</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1227</td>
+<td>Бір орынды компьютерлік үстел</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1228</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1229</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1230</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1231</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1232</td>
+<td>Үздіксіз қуаттау көзі 1200VA</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1233</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1234</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары, стендтер мен кестелер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1235</td>
+<td>Информатика кабинетіндегі қауіпсіздік техникасы қағидаларының кестесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1236</td>
+<td>IT-технология кестесі</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1237</td>
+<td>Сандық ресурстарды басқаруға арналған бағдарламалық жасақтама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1238</td>
+<td>Компьютерлік графика, бағдарламалау негіздері, бейнетехнологиялар бойынша бағдарламалық құралдардың жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1239</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1240</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1241</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1242</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1243</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1244</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1245</td>
+<td>Электрмен жабдықтау қалқаны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Тарих пен мемлекет және құқық негіздері кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1246</td>
+<td>Маркермен және бормен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1247</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1248</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1249</td>
+<td>25 оқушыға арналған бір немесе екі орынды оқушылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1250</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1251</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1252</td>
+<td>Плакаттарға (карталарға) арналған аласа шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1253</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1254</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1255</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1256</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1257</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1258</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1259</td>
+<td>Ноутбуктарды сақтауға және зарядтауға арналған арба</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Дүниежүзілік тарихының карталары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1260</td>
+<td>XIII-XV ғасырлардағы Балқан және Кіші Азия картасы. Түрік-османдардың жаулап алуы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1261</td>
+<td>XX ғасырдың екінші жартысы мен XXI ғасырдың басындағы Таяу Шығыс пен Оңтүстік Азия елдерінің картасы 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1262</td>
+<td>Ұлы Отан соғысының картасы (1941 жылғы 22 маусым-1943 жылғы желтоқсан) 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1263</td>
+<td>Ұлы француз революциясы және Наполеон соғысының картасы 1789-1815 жылдар 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1264</td>
+<td>Халықтардың ұлы қоныс аудару картасы. Батыс Рим империясының жойылуы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1265</td>
+<td>Солтүстік Америка отарларының тәуелсіздік соғысы және АҚШ-тың құрылуы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1266</td>
+<td>XX ғасырдың екінші жартысы-XXI басындағы Шығыс және Оңтүстік-шығыс Азия картасы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1267</td>
+<td>АҚШ-тағы азаматтық соғыс картасы (1861 - 1865 жылдар) 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1268</td>
+<td>Ұлы Отан соғысының аяқталуы картасы (1944 ж. қаңтар-1945 жылғы мамыр, Жапонияны талқандау) 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1269</td>
+<td>Арабтарды жаула палу картасы. Араб халифаты және оның ыдырауы VIII-IX ғғ 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1270</td>
+<td>Екінші дүниежүзілік соғыстан кейінгі Батыс Еуропа картасы. ХХ ғасырдың екінші жартысында-XXI ғасырдың басындағы Еуропа 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1271</td>
+<td>VII-XII ғасырдағы Үндістан және Қытай картасы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1272</td>
+<td>Крест жорығының картасы XI-XIII ғасырдағы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1273</td>
+<td>XX ғасырдың екінші жартысы- XXI ғасырдың басындағы әлем картасы-100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1274</td>
+<td>Моңғол шапқыншылығы картасы XIIIғ 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1275</td>
+<td>Тәуелсіз мемлекеттердің құрылу картасы. Бірінші дүниежүзілік соғыстан кейінгі Еуропадағы аумақтық өзгерістер 1918-1923 жылдар 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1276</td>
+<td>Бірінші дүниежүзілік соғыс картасы 1914-1918 жылдар Еуропа мен Кавказдағы әскери іс-қимылдар 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1277</td>
+<td>XII-XIV ғасырлардағы Қасиетті Рим империясы картасы. ХIV- ХV ғасырдағы Италия 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1278</td>
+<td>1985-1991 жылдар Кеңес Одағының картасы КСРО-ның ыдырауы 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1279</td>
+<td>Александр Македонский державасының құрылу және ыдырау картасы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1280</td>
+<td>1922-1939 жж. Кеңестік Социалистік Республикалар Одағының картасы 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1281</td>
+<td>Жүзжылдық соғыс картасы 1337-1453 жж 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1282</td>
+<td>Африка елінің картасы ХХ ғасырдың екінші жартысы-XXI ғасырдың басы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1283</td>
+<td>АҚШ пен Орталық және Оңтүстік Америка елдерінің картасы XX-XXI ғасырдың екінші жартысы 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1284</td>
+<td>Әлемнің саяси картасы 1:25 000 000</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қазақстан тарихы бойынша карталар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1285</td>
+<td>ҰОС жылдарындағы Қазақстан картасы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1286</td>
+<td>Азамат соғысы жылдарындағы Қазақстан картасы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1287</td>
+<td>Моңғол империясы құрамындағы Қазақстан картасы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1288</td>
+<td>Орта ғасырдағы Қазақстан картасы. Қазақстан аумағындағы мемлекеттік құрылымдар 13-15 ғасырлар 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1289</td>
+<td>Орта ғасырдағы Қазақстан картасы. Жоңғар шапқыншылығы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1290</td>
+<td>Орта ғасырдағы Қазақстан картасы. 18 ғасырдың басындағы Қазақ хандығы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1291</td>
+<td>Орта ғасырдағы Қазақстан картасы. Қазақ хандығы. 1465-1466 жылдар білім беру және аумағын кеңейту 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1292</td>
+<td>Орта ғасырдағы Қазақстан картасы. Әмір Темірдің жорықтары 1336-1405 жылдар 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1293</td>
+<td>Қазақстан картасы. Кенесары Қасымұлының басшылығымен ұлт-азаттық қозғалыс 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1294</td>
+<td>Қазақстан картасы. Сырым Датұлының ұлт-азаттық қозғалысы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1295</td>
+<td>Қазақстан картасы. 19-20 ғасырдың басында сауданың дамуы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1296</td>
+<td>Қазақстан картасы.Қазақтардың 1812 жылғы Отан соғысына қатысуы, 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1297</td>
+<td>ҚР саяси-әкімшілік картасы 1:1 500 000 ламинатталған</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1298</td>
+<td>Ежелгі Қазақстан карталары жиында 10 дана 100х70 сантиметр</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Плакаттар мен портреттер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1299</td>
+<td>Плакаттар «Жаңа тарих»</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1300</td>
+<td>Плакаттар «Жалпылама дүниежүзі тарихы»</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1301</td>
+<td>Плакаттар «Саяси ағымдар»</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1302</td>
+<td>Плакаттар «Құқық теориясы»</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1303</td>
+<td>Плакаттар: әлем тарихы мен Қазақстан тарихының уақыт таспасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1304</td>
+<td>Қазақстан тарихы, Дүниежүзілік тарих, Құқық негіздері бойынша электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1305</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1306</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1307</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1308</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1309</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1310</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1311</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1312</td>
+<td>Мектеп боры</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">География кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1313</td>
+<td>Маркермен және бормен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1314</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1315</td>
+<td>Демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1316</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1317</td>
+<td>25 оқушыға арналған бір немесе екі орынды оқушылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1318</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1319</td>
+<td>Ашық және жабықсөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1320</td>
+<td>Плакаттарға (карталарға) арналған аласа шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1321</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1322</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1323</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1324</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1325</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>География бойынша ұсынылатын Сандық зертхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1326</td>
+<td>Ауа-райы стансасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1327</td>
+<td>Су сапасын өлшеу датчигі (pH)</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1328</td>
+<td>Атмосфералық қысым датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1329</td>
+<td>Топырақтың ылғалдылық датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1330</td>
+<td>Ерітіндінің лайлылық датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1331</td>
+<td>Температура датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1332</td>
+<td>Электр өткізгіштік датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1333</td>
+<td>Арнайы бағдарламалық жасақтамасы бар деректер тіркеушісі (сымсыз сездіргілер үшін қажет емес )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1334</td>
+<td>Сандық зертханадағы эксперименттері бар кітап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Әлемнің және аймақтардың қағаз карталары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1335</td>
+<td>Австралия және Океания саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1336</td>
+<td>Австралия және Океания физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1337</td>
+<td>Азияның саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1338</td>
+<td>Азияның физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1339</td>
+<td>Африканың саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1340</td>
+<td>Африканың физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1341</td>
+<td>Еуразияның физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1342</td>
+<td>Еуропаның саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1343</td>
+<td>Әлемнің климаттық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1344</td>
+<td>Әлемнің саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1345</td>
+<td>Әлемнің физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1346</td>
+<td>Әлем халықтарының және халық тығыздығының картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1347</td>
+<td>Теңіздер картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1348</td>
+<td>Әлемнің табиғи аймақтарының картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1349</td>
+<td>Солтүстік Американың саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1350</td>
+<td>Солтүстік Американың физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1351</td>
+<td>Әлемдегі экологиялық мәселелер картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1352</td>
+<td>Оңтүстік Американың саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1353</td>
+<td>Оңтүстік Американың физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қазақстан Республикасының қағаз карталары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1354</td>
+<td>Қазақстан Республикасының саяси-әкімшілік картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1355</td>
+<td>Қазақстан Республикасының физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Демонстрациялық үлгілер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1356</td>
+<td>Жұлдызды аспан глобусы 320 миллиметр жарықтандырылған</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1357</td>
+<td>Жер глобусы саяси 320 миллиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1358</td>
+<td>Жер глобусы физикалық 150 миллиметр</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1359</td>
+<td>Ай глобусы 320 миллиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1360</td>
+<td>Марс глобусы 320 миллиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1361</td>
+<td>География бойынша үлгі «Жер қыртысының жылжуы мен бұзылымдары»</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1362</td>
+<td>География бойынша үлгі «Жерқұрылымы»</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1363</td>
+<td>География бойынша үлгі «Теңіз түбібедерінің құрылымы»</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1364</td>
+<td>«Күн–Жер–Ай (теллурий)» үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1365</td>
+<td>Циклон және антициклон үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Табиғи коллекциялар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1366</td>
+<td>«Минералдар мен тау жыныстары» коллекциясы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1367</td>
+<td>«Пайдалы қазбалар» коллекциясы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Аспаптармен керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1368</td>
+<td>Барометр-анероид</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1369</td>
+<td>Гигрометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1370</td>
+<td>Электрондық қашықтық өлшеуіш</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1371</td>
+<td>Мектеп компасы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1372</td>
+<td>Курвиметр</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1373</td>
+<td>Өлшеуіш таспа</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1374</td>
+<td>Еңжоғарғы және еңтөменгі мәндерді тіркейтін термометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1375</td>
+<td>Сейсмограф үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1376</td>
+<td>Флюгер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары мен стендтер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1377</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1378</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1379</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1380</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1381</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1382</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1383</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1384</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1385</td>
+<td>Мектеп боры</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th></th>
+<th>STEM- зертханасы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1386</td>
+<td>Жанышталған фанерадан жасалған үстелшесі бар тумбасыз шебер үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1387</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>9</td>
+</tr>
+<tr>
+<td>1388</td>
+<td>Демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1389</td>
+<td>4 орынға арналған зертханалық үстел</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1390</td>
+<td>12 оқу шыға арналған модульдік үстелдер жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1391</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1392</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1393</td>
+<td>3D принтерге арналған тумба</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1394</td>
+<td>Доңғалақтардағы зертханалық тумба</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1395</td>
+<td>Мобильді тұғырықтағы флипчарт</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1396</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1397</td>
+<td>Науалары бар шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1398</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1399</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1400</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1401</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1402</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1403</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Бағдарламалық жасақтама</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1404</td>
+<td>Табиғиғылымдар бойынша ресурстардың 3-D кітапханасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1405</td>
+<td>Шексіз лицензиясы бар шынайылықпен толықтырылған бағдарлама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Математикалық зерттеулер секторы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1406</td>
+<td>Қайта зарядталатын батареясы бар графикалық калькулятор</td>
+<td>жиын</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1407</td>
+<td>Геоборд</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1408</td>
+<td>Жалпақ пішіндердің конструкторы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1409</td>
+<td>Пластикті штанген циркуль үлгісі</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1410</td>
+<td>Ықтималдық заңдарын зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Жаратылыстану-ғылыми эксперименттер секторы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1411</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1412</td>
+<td>Гидропоника бойынша шағын зертхана</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1413</td>
+<td>Сандық USB микроскоп</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1414</td>
+<td>Сандық мультиметр</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1415</td>
+<td>Жаратылыстану ғылымдары бойынша зерттеулерге арналған жиынтық</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1416</td>
+<td>Тәжірибеге арналған ыдыстар жиынтығы</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1417</td>
+<td>Оқытушыға арналған әмбебап штатив</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1418</td>
+<td>Зертханалық құрамаштатив</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1419</td>
+<td>Әдістемелік материалдары бар жаратылыстану ғылымдары бойынша сандық зертхана</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Инженерлік жобалар мен технологиялар секторы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1420</td>
+<td>3D-принтер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1421</td>
+<td>Пластик PLA 1,75 миллиметр, 1 килограмм</td>
+<td>килограмм</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1422</td>
+<td>Дизайн және технологияға арналған CББ (Сандық және бағдарламалық басқару) машинасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1423</td>
+<td>Ғылыми сездіргілер мен Ардуино базасында білім беру жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1424</td>
+<td>Индустриялық процестерді симуляциялауға арналған робототехникалық жабдықтар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1425</td>
+<td>RaspberryPi білім беру және интернет заттар жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1426</td>
+<td>Нейротехнологияны зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1427</td>
+<td>Әдістемелік материалдары бар баламалы энергетиканы зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1428</td>
+<td>Виртуалды шынайылық көзілдірігі</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1429</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1430</td>
+<td>Флипчартқа арналған қойын дәптер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1431</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1432</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1433</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1434</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1435</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1436</td>
+<td>Ашық үлгідегі қорғаныс көзілдірігі</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1437</td>
+<td>Медициналық м/м халат</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<th colspan="4">Робототехника кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1438</td>
+<td>Маркерлі қабырғалық тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1439</td>
+<td>Аунақшалардағы айналмалы кресло</td>
+<td>дана</td>
+<td>7</td>
+</tr>
+<tr>
+<td>1440</td>
+<td>Ернеулері 2400х1200 миллиметр және 4 жылжымалы тумбалары бар үстел</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1441</td>
+<td>1 орынды модульді үстел</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1442</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1443</td>
+<td>2 орынды ернеулері бар үстел</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1444</td>
+<td>Оқушы орындығы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1445</td>
+<td>3D-принтерге арналған тумба</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1446</td>
+<td>Науалары бар шкаф</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1447</td>
+<td>Жартылай ашық шкаф немесе сөре</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1448</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1449</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1450</td>
+<td>Микрофон-телефон гарнитурасы</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1451</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1452</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1453</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<th></th>
+<th>Құралдар, стендер мен кестелер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1454</td>
+<td>Робототехника кестесі</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1455</td>
+<td>Білім беру робототехникасы бойынша бағдарламалық құралдар мен оқу – әдістемелік кешендер жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1456</td>
+<td>Робототехника мен айналысуға арналған жаттығу жолдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>3D-үлгілеу</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1457</td>
+<td>3D-принтер жинақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1458</td>
+<td>Пластик PLA 1,75 миллиметр</td>
+<td>килограмм</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Робототехникалық жиынтық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1459</td>
+<td>Бағдарламалық блоктар түріндегі бағдарламалау ортасымен, құрамынд аэкранды микроконтроллер, моторлар, сездіргілер, конструкциялық элементтер, әдістемелік материалдар бар робототехникалық жиынтық</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1460</td>
+<td>Ардуино зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1461</td>
+<td>RaspberryPi білім беру және интернет заттарды зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1462</td>
+<td>Жарыстарға дайындауға арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1463</td>
+<td>Квадрокоптері бар білім беру жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1464</td>
+<td>Антропоморфты робот</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1465</td>
+<td>Тақтаны, жұмысқа қажетті құралдарды, әдістеме материалдарды қамтитын интернет заттар үлгілері бар жалпы физикалық тақтада орналасқан микробақылаулары мен сенсорларды бағдарламалауды үйренуге арналған оқу жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1466</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1467</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1468</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1469</td>
+<td>Маркерлі қабырғалық тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1470</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1471</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1472</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<th colspan="4">Зертханасы бар ұсынылатын биотехнология кабинеті</th>
+</tr>
+<tr>
+<td>1473</td>
+<td>Бес элементті маркерлі және борлы құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1474</td>
+<td>Компьютерге арналған приставкасы бар оқытушының үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1475</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1476</td>
+<td>Электр қуаты берілген демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1477</td>
+<td>2 орынды зертханалық үстел</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1478</td>
+<td>Оқушыға арналған орындық</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1479</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="4">Зертханаға арналған жиһаз</th>
+</tr>
+<tr>
+<td>1480</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1481</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1482</td>
+<td>Ашық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1483</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1484</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1485</td>
+<td>Желдету жүйесі бар демонстрациялық шкафы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1486</td>
+<td>Желдету жүйесі бар химиялық реактивтерді сақтауға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1487</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1488</td>
+<td>Акустикалық үстел жүйесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1489</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1490</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1491</td>
+<td>Интерактивті панелі / проекторы бар интерактивті тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1492</td>
+<td>Жиынтықта қосалқы аккумуляторлы батареясы бар ноутбук</td>
+<td>дана</td>
+<td>26</td>
+</tr>
+<tr>
+<td>1493</td>
+<td>Арба-зарядтау құрылғысы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Аспаптар және керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1494</td>
+<td>Агароз электрофорезінің экспери менттерін жүргізуге арналған жабдықтар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1495</td>
+<td>«Саусақізінталдау» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1496</td>
+<td>«Электрофорез» экспери менттік жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1497</td>
+<td>Агароз электрофорезіне арналған реактивтер жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1498</td>
+<td>«ДНҚ құрылымы» тәжірибелік жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1499</td>
+<td>«ДНҚ электрофорезі 1 бөлім» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1500</td>
+<td>«ДНҚ электрофорезі 2 бөлім» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1501</td>
+<td>«Жемістер мен көкөністерден ДНҚ алу» оқу практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1502</td>
+<td>Бактериялардың ДНҚ-ны зерттеужөніндегі зертханалық жұмыстарға арналған жиынтық</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1503</td>
+<td>«Ген экспрессиясын реттеу: ДНҚ метилизациясы бойынша эксперимент» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1504</td>
+<td>«Молекулалардың бөлінуі: ақуыз және ДНҚ талдау жүйесі» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1505</td>
+<td>«ДНК ашу» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1506</td>
+<td>«Отбасының ДНҚ картасы» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1507</td>
+<td>«Кариотиптеуді қайта құру» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1508</td>
+<td>«Наркотест» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1509</td>
+<td>«Рекомбинант ДНК, үлгілерді көрсету» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1510</td>
+<td>Антиденелер деңгейін анықтауға арналған жиынтық</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1511</td>
+<td>«Диагнозды анықтау» оқу жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1512</td>
+<td>Фер менттеуге арналған жабдықтар жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1513</td>
+<td>Ашыту бойынша әдістемелік материал</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1514</td>
+<td>«Ашыту өнімдерін тестілеу» оқу жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1515</td>
+<td>Жылу центрифугасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1516</td>
+<td>«Полимерлік тізбекті талдау» оқу практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1517</td>
+<td>Магнезия хлоридінің толық өлшемді реакциясына арналған реактивтер жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1518</td>
+<td>«Тәжірибеде энзимдердің қасиеттерін зерттеу» экспери менттік жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1519</td>
+<td>Энзимдердің толық өлшемді реакциясына арналған реактивтер жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1520</td>
+<td>Зертханалық практикум «Тағам зертхананың ғылыми қызметінің құралы ретінде»</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1521</td>
+<td>«Геномодифицирленген өнімдер: полимерлік сәйкестендіру» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1522</td>
+<td>«Тіндер» микропрепараттар жиынтығы (өсімдіктер, саңырау құлақтар, Жануарлар)</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1523</td>
+<td>«Жануарлар тіндері» жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1524</td>
+<td>Тірітін жасушаларын өсіру бойынша зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1525</td>
+<td>«Өсімдік тіндері» жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1526</td>
+<td>«Өсімдік патологиясы» зертханалық жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1527</td>
+<td>ДНҚ жиынтығы: вирустар мен бактериялар</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1528</td>
+<td>Бактериология бойынша слайдтар жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1529</td>
+<td>«Цианобактериялардың морфологиясы» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1530</td>
+<td>«Бактериология негіздері» микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1531</td>
+<td>«Бактериялар құрылымы» микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1532</td>
+<td>«Гистологияғак іріспе» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1533</td>
+<td>Паразитология негіздері бойынша түрлі-түсті атлас</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1534</td>
+<td>«Мұнайға Биоремедиация. Бактериялардың белсенділігі»</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1535</td>
+<td>«Ауыз судағы бактериялар» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1536</td>
+<td>Тәжірибелік жиынтық: Эпидемия</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1537</td>
+<td>«Аллергия» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1538</td>
+<td>«Фотосинтез және жасушалық тынысалу» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1539</td>
+<td>«Микробиологиялық қызмет негіздері» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1540</td>
+<td>«Диффузия және жасуша мөлшері» зертханалық жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1541</td>
+<td>«Пробиркадағы гендер» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1542</td>
+<td>«Мендель принципі» зертханалық шеберханасы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1543</td>
+<td>«Генетика» оқыту курсы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1544</td>
+<td>«Жасушалық процестерді визуализациялау» оқыту курсы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1545</td>
+<td>«Антиденелердің болуын анықтауға кіріспе» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1546</td>
+<td>Магниттік араластырғыш</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1547</td>
+<td>Өткізгіш РН тестері</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1548</td>
+<td>Спектрдің көрінетін бөлігінің UV-спектрофотометрі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1549</td>
+<td>Оқу электрлік зертханалық плитасы</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1550</td>
+<td>Кептірупеші</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1551</td>
+<td>Зертханалық инкубатор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1552</td>
+<td>Зертханалық су моншасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1553</td>
+<td>Микротұтқырларға арналған термос-араластырғыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1554</td>
+<td>Шейкер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1555</td>
+<td>Оқушы микроскопы</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1556</td>
+<td>Термостат</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1557</td>
+<td>Сандық микроскоп</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1558</td>
+<td>Тоңазытқыш құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1559</td>
+<td>Мұздатқыш құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1560</td>
+<td>
+Реактивтер жиынтығы (Хлороформ (ЧДА), Гексан (ЧДА),
+Бояғыш (ацетоорсеин), метилен көк, Генцианвиолет, Фуксин)
+</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1561</td>
+<td>Техника қауыпсыздық ережесіне арналған стенд</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Ұсынылған зертханасы бар нанотехнология кабинеті</th>
+</tr>
+<tr>
+<td>1562</td>
+<td>Бес элементті маркерлі және борлы құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1563</td>
+<td>Компьютерге арналған приставкасы бар оқытушының үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1564</td>
+<td>Шынтақшалары бар роликтерде айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1565</td>
+<td>Электр қуаты берілген демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1566</td>
+<td>2 орынды зертханалық үстел</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1567</td>
+<td>Оқушы орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1568</td>
+<td>Ашық және жабықсөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертханаға арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1569</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1570</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1571</td>
+<td>Ашық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1572</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1573</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1574</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1575</td>
+<td>Акустикалық үстел жүйесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1576</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1577</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1578</td>
+<td>Интерактивті панелі / проекторы бар интерактивті тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1579</td>
+<td>Жиынтықта қосалқы аккумуляторлы батареясы бар ноутбук</td>
+<td>дана</td>
+<td>26</td>
+</tr>
+<tr>
+<td>1580</td>
+<td>Арба-зарядтау құрылғысы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Аспаптар және керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1581</td>
+<td>Нанотехнологиялар бойынша мектеп тәжірибелеріне арналған чемодандағы эксперименттік жиынтық</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1582</td>
+<td>Базалық деңгейдегі эксперименттерге арналған «Нанотехнологиялар» жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1583</td>
+<td>«Жасыл нанохимия: күміснан обөлшектердің синтезі» жинағы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1584</td>
+<td>Оқу жиынтығы: жасырын саусақ іздері</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1585</td>
+<td>«Спектроскопия» курсы бойынша зертханалық практикум</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1586</td>
+<td>Спектроскоп</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1587</td>
+<td>Спектрлік аналитикалық карта</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1588</td>
+<td>Спектрлік талдау және Жалын бояуын талдау бойынша зертханалық экспери менттерге арналған жиынтық</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1589</td>
+<td>Техника қауіпсіздік ережесіне арналған стенд</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Зертханалық бөлмесі бар биология кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1590</td>
+<td>Маркермен және бормен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1591</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1592</td>
+<td>Электр энергиясы жеткізілген демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1593</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1594</td>
+<td>2 орынды зертханалық үстел</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1595</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1596</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертхана бөлмесіне арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1597</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1598</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1599</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1600</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1601</td>
+<td>Ашық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1602</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1603</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1604</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1605</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1606</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Биология бойынша сандық зертхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1607</td>
+<td>Су сапасын өлшеу датчигі (pH)</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1608</td>
+<td>Газ қысымының датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1609</td>
+<td>Өткізгіштік датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1610</td>
+<td>Пульс датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1611</td>
+<td>Температура датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1612</td>
+<td>Оттегі деңгейінің датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1613</td>
+<td>Көмір қышқыл газ деңгейінің датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1614</td>
+<td>Электро кардиограмма датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1615</td>
+<td>Сездіргі колориметр</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1616</td>
+<td>Арнайы бағдарламалық жасақтамасы бар деректер тіркеушісі (сымсыз сездіргілер үшін қажет емес )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1617</td>
+<td>Сандық зертханадағы эксперименттері бар кітап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Микропрепараты</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1618</td>
+<td>Анатомия бойынша микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1619</td>
+<td>Ботаника бойынша микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1620</td>
+<td>Зоология бойынша микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1621</td>
+<td>Жалпы биология бойынша микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1622</td>
+<td>Сыныпқа микропрепараттардайындауға арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оптикалық аспаптар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1623</td>
+<td>Қолұлғайтқыш әйнегі</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1624</td>
+<td>Оқушы микроскопы 640х</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1625</td>
+<td>Сандық USB микроскоп</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Тәжірибеге арналған керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1626</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1627</td>
+<td>Дистиллятор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1628</td>
+<td>Демонстрациялық тәжірибелерге және зертханалық жұмыстарға арналған ыдыс-аяқ пен керек-жарақтар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1629</td>
+<td>Биология бойынша зертханалық жұмыстарға арналған реактивтер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1630</td>
+<td>Зертханалық электрлік плитка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1631</td>
+<td>Зертханалық құрама штатив</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<th></th>
+<th>Анатомия үлгілері</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1632</td>
+<td>Адам денесі 85 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1633</td>
+<td>Көздің ұлғайтылған үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1634</td>
+<td>Жүректің демонстрациялық үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1635</td>
+<td>Қимадағы бүйрек үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1636</td>
+<td>Альвеоламен өкпе үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1637</td>
+<td>Жұлынның үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1638</td>
+<td>Құлақтың үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1639</td>
+<td>Бас миының үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қаңқалар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1640</td>
+<td>Аунақшадағы тұғырдағы бойы 170 сантиметр адам қаңқасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td>Ботаника бойынша көлемді үлгілер</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1641</td>
+<td>Тамырдың бойлық қимасының үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1642</td>
+<td>ДНҚ құрылымының моделі</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1643</td>
+<td>Жапырақ құрылымының үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1644</td>
+<td>Гүлдің әмбебап үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Гербарийлер мен коллекциялар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1645</td>
+<td>Биологиядан гербарийлер жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1646</td>
+<td>Биологиядан коллекциялар жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td>Оқу құралдары, стендтер мен кестелер</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1647</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1648</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1649</td>
+<td>Биология бойынша виртуалды немесе шынайылық пен толықтырылған бағдарламалық жасақтама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1650</td>
+<td>Биологиядан электронды плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1651</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1652</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1653</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1654</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1655</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1656</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1657</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<td>1658</td>
+<td>Ашық үлгідегі қорғаныс көзілдірігі</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1659</td>
+<td>Химиялық төзімді қорғаныс биялайлары</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1660</td>
+<td>Резеңкеленген алжапқыш</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1661</td>
+<td>Медициналық м/м халат</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th colspan="4">Зертхана бөлмесі бар химия кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1662</td>
+<td>Маркер мен және бор мен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1663</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1664</td>
+<td>Электр энергиясы жеткізілген демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1665</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1666</td>
+<td>2 орынды зертханалық үстел</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1667</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1668</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертхана бөлмесіне арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1669</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1670</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1671</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1672</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1673</td>
+<td>Ашық шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1674</td>
+<td>Желдету жүйесі бар демонстрациялық сору шкафы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1675</td>
+<td>Желдету жүйесі бар химиялық реактивтерді сақтауға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1676</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1677</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1678</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1679</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1680</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Химия бойынша сандық зертхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1681</td>
+<td>Су сапасын өлшеу датчигі (pH)</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1682</td>
+<td>Газқысымының датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1683</td>
+<td>Кернеу датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1684</td>
+<td>Өткізгіштік датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1685</td>
+<td>Температура датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1686</td>
+<td>Сездіргі калориметр</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1687</td>
+<td>Арнайы бағдарламалық жасақтамасы бар деректер тіркеушісі (сымсыз сездіргілер үшін қажет емес )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1688</td>
+<td>Сандық зертханадағы эксперименттері бар кітап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Химиялық реактивтер жиынтығы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1689</td>
+<td>Оқыту бағдарламасына сәйкес тәжірибелер мен эксперименттерге арналған химиялық реактивтер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Аспаптар және тәжірибеге арналған керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1690</td>
+<td>Зертханалық құрамдас монша</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1691</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1692</td>
+<td>Дистиллятор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1693</td>
+<td>Колба қыздырғыш</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1694</td>
+<td>Ареометрлер жиынтығы (19 дана)</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1695</td>
+<td>Оқушылар мен мұғалімдерге арналған атом үлгілері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1696</td>
+<td>Химия бойынша демонстрациялық тәжірибелерге арналған ыдыстар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1697</td>
+<td>Химиядан зертханалық жұмыстарға арналған ыдыс-аяқ пен керек-жарақтардың жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1698</td>
+<td>Электр химиядан тәжірибелерге арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1699</td>
+<td>Газ жинауға арналған зертханалық аспап</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1700</td>
+<td>Химиялық зертханалық штатив</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1701</td>
+<td>Мұғалімге арналған әмбебап штатив</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Демонстрациялық үлгілер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1702</td>
+<td>Демонстрациялық кристалдық торлар үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1703</td>
+<td>Масштабты молекулалар үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1704</td>
+<td>Оқушылар мен мұғалімдерге арналған органика және бейорганика бойынша молекула үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>14</td>
+</tr>
+<tr>
+<td>1705</td>
+<td>π және σ байланыстарының түзілу үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1706</td>
+<td>р және d бұлттарының және шар өзекті молекулалар үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1707</td>
+<td>Электронды бұлттар мен химиялық қосылыстар үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Табиғи коллекциялар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1708</td>
+<td>«Таскөмір және оны қайта өңдеуөнімдері» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1709</td>
+<td>«Металдар» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1710</td>
+<td>«Минералдар мен тау жыныстары» коллекциясы</td>
+<td>жиынт</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1711</td>
+<td>«Мұнай және оны қайта өңдеуөнімдері» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1712</td>
+<td>«Отын өнер кәсібіне арналған шикі зат» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1713</td>
+<td>«Химия өнеркәсібіне арналған шикі зат» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1714</td>
+<td>«Отын» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1715</td>
+<td>«Шойын және болат» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1716</td>
+<td>«Қаттылық шәкілі» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары, стендтер мен кестелер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1717</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1718</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1719</td>
+<td>Химиядан электронды плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1720</td>
+<td>Химиядан виртуалды зертханалық жұмыстарды жүргізуге арналған бағдарламалық жасақтама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1721</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1722</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1723</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1724</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1725</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1726</td>
+<td>тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1727</td>
+<td>Мектеп борыдана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<td>1728</td>
+<td>Ашық үлгідегі қорғаныс көзілдірігі</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1729</td>
+<td>Химиялық төзімді қорғаныс биялайлары</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1730</td>
+<td>Резеңкеленген алжапқыш</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1731</td>
+<td>Медициналық м/м халат</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th colspan="2">«Бейнелеу өнері» бөлімі бойынша шеберхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1732</td>
+<td>Бес элементті маркерлі және Борлы құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1733</td>
+<td>Компьютерге арналған приставкасы бар оқытушының үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1734</td>
+<td>Демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1735</td>
+<td>Шынтақшалары бар роликтерде айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1736</td>
+<td>13 оқу шыға арналған бір немесе екі орындық үстелдер жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1737</td>
+<td>Экспозицияға арналған сөре</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1738</td>
+<td>Оқушы орындығы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>1739</td>
+<td>Ашық және жабық сөрелері бар оқу -көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1740</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1741</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1742</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1743</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1744</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Құралдар мен керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1745</td>
+<td>Электрондық оқу басылымдарының жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1746</td>
+<td>Пластикалық негіздегі қабырға стендтерінің жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1747</td>
+<td>Гипс өнімдері</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1748</td>
+<td>Иглы для фильцевания</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1749</td>
+<td>Синтетикалық щетка</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1750</td>
+<td>Акрил матасының контурлары</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1751</td>
+<td>Батикке арналған бояу</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>1752</td>
+<td>Акрилді мата бояулары</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>1753</td>
+<td>Жинақталған мольберт</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1754</td>
+<td>Тақта мен қақпағы бар мольберт</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1755</td>
+<td>Батик үшін реттелетін жақтау</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1756</td>
+<td>Батикке арналған мата</td>
+<td>метр</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1757</td>
+<td>1 метрден 5 түсті мата</td>
+<td>мерт</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1758</td>
+<td>Зембілге сурет салуға арналған кенеп</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1759</td>
+<td>Жиналмалы натюрморттарға арналған үстел</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1760</td>
+<td>Көркем және кескінді қылқалам</td>
+<td>дана</td>
+<td>50</td>
+</tr>
+<tr>
+<td>1761</td>
+<td>Экспозицияға арналған сөре</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1762</td>
+<td>Оқушылар тобына акварельді, акрилді, гуашты, майлы, пастельді бояулар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1763</td>
+<td>Акварельге арналған папка</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1764</td>
+<td>Боялған кенеп</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>1765</td>
+<td>Зембілге суретсалуға арналған кенеп</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>1766</td>
+<td>Сәндік-қолданбалы өнер бұйымдарының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1767</td>
+<td>Драпировкалар жиынтығы 3 түрден кем емес</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1768</td>
+<td>Ұлттық бұйымдар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1769</td>
+<td>Гер барий</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1770</td>
+<td>Жемістер мен көкөністердің муляж жиынтығы 20 данадан кем емес</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1771</td>
+<td>Тарату материалдарының саны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1772</td>
+<td>Көрнекті суретшілердің портреттері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1773</td>
+<td>Суреттер мен плакаттар саны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1774</td>
+<td>Өнер энциклопедиялары, оқу құралдары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1775</td>
+<td>Альбомдар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1776</td>
+<td>Суретшілер мен көркем өнермұражайлары туралы, бейнелеу өнері мен сәулет стильдері туралы әдебиет</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1777</td>
+<td>Плакаттар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1778</td>
+<td>Этюд жәшік</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1779</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1780</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>бума</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1781</td>
+<td>Маркер тақтасына арналған Губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1782</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1783</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жинтық</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1784</td>
+<td>тақтаға арналған Маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1785</td>
+<td>Жеңқаптар мен алжапқыштар</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th></th>
+<th>«Үй мәдениеті» бөлімі бойынша шеберхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиhаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1786</td>
+<td>Үстіңгі беті жанышталған фанерадан жасалған металл қаңқадағы шебер үстел</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1787</td>
+<td>Аспалы тұғыры бар слесарлық металл шебер үстел ұзындығы 1000 миллиметр</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1788</td>
+<td>Маркерлік тақта немесе бор мен жазылатын қабырғалық тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1789</td>
+<td>Полипропиленнен немесе былғары алмастырғыштан жасалған отырғышы бар кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1790</td>
+<td>Ағаш өңдейтін білде кастындағы тұғырық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1791</td>
+<td>Шағын білде кастындағы тұғырық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1792</td>
+<td>Бұрғылау білдегінің астындағы тұғырық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1793</td>
+<td>Жонғыш білдек астындағы тұғырық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1794</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1795</td>
+<td>Бұрылмалы жұмыс орындығы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1796</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1797</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1798</td>
+<td>Металл құрал-саймандар шкафы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1799</td>
+<td>Ашық шкаф немесе сөре</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1800</td>
+<td>Слесарь шебер үстеліне арналған қорғаныс экраны</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1801</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1802</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1803</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1804</td>
+<td>Интерактивтік панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1805</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1806</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<th></th>
+<th>Білдектер мен жабдықтар:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1807</td>
+<td>Шағын саптамалардың жиынтығы электрнақышшы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1808</td>
+<td>Электр бәрбі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1809</td>
+<td>Аккумуляторлы бурауыш бәрбі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1810</td>
+<td>Электрлі қылара</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1811</td>
+<td>Электрлі шеткі ара</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1812</td>
+<td>Айналмалы шағын ара</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1813</td>
+<td>Реноватор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1814</td>
+<td>Электрлі сүргі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1815</td>
+<td>Жиынында чиллер және тұрақтандырғышы бар лазерлін ақыштау білдегі</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1816</td>
+<td>Құрама ағаш өңдеу білдегі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1817</td>
+<td>3D үлгілер құруға арналған модульді білдек</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1818</td>
+<td>Металл бойынша бұрғылау білдегі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1819</td>
+<td>Металл бойынша жону білдегі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1820</td>
+<td>Техникалық фен</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1821</td>
+<td>Ажарлағыш машинка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1822</td>
+<td>Электр қайрақ</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Жобалық қызметке арналған керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1823</td>
+<td>Ватман</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>1824</td>
+<td>Көркем дөңгелек қылқалам</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>1825</td>
+<td>ПВА желімі</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1826</td>
+<td>Акрил бояулар жиынтықта 6 түс</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1827</td>
+<td>Бояу шашыратқыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1828</td>
+<td>Сандық мультиметр</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1829</td>
+<td>Ағаш білеулер жиынтығы 14 дана</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1830</td>
+<td>Ағаш бойынша өзі кескіштер жиынтығы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1831</td>
+<td>Ағаш бойынша күйдіруге арналған аспап</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1832</td>
+<td>Сырлау жабысқақ таспасы</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1833</td>
+<td>Супержелім 3 грамм</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1834</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызба аспаптар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Құрал-сайман</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1835</td>
+<td>Пластик құбырларды пісіруге арналған аппарат</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1836</td>
+<td>Қашау-үскі 8 миллиметр</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1837</td>
+<td>Қашау-үскі 16 миллиметр</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1838</td>
+<td>Қолқысқышы</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1839</td>
+<td>Егеу</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1840</td>
+<td>Тойтармалағыш</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1841</td>
+<td>Тойтармалар 3,2 х 8 миллиметр, 50 дана</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1842</td>
+<td>Белгісалғыш</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1843</td>
+<td>Резеңке шот</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1844</td>
+<td>Қысқаштар</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1845</td>
+<td>Иінтіректі құбырлы кілт</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1846</td>
+<td>Шеттік тістеуіктер</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1847</td>
+<td>Өлшеуі штаспа 1 метр</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1848</td>
+<td>Металл сызғыш 30 сантиметр</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1849</td>
+<td>Металл сызғыш 100 сантиметр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1850</td>
+<td>Слесарь балғасы 200 грамм</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1851</td>
+<td>Слесарь балғасы 400 грамм</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1852</td>
+<td>Ашалы кілттер жиынтығы 6-24 миллиметр 8 дана</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1853</td>
+<td>Белгісалғыштар мен бұранкескіштер жиынтығы М3-М10</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1854</td>
+<td>Алмаз қылауықтар жиынтығы 10 дана</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1855</td>
+<td>Іскек</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1856</td>
+<td>Шаршы егеу</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1857</td>
+<td>Дөңгелек егеу</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1858</td>
+<td>Жайпақ егеу</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1859</td>
+<td>Үшқырлы егеу</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1860</td>
+<td>Кеңсе пышағы 18 миллиметр</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1861</td>
+<td>Металл кесетін пышақ 250 миллиметр</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1862</td>
+<td>Ағаш кесетін қолара 400 миллиметр</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1863</td>
+<td>Металл кесетін қолара 300 миллиметр</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1864</td>
+<td>Айқыш бұрауыш</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1865</td>
+<td>Жайпақ бұрауыш</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1866</td>
+<td>Нүктелі жұмыстарға арналған жиынтықтағы бұрауыштар</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1867</td>
+<td>Атауыздар</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1868</td>
+<td>Металл кесетін қолараға төсем 300 миллиметр</td>
+<td>дана</td>
+<td>50</td>
+</tr>
+<tr>
+<td>1869</td>
+<td>Металл сүргі</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1870</td>
+<td>Өлшеуіш таспа 5 метр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1871</td>
+<td>Ағаш бойынша жиынтықтағы бұрғылар 8 дана</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1872</td>
+<td>Металл бойынша жиынтықтағы бұрғылар 1,0-6,5 миллиметр 13 дана</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1873</td>
+<td>Арасы бар пластик (стусло)</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1874</td>
+<td>Бұрылмалы слесарлық қыспақтар 125 миллиметр</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1875</td>
+<td>Құбырлық ыспақтар 10–89 миллиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1876</td>
+<td>Жұқа ауыздар (тонкогубцы) 160 миллиметр</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1877</td>
+<td>Құбырларды тазалауға арналған сымарқан</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1878</td>
+<td>Металл пластиктен және жұмсақ металдардан жасалған құбырларға арналған құбыр игіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1879</td>
+<td>Металл пластик құбырларға арналған құбыркескіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1880</td>
+<td>Металл бұрыштық 300 миллиметр</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1881</td>
+<td>Құбырларға арналған сантехникалық қамыт</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1882</td>
+<td>Штанген циркуль</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1883</td>
+<td>Сыпырғы шқылшақ</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1884</td>
+<td>Құрал-саймандарды сақтауға арналған жәшік</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге жабдық:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1885</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1886</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1887</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1888</td>
+<td>Қоқыссебеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1889</td>
+<td>Маркер тақтасына арналған магниттер 12 дана</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1890</td>
+<td>тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1891</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<td>1892</td>
+<td>Иықты киім ілгіш</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1893</td>
+<td>Технология шеберханаларына арналған электр мен жабдықтау қалқаны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қорғаныс құралдары:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1894</td>
+<td>Брезентті жеңқаптар</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1895</td>
+<td>Ашық түрдегі қорғаныс көзілдірігі</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1896</td>
+<td>Нығыз тоқылған м/м биялайлар жұп</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>1897</td>
+<td>Брезент алжапқыш</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1898</td>
+<td>Бетке арналған қорғаныс қалқаншасы</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td></td>
+<td>Қабырғалық стендтер, безендіру:</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1899</td>
+<td>Ағаш пен металды өңдеу кезіндегі қауіпсіздік техникасые ежелері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">«Тамақтану мәдениеті» бөлімі бойынша шеберхана</th>
+</tr>
+<tr>
+<th></th>
+<th>Ас үй жиһазының жинағы:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1900</td>
+<td>Қабырғалық ас үй панелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1901</td>
+<td>Шұңғылшасы мен араластырғышы бар ас үй жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1902</td>
+<td>6 адамға арналған пластик жабыны бар ас үй жұмыс үстелі</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1903</td>
+<td>Металл немесе ағаш қаңқадағы орындық</td>
+<td>дана</td>
+<td>24</td>
+</tr>
+<tr>
+<td>1904</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Технологиялық жабдықтар және тұрмыстық техника:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1905</td>
+<td>5 килограмм дейінгі үстелдік электронды таразылар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1906</td>
+<td>Плитаның үстіндегі сорғыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1907</td>
+<td>Ас үй комбайны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1908</td>
+<td>Миксер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1909</td>
+<td>Мульти пісіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1910</td>
+<td>Қысқа толқынды пеш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1911</td>
+<td>Едендік немесе кіріктірілетін электрплитасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1912</td>
+<td>Тоңазытқыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1913</td>
+<td>Электр шәйнегі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Ас үй мүкәммалы:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1914</td>
+<td>Асхана шанышқысы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>Қантмөлшерлегіш</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>Үстелкілемшесі</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>Кесетін тақта</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>Дуршлаг</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1919</td>
+<td>Кәстрөл</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1920</td>
+<td>Шөміш</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1921</td>
+<td>Құрғақ өнімдерге арналған қақпағы бар контейнер</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1922</td>
+<td>Асхана қасығы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1923</td>
+<td>Шәйқасық</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1924</td>
+<td>Асхана құралдарына арналған науа</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1925</td>
+<td>Өлшейтін ыдыстар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1926</td>
+<td>Өлшейтін тостаған</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1927</td>
+<td>Тегеш</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1928</td>
+<td>Сүт/кілегей құятыныдыс</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1929</td>
+<td>Ас үй керек-жарақтарының жиынтығы 5 зат</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1930</td>
+<td>Ас үй пышақтарының жиынтығы 3 зат</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1931</td>
+<td>Картоп тазалауға арналған пышақ</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1932</td>
+<td>Консервтік пышақ</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1933</td>
+<td>Асханапышағы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1934</td>
+<td>Көкөніс кескіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1935</td>
+<td>Поднос</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1936</td>
+<td>Ыстық заттың астына қоятын тұғырық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1937</td>
+<td>Сарымсаққа арналған жаныштағыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1938</td>
+<td>Аспаптар астына қоятын майлық</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1939</td>
+<td>Асхана сервизі 18 зат</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1940</td>
+<td>Ұнға арналған елек</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1941</td>
+<td>Ағаш оқтау</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1942</td>
+<td>Таба</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1943</td>
+<td>Тұз сауыт/бұрыш сауыт</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1944</td>
+<td>Ыдыс-аяққа арналған кептіргіш тор</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1945</td>
+<td>Асхана құралдарына арналған</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1946</td>
+<td>Үлкен тәрелке</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1947</td>
+<td>Тот баспайтын болаттан жасалған үккіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1948</td>
+<td>Картопқа арналған түйгіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1949</td>
+<td>Демдегіш шәйнек</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1950</td>
+<td>Шәй шыны аяғы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге жабдықтар:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1951</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1952</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1953</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1954</td>
+<td>Маркерлі қабырғалық тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1955</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1956</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1957</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1958</td>
+<td>Иықты киім ілгіштер</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1959</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1960</td>
+<td>Шеберхана технологияларына арналған электр мен жабдықтау қалқаны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қабырғалық стендтер:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1961</td>
+<td>«Тамақтану мәдениеті» шеберханасындағы қауіпсіздік техникасы қағидаларының кестесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Жұмсақ мүкәммал:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1962</td>
+<td>М/м үшкіл орамалы бар ақ алжапқыш</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<th colspan="4">«Дизайн және технология» бөлімі бойынша шеберхана</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1963</td>
+<td>Құрамдас маркер тақтасы / қабырғалық тоқыма</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1964</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1965</td>
+<td>Матаны кесуге арналған үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1966</td>
+<td>оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1967</td>
+<td>12 оқу шыға арналған тігін машиналары үстелінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1968</td>
+<td>Өндірістік орындық немесе табурет</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1969</td>
+<td>4 науасы бар пластик арба</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1970</td>
+<td>Әмбебап трансформер тұғырық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1971</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1972</td>
+<td>Жартылай ашық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Техника мен жабдық:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1973</td>
+<td>Еденді күтіктеу тақтасы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1974</td>
+<td>Тұғыры бар ерлер және әйелдердің тігін манекені</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1975</td>
+<td>Кестелеу машинасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1976</td>
+<td>Компьютерлендірілген тігін машинасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1977</td>
+<td>Электртігін машинасы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1978</td>
+<td>Іл мектеп шеттегіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1979</td>
+<td>Қолтоқымастаногы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1980</td>
+<td>Үтік</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Құралдар мен керек-жарақтар:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>1981</td>
+<td>Тоқыма түйреуіштер</td>
+<td>дана</td>
+<td>36</td>
+</tr>
+<tr>
+<td>1982</td>
+<td>Тігінші түйреуіштері</td>
+<td>дана</td>
+<td>240</td>
+</tr>
+<tr>
+<td>1983</td>
+<td>Көшірме қағаз А-4</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1984</td>
+<td>Сөккіш</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1985</td>
+<td>Кестеинелері</td>
+<td>дана</td>
+<td>60</td>
+</tr>
+<tr>
+<td>1986</td>
+<td>Қол ментігуге арналған инелер</td>
+<td>дана</td>
+<td>240</td>
+</tr>
+<tr>
+<td>1987</td>
+<td>Тігін машинаға арналған инелер</td>
+<td>дана</td>
+<td>60</td>
+</tr>
+<tr>
+<td>1988</td>
+<td>Торлайтын ине</td>
+<td>дана</td>
+<td>120</td>
+</tr>
+<tr>
+<td>1989</td>
+<td>Суретсіз селдір мата</td>
+<td>квадрат метр</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1990</td>
+<td>12 оқу шыға арналған «Маталар үлгілері» үлестірме топтамасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1991</td>
+<td>Тоқуға арналған сақиналар</td>
+<td>дана</td>
+<td>72</td>
+</tr>
+<tr>
+<td>1992</td>
+<td>Тоқуға арналған күршектер</td>
+<td>дана</td>
+<td>60</td>
+</tr>
+<tr>
+<td>1993</td>
+<td>Өлшеуіш таспа 1 метр</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1994</td>
+<td>Пішуші сызғышы 30 сантиметр</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1995</td>
+<td>Металл сызғыш 30 сантиметр</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1996</td>
+<td>Тігіншінің түрлі түсті үшбұрыш боры</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>1997</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызба аспаптар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1998</td>
+<td>Пластмасса лекалолар жиынтығы (3 дана)</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1999</td>
+<td>Оймақ</td>
+<td>дана</td>
+<td>50</td>
+</tr>
+<tr>
+<td>2000</td>
+<td>Кестелеуге арналған жіптер түрлі түсті мулине</td>
+<td>дана</td>
+<td>140</td>
+</tr>
+<tr>
+<td>2001</td>
+<td>Полиэстер жіптер</td>
+<td>дана</td>
+<td>120</td>
+</tr>
+<tr>
+<td>2002</td>
+<td>Бекемделген тоқыма тігін жіптері 5000 метрден кем емес</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2003</td>
+<td>Жіпті кесуге арналған қайшы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2004</td>
+<td>Пішуге арналған қайшы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>Зигзаг қайшы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2006</td>
+<td>Кеңсе қайшылары</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2007</td>
+<td>Үлкен тігін қайшылары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2008</td>
+<td>Күршекпент оқуға арналған иірім жіп 10 грамм</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<td>2009</td>
+<td>Тоқымасымдарға арналған иірім жіп 50 грамм</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<td>2010</td>
+<td>Орамдағы тоқыма иірімжіп</td>
+<td>килограмм</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>Кестелеуге арналған дөңгелек кесте кергіш</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>Тоқымасым</td>
+<td>дана</td>
+<td>60</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>Пластик бұрыш 60 грамм</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<th></th>
+<th>Жұмсақ мүкәммал:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2014</td>
+<td>М/м үшкіл орамалы бар түрлі-түсті алжапқыш</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге жабдық:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2015</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>Багет жақтаулы айна</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>Пердесі бар тікбұрышты киім өлшейтін кабина</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>Қақпағы бар картон қорап</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>Маркер тақтасына арналған магниттер 12 дана</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2023</td>
+<td>тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2024</td>
+<td>Иықты киімілгіш</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2025</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2026</td>
+<td>Технология шеберханаларына арналған электр мен жабдықтау қалқаны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қабырғалық стендтер:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2027</td>
+<td>Тоқыма материалдарын өңдеу кезіндегі қауіпсіздік техникасы қағидалары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="2">Ұсынылатын «Қыш студиясы»</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2028</td>
+<td>Маркерлі қабырғалық тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2029</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2030</td>
+<td>От керек-жарақтарын сақтауға арналған сөре</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2031</td>
+<td>Дайынб ұйымдарды кептіруге және сақтауға арналған сөре</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2032</td>
+<td>оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2033</td>
+<td>Қыш шеңберіне арналған аласа үстел</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2034</td>
+<td>Сабаққа арналған үш немесе төрт орынды үстел</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2035</td>
+<td>Сабаққа арналған орындық</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2036</td>
+<td>Қыш шеңберде жұмыс істеуге арналған орындық</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2037</td>
+<td>Құралдарды сақтауға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2038</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2039</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<th></th>
+<th>Қыш жабдығы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2040</td>
+<td>Тігінен тиейтін күйдіруге арналған пеш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2041</td>
+<td>Үстелге арналған қыш шеңбері</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2042</td>
+<td>Турнетка</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2043</td>
+<td>От керек-жарақтары</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Құралдар мен айла бұйымдар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2044</td>
+<td>Зертас бүркуге арналған қол аэрографы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2045</td>
+<td>Қыш ағаш тарақ</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2046</td>
+<td>Тұтқасы бар тескіштер жиынтықта</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2047</td>
+<td>Резеңке шағын (калячница)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2048</td>
+<td>Жиынтықтағы қылқаламдар</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2049</td>
+<td>Зерт астауға арналған қыш қысқаштар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2050</td>
+<td>Зерт асқа арналған түзеткіш</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2051</td>
+<td>Тазарту және әрлеу жұмыстарына арналған құралдар жиынтығы</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2052</td>
+<td>Қышқа арналған пышақ</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2053</td>
+<td>Жиынтықта ұзын екі жақты ағаш с аптары бар ілмектер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2054</td>
+<td>Қыш массаға арналған дискілікескіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2055</td>
+<td>Зертасқа арналған елек</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2056</td>
+<td>Поролонды спонж</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2057</td>
+<td>Ағашстектер</td>
+<td>дана</td>
+<td>50</td>
+</tr>
+<tr>
+<td>2058</td>
+<td>Бұйымдарды кесуге арналған ішек</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2059</td>
+<td>Ағаш тегіс тегіштер</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<th></th>
+<th>Бояу және балшық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2060</td>
+<td>Түрлі түсті зертас</td>
+<td>килограмм</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2061</td>
+<td>Түрлі түсті ангоб</td>
+<td>килограмм</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2062</td>
+<td>Қыш масса немесе түрлі түстіқыш балшық</td>
+<td>килограмм</td>
+<td>50</td>
+</tr>
+<tr>
+<th></th>
+<th>Шығармашылыққа арналған жиынтық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2063</td>
+<td>Мүсіндегіш ермексаз</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2064</td>
+<td>Ермек сазға арналған тақта А4</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2065</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2066</td>
+<td>Пластмасса шелек 3 литр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2067</td>
+<td>Қоқыссебеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2068</td>
+<td>Балшықты сақтауға арналған пластик науа</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2069</td>
+<td>Қыш жеңқаптар (жұп)</td>
+<td>пара</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2070</td>
+<td>Қыш алжапқыш</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2071</td>
+<td>Техникалық фен</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2072</td>
+<td>Қауіпсіздік ережелер кестесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Дене шынықтыру оқытушыларының кабинеті (2 оқытушыға есептегенде)</th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2073</td>
+<td>Маркерлі тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2074</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2075</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2076</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2077</td>
+<td>Ашық және жабық сөрелері бар оқу -көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2078</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2079</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2080</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2081</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2082</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге жабдықтар:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2083</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2084</td>
+<td>Дене дайындығы бойынша мультимедиялық құралдар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2085</td>
+<td>Өлшеуіш таспа 50 метр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2086</td>
+<td>Ойынға арналған ысқырық</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>2087</td>
+<td>Секундомер</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2088</td>
+<td>Қарапайым пластик табло</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2089</td>
+<td>Электронды табло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2090</td>
+<td>Электромегафон</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Мүліктер мен жабдықтарды сақтауға арналған үй-жай</th>
+</tr>
+<tr>
+<td>2091</td>
+<td>Доптарға арналған тасымалданатын себет</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2092</td>
+<td>Допты үрлеуге арналған сорғы, жиынтықта 20 инесі бар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2093</td>
+<td>Доптарды сақтауға арналған сөре</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2094</td>
+<td>Спорттық мүкәммалды сақтауға арналған сөре</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="4">Спорт залы мен секцияларының жабдықтары</th>
+</tr>
+<tr>
+<td>2095</td>
+<td>Биік қоссырық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2096</td>
+<td>Едендік қоссырық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2097</td>
+<td>Ерлерге арналған параллель қоссырықтар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2098</td>
+<td>Әйелдерге арналған әртүрлі биіктіктегі қоссырықтар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2099</td>
+<td>Өрмелеуге арналған арқан</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2100</td>
+<td>Тартуға арналған арқан</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2101</td>
+<td>Гимнастикалық мосы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2102</td>
+<td>Гимнастикалық сырғы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2103</td>
+<td>Гигиеналық жабыны бар гимнастикалық төсеніш</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>2104</td>
+<td>Серіппелі гимнастикалық көпірше</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2105</td>
+<td>Гимнастикалық тіккөпірше</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2106</td>
+<td>Металл шеңбер</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>2107</td>
+<td>Гимнастикалық таяқша</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>2108</td>
+<td>Әмбебап гимнастикалық аспа</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2109</td>
+<td>Секіргіш</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>2110</td>
+<td>Гимнастикалық орындық</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2111</td>
+<td>Гимнастикалық қабырға</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2112</td>
+<td>Төралқалыққа арналған жалауша</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<th colspan="4">Шаңғы жарыстарымен конькимен жүгіру дайындығына арналған мүкәммал</th>
+</tr>
+<tr>
+<td>2113</td>
+<td>Әртүрлі өлшемдегі коньки</td>
+<td>пара</td>
+<td>45</td>
+</tr>
+<tr>
+<td>2114</td>
+<td>Шаңғыға арналған бекітпелер</td>
+<td>пара</td>
+<td>45</td>
+</tr>
+<tr>
+<td>2115</td>
+<td>Әртүрлі өлшемдегі пластик шаңғылар</td>
+<td>пара</td>
+<td>45</td>
+</tr>
+<tr>
+<td>2116</td>
+<td>Әртүрлі өлшемдегі шаңғы бәтіңкелер</td>
+<td>пара</td>
+<td>45</td>
+</tr>
+<tr>
+<td>2117</td>
+<td>Әртүрлі өлшемдегі шаңғы таяқшалары</td>
+<td>пара</td>
+<td>45</td>
+</tr>
+<tr>
+<th colspan="4">Жеңіл атлетикамен айналысуға арналған жабдықтармен мүкәммал</th>
+</tr>
+<tr>
+<td>2118</td>
+<td>Лақтыруға арналған граната 500 грамм</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2119</td>
+<td>Лақтыруға арналған граната 700 грамм</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2120</td>
+<td>Тақтайша биіктігін өлшегіш</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2121</td>
+<td>Биіктіккесекіруге арналған төсеніш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2122</td>
+<td>Лақтыруға арналған нысана</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2123</td>
+<td>Лақтыруға арналған доп</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>2124</td>
+<td>Биіктікке секіруге арналған жолақ</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2125</td>
+<td>Биіктікке секіруге арналған бағана</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2126</td>
+<td>Эстафеталық таяқша</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<th colspan="4">Спорт ойындарына жабдық және мүкәммал</th>
+</tr>
+<tr>
+<td>2127</td>
+<td>Мини футбол қақпасы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2128</td>
+<td>«Тоғыз құмалақ» үстелойыны</td>
+<td>жиын</td>
+<td>15</td>
+</tr>
+<tr>
+<td>2129</td>
+<td>Ұлттық ойындарға арналған кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2130</td>
+<td>Баскетбол сақинасы</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2131</td>
+<td>Ойын манишкасы</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>2132</td>
+<td>Медицинбол 1 килограмм</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2133</td>
+<td>Медицинбол 2 килограмм</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2134</td>
+<td>Баскетбол добы</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>2135</td>
+<td>Волейбол добы</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>2136</td>
+<td>Гандбол добы</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2137</td>
+<td>Футбол добы</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>2138</td>
+<td>Асық ойынына арналған жиынтық</td>
+<td>жиынты</td>
+<td>15</td>
+</tr>
+<tr>
+<td>2139</td>
+<td>Бес тас ойынына арналған жиынтық</td>
+<td>жиынты</td>
+<td>15</td>
+</tr>
+<tr>
+<td>2140</td>
+<td>Үстел теннисі ойынына арналған ракетка</td>
+<td>дана</td>
+<td>16</td>
+</tr>
+<tr>
+<td>2141</td>
+<td>Баскетбол торы</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2142</td>
+<td>Жиында антеннасы бар волейбол торы</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2143</td>
+<td>Үстел тениисіне арналған тор</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2144</td>
+<td>Мини-футбол қақпасына арналған тор</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2145</td>
+<td>Волейбол тіреуі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2146</td>
+<td>Жиында теннис үстел</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2147</td>
+<td>Волейбол торына арналған сымарқан</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2148</td>
+<td>Таңбалауыш фишка</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>2149</td>
+<td>Әйелдерге арналған баскетбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2150</td>
+<td>Ерлерге арналған баскетбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2151</td>
+<td>Әйелдерге арналған волейбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2152</td>
+<td>Ерлерге арналған баскетбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2153</td>
+<td>Әйелдерге арналған мини-футбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2154</td>
+<td>Ерлерге арналған мини-футбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2155</td>
+<td>Шахмат сағаты</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2156</td>
+<td>Үстел тениисін ойнауға арналған шарик</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>2157</td>
+<td>Шахматтар</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2158</td>
+<td>Дойбылар</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2159</td>
+<td>Баскетбол қалқаны</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2160</td>
+<td>Баскетбол оқу қалқаны</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<th colspan="4">Спорт алаңшасы</th>
+</tr>
+<tr>
+<td>2161</td>
+<td>Параллель металл қоссырықтар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2162</td>
+<td>Торы бар мини футболға арналған қақпа</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2163</td>
+<td>Торы бар футбол қақпасы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2164</td>
+<td>Резеңке жеңіл атлетикалық жол</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2165</td>
+<td>Гимнастикалық металл аспа</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2166</td>
+<td>Кедергілер жолағы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2167</td>
+<td>Лақтыруға арналған сектор</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2168</td>
+<td>Ұзындыққа секіру секторы</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2169</td>
+<td>Қалқаны және торы бар баскетбол тағаны</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2170</td>
+<td>Торы бар волейбол тағаны</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2171</td>
+<td>Төрешілер мұнарасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2172</td>
+<td>50 көрерменге арналған трибуна</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="2">Ұсынылатын тез тұрғызылатын әмбебап спорттық ғимарат (спортзалы және бассейн)</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2173</td>
+<td>Жалпақ табандылықтың алдын алуға арналған жол</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2174</td>
+<td>Жүзу тақтасы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2175</td>
+<td>Резеңке доп</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2176</td>
+<td>Поролон таяқша</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2177</td>
+<td>Қалқымалы шеңбер</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2178</td>
+<td>Түрлі-түсті қалтқы (жалауша)</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2179</td>
+<td>Құтқару шеңбері</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Музыка кабинеті</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2180</td>
+<td>Сынып тақтасы ноталар басы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2181</td>
+<td>Биіктігі 150 сантиметрден кем емес қабырғалық жақтаулы айна</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2182</td>
+<td>Бір немесе үш орынды сабақтарға арналған модульді үстел жиындары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2183</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2184</td>
+<td>Пюпитр</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2185</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2186</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2187</td>
+<td>Ашық және жабық сөрелері, сондай-ақ аспаптарға арналған бекітпелері бар музыкалық аспаптармен ноталарға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2188</td>
+<td>Микрофон-телефон гарнитурасымен және web-камерамен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2189</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2190</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2191</td>
+<td>Көп функциялы құрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2192</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2193</td>
+<td>Сандық синтезатор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2194</td>
+<td>Микрофонмен сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Музыкалық аспаптар (акт залында немесе музыка кабинетінде орналасуы мүмкін)</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2195</td>
+<td>Музыкалық аспаптар, оның ішінде ұлттық аспаптар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2196</td>
+<td>Жиынында отырғышы бар акустикалық пианино</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2197</td>
+<td>Баян</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2198</td>
+<td>Домбра</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге құралдар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2199</td>
+<td>Иллюстрациялар және плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2200</td>
+<td>Ноталық белгілері бар карточкалар жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2201</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2202</td>
+<td>Электрондық оқу басылымдарының жиыны, оның ішінде компьютерлік музыкалық бағдарламалар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2203</td>
+<td>Музыка теориясы бойынша әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2204</td>
+<td>Үлестірме материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2205</td>
+<td>Әндермен хорлар жинағы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2206</td>
+<td>Қазақ эпостарының жинағы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2207</td>
+<td>Фонограммалар жинағы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2208</td>
+<td>Ноталық материалы бар хрестоматия</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2209</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2210</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2211</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2212</td>
+<td>Мектеп боры</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Негізгі орта мектеп оқушыларының жеке пайдалануына арналған жабдық</th>
+</tr>
+<tr>
+<td>2213</td>
+<td>Оқулықтарды, аяқ киімді,спорттық керек-жарақтарды және сыртқы киімді сақтауға арналған жеке шкаф</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th colspan="4">Негізгі орта білім жағдай жасау үшін ұсынылатын жабдықтар мен жиһаз</th>
+</tr>
+<tr>
+<td>2214</td>
+<td>Көзі көрмейтін және нашар көретін балаларға, тірек-қимыл аппараты бұзылған балаларға ғимарат, үй-жай немесе кабинет ішінде кіруді/шығуды және қозғалуды қамтамасыз ететін айла бұйымдар (қабаттарға орын ауыстыруды ескере отырып)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2215</td>
+<td>Естімейтін және нашар еститін балаларға, сондай-ақ кохлеарлық импланттары бар балаларға арналған дыбыс күшейткіш айла бұйымдар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2216</td>
+<td>Тірек-қимыл аппараты мен көру қабілеті бұзылған балаларға арналған оқу орнын ұйымдастыруға арналған құрылғылар мен жиһаз</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Қауіпсіздікті қамтамасыз ету үшін ұсынылған құрал- жабдықтар</th>
+</tr>
+<tr>
+<td>2217</td>
+<td>Кіруді бақылау және басқару жүйесі мен, күзет сигнализациясын хабардар ету құралдары мен жабдық жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2218</td>
+<td>Бейнекамералары бар бейнебақылау жүйесі жабдықтарының жиынтығы (мектеп ғимаратының алаңына байланысты)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2219</td>
+<td>Дауыстық хабарлауы бар өрт дабылы жүйесін орнату</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+</table>
+
+## Жалпы орта білім беру ұйымдарын жабдықтар мен және жиһазбен жабдықтау нормалары
+
+<table>
+<tr>
+<th>№</th>
+<th>Атауы</th>
+<th>Өлшем бірлігі</th>
+<th>Саны</th>
+</tr>
+<tr>
+<th colspan="4">Қазақ тілі және әдебиеті кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2220</td>
+<td>Маркер мен және бор мен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2221</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2222</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2223</td>
+<td>25 оқушыға арналған бір немесе екі орынды оқушылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2224</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2225</td>
+<td>Ашық және жабықсөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2226</td>
+<td>Плакаттарға (карталарға) арналған аласа шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2227</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2228</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2229</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2230</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2231</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Плакаттар мен стендтер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2232</td>
+<td>Қазақ тілін оқыту тақырыптары бойынша плакаттар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2233</td>
+<td>«Әдебиет теориясының жетекші ұғымдары» плакаттары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2234</td>
+<td>«Қазақ ақындары мен жазушылары» портреттері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2235</td>
+<td>Пластикалық негіздегі қабырға стендтерінің жиыны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2236</td>
+<td>Электрондық оқу басылымдарының жиыны, оның ішінде аудио мәтіндер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2237</td>
+<td>дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2238</td>
+<td>Үлестірме материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2239</td>
+<td>Картиналар репродукциясы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2240</td>
+<td>Ертегілер (қазақ және әлемертегілері) жинағы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2241</td>
+<td>әдебиеттану: терминдер сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2242</td>
+<td>Қазақ әдебиеті: энциклопедиялық анықтамалық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2243</td>
+<td>Қазақ тілінің диалектілер сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2244</td>
+<td>Қазақ тілінің орфографиялық сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2245</td>
+<td>Қазақ тілінің орфоэпиялық сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2246</td>
+<td>Қазақ тілінің түсіндірме сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2247</td>
+<td>Қазақ тілінің фразеологиялықсөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2248</td>
+<td>Қазақ тілінің этимологиялық сөздігі</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2249</td>
+<td>Қазақстан жазушыларының антологиясы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2250</td>
+<td>Мақал-мәтелде ржинағы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2251</td>
+<td>Тіл білім і терминдерінің түсіндірме сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2252</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2253</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2254</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2255</td>
+<td>Қоқыссебеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2256</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2257</td>
+<td>тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2258</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Ағылшын тілі кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2259</td>
+<td>Маркер мен немесе бормен жазылатын тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2260</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2261</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2262</td>
+<td>13 оқушыға арналған бір немесе екі орынды үстелдер жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2263</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2264</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2265</td>
+<td>Плакаттарға (карталарға) арналған аласа шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2266</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2267</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2268</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2269</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2270</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Плакаттар мен стендтер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2271</td>
+<td>Ағылшын тілінің тақырыптары бойынша плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2272</td>
+<td>Пластикалық негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2273</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2274</td>
+<td>дидактикалық материалдар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2275</td>
+<td>Үлестірме материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2276</td>
+<td>Транскрипциясы бар әліпби</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2277</td>
+<td>Оқытылатын тілдің елі жөніндегі альбом</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2278</td>
+<td>Оқытылатын тілдің картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2279</td>
+<td>Оқытылатын тілдің түсіндірм есөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2280</td>
+<td>Оқуға арналған әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2281</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2282</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2283</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2284</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2285</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2286</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2287</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th></th>
+<th>Математика кабинеті</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2288</td>
+<td>Маркер мен және бор менжазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2289</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2290</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2291</td>
+<td>25 оқушыға арналған бір немесе екі орынды оқу шылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2292</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2293</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2294</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2295</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2296</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2297</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2298</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Графикалық калькуляторы бар математикадан сандық зертхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2299</td>
+<td>Қайта зарядталатын батареясы бар графикалық калькулятор</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<th></th>
+<th>Жалпы мақсаттағы оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2300</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызба аспаптар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Демонстрациялық оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2301</td>
+<td>Куб пен сфераның демонстрациясына арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2302</td>
+<td>Көлемді геометриялық фигуралардың демонстрациясына арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2303</td>
+<td>Жаймалы геометриялық фигуралардың демонстрациясына арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2304</td>
+<td>Демонстрациялық қимасы бар мөлдір геометриялық денелер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2305</td>
+<td>Жазық фигураларды жасауға арналған жиынтық</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2306</td>
+<td>Ықтималдық заңдарын зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2307</td>
+<td>Жиынтық Шаршы мен шеңбердің бөлшекті бөліктері</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертханалық құралдар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2308</td>
+<td>Көлемді геометриялық фигураларды үлестірмелі жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2309</td>
+<td>13 жұмыс тобына арналған өзектік геометриялық пішіндер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Плакаттар мен стендтер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2310</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2311</td>
+<td>Электрондық оқу басылымдарының жиыны, оның ішінде плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2312</td>
+<td>дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2313</td>
+<td>Үлестірме материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2314</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2315</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2316</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2317</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2318</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2319</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2320</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Орыс тілі және орыс әдебиеті кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2321</td>
+<td>Маркер мен және бормен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2322</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2323</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2324</td>
+<td>25 оқушыға арналған бір немесе екі орынды оқушылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2325</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2326</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2327</td>
+<td>Плакаттарға (карталарға) арналған аласа шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2328</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2329</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2330</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2331</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2332</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Плакаттар мен стендтер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2333</td>
+<td>Орыс тілі және орыс әдебиеті тақырыптары бойынша плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2334</td>
+<td>Пластикалық негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2335</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2336</td>
+<td>дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2337</td>
+<td>Орыс тілінің орфографиялық сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2338</td>
+<td>Үлестірме материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2339</td>
+<td>Орыс тілінің синонимдері мен антонимдерінің сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2340</td>
+<td>Орыс тілінің түсіндірме сөздігі Ожегов С. И.</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2341</td>
+<td>Орыс әдеби тілінің фразеологиялық сөздігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2342</td>
+<td>Көркем әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2343</td>
+<td>Орыс әдебиеті энциклопедиясы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2344</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2345</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2346</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2347</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2348</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2349</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2350</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Зертхана бөлмесі бар физика кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2351</td>
+<td>Маркер мен және бормен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2352</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2353</td>
+<td>Электр энергиясы жеткізілген демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2354</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2355</td>
+<td>2 орынды зертханалық үстел</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2356</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2357</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертхана бөлмесіне арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2358</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2359</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2360</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2361</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2362</td>
+<td>Ашық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2363</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2364</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2365</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2366</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2367</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Физика бойынша сандық зертхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2368</td>
+<td>Гальвано метрлік сездіргі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2369</td>
+<td>Қозғалыс датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2370</td>
+<td>Күш және үдеу датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2371</td>
+<td>Дыбыс датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2372</td>
+<td>Магнитті өріс датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2373</td>
+<td>Фото затвор датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2374</td>
+<td>Түс және жарық датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2375</td>
+<td>Температура датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2376</td>
+<td>Датчиктер мен жұмыс істеуге арналған динамикалық жүйе</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2377</td>
+<td>Арнайы бағдарламалық жасақтамасы бар деректер тіркеушісі (сымсыз сездіргілер үшін қажет емес )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2378</td>
+<td>Сандық зертханадағыэкспери менттері бар кітап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Демонстрациялық жиынтықтар, аспаптар мен керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2379</td>
+<td>Барометр-анероид</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2380</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2381</td>
+<td>Айнымалы токты өлшеуге арналған вольтметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2382</td>
+<td>Вимшурст генераторы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2383</td>
+<td>Психрометрлік гигрометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2384</td>
+<td>Демонстрациялық динамометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2385</td>
+<td>Дөңес және ойысайна (жиынтықта оптика болмаған кезде)</td>
+<td>пара</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2386</td>
+<td>Айнымалы және тұрақты ток көзі</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2387</td>
+<td>Резонанстық жәшіктердегі камертондар</td>
+<td>пара</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2388</td>
+<td>Томсон орауышы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2389</td>
+<td>Демонстрациялық блоктар жиыны (жиынтықта механика болмаған кезде)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2390</td>
+<td>Демонстрациялық кедергілер магазині</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2391</td>
+<td>U-тәріздес демонстрациялық магнит</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2392</td>
+<td>Магнитті демонстрациялық жолақ</td>
+<td>пара</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2393</td>
+<td>Сұйықтықты демонстрациялық манометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2394</td>
+<td>Электр статикалық маятник</td>
+<td>пара</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2395</td>
+<td>Айнымалы токты өлшеуге арналған микроамперметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2396</td>
+<td>Айнымалы токты өлшеуге арналған миллиамперметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2397</td>
+<td>Кристалдық тор үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2398</td>
+<td>Атмосфералық қысымды зерттеуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2399</td>
+<td>Механиканы зерттеуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2400</td>
+<td>Оптиканы зерттеуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2401</td>
+<td>Электр статиканы зерттеуге арналған демонстрациялық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2402</td>
+<td>Штативі бар 5 маятник шарының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2403</td>
+<td>Физика кабинетіне арналған құралдар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2404</td>
+<td>Капиллярлар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2405</td>
+<td>Физика кабинетіне арналған зертхана ыдыстары мен керек-жарақтарының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2406</td>
+<td>Нанотехнология бойынша эксперименттерге арналған зертханалық жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2407</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызба аспаптар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2408</td>
+<td>Қол сорғысы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2409</td>
+<td>Баллистикалық тапанша</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2410</td>
+<td>Зертханалық электрплитасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2411</td>
+<td>Өткізгіштің кедергісінің оның ұзындығына, қимасына және материалына әуелділігін көрсетуге арналған аспап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2412</td>
+<td>Газ заңдарын зерттеуге арналған манометрі бар аспап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2413</td>
+<td>Жүгірткі реостаты</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2414</td>
+<td>Байланысатын ыдыстар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2415</td>
+<td>Паскаль шары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2416</td>
+<td>Сақинасы бар шар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2417</td>
+<td>Әмбебап штатив</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертхана аспаптары мен керек-жарақтары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2418</td>
+<td>Бағыттамалы зертханалық амперметр 0,6 А-3А</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2419</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2420</td>
+<td>Бағыттамалы зертханалық вольтметр 3V-15V</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2421</td>
+<td>Бір полюсті зертханалық ажыратқыш</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2422</td>
+<td>Зертханалық динамометр</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2423</td>
+<td>Капсуладағы темір ұнтағы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2424</td>
+<td>Галилей науасы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2425</td>
+<td>Стаканы бар калориметр</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2426</td>
+<td>Зертханалық бастапқы орам орауышы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2427</td>
+<td>Зертханалық блоктар жиыны</td>
+<td>жиын</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2428</td>
+<td>Қосқышсымдар жиыны</td>
+<td>жиын</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2429</td>
+<td>Зертханалықша мұстағыш</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2430</td>
+<td>Экраны бар тұғырдағы линза</td>
+<td>жиын</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2431</td>
+<td>U-тәріздес зертханалық магнит</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2432</td>
+<td>Зертханалық жолақтымагнитжұп</td>
+<td>пара</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2433</td>
+<td>Электр қозғалтқыштың (жиналмалы) зертханалық үлгісі</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2434</td>
+<td>Механика бойынша жүктер жиынтығы (10х100 грамм)</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2435</td>
+<td>Дифракциялық торлар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2436</td>
+<td>Калориметрлік денелер жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2437</td>
+<td>Электролиз бойынша зертханалық жиынтық</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2438</td>
+<td>Қаттылығы әртүрлі серіппелер жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2439</td>
+<td>Көлемі және массасы теңденелер жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2440</td>
+<td>Электр тізбектерін құрастыруға арналған тақша</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2441</td>
+<td>Дифракциялық торлардың жиынтығы бар жарық толқынының ұзындығын өлшеуге арналған аспап</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2442</td>
+<td>Зертханалық электрплитасы</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2443</td>
+<td>Жүгірткі реостаты</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2444</td>
+<td>Зертханалық иінтірек-сызғыш</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2445</td>
+<td>Штативтегі магнитті жебелер (жұп)</td>
+<td>пара</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2446</td>
+<td>Зертханалық трибометр</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2447</td>
+<td>Зертханалық құрама штатив</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2448</td>
+<td>Бөлшектері бар құрастырмалы электромагнит</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары, стендтер мен кестелер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2449</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2450</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2451</td>
+<td>Физикадан электрондыплакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2452</td>
+<td>Физикадан виртуалды жұмыстарды жүргізуге арналған бағдарламалық жасақтама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2453</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2454</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2455</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2456</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2457</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2458</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2459</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="2">Информатика кабинеті (IT- сынып)</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th colspan="2">Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2460</td>
+<td>Маркерлі тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2461</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2462</td>
+<td>Аунақшадағы айналмалы кресло</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2463</td>
+<td>Бір орынды компьютерлік үстел</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2464</td>
+<td>Ашық және жабықсөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="2">Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2465</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2466</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2467</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2468</td>
+<td>Үздіксіз қуаттау көзі 1200VA</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2469</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2470</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="2">Оқу құралдары, стендтер мен кестелер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2471</td>
+<td>Информатика кабинетіндегі қауіпсіздік техникасы қағидаларының кестесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2472</td>
+<td>IT-технология кестесі</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2473</td>
+<td>Сандық ресурстарды басқаруға арналған бағдарламалық жасақтама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2474</td>
+<td>Компьютерлік графика, бағдарламалау негіздері, бейнетехнологиялар бойынша бағдарламалық құралдардың жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="2">Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2475</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2476</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2477</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2478</td>
+<td>Қоқыссебеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2479</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2480</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2481</td>
+<td>Электр мен жабдықтау қалқаны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="2">Тарих пен мемлекет және құқық негіздері кабинеті</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th colspan="2">Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2482</td>
+<td>Маркер мен және бормен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2483</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2484</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2485</td>
+<td>25 оқушыға арналған бір немесе екі орынды оқушылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2486</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2487</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2488</td>
+<td>Плакаттарға (карталарға) арналған аласа шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2489</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2490</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2491</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2492</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2493</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2494</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Дүниежүзілік тарихының карталары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2495</td>
+<td>XIII-XV ғасырлардағы Балқан және Кіші Азия картасы. Түрік-османдардың жаулап алуы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2496</td>
+<td>XX ғасырдың екінші жартысы мен XXI ғасырдың басындағы Таяу Шығыс пен Оңтүстік Азия елдерінің картасы 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2497</td>
+<td>Ұлы Отан соғысының картасы (1941 жыл 22 маусым-1943 жыл желтоқсан) 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2498</td>
+<td>Ұлы француз революциясы және Наполеон соғысының картасы 1789-1815 жылдар 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2499</td>
+<td>Халықтардың ұлы қоныс аудару картасы. Батыс Рим империясының жойылуы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2500</td>
+<td>Солтүстік Америка отарларының тәуелсіздік соғысы және АҚШ-тың құрылуы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2501</td>
+<td>XX ғасырдың екінші жартысы-XXI басындағы Шығыс және Оңтүстік-шығыс Азия картасы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2502</td>
+<td>АҚШ-тағы азаматтық соғыс картасы (1861 - 1865 жылдар) 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2503</td>
+<td>Ұлы Отан соғысының аяқталуы картасы (1944 жыл қаңтар-1945 жыл мамыр, Жапонияны талқандау) 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2504</td>
+<td>Арабтарды жаулап алу картасы. Араб халифаты және оның ыдырауы VIII-IX ғғ 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2505</td>
+<td>Екінші дүниежүзілік соғыстан кейінгі Батыс Еуропа картасы. ХХ ғасырдың екінші жартысында-XXI ғасырдың басындағы Еуропа 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2506</td>
+<td>VII-XIIғғ Үндістан және Қытай картасы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2507</td>
+<td>Крест жорығының картасы XI-XIIIғғ 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2508</td>
+<td>XX ғасырдың екінші жартысы- XXI ғасырдың басындағы әлем картасы-100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2509</td>
+<td>Моңғол шапқыншылығы картасы XIII ғасыр 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2510</td>
+<td>Тәуелсіз мемлекеттердің құрылу картасы. Бірінші дүниежүзілік соғыстан кейінгі Еуропадағы аумақтық өзгерістер 1918-1923 жж 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2511</td>
+<td>Бірінші дүниежүзілік соғыс картасы 1914-1918 жж. Еуропа мен Кавказдағы әскериіс-қимылдар 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2512</td>
+<td>XII-XIV ғасырлардағы Қасиетті Рим империясы картасы. ХIV- ХV ғасыр Италия 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2513</td>
+<td>1985-1991 жылдар. Кеңес Одағының картасы КСРО-ның ыдырауы 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2514</td>
+<td>Александр Македонский державасының құрылу және ыдырау картасы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2515</td>
+<td>1922-1939 жж. Кеңестік Социалистік Республикалар Одағының картасы 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2516</td>
+<td>Жүзжылдық соғыс картасы 1337-1453 жылдар 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2517</td>
+<td>Африка елінің картасы ХХ ғасырдың екінші жартысы-XXI ғасырдың басы 70х100 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2518</td>
+<td>АҚШ пен Орталық және Оңтүстік Америка елдерінің картасы XX-XXI ғасырдың екінші жартысы 100х140 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2519</td>
+<td>Әлемнің саяси картасы 1:25 000 000</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қазақстан тарихы бойынша карталар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2520</td>
+<td>ҰОС жылдарындағы Қазақстан картасы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2521</td>
+<td>Азамат соғысы жылдарындағы Қазақстан картасы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2522</td>
+<td>Моңғол империясы құрамындағы Қазақстан картасы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2523</td>
+<td>Орта ғасырдағы Қазақстан картасы. Қазақстан аумағындағы мемлекеттік құрылымдар 13-15 ғасырлар 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2524</td>
+<td>Орта ғасырдағы Қазақстан картасы. Жоңғар шапқыншылығы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2525</td>
+<td>Орта ғасырдағы Қазақстан картасы. 18 ғасырдың басындағы Қазақхандығы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2526</td>
+<td>Орта ғасырдағы Қазақстан картасы. Қазақхандығы. 1465-1466 жылдар білім беру және аумағын кеңейту 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2527</td>
+<td>Орта ғасырдағы Қазақстан картасы. Әмір Темірдің жорықтары 1336-1405 жж 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2528</td>
+<td>Қазақстан картасы. Кенесары Қасымұлының басшылығы мен ұлт-азаттық қозғалыс 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2529</td>
+<td>Қазақстан картасы. Сырым Датұлының ұлт-азаттық қозғалысы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2530</td>
+<td>Қазақстан картасы. 19-20 ғасырдың басында сауданың дамуы 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2531</td>
+<td>Қазақстан картасы. Қазақтардың 1812 жылғы Отан соғысына қатысуы, 100х70 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2532</td>
+<td>Қазақстан Республикасы саяси-әкімшілік картасы1:1 500 000 ламинатталған</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2533</td>
+<td>Ежелгі Қазақстан карталары жиында 10 дана 100х70 сантиметр</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Плакаттар мен портреттер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2534</td>
+<td>Плакаттар «Жаңа тарих»</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2535</td>
+<td>Плакаттар «Жалпылама дүниежүзі тарихы»</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2536</td>
+<td>Плакаттар «Саяси ағымдар»</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2537</td>
+<td>Плакаттар «Құқық теориясы»</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2538</td>
+<td>Плакаттар: әлем тарихы мен Қазақстан тарихының уақыт таспасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2539</td>
+<td>Қазақстан тарихы, Дүниежүзілік тарих, Құқық негіздері бойынша электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2540</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2541</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2542</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2543</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2544</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2545</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2546</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2547</td>
+<td>Мектеп боры</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th></th>
+<th>География кабинеті</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2548</td>
+<td>Маркер мен және бор мен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2549</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2550</td>
+<td>Демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2551</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2552</td>
+<td>25 оқушыға арналған бір немесе екі орынды оқушылар үстелдерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2553</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2554</td>
+<td>Ашық және жабықсөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2555</td>
+<td>Плакаттарға (карталарға) арналған аласа шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2556</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2557</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2558</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2559</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2560</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>География бойынша ұсынылатын Сандық зертхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2561</td>
+<td>Ауа-райы стансасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2562</td>
+<td>Су сапасын өлшеу датчигі (pH)</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2563</td>
+<td>Атмосфералық қысым датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2564</td>
+<td>Топырақтың ылғалдылық датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2565</td>
+<td>Ерітіндінің лайлылық датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2566</td>
+<td>Температура датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2567</td>
+<td>Электр өткізгіштік датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2568</td>
+<td>Арнайы бағдарламалық жасақтамасы бар деректер тіркеушісі (сымсыз датчик үшін қажет емес )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2569</td>
+<td>Сандық зертханадағы эксперименттері бар кітап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Әлемнің және аймақтардың қағаз карталары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2570</td>
+<td>Австралия және Океания саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2571</td>
+<td>Австралия және Океания физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2572</td>
+<td>Азияның саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2573</td>
+<td>Азияның физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2574</td>
+<td>Африканың саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2575</td>
+<td>Африканың физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2576</td>
+<td>Еуразияның физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2577</td>
+<td>Еуропаның саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2578</td>
+<td>Әлемнің климаттық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2579</td>
+<td>Әлемнің саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2580</td>
+<td>Әлемнің физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2581</td>
+<td>Әлем халықтарының және халық тығыздығының картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2582</td>
+<td>Теңіздер картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2583</td>
+<td>Әлемнің табиғи аймақтарының картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2584</td>
+<td>Солтүстік Американың саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2585</td>
+<td>Солтүстік Американың физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2586</td>
+<td>Әлемдегі экологиялық мәселелер картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2587</td>
+<td>Оңтүстік Американың саяси картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2588</td>
+<td>Оңтүстік Американың физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қазақстан Республикасының қағаз карталары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2589</td>
+<td>ҚР саяси-әкімшілік картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2590</td>
+<td>ҚР физикалық картасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Демонстрациялық үлгілер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2591</td>
+<td>Жұлдызды аспан глобусы 320 миллиметр жарықтандырылған</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2592</td>
+<td>Жер глобусы саяси 320 миллиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2593</td>
+<td>Жер глобусы физикалық 150 миллиметр</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2594</td>
+<td>Ай глобусы 320 миллиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2595</td>
+<td>Марс глобусы 320 миллиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2596</td>
+<td>География бойынша үлгі «Жер қыртысының жылжуы мен бұзылымдары»</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2597</td>
+<td>География бойынша үлгі «Жерқ ұрылымы»</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2598</td>
+<td>География бойынша үлгі «Теңіз түбі бедерінің құрылымы»</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2599</td>
+<td>«Күн–Жер–Ай (теллурий)» үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2600</td>
+<td>Циклон және антициклон үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Табиғи коллекциялар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2601</td>
+<td>«Минералдар мен тау жыныстары» коллекциясы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2602</td>
+<td>«Пайдалықазбалар» коллекциясы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Аспаптар мен керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2603</td>
+<td>Барометр-анероид</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2604</td>
+<td>Гигрометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2605</td>
+<td>Электрондық қашықтық өлшеуіш</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2606</td>
+<td>Мектеп компасы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2607</td>
+<td>Курвиметр</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2608</td>
+<td>Өлшеуіш таспа</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2609</td>
+<td>Ең жоғарғы және ең төменгі мәндерді тіркейтін термометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2610</td>
+<td>Сейсмограф үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2611</td>
+<td>Флюгер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары мен стендтер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2612</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2613</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2614</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2615</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2616</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2617</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2618</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиын</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2619</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2620</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="2">STEM- зертханасы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2621</td>
+<td>Жанышталған фанерадан жасалған үстелшесі бар тумбасыз шебер үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2622</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>9</td>
+</tr>
+<tr>
+<td>2623</td>
+<td>Демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2624</td>
+<td>4 орынға арналған зертханалық үстел</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2625</td>
+<td>12 оқушыға арналған модульдік үстелдер жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2626</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2627</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2628</td>
+<td>3D принтерге арналған тумба</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2629</td>
+<td>Доңғалақтардағы зертханалық тумба</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2630</td>
+<td>Мобильді тұғырықтағы флипчарт</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2631</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2632</td>
+<td>Науалары бар шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2633</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2634</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2635</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2636</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2637</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2638</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Бағдарламалық жасақтама</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2639</td>
+<td>Табиғиғылымдар бойынша ресурстардың 3-Dкітапханасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2640</td>
+<td>Шексіз лицензиясы бар шынайылық пентолықтырылған бағдарлама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Математикалық зерттеулер секторы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2641</td>
+<td>Қайта зарядталатын батареясы бар графикалық калькулятор</td>
+<td>жиын</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2642</td>
+<td>Геоборд</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2643</td>
+<td>Жалпақ пішіндердің конструкторы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2644</td>
+<td>Пластик тіштанген циркуль үлгісі</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2645</td>
+<td>Ықтималдық заңдарын зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Жаратылыстану-ғылыми эксперименттер секторы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2646</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2647</td>
+<td>Гидропоника бойынша шағын зертхана</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2648</td>
+<td>Сандық USB микроскоп</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2649</td>
+<td>Сандық мультиметр</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2650</td>
+<td>Жаратылыстану ғылымдары бойынша зерттеулерге арналған жиынтық</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2651</td>
+<td>Тәжірибеге арналған ыдыстар жиынтығы</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2652</td>
+<td>оқытушыға арналған әмбебап штатив</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2653</td>
+<td>Зертханалық құрама штатив</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2654</td>
+<td>Әдістемелік материалдары бар жаратылыстану ғылымдары бойынша сандық зертхана</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Инженерлік жобалар мен технологиялар секторы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2655</td>
+<td>3D-принтер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2656</td>
+<td>Пластик PLA 1,75 миллиметр, 1 килограмм</td>
+<td>килограмм</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2657</td>
+<td>Дизайн және технологияға арналған CББ (Сандық бағдарламалық бақылау) машинасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2658</td>
+<td>Ғылыми сездіргілер мен Ардуино базасында білім беру жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2659</td>
+<td>Индустриялықп роцестерді симуляциялауға арналған робототехникалық жабдықтар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2660</td>
+<td>RaspberryPi білім беру және интернет заттар жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2661</td>
+<td>Нейротехнологияны зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2662</td>
+<td>Әдістемелік материалдары бар баламалы энергетиканы зерттеуге арналған жиынтық</td>
+<td>жиы</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2663</td>
+<td>Виртуалды шынайылық көзілдірігі</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2664</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2665</td>
+<td>Флипчартқа арналған қойын дәптер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2666</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2667</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2668</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2669</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиын</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2670</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2671</td>
+<td>Ашық үлгідегі қорғаныс көзілдірігі</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2672</td>
+<td>Медициналық м/м халат</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<th colspan="4">Робототехника кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2673</td>
+<td>Маркерлі қабырғалық тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2674</td>
+<td>Аунақшалардағы айналмалы кресло</td>
+<td>дана</td>
+<td>7</td>
+</tr>
+<tr>
+<td>2675</td>
+<td>Ернеулері 2400х1200 миллиметр және 4 жылжымалы тумбалары бар үстел</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2676</td>
+<td>1 орынды модульді үстел</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2677</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2678</td>
+<td>2 орынды ернеулері бар үстел</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2679</td>
+<td>Оқушы орындығы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2680</td>
+<td>3D-принтерге арналған тумба</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2681</td>
+<td>Науалары бар шкаф</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2682</td>
+<td>Жартылайашық шкаф немесе сөре</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2683</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2684</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2685</td>
+<td>Микрофон-телефон гарнитурасы</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2686</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2687</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2688</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<th></th>
+<th>Құралдар, стендер мен кестелер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2689</td>
+<td>Робототехника кестесі</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2690</td>
+<td>Білім беру робототехникасы бойынша бағдарламалық құралдар мен оқу-әдістемелік кешендер жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2691</td>
+<td>Робототехникамен айналысуға арналған жаттығу жолдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2692</td>
+<td>Информатика кабинетіндегі қауіпсіздік техникасы қағидалары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>3D-үлгілеу</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2693</td>
+<td>3D-принтер жинақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2694</td>
+<td>Пластик PLA 1,75 миллиметр</td>
+<td>килограмм</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Робототехникалық жиынтық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2695</td>
+<td>Бағдарламалық блоктар түріндегі бағдарламалау ортасымен, құрамында экранды микроконтроллер, моторлар, сездіргілер, конструкциялық элементтер, әдістемелік материалдар бар робототехникалық жиынтық</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2696</td>
+<td>Ардуино зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2697</td>
+<td>RaspberryPi білім беру және интернет заттарды зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2698</td>
+<td>Жарыстарға дайындауға арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2699</td>
+<td>Квадрокоптері бар білім беру жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2700</td>
+<td>Антропоморфты робот</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2701</td>
+<td>Python бағдарламалау тілінде жасанды интеллект, компьютерлік көру және ұшқышсыз автомобиль технологиясының негіздерін зерттеуге арналған робототехника жиынтығы</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2702</td>
+<td>Бағдарламаланатын дрон</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2703</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2704</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2705</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2706</td>
+<td>Маркерлі қабырғалық тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2707</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2708</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2709</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<th colspan="4">Зертханасы бар ұсынылатын биотехнология кабинеті</th>
+</tr>
+<tr>
+<td>2710</td>
+<td>Бес элементтімаркерлі және борлы құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2711</td>
+<td>Компьютерге арналған приставкасы бар оқытушының үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2712</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2713</td>
+<td>Электр қуаты берілген демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2714</td>
+<td>2 орынды зертханалық үстел</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2715</td>
+<td>Оқушыға арналған орындық</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2716</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертханаға арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2717</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2718</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2719</td>
+<td>Ашық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2720</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2721</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2722</td>
+<td>Желдету жүйесі бар демонстрациялық шкафы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2723</td>
+<td>Желдету жүйесі бар химиялық реактивтерді сақтауға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2724</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2725</td>
+<td>Акустикалық үстел жүйесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2726</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2727</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2728</td>
+<td>Интерактивті панелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2729</td>
+<td>Жиынтықта қосалқы аккумуляторлы батареясы бар ноутбук</td>
+<td>дана</td>
+<td>26</td>
+</tr>
+<tr>
+<td>2730</td>
+<td>Арба-зарядтауқұрылғысы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Аспаптар және керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2731</td>
+<td>Агароз электр офорезінің эксперименттерін жүргізуге арналған жабдықтар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2732</td>
+<td>«Саусақ ізін талдау» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2733</td>
+<td>«Электрофорез» экспери менттік жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2734</td>
+<td>Агароз электрофорезіне арналған реактивтер жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2735</td>
+<td>«ДНҚ құрылымы» тәжірибелік жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2736</td>
+<td>«ДНҚ электрофорезі 1 бөлім» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2737</td>
+<td>«ДНҚ электрофорезі 2 бөлім» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2738</td>
+<td>«Жемістер мен көкөністерден ДНҚ алу» оқу практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2739</td>
+<td>Бактериялардың ДНҚ-ны зерттеу жөніндегі зертханалық жұмыстарға арналған жиынтық</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2740</td>
+<td>«Ген экспрессиясын реттеу: ДНҚ метилизациясы бойынша эксперимент» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2741</td>
+<td>«Молекулалардың бөлінуі: ақуыз және ДНҚ талдау жүйесі» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2742</td>
+<td>«ДНК ашу» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2743</td>
+<td>«Отбасының ДНҚ картасы» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2744</td>
+<td>«Кариотиптеудіқайтақұру» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2745</td>
+<td>«Наркотест» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2746</td>
+<td>«Рекомбинант ДНК, үлгілерді көрсету» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2747</td>
+<td>Антиденелер деңгейін анықтауға арналған жиынтық</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2748</td>
+<td>«Диагнозды анықтау» оқу жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2749</td>
+<td>Ферменттеуге арналған жабдықтар жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2750</td>
+<td>Ашыту бойынша әдістемелік материал</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2751</td>
+<td>«Ашыту өнімдерін тестілеу» оқу жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2752</td>
+<td>Жылуцентрифугасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2753</td>
+<td>«Полимерліктізбектіталдау» оқу практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2754</td>
+<td>Магнезия хлоридінің толық өлшемді реакциясына арналған реактивтер жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2755</td>
+<td>«Тәжірибеде энзимдердің қасиеттерін зерттеу» эксперименттік жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2756</td>
+<td>Энзимдердің толық өлшемді реакциясына арналған реактивтер жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2757</td>
+<td>Зертханалық практикум «Тағам зертхананың ғылыми қызметінің құралы ретінде»</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2758</td>
+<td>«Геномо дифицирленген өнімдер: полимерліксәй кестендіру» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2759</td>
+<td>«Тіндер» микропрепараттар жиынтығы (өсімдіктер, саңырауқұлақтар, Жануарлар)</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2760</td>
+<td>«Жануарлар тіндері» жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2761</td>
+<td>Тірітін жасушалары нөсіру бойынша зерттеуге арналған жиынтық</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2762</td>
+<td>«Өсімдіктіндері» жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2763</td>
+<td>«Өсімдік патологиясы» зертханалық жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2764</td>
+<td>ДНҚ жиынтығы: вирустар мен бактериялар</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2765</td>
+<td>Бактериология бойынша слайдтар жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2766</td>
+<td>«Цианобактериялардың морфологиясы» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2767</td>
+<td>«Бактериология негіздері» микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2768</td>
+<td>«Бактериялар құрылымы» микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2769</td>
+<td>«Гистологияға кіріспе» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2770</td>
+<td>Паразитология негіздері бойынша түрлі-түсті атлас</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2771</td>
+<td>«Мұнайға Биоремедиация. Бактериялардың белсенділігі»</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2772</td>
+<td>«Ауыз судағы бактериялар» практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2773</td>
+<td>Тәжірибелік жиынтық: Эпидемия</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2774</td>
+<td>«Аллергия» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2775</td>
+<td>«Фотосинтез және жасушалық тынысалу» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2776</td>
+<td>«Микробиологиялық қызмет негіздері» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2777</td>
+<td>«Диффузия және жасуша мөлшері» зертханалық жиынтығы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2778</td>
+<td>«Пробиркадағы гендер» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2779</td>
+<td>«Мендель принципі» зертханалық шеберханасы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2780</td>
+<td>«Генетика» оқыту курсы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2781</td>
+<td>«Жасушалық процестерді визуализациялау» оқыту курсы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2782</td>
+<td>«Анти денелердің болуын анықтауға кіріспе» зертханалық практикумы</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2783</td>
+<td>Магниттік араластырғыш</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2784</td>
+<td>Өткізгіш РН тестері</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2785</td>
+<td>Спектрдің көрінетін бөлігінің UV-спектрофотометрі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2786</td>
+<td>Оқу электрлік зертханалық плитасы</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2787</td>
+<td>Кептірупеші</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2788</td>
+<td>Зертханалық инкубатор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2789</td>
+<td>Зертханалық су моншасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2790</td>
+<td>Микротұтқырларға арналған термос-араластырғыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2791</td>
+<td>Шейкер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2792</td>
+<td>Оқушы микроскопы</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2793</td>
+<td>Термостат</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2794</td>
+<td>Сандық микроскоп</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2795</td>
+<td>Тоңазытқыш құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2796</td>
+<td>Мұздатқыш құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2797</td>
+<td>
+Реактивтер жиынтығы (Хлороформ (ЧДА-«Таза талдау үшін»), Гексан (ЧДА-«Таза талдау үшін»),
+Бояғыш (ацетоорсеин), метилен көк, Генцианвиолет, Фуксин)
+</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Ұсынылған зертханасы бар нанотехнологиялар кабинеті</th>
+</tr>
+<tr>
+<td>2798</td>
+<td>Бес эле ментті маркерлі және борлы құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2799</td>
+<td>Компьютерге арналған приставкасы бар оқытушының үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2800</td>
+<td>Шынтақшалары бар роликтерде айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2801</td>
+<td>Электр қуаты берілген демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2802</td>
+<td>2 орынды зертханалық үстел</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2803</td>
+<td>Оқушы орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2804</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертханаға арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2805</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2806</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2807</td>
+<td>Ашық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2808</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2809</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2810</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2811</td>
+<td>Акустикалық үстел жүйесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2812</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2813</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2814</td>
+<td>Интерактивті панелі / проекторы бар интерактивті тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2815</td>
+<td>Жиынтықта қосалқы аккумуляторлы батареясы бар ноутбук</td>
+<td>дана</td>
+<td>26</td>
+</tr>
+<tr>
+<td>2816</td>
+<td>Арба-зарядтау құрылғысы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Аспаптар және керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2817</td>
+<td>Нанотехнологиялар бойынша мектеп тәжірибелеріне арналған чемодандағы эксперименттік жиынтық</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2818</td>
+<td>Базалық деңгейдегі экспери менттерге арналған «Нанотехнологиялар» жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2819</td>
+<td>«Жасыл нанохимия: күміс нанобөлшектердің синтезі» жинағы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2820</td>
+<td>Оқу жиынтығы: жасырын саусақ іздері</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2821</td>
+<td>«Спектроскопия» курсы бойынша зертханалық практикум</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2822</td>
+<td>Спектроскоп</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2823</td>
+<td>Спектрлік аналитикалық карта</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2824</td>
+<td>Спектрлік талдау және жалын бояуын талдау бойынша зертханалық эксперименттерге арналған жиынтық</td>
+<td>жиынты</td>
+<td>6</td>
+</tr>
+<tr>
+<th colspan="4">Зертханалық бөлмесі бар биология кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2825</td>
+<td>Маркер мен және бор мен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2826</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2827</td>
+<td>Электр энергиясы жеткізілген демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2828</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2829</td>
+<td>2 орынды зертханалық үстел</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2830</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2831</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертхана бөлмесіне арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2832</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2833</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2834</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2835</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2836</td>
+<td>Ашық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2837</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2838</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2839</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2840</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2841</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Биология бойынша сандық зертхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2842</td>
+<td>Су сапасын өлшеу датчигі (pH)</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2843</td>
+<td>Газқысымының датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2844</td>
+<td>Өткізгіштік датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2845</td>
+<td>Пульс датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2846</td>
+<td>Температура датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2847</td>
+<td>Оттегі деңгейінің датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2848</td>
+<td>Көмір қышқыл газ деңгейінің датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2849</td>
+<td>Электрок ардиограмма датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2850</td>
+<td>Датчик колориметр</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2851</td>
+<td>Арнайы бағдарламалық жасақтамасы бар деректер тіркеушісі (сымсыз датчигі үшін қажет емес)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2852</td>
+<td>Сандық зертханадағы эксперименттері бар кітап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Микропрепараты</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2853</td>
+<td>Анатомия бойынша микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2854</td>
+<td>Ботаника бойынша микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2855</td>
+<td>Зоология бойынша микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2856</td>
+<td>Жалпы биология бойынша микропрепараттар жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2857</td>
+<td>Сыныпқа микропрепараттар дайындауға арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оптикалық аспаптар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2858</td>
+<td>Қолұлғайтқыш әйнегі</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2859</td>
+<td>Оқушы микроскопы 640х</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2860</td>
+<td>Сандық USB микроскоп</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Тәжірибеге арналған керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2861</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2862</td>
+<td>Дистиллятор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2863</td>
+<td>Демонстрациялық тәжірибелерге және зертханалық жұмыстарға арналған ыдыс-аяқ пен керек-жарақтар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2864</td>
+<td>Биология бойынша зертханалық жұмыстарға арналған реактивтер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2865</td>
+<td>Зертханалық электрлік плитка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2866</td>
+<td>Зертханалық құрама штатив</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<th></th>
+<th>Анатомия үлгілері</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2867</td>
+<td>Адам денесі 85 сантиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2868</td>
+<td>Көздің ұлғайтылған үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2869</td>
+<td>Жүректің демонстрациялық үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2870</td>
+<td>Қимадағы бүйрек үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2871</td>
+<td>Альвеола мен өкпе үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2872</td>
+<td>Жұлынның үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2873</td>
+<td>Бас миының үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2874</td>
+<td>Құлақтың үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қаңқалар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2875</td>
+<td>Аунақшадағы тұғырдағы бойы 170 сантиметр адам қаңқасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Ботаника бойынша көлемді үлгілер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2876</td>
+<td>Тамырдың бойлық қимасының үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2877</td>
+<td>Жапырақ құрылымының үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2878</td>
+<td>Гүлдің әмбебап үлгісі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Гер барийлер мен коллекциялар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2879</td>
+<td>Биологиядан гербарийлер жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2880</td>
+<td>Биологиядан коллекциялар жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары, стендтер мен кестелер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2881</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2882</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2883</td>
+<td>Биология бойынша виртуалды немесе шынайылықпен толықтырылған бағдарламалық жасақтама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2884</td>
+<td>Биологиядан электронды плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2885</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2886</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2887</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2888</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2889</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2890</td>
+<td>тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2891</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<td>2892</td>
+<td>Ашық үлгідегі қорғаныс көзілдірігі</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2893</td>
+<td>Химиялық төзімді қорғаныс биялайлары</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2894</td>
+<td>Резеңкеленген алжапқыш</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2895</td>
+<td>Медициналық м/м халат</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th colspan="4">Зертхана бөлмесі бар химия кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2896</td>
+<td>Маркер мен және бор менжазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2897</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2898</td>
+<td>Электр энергиясы жеткізілген демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2899</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2900</td>
+<td>2 орынды зертханалық үстел</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2901</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2902</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертхана бөлмесіне арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2903</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2904</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2905</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2906</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2907</td>
+<td>Ашық шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2908</td>
+<td>Желдету жүйесі бар демонстрациялық сору шкафы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2909</td>
+<td>Желдету жүйесі бар химиялық реактивтерді сақтауға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2910</td>
+<td>Интерактивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2911</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2912</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2913</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2914</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Химия бойынша сандық зертхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2915</td>
+<td>Су сапасын өлшеу датчигі (pH)</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2916</td>
+<td>Газ қысымының датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2917</td>
+<td>Кернеу датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2918</td>
+<td>Өткізгіштік датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2919</td>
+<td>Температура датчигі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2920</td>
+<td>Сездіргі колориметр</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2921</td>
+<td>Арнайы бағдарламалық жасақтамасы бар деректертіркеушісі (сымсыз сездіргілер үшін қажет емес)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2922</td>
+<td>Сандық зертханадағы эксперименттері бар кітап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Химиялық реактивтер жиынтығы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2923</td>
+<td>оқыту бағдарламасына сәйкес тәжірибелер мен эксперименттерге арналған химиялық реактивтер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Аспаптар және тәжірибеге арналған керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2924</td>
+<td>Зертханалық құрамдас монша</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2925</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2926</td>
+<td>Дистиллятор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2927</td>
+<td>Колба қыздырғыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2928</td>
+<td>Ареометрлер жиынтығы (19 дана)</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2929</td>
+<td>Оқушылар мен мұғалімдерге арналған атом үлгілері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2930</td>
+<td>Химия бойынша демонстрациялық тәжірибелерге арналған ыдыстар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2931</td>
+<td>Химиядан зертханалық жұмыстарға арналған ыдыс-аяқ пен керек-жарақтардың жиынтығы</td>
+<td>жиынты</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2932</td>
+<td>Электр химиядан тәжірибелерге арналған жиынтық</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2933</td>
+<td>Газ жинауға арналған зертханалық аспап</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2934</td>
+<td>Химиялық зертханалық штатив</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2935</td>
+<td>Мұғалімге арналған әмбебап штатив</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Демонстрациялық үлгілер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2936</td>
+<td>Демонстрациялық кристалдық торлар үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2937</td>
+<td>Масштабты молекулалар үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2938</td>
+<td>Оқушылар мен мұғалімдерге арналған органика және бейорганика бойынша молекула үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>14</td>
+</tr>
+<tr>
+<td>2939</td>
+<td>π және σ байланыстарының түзілу үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2940</td>
+<td>р және d бұлттарының және шар өзекті молекулалар үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2941</td>
+<td>Электронды бұлттар мен химиялық қосылыстар үлгілерінің жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Табиғи коллекциялар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2942</td>
+<td>«Таскөмір және оны қайта өңдеу өнімдері» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2943</td>
+<td>«Металдар» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2944</td>
+<td>«Минералдар мен тау жыныстары» коллекциясы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2945</td>
+<td>«Мұнай және оны қайта өңдеуөнімдері» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2946</td>
+<td>«Отын өнеркәсібіне арналған шикі зат» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2947</td>
+<td>«Химия өнеркәсібіне арналған шикі зат» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2948</td>
+<td>«Отын» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2949</td>
+<td>«Шойын және болат» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2950</td>
+<td>«Қаттылық шәкілі» коллекциясы</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары, стендтер мен кестелер</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2951</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2952</td>
+<td>Химия кабинетіне арналған жақтаудағы портреті</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2953</td>
+<td>Химиктердің портреттері А-3 папкада, 20 дана</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2954</td>
+<td>Пластик негіздегі қабырғастендтерінің жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2955</td>
+<td>Химиядан электронды плакаттар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2956</td>
+<td>Химиядан виртуалды зертханалық жұмыстарды жүргізуге арналған бағдарламалық жасақтама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2957</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2958</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2959</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2960</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2961</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2962</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2963</td>
+<td>Мектеп боры дана</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<td>2964</td>
+<td>Ашық үлгідегі қорғаныс көзілдірігі</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2965</td>
+<td>Химиялық төзімді қорғаныс биялайлары</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2966</td>
+<td>Резеңкеленген алжапқыш</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2967</td>
+<td>Медициналық м/м халат</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2968</td>
+<td>Қауіпсіздік ережесіне арналған стенд</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Графика және жобалау кабинеті</th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2969</td>
+<td>Бес элементті маркерлі және борлы құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2970</td>
+<td>Компьтерге арналған жалғамасы бар оқытушының үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2971</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2972</td>
+<td>Сурет салуға және сызуға арналған 1 орынды үстел</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2973</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2974</td>
+<td>Науалары бар пластик арба</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2975</td>
+<td>Керек-жарақтарды сақтауға және жұмыстар көрмесіне арналған модульдік шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2976</td>
+<td>Бір немесе үш орынды сабақтарға арналған модульдік үстелдер жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2977</td>
+<td>Жұмыстар көрмесіне арналған қабырғалық төрткілдешті тор</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="2">Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2978</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2979</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>26</td>
+</tr>
+<tr>
+<td>2980</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2981</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2982</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер) ақ/қара</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2983</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер) түрлі-түсті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2984</td>
+<td>Интекартивті панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2985</td>
+<td>Ноутбуктерді зарядтауға арналған арба</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Құралдар мен керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>2986</td>
+<td>Сызу құралдары</td>
+<td>жиынты</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2987</td>
+<td>Роликтері бар 50 сантиметр пластикалық рейсшин</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2988</td>
+<td>Үлкен готовальня</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2989</td>
+<td>Оқушыларға арналған готовальня</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2990</td>
+<td>Сызу жұмыстарына арналған жәшік</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2991</td>
+<td>Тіреуі бар жарық диодты жарықтандыру панелі</td>
+<td>жиынты</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2992</td>
+<td>Көркем және кескіндеме қылқалам</td>
+<td>дана</td>
+<td>50</td>
+</tr>
+<tr>
+<td>2993</td>
+<td>Көрнекі құралдарды сақтауға арналған қақпағы бар қорап</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2994</td>
+<td>Оқушыларға арналған сызу құралдарының жиынтығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>2995</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызу құралдарының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2996</td>
+<td>Акварель қалтасы</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2997</td>
+<td>Гипстік геометриялық денелер жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2998</td>
+<td>Пластикалық геометриялық денелер жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2999</td>
+<td>Геометриялық фигуралар жиынтығы 5 данадан кем емес</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3000</td>
+<td>Гипс модельдерінің жиынтығы</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3001</td>
+<td>Керамикалық бұйымдар жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3002</td>
+<td>Пластмасса бұйымдар жиынтығы</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3003</td>
+<td>Қима бөлімдері бойынша макеттер, қималар</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3004</td>
+<td>Штанген циркульі</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>3005</td>
+<td>Демонстрациялық кестелер</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3006</td>
+<td>Әр тақырып бойынша сызу плакаттары</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3007</td>
+<td>Қалталардағы A3, A4 сызу парағы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3008</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3009</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3010</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3011</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3012</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3013</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>3014</td>
+<td>Блокнот</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th></th>
+<th>Ұсынылатын «Бейнелеу өнері» кабинеті</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3015</td>
+<td>Бір немесе үш орынды сабақтарға арналған модульді үстел жиындары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3016</td>
+<td>Бес элементті маркерлі және борлы құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3017</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3018</td>
+<td>Жұмыстар көрмесіне арналған қабырғалық төрткілдешті тор</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3019</td>
+<td>Экспозицияға арналған тіреу</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3020</td>
+<td>Сурет салуға және сызуға арналған 1 орынды үстел</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3021</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3022</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3023</td>
+<td>Экспозицияға арналған сөре</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3024</td>
+<td>Мобильді тұғырдағы флипчарт</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3025</td>
+<td>Керек-жарақтарды сақтауға және жұмыстар көрмесіне арналған модульдік шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3026</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3027</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3028</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер) ақ/қара</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3029</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер) түрлі түсті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3030</td>
+<td>Интерактивтік панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3031</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3032</td>
+<td>Жиналатын мольберт</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3033</td>
+<td>тақтай мен және қаптама мен жиынтықтағы Мольберт</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>3034</td>
+<td>Этюд жәшігі</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3035</td>
+<td>Натюр морттерге арналған жиналмалы үстел</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3036</td>
+<td>Тіреуі бар жарық диодты жарықтандыр панелі</td>
+<td>жиын</td>
+<td>4</td>
+</tr>
+<tr>
+<th></th>
+<th>Құрал- жабдықтар мен керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3037</td>
+<td>Көркем және кескіндемелік қылқалам</td>
+<td>дана</td>
+<td>50</td>
+</tr>
+<tr>
+<td>3038</td>
+<td>Қақпағы бар сақтауға арналған қорап</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>3039</td>
+<td>Оқушылар тобына арналған акварель, акрил, гуашь, май, пастель бояуларының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3040</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызба аспаптар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3041</td>
+<td>Акварель папкасы</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3042</td>
+<td>Аунақшалары бар 30 сантиметр пластик сырғыма сызғыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3043</td>
+<td>Тегістелген кенеп</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3044</td>
+<td>Сурет салуға арналған кергіштегі кенеп</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<th></th>
+<th>Демонстрациялық құралдар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3045</td>
+<td>Гербарий</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3046</td>
+<td>Күлтелер жиыны кемінде 3 түрлі</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3047</td>
+<td>Жемістер мен көкөністердің нақ пішіндері кемінде 20 дана</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3048</td>
+<td>Геометриялық пішіндердің жиынтығы кемінде 5 дана</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3049</td>
+<td>Гипс пішіндердің жиынтығы кемінде 15 дана</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Сәндік-көркем бұйымдар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3050</td>
+<td>Сәндік-қолданбалы өнер бұйымдарының жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3051</td>
+<td>Ұлттық бұйымдар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3052</td>
+<td>Қыш бұйымдар жиынтығы</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Баспа құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3053</td>
+<td>Демонстрациялық кестелер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3054</td>
+<td>Репродукциялар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3055</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3056</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3057</td>
+<td>Жең қаптар мен алжапқыштар</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<th></th>
+<th>Ұсынылатын «Қыш студиясы»</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3058</td>
+<td>Маркерлі қабырғалық тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3059</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3060</td>
+<td>От керек-жарақтарын сақтауға арналған сөре</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3061</td>
+<td>Дайын бұйымдарды кептіруге және сақтауға арналған сөре</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3062</td>
+<td>Оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3063</td>
+<td>Қыш шеңберіне арналған аласа үстел</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3064</td>
+<td>Сабаққа арналған үш немесе төрт орынды үстел</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3065</td>
+<td>Сабаққа арналған орындық</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3066</td>
+<td>Қыш шеңберде жұмыс істеуге арналған орындық</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3067</td>
+<td>Құралдарды сақтауға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3068</td>
+<td>Ноутбук</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3069</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<th></th>
+<th>Қыш жабдығы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3070</td>
+<td>Тігінен тиейтін күйдіруге арналған пеш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3071</td>
+<td>Үстелге арналған қыш шеңбері</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3072</td>
+<td>Турнетка</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3073</td>
+<td>От керек-жарақтары</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Құралдар мен қондырғылар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3074</td>
+<td>Зертас бүркуге арналған қол аэрографы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3075</td>
+<td>Қыш ағаш тарақ</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3076</td>
+<td>Тұтқасы бар тескіштер жиынтықта</td>
+<td>жиынты</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3077</td>
+<td>Резеңке шағын (калячница)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3078</td>
+<td>Жиынтықтағы қылқаламдар</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3079</td>
+<td>Зертастауға арналған қыш қысқаштар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3080</td>
+<td>Зертасқа арналған түзеткіш</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3081</td>
+<td>Тазарту және әрлеу жұмыстарына арналған құралдар жиынтығы</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3082</td>
+<td>Қышқа арналған пышақ</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3083</td>
+<td>Жиынтықта ұзын екі жақты ағаш саптары бар ілмектер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3084</td>
+<td>Қыш массаға арналған дискілі кескіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3085</td>
+<td>Зертасқа арналған елек</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3086</td>
+<td>Поролондыспонж</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3087</td>
+<td>Ағашстектер</td>
+<td>дана</td>
+<td>50</td>
+</tr>
+<tr>
+<td>3088</td>
+<td>Бұйымдарды кесуге арналған ішек</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3089</td>
+<td>Ағаш тегістегіштер</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<th></th>
+<th>Бояу және балшық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3090</td>
+<td>Түрлі түсті зертас</td>
+<td>килограмм</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3091</td>
+<td>Түрлі түсті ангоб</td>
+<td>килограмм</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3092</td>
+<td>Қыш масса немесе түрл ітүсті қышбалшық</td>
+<td>килограмм</td>
+<td>50</td>
+</tr>
+<tr>
+<th></th>
+<th>Шығармашылыққа арналған жиынтық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3093</td>
+<td>Мүсіндегіш ермексаз</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3094</td>
+<td>Ермек сазға арналған тақта А4</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3095</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3096</td>
+<td>Пластмасса шелек 3 литр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3097</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3098</td>
+<td>Балшықты сақтауға арналған пластик науа</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3099</td>
+<td>Қышжеңқаптар (жұп)</td>
+<td>пара</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3100</td>
+<td>Қыш алжапқыш</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3101</td>
+<td>Техникалық фен</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3102</td>
+<td>Кесте қауіпсіздік ережелері</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="4">Дене шынықтыру оқытушыларының кабинеті (2 оқытушыға есептегенде)</th>
+</tr>
+<tr>
+<th></th>
+<th>Кабинетке арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3103</td>
+<td>Маркерлі тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3104</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3105</td>
+<td>Бір тумбалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3106</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3107</td>
+<td>Ашық және жабық сөрелері бар оқу-көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3108</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3109</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3110</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3111</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3112</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Өзге жабдықтар:</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3113</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3114</td>
+<td>Дене дайындығы бойынша мультимедиялық құралдар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3115</td>
+<td>Өлшеуіш таспа 50 метр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3116</td>
+<td>Ойынға арналған ысқырық</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3117</td>
+<td>Секундомер</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3118</td>
+<td>Қарапайым пластик табло</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3119</td>
+<td>Электронды табло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3120</td>
+<td>Электромегафон</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Мүліктер мен жабдықтарды сақтауға арналған үй-жай</th>
+</tr>
+<tr>
+<td>3121</td>
+<td>Доптарға арналған тасымалданатын себет</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3122</td>
+<td>Допты үрлеуге арналған сорғы, жиынтықта 20 инесі бар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3123</td>
+<td>Доптарды сақтауға арналған сөре</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3124</td>
+<td>Спорттық мүкәммалды сақтауға арналған сөре</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="4">Спорт залы мен секцияларының жабдықтары</th>
+</tr>
+<tr>
+<td>3125</td>
+<td>Биік қоссырық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3126</td>
+<td>Едендік қоссырық</td>
+<td>дана</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3127</td>
+<td>Ерлерге арналған параллель қоссырықтар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3128</td>
+<td>Әйелдерге арналған әртүрлі биіктіктегі қоссырықтар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3129</td>
+<td>Өрмелеуге арналған арқан</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3130</td>
+<td>Тартуға арналған арқан</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3131</td>
+<td>Гимнастикалық мосы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3132</td>
+<td>Гимнастикалық сырғы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3133</td>
+<td>Гигиеналық жабыны бар гимнастикалық төсеніш</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3134</td>
+<td>Серіппелі гимнастикалық көпірше</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3135</td>
+<td>Гимнастикалық тік көпірше</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3136</td>
+<td>Металл шеңбер</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3137</td>
+<td>Гимнастикалық таяқша</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3138</td>
+<td>Әмбебап гимнастикалық аспа</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3139</td>
+<td>Секіргіш</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3140</td>
+<td>Гимнастикалық орындық</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3141</td>
+<td>Гимнастикалық қабырға</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3142</td>
+<td>Төралқалыққа арналған жалауша</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<th colspan="4">Шаңғы жарыстарымен коньки менжүгіру дайындығына арналған мүкәммал</th>
+</tr>
+<tr>
+<td>3143</td>
+<td>Әртүрлі өлшемдегі коньки</td>
+<td>пара</td>
+<td>45</td>
+</tr>
+<tr>
+<td>3144</td>
+<td>Шаңғыға арналған бекітпелер</td>
+<td>пара</td>
+<td>45</td>
+</tr>
+<tr>
+<td>3145</td>
+<td>Әртүрлі өлшемдегі пластик шаңғылар</td>
+<td>пара</td>
+<td>45</td>
+</tr>
+<tr>
+<td>3146</td>
+<td>Әртүрлі өлшемдегі шаңғы бәтіңкелер</td>
+<td>пара</td>
+<td>45</td>
+</tr>
+<tr>
+<td>3147</td>
+<td>Әртүрлі өлшемдегі шаңғы таяқшалары</td>
+<td>пара</td>
+<td>45</td>
+</tr>
+<tr>
+<th colspan="4">Жеңіл атлетикамен айналысуға арналған жабдықтармен мүкәммал</th>
+</tr>
+<tr>
+<td>3148</td>
+<td>Лақтыруға арналған граната 500 грамм</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3149</td>
+<td>Лақтыруға арналған граната 700 грамм</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3150</td>
+<td>Тақтайша биіктігін өлшегіш</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3151</td>
+<td>Биіктік кесекіруге арналған төсеніш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3152</td>
+<td>Лақтыруға арналған нысана</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3153</td>
+<td>Лақтыруға арналған доп</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>3154</td>
+<td>Биіктік кесекіруге арналған жолақ</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3155</td>
+<td>Биіктік кесекіруге арналған бағана</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3156</td>
+<td>Эстафеталық таяқша</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<th colspan="4">Спорт ойындарына жабдық және мүкәммал</th>
+</tr>
+<tr>
+<td>3157</td>
+<td>Минифутбол қақпасы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3158</td>
+<td>«Тоғызқұмалақ» үстелойыны</td>
+<td>жиын</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3159</td>
+<td>Ұлттық ойындарға арналған кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3160</td>
+<td>Баскетбол сақинасы</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>3161</td>
+<td>Ойын манишкасы</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>3162</td>
+<td>Медицинбол 1 килограмм</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3163</td>
+<td>Медицинбол 2 килограмма</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3164</td>
+<td>Баскетбол добы</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3165</td>
+<td>Волейбол добы</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3166</td>
+<td>Гандбол добы</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3167</td>
+<td>Футбол добы</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3168</td>
+<td>«Асық» ойынына арналған жиынтық</td>
+<td>жиынты</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3169</td>
+<td>«Бестас» ойынына арналған жиынтық</td>
+<td>жиынты</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3170</td>
+<td>Үстел теннисі ойынына арналған ракетка</td>
+<td>дана</td>
+<td>16</td>
+</tr>
+<tr>
+<td>3171</td>
+<td>Баскетбол торы</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3172</td>
+<td>Жиында антеннасы бар волейбол торы</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3173</td>
+<td>Үстел тениисіне арналған тор</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3174</td>
+<td>Мини-футбол қақпасына арналған тор</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3175</td>
+<td>Волейбол тіреуі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3176</td>
+<td>Жиында теннис үстел</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3177</td>
+<td>Волейбол торына арналған сымарқан</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3178</td>
+<td>Таңбалауыш фишка</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>3179</td>
+<td>Әйелдерге арналған баскетбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3180</td>
+<td>Ерлерге арналған баскетбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3181</td>
+<td>Әйелдерге арналған волейбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3182</td>
+<td>Ерлерге арналған баскетбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3183</td>
+<td>Әйелдерге арналған мини-футбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3184</td>
+<td>Ерлерге арналған мини-футбол формасы</td>
+<td>жиын</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3185</td>
+<td>Шахмат сағаты</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3186</td>
+<td>Үстел тениисін ойнауға арналған шарик</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>3187</td>
+<td>Шахматтар</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3188</td>
+<td>Дойбылар</td>
+<td>жиынты</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3189</td>
+<td>Баскетбол қалқаны</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3190</td>
+<td>Баскетбол оқу қалқаны</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<th colspan="4">Спорт алаңшасы</th>
+</tr>
+<tr>
+<td>3191</td>
+<td>Параллель металл қоссырықтар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3192</td>
+<td>Торы бар мини футболға арналған қақпа</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3193</td>
+<td>Торы бар футболқақпасы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3194</td>
+<td>Резеңке жеңіл атлетикалық жол</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3195</td>
+<td>Гимнастикалық металл аспа</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3196</td>
+<td>Кедергілерж олағы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3197</td>
+<td>Лақтыруға арналған сектор</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3198</td>
+<td>Ұзындыққа секіру секторы</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3199</td>
+<td>Қалқаны және торы бар баскетбол тағаны</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3200</td>
+<td>Торы бар волейбол тағаны</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3201</td>
+<td>Төрешілер мұнарасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3202</td>
+<td>50 көрерменге арналған трибуна</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="2">Ұсынылатын тез тұрғызылатын әмбебап спорттық ғимарат (спортзалы және бассейн)</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3203</td>
+<td>Жалпақ табандылықтың алдыналуға арналған жол</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3204</td>
+<td>Жүзу тақтасы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>3205</td>
+<td>Резеңкедоп</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>3206</td>
+<td>Поролон таяқша</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>3207</td>
+<td>Қалқымалы шеңбер</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>3208</td>
+<td>Түрлі-түсті қалтқы (жалауша)</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3209</td>
+<td>Құтқару шеңбері</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Бастапқы әскери және технологиялық даярлық кабинеті</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3210</td>
+<td>Маркер мен және бор мен жазылатын бес элементті құрама тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3211</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3212</td>
+<td>Демонстрациялық үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3213</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3214</td>
+<td>Екі орынды оқу шылар үстелі</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<td>3215</td>
+<td>Тәуліктік кезекшіні орны (тумбочка және тұғырық)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3216</td>
+<td>Оқушылар орындығы</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th></th>
+<th>Қару-жарақ сақтауға арналған бөлме</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3217</td>
+<td>Өрт сөндіргі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3218</td>
+<td>Газ тұтқыларды және әскери-техникалық мүлікті сақтауға арналған сөре</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3219</td>
+<td>10 бірлік қару-жарақты сақтауға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3220</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3221</td>
+<td>Үстелге арналған акустикалық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3222</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3223</td>
+<td>Интерактивтік панель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3224</td>
+<td>Желілік фильтр</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th>Стендтер мен плакаттар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3225</td>
+<td>АӘД кабинетіне арналған қабырға стендтері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3226</td>
+<td>Азаматтық қорғаныс, тіршілік қауіпсіздігі негіздері және ақпараттық технологиялар бойынша плакаттар жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3227</td>
+<td>Жол қозғалысы ережелері бойынша плакаттар жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3228</td>
+<td>Әскери робототехника негіздері бойынша плакаттар жинағы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3229</td>
+<td>Рота бойынша кезекші мен тәуліктік кезекшінің құжаттамасы бар тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Әскери-техникалық мүлік</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3230</td>
+<td>Химиялық барлаудың әскери аспабы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3231</td>
+<td>Жиындағыж еке дозиметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3232</td>
+<td>Жеке таңу пакеті</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>3233</td>
+<td>Химияға қарсы жеке пакет</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3234</td>
+<td>Әскери компас</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>3235</td>
+<td>Қорғаныс костюмі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3236</td>
+<td>Жая уәскер шағын күрекшесі</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>3237</td>
+<td>Ағаш автоматтың макеті</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>3238</td>
+<td>Калашников автоматының масса-ауқымды макет</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3239</td>
+<td>Санитарлы маталы зембілдер</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3240</td>
+<td>Жалпы әскери қорғаныс жиыны</td>
+<td>жиын</td>
+<td>7</td>
+</tr>
+<tr>
+<td>3241</td>
+<td>Үшкіл орамалды таңғыш</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3242</td>
+<td>Азаматтық газтұтқы</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>3243</td>
+<td>Сүзгілегіш газтұтқы</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3244</td>
+<td>Тұмылдырық</td>
+<td>дана</td>
+<td>13</td>
+</tr>
+<tr>
+<td>3245</td>
+<td>Санитарлық сөмке</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3246</td>
+<td>Жүрек-өкпе және ми реанимациясының тренажері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3247</td>
+<td>Жиындағы сигналдық жалаушалар 2 дана</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3248</td>
+<td>Медициналық м/м халат</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3249</td>
+<td>Тасымалдағыш серпімді таңғышқалақ</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<th></th>
+<th>Оқу құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3250</td>
+<td>Қазақстан Республикасы Қарулы Күштерінің жалпы әскери жарғыларының жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3251</td>
+<td>Бастапқы әскери даярлық бойынша электрондық оқу басылымдары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Қосымша жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3252</td>
+<td>Керек-жарақтары бар дәріқобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3253</td>
+<td>Қоқыс себеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3254</td>
+<td>Ксероксқа арналған қағаз</td>
+<td>қорап</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3255</td>
+<td>Маркер тақтасына арналған губка</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3256</td>
+<td>Маркер тақтасына арналған магниттер</td>
+<td>жиынты</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3257</td>
+<td>Тақтаға арналған маркер</td>
+<td>дана</td>
+<td>8</td>
+</tr>
+<tr>
+<td>3258</td>
+<td>Мектеп боры</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<th colspan="4">Жалпы орта мектеп оқушыларының жеке пайдалануына арналған жабдық</th>
+</tr>
+<tr>
+<td>3259</td>
+<td>Оқулықтарды, аяқ киімді,спорттық керек-жарақтарды және сыртқы киімді сақтауға арналған жеке шкаф</td>
+<td>дана</td>
+<td>25</td>
+</tr>
+<tr>
+<th colspan="4">Мүмкіндігі шектеулі балалардың білім алуына арнайы жағдай жасау үшін ұсынылатын жабдықтар мен жиһаз</th>
+</tr>
+<tr>
+<td>3260</td>
+<td>Көзі көрмейтін және нашаркөретін балаларға, тірек-қимыл аппараты бұзылған балаларға ғимарат, үй-жай немесе кабинет ішінде кіруді/шығуды және қозғалуды қамтамасыз ететін айла бұйымдар (қабаттарға орын ауыстыруды ескере отырып)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3261</td>
+<td>Естімейтін және нашар еститін балаларға, сондай-ақ кохлеарлық импланттары бар балаларға арналған дыбыс күшейткіш айла бұйымдар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3262</td>
+<td>Тірек-қимыл аппараты мен көру қабілеті бұзылған балаларға арналған оқу орнын ұйымдастыруға арналған құрылғылар мен жиһаз</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td>Қауіпсіздікті қамтамасыз ету үшін ұсынылған құрал- жабдықтар</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3263</td>
+<td>Кіруді бақылау және басқару жүйесі мен, күзет сигнализациясын хабардар ету құралдары мен жабдық жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3264</td>
+<td>Бейнекамералары бар бейнебақылау жүйесі жабдықтарының жиынтығы (мектеп ғимаратының алаңына байланысты)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3265</td>
+<td>Дауыстық хабарлауы бар өрт дабылы жүйесін орнату</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+</table>
+
+## Аз қамтылған мектептерді жабдықтар мен және жиһазбен жабдықтау нормалары
+
 <table>
 <tr>
 <td>№</td>
@@ -6721,19328 +22284,6831 @@ source: https://zan.gov.kz/client/#!/doc/99865/kaz/29.12.2017
 <td>Саны</td>
 </tr>
 <tr>
-<td colspan="4">Қазақ тілі мен әдебиет кабинетіне арналған жабдықтар және жиһаздар (оқыту қазақ тілінде)</td>
+<td colspan="4">Білім беру ұйымы басшысының кабинеті</td>
 </tr>
 <tr>
+<td>3266</td>
+<td>Басшы үстелі жиында</td>
+<td>жиын</td>
 <td>1</td>
-<td>Аудиториялық қабырғаға ілінетін тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Мұғалімге арналған үстел компьютерге арналған приставкасымен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Мұғалімге арналған орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Оқушыға арналған үстел</td>
-<td>дана</td>
-<td>8</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Оқушы үстелі</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Жүйелі блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Микрофон-телефон гарнитурас</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Тораптық сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Көпфункционалдық құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Интербелсенді тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Проекторға арнаған төбеге бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Электронды басылым</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>18</td>
-<td>DVD –ға арналған бейнефильмдер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Электронды плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Үлестірме материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Суреттердің репродукциялары</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Жазушылар мен ақындардың лортреттері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Лексика, морфология, синтаксис, фонетика бойынша плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Сөздіктер</td>
-<td>дан</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td>Қабырға плакаттары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Шет тілі кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>32</td>
-<td>Аудиториялық қабырғаға ілінетін тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>33</td>
-<td>Мұғалімге арналған үстел компьютерге арналған приставкасымен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>34</td>
-<td>Мұғалімге арналған орындық</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>35</td>
-<td>Оқушыға арналған үстел</td>
-<td>дана</td>
-<td>8</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Оқушы үстелі</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>38</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>39</td>
-<td>Монито</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>40</td>
-<td>Микрофон-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>41</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>42</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>43</td>
-<td>Тораптық сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>44</td>
-<td>Көпфункционалдық құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>45</td>
-<td>Интербелсенді тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>46</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>47</td>
-<td>Проекторға арнаған төбеге бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>48</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>49</td>
-<td>Электронды басылым жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>50</td>
-<td>DVD-ға арналған бейнефильмы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>51</td>
-<td>CD дискіге арналған аудиожазу</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>52</td>
-<td>Электронды плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>53</td>
-<td>Транскрипцияланған әліпби</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>54</td>
-<td>Меңгерілетін тіл бойынша альбомдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>55</td>
-<td>Меңгерілетін тіл бойынша карталар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>56</td>
-<td>Дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>57</td>
-<td>Үлестірме материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Меңгерілетін тіл бойынша мемлекеттің ұлы адамдарының портреттері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>59</td>
-<td>Оқытылатын шет тілінің грамматикасы бойынша жиынтық</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>60</td>
-<td>20000 сөзге арналған екі тілді сөздік</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>61</td>
-<td>Оқытылатын тілге түсіндірме сөздік</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>62</td>
-<td>Әдебиеттік оқуға арналған жиынтық</td>
-<td>жиынтық</td>
-<td>15</td>
-</tr>
-<tr>
-<td>63</td>
-<td>Анықтамалық, әдістемелік әдебиеттер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>64</td>
-<td>Қабырғаға ілінетін плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Орыс тілі және әдебиеті кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Электронды басылым</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>66</td>
-<td>DVD –ға арналған бейнефильмдер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>67</td>
-<td>Электронды плакаттар</td>
-<td>жиынтық</td>
-<td></td>
-</tr>
-<tr>
-<td>68</td>
-<td>Дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>69</td>
-<td>Үлестірме материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>70</td>
-<td>Картиналардың көшірме жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>71</td>
-<td>Ақындар мен жазушылардың портреттер жиынтығы</td>
-<td>жиынтық</td>
-<td></td>
-</tr>
-<tr>
-<td>72</td>
-<td>Синтаксис, фонетика, орфоэпия, грамматика, сөзжасам, сауатты жазу плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>73</td>
-<td>Орфографиялық сөздік</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>74</td>
-<td>Антонимдер және синонимдер сөздігі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>75</td>
-<td>Мектеп фразеологиялық сөздігі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>76</td>
-<td>Мектеп түсіндірме сөздігі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>77</td>
-<td>Жыр жинақтарының жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>78</td>
-<td>Көркем әдебиеттер иынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>79</td>
-<td>Анықтамалық және әдістемелік әдебиеттер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>80</td>
-<td>Қабырғаға ілінетін плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Математика кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>81</td>
-<td>Аудиториялық қабырға тақтасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>82</td>
-<td>Компьютерге арналған жанама құрылғысы бар үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>83</td>
-<td>Орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>84</td>
-<td>Екі орынды оқушы үстелі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>85</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>86</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Жүйеліс блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>88</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>89</td>
-<td>Микрофонды телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>90</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>91</td>
-<td>Web-камеа</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>92</td>
-<td>Жүйелілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>93</td>
-<td>Көпфункцияналды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>94</td>
-<td>Интерактивті тақта немесе экран</td>
-<td>дан</td>
-<td>1</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>96</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>97</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>98</td>
-<td>Салу құралдарының жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>99</td>
-<td>Штангенциркульдің пластикалық моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>100</td>
-<td>Ықтималдықты игеруге арналған жинақ</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>101</td>
-<td>Көпжақтар мен олардың арының жинағы</td>
-<td>жиынтық</td>
-<td>13</td>
-</tr>
-<tr>
-<td>102</td>
-<td>Стерженьді геометриялық фигуралардың жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>103</td>
-<td>Стерженьді шардың моделі</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>104</td>
-<td>Үлестірмелі геометриялық фигуралар жинағы</td>
-<td>жиынтық</td>
-<td>13</td>
-</tr>
-<tr>
-<td>105</td>
-<td>Көлемді геометриялық фигуралар жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>106</td>
-<td>Ішкі бөлігі көрінетін геометриялық фигуралар жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>107</td>
-<td>Дөңгелектің және оның бөліктерінің магнитті жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>108</td>
-<td>Магнитті жазық геометриялық фигуралар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>109</td>
-<td>Дидактикалық материалдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>110</td>
-<td>Үлестірмелі материалдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>111</td>
-<td>Ұлы математиктердің портреттерінің жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>112</td>
-<td>Математика кабинетіне арналған плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>113</td>
-<td>Анықтамалық, әдістемелік әдебиеттер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>114</td>
-<td>Электронды басылымдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>115</td>
-<td>Видеофильмдер (DVD) жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>116</td>
-<td>Электронды плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>117</td>
-<td>Мультимедиялық құралдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>118</td>
-<td>Қабырға плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Физика кабинетінің оқу құралдары мен техникалық оқыту құралдары, жиһаздар, жабдықтар тізімі</td>
-</tr>
-<tr>
-<td>119</td>
-<td>Аудиториялық қабырға тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>120</td>
-<td>Компьютерге арналған притсавкасы бар оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>121</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>122</td>
-<td>Демонстрациялық үстел</td>
-<td>дан</td>
-<td>1</td>
-</tr>
-<tr>
-<td>123</td>
-<td>Зертханалық оқушы үстелі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>124</td>
-<td>Мұғалім орынднғы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>126</td>
-<td>Зертханаға арналған жиһаз</td>
-<td>дана</td>
-<td></td>
 </tr>
 <tr>
-<td>127</td>
-<td>Бір тумбалы үстел</td>
+<td>3267</td>
+<td>Басшы креслосы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>128</td>
+<td>3268</td>
 <td>Жартылай жұмсақ орындық</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>129</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>130</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>131</td>
-<td>Киімге арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>132</td>
-<td>Жабдықтардысақтауға арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>133</td>
-<td>Жүйелі блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>134</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>135</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>136</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>138</td>
-<td>Жүйелі фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>139</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>140</td>
-<td>Интерактивті тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>141</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>142</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>143</td>
-<td>Құжат-камера</td>
-<td>дан</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Физикадан тәжірибелер жүргізуге арналған сандық интерактивтік зертхана</td>
-</tr>
-<tr>
-<td>144</td>
-<td>Интерфей</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>145</td>
-<td>Деректерді жазу, көрсету және талдау үшін оқу бағдарламалық қамсыздандыруы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>146</td>
-<td>Гальванометрлік датчик</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>147</td>
-<td>Электрлік схемаларды құру үшін жинақ</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>148</td>
-<td>Айнымалы кернеу датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>149</td>
-<td>Екі диапазонды күш датчигі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>150</td>
-<td>Сандық тұрақты қуат көзі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>151</td>
-<td>Жарықтандыру датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>152</td>
-<td>Акмелерометрлік датчик</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>153</td>
-<td>Магнит өрісін өлшеу датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>154</td>
-<td>Қозғалыс датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>155</td>
-<td>Айналым датчигі</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>156</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>157</td>
-<td>Динамикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>158</td>
-<td>Әдістемелік нұсқаулар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>159</td>
-<td>Датчиктерді орау үшін төсеулер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>160</td>
-<td>Экрандық-дыбыстық құрал</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>161</td>
-<td>Электрондық плакаттар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>162</td>
-<td>Экрандық-дыбыстық құрал</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>163</td>
-<td>7-9 сыныптарға арналған физика бойынша сынақтар үшін оқу-бағдарламалық кешен</td>
-<td>жиынтық</td>
-<td></td>
-</tr>
-<tr>
-<td>164</td>
-<td>Физикалық эксперименттерді 3D модельдеу үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>165</td>
-<td>Физика кабинеті үшін зертханалық ыдыс және жабдық жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Демонстрациялық тәжірибелері үшін жабдықтар</td>
-</tr>
-<tr>
-<td>166</td>
-<td>Демонстрациялық амперметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>167</td>
-<td>Барометр-анероид</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>168</td>
-<td>Демонстрациялық ваттметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>169</td>
-<td>Электрондық таразы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>170</td>
-<td>Демонстрациялық вольтметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>171</td>
-<td>Демонстрациялық бір полюсті сөндіргіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>172</td>
-<td>Гигрометр 0-25 С</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>173</td>
-<td>Гигрометр 15-40 С</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>174</td>
-<td>Демонстрациялық динамометрі 10 Н</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>175</td>
-<td>Бұдыр және бүгілген айна (топтама)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>176</td>
-<td>Резонансты жәшік камертоны (жұп)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>177</td>
-<td>Демонстрациялық блогы топтамасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>178</td>
-<td>Демонстрациялық кедергілер дүкені</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>179</td>
-<td>Демонстрациялық U-пішінді магнит</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>180</td>
-<td>Демонстрациялық тілме магнит</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>181</td>
-<td>Демонстрациялық сұйықтық манометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>182</td>
-<td>Вимшурстың генераторы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>183</td>
-<td>Іштен жанатын қозғалтқыш моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>184</td>
-<td>Магниттің молекулалық құрылымының моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>185</td>
-<td>Электр қуатын есептеуіштің моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>186</td>
-<td>Электрлік схемаларды құру үшін жинақ</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>187</td>
-<td>Таяуышы бар 5 шар маятниктерінің жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>188</td>
-<td>Сызбалардың құралдар жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>189</td>
-<td>Тар үтіктер жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>190</td>
-<td>Жаттығу сабағына арналған конденсаттар жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>191</td>
-<td>Жартылай өткізгіштер жиынтығы (диодтар)</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>192</td>
-<td>Жартылай өткізгіштер жиынтығы (транзисторлар және тиристорлар)</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>193</td>
-<td>Сымды резисторлар жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>194</td>
-<td>«Алғашқы электроника және электротехника» зертханалық панелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>195</td>
-<td>Магнитті өрісте рамканың айналуын демонстрациялау үшін қолданылатын аспап</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>196</td>
-<td>Ұзындылығына, кесімділігіне және материалына байланысты өткізгіштің кедергісінің тәуелділігін демонстрациялау үшін арналған құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>197</td>
-<td>Денелердің сызықты үлкейтілуін демонстрациялау үшін арналған құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>198</td>
-<td>Жылжымалы реостат</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>199</td>
-<td>Кольбе торы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>200</td>
-<td>Қатынасты ыдыстар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>201</td>
-<td>Көтерілмелі-қозғалмалы үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>202</td>
-<td>Штативтердегі магнитті бағыттауыштар (жұбы)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>203</td>
-<td>Телескоп</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>204</td>
-<td>Теллури</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>205</td>
-<td>Демонстрациялау термометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>206</td>
-<td>Сұйықтық термометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>207</td>
-<td>Спирттік термометр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>208</td>
-<td>Демонстрациялау трибометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>209</td>
-<td>Ньютонның трубкасы</td>
-<td>дана</td>
-<td>11</td>
-</tr>
-<tr>
-<td>210</td>
-<td>Сүргісі бар қорғасын цилиндрлері</td>
-<td>дана</td>
-<td>11</td>
-</tr>
-<tr>
-<td>211</td>
-<td>Паскаль шары</td>
-<td>дана</td>
-<td>11</td>
-</tr>
-<tr>
-<td>212</td>
-<td>Сақаналы шар</td>
-<td>дана</td>
-<td>11</td>
-</tr>
-<tr>
-<td colspan="4">Зертханалық тәжірибеге арналған заттар мен құрал-жабдықтар</td>
-</tr>
-<tr>
-<td>213</td>
-<td>Зертханалық Амперметр</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>214</td>
-<td>Зертханалық Вольтметр</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Бірплюсті зертханалық өшіргіш</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>216</td>
-<td>Зертханалық динамометр 2,5Н</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>217</td>
-<td>Зертханалық динамометр 5Н</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>218</td>
-<td>Зертханалық алғаш орамды орама</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>219</td>
-<td>Мектептік тұсбағдар</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>220</td>
-<td>Зертханалық блок жиынтығы</td>
-<td>жиынтық</td>
-<td>13</td>
-</tr>
-<tr>
-<td>221</td>
-<td>Жалғама сымдарының жиынтығы</td>
-<td>жиынтық</td>
-<td>13</td>
-</tr>
-<tr>
-<td>222</td>
-<td>Зертханалық ұстағыш шам</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>223</td>
-<td>Тұрғыдағы линза.</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>224</td>
-<td>Зертханалық U-пішінді магнит</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>225</td>
-<td>Зертханалық кесінділеп тілінген магнит</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>226</td>
-<td>Электр қозғағыштың моделі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>227</td>
-<td>Механика бойынша жүк жиынтығы</td>
-<td>жинақ</td>
-<td>3</td>
-</tr>
-<tr>
-<td>228</td>
-<td>Калориметриялық денелердін топтамасы немесе жиынтығы</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td>229</td>
-<td>Бірдей көлемдегі денелер жиынтығы</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td>230</td>
-<td>Бірдей салмақтағы денелердің өлшемі</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td>231</td>
-<td>Лабораториялық штативтегі магнит тілдері</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Лабораториялық трибометр</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>233</td>
-<td>Лабораториялық аралас штатив</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>234</td>
-<td>Элементтерді қуаттандыруға арналған батаря бөлімшесі</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>235</td>
-<td>Микроамперметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>236</td>
-<td>Миллиамперметр (ауыспалы ток)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>237</td>
-<td>Жалғастырғыш тетік</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>238</td>
-<td>Қуаттандыру элементі.</td>
-<td>дана</td>
-<td>100</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Көрсетілім жиынтығы «Жылу құбылысы»</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>240</td>
-<td>Дәрі – дәрмек қорабы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Физиктер суреттері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>242</td>
-<td>«Электромагнит толқындарының шкаласы» кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>243</td>
-<td>«Халықаралық бірліктер жүйесі» кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>244</td>
-<td>«Физика кабинетіндегі техникалық қауіпсіздік ережелері» кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>245</td>
-<td>«Жас физик» стенді</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Ұсынылатын құрал-жабдықтар</td>
-</tr>
-<tr>
-<td>246</td>
-<td>Шкафтарға арналған тіреуіштер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>247</td>
-<td>FM және АМ радиосын жасауға арналған жиынтық</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td>248</td>
-<td>Демонстрациалық қосымша «Оптика» жиынтығы</td>
-<td>жинақ</td>
-<td></td>
-</tr>
-<tr>
-<td>249</td>
-<td>«Оптика» көрсетілім жиынтығы.</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>250</td>
-<td>«Электр және магниттілік» демонстрациялық жынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>251</td>
-<td>«Механика» демонстрациялық жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>252</td>
-<td>«Жаңартылған энергия» ғылыми зерттеуін жүргізуге арналған оқыту жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>253</td>
-<td>Қабырғаға ілінетін маркері бар тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>254</td>
-<td>Компьютерге арналған притсавкасы бар оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>255</td>
-<td>Оқытушы креслосы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>256</td>
-<td>Комппьютерге арналған оқушы үстелі</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>257</td>
-<td>Екі орындық оқушы үстелі</td>
-<td>дана</td>
-<td>7</td>
-</tr>
-<tr>
-<td>258</td>
-<td>Оқушы үстелі</td>
-<td>дана</td>
-<td>28</td>
-</tr>
-<tr>
-<td>259</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>260</td>
-<td>Мұғалімнің желілік блогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>261</td>
-<td>Оқушының желілік блогы</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>262</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>261</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>264</td>
-<td>Қабырғаға ілінетін акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>265</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>266</td>
-<td>Көпфункционалды жабдық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>267</td>
-<td>Желілік комутатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>268</td>
-<td>Желілік фильтр</td>
-<td>дана</td>
-<td>16</td>
-</tr>
-<tr>
-<td colspan="4">Интерактивтік және проекциялық құрал-жабдықтар</td>
-</tr>
-<tr>
-<td>269</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>270</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>271</td>
-<td>Интерактивтік тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>272</td>
-<td>Интерактивтік тақта</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>273</td>
-<td>Информатика бойынша оқу бағдармаларын жүзеге асыруға арналған бағдармалыққұралдар жиынтығы</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>274</td>
-<td>Информатита бойынша басылым жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>275</td>
-<td>Оқыту курстардың жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>276</td>
-<td>Анықтамалық және әдістемелік әдебиет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>277</td>
-<td>Информатика бойынша оқытатын плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>278</td>
-<td>Ауыспалы материалы бар стенд</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>279</td>
-<td>Дәрі-дәрмек қобдишасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>280</td>
-<td>Электрмен жабдықтаудың қалқаны</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Тарих және құқық негіздері кабинетінің жабдықтар және жиһаздары</td>
-</tr>
-<tr>
-<td>281</td>
-<td>Аудиториялық қабырға тақтасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>282</td>
-<td>Компьютерге арналған приставкасымен үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>283</td>
-<td>Мұғалім орындығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>284</td>
-<td>Екі адамдық оқушы үстелі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>285</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>286</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>287</td>
-<td>Жүйелі блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>288</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>289</td>
-<td>Микрофонды-телефондық гарнитура</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>290</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>291</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>292</td>
-<td>Жүйелік сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>293</td>
-<td>Көп функциялы құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>294</td>
-<td>Интерактивті тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>295</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>296</td>
-<td>Проекторге арналған төбе бекіткіші</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>297</td>
-<td>Камера-құжат</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>298</td>
-<td>Электронды оқу басылымдарының жинағы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>299</td>
-<td>DVD-де бейнефильмдер жинағы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>300</td>
-<td>Тарих курсы бойынша электрондық кітапхана</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>301</td>
-<td>Қазақстан тарихы бойынша карталар жинағы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>302</td>
-<td>Дүниежүзі тарихы бойынша карталар жинағы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>303</td>
-<td>Үлестірмелі материалдар жинағы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>304</td>
-<td>Тарихшылар, ұлы тұлғалар портреттері</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>305</td>
-<td>Көрнекі материалдар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>306</td>
-<td>Анықтамалық және әдістемелік әдебиеттер</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>307</td>
-<td>Қабырға плакаттары</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">География кабинеті мен зертхана бөлмесіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>308</td>
-<td>Аудиториялық қабырға тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>309</td>
-<td>Компьютерге арналған притсавкасы бар оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>310</td>
-<td>Мұғалім орындығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>311</td>
-<td>Екі орындық оқушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>312</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>313</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>314</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>315</td>
-<td>Желілік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>316</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>317</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>318</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>319</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>320</td>
-<td>Желілік фиьтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>321</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>322</td>
-<td>Интерактивтік тақта және экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>323</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>324</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>325</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>326</td>
-<td>«География 6-9 сынып» электрондық оқулық</td>
-<td>жиынтық</td>
-<td>4</td>
-</tr>
-<tr>
-<td>327</td>
-<td>DVD видеофильмдер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Табиғи обьект</td>
-</tr>
-<tr>
-<td>328</td>
-<td>«Пайдалы қазбалар» коллекциясы</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>329</td>
-<td>«Тау жыныстары мен минералдар» коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Модельдер және карталар</td>
-</tr>
-<tr>
-<td>330</td>
-<td>Жер глобусы – физикалық 320 миллиметрлік</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>331</td>
-<td>Жер құрылысының моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>332</td>
-<td>Теллурий (Күн-Жер-Ай моделі)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>333</td>
-<td>Дүние жүзінің физикалық картасы 1:25 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>334</td>
-<td>Дүние жүзінің саяси картасы 1:25 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>335</td>
-<td>Дүние жүзінің халқы 1:15 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>336</td>
-<td>Мұхиттар картасы 1:25 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>337</td>
-<td>Еуразия (физикалық карта 1:12 500 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>338</td>
-<td>Еуропа (саяси карта 1:12 000 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>339</td>
-<td>Азия (физикалық карта 1:18 000 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>340</td>
-<td>Азия (саяси карта 1:18 000 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>341</td>
-<td>Африка (физикалық карта 1:8 600 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>342</td>
-<td>Африка (саяси карта 1:8 700 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>343</td>
-<td>Аустралия және Мұхиттық аралдар. Физикалық карта. Саяси карта 1:10 000 00</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>344</td>
-<td>Солтүстік Америка. Физикалық карта. Саяси карта 1:8 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>345</td>
-<td>АҚШ. Жалпы географиялық карта 1:6 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Қазақстан Республикасының картасы</td>
-</tr>
-<tr>
-<td>346</td>
-<td>Саяси-әкімшілік карта 1:1 500 000 и 1:20000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>347</td>
-<td>Физикалық карта 1:1 500 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>348</td>
-<td>Физикалық карта 1:2 500 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>349</td>
-<td>Электрондық қашықтық өлшеуіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>350</td>
-<td>Оқушы компасы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>351</td>
-<td>Курвиметр</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>352</td>
-<td>Көздеу сызғышы</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>353</td>
-<td>«Ауа райын бақылау» ауыспалы зертхана</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>354</td>
-<td>Рулетка</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>355</td>
-<td>Мектеп метеостанциясы – қабылдағыш блок (ұсынылады)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>356</td>
-<td>Медициналық дәрі-дәрмек қобдишасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>357</td>
-<td>«Физикалық география. Литосфера» кестесі 0,7 х 1 метр</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>358</td>
-<td>«Физикалық география. Атмосфера» кестесі0,7 х 1 метр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>359</td>
-<td>«Физикалық география. Гидросфера» кестесі 0,7 х 1 метр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>360</td>
-<td>«Физикалық география. Биосфера» кестесі 0,7 х 1 метр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>361</td>
-<td>Ғалым-географтар портреттері</td>
-<td>дана</td>
-<td>8</td>
-</tr>
-<tr>
-<td>362</td>
-<td>«Жас географ» ауыспалы экспозициялары бар стендтер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>363</td>
-<td>Бір тумболы мұғалім үстел</td>
-<td>дна</td>
-<td>1</td>
-</tr>
-<tr>
-<td>364</td>
-<td>Мұғалім орындығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>365</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>366</td>
-<td>Жабдық пен керек-жарақтарды сақтауға арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>367</td>
-<td>Географиялық алаңға арналған мектеп метеостанциясы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>368</td>
-<td>Құрал-жабдықтар және аспаптар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Биология кабинеті мен лаборатория жабдықтары және жиһаз</td>
-</tr>
-<tr>
-<td>369</td>
-<td>Аудиториялық қабырға тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>370</td>
-<td>Компьютерге арналған притсавкасы бар оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>371</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>372</td>
-<td>Демонстрациялық үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>373</td>
-<td>Зертханалық оқушы үстелі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>374</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>375</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>376</td>
-<td>Бір тумбалы үстел</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>377</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>378</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>379</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>380</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>381</td>
-<td>Жабдық сақтауға арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>382</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>383</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>384</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>385</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>386</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>387</td>
-<td>Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>388</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>389</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>390</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>391</td>
-<td>Интерактивтік тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>392</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>393</td>
-<td>Электрондық плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>394</td>
-<td>Электрондық оқулықтар</td>
-<td>жиынтық</td>
-<td>4</td>
-</tr>
-<tr>
-<td>395</td>
-<td>Биология боынша сынақтар үшін оқу-бағдарламалық кешен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Гербарии</td>
-</tr>
-<tr>
-<td>396</td>
-<td>«Ағаштар мен бұталар»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>397</td>
-<td>«Жабайы өсімдіктер»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>398</td>
-<td>«Жемшөп өсімдіктер»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>399</td>
-<td>Мәдени өсімдіктер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>400</td>
-<td>«Дәрілік өсімдіктер»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>401</td>
-<td>«Өсімдіктер морфологиясы»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>402</td>
-<td>«Ауылшаруашылық өсімдіктері</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>403</td>
-<td>«Арам шөп»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>404</td>
-<td>«Улы өсімдіктер»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>405</td>
-<td>«Көбелектер»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>406</td>
-<td>Қоңыз</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>407</td>
-<td>«Миниралды тыңайтқыштар»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>408</td>
-<td>«Топырақ және оның құрамы»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>409</td>
-<td>«Жәндіктерді толық емес метаморфоз арқылы дамыту»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>410</td>
-<td>«Жәндіктерді толық метаморфоз арқылы дамыту»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>411</td>
-<td>Ұлулар қабыршағ</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>412</td>
-<td>Тұқымдар мен жемістер үлестірмелі материалдармен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>413</td>
-<td>«Ағаш тұқымдары мен бұталарының бүршіктері, жемістері»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Микропрепараттар</td>
-</tr>
-<tr>
-<td>414</td>
-<td>Анатмиялық микропрепараттар жинағы</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td>415</td>
-<td>Ботаникалық микропрепараттар жинағы</td>
-<td>жинқ</td>
-<td>13</td>
-</tr>
-<tr>
-<td>416</td>
-<td>Микропрепараттар зоология жинағы</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td>417</td>
-<td>Жалпы биология бойынша микропрепараттар</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="4">Анатомия бойынша көлемді қалыптар жинағы</td>
-</tr>
-<tr>
-<td>418</td>
-<td>Өт қабы, тамырлармен бауыр үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>419</td>
-<td>Көз үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>420</td>
-<td>Қимадағы көмей үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>421</td>
-<td>Асқазан үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>422</td>
-<td>Тіс (3 дана) үлгілері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>423</td>
-<td>Адам терісі үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>424</td>
-<td>Альвеоласы бар өкпе үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>425</td>
-<td>Күре тамырлармен адам миы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>426</td>
-<td>Мұрын қуысы үлгісі</td>
-<td>дан</td>
-<td>1</td>
-</tr>
-<tr>
-<td>427</td>
-<td>Бойлық қимадағы омыртқа үлгісі</td>
-<td>дна</td>
-<td>1</td>
-</tr>
-<tr>
-<td>428</td>
-<td>Қимадағы бүйрек үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>429</td>
-<td>Жүрек (демонстрациялық) үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>430</td>
-<td>5 омыртқамен жамбас үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>431</td>
-<td>Құлақ үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>432</td>
-<td>Тіс күтімі үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>433</td>
-<td>Адамның бас сүйегінің үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Зоология модельдерінің көлемі</td>
-</tr>
-<tr>
-<td>434</td>
-<td>Тіссіз үлгі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>435</td>
-<td>Гидра ішекқуыстар үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>436</td>
-<td>Жер құрты үлгіс</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>437</td>
-<td>Инфузория-туфелька үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Биология бойынша көлемді үлгілер</td>
-</tr>
-<tr>
-<td>438</td>
-<td>Тамырдың қимасы бойлық үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>439</td>
-<td>Қос жарнақты шөпті өсімдік сабағы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>440</td>
-<td>Өсімдік жасушасының құрылымы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>441</td>
-<td>Жапырақ құрылымы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>442</td>
-<td>Жеуге жарамды және улы саңырауқұлақтар нақпішіні жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>443</td>
-<td>Жемістер мен көкөністердің нақпішіндері топтамасы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Гүлдердің үлгілері</td>
-</tr>
-<tr>
-<td>444</td>
-<td>Гүлкекіре</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>445</td>
-<td>Бұршақ</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>446</td>
-<td>Орамжапырақ</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>447</td>
-<td>Картоп</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>448</td>
-<td>Бидай</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>449</td>
-<td>Қызғалдақ</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Остеологиялық үлгі</td>
-</tr>
-<tr>
-<td>450</td>
-<td>Көгершін қаңқасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>451</td>
-<td>Сүйегі көп балық қаңқасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>452</td>
-<td>Қоян қаңқасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>453</td>
-<td>Құрбақа қаңқасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>454</td>
-<td>Адам қаңқасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Оптикалық аспаптар</td>
-</tr>
-<tr>
-<td>455</td>
-<td>Қол лупасы</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>456</td>
-<td>Оқытушы микроскобы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>457</td>
-<td>Оқушы микроскобы</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="4">Биология кабинеті үшін реактивтер жиынтығы</td>
-</tr>
-<tr>
-<td>458</td>
-<td>Биология кабинеті үшін реактивтер жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>459</td>
-<td>Биология кабинетіне арналған зертханалық ыдыс және бұйымдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>460</td>
-<td>Ыдыстар мен бұйымдарға арналған шкафтарға тіреуіш кешені</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>461</td>
-<td>Құрамдастырылған монша</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>462</td>
-<td>200гр дейін электрондық таразы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>463</td>
-<td>Өсімдіктер мен жануарларда тыныс алу газ алмасуын байқау үшін аспап</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>464</td>
-<td>Құрамдастырылған лабораториялық штатив</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>465</td>
-<td>Биологиялық зертхана тағаны</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>466</td>
-<td>Биологтардың портреттері</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>467</td>
-<td>Ауыспалы материалы бар стенд</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Ұсынылатын жабдықтар</td>
-</tr>
-<tr>
-<td>468</td>
-<td>Интерфейс</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>469</td>
-<td>Деректерді жазуға, көрсетуге және талдауға арналған оқу бағдарламалық қамсыздандыру</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>470</td>
-<td>О2 газы датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>471</td>
-<td>СО2 газы датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>472</td>
-<td>Газ қысымы датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>473</td>
-<td>Күре тамыр қан қысымын тіркеуге арналған датчик</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>474</td>
-<td>Температуры датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>475</td>
-<td>Жүрек қысқарулары жиілігі датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>476</td>
-<td>Электрокардиограмма датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>477</td>
-<td>Электрөткішгіштік датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>478</td>
-<td>Қол динамометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>479</td>
-<td>Колориметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>480</td>
-<td>Сандық портативті USB микроскоп</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>481</td>
-<td>Спирометр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>482</td>
-<td>Датчик үшін әдістемелік ұсыныстар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>483</td>
-<td>Датчиктерді орауға арналған төсеулер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>484</td>
-<td>Гербарий «Балдырлар. Саңырауқұлақтар. Қына»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>485</td>
-<td>Гербарий «Өсімдіктерді жіктеу. Жоғары споралы және тұқымды»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>486</td>
-<td>Гербарий «Өсімдіктерді жіктеу. Бұршақты тұқымдастар. Астық тұқымдастар»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>487</td>
-<td>Гербарий «Өсімдіктерді жіктеу. Қызғылт түсті тұқымдастар»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="4">Химия кабинеті мен зертханаға арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>488</td>
-<td>Аудиториялық қабырға тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>489</td>
-<td>Компьютерге арналған притсавкасы бар оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>490</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>491</td>
-<td>Көрсетуге арналған үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>492</td>
-<td>Зертханалық оқушы үстелі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>493</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>494</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>495</td>
-<td>Бір тумбалы үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>496</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>497</td>
-<td>Ашық шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>498</td>
-<td>Жабық шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>499</td>
-<td>Киімге арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>500</td>
-<td>Жабдықты сақтауға арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>501</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>502</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>503</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>504</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>505</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>506</td>
-<td>Желілік фильтр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>507</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>508</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>509</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>510</td>
-<td>Интерактивтік тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>511</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Химиядан тәжірибелер жүргізуге арналған сандық интерактивтік зертхана</td>
-</tr>
-<tr>
-<td>512</td>
-<td>Интерфейс</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>513</td>
-<td>Деректерді жазуға, көрсетуге және талдауға арналған оқу бағдарламалық қамсыздандыру</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>514</td>
-<td>pH датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>515</td>
-<td>Газ қысымының датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>516</td>
-<td>Температура датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>517</td>
-<td>Электр өткізгіштік датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>518</td>
-<td>Гальванометрикалық датчик</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>519</td>
-<td>Тамшыларды есептеуіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>520</td>
-<td>Әдістемелік ұсыныстар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>521</td>
-<td>Датчиктерді орауға арналған төсеулер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>522</td>
-<td>Электрондық плакаттар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>523</td>
-<td>Электрондық оқулықтар</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>524</td>
-<td>8-9 сыныптарға арналған химия бойынша сынақтар үшін оқу-бағдарламалық кешен</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Табиғи коллекциялар</td>
-</tr>
-<tr>
-<td>525</td>
-<td>Алюминий</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>526</td>
-<td>Тас көмір және оны өңдеу өнімдері коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>527</td>
-<td>Металдар коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>528</td>
-<td>Минералдар және тау жыныстары коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>529</td>
-<td>Минералдар және тау жыныстары коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>530</td>
-<td>Шыны және шыныдан жасалған өнімдер коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>531</td>
-<td>Жанармай өндірісіне арналған шикізат коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>532</td>
-<td>Химиялық өндіріске арналған шикізат коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>533</td>
-<td>Жанармай коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>534</td>
-<td>Шойын және болат коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>535</td>
-<td>Қаттылық шәкілі коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Көрсету үлгілері</td>
-</tr>
-<tr>
-<td>536</td>
-<td>С-Алмазының кристаллды торының көрсетілімділік үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>537</td>
-<td>С-Графитінің кристаллды торының көрсетілімділік үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>538</td>
-<td>Fe-Темірдің кристаллды торының көрсетілімділік үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>539</td>
-<td>I-Йодтың кристаллды торының көрсетілімділік үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>540</td>
-<td>Тас тұзы кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>541</td>
-<td>Н2О Мұз кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>542</td>
-<td>Mg магний кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>543</td>
-<td>Cu мыстың кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>544</td>
-<td>СО2 көміртек оксидінің кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>545</td>
-<td>С60 фуллерен кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>546</td>
-<td>NaCL хлорлы натрий кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>547</td>
-<td>Ауқымды молекулалар үлгілерінің жиынтығы</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>548</td>
-<td>Оқушы үшін органика және бейорганика бойынша молекулалар үлгілері</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td>549</td>
-<td>Оқытушыға арналған органика және бейорганика бойынша жиынтық</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>550</td>
-<td>π және σ байланыстарының құрылу үлгілері</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>551</td>
-<td>р және d бұлттарының және шар өзекті молекулалар үлгілері</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>552</td>
-<td>Электрондық бұлттар және химиялық байланыстар үлгілері</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Химиялық реактивтер</td>
-</tr>
-<tr>
-<td>553</td>
-<td>«Қышқылдар»</td>
-<td>жинақ</td>
-<td>3</td>
-</tr>
-<tr>
-<td>554</td>
-<td>«Гидроксидтер»</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>555</td>
-<td>«Металдар оксидтері»</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>556</td>
-<td>«Металдар»</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>557</td>
-<td>«Минералды тыңайтқыштар»</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>558</td>
-<td>«Иониттер»</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>559</td>
-<td>«Бейорганикалық заттардың үлгілері»</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>560</td>
-<td>«Галогенидтер»</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>561</td>
-<td>«Сульфаттар, сульфидтер, сульфиттер»</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>562</td>
-<td>Көрсету тәжірибелеріне арналған тұздар</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>563</td>
-<td>«Бейорганикалық заттар»</td>
-<td>жинақ</td>
-<td>4</td>
-</tr>
-<tr>
-<td>564</td>
-<td>«Фосфаттар, силикаттар»</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>565</td>
-<td>«Марганец қоспалары»</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>566</td>
-<td>«Нитраттар»</td>
-<td>жинақ</td>
-<td>3</td>
-</tr>
-<tr>
-<td>567</td>
-<td>«Индикаторлар»</td>
-<td>жинақ</td>
-<td>3</td>
-</tr>
-<tr>
-<td>568</td>
-<td>«Хром қоспалары» жиынтығы»</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>569</td>
-<td>«Материалдар»</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>570</td>
-<td>Ыдыс және керек-жарақтар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Зертханалық ыдыс және керек-жарақтар</td>
-</tr>
-<tr>
-<td>571</td>
-<td>Химиялық реакциялар өткізуге арналған аппарат</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>572</td>
-<td>Кипп аппараты</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>573</td>
-<td>Құрамдастырылған монша</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>574</td>
-<td>200гр дейін электрондық таразы</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>575</td>
-<td>Колба қыздырғышы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>576</td>
-<td>Ареометрлер жиынтығы (19 дана)</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>577</td>
-<td>Әмбебап түтіктер ыздырғышы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>578</td>
-<td>Газдарды жинауға арналған құрал</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>579</td>
-<td>Ауадағы оттегінің құрамын анықтауға арналған құрал</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>580</td>
-<td>Демонстрациялық термометр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>581</td>
-<td>Химиялық зертхана тағаны</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>582</td>
-<td>Дәрі-дәрмек қобдишасы</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>583</td>
-<td>Химиктердің портреттерінің жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>584</td>
-<td>Металдардың белсенділік қатары кестесі</td>
-<td>дна</td>
-<td>1</td>
-</tr>
-<tr>
-<td>585</td>
-<td>Менделеев кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>586</td>
-<td>Ерігіштік кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>587</td>
-<td>Химия кабинетіндегі Қауіпсіздік техникасы ережесінің кестесі</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>588</td>
-<td>Ауыспалы материалы бар стенд</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Ұсынылатын жабдықтар</td>
-</tr>
-<tr>
-<td>589</td>
-<td>Демонстрациялық тартпалы шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>590</td>
-<td>Химреактивтерге арналған металл шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>591</td>
-<td>Ыдыстар мен құрал-жабдықтарға арналған қойғыштары бар шкаф</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>592</td>
-<td>«Заттар, қоспалар, су»</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>593</td>
-<td>«Электрохимия» тәжірибесіне арналған жинақ</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>594</td>
-<td>Агрессивті химиялық заттардан қорғайтын көзілдірік</td>
-<td>дна</td>
-<td>25</td>
-</tr>
-<tr>
-<td>595</td>
-<td>Химиялық төзімді қорғаныс қолғабы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>596</td>
-<td>Резеңкелеген алжапқыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>597</td>
-<td>Халат</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="4">Қазақ, орыс, ұйғыр, өзбек, тәжік тілдерінде оқытатын қазақ тілі мен әдебиеті кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>598</td>
-<td>Аудиториялық қабырғаға ілінетін тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>599</td>
-<td>Оқытушыға арналған үстел компьютерге арналған приставкасымен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>600</td>
-<td>Оқытушыға арналған орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>601</td>
-<td>Екі орынды оқушыға арналған үстел</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>602</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>603</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>604</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>605</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>606</td>
-<td>Микрофон-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>607</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>608</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>609</td>
-<td>Тораптық сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>610</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>611</td>
-<td>Интербелсенді тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>612</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>613</td>
-<td>Проекторға рналған төбеге бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>614</td>
-<td>Электронды басылым</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>615</td>
-<td>DVD-ға арналған бейнефильмдер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>616</td>
-<td>Электронды плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>617</td>
-<td>Дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>618</td>
-<td>Үлестірме материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>619</td>
-<td>Картиналардың көшірмелері</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>620</td>
-<td>Ақындар мен жазушылардың портреттер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>621</td>
-<td>Синтаксис, фонетика, орфоэпия, грамматика, сөзжасам, сауатты жазу плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>622</td>
-<td>Сздік</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>623</td>
-<td>Қазақ жазушылары мен ақындарының шығармалар жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>624</td>
-<td>Анықтамалық және әдістемелік әдебиеттер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>625</td>
-<td>Плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Лингафон кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>626</td>
-<td>Маркерлік тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>627</td>
-<td>Оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>628</td>
-<td>Оқытушы креслосы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>629</td>
-<td>Оқушының жартыкабина -үстелі</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>630</td>
-<td>Оқушының орындығы</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>631</td>
-<td>Оқу-көрнекілік құралдарға арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>632</td>
-<td>Оқытушы пульті</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>633</td>
-<td>Кабинеттің тарату- блогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>634</td>
-<td>Оқушыларды басқару</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>635</td>
-<td>Микрофон-телефон гарнитурасы</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>636</td>
-<td>МР-3 плеер</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>637</td>
-<td>Плакаттар және қабырға көрнекіліктер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>638</td>
-<td>Тораптық сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="4">Музыка кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>639</td>
-<td>«Ноталық стан» сынып тақтасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>640</td>
-<td>Компьютерге арналған приставкасымен оқытушыға арналған үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>641</td>
-<td>Оқытушыға арналған орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>642</td>
-<td>Екі орынды оқушыға арналған үстел</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>643</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>644</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>645</td>
-<td>Жүйелі блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>646</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>647</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>648</td>
-<td>Қабырға акустикалық жүйесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>649</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>650</td>
-<td>Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>651</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>652</td>
-<td>Интерактивтік тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>653</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>654</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>655</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>656</td>
-<td>Микрофонды музыкалық центр</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>657</td>
-<td>Синтезатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>658</td>
-<td>Музыкалық аспаптар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>659</td>
-<td>Электронды оқулықтар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>660</td>
-<td>Музыка туралы фильм</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>661</td>
-<td>Фонограмма</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>662</td>
-<td>Монитор</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>663</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>664</td>
-<td>Қабырға акустикалық жүйесі</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>665</td>
-<td>Web-камера</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>666</td>
-<td>Желілік фильтр</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>667</td>
-<td>Көпфункционалды құрылғы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>668</td>
-<td>Интерактивтік тақта немесе экран</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Ұсынылатын жабдықтар</td>
-</tr>
-<tr>
-<td>669</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>670</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>671</td>
-<td>Микрофонды музыкалық центр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>672</td>
-<td>Музыкалық аспаптар мен жабдықтар</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>673</td>
-<td>Синтезатор</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="4">Мультимедиялық лингафондық кабинет</td>
-</tr>
-<tr>
-<td>674</td>
-<td>Маркерлік тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>675</td>
-<td>Оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>676</td>
-<td>Оқытушы креслосы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>677</td>
-<td>Оқушының жартыкабина -үстелі</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>678</td>
-<td>Оқушының орындығы</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>679</td>
-<td>Ұйымдастыру техникасы астына арналған тіреу</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>680</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>681</td>
-<td>Оқытушының жүйелік блогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>682</td>
-<td>Оқушының жүйелік блогы</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>683</td>
-<td>Монитор</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>684</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>685</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>686</td>
-<td>Микрофон-телефон гарнитурасы</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>687</td>
-<td>Көпфункциональды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>688</td>
-<td>Желілік коммутатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>689</td>
-<td>Интербелсенді тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>690</td>
-<td>Ультрақысқафокусты проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>691</td>
-<td>Проекторға арналған қабырғаға бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>692</td>
-<td>Кабинеттің таратқыш- блогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>693</td>
-<td>Оқушыларды басқару блогы</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>694</td>
-<td>Кабинетті басқару жүйесі</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>695</td>
-<td>Плакаттар қабырға көрнекіліктер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>696</td>
-<td>Дәрі қора</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>697</td>
-<td>Тораптық сүзгі</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>698</td>
-<td>Электрмен жабдықтау қалқаны</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Ұйғыр, өзбек және тәжік тілдеріндегі негізгі орта білім беру ана тілі және әдебиеті кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>699</td>
-<td>Аудиториялық қабырғаға ілінетін тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>700</td>
-<td>Оқытушыға арналған үстел компьютерге арналған приставкасымен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>701</td>
-<td>Оқытушыға арналған орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>702</td>
-<td>Екі орынды оқушыға арналған үстел</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>703</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>704</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>705</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>706</td>
-<td>Монито</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>707</td>
-<td>Микрофон-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>708</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>709</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>710</td>
-<td>Желілік сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>711</td>
-<td>Көпфункциональды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>712</td>
-<td>Интербелсенді тақта немесе экра</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-</table>
-<table>
-<tr>
-<td>713</td>
-<td colspan="4">Проектор</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>714</td>
-<td colspan="4">Проекторда төбеге бекітуге арналған бекіткіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>715</td>
-<td colspan="4">Электронды басылым жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>716</td>
-<td colspan="4">DVD бейнефильмдеріе арналған жиынтық</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>717</td>
-<td colspan="4">Дидактикалық материал</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>718</td>
-<td colspan="4">Үлестірме материал</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>719</td>
-<td colspan="4">Картиналардың көшірмелері</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>720</td>
-<td colspan="4">Ұлы адамдардың, ақындар мен жазушылардың портреттері</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>721</td>
-<td colspan="4">Синтаксис, фонетика, орфоэпия, грамматика, сөзжасам, дұрыс жазу бойынша плакаттар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>722</td>
-<td colspan="4">Мектеп сөздігі</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>723</td>
-<td colspan="4">Жыр жнақтары</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>724</td>
-<td colspan="4">Көркем әдебиеттер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>725</td>
-<td colspan="4">Анықтамалық және әдістемелік әдебиеттер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>726</td>
-<td colspan="4">Плакаттар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Оқыту тілі ұйғыр, өзбек және тәжік тілдеріндегі білім беру ұйымдарындағы орыс тілі және әдебиеті кабинетіне арналған жабдықтар және жиһаздар</td>
-<td></td>
-</tr>
-<tr>
-<td>727</td>
-<td colspan="4">Аудиториялық қабырғаға ілінетін тақта</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>728</td>
-<td colspan="4">Оқытушыға арналған үстел компьютерге арналған приставкасымен</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>729</td>
-<td colspan="4">Оқытушыға арналған орындық</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>730</td>
-<td colspan="4">Екі орынды оқушыға арналған үстел</td>
-<td colspan="2">дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>731</td>
-<td colspan="4">Оқушы орындғы</td>
-<td colspan="2">дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>732</td>
-<td colspan="4">Шкаф</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>733</td>
-<td colspan="4">Жүйелік блок</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>734</td>
-<td colspan="4">Монитор</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>735</td>
-<td colspan="4">Микрофон-телефон гарнитурасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>736</td>
-<td colspan="4">Акустикалық жүйе</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>737</td>
-<td colspan="4">Web-камера</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>738</td>
-<td colspan="4">Желілік сүзгі</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>739</td>
-<td colspan="4">Көпфункциональды құрылғы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>740</td>
-<td colspan="4">Интербелсенді тақта немесе экран</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>741</td>
-<td colspan="4">Проектор</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>742</td>
-<td colspan="4">Проекторды төбеге бекітуге арналған бекіткіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>743</td>
-<td colspan="4">Электронды басылым</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>744</td>
-<td colspan="4">DVD бейнефильмдерге арналған жиынтық</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>745</td>
-<td colspan="4">Дидактикалық материал</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>746</td>
-<td colspan="4">Үлестірм материал</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>747</td>
-<td colspan="4">Картиналардың көшірмелері</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>748</td>
-<td colspan="4">Ұлы адамдар, ақындар мен жазушылардың портреттері</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>749</td>
-<td colspan="4">Синтаксис, фонетика, орфоэпия, грамматика, сөзжасам, дұрыс жазу бойынша плакаттар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>750</td>
-<td colspan="4">Орфографиялық сөздіктер</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>751</td>
-<td colspan="4">Сөздік</td>
-<td colspan="2">дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>752</td>
-<td colspan="4">Шығармала жинағы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>753</td>
-<td colspan="4">Көркем әдебиеттер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>754</td>
-<td colspan="4">Анықтамалық және әдістемелік әдебиеттер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>755</td>
-<td colspan="4">Плакаттар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Өзін-өзі тану кабинеті</td>
-</tr>
-<tr>
-<td>756</td>
-<td colspan="4">Сынып тақтасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>757</td>
-<td colspan="4">Оқытушыға арналан үстел</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>758</td>
-<td colspan="4">Оқытушыға арналған кресло</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>759</td>
-<td colspan="4">Аудитория үстелі</td>
-<td colspan="2">дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>760</td>
-<td colspan="4">Пюпитрмен жартылай жұмсақ орындық</td>
-<td colspan="2">дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>761</td>
-<td colspan="4">Шкаф</td>
-<td colspan="2">дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>762</td>
-<td colspan="4">Жұмсақ жиһаз</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>763</td>
-<td colspan="4">Жүйелік блок</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>764</td>
-<td colspan="4">Монитор</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>765</td>
-<td colspan="4">Микрофон-телефон гарнитурасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>766</td>
-<td colspan="4">Акустикалық жүйе</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>767</td>
-<td colspan="4">Web-камера</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>769</td>
-<td colspan="4">Желілік сүзгі</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>770</td>
-<td colspan="4">Көпфункциональды құрылғы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>771</td>
-<td colspan="4">Интербелсенді тақта немесе экран</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>772</td>
-<td colspan="4">Проектор</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>773</td>
-<td colspan="4">Проекторды бекіткіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>774</td>
-<td colspan="4">Документ-камера</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>775</td>
-<td colspan="4">Музыкалық орталық</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>776</td>
-<td colspan="4">Электронды оқулықтар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>777</td>
-<td colspan="4">DVD-ға арналған бейнефильмдер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>778</td>
-<td colspan="4">Балалар музыкасы, өлеңдерімен дискілер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>779</td>
-<td colspan="4">Электронды плакаттар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>780</td>
-<td colspan="4">Үлестірме материалдар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>781</td>
-<td colspan="4">Портреттер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>782</td>
-<td colspan="4">Көрнекілік материал</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>783</td>
-<td colspan="4">Рухани-адамгершілік білім беру бойынша әдебиеттер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>784</td>
-<td colspan="4">Жанды бұрыш</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>785</td>
-<td colspan="4">Қабырға көрнекіліктер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Сызу және бейнелеу өнері кабинеті</td>
-</tr>
-<tr>
-<td>786</td>
-<td colspan="4">Сынып тақтасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>787</td>
-<td colspan="4">Компьютерге арналған оқытушы үстелі</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>788</td>
-<td colspan="4">Оқытушы орындығы</td>
-<td colspan="2">дана</td>
-<td></td>
-</tr>
-<tr>
-<td>789</td>
-<td colspan="4">Оқушы үстелі</td>
-<td colspan="2">дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>790</td>
-<td colspan="4">Оқушы орындығы</td>
-<td colspan="2">дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>791</td>
-<td colspan="4">Түмбі</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>792</td>
-<td colspan="4">Шкаф</td>
-<td colspan="2">дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>793</td>
-<td colspan="4">Жүйелілік блок</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>794</td>
-<td colspan="4">Монитор</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>795</td>
-<td colspan="4">Микрофонды-телефон гарнитурасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>796</td>
-<td colspan="4">Акустикалық жүйе</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>797</td>
-<td colspan="4">Web-камера</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>798</td>
-<td colspan="4">Желілік фильтр</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>799</td>
-<td colspan="4">Көпфункционалды құрылғы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>800</td>
-<td colspan="4">Интерактивті тақта немесе экран</td>
-<td colspan="2">дана</td>
-<td></td>
-</tr>
-<tr>
-<td>801</td>
-<td colspan="4">Проектор</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>802</td>
-<td colspan="4">Проекторға арналған төбелік бекіткіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>803</td>
-<td colspan="4">Сызу құралдары</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>804</td>
-<td colspan="4">Рейсшин сызу құралдары</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>805</td>
-<td colspan="4">Сызу құралдар жиынтығы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>806</td>
-<td colspan="4">Мольберт</td>
-<td colspan="2">дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>807</td>
-<td colspan="4">Гипсті геометриялық дене пішіндерінің</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>808</td>
-<td colspan="4">Пластмассадан геометриялық дене пішіндерінің</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>809</td>
-<td colspan="4">Қозғалмалы бөлшектен геометриялық дене пішіндері</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>810</td>
-<td colspan="4">Гипстен модельдер</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>811</td>
-<td colspan="4">Керамикалық бұйымдар</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>812</td>
-<td colspan="4">Өнер және қолөнер өнімдер</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>813</td>
-<td colspan="4">Маталар (драпировки)</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>814</td>
-<td colspan="4">Тұрмыстық заттардың</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>815</td>
-<td colspan="4">Гербарй жабайы өсімдіктер</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>816</td>
-<td colspan="4">Гербарий мәдени өсімдіктер</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>817</td>
-<td colspan="4">Жемістер мен көкөністер муляждары</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>818</td>
-<td colspan="4">Көбелектер коллекциясы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>819</td>
-<td colspan="4">Жануарлар мен құстар тұлыптар</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>820</td>
-<td colspan="4">Мүсінге арналған материалдар</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>821</td>
-<td colspan="4">Сурет өнеріне арналған материалдар</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>822</td>
-<td colspan="4">Графикаға арналған материалдар</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>823</td>
-<td colspan="4">Аппликацияларға арналған материалдар</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>824</td>
-<td colspan="4">Сызуға арналған бөлшекеер</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>825</td>
-<td colspan="4">Қуыршақ театры</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>826</td>
-<td colspan="4">Бетперделер (маски)</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>827</td>
-<td colspan="4">Электронды оқулықтар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>828</td>
-<td colspan="4">DVD фильмдер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>829</td>
-<td colspan="4">Үлестірме материалдар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>830</td>
-<td colspan="4">Көрнекті суретшілер портреттері</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>831</td>
-<td colspan="4">Иллюстрациялар мен плакаттар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>832</td>
-<td colspan="4">Энциклопедия және анықтама әдістемесі</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>833</td>
-<td colspan="4">Өнер альбомы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Технология» пәні</td>
-</tr>
-<tr>
-<td>834</td>
-<td colspan="4">Аудиториялық қабырға тақтасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>835</td>
-<td colspan="4">Компьютерге арналған жанама құрылғы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>836</td>
-<td colspan="4">Жартылай-жұмсақ орындық</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>837</td>
-<td colspan="4">Оқушы үстелі</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>838</td>
-<td colspan="4">Оқушы орындығы</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>839</td>
-<td colspan="4">Шкаф</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>840</td>
-<td colspan="4">Жүйелі блк</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>841</td>
-<td colspan="4">Монитор</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>842</td>
-<td colspan="4">Микрофонды-телефон гарнитурасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>843</td>
-<td colspan="4">Акустикалық жүйе</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>844</td>
-<td colspan="4">Web-камера</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>846</td>
-<td colspan="4">Желілік фильтр</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>847</td>
-<td colspan="4">Көпфункционалды құрылғы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>848</td>
-<td colspan="4">Интерактивтік тақта немесе экран</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>849</td>
-<td colspan="4">Проектор</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>850</td>
-<td colspan="4">Проекторға арналған төбелік бекіткіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>851</td>
-<td colspan="4">Электронды плакаттар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>852</td>
-<td colspan="4">Бейнефильмдер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>853</td>
-<td colspan="4">Плакаттар жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>854</td>
-<td colspan="4">«Технологияны оқытудағы қауіпсіздік техникасы» плакаттар жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Материалдарды көркем өңдеу, металл және ағашты өңдеу технологиясын жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>855</td>
-<td colspan="4">Әмбебап оқушы верстагы</td>
-<td colspan="2">дан</td>
-<td>12</td>
-</tr>
-<tr>
-<td>856</td>
-<td colspan="4">Бұрылмалы-көтерілгіш орындық (отырғыш)</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>857</td>
-<td colspan="4">Аудиториялық тақта</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>858</td>
-<td colspan="4">Бір түмбелі оқытушыға арналған үстел</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>859</td>
-<td colspan="4">Металл құралдар шкафы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>860</td>
-<td colspan="4">Киімге арналған шкаф</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>861</td>
-<td colspan="4">Металды бұрғылау станогы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>862</td>
-<td colspan="4">Бұрғылау станогына тіреуіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>863</td>
-<td colspan="4">Металл жону станогы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>864</td>
-<td colspan="4">Металл жону станогына тіреуіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>865</td>
-<td colspan="4">Аралас ағаш өңдеу станогы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>866</td>
-<td colspan="4">Аралас ағаш өңдеу станогына тіреуіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>867</td>
-<td colspan="4">Электрлі ұштауыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>868</td>
-<td colspan="4">Электрлі ұштауышқа тіреуіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>869</td>
-<td colspan="4">Электрлі лобзик (кішкене ара)</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>870</td>
-<td colspan="4">Аккумуляторлы бұрандалы-бұрғы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>871</td>
-<td colspan="4">Бұрыштық тегістеу машина (шлифовальная)</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Жобалау жұмыстарына арналған құралдар</td>
-</tr>
-<tr>
-<td>872</td>
-<td colspan="4">Кішкене (миниатюралы) станоктардың модульдік жиынтығы</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>873</td>
-<td colspan="4">Күйдіруге арналған құрал</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>874</td>
-<td colspan="4">Қарапайым машина мен механизмдерді модельдеу үшін конструкторлар</td>
-<td colspan="2">жинақ</td>
-<td>4</td>
-</tr>
-<tr>
-<td>875</td>
-<td colspan="4">Технологиялық машина мен механизмдерді модельдеу үшін конструкторлар</td>
-<td colspan="2">жинақ</td>
-<td>4</td>
-</tr>
-<tr>
-<td>876</td>
-<td colspan="4">Электр тізбектерін жинау үшін конструкторлар</td>
-<td colspan="2">жинақ</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="8">Құралдар</td>
-</tr>
-<tr>
-<td>877</td>
-<td colspan="4">Ағаш шапқы (қашау) 8 миллиметр</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>878</td>
-<td colspan="4">Ағаш шапқы (қашау) 12 миллиметр</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>879</td>
-<td colspan="4">Ағаш шапқы (қашау) 16 миллимтр</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>880</td>
-<td colspan="4">Кескіш</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>880-1</td>
-<td colspan="5">Ноутбук</td>
-<td>Дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>880-2</td>
-<td colspan="5">Желілік фильтр</td>
-<td>Дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>880-3</td>
-<td colspan="5">Басып шығаруға арналған пластигі бар 3-D принтер</td>
-<td>Дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>880-4</td>
-<td colspan="5">Бағдарламалық қамтамасыз етілген микрокомпьютер, сервомоторлар, датчиктер, құрылыс элементтері, зарядтаушы құрылғы, интерактивтік сабақтар, оқу-әдістемелік кешеннен тұратын робототехникалық жинақ</td>
-<td>Жинақ</td>
-<td>10</td>
-</tr>
-<tr>
-<td>880-5</td>
-<td colspan="5">Мониторы бар және бағдарламалық қамтамасыз етілген микропроцессорлік компьютер базасындағы бағдарламалауды оқытуға арналған жинақ</td>
-<td>Жинақ</td>
-<td>3</td>
-</tr>
-<tr>
-<td>880-6</td>
-<td colspan="5">Микроконтроллері мен командалық интерпретаторы бар плата базасындағы робототехникалық жинақ және оқу әдістемелік кешен</td>
-<td>Жинақ</td>
-<td>4</td>
-</tr>
-<tr>
-<td>880-7</td>
-<td colspan="5">Зерттеу қызметіне арналған датчиктер жинағы</td>
-<td>Жинақ</td>
-<td>4</td>
-</tr>
-<tr>
-<td>880-8</td>
-<td colspan="5">Бағдарламалау мүмкіндігі бар электрондық компоненттер мен механикалық модельдер, әдістемелік құралдан тұратын жобалау қызметіне арналған жинақ</td>
-<td>Жинақ</td>
-<td>10</td>
-</tr>
-<tr>
-<td>880-9</td>
-<td colspan="5">Лицензиялық бағдарламалар, оның ішінде микроконтроллермен жұмысқа арналған үстел және мобильдік операциялық жүйесінің кешені, құжаттаманы, мультимедиалық деректерді және оқу-әдістемелік материалдарды қарау құралдары, визуалды әзірлеу құралдары, редакторлар, дерекқорлар, микроконтролердің жұмысын атқаратын виртуалды машиналар, үш өлшемді модельдерді жасауға, схемаларды жобалауға және интертетте жұмыс істеуге арналған бағдарламалар</td>
-<td>Жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>880-10</td>
-<td colspan="5">Баннерлік матадағы жаттығу алаңдары</td>
-<td>Дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>881</td>
-<td colspan="4">Шегелеу, жамауға арналған құрал</td>
-<td colspan="2">жинақ</td>
-<td>3</td>
-</tr>
-<tr>
-<td>882</td>
-<td colspan="4">Кернер</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>883</td>
-<td colspan="4">Киянка резеңке</td>
-<td colspan="2">дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>884</td>
-<td colspan="4">Аауыз</td>
-<td colspan="2">дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>885</td>
-<td colspan="4">Қырлы тістеуіктер</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>886</td>
-<td colspan="4">Металл сызғыш 30 сантиметр</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>887</td>
-<td colspan="4">Металл сызғыш 100 сантиметр</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>888</td>
-<td colspan="4">Лобзик (кіші ара)</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>889</td>
-<td colspan="4">Слесарьлық балға 200 грамм</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>890</td>
-<td colspan="4">Слесарьлық балға 400 грамм</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>891</td>
-<td colspan="4">Футлярда екіжақты гайкалы кілттер 4</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>892</td>
-<td colspan="4">Сурет құралдар жиынтығы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>893</td>
-<td colspan="4">Крандар мен мөртаңбалар жиынтығы</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>894</td>
-<td colspan="4">300 миллиметрлік квадрат егеулер</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>895</td>
-<td colspan="4">300 миллиметрлік дөңгелек егеулер</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>896</td>
-<td colspan="4">250 миллиметрлік жазық егеулер</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>897</td>
-<td colspan="4">250 миллиметрлік үшгранды егеулер</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>898</td>
-<td colspan="4">Металл қайшылары</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>899</td>
-<td colspan="4">Ағаш кесетін пышақ</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>900</td>
-<td colspan="4">Металл кесетін пышақ</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>901</td>
-<td colspan="4">160 мм жазық бұранда</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>902</td>
-<td colspan="4">190 мм жазық бұранда</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>903</td>
-<td colspan="4">165 мм крест тәрізді бұранда</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>904</td>
-<td colspan="4">200 мм крест тәрізді бұранда</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>905</td>
-<td colspan="4">Алмазды лобзикке арналған шүберек полотна</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>906</td>
-<td colspan="4">Металл кесетін қол араға шүберек</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>907</td>
-<td colspan="4">Жонғыш</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>908</td>
-<td colspan="4">Сүргі</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>909</td>
-<td colspan="4">Рулетка өлшеуіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>910</td>
-<td colspan="4">Ағаш бұрғылайтын жинақ</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>911</td>
-<td colspan="4">Металл бұрғылайтын жинақ</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>912</td>
-<td colspan="4">Стусло</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>913</td>
-<td colspan="4">Айналмалы слесарьлық қысқыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>914</td>
-<td colspan="4">Бұрыштық</td>
-<td colspan="2">дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>915</td>
-<td colspan="4">Штангенциркуль</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>916</td>
-<td colspan="4">Түгімен щетка</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>917</td>
-<td colspan="4">Санитарлық-техникалық жұмыстар үшін құралдар</td>
-<td colspan="2">жиынтық</td>
-<td>6</td>
-</tr>
-<tr>
-<td>918</td>
-<td colspan="4">Санитарлық-техникалық жұмыстар үшін материалдар мен өнімдер үлгілері</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>919</td>
-<td colspan="4">Жөндеу және әрлеу жұмыстарын жүргізу үшін құралдар мен материалдар үлгілер</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>920</td>
-<td colspan="4">Радио бөлшектер көрсету жиынтыы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>921</td>
-<td colspan="4">Сандық мультиметр</td>
-<td colspan="2">дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>922</td>
-<td colspan="4">Электротехникалық жұмыстар жасауға арналған құралдар жинағы</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>923</td>
-<td colspan="4">Электрлік жабдықтау жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>924</td>
-<td colspan="4">Монтаж материалдар жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>925</td>
-<td colspan="4">Қабырғадағы дәрі-дәрмек қобдишасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>926</td>
-<td colspan="4">Алжапқыш</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>927</td>
-<td colspan="4">Жеңқап</td>
-<td colspan="2">жұп</td>
-<td>12</td>
-</tr>
-<tr>
-<td>928</td>
-<td colspan="4">Берет</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>929</td>
-<td colspan="4">Бетті қорғайтын қалқан</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>930</td>
-<td colspan="4">«Техника қауіпсіздігі ережелері» плакаты</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Тағам дайындау технологи кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>931</td>
-<td colspan="4">Ас үй үстел-түмбесі</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>932</td>
-<td colspan="4">Аспалы шкаф</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>933</td>
-<td colspan="4">Жуу -үстелі</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>934</td>
-<td colspan="4">Ас үй жұмыс үстелі</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>935</td>
-<td colspan="4">Ағаш отырғышы</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>936</td>
-<td colspan="4">Үстел-тұрмыстық таразы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>937</td>
-<td colspan="4">Кофеқайнатқыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>938</td>
-<td colspan="4">Кофеүгіткіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>939</td>
-<td colspan="4">Қысқа толқынды пеш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>940</td>
-<td colspan="4">Электрлі шәйник</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>941</td>
-<td colspan="4">Тостер</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>942</td>
-<td colspan="4">Ас үй комбайны</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>943</td>
-<td colspan="4">Миксер</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>944</td>
-<td colspan="4">Электрлі еттартқыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>945</td>
-<td colspan="4">Электрлі плита</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>946</td>
-<td colspan="4">Плита үстіндегі ауа тартқыш</td>
-<td colspan="2">дана</td>
-<td></td>
-</tr>
-<tr>
-<td>947</td>
-<td colspan="4">Термопот</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>948</td>
-<td colspan="4">Тоңазытқыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>949</td>
-<td colspan="4">Азық түлікті жылытуға арналған ыдыстар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>950</td>
-<td colspan="4">Асхана ыдыстарының жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>951</td>
-<td colspan="4">Тостағандар жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>952</td>
-<td colspan="4">6 адамдық асхана сервизі</td>
-<td colspan="2">жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>953</td>
-<td colspan="4">6 адамдық шай сервизі</td>
-<td colspan="2">жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>954</td>
-<td colspan="4">Азық түлікті жылыту аспаптар мен құралдар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>955</td>
-<td colspan="4">Азық түлікті механикалық өңдеуден өткізуге арналған аспаптар мен құралдар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>956</td>
-<td colspan="4">Қамыр илеуге арналған аспаптар мен құралдар</td>
-<td colspan="2">жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>957</td>
-<td colspan="4">Үстел жасауға арналған құралдар</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>958</td>
-<td colspan="4">«Азық-түлік» муляждары</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>959</td>
-<td colspan="4">Электрмен жабдықтау жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>960</td>
-<td colspan="4">Қабырға дәрі-дәрмек қобдишасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>961</td>
-<td colspan="4">Алжапқыш</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>962</td>
-<td colspan="4">Орамал</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>963</td>
-<td colspan="4">«Техника қауіпсіздігі ережелері» плакаты</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>964</td>
-<td colspan="4">Ауыстырма материалдары бар стенд</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Маталарды өңдеу және материалдарды көркем өңдеу технологияларына арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>965</td>
-<td colspan="4">Аудиториялық тақта</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>966</td>
-<td colspan="4">Үстел</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>967</td>
-<td colspan="4">Жартылай жұмсақ орындық</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>968</td>
-<td colspan="4">Шкаф</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>969</td>
-<td colspan="4">Киімге арналған шкаф</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>970</td>
-<td colspan="4">Тігін машинасымен жұмыс жасауға арналған үстел</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>971</td>
-<td colspan="7">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>972</td>
-<td colspan="7">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>973</td>
-<td colspan="4">Оверлок</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>974</td>
-<td colspan="4">Үтіктеуге арналған тақтай</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>975</td>
-<td colspan="4">Әйел манекені</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>976</td>
-<td colspan="4">Еркек манекені</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>977</td>
-<td colspan="7">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>978</td>
-<td colspan="4">6 сыныптық сызба құралдар жиынтығы</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>979</td>
-<td colspan="4">Матаға арналған үлкен қайшылар</td>
-<td colspan="2">дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>980</td>
-<td colspan="4">Ағылшын түйреуіштер жинағы</td>
-<td colspan="2">жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>981</td>
-<td colspan="7">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>982</td>
-<td colspan="4">«Мата үлгілері» үлестіретін коллекциясы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>983</td>
-<td colspan="4">Тігінші бор</td>
-<td colspan="2">жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>984</td>
-<td colspan="4">Тігін машинасы</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>985</td>
-<td colspan="4">Тігін машинасына арналған инелер жинағы</td>
-<td colspan="2">жинақ</td>
-<td>12</td>
-</tr>
-<tr>
-<td>986</td>
-<td colspan="4">Қолмен тігуге арналған құралдар</td>
-<td colspan="2">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>987</td>
-<td colspan="4">Кестелеу-құралдары</td>
-<td colspan="2">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>988</td>
-<td colspan="4">Тоқуға арналған жиынтық</td>
-<td colspan="2">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>989</td>
-<td colspan="4">Бізбен тоқуға арналған жиынтық</td>
-<td colspan="2">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>990</td>
-<td colspan="4">Санитарлы-техникалық жұмыс құралдары</td>
-<td colspan="2">жиынтық</td>
-<td>6</td>
-</tr>
-<tr>
-<td>991</td>
-<td colspan="4">Электрмен жабдықтау жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>992</td>
-<td colspan="4">Қабырға дәрі-дәрмек қобдишасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>993</td>
-<td colspan="4">Алжапқыш</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>994</td>
-<td colspan="4">Орамал</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>995</td>
-<td colspan="4">«Техника қауіпсіздігі ережелері» плакаты</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Дене шынықтыру кабинеті</td>
-</tr>
-<tr>
-<td colspan="2">996</td>
-<td colspan="3">Кабинетке арналған маркерлі тақта</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">997</td>
-<td colspan="3">Кабинетке арналған үстел</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">998</td>
-<td colspan="3">Жартылай-жұмсақ орындық</td>
-<td colspan="2">дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="2">999</td>
-<td colspan="3">Кабинетке арналған шкаф</td>
-<td colspan="2">дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">1000</td>
-<td colspan="3">Медициналық дәрі-дәрме қобдишсы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1001</td>
-<td colspan="3">Жүйелілік блок</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1002</td>
-<td colspan="3">Монитор</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1003</td>
-<td colspan="3">Микрофонды-телефон гарнитурасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1004</td>
-<td colspan="3">Акустикалық жүйесі</td>
-<td colspan="2">дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">1005</td>
-<td colspan="3">Web-камера</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1006</td>
-<td colspan="3">Желілік фильтр</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1007</td>
-<td colspan="3">Көпфункционалды құрылғы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1008</td>
-<td colspan="3">Дене шынықтыру дайындығы бойыншы мультимедиалық оқыту нұсқаулықтары</td>
-<td colspan="2">жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1009</td>
-<td colspan="3">Қолдың білезік буынының динамометриясы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1010</td>
-<td colspan="3">Ойын ысқырығы</td>
-<td colspan="2">дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="2">1011</td>
-<td colspan="3">Секундомер</td>
-<td colspan="2">дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">1012</td>
-<td colspan="3">Электромегофон</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1013</td>
-<td colspan="3">Қарапайым пластмасты табло</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1014</td>
-<td colspan="3">Табло электронды</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1015</td>
-<td colspan="3">10 метрлік өлшеуіш лентасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1016</td>
-<td colspan="3">50 метрлік өлшеуіш лентасы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">жабдықтар сақтау бөлмесі</td>
-</tr>
-<tr>
-<td colspan="2">1017</td>
-<td colspan="3">Спорттық жабдықтарды сақтау сөрелері</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1018</td>
-<td colspan="3">Доптарды сақтау сөрелері</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1019</td>
-<td colspan="3">Допты тасымалдауға арналған себет</td>
-<td colspan="2">дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">1020</td>
-<td colspan="3">Допқа арналған насос</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="8">дене шынықтыру залы және секция</td>
-</tr>
-<tr>
-<td colspan="2">1021</td>
-<td colspan="3">Биіктіктегі бөрене</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1022</td>
-<td colspan="3">Едендегі бөрене</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1023</td>
-<td colspan="3">Түрлі биіктіктегі сырық жиынтығы (әйел)</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1024</td>
-<td colspan="3">Қос сырық жиынтығы (еркек)</td>
-<td colspan="2">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1025</td>
-<td colspan="3">Өрмелеуге арналған арқан</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">1026</td>
-<td colspan="3">Өрмелеуге арналған сырық</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1027</td>
-<td colspan="3">Гимнастикалық кіші ағаш ат</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1028</td>
-<td colspan="3">Гимнастикалық ағаш ат</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1029</td>
-<td colspan="3">Гигиеналық жабыныш бар төсеніш</td>
-<td colspan="2">дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td colspan="2">1030</td>
-<td colspan="3">Гимнастикалық серіппелі көпір</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1031</td>
-<td colspan="3">Гимнастикалық тіке көпір</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1032</td>
-<td colspan="3">Төсеніштерді сақтау және тасымалдау үшін арба</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1033</td>
-<td colspan="3">Металдан жасалған шығыршық</td>
-<td colspan="2">дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td colspan="2">1034</td>
-<td colspan="3">Гимнастикалық таяқ</td>
-<td colspan="2">дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td colspan="2">1035</td>
-<td colspan="3">Өрмелеуге (тартуға) арналған арқан</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1036</td>
-<td colspan="3">Гимнастикалық әмбебап керме</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1037</td>
-<td colspan="3">Гимнастикалық орындықтар</td>
-<td colspan="2">дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">1038</td>
-<td colspan="3">Гимнастикалық қабырға</td>
-<td colspan="2">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="8">шаңғы мен коньки</td>
-</tr>
-<tr>
-<td colspan="2">1039</td>
-<td colspan="3">Шаңғыға арналған бекіткіштер жиынтығы</td>
-<td colspan="2">жиынтық</td>
-<td>45</td>
-</tr>
-<tr>
-<td colspan="2">1040</td>
-<td colspan="3">Ағашпластикті шаңғылар</td>
-<td colspan="2">жиынтық</td>
-<td>45</td>
-</tr>
-<tr>
-<td colspan="2">1041</td>
-<td colspan="3">Шаңғы аяқ киімдері (ботинкілері)</td>
-<td colspan="2">жұп</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">1042</td>
-<td colspan="3">Шаңғы таяқтары</td>
-<td colspan="2">жұп</td>
-<td>45</td>
-</tr>
-<tr>
-<td colspan="2">1043</td>
-<td colspan="3">Конькилер</td>
-<td colspan="2">жиынтық</td>
-<td>45</td>
-</tr>
-<tr>
-<td colspan="8">жеңіл атлетикаға</td>
-</tr>
-<tr>
-<td colspan="2">1044</td>
-<td colspan="3">Сөре станогы немесе тіреуіш(колодка)</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">1045</td>
-<td colspan="3">Лақтыруға арналған доп</td>
-<td colspan="2">дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td colspan="2">1046</td>
-<td colspan="3">Лақтыруға арналған нысана</td>
-<td colspan="2">дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">1047</td>
-<td colspan="3">Лақтыруға арналған граната 500 грамм</td>
-<td colspan="2">дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">1048</td>
-<td colspan="3">Лақтыруға арналған граната 700 грамм</td>
-<td colspan="2">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">1049</td>
-<td colspan="3">Биіктікке секіруге арналған тұғыр теңдегіш</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1050</td>
-<td colspan="3">Биіктікке секіруге арналған баған</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1051</td>
-<td colspan="3">Биіктікті өлшеуге арналған тұғыр теңдеуі</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">1052</td>
-<td colspan="3">Эстафеталық таяқша</td>
-<td colspan="2">дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="8">туризм, спорт және үстел ойындары</td>
-</tr>
-<tr>
-<td colspan="3">1053</td>
-<td colspan="2">Туристік жабдықтар жиынтығы</td>
-<td colspan="2">дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td colspan="3">1054</td>
-<td colspan="2">Екі адамдық туристік шатыр</td>
-<td colspan="2">дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="3">1055</td>
-<td colspan="2">Қоржын</td>
-<td colspan="2">дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td colspan="3">1056</td>
-<td colspan="2">Волейбол бағаны</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1057</td>
-<td colspan="2">Мини футболға арналған қақпа</td>
-<td colspan="2">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1058</td>
-<td colspan="2">Баскетбол добы</td>
-<td colspan="2">дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td colspan="3">1059</td>
-<td colspan="2">Волейбол добы</td>
-<td colspan="2">дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td colspan="3">1060</td>
-<td>Футбол добы</td>
-<td colspan="3">дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="3">1061</td>
-<td>Гандбол добы</td>
-<td colspan="3">дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="3">1062</td>
-<td>Волейбол торы</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1063</td>
-<td>Волейбол торына арналған арқан</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1064</td>
-<td>Футбол қақпасына арналған торы</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1065</td>
-<td>Баскетбол торы</td>
-<td colspan="3">дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="3">1066</td>
-<td>Үстел теннисіне арналған жиынтық</td>
-<td colspan="3">жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1067</td>
-<td>Үстел теннисіне арналған торлар</td>
-<td colspan="3">дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="3">1068</td>
-<td>Үстел теннисін ойнауға арналған ракетка</td>
-<td colspan="3">дана</td>
-<td>16</td>
-</tr>
-<tr>
-<td colspan="3">1069</td>
-<td>Үстел теннисін ойнауға арналған кішкене шар доптар (шарик)</td>
-<td colspan="3">дана</td>
-<td>40</td>
-</tr>
-<tr>
-<td colspan="3">1070</td>
-<td>Баскетбол қалқаны</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1071</td>
-<td>Баскетболдың оқу қалқаны</td>
-<td colspan="3">дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">1072</td>
-<td>Баскетбол шығыршығы</td>
-<td colspan="3">дана</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="3">1073</td>
-<td>Еркектер футбол формасы</td>
-<td colspan="3">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="3">1074</td>
-<td>Әйелдер футбол формасы</td>
-<td colspan="3">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="3">1075</td>
-<td>Еркектер волейбол формасы</td>
-<td colspan="3">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="3">1076</td>
-<td>Әйелдер волейбол формасы</td>
-<td colspan="3">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="3">1077</td>
-<td>Еркектер баскетбол формасы</td>
-<td colspan="3">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="3">1078</td>
-<td>Әйелдер баскетбол формасы</td>
-<td colspan="3">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="3">1079</td>
-<td>Еркектер гандбол формасы</td>
-<td colspan="3">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="3">1080</td>
-<td>Әйелдер гандбол формасы</td>
-<td colspan="3">жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="3">1081</td>
-<td>Ойын жилеті нөмірленген</td>
-<td colspan="3">дана</td>
-<td>40</td>
-</tr>
-<tr>
-<td colspan="3">1082</td>
-<td>Таңбаланған фишкалар</td>
-<td colspan="3">дана</td>
-<td>40</td>
-</tr>
-<tr>
-<td colspan="3">1083</td>
-<td>Гантелдер 1 килограмм</td>
-<td colspan="3">дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="3">1084</td>
-<td>Гантелдер 2 килограмм</td>
-<td colspan="3">дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="3">1085</td>
-<td>Медицинбол</td>
-<td colspan="3">дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td colspan="3">1086</td>
-<td>Тоғызқұмалақ</td>
-<td colspan="3">жиынтық</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="3">1087</td>
-<td>Шахматтар</td>
-<td colspan="3">жиынтық</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="3">1088</td>
-<td>Шашкілер</td>
-<td colspan="3">жиынтық</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="3">1089</td>
-<td>Механиқалық шахмат сағаттары</td>
-<td colspan="3">дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="8">Спорт алаңы</td>
-</tr>
-<tr>
-<td colspan="3">1090</td>
-<td>Футбол қақпасы торымен</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1091</td>
-<td>Мини футбол қақпасы торымен</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1092</td>
-<td>Баскетбол бағандары алқанымен,торымен</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1093</td>
-<td>Волейбол бағандары торымен</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1094</td>
-<td>Металл қос сырықтары</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1095</td>
-<td>Гимнастикалық металл кермелері</td>
-<td colspan="3">дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="3">1096</td>
-<td>Судья мұнарасы</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1097</td>
-<td>Ұзындыққа секіруге арналған сетор</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1098</td>
-<td>Лақтыруға арналған сектор</td>
-<td colspan="3">дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">1099</td>
-<td>Жеңіл атлетикалық жолдар</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="8">Білім алушылардың жеке пайдалануы үшін жабдықтар</td>
-</tr>
-<tr>
-<td>1157</td>
-<td colspan="4">Оқулықтар, ауыстыратын аяқ киімін және спорттық құралдарын сақтауға арналған жеке шкаф</td>
-<td colspan="2">дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="8">
-<strong>Әкімшілік бөлмелердің жабдықтар және жиһазы</strong>
-</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td>атауы</td>
-<td colspan="3">өлшем бөліктері</td>
-<td>саны</td>
-</tr>
-<tr>
-<td colspan="8">Директор кабинеті</td>
-</tr>
-<tr>
-<td colspan="3">1100</td>
-<td>Жинақтамадағы жетекшінің үстелі</td>
-<td colspan="3">жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1101</td>
-<td>Жетекші креслосы</td>
-<td colspan="3">дна</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1102</td>
-<td>Жартылай жұмсақ орындық</td>
-<td colspan="3">дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="3">1103</td>
+<td>3269</td>
 <td>Кабинетке арналған шкаф</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1104</td>
-<td>Жүйелік блок</td>
-<td colspan="3">дана</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1105</td>
-<td>Монитор</td>
-<td colspan="3">дана</td>
+<td>3270</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1106</td>
-<td>Микрофонды-телефондық гарнитурі</td>
-<td colspan="3">дана</td>
+<td>3271</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1115</td>
-<td>Акустикалық жүйе</td>
-<td colspan="3">дана</td>
-<td>1</td>
+<th colspan="4">Қабылдау бөлмесі-іс жүргізу кабинеті</th>
 </tr>
 <tr>
-<td colspan="3">1116</td>
-<td>Желілік фильтр</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="8">Қабылдау бөлмесі</td>
-</tr>
-<tr>
-<td colspan="3">1118</td>
+<td>3272</td>
 <td>Кабинетке арналған үстел</td>
-<td colspan="3">жинақтама</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1119</td>
-<td>Кресло</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1120</td>
+<td>3273</td>
 <td>Жартылай жұмсақ орындық</td>
-<td colspan="3">дана</td>
+<td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td colspan="3">1121</td>
+<td>3274</td>
 <td>Кабинетке арналған шкаф</td>
-<td colspan="3">дана</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1122</td>
-<td>Жүйелік блок</td>
-<td colspan="3">дана</td>
+<td>3275</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1123</td>
-<td>Монитор</td>
-<td colspan="3">дана</td>
+<td>3276</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1124</td>
-<td>Желілік фильтр</td>
-<td colspan="3">дана</td>
-<td>2</td>
+<th colspan="4">Әдістемелік кабинет / мұғалімдербөлмесі</th>
 </tr>
 <tr>
-<td colspan="3">1125</td>
-<td>Көпфункциялық құрылғы</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1126</td>
-<td>Әдістемелік кабинет</td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">1127</td>
+<td>3277</td>
 <td>Кабинетке арналған үстел</td>
-<td colspan="3">дана</td>
+<td>дана</td>
+<td>педагогтердің жалпы санынан 30%</td>
+</tr>
+<tr>
+<td>3278</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>педагогтердің жалпысанынан 30%</td>
+</tr>
+<tr>
+<td>3279</td>
+<td>Кабинетке арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3280</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3281</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3282</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Кітаптар қоймасы және оқу залы бар кітапхана</th>
+</tr>
+<tr>
+<td>3283</td>
+<td>Ресепшн немесе кітапханашының үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3284</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло немесе орындық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3285</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
 <td>2</td>
 </tr>
 <tr>
-<td colspan="3">1128</td>
-<td>Жартылай жұмсақ орындық</td>
-<td colspan="3">дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">1129</td>
-<td>Кабинетке арналған шкаф</td>
-<td colspan="3">дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">1129</td>
-<td>Жүйелік блок</td>
-<td colspan="3">дана</td>
+<td>3286</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1130</td>
-<td>Монитор</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1131</td>
-<td>Микрофонды-телефондық гарнитуры</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1132</td>
-<td>Web-камера</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1133</td>
+<td>3287</td>
 <td>Акустикалық жүйе</td>
-<td colspan="3">дана</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1134</td>
-<td>Желілік фильтр</td>
-<td colspan="3">дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="3">1135</td>
-<td>Көпфункциялық құрылғы</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1136</td>
-<td>Интерактивті тақта немесе экран</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1137</td>
-<td>Проектор</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1138</td>
-<td>Проекторға арналған бекіткіш</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1139</td>
-<td>Электронды оқу басылымдарының жинақтамасы</td>
-<td colspan="3">жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1140</td>
-<td>Орынбасарлар кабинеті</td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">1141</td>
-<td>Кабинетке арналған үстел</td>
-<td colspan="3">жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1142</td>
-<td>Дөңгелегі бар кресло</td>
-<td colspan="3">дана</td>
+<td>3288</td>
+<td>Микрофонды-телефон гарнитурасы</td>
+<td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td colspan="3">1143</td>
+<td>3289</td>
+<td>Түптелген құрал-жабдықтар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3290</td>
+<td>Кітаптарды жөндеуге арналған құралдар мен материалдар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3291</td>
+<td>Кітапхана қоры: оқу, анықтама, көркем әдебиет және басылымдар, аудио-бейнетека</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3292</td>
+<td>Оқырман формулярларына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3293</td>
+<td>Көрмелік кітапхана сөресі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3294</td>
+<td>Кітапхана сөресі</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3295</td>
+<td>Мерзімді басылымдарға арналған кітапхана шкафы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3296</td>
+<td>Бір орынды компьютер үстелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3297</td>
+<td>Оқырман үстелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3298</td>
 <td>Жартылай жұмсақ орындық</td>
-<td colspan="3">дана</td>
+<td>дана</td>
 <td>4</td>
 </tr>
 <tr>
-<td colspan="3">1144</td>
-<td>Кабинетке арналған шкаф</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">114</td>
-<td>Жүйелік блок</td>
-<td colspan="3">дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">1146</td>
-<td>Монитор</td>
-<td colspan="3">дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1147</td>
-<td>Желілік фильтр</td>
-<td colspan="3">дана</td>
+<td>3299</td>
+<td>Қабырға картиналары</td>
+<td>дана</td>
 <td>4</td>
 </tr>
 <tr>
-<td colspan="3">1148</td>
-<td>Көпфункциялық құрылғы</td>
-<td colspan="3">дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Әкімшілік-шаруашылық істері жөніндегі директор орынбасарының кабинеті</td>
-</tr>
-<tr>
-<td colspan="3">1149</td>
-<td colspan="3">Біртумбалы үстел</td>
+<td>3300</td>
+<td>Журнал үстелі</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1150</td>
-<td colspan="3">Жартылай жұмсақ орындық</td>
+<td>3301</td>
+<td>Жұмсақ орындық</td>
 <td>дана</td>
-<td>2</td>
+<td>4</td>
 </tr>
 <tr>
-<td colspan="3">1151</td>
-<td colspan="3">Кабинетке арналған шкаф</td>
+<th colspan="4">Акт залы</th>
+</tr>
+<tr>
+<td>3302</td>
+<td>Секциялық кресло</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3303</td>
+<td>Дәрістрибунасы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="8">Бухгалтерия</td>
-</tr>
-<tr>
-<td colspan="3">1152</td>
-<td colspan="3">Кабинетке арналған үстел</td>
-<td>жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1153</td>
-<td colspan="3">Жартылай жұмсақ орындық</td>
+<td>3304</td>
+<td>Төралқаға арналған үстел</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1154</td>
-<td colspan="3">Кабинетке арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1155</td>
-<td colspan="3">Өртке төзімді сейф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1156</td>
-<td colspan="3">Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1157</td>
-<td colspan="3">Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1158</td>
-<td colspan="3">Желілік фильтр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1159</td>
-<td colspan="3">Көпфункциялық құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Кітапхана</td>
-</tr>
-<tr>
-<td colspan="3">1160</td>
-<td colspan="3">Кітапханашының жұмыс орны</td>
-<td>жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1161</td>
-<td colspan="3">Оқырман формулярларына арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1162</td>
-<td colspan="3">Шкаф-картотека</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">1163</td>
-<td colspan="3">Кітапханалық стеллаж</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1164</td>
-<td colspan="3">Оқу жұмыс үстелі</td>
+<td>3305</td>
+<td>Төралқаға арналған орындық немесе кресло</td>
 <td>дана</td>
 <td>3</td>
 </tr>
 <tr>
-<td colspan="3">1165</td>
-<td colspan="3">Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="3">1166</td>
-<td colspan="3">Жүйелік блок</td>
+<td>3306</td>
+<td>Ноутбук</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1167</td>
-<td colspan="3">Монитор</td>
+<td>3307</td>
+<td>Сцена</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1168</td>
-<td colspan="3">Микрофонды-телефондық гарнитура</td>
+<td>3308</td>
+<td>Шымылдық және сахна киімі</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3309</td>
+<td>Проекторы бар экран /LED-экран</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3310</td>
+<td>Сахнаны жарықтандыруға арналған жабдық</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3311</td>
+<td>Акт залы мен төралқа үстеліне арналған дыбыс жабдығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3312</td>
+<td>Сымсыз технологиялары бар музыкалық орталық (аппаратура)</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1169</td>
-<td colspan="3">Web-камера</td>
+<td>3313</td>
+<td>Дыбыс/жарық операт орының жұмыс орны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Акт залына немесе музыка кабинетіне арналған музыкалық жабдықтар мен құралдар жиыны</th>
+</tr>
+<tr>
+<td>3314</td>
+<td>Аса таяқ</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1170</td>
-<td colspan="3">Акустикалық жүйе</td>
+<td>3315</td>
+<td>Баян</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1171</td>
-<td colspan="3">Желілік фильтр</td>
+<td>3316</td>
+<td>Дауылпаз</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3317</td>
+<td>Домбыра</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3318</td>
+<td>Жиынтықтағы сылдырмақтар</td>
+<td>жиынты</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3319</td>
+<td>Ксилофон</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3320</td>
+<td>Сырнай</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3321</td>
+<td>Музыкалық тақырыптар кестесі</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3322</td>
+<td>Тұяқтас</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3323</td>
+<td>Флипчарт/ноталық сызба</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3324</td>
+<td>Шаң қобыз</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3325</td>
+<td>Музыкалық аспаптарды сақтауға арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Серверлік</th>
+</tr>
+<tr>
+<td>3326</td>
+<td>Сервер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3327</td>
+<td>Үздіксіз қуат беру көзі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3328</td>
+<td>Желілік фильтр</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td colspan="3">1172</td>
-<td colspan="3">Көпфункциялық құрылғы</td>
+<td>3329</td>
+<td>Қол жеткізу коммутаторы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="8">Кітапхана қоры</td>
-</tr>
-<tr>
-<td colspan="3">1173</td>
-<td colspan="3">Оу әдебиеті</td>
-<td>жинақтама</td>
+<td>3330</td>
+<td>Коммутациялық шкаф</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1174</td>
-<td colspan="3">Анықтамалық әдебиет</td>
-<td>жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1175</td>
-<td colspan="3">Көркем әдебиет</td>
-<td>жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1176</td>
-<td colspan="3">Басқа басылымдар</td>
-<td>жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1177</td>
-<td colspan="3">Аудио-видеотека</td>
-<td>жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1178</td>
-<td colspan="3">Планшетті түрдегі электронды кітаптар</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1179</td>
-<td colspan="3">Кітап түптейтін құрал-жабдықтар мен материалдар жинақтамасы</td>
-<td>жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1180</td>
-<td colspan="3">Кітаптарды жөндеуге және түптеу жұмыстарына арналған құрал-сайман мен материалдар</td>
-<td>жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Ұсынылатын жабдықтар мен жиһаз</td>
-</tr>
-<tr>
-<td colspan="3">1181</td>
-<td colspan="3">Компьютер үстелі</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="3">1182</td>
-<td colspan="3">Кресло</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1183</td>
-<td colspan="3">Теледидар тумбасы</td>
+<td>3331</td>
+<td>Үстел</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1184</td>
-<td colspan="3">А-3 форматты көпфункциялық құрылғы</td>
+<td>3332</td>
+<td>Кресло немесе орындық</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1185</td>
-<td colspan="3">Кітап сканері</td>
+<td>3333</td>
+<td>Медициналық дәрі қобдишасы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="3">1186</td>
-<td colspan="3">Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
+<th colspan="4">Бастауыш мектеп</th>
 </tr>
 <tr>
-<td colspan="3">1187</td>
-<td colspan="3">Электронды картотека</td>
+<td>3334</td>
+<td>Бастауыш сыныптардың кабинеттері</td>
+<td rowspan="12">Жинақ</td>
+<td rowspan="12">Бастауыш білім беру ұйымдарын жабдықтар мен және жиһазбен жабдықтау нормаларына сәйкес оқу шылар санына пропорционалдытүрде жүргізіледі. Жеке кабинеттерді біріктіруге болады.</td>
+</tr>
+<tr>
+<td>3335</td>
+<td>Бастауыш мектепте лингвистикалық бағыттағы пәндерді бөлек оқытуға ұсынылатын кабинет ( қазақша Я2/ орысша Я2 / ағылшынша Я3)</td>
+</tr>
+<tr>
+<td>3336</td>
+<td>Цифрлық сауаттылық, робототехника информатика сабақтарын өткізуге арналған кабинет</td>
+</tr>
+<tr>
+<td>3337</td>
+<td>Бастауыш мектепке арналған дене шынықтыру залы</td>
+</tr>
+<tr>
+<td>3338</td>
+<td>Гимнастикамен айналысуға арналған құрал- жабдықтар</td>
+</tr>
+<tr>
+<td>3339</td>
+<td>Жеңіл атлетикамен айналысуға арналған құрал-жабдықтар</td>
+</tr>
+<tr>
+<td>3340</td>
+<td>Шаңғы жарыстары мен коньки мен жүгіру дайындығына арналған құрал-жабдықтар</td>
+</tr>
+<tr>
+<td>3341</td>
+<td>Қозғалмалы және спорттық ойындарға арналған жабдықтар</td>
+</tr>
+<tr>
+<td>3342</td>
+<td>Спорт алаңы</td>
+</tr>
+<tr>
+<td>3343</td>
+<td>Бастауыш мектептің барлық кабинеттеріне 1 жиын есебінен жабдықтар мен керек-жарақтар</td>
+</tr>
+<tr>
+<td>3344</td>
+<td>Мектеп алды даярлық кабинеті</td>
+</tr>
+<tr>
+<th colspan="2">Білім алушылардың жеке пайдалануына арналған жабдық</th>
+</tr>
+<tr>
+<td>3345</td>
+<td>Оқулықтарды, аяқ киімді,спорттық керек-жарақтарды және сыртқы киімді сақтауға арналған жеке шкаф</td>
 <td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3346</td>
+<td>Ерекше қажет тілігі бар балалардың білім алуына арнайы жағдай жасау үшін ұсынылатын жабдықтар мен жиһаз</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="3">1188</td>
-<td colspan="3">Теледидар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1189</td>
-<td colspan="3">Анықтамалық жүйеге арналған ақпараттық киоск</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Акт залы</td>
-</tr>
-<tr>
-<td colspan="3">1190</td>
-<td colspan="3">Секциялық кресло</td>
-<td>жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1191</td>
-<td colspan="3">Дәрістік мінбер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1192</td>
-<td colspan="3">Сахна киімдері және антрактілік-жылжымалы перде</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1193</td>
-<td colspan="3">Сахна мен радиорубкаға арналған жиһаз</td>
-<td>жинақтама</td>
+<td>3347</td>
+<td>Қауіпсіздікті қамтамасыз ету үшін ұсынылған құрал- жабдықтар</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="3">1194</td>
-<td colspan="3">Төралқаға арналған үстел</td>
-<td>дана</td>
-<td>1</td>
+<th colspan="4">Негізгі мектеп</th>
 </tr>
 <tr>
-<td colspan="3">1195</td>
-<td colspan="3">Төралқаға арналған орындық немесе кресло</td>
-<td>дана</td>
-<td>6</td>
+<td>3348</td>
+<td>Қазақ тілі мен әдебиеті кабинеті</td>
+<td rowspan="24">Жинақ</td>
+<td rowspan="24">негізгі білім беру ұйымдарын жабдықтар мен және жиһазбен жабдықтау нормаларына сәйкес оқу шылар санына пропорционалдытүрде жүргізіледі. Жеке кабинеттерді біріктіруге болады.</td>
 </tr>
 <tr>
-<td colspan="3">1196</td>
-<td colspan="3">Ноутбук</td>
-<td>дана</td>
-<td>1</td>
+<td>3349</td>
+<td>Ағылшын тілі кабинеті</td>
 </tr>
 <tr>
-<td colspan="3">1197</td>
-<td colspan="3">Проектор</td>
-<td>дана</td>
-<td>1</td>
+<td>3350</td>
+<td>Орыс тілі мен әдебиеті кабинеті</td>
 </tr>
 <tr>
-<td colspan="3">1198</td>
-<td colspan="3">Проекторға арналған бекіткіш немесе үстел</td>
-<td>дана</td>
-<td>1</td>
+<td>3351</td>
+<td>Мемлекет және құқық тарихы мен негіздері кабинеті</td>
 </tr>
 <tr>
-<td colspan="3">1199</td>
-<td colspan="3">Проекциялық үлкен экран</td>
+<td>3352</td>
+<td>Музыка кабинеті</td>
+</tr>
+<tr>
+<td>3353</td>
+<td>Математика кабинеті</td>
+</tr>
+<tr>
+<td>3354</td>
+<td>Информатика кабинеті (IT- сынып)</td>
+</tr>
+<tr>
+<td>3355</td>
+<td>Робототехника кабинеті</td>
+</tr>
+<tr>
+<td>3356</td>
+<td>STEM кабинет</td>
+</tr>
+<tr>
+<td>3357</td>
+<td>Ұсынылған биотехнология кабинеті</td>
+</tr>
+<tr>
+<td>3358</td>
+<td>Ұсынылған нанотехнология кабинеті</td>
+</tr>
+<tr>
+<td>3359</td>
+<td>География кабинеті</td>
+</tr>
+<tr>
+<td>3360</td>
+<td>Зертханасы бар біріктірілген химия және биология кабинеті</td>
+</tr>
+<tr>
+<td>3361</td>
+<td>Зертханасы бар физика кабинеті</td>
+</tr>
+<tr>
+<td>3362</td>
+<td>«Бейнелеу өнері», «Тамақтану мәдениеті», «Үй мәдениеті», «Дизайн және технология» бөлімдері бойынша біріктірілген шеберханалар</td>
+</tr>
+<tr>
+<td>3363</td>
+<td>Ұсынылған «Қыш студиясы»</td>
+</tr>
+<tr>
+<td>3364</td>
+<td>Дене шынықтыру мұғалімдерінің кабинеті</td>
+</tr>
+<tr>
+<td>3365</td>
+<td>Құрал – жабдықтарды сақтауға арналған бөлме</td>
+</tr>
+<tr>
+<td>3366</td>
+<td>Спорт залы мен секциялардың жабдықтары</td>
+</tr>
+<tr>
+<td>3367</td>
+<td>Шаңғы жарыстары мен конькимен жүгіру дайындығына арналған құрал- жабдықтар</td>
+</tr>
+<tr>
+<td>3368</td>
+<td>Жеңіл атлетикамен айналысуға арналған құрал-жабдықтар</td>
+</tr>
+<tr>
+<td>3369</td>
+<td>Спорттық ойындарға арналған құрал-жабдықтар</td>
+</tr>
+<tr>
+<td>3370</td>
+<td>Спорт алаңы</td>
+</tr>
+<tr>
+<th colspan="2">Білім алушылардың жеке пайдалануына арналған жабдық</th>
+</tr>
+<tr>
+<td>3371</td>
+<td>Оқулықтарды, аяқ киімді,спорттық керек-жарақтарды және сыртқы киімді сақтауға арналған жеке шкаф</td>
 <td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3372</td>
+<td>Ерекше қажеттілігі бар балалардың білім алуына арнайы жағдай жасау үшін ұсынылатын құрал- жабдықтар мен жиһаз</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="3">1200</td>
-<td colspan="3">Тіреуі бар колонка</td>
-<td>жинақтама</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1201</td>
-<td colspan="3">Сымсыз микрофон</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="3">1202</td>
-<td colspan="3">Сым тартылған микрофон</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">1203</td>
-<td colspan="3">Микрофондарға арналған тірек</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="3">1204</td>
-<td colspan="3">Пульт-микшер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1205</td>
-<td colspan="3">Синтезатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1206</td>
-<td colspan="3">Күшейткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1207</td>
-<td colspan="3">Музыкалық орталық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="8">Жүйелік-коммуникативті торабының жиһазы мен құрал-жабдықтар тізімі</td>
-</tr>
-<tr>
-<td colspan="3">1208</td>
-<td colspan="3">Сервер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1209</td>
-<td colspan="3">Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1210</td>
-<td colspan="3">Үздіксіз қоректендіру көзі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1211</td>
-<td colspan="3">Желілік фильтр</td>
-<td>дана</td>
+<td>3373</td>
+<td>Қауіпсіздікті қамтамасыз ету үшін ұсынылған құрал- жабдықтар</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="3">1212</td>
-<td colspan="3">Қолжетімділік коммутаторы</td>
+<th colspan="4">Орта мектеп</th>
+</tr>
+<tr>
+<td>3374</td>
+<td>Қазақ тілі мен әдебиеті кабинеті</td>
+<td rowspan="24">Жинақ</td>
+<td rowspan="24">Жалпы орта білім беру ұйымдарын жабдықтар мен және жиһазбен жабдықтау нормаларына сәйкес оқу шылар санына пропорционалдытүрде жүргізіледі. Жеке кабинеттерді біріктіруге болады.</td>
+</tr>
+<tr>
+<td>3375</td>
+<td>Ағылшын тілі кабинеті</td>
+</tr>
+<tr>
+<td>3376</td>
+<td>Орыс тілі мен әдебиеті кабинеті</td>
+</tr>
+<tr>
+<td>3377</td>
+<td>Мемлекет және құқық тарихы мен негіздері кабинеті</td>
+</tr>
+<tr>
+<td>3378</td>
+<td>Математика кабинеті</td>
+</tr>
+<tr>
+<td>3379</td>
+<td>Информатика кабинеті (IT-сынып)</td>
+</tr>
+<tr>
+<td>3380</td>
+<td>Робототехника кабинеті</td>
+</tr>
+<tr>
+<td>3381</td>
+<td>STEM кабинет</td>
+</tr>
+<tr>
+<td>3382</td>
+<td>Ұсынылған биотехнология кабинеті</td>
+</tr>
+<tr>
+<td>3383</td>
+<td>Ұсынылған нанотехнология кабинеті</td>
+</tr>
+<tr>
+<td>3384</td>
+<td>Жобалау және графика кабинеті</td>
+</tr>
+<tr>
+<td>3385</td>
+<td>География кабинеті</td>
+</tr>
+<tr>
+<td>3386</td>
+<td>Зертханасы бар физика кабинеті</td>
+</tr>
+<tr>
+<td>3387</td>
+<td>Зертханасы бар біріктірілген химия және биология кабинеті</td>
+</tr>
+<tr>
+<td>3388</td>
+<td>АӘ және ТД кабинеті</td>
+</tr>
+<tr>
+<td>3389</td>
+<td>Ұсынылған «Бейнелеу өнері» кабинеті</td>
+</tr>
+<tr>
+<td>3390</td>
+<td>Ұсынылған «Қыш студиясы»</td>
+</tr>
+<tr>
+<td>3391</td>
+<td>Дене шынықтыру мұғалімдерінің кабинеті</td>
+</tr>
+<tr>
+<td>3392</td>
+<td>Құрал-жабдықтарды сақтауға арналған бөлме</td>
+</tr>
+<tr>
+<td>3393</td>
+<td>Спорт залы мен секциялардың жабдықтары</td>
+</tr>
+<tr>
+<td>3394</td>
+<td>Шаңғы жарыстары мен коньки менжүгіру дайындығына арналған құрал-жабдықтар</td>
+</tr>
+<tr>
+<td>3395</td>
+<td>Жеңіл атлетикамен айналысуға арналған құрал- жабдықтар</td>
+</tr>
+<tr>
+<td>3396</td>
+<td>Спорттық ойындарға арналған құрал-жабдықтар</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>3397</td>
+<td>Спорт алаңы</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<th colspan="4">Негізгі орта мектеп білім алушылардың жеке пайдалануына арналған жабдық</th>
+</tr>
+<tr>
+<td>3398</td>
+<td>Оқулықтарды, аяқ киімді,спорттық керек-жарақтарды және сыртқы киімді сақтауға арналған жеке шкаф</td>
 <td>дана</td>
-<td>1</td>
+<td>10</td>
 </tr>
 <tr>
-<td colspan="3">1213</td>
-<td colspan="3">Коммутациялық шкаф</td>
-<td>жинақтама</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1214</td>
-<td colspan="3">Үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1215</td>
-<td colspan="3">Кресло</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">1246</td>
-<td colspan="3">Медициналық дәрі қорап</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-</table>
-<strong>Жалпы орта білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормалары</strong>
-Ескерту. Бөлімге өзгерістер енгізілді - ҚР Білім және ғылым министрінің 03.07.2017 № 317 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.
-<table>
-<tr>
-<td colspan="2">№</td>
-<td>атауы</td>
-<td>Өлшем бірліктер</td>
-<td>саны</td>
-</tr>
-<tr>
-<td colspan="5">Қазақ тілі мен әдебиеті кабинетіне арналған оқу құралдар тізбесі (оқыту қазақ тілінде)</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>Электронды оқу басылымдарының</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>DVD –дағы бейнефильмдер</td>
-<td>жиынтық</td>
+<td>3399</td>
+<td>Ерекше қажеттілігі бар балалардың білім алуына арнайы жағдай жасау үшін ұсынылатын құрал- жабдықтар мен жиһаз</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">3</td>
-<td>Электронды плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>Дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>Үлестірмематериалдар</td>
-<td>жиынтық</td>
+<td>3400</td>
+<td>Қауіпсіздікті қамтамасыз ету үшін ұсынылған құрал- жабдықтар</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">6</td>
-<td>Картиналар көшірмелерінің жинағы</td>
-<td>жинақ</td>
-<td>1</td>
+<th colspan="4">Жаратылыстану-ғылыми цикл пәндерін зерделеу үшін ұсынылатын біріктірілген кабинет</th>
 </tr>
 <tr>
-<td colspan="2">7</td>
-<td>Ұлы адамдар, ақын-жазушылардың портреттері</td>
-<td>жиынтық</td>
-<td>1</td>
+<th></th>
+<th>Жиһаз</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td colspan="2">8</td>
-<td>Лексика, морфология, синтаксис, фонетика бойынша плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>Сөздік</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>Жыр жинақтарының жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>Көркем әдебиеттер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>Анықтамалық және әдістемелік әдебиеттер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>Пластиктен жасалған қабырға көрнекіліктер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Шет тілдері кабинеті</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>Аудиториялық қабырғаға ілінетін тақта</td>
+<td>3401</td>
+<td>Маркер мен және бормен жазылатын бес элементті құрама тақта</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
-<td>Оқытушыға арналған үстел компьютерге арналған приставкасымен</td>
+<td>3402</td>
+<td>Компьютерге арналған жалғамасы бар оқытушы үстелі</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">16</td>
-<td>Оқытушыға арналған орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>Екі орынды оқушыға арналған үстел</td>
-<td>дана</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>Микрофон-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>Желілік сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>Көпфункциональды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>Интербелсенді тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td>Проекторды төбеге бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td>Электронды оқулықтар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td>DVD-ға арналған шет тілін оқытатын бейнефильмдер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td>CD дискідегі аудиожазбалар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td>Электронды плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td>Транскрипияланған әліпби</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td>Меңгерілетін тіл бойынша альбомдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">37</td>
-<td>Меңгерілетін тіл бойынша карталар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">38</td>
-<td>Дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">39</td>
-<td>Үлестірме материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">40</td>
-<td>Меңгерілетін тіл бойынша мемлекеттің ұлы адамдарының портреттері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td>Оқытылатын шет тілінің грамматикасы бойынша жиынтық</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td>20000 сөзге арналған екі тілді сөздік</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="2">43</td>
-<td>Оқытылатын тілдегі түсіндірме сөздік</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td>Әдебиеттік оқу</td>
-<td>жиынтық</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td>Анықтамалық, ғылыми-көпшілік және әдістемелік әдебиеттер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td>Қабырға көрнекіліктер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Математика кабинеті</td>
-</tr>
-<tr>
-<td colspan="2">47</td>
-<td>Аудиториялық қабырға тақтасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">48</td>
-<td>Компьютерге арналған жанама құрылғысы бар үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">49</td>
-<td>Мұғалім орындығы</td>
-<td>дна</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">50</td>
-<td>Екі орынды оқушы үтелі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">51</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">52</td>
-<td>Жартылай шынылы жабық шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">53</td>
-<td>Жүйел блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">54</td>
-<td>Монито</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">55</td>
-<td>Микрофонды телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">56</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">57</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">58</td>
-<td>Жүйелілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">59</td>
-<td>Көпфункцияналды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">60</td>
-<td>Интерактивті тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">61</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">62</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">63</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">64</td>
-<td>Салу құралдарының</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">65</td>
-<td>Штангенциркульдің пластикалық моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">66</td>
-<td>«Ықтималдық теориясы» тарауын игеруге арналған</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">67</td>
-<td>Көпжақтар мен олардың жазбаларының</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">68</td>
-<td>Стерженьді геометриялық фигуралардың</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">69</td>
-<td>Стерженьді шардың моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">70</td>
-<td>Үлестірмелі геометриялық фигуралар</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">71</td>
-<td>Көлемді геометриялық фигуралар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">72</td>
-<td>Ішкі бөлігі көрінетін геометриялық фигуралар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">73</td>
-<td>Дөңгелектің және оның бөліктерінің магнитті</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">74</td>
-<td>Магнитті жазық геометриялық фигуралар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">75</td>
-<td>Дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">76</td>
-<td>Үлестірмелі материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">77</td>
-<td>Ұлы математиктердің портреттерінің</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">78</td>
-<td>Математика кабинетіне арналған плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">79</td>
-<td>Анықтамалық, әдістемелік және ғылыми-көпшілік әдебиеттер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">80</td>
-<td>Электронды басылымдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">81</td>
-<td>Видеофильмдер (DVD)</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">82</td>
-<td>Электронды плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">83</td>
-<td>Математика пәнінен мультимедиялық құралдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">84</td>
-<td>Математика кабинетіне арналған 2,8х1метр қабырға плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Орыс тілінде оқытатын жалпы орта білім беру ұйымдарының орыс тілі мен әдебиеті кабинеті</td>
-</tr>
-<tr>
-<td colspan="2">85</td>
-<td>Электронды оқу басылымдарының</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">86</td>
-<td>DVD бейнефильмдер жнақтамасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">87</td>
-<td>Электронды плакаттар жинақтамасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">88</td>
-<td>Дидактикалық материалдар жинақтамасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">89</td>
-<td>раздаточных материалов</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">90</td>
-<td>Суреттер репродукциялары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">91</td>
-<td>Атақты адамдар, жазушылар мен ақындардың портреттердің</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">92</td>
-<td>Комплект плакатов по синтаксис, фонетика, орфоэпия, грамматика, сөзжасам, емле ережесі бойынша плакаттар жинақтамасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">93</td>
-<td>Орфографиялық сөздік</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">94</td>
-<td>Мектеп антонимдер мен синонимдер сөздігі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">95</td>
-<td>Мектеп фразеологиялық сөздігі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">96</td>
-<td>Мектеп түсіндірмелі сөздігі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">97</td>
-<td>Поэтикалық жинақтар жинақтамасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">98</td>
-<td>Көркем әдебиет жинақтамасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">99</td>
-<td>Анықтамалық және әдістемелік әдебиеттерінің жинақтамасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">100</td>
-<td>Пластиктан жасалған қабырға плакаттарының жинақтамасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Физика кабинеті мен лабораторияға арналан жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td colspan="2">101</td>
-<td>Аудиториялық қабырға тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">102</td>
-<td>Компьютерге арналған оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">103</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">104</td>
+<td>3403</td>
 <td>Демонстрациялық үстел</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">105</td>
-<td>Зертханалық оқушы үстелі</td>
+<td>3404</td>
+<td>Шынтақшалары бар аунақшаларда айналатын кресло</td>
 <td>дана</td>
-<td>13</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">106</td>
-<td>Мұғалім орындығы</td>
-<td>дана</td>
-<td>25</td>
+<td>3405</td>
+<td>Оқушыларға арналған екі орынды зертханалық үстелдер жиыны</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">107</td>
-<td>Жартылай әйнектелген шкаф</td>
-<td>дана</td>
-<td>3</td>
+<td>3406</td>
+<td>Оқушы орындықтарының жиыны</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="2">108</td>
+<td>3407</td>
+<td>Ашық және жабық сөрелері бар оқу -көрнекі құралдарына арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Зертхана бөлмесіне арналған жиһаз</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3408</td>
 <td>Бір тумбалы үстел</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">109</td>
+<td>3409</td>
+<td>Мұғалімге арналған су және электрқуаты бар мобильді тумба</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3410</td>
+<td>Оқушыларға арналған су және электрқуаты бар мобильді тумба</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3411</td>
 <td>Жартылай жұмсақ орындық</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td colspan="2">110</td>
+<td>3412</td>
+<td>Киімге арналған шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3413</td>
+<td>Жабық шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3414</td>
 <td>Ашық шкаф</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">111</td>
-<td>Жабық шкаф</td>
+<td>3415</td>
+<td>Химреактивтерді сақтауға арналған металлдан жасалған шкаф</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">112</td>
-<td>Киімге арналған шкаф</td>
+<th></th>
+<th>Оқытудың техникалық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3416</td>
+<td>Интерактивті панель</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">113</td>
-<td>Жабдықты сақтауға арналған шкаф</td>
+<td>3417</td>
+<td>Микрофон-телефон гарнитурасы мен және web-камера мен жабдықталған интернетке кіру мүмкіндігі бар дербес компьютер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3418</td>
+<td>Үстелге арналған акустикалық жүйе</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">114</td>
-<td>Жүйелік блок</td>
+<td>3419</td>
+<td>Көп функциялық ұрылғы (көшіргіш/принтер/сканер)</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">115</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">116</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">117</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">118</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">119</td>
+<td>3420</td>
 <td>Желілік фильтр</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td colspan="2">120</td>
-<td>Көпфункционалды құрылғы</td>
+<th></th>
+<th>Жалпы мақсаттағы керек-жарақтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3421</td>
+<td>Зертханалық құрамдас монша</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">121</td>
-<td>Интерактивтік тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">122</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">123</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">124</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Тәжірибелер жүргізуге арналған сандық интерактивтік зертхана</td>
-</tr>
-<tr>
-<td colspan="2">125</td>
-<td>Интерфейс</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">126</td>
-<td>Деректерді жазуға, көрсетуге және талдауға арналған оқу бағдарламалық қамсыздандыру</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">127</td>
-<td>Гальванометрикалық датчик</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">128</td>
-<td>Электрлік схемаларды құру үшін жинақ</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">129</td>
-<td>Айнымалы кернеу датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">130</td>
-<td>Екі диапазонды күш датчигі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">131</td>
-<td>Сандық тұрақты қуат көзі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">132</td>
-<td>Жарықтандыру датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">133</td>
-<td>Акселерометрлік датчик</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">134</td>
-<td>Магнит өрісін өлшеу датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">135</td>
-<td>Қозғалыс датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">136</td>
-<td>Айналым датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">137</td>
-<td>Фотобекітпелі датчик</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">138</td>
-<td>Динамикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">139</td>
-<td>Әдістемелік нұсқаулар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">140</td>
-<td>Датчиктерді орау үшін төсеулер</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">141</td>
-<td>Электрондық плакаттар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">142</td>
-<td>Электрондық оқулықтардың жинағы</td>
+<td>3422</td>
+<td>200 грамм (0,1 грамм) дейінгі электрондық таразылар</td>
 <td>дана</td>
 <td>3</td>
 </tr>
 <tr>
-<td colspan="2">143</td>
-<td>7-11 сыныптарға арналған физика бойынша сынақтар үшін оқу-бағдарламалық кешен</td>
-<td>жиынтық</td>
+<td>3423</td>
+<td>Гер барийлер мен коллекциялар жиыны</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">144</td>
-<td>Физикалық эксперименттерді 3D модельдеу үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">145</td>
-<td>Физика кабинеті үшін зертханалық ыдыс және жабдық жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">146</td>
-<td>Демонстрациялық амперметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">147</td>
-<td>Барометр-анероид</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">148</td>
-<td>Демонстрациялық ваттметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">149</td>
-<td>Электрондық таразы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">150</td>
-<td>Демонстрациялық вольтметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">151</td>
-<td>Демонстрациялық бір полюсті сөндіргіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">152</td>
-<td>Гигрометр 0-25 С</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">153</td>
-<td>Гигрометр 15-40 С</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">154</td>
-<td>Демонстрациялық динамометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">155</td>
-<td>Бұдыр және бүгілген айна (топтама)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">156</td>
-<td>Резонансты жәшік камертоны (жұп)</td>
-<td>жұп</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">157</td>
-<td>Демонстрациялық блогы топтамасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">158</td>
-<td>Демонстрациялық кедергілер дүкені</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">159</td>
-<td>Демонстрациялық U-пішінді магнит</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">160</td>
-<td>Демонстрациялық тілме магнит</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">161</td>
-<td>Демонстрациялық сұйықтық манометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">162</td>
-<td>Вимшурстың генераторы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">163</td>
-<td>Іштен жанатын қозғалтқыш моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">164</td>
-<td>Магниттің молекулалық құрылымының моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">165</td>
-<td>Электр қуатын есептеуіштің моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">166</td>
-<td>Электрлік схемаларды құру үшін жинақ</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">167</td>
-<td>Таяуышы бар 5 шар маятниктерінің жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">168</td>
-<td>Пластикалық 6 сынып сызбалардың құралдар жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">169</td>
-<td>Тар түтіктер жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">170</td>
-<td>Жаттығу сабағына арналған конденсаттар жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">171</td>
-<td>Жартылай өткізгіштер жиынтығы (диодтар)</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">172</td>
-<td>Жартылай өткізгіштер жиынтығы (транзисторлар және тиристорлар)</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">173</td>
-<td>Сымды резисторлар жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">174</td>
-<td>«Алғашқы электроника және электротехника» зертханалық панелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">175</td>
-<td>Магнитті өрісте рамканың айналуын демонстрациялау үшін қолданылатын аспап</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">176</td>
-<td>Ұзындылығына, кесімділігіне және материалына байланысты өткізгіштің кедергісінің тәуелділігін демонстрациялау үшін арналған құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">177</td>
-<td>Денелердің сызықты үлкейтілуін демонстрациялау үшін арналған құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">178</td>
-<td>Жылжымалы реостат</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">179</td>
-<td>Кольбе торы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">180</td>
-<td>Қатынасты ыдыстар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">181</td>
-<td>Көтерілмелі-қозғалмалы үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">182</td>
-<td>Штативтердегі магнитті бағыттауыштар (жұбы)</td>
-<td>жұп</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">183</td>
-<td>Телескоп</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">184</td>
-<td>Теллурий</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">185</td>
-<td>Демонстрациялау термометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">186</td>
-<td>Сұйықтық термометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">187</td>
-<td>Спирттік термометр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">188</td>
-<td>Демонстрациялау трибометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">189</td>
-<td>Ньютонның трубкасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">190</td>
-<td>Сүргісі бар қорғасын цилиндрлері</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">191</td>
-<td>Паскаль шары</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">192</td>
-<td>Сақиналы шар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">193</td>
-<td>Зертханалық Амперметр</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">194</td>
-<td>Зертханалық Вольтметр</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">195</td>
-<td>Бірплюсті зертханалық өшіргіш</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">196</td>
-<td>Зертханалық динамометр 2,5Н</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">197</td>
-<td>Зертханалық динамометр 5Н</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">198</td>
-<td>Зертханалық алғаш орамды орама</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">199</td>
-<td>Мектептік тұсбағдар</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">200</td>
-<td>Зертханалық блок жиынтығы</td>
-<td>жиынтық</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">201</td>
-<td>Жалғама сымдарының жиынтығы</td>
-<td>жиынтық</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">202</td>
-<td>Зертханалық ұстағыш шам</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">203</td>
-<td>Тұрғыдағы линза.</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">204</td>
-<td>Зертханалық U-пішінді магнит</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">205</td>
-<td>Зертханалық кесінділеп тілінген магнит</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">206</td>
-<td>Электр қозғағыштың моделі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">207</td>
-<td>Механика бойынша жүк</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">208</td>
-<td>Калориметриялық денелердін топтамасы немесе</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">209</td>
-<td>Бірдей көлемдегі денелер</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">210</td>
-<td>Бірдей салмақтағы денелердің өлшемі</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">211</td>
-<td>Лабораториялық штативтегі магнит</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">212</td>
-<td>Лабораториялық трибометр</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">213</td>
-<td>Лабораториялық аралас штативі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">214</td>
-<td>Элементтерді қуаттандыруға арналған батарея бөлімшесі</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td colspan="2">215</td>
-<td>Микроамперметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">216</td>
-<td>Миллиамперметр (ауыспалы ток)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">217</td>
-<td>Жалғастырғыш тетік</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">218</td>
-<td>Қуаттандыру элементі.</td>
-<td>дана</td>
-<td>100</td>
-</tr>
-<tr>
-<td colspan="2">219</td>
-<td>Чемодандағы лаборатория</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">220</td>
-<td>Көрсетілім жиынтығы «Жылу құбылысы»</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">221</td>
-<td>Дәрі – дәрмек қорабы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">222</td>
-<td>Физиктер суреттері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">223</td>
-<td>«Электромагнит толқындарының шкаласы» кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">224</td>
-<td>«Халықаралық бірліктер жүйесі» кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">225</td>
-<td>«Физика кабинетіндегі техникалық қауіпсіздік ережелері» кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">226</td>
-<td>«Жас физик» стенді</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Ұсынылатын жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">227</td>
-<td>Ыдыстар мен құрылғыларға арналған шкафтардағы тіреуіштер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">228</td>
-<td>Демонстрациялық «Оптика» жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">229</td>
-<td>Демонстрациалық қосымша «Оптика» жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">230</td>
-<td>«Электр және магниттілік» демонстрациялық жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">231</td>
-<td>«Механика» демонстрациялық жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">232</td>
-<td>«Жаңартылған энергия» ғылыми зерттеуін жүргізуге арналған оқыту жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">233</td>
-<td>Қабырғаға ілінетін маркері бар тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">234</td>
-<td>Компьютерге арналған притсавкасы бар оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">235</td>
-<td>Оқытушы креслосы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">236</td>
-<td>Компьютерге арналған оқушы үстелі</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td colspan="2">237</td>
-<td>Екі орындық оқушы үстелі</td>
-<td>дана</td>
-<td>7</td>
-</tr>
-<tr>
-<td colspan="2">238</td>
-<td>Оқушы үстелі</td>
-<td>дана</td>
-<td>28</td>
-</tr>
-<tr>
-<td colspan="2">239</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">240</td>
-<td>Мұғалімнің желілік блогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">241</td>
-<td>Оқушының желілік блогы</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td colspan="2">242</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="2">243</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">244</td>
-<td>Қабырғаға ілінетін акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">245</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="2">246</td>
-<td>Көпфункционалды жабдық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">247</td>
-<td>Желілік комутатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">248</td>
-<td>Желілік фильтр</td>
-<td>дана</td>
-<td>16</td>
-</tr>
-<tr>
-<td colspan="5">Интерактивтік, проекциялық және бағдарламалық қамтамасыз ету жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">249</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">250</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">251</td>
-<td>Интерактивтік тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">252</td>
-<td>Информатика бойынша оқу бағдармаларын жүзеге асыруға арналған бағдармалық құралдар жиынтығы</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="2">253</td>
-<td>Компьютерлік жүйелерді қолданумен қарым-қатынасты және топтық жұмысты ұйымдастыруға арналған бағдарлама</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">254</td>
-<td>Информатика бойынша басылым жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">255</td>
-<td>Оқыту курстардың жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">256</td>
-<td>Электрондық плакаттардың жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">257</td>
-<td>Анықтамалық және әдістемелік әдебиет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">258</td>
-<td>Информатика бойынша оқытатын плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">259</td>
-<td>Ауыспалы материалы бар стенд</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">260</td>
-<td>Дәрі-дәрмек қобдишасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">261</td>
-<td>Электрмен жабдықтаудың қалқаны</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">География кабинеті</td>
-</tr>
-<tr>
-<td colspan="2">262</td>
-<td>Аудиториялық қабырға тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">263</td>
-<td>Компьютерге арналған оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">264</td>
-<td>Желілік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">265</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">266</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">267</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">268</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">269</td>
-<td>Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">270</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">271</td>
-<td>Интерактивтік тақта және экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">272</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">273</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">274</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">275</td>
-<td>«География 6-9 сынып» электрондық оқулық жиынтығы</td>
-<td>жиынтық</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">276</td>
-<td>DVD видеофильмдер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">277</td>
-<td>«Пайдалы қазбалар» коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">278</td>
-<td>«Тау жыныстары мен минералдар» коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">279</td>
-<td>Жер глобусы – физикалық 320 миллиметрлік</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">280</td>
-<td>Айдың глобусы 320мм</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">281</td>
-<td>Жер құрылысының моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">282</td>
-<td>Жанартау моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">283</td>
-<td>Аспан сферасының моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">284</td>
-<td>Жер қыртысының жарылған жерінің моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">285</td>
-<td>Күн жүйесі моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">286</td>
-<td>Теңіз түбі бедерінің құрылысының моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">287</td>
-<td>Таудың қалыптасу моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">288</td>
-<td>Теллурий (Күн-Жер-Ай моделі)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">289</td>
-<td>Дүние жүзінің физикалық картасы 1:25 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">290</td>
-<td>Дүние жүзінің саяси картасы 1:25 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">291</td>
-<td>Дүние жүзінің халқы 1:25 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">292</td>
-<td>Мұхиттар картасы 1:25 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">293</td>
-<td>Еуразия (физикалық карта 1:12 500 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">294</td>
-<td>Еуропа (саяси карта 1:12 000 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">295</td>
-<td>Азия (физикалық карта 1:18 000 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">296</td>
-<td>Азия (саяси карта 1:18 000 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">297</td>
-<td>Африка (физикалық карта 1:8 600 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">298</td>
-<td>Африка (саяси карта 1:8 700 000)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">299</td>
-<td>Аустралия және Мұхиттық аралдар. Физикалық карта. Физикалық карта 1:10 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">300</td>
-<td>Аустралия және Мұхиттық аралдар. Физикалық карта. Саяси карта 1:10 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">301</td>
-<td>Солтүстік Америка. Физикалық карта. 1:8 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">302</td>
-<td>Солтүстік Америка. Әлеуметтік экономикалық карта. 1:8 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">303</td>
-<td>Солтүстік Америка. Саяси карта. 1:8 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">304</td>
-<td>АҚШ. Жалпыгеграфиялық карта 1:6 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">305</td>
-<td>АҚШ. Әлеуметтік-экономикалық карта карта 1:6 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">306</td>
-<td>Қазақстан Республикасының саяси-әкімшілік карта 1:1 500 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">307</td>
-<td>Қазақстан Республикасының саяси-әкімшілік карта 1:2 000 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">308</td>
-<td>Қазақстан Республикасының Физикалық карта 1:1 500 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">309</td>
-<td>Қазақстан Республикасының Физикалық карта 1:2 500 000</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">310</td>
-<td>Электрондық қашықтық өлшеуіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">311</td>
-<td>Оқушы компасы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">312</td>
-<td>Курвиметр</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">313</td>
-<td>Көздеу сызғышы</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">314</td>
-<td>«Ауа райын бақылау» ауыспалы зертхана</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">315</td>
-<td>Рулетка</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">316</td>
-<td>Медициналық дәрі-дәрмек қобдишасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">317</td>
-<td>«Физикалық география. Литосфера» кестесі 0,7 х 1 метр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">318</td>
-<td>«Физикалық география. Атмосфера» кестесі0,7 х 1 метр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">319</td>
-<td>«Физикалық география. Гидросфера» кестесі 0,7 х 1 метр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">320</td>
-<td>«Физикалық география. Биосфера» кестесі 0,7 х 1 метр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">321</td>
-<td>Ғалым-географтар портреттері</td>
-<td>дана</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="2">322</td>
-<td>«Жас географ» ауыспалы экспозициялары бар стендтер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Ұсынылатын әдістемелер мен жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">354</td>
-<td>Қазақстанның электрондық картасының жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">355</td>
-<td>Мектеп метеостанциясы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">356</td>
-<td>Геграфиялық алаңдағы жабдық пен керек-жарақтардың жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">зертхана бөлмесі</td>
-</tr>
-<tr>
-<td colspan="2">357</td>
-<td>Бір тумболы мұғалім үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">358</td>
-<td>Мұғалім орындығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">359</td>
-<td>Жартылай жабық шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">360</td>
-<td>Киімге арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">361</td>
-<td>Жабдықты және керек-жарақтарды сақтауға арналған суырмалы тартпалары бар шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Биология кабинеті мен лаборатория</td>
-</tr>
-<tr>
-<td colspan="2">362</td>
-<td>Аудиториялық қабырға тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">363</td>
-<td>Компьютерге арналған притсавкасы бар оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">364</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">365</td>
-<td>Демонстрациялық үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">366</td>
-<td>Зертханалық оқушы үстелі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">367</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">368</td>
-<td>Жартылай әйнектелген шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">369</td>
-<td>Бір тумбалы үстел</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">370</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">371</td>
-<td>Ашық шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">372</td>
-<td>Жабық шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">373</td>
-<td>Киімге арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">374</td>
-<td>Жабдық пен керек-жарақтарды сақтауға арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">375</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">376</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">377</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">378</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">379</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">380</td>
-<td>Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">381</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">382</td>
-<td>Интерактивтік тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">383</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">384</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">385</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">386</td>
-<td>Электрондық плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">387</td>
-<td>Электрондық оқулықтар жиынтығы</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">388</td>
-<td>6-11 сыныптардағы биология бойынша сынақтар үшін оқу-бағдарламалық кешен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Гербарии</td>
-</tr>
-<tr>
-<td colspan="2">389</td>
-<td>«Ағаштар мен бұталар»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">390</td>
-<td>«Жабайы өсімдіктер»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">391</td>
-<td>«Жемшөп өсімдіктер»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">392</td>
-<td>Мәдени өсімдіктер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">393</td>
-<td>«Дәрілік өсімдіктер»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">394</td>
-<td>«Өсімдіктер морфологиясы»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">395</td>
-<td>«Ауылшаруашылық өсімдіктері»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">396</td>
-<td>«Арам шөп»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">397</td>
-<td>«Жемшөп өсімдіктер»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Коллекциялар</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">398</td>
-<td>«Көбелектер» коллекциясы</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">399</td>
-<td>Қоңыз коллекциясы</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">400</td>
-<td>«Миниралды тыңайтқыштар» коллекциясы</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">401</td>
-<td>Палеонтологиялық үлгілер коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">402</td>
-<td>«Топырақ және оның құрамы» коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">403</td>
-<td>«Жәндіктерді толық емес метаморфоз арқылы дамыту» коллекциясы</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">404</td>
-<td>«Жәндіктерді толық метаморфоз арқылы дамыту» коллекциясы</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">405</td>
-<td>Ұлулар қабыршағы коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">406</td>
-<td>Тұқымдар мен жемістер үлестірмелі материалдармен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">407</td>
-<td>«Ағаш тұқымдары мен бұталарының бүршіктері, жемістері»</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Микропрепараттар</td>
-</tr>
-<tr>
-<td colspan="2">408</td>
-<td>Анатомиялық микропрепараттар жинағы</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">409</td>
-<td>Ботаникалық микропрепараттар жинағы</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">410</td>
-<td>Микропрепараттар зоология жинағы</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">411</td>
-<td>Жалпы биология бойынша микропрепараттар</td>
-<td>жинақ</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="5">Анатомия бойынша көлемді қалыптар моделі</td>
-</tr>
-<tr>
-<td colspan="2">412</td>
-<td>Бронх ағашының үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">413</td>
-<td>Ересек адам тістерінің үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">414</td>
-<td>Несеп шығару жүйесі органдарының үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">415</td>
-<td>Өт қабы, тамырлармен бауыр үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">416</td>
-<td>Көкбауыр және жіңішке ішек аш ішекпен ұйқы безі үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">417</td>
-<td>Жүйке ұштарымен жұлын үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">418</td>
-<td>Бастың орта қимасы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">419</td>
-<td>Ұрық моделі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">420</td>
-<td>Үлкейтілген көз үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">421</td>
-<td>Қимадағы көмей үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">422</td>
-<td>Асқазан үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">423</td>
-<td>Үлкейтілген тіс үлгілері (3 д.)</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">424</td>
-<td>Адам терісі үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">425</td>
-<td>Альвеоласы бар өкпе үлгісі бар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">426</td>
-<td>Күре тамырлармен адам миы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">427</td>
-<td>Мұрын қуысы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">428</td>
-<td>Бойлық қимадағы омыртқа үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">429</td>
-<td>Қимадағы бүйрек үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">430</td>
-<td>Демонстрациялық жүрек үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">431</td>
-<td>5 омыртқамен жамбас үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">432</td>
-<td>Құлақ үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">433</td>
-<td>Тісті күту үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">434</td>
-<td>Адамның бас сүйегі үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Зоология үлгілерінің көлемі</td>
-</tr>
-<tr>
-<td colspan="2">435</td>
-<td>Тіссіз үлгі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">436</td>
-<td>Гидра ішекқуыстар үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">437</td>
-<td>Жер құрты үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">438</td>
-<td>Инфузория-туфелька үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">439</td>
-<td>Ланцетник үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">440</td>
-<td>Жануар жасаушасының микроқұрылым үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">441</td>
-<td>Өсімдіктер мен жануарлардың митоза және мейоз үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Биология мен ботаника бойынша көлемді үлгілер</td>
-</tr>
-<tr>
-<td colspan="2">442</td>
-<td>ДНҚ құрылымы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">443</td>
-<td>Тамырдың қимасыбойлық үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">444</td>
-<td>Қос жарнақты шөпті өсімдік сабағы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">445</td>
-<td>Өсімдік жасушасы құрылымы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">446</td>
-<td>Жасуша қабықшасы құрылымының үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">447</td>
-<td>Жапырақ құрылымы үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">448</td>
-<td>Жеуге жарамды және улы саңырауқұлақтар нақпішіні жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">449</td>
-<td>Жемістер мен көкөністердің нақпішіндері топтамасы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Гүлдер үлгілері</td>
-</tr>
-<tr>
-<td colspan="2">450</td>
-<td>Гүлкекіре үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">451</td>
-<td>Бұршақ гүлі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">452</td>
-<td>Орамжапырақ гүлі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">453</td>
-<td>Картоп гүлі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">454</td>
-<td>Бидай гүлі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">455</td>
-<td>Қызғалдақ гүлі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">456</td>
-<td>Остеологиялық үлгі</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">457</td>
-<td>Көгершін қаңқасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">458</td>
-<td>Сүйегі көп балық қаңқасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">459</td>
-<td>Қоян қаңқасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">460</td>
-<td>Құрбақа қаңқасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">461</td>
-<td>170 сантиметрге ролик тіреуіште адам қаңқасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Оптикалық аспаптар</td>
-</tr>
-<tr>
-<td colspan="2">462</td>
-<td>Қол лупасы</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">463</td>
-<td>Оқытушы микроскобы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">464</td>
-<td>Оқушы микроскобы</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="5">Биология кабинеті үшін реактивтер жиынтығы</td>
-</tr>
-<tr>
-<td colspan="2">465</td>
-<td>Биология кабинеті үшін реактивтер жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Зертханалық ыдыс және бұйымдар</td>
-</tr>
-<tr>
-<td colspan="2">466</td>
-<td>Биология кабинетіне арналған зертханалық ыдыс және бұйымдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">467</td>
-<td>Ыдыстар мен бұйымдарға арналған шкафтарға тіреуіш кешені</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Тәжірибелерге арналған аспаптар</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">468</td>
-<td>Құрамдастырылған монша</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">469</td>
-<td>Барометр-анероид</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">470</td>
-<td>200гр дейін электрондық таразы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">471</td>
-<td>Гигрометр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">472</td>
-<td>Өсімдіктер мен жануарларда тыныс алу газ алмасуын байқау үшін аспап</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">473</td>
-<td>Тартылатын және шығарылатын ауада СО2 құрамын салыстыру үшін аспап</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">474</td>
-<td>Зертханалық құрамдастарылған таған</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="5">Чемодандағы лаборатория</td>
-</tr>
-<tr>
-<td colspan="2">475</td>
-<td>Чемодандағы биологиялық лаборатория</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">476</td>
-<td>Биологтар портреттері жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">477</td>
-<td>«Жас биолог» материалымен стенд</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Ұсынылатын жабдықтар</td>
-</tr>
-<tr>
-<td colspan="2">478</td>
-<td>Интерфейс</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">479</td>
-<td>Деректерді жазуға, көрсетуге және талдауға арналған оқу бағдарламалық қамсыздандыру</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">480</td>
-<td>О2 газы датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">481</td>
-<td>СО2 газы датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">482</td>
-<td>Газ қысымы датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">483</td>
-<td>Күре тамыр қан қысымын тіркеуге арналған датчик</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">484</td>
-<td>Ерітілген оттегі датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">485</td>
-<td>Температуры датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">486</td>
-<td>Жүрек қысқарулары жиілігі датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">487</td>
-<td>Электрокардиограмма датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">488</td>
-<td>Электрөткішгіштік датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">489</td>
-<td>Қол динамометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">490</td>
-<td>Колориметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">491</td>
-<td>Сандық портативті USB микроскоп</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">492</td>
-<td>Спирометр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">493</td>
-<td>Датчик үшін әдістемелік ұсыныстар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">494</td>
-<td>Датчиктерді орауға арналған төсеулер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">495</td>
-<td>Гербарий «Балдырлар. Саңырауқұлақтар. Қына»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">496</td>
-<td>Гербарий.Өсімдіктер қауымдастығы. Орман.</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">497</td>
-<td>Гербарий «Өсімдіктерді жіктеу. Жоғары споралы және тұқымды»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">498</td>
-<td>Гербарий «Өсімдіктерді жіктеу. Бұршақты тұқымдастар. Астық тұқымдастар»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">499</td>
-<td>Гербарий «Өсімдіктерді жіктеу. Қызғылт түсті тұқымдастар»</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">500</td>
-<td>Адамның пайла болу коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">501</td>
-<td>Адамның кеуде мүсіні</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Химия кабинеті мен лаборатория</td>
-</tr>
-<tr>
-<td colspan="2">502</td>
-<td>Аудиториялық қабырға тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">503</td>
-<td>Компьютерге арналған притсавкасы бар оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">504</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">505</td>
-<td>Көрсетуге арналған үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">506</td>
-<td>Зертханалық оқушы үстелі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">507</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">508</td>
-<td>Жартылай шыныланған шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">509</td>
-<td>Бір тумбалы үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">510</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">511</td>
-<td>Ашық шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">512</td>
-<td>Жабық шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">513</td>
-<td>Киімге арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">514</td>
-<td>Жабдықты және керек-жарақтарды сақтауға арналған суырмалы тартпалары бар шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">515</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">516</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">517</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">518</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">519</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">520</td>
-<td>Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">521</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">522</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">523</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">524</td>
-<td>Интерактивтік тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">525</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Химиядан тәжірибелер жүргізуге арналған сандық интерактивтік зертхана</td>
-</tr>
-<tr>
-<td colspan="2">526</td>
-<td>Интерфейс</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">527</td>
-<td>Деректерді жазуға, көрсетуге және талдауға арналған оқу бағдарламалық қамсыздандыру</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">528</td>
-<td>pH датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">529</td>
-<td>Газ қысымының датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">530</td>
-<td>Температура датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">531</td>
-<td>Электр өткізгіштік датчигі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">532</td>
-<td>Гальванометрикалық датчик</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">533</td>
-<td>Тамшыларды есептеуіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">534</td>
-<td>Әдістемелік ұсыныстар комплектісі</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">535</td>
-<td>Датчиктерді орауға арналған төсеулер комплектісі</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">536</td>
-<td>Электрондық плакаттар комплектісі</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">537</td>
-<td>Электрондық оқулықтар комплектісі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">538</td>
-<td>8-1 сыныптарға арналған химия бойынша сынақтар үшін оқу-бағдарламалық кешен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Табиғи коллекциялар</td>
-</tr>
-<tr>
-<td colspan="2">539</td>
-<td>Алюминий коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">540</td>
-<td>Тас көмір және оны өңдеу өнімдері коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">541</td>
-<td>Металдар коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">542</td>
-<td>Минералдар және тау жыныстары коллекциясыколлекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">543</td>
-<td>Мұнай және өнімдерді өңдеу коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">544</td>
-<td>Шыны және шыныдан жасалған өнімдер коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">545</td>
-<td>Жанармай өндірісіне арналған шикізат коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">546</td>
-<td>Химиялық өндіріске арналған шикізат коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">547</td>
-<td>Жанармай коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">548</td>
-<td>Шойын және болат коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">549</td>
-<td>Қаттылық шәкілі коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">550</td>
-<td>С-Алмазының кристаллды торының көрсетілімділік үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">551</td>
-<td>С-Графитінің кристаллды торының көрсетілімділік үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">552</td>
-<td>Fe-Темірдің кристаллды торының көрсетілімділік үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">553</td>
-<td>I-Йодтың кристаллды торының көрсетілімділік үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">554</td>
-<td>Тас тұзы кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">555</td>
-<td>Н2О Мұз кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">556</td>
-<td>Mg магний кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">557</td>
-<td>Cu мыстың кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">558</td>
-<td>СО2 көміртек оксидінің кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">559</td>
-<td>С60 фуллерен кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">560</td>
-<td>NaCL хлорлы натрий кристалл торының көрсету үлгісі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">561</td>
-<td>Ауқымды молекулалар үлгілерінің жиынтығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">562</td>
-<td>Оқушы үшін органика және бейорганика бойынша молекулалар үлгілері</td>
-<td>жиынтық</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">563</td>
-<td>Оқытушыға арналған органика және бейорганика бойынша</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">564</td>
-<td>π және σ байланыстарының құрылу үлгілері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">565</td>
-<td>р және d бұлттарының және шар өзекті молекулалар үлгілері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">566</td>
-<td>Электрондық бұлттар және химиялық байланыстар үлгілері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Химиялық реактивтері</td>
-</tr>
-<tr>
-<td colspan="2">567</td>
-<td>«Қышқылдар»</td>
-<td>жиынтық</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">568</td>
-<td>«Гидроксидтер»</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">569</td>
-<td>«Металдар оксидтері»</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">570</td>
-<td>«Металдар»</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">571</td>
-<td>«Минералды тыңайтқыштар»</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">572</td>
-<td>«Иониттер»</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">573</td>
-<td>«Бейорганикалық заттардың үлгілері»</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">574</td>
-<td>«Галогенидтер»</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">575</td>
-<td>«Сульфаттар, сульфидтер, сульфиттер»</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">576</td>
-<td>Көрсету тәжірибелеріне арналған тұздар</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">577</td>
-<td>«Бейорганикалық заттар»</td>
-<td>жиынтық</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">578</td>
-<td>«Фосфаттар, силикаттар»</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">579</td>
-<td>«Марганец қоспалары»</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">580</td>
-<td>«Нитраттар»</td>
-<td>жиынтық</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">581</td>
-<td>«Индикаторлар»</td>
-<td>жиынтық</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">582</td>
-<td>«Хром қоспалары» жиынтығы»</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">583</td>
-<td>«Материалдар»</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">584</td>
-<td>Ыдыс және керек-жарақтар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Зертханалық ыдыс және керек-жарақтар</td>
-</tr>
-<tr>
-<td colspan="2">585</td>
-<td>Химиялық реакциялар өткізуге арналған аппарат</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">586</td>
-<td>Кипп аппараты</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">587</td>
-<td>Құрамдастырылған монша</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">588</td>
-<td>200гр дейін электрондық таразы</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">589</td>
-<td>Колба қыздырғышы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">560</td>
-<td>Ареометрлер жиынтығы (19 дана)</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">561</td>
-<td>Әмбебап түтіктер қыздырғышы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">562</td>
-<td>Газдарды жинауға арналған құрал</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">563</td>
-<td>Ауадағы оттегінің құрамын анықтауға арналған құрал</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">564</td>
-<td>Демонстрациялық термометр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">565</td>
-<td>Химиялық зертхана тағаны</td>
-<td>дана</td>
-<td>16</td>
-</tr>
-<tr>
-<td colspan="2">566</td>
-<td>Дәрі-дәрмек қобдишасы</td>
-<td></td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">567</td>
-<td>Химиктердің портреттері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">568</td>
-<td>Металдардың белсенділік қатары кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">569</td>
-<td>Менделеев кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">570</td>
-<td>Ерігіштік кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">571</td>
-<td>Техникалық қауіпсіздік ережесінің кестесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">572</td>
-<td>Ауыспалы материалды стенд</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">Ұсынылатын жабдықтар мен жиһаздар</td>
-</tr>
-<tr>
-<td colspan="2">573</td>
-<td>Демонстрациялық тартпалы шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">574</td>
-<td>Химреактивтерге арналған металл шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">575</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">576</td>
-<td>«Заттар, қоспалар, су»</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">577</td>
-<td>«Электрохимия» тәжірибесі</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">578</td>
-<td>Агрессивті химиялық заттардан қорғайтын көзілдірік</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">579</td>
-<td>Химиялық төзімді қорғаныс қолғабы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">580</td>
-<td>Резеңкелеген алжапқыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">581</td>
-<td>Халат</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="5">Оқыту тілі қазақ, орыс, ұйғыр, өзбек және тәжік тілдеріндегі білім беру орыс тілі және әдебиеті кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>Аудиториялық қабырғаға ілінетін тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">582</td>
-<td>Оқытушыға арналған үстел компьютерге арналған приставкасымен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">583</td>
-<td>Оқытушыға арналған орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">584</td>
-<td>Екі орынды оқушыға арналған үстел</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">585</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">586</td>
-<td>Жартылай шынылы жабық шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">587</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">588</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">589</td>
-<td>Микрофон-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">590</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">591</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">592</td>
-<td>Желілік сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">593</td>
-<td>Көпфункциональды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">594</td>
-<td>Интербелсенді тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">595</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">596</td>
-<td>Проекторды төбеге бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">597</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">598</td>
-<td>Электронды оқулықтар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">599</td>
-<td>DVD-ға бейнефильмдер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">600</td>
-<td>Электронды плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">601</td>
-<td>Дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">602</td>
-<td>Үлестірме материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">603</td>
-<td>Картиналар көшірмелері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">604</td>
-<td>Ұлы адамдар, ақын-жазушылардың портреттері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">605</td>
-<td>Лексика, морфология, синтаксис, фонетика бойынша плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">606</td>
-<td>Қазақ тілінен/орыс тіліне/ ұйғыр/ өзбек/тәжік тілдеріне сөздік</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">607</td>
-<td>Қазақ ақын-жазушылары жинақтары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">608</td>
-<td>Қазақтың мәдениеті, әдебиеті, тарихи ескерткіштері туралы жиынтық</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">609</td>
-<td>Анықтамалық және әдістемелік әдебиеттер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">610</td>
-<td>Қабырға плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Оқыту тілі қазақ, орыс, ұйғыр, өзбек және тәжік тілдеріндегі ана тілі және әдебиеті кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td colspan="2">611</td>
-<td>Аудиториялық қабырғаға ілінетін тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">612</td>
-<td>Оқытушыға арналған үстел компьютерге арналған приставкасымен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">613</td>
-<td>Оқытушыға арналған орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">614</td>
-<td>Екі орынды оқушыға арналған үстел</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">615</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">616</td>
-<td>Жартылай шынылы жабық шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">617</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">618</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">619</td>
-<td>Микрофон-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">620</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">621</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">622</td>
-<td>Желілік сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">623</td>
-<td>Көпфункциональды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">624</td>
-<td>Интербелсенді тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">625</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">626</td>
-<td>Проекторды төбеге бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">627</td>
-<td>Құжат-камера</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">628</td>
-<td>DVD-ға бейнефильмдер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">629</td>
-<td>Электронды плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">630</td>
-<td>Дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">631</td>
-<td>Үлестірме материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">632</td>
-<td>Картиналар көшірмелерінің</td>
-<td>набор</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">633</td>
-<td>Ұлы адамдар, ақын-жазушылардың портреттері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">634</td>
-<td>Лексика, морфология, синтаксис, фонетика, орфоэпия, грамматика, сөзжасам, дұрыс жазу бойынша плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">635</td>
-<td>Мектеп сөздігі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">636</td>
-<td>Жыр жинақтары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">637</td>
-<td>Көркем әдебиеттер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">638</td>
-<td>Анықтамалық және әдістемелік әдебиеттер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">639</td>
-<td>Қабырға плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Казақ, орыс, ұйғыр, өзбек және тәжік тілдеріндегі оқыту орыс тілі және әдебиеті кабинетіне арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td colspan="2">640</td>
-<td>Аудиториялық қабырғаға ілінетін тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">641</td>
-<td>Оқытушыға арналған үстел компьютерге арналған приставкасымен</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">642</td>
-<td>Оқытушыға арналған орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">643</td>
-<td>Екі орынды оқушыға арналған үстел</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td colspan="2">644</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">645</td>
-<td>Жартылай шынылы жабық шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">646</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">647</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">648</td>
-<td>Микрофон-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">649</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">650</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">651</td>
-<td>Желілік сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">652</td>
-<td>Көпфункциональды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">653</td>
-<td>Интербелсенді тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">654</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">655</td>
-<td>Проекторды төбеге бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">656</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">657</td>
-<td>Электронды оқулық басылымдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">658</td>
-<td>DVD-ға бейнефильмдер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">659</td>
-<td>Электронды плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">660</td>
-<td>Дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">661</td>
-<td>Үлестірме материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">662</td>
-<td>Картиналар көшірмелері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">663</td>
-<td>Ұлы адамдар, ақын-жазушылардың портреттері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">664</td>
-<td>Лексика, морфология, синтаксис, фонетика, орфоэпия, грамматика, сөзжасам, дұрыс жазу бойынша плакаттар жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">665</td>
-<td>Сөздік</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">666</td>
-<td>Мектеп фразеологиялық сөздігі</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">667</td>
-<td>Мектеп түсіндірме сөздігі</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">668</td>
-<td>Жыр жинақтарының жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">669</td>
-<td>Көркем әдебиеттер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">670</td>
-<td>Анықтамалық және әдістемелік әдебиеттер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">671</td>
-<td>Плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Өзін-өзі тану кабинеті</td>
-</tr>
-<tr>
-<td colspan="2">672</td>
-<td>Сынып тақтасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">673</td>
-<td>Оқытушыға арналған үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">674</td>
-<td>Оқытушыға арналған кресло</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">675</td>
-<td>5 орынды аудиториялық үстел</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">676</td>
-<td>Күрсі тақтамен жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="2">677</td>
-<td>Аласа шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">678</td>
-<td>Жұмсақ бұрыштама диван</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">679</td>
-<td>Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">680</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">681</td>
-<td>Микрофон-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">682</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">683</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">684</td>
-<td>Желілік сүзгі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">685</td>
-<td>Көпфункциональды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">686</td>
-<td>Интербелсенді тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">687</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">688</td>
-<td>Проекторды төбеге бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">689</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">690</td>
-<td>Музыкалық орталық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">691</td>
-<td>Электронды оқулық басылымдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">692</td>
-<td>DVD-ға бейнефильмдер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">693</td>
-<td>Балалар музыкасына арналған өлеңдер, музыкалар дисклер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">694</td>
-<td>Электронды плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">695</td>
-<td>Үлестірме материалдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">696</td>
-<td>Портреттер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">697</td>
-<td>Көрнекі иллюстрациялар, плакаттар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">698</td>
-<td>Рухани-адамгершілік білім беру бойыншаәдебиеттер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">699</td>
-<td>Жанды бұрыш</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">700</td>
-<td>Өзін-өзі тану кабинетіне арналған қабырға көрнекіліктер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">701</td>
-<td>Телевизор астына қойылатын тумбочка</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">702</td>
-<td>Телевизор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Сызу және бейнелеу өнері кабинеті</td>
-</tr>
-<tr>
-<td colspan="2">703</td>
-<td>Сынып тақтасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">704</td>
-<td>Компьютерге арналған жанама құрылғысы және тартпалы жәшігі бар мұғалім үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">705</td>
-<td>Мұғалім орындығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">706</td>
-<td>Екі орынды оқушы үстелі</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">707</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">708</td>
-<td>Түмбі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">709</td>
-<td>Жабық шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">710</td>
-<td>Жүйелілік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">711</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">712</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">713</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">714</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">715</td>
-<td>Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">716</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">717</td>
-<td>Интерактивті тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">718</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">719</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">720</td>
-<td>Сызба-сурет құралдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">721</td>
-<td>Рейсшина</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">722</td>
-<td>Сурет құралдарының үлкен қорабы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">723</td>
-<td>Қаптамасы мен тақтайлы мольберт</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="2">724</td>
-<td>Модельдер және ауқымды қоры</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">725</td>
-<td>Гипсті геометриялық дене пішіндері</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">726</td>
-<td>Пластмассадан геометриялық дене пішіндері</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">727</td>
-<td>Қозғалмалы бөлшектен геометриялық дене пішіндері</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">728</td>
-<td>Гипстен модельдер</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">729</td>
-<td>Керамикалық бұйымдар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">730</td>
-<td>Қолданбалы-өнер және қолөнер және халық кәсіпшілік өнімдерінің</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">731</td>
-<td>Маталар (драпировки)</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">732</td>
-<td>Тұрмыстық заттардың жинағы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">733</td>
-<td>Гербарий жабайы өсетін өсімдіктер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">734</td>
-<td>Гербарий мәдени өсімдіктер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">735</td>
-<td>Жемістер мен көкөністер муляждары</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">736</td>
-<td>Көбелектер коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">737</td>
-<td>Жануарлар мен құстар тұлыптары</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">738</td>
-<td>Мүсінге арналған материалдар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">739</td>
-<td>Сурет өнеріне арналған материалдар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">740</td>
-<td>Графикаға арналған материалдар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">741</td>
-<td>Аппликацияларға арналған материалдар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">742</td>
-<td>Сызуға арналған бөлшектер жинағы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">743</td>
-<td>Қуыршақтар жиынтығы (Қуыршақ театры)</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">744</td>
-<td>Бетперделер (маски) жинағы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">745</td>
-<td>Электронды оқулықтар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">746</td>
-<td>DVD фильмдер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">747</td>
-<td>Электронды плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">748</td>
-<td>Үлестірме материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">749</td>
-<td>Көрнекті суретшілер портреттерінің</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">750</td>
-<td>Иллюстрациялар мен плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">751</td>
-<td>Энциклопедия және анықтама әдістемесі</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">752</td>
-<td>Өнер альбомы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">753</td>
-<td>суретшілер мен өнер мұражайлары туралы әдебиет, сәулет және өнер стиліндегі</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">754</td>
-<td>Плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Ұсынылатын құралдар</td>
-</tr>
-<tr>
-<td colspan="2">755</td>
-<td>Жылжымалы А-1 форматтағы сызба тақтасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">756</td>
-<td>Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">757</td>
-<td>Сәулет ғимараттарын модельдеуге арналған конструкторлар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">758</td>
-<td>Мультимедиялық оқыту бағдарламаларын</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Технология» пәні</td>
-</tr>
-<tr>
-<td colspan="2">759</td>
-<td>Аудиториялық қабырға тақтасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">760</td>
-<td>Компьтермен жабдықталған оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">761</td>
-<td>Жартылай-жұмсақ орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">762</td>
-<td>Оқушы үстелі</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">763</td>
-<td>Оқушы орындығы</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">764</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">765</td>
-<td>Жүйелі блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">766</td>
-<td>Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">767</td>
-<td>Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">768</td>
-<td>Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">769</td>
-<td>Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">770</td>
-<td>Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">771</td>
-<td>Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">772</td>
-<td>Интерактивтік тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">773</td>
-<td>Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">774</td>
-<td>Проекторға арналған төбелік бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">775</td>
-<td>Технологияның негізгі бөліміне арналған электронды плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">776</td>
-<td>Технологияның негізгі бөліміне арналған бейнефильмдер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">777</td>
-<td>2,8х1метр Технологияның негізгі бөліміне арналған қабырға плакаттары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">778</td>
-<td>Техника қауіпсіздігі» плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">779</td>
-<td>Технологияның негізгі тақырыптарына арналған қабырға плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">780</td>
-<td>Технологияның негізгі тақырыптарына арналған үлестірме материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">781</td>
-<td>Кәсіби өзін анықтау кестелер мен плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Материалдарды көркем өңдеу, металл және ағашты өңдеу технологиясын зерделеу үшін жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td colspan="2">782</td>
-<td>Әмбебап оқушы верстагы</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">783</td>
-<td>Бұрылмалы-көтерілгіш орындық (отырғыш)</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">784</td>
-<td>Аудиториялық тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">785</td>
-<td>Бір түмбелі оқытушыға арналған үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">786</td>
-<td>Металл құралдар шкафы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">787</td>
-<td>Киімге арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">788</td>
-<td>Металды бұрғылау станогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">789</td>
-<td>Бұрғылау станогына тіреуіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">790</td>
-<td>Металл жону станогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">791</td>
-<td>Металл жону станогына тіреуіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">792</td>
-<td>Аралас ағаш өңдеу станогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">793</td>
-<td>Аралас ағаш өңдеу станогына тіреуіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">794</td>
-<td>Электрлі ұштауыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">795</td>
-<td>Электрлі ұштауышқа тіреуіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">796</td>
-<td>Электрлі лобзик (кішкене ара)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">797</td>
-<td>Аккумуляторлы бұрандалы-бұрғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">798</td>
-<td>Бұрыштық тегістеу машина (шлифовальная)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Жобалау жұмыстарына арналған құралдар</td>
-</tr>
-<tr>
-<td colspan="2">799</td>
-<td>Кішкене (миниатюралы) станоктардың модульдік жиынтығы</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">800</td>
-<td>Күйдіруге арналған құрал</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">801</td>
-<td>Қарапайым машина мен механизмдерді модельдеу үшін конструкторлар жинағы</td>
-<td>жинақ</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">802</td>
-<td>Технологиялық машина мен механизмдерді модельдеу үшін конструкторлар жинағы</td>
-<td>жинақ</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">803</td>
-<td>Электр тізбектерін жинау үшін конструкторлар жинағы</td>
-<td>жинақ</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">804</td>
-<td>Құралдар</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">805</td>
-<td>Ағаш шапқы (қашау) 8 миллиметр</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">806</td>
-<td>Ағаш шапқы (қашау) 12 миллиметр</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">807</td>
-<td>Ағаш шапқы (қашау) 16 миллиметр</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">808</td>
-<td>Кескіш</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">809</td>
-<td>Шегелеу, жамауға арналған құрал</td>
-<td>жинақ</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">810</td>
-<td>Кернер</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">811</td>
-<td>Киянка резеңке</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">812</td>
-<td>Қырлы тістеуіктер</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">813</td>
-<td>Металл сызғыш 30 сантиметр</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">814</td>
-<td>Металл сызғыш 100 сантиметр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">815</td>
-<td>Лобзик (кіші ара)</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">816</td>
-<td>Слесарьлық балға 200 грамм</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">817</td>
-<td>Слесарьлық балға 400 грамм</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">818</td>
-<td>Футлярда екіжақты гайкалы кілттері</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">819</td>
-<td>Крандар мен мөртаңбалар жиынтығы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">820</td>
-<td>300 миллиметрлік квадрат егеулер</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">821</td>
-<td>300 миллиметрлік дөңгелек егеулер</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">822</td>
-<td>250 миллиметрлік жазық егеулер</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">823</td>
-<td>250 миллиметрлік үшгранды егеулер</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">824</td>
-<td>Металл қайшылары</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">825</td>
-<td>Ағаш кесетін пышақ</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">826</td>
-<td>Металл кесетін пышақ</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">827</td>
-<td>160 мм жазық бұранда</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">828</td>
-<td>190 мм жазық бұранда</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">829</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td colspan="2">830</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td colspan="2">831</td>
-<td>Алмазды лобзикке арналған шүберек полотна</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">832</td>
-<td>Металл кесетін қол араға шүберек</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">833</td>
-<td>Жонғыш</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">834</td>
-<td>Сүргі</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">835</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td colspan="2">836</td>
-<td>Ағаш бұрғылайтын жинақ</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">837</td>
-<td>Металл бұрғылайтын жинақ</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">838</td>
-<td>Стусло</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">839</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td colspan="2">840</td>
-<td>Бұрыштық</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">841</td>
-<td>Штангенциркуль</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">842</td>
-<td>Түгімен щетка</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">843</td>
-<td>Санитарлық-техникалық жұмыстар үшін құралдар</td>
-<td>жиынтық</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">844</td>
-<td>Санитарлық-техникалық жұмыстар үшін материалдар мен өнімдер үлгілері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">845</td>
-<td>Жөндеу және әрлеу жұмыстарын жүргізу үшін құралдар мен материалдар үлгілер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">846</td>
-<td>Электротехникалық құралдар</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">847</td>
-<td>Радио бөлшектер көрсету</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">848</td>
-<td>Сандық мультиметр</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">849</td>
-<td>Электротехникалық жұмыстар жасауға арналған құралдар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">850</td>
-<td>Қосымша жабдықтар мен керек-жарақтары</td>
-<td>жиынтық</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">851</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">852</td>
-<td>Монтаж материалдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">853</td>
-<td>Қабырғадағы дәрі-дәрмек қобдишасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">854</td>
-<td>Алжапқыш</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">855</td>
-<td>Жеңқап</td>
-<td>жұп</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">856</td>
-<td>Берет</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">857</td>
-<td>Бетті қорғайтын қалқан</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">858</td>
-<td>«Техника қауіпсіздігі ережелері» 0,7х1метр плакаты</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">859</td>
-<td>Ағаш пен метал өңдеу технологиясы қабырға 2,1х1метр плакаты</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Тағам дайындау технологиясының жабдықтары</td>
-</tr>
-<tr>
-<td colspan="2">860</td>
-<td>Ас үй жиһаздар жиынтығы</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">861</td>
-<td>Ас үй үстел-түмбесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">862</td>
-<td>Аспалы шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">863</td>
-<td>Жуу -үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">864</td>
-<td>Ас үй жұмыс үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">865</td>
-<td>Ағаш отырғышы</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">866</td>
-<td>Үстел-тұрмыстық таразы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">867</td>
-<td>Кофеқайнатқыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">868</td>
-<td>Кофеүгіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">869</td>
-<td>Қысқа толқынды пеш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">870</td>
-<td>Электрлі шәйник</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">871</td>
-<td>Тостер</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">872</td>
-<td>Ас үй комбайны</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">873</td>
-<td>Миксер</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">874</td>
-<td>Электрлі еттартқыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">875</td>
-<td>Электрлі плита</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">876</td>
-<td>Плита үстіндегі ауа тартқыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">877</td>
-<td>Термопот</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">878</td>
-<td>Тоңазытқыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>879</td>
-<td colspan="2">Азық түлікті жылытуға арналған ас үй ыдыстары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>880</td>
-<td colspan="2">Асхана ыдыстарының жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>881</td>
-<td colspan="2">Тостағандар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>882</td>
-<td colspan="2">6 адамдық асхана сервизі</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>883</td>
-<td colspan="2">6 адамдық шай сервизі</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>884</td>
-<td colspan="2">Азық түлікті жылытуға арналған аспаптар мен құралдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>885</td>
-<td colspan="2">Азық түлікті механикалық өңдеуден өткізуге арналған аспаптар мен құралдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>886</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>887</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>888</td>
-<td colspan="2">«Азық-түлік» муляждары</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>889</td>
-<td colspan="2">Азық түлікті жылытуға арналған ас үй ыдыстары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>890</td>
-<td colspan="2">Асхана ыдыстарының жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>891</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>892</td>
-<td colspan="2">Қадырға дәрі-дәрмек қобдишасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>893</td>
-<td colspan="2">Алжапқыш</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>894</td>
-<td colspan="2">Орамал</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>895</td>
-<td colspan="2">«Ас дайындауда техника қауіпсіздігі ережелері» плакаты</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>896</td>
-<td colspan="2">Ауыстырма материалы стенд</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Маталарды өңдеу және материалдарды көркем өңдеу технологияларына арналған жабдықтар және жиһаздар</td>
-</tr>
-<tr>
-<td>897</td>
-<td colspan="2">Аудиториялық тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>898</td>
-<td colspan="2">Үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>899</td>
-<td colspan="2">Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>900</td>
-<td colspan="2">Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>901</td>
-<td colspan="2">Киімге арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>902</td>
-<td colspan="2">Тігін машинасымен жұмыс жасауға арналған үстел</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>903</td>
-<td colspan="2">Бұрылмалы-көтерілгіш орындық (отырғыш)</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>904</td>
-<td colspan="2">Мата пішуге арналған үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>905</td>
-<td colspan="2">Оверлок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>906</td>
-<td colspan="2">Үтіктеуге арналған тақтай</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>907</td>
-<td colspan="2">Әйел манекені</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>908</td>
-<td colspan="2">Еркек манекені</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>909</td>
-<td colspan="2">Үтік</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>910</td>
-<td colspan="2">6 кластық сызба құралдар жиынтығы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>911</td>
-<td colspan="2">Матаға арналған үлкен қайшылар</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>912</td>
-<td colspan="2">Ағылшын түйреуіштер жинағы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>913</td>
-<td colspan="2">Тұрғын үй, киім және аяқ киім күтімі үшін тұрмыстық техника мен жабдықтар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>914</td>
-<td colspan="2">«Мата үлгілері» үлестіретін коллекциясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>915</td>
-<td colspan="2">Тігінші боры</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>916</td>
-<td colspan="2">Тігін машинасы</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>917</td>
-<td colspan="2">Тігін машинасына арналған инелер жинағы</td>
-<td>жинақ</td>
-<td>12</td>
-</tr>
-<tr>
-<td>918</td>
-<td colspan="2">Қолмен тігуге арналған құралдар</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>919</td>
-<td colspan="2">Кестелеу құралдары</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>920</td>
-<td colspan="2">Тоқуға арналған жиынтық</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>921</td>
-<td colspan="2">Бізбен тоқуға арналған жиынтық</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>922</td>
-<td colspan="2">Электрмен жабдықтау жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>923</td>
-<td colspan="2">Қабырға дәрі-дәрмек қобдишасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>924</td>
-<td colspan="2">Алжапқыш</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>925</td>
-<td colspan="2">Орамал</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>926</td>
-<td colspan="2">«Техника қауіпсіздігі ережелері» 0,7х1метр плакаты</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>927</td>
-<td colspan="2">Ағаш пен метал өңдеу технологиясы қабырға 2,1х1метр плакаты</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Дене шынықтыру кабинеті</td>
-</tr>
-<tr>
-<td>928</td>
-<td colspan="2">Кабинетке арналған маркерлі тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>930</td>
-<td colspan="2">Кабинетке арналған үстел</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>931</td>
-<td colspan="2">Жартылай-жұмсақ орындық</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>932</td>
-<td colspan="2">Кабинетке арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>933</td>
-<td colspan="2">Медициналық қобдиша</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>934</td>
-<td colspan="2">Жүйелі блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>935</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>936</td>
-<td colspan="2">Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>937</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>938</td>
-<td colspan="2">Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>939</td>
-<td colspan="2">Дене шынықтыру дайындығы бойынша мультимедиалық оқыту нұсқаулықтары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>940</td>
-<td colspan="2">Қолдың білезік буынының динамометриясы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>941</td>
-<td colspan="2">Ойын ысқырығы</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>942</td>
-<td colspan="2">Секундомер</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>943</td>
-<td colspan="2">Электромегафон</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>944</td>
-<td colspan="2">Қарапайым пластмасты табло</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>945</td>
-<td colspan="2">Табло электронды</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>946</td>
-<td colspan="2">10 метрлік өлшеуіш лентасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>947</td>
-<td colspan="2">50 метрлік өлшеуіш лентасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">жабдықтар сақтау бөлмесі</td>
-</tr>
-<tr>
-<td>948</td>
-<td colspan="2">Спорттық жабдықтарды сақтауға арналған сөрелер</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>949</td>
-<td colspan="2">Доптарды сақтауға арналған сөрелер</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>950</td>
-<td colspan="2">Допты тасымалдауға арналған себет</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>951</td>
-<td colspan="2">Допқа арналған насос</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="5">Дене шынықтыру зал және секция</td>
-</tr>
-<tr>
-<td colspan="5">Гимнастика</td>
-</tr>
-<tr>
-<td>952</td>
-<td colspan="2">Биіктіктегі бөрене</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>953</td>
-<td colspan="2">Едендегі бөрене</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>954</td>
-<td colspan="2">Түрлі биіктіктегі сырық (әйел)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>955</td>
-<td colspan="2">Қос сырық (еркек)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>956</td>
-<td colspan="2">Өрмелеуге арналған арқан</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>957</td>
-<td colspan="2">Өрмелеуге арналған сырық</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>958</td>
-<td colspan="2">Гимнастикалық кіші ағаш ат</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>959</td>
-<td colspan="2">Гимнастикалық ағаш ат</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>960</td>
-<td colspan="2">Гигиеналық қақпағы бар көбік кілемше</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>961</td>
-<td colspan="2">Гимнастикалық серіппелі көпір</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>962</td>
-<td colspan="2">Гимнастикалық тіке көпір</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>963</td>
-<td colspan="2">Төсеніштерді сақтау және тасымалдау үшін арба</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>964</td>
-<td colspan="2">Металдан жасалған шығыршық</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>965</td>
-<td colspan="2">Гимнастикалық таяқ</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>966</td>
-<td colspan="2">Өрмелеуге (тартуға) арналған арқан</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>967</td>
-<td colspan="2">Гимнастикалық әмбебап керме</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>968</td>
-<td colspan="2">Гимнастикалық орындықтар</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>969</td>
-<td colspan="2">Гимнастикалық қабырға</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="5">шаңғы мен коньки</td>
-</tr>
-<tr>
-<td>970</td>
-<td colspan="2">Шаңғыға арналған бекіткіштер жиынтығы</td>
-<td>жиынтық</td>
-<td>45</td>
-</tr>
-<tr>
-<td>971</td>
-<td colspan="2">Ағашпластикті шаңғылар</td>
-<td>жиынтық</td>
-<td>45</td>
-</tr>
-<tr>
-<td>972</td>
-<td colspan="2">Шаңғы аяқ киімдері (ботинкілері)</td>
-<td>жұп</td>
-<td>45</td>
-</tr>
-<tr>
-<td>973</td>
-<td colspan="2">Шаңғы таяқтары</td>
-<td>жұп</td>
-<td>45</td>
-</tr>
-<tr>
-<td>974</td>
-<td colspan="2">Коньки</td>
-<td>жиынтық</td>
-<td>45</td>
-</tr>
-<tr>
-<td colspan="5">жеңіл атлетика</td>
-</tr>
-<tr>
-<td>975</td>
-<td colspan="2">Сөре станогы немесе тіреуіш(колодка)</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>976</td>
-<td colspan="2">Лақтыруға арналған доп</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>977</td>
-<td colspan="2">Лақтыруға арналған нысана</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>978</td>
-<td colspan="2">Лақтыруға арналған граната 500 грамм</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>979</td>
-<td colspan="2">Лақтыруға арналған граната 700 грамм</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>980</td>
-<td colspan="2">Биіктікке секіруге арналған тұғыр теңдеуі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>981</td>
-<td colspan="2">Биіктікке секіруге арналған баған</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>982</td>
-<td colspan="2">Биіктікті өлшеуге арналған тұғыр теңдеуі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>983</td>
-<td colspan="2">Эстафеталық таяқша</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="5">туризм, спорт және үстел ойындарына</td>
-</tr>
-<tr>
-<td colspan="2">984</td>
-<td>Туристік жабдықтар жиынтығы</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td colspan="2">985</td>
-<td>Екі адамдық туристік шатыр</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="2">986</td>
-<td>Қоржын</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>987</td>
-<td colspan="2">Волейбол бағаны</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>988</td>
-<td colspan="2">Мини футболға арналған қақпа</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>989</td>
-<td colspan="2">Баскетбол добы</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>990</td>
-<td colspan="2">Волейбол добы</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>991</td>
-<td colspan="2">Футбол добы</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>992</td>
-<td colspan="2">Гандбол добы</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>993</td>
-<td colspan="2">Волейбол торы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>994</td>
-<td colspan="2">Волейбол торына арналған арқан</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>995</td>
-<td colspan="2">Футбол қақпасына арналған торы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>996</td>
-<td colspan="2">Баскетбол торы</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>997</td>
-<td colspan="2">Үстел теннисіне арналған жиынтық</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>998</td>
-<td colspan="2">Үстел теннисіне арналған торлар</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>999</td>
-<td colspan="2">Үстел теннисін ойнауға арналған ракетка</td>
-<td>дана</td>
-<td>16</td>
-</tr>
-<tr>
-<td>1000</td>
-<td colspan="2">Үстел теннисін ойнауға арналған кішкене шар доптар (шарик)</td>
-<td>дана</td>
-<td>40</td>
-</tr>
-<tr>
-<td>1001</td>
-<td colspan="2">Алғашқы әскери және технологиялық дайындық бойынша плакаттар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1002</td>
-<td colspan="2">Баскетболдың оқу қалқаны</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>1003</td>
-<td colspan="2">Баскетбол шығыршығы</td>
-<td>дана</td>
-<td>8</td>
-</tr>
-<tr>
-<td>1004</td>
-<td colspan="2">«Алғашқы әскери және технологиялық дайындық» электрондық оқу басылымы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1005</td>
-<td colspan="2">Әйелдер футбол формасы</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>1006</td>
-<td colspan="2">Еркектер волейбол формасы</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>1007</td>
-<td colspan="2">Әйелдер волейбол формасы</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>1008</td>
-<td colspan="2">Еркектер баскетбол формасы</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>1009</td>
-<td colspan="2">Әйелдер баскетбол формасы</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>1010</td>
-<td colspan="2">Еркектер гандбол формасы</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>1011</td>
-<td colspan="2">Әйелдер гандбол формасы</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>1012</td>
-<td colspan="2">Ойын жилеті нөмірленген</td>
-<td>дана</td>
-<td>40</td>
-</tr>
-<tr>
-<td>1013</td>
-<td colspan="2">Таңбаланған фишкалар</td>
-<td>дана</td>
-<td>40</td>
-</tr>
-<tr>
-<td>1014</td>
-<td colspan="2">Гантелдер 1 килограмм</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1015</td>
-<td colspan="2">Гантелдер 2 килограмм</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1016</td>
-<td colspan="2">Медицинбол</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>1017</td>
-<td colspan="2">Тогызкумалак</td>
-<td>жиынтық</td>
-<td>15</td>
-</tr>
-<tr>
-<td>1018</td>
-<td colspan="2">Шахматтар</td>
-<td>жиынтық</td>
-<td>15</td>
-</tr>
-<tr>
-<td>1019</td>
-<td colspan="2">Шашкілер</td>
-<td>жиынтық</td>
-<td>15</td>
-</tr>
-<tr>
-<td>1020</td>
-<td colspan="2">Механиқалық шахмат сағаттары</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="5">спорт алаңы</td>
-</tr>
-<tr>
-<td>1021</td>
-<td colspan="2">Футбол қақпасы торымен</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1022</td>
-<td colspan="2">Мини футбол қақпасы торымен</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1023</td>
-<td colspan="2">Баскетбол бағандары қалқанымен,торымен</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1024</td>
-<td colspan="2">Волейбол бағандары торымен</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1025</td>
-<td colspan="2">Металл қос сырықтары</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1026</td>
-<td colspan="2">Гимнастикалық металл кермелері</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>1027</td>
-<td colspan="2">Судья мұнарасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1028</td>
-<td colspan="2">Ұзындыққа секіруге арналған сектор</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1029</td>
-<td colspan="2">Лақтыруға арналған сектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1030</td>
-<td colspan="2">Жеңіл атлетикалық жолдар</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="5">Музыка кабинеті</td>
-</tr>
-<tr>
-<td>1031</td>
-<td colspan="2">«Ноталық» сынып тақтасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1032</td>
-<td colspan="2">Компьютерге арналған жанама құрылғысы бар үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1033</td>
-<td colspan="2">Мұғалім орындығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1034</td>
-<td colspan="2">Екі орынды оқушы үстелі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>1035</td>
-<td colspan="2">Оқушы орындығы</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>1036</td>
-<td colspan="2">Жартылай әйнектелген жабық шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1037</td>
-<td colspan="2">Жүйелілік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1038</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1039</td>
-<td colspan="2">Микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1040</td>
-<td colspan="2">Қабырға акустикалық жүйесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1041</td>
-<td colspan="2">Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1042</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1043</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1044</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1045</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1046</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1047</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1048</td>
-<td colspan="2">Микрофонды музыкалық</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1049</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1050</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1051</td>
-<td colspan="2">Электронды оқу басылымдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1052</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1053</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1054</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1055</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1056</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1057</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1058</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1059</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1060</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1061</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1062</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1063</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1064</td>
-<td colspan="2">Фортепиано</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1065</td>
-<td colspan="2">Пианино сандығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1066</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1067</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td colspan="5">Лингафон кабинеті</td>
-</tr>
-<tr>
-<td>1068</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1069</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1070</td>
-<td colspan="2">Оқытушы креслосы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1071</td>
-<td colspan="2">Оқушының жартылай кабина-үстелі</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>1072</td>
-<td colspan="2">Оқушының орындығы</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>1073</td>
-<td colspan="2">Оқу-көрнекілік құралдарға арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1074</td>
-<td colspan="2">Пульт преподавателя</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1075</td>
-<td colspan="2">Кабинеттің үлестіруші блогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1076</td>
-<td colspan="2">Оқушының басқару блогы</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>1077</td>
-<td colspan="2">Микрофонды-телефонная гарнитура</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>1078</td>
-<td colspan="2">МР-3 плеер</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1079</td>
-<td colspan="2">Қабырға стендтері мен плакаттар жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1080</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="5">Мультимедиялық лингафонды кабинет</td>
-</tr>
-<tr>
-<td>1081</td>
-<td colspan="2">Маркерлі тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1082</td>
-<td colspan="2">Оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1083</td>
-<td colspan="30">Алып тасталды - ҚР Білім және ғылым министрінің м.а. 29.12.2017 № 662 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.</td>
-</tr>
-<tr>
-<td>1084</td>
-<td colspan="2">Оқушының жартылай кабина-үстелі</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>1085</td>
-<td colspan="2">Оқушының орындығы</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>1086</td>
-<td colspan="2">Кеңсе техникасы астына қойылатын тірек</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1087</td>
-<td colspan="2">Оқу-көрнекілік құралдарға арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1088</td>
-<td colspan="2">Оқытушының жүйелік блогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1089</td>
-<td colspan="2">Оқушының жүйелік блогы</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>1090</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>1091</td>
-<td colspan="2">Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1092</td>
-<td colspan="2">Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1093</td>
-<td colspan="2">Микрофонды-телефондық гарнитура</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>1094</td>
-<td colspan="2">Көпфункционалды лазер құрылғысы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1095</td>
-<td colspan="2">Желілік коммутатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1096</td>
-<td colspan="2">Интерактивті тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1097</td>
-<td colspan="2">Ультрақысқафокусты проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1098</td>
-<td colspan="2">Проекторға арналған қабырғалық бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1099</td>
-<td colspan="2">Лингафонды құрал-жабдықтар</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>1100</td>
-<td colspan="2">Кабинеттің үлестіруші блогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1101</td>
-<td colspan="2">Оқушының басқару блогы</td>
-<td>дана</td>
-<td>14</td>
-</tr>
-<tr>
-<td>1102</td>
-<td colspan="2">Кабинетті басқару жүйесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1103</td>
-<td colspan="2">Плакаттар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1104</td>
-<td colspan="2">Дәрі қорап</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1105</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>1106</td>
-<td colspan="2">Электрмен жабдықтау тұстамасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">алғашқы әскери және технологиялық дайындық кабинеті</td>
-</tr>
-<tr>
-<td>1107</td>
-<td colspan="2">Аудиториялық қабырға тақтасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1108</td>
-<td colspan="2">Компьтермен жабдықталған оқытушы үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1109</td>
-<td colspan="2">Оқытушы орындығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1110</td>
-<td colspan="2">Екі адамдық оқушы үстелі</td>
-<td>дана</td>
-<td>13</td>
-</tr>
-<tr>
-<td>1111</td>
-<td colspan="2">Оқушыға арналған орындық</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>1112</td>
-<td colspan="2">Шыны ескіпен жабылатын шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1113</td>
-<td colspan="2">Оқытудың техникалық құралдары</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1114</td>
-<td colspan="2">Жүйелі блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1115</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1116</td>
-<td colspan="2">Микрофонды телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1117</td>
-<td colspan="2">Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1118</td>
-<td colspan="2">Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1119</td>
-<td colspan="2">Желілік жүйе</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1120</td>
-<td colspan="2">Көп қызметті құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1121</td>
-<td colspan="2">Интерактивті тақта немесе экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1122</td>
-<td colspan="2">Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1123</td>
-<td colspan="2">Проекторды төбеге бекіткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1124</td>
-<td colspan="2">Қабырға стендтері</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1125</td>
-<td colspan="2">Алғашқы әскери дайындық бойынша плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1126</td>
-<td colspan="2">Азаматтық қорғаныс бойынша плакаттар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1127</td>
-<td colspan="2">Қазақстан Республикасы Қарулы Күштерінің жалпыәскери Жарғыларының жинағы</td>
-<td>жиынтық</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1128</td>
-<td colspan="2">«Алғашқы әскери дайындық» бойынша электронды оқу құралы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Күндізгі кезекшінің міндеттерін іс жүзінде үйрену үшін жабдықтар</td>
-</tr>
-<tr>
-<td>1129</td>
-<td colspan="2">Тақтайдан жасалған тұғырша (күндізгі кезекшінің орны)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1130</td>
-<td colspan="2">Рота бойынша кезекші мен күндізгі кезекшінің құжаттарына арналған тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1131</td>
-<td colspan="2">Сүңгі-пышақтың макеті</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1132</td>
-<td colspan="2">Сүңгі-пышақ қынының макеті</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1133</td>
-<td colspan="2">Өрт сөндіру құралы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1134</td>
-<td colspan="2">Телефон аппараты (макет немесе қолданыстағы)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1135</td>
-<td colspan="2">Түмбі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Қару және әскери-техникалық мүлікті сақтау бөлме</td>
-</tr>
-<tr>
-<td>1136</td>
-<td colspan="2">Өрт сөндіру құралы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1137</td>
-<td colspan="2">Газтұмылдырық пен әскери-техникалық мүлікті сақтауға арналған стеллаж</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1138</td>
-<td colspan="2">Қару сақтауға арналған шкаф (пирамида)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1139</td>
-<td colspan="2">Медициналық қобдиша (метал жәшіктегі)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1140</td>
-<td colspan="2">Калашников автоматының макеті</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1141</td>
-<td colspan="2">Пневматикалық винтовка</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1142</td>
-<td colspan="2">Жалпыәскери қорғану жинағы</td>
-<td>жинақ</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1143</td>
-<td colspan="2">Сүзгілі жалпыәскери газтұмылдырық</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1144</td>
-<td colspan="2">Азаматтық газтұмылдырық</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1145</td>
-<td colspan="2">Респиратор</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1146</td>
-<td colspan="2">Химиялық барлау әскери құрылғысы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1147</td>
-<td colspan="2">Радиациялық барлау құрылғысы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1148</td>
-<td colspan="2">Дербес дозиметрлер жинағы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1149</td>
-<td colspan="2">Санитарлық зеңбіл</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1150</td>
-<td colspan="2">Дербес дәрі қобдишасы</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1151</td>
-<td colspan="2">Кіші жаяу әскер күрегі</td>
-<td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td>1152</td>
-<td colspan="2">Оқу-үйрену патрондарының жинағы</td>
-<td>дана</td>
-<td>50</td>
-</tr>
-<tr>
-<td>1153</td>
-<td colspan="2">Пневматикалық виновкаға арналған оқтар</td>
-<td>дана</td>
-<td>3200</td>
-</tr>
-<tr>
-<td>1154</td>
-<td colspan="2">Әскери компас</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1155</td>
-<td colspan="2">Химияға қарсы дербес пакет</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1156</td>
-<td colspan="2">Дербес байлам пакеті</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1157</td>
-<td colspan="2">Пневматикалық винтовкадан оқ атуға арналған қағаз нысана (мишень)</td>
-<td>дана</td>
-<td>800</td>
-</tr>
-<tr>
-<td>1158</td>
-<td colspan="2">Жинағында арнайы қондырғысы бар санитар сөмкесі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1159</td>
-<td colspan="2">Шиналық материал</td>
-<td>жиынтық</td>
-<td>6</td>
-</tr>
-<tr>
-<td>1160</td>
-<td colspan="2">Қан тоқтатуға арналған резеңке жгут</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1161</td>
-<td colspan="2">Мәрлілі бинт</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1162</td>
-<td colspan="2">Гигроскопиялық бинт</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>1163</td>
-<td colspan="2">Таңуға арналған орамал</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>1164</td>
-<td colspan="2">Жалаушалар жинағы</td>
-<td>жиынтық</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1165</td>
-<td colspan="2">Граната тасымалдауға арналған сөмке</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1166</td>
-<td colspan="2">Автомат оқжатарын тасымалдауға арналған сөмке</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1167</td>
-<td colspan="2">Болат дулыға (дулыға)</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1168</td>
-<td colspan="2">Қорғаныс костюмі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="30">алғашқы әскери дайындық қалашығы</td>
-</tr>
-<tr>
-<td>1169</td>
-<td colspan="2">8-де 16 метрге бөлшектеп сызылған, көлемі 9-да 18 метрлік асфальт төселген алаң</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1170</td>
-<td colspan="2">Саптық тәсілді шолуға арналған айна</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1171</td>
-<td colspan="2">Негізгі саптық тәсілдер бейнеленген тақталар</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="5">сақшының міндеттерін іс жүзінде үйретуге арналған орын</td>
-</tr>
-<tr>
-<td>1172</td>
-<td colspan="2">Оққағар және қаруды оқтан, оғын алатын орын</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1173</td>
-<td colspan="2">Өртке қарсы құралдармен жабдықталған қалқан</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1174</td>
-<td colspan="2">Су құйылған бөшке</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1175</td>
-<td colspan="2">Бос бөшке</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1176</td>
-<td colspan="2">Сақшыға арналған күнқағар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1177</td>
-<td colspan="2">Түрегеп тұрып оқ атуға арналған оқпана</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1178</td>
-<td colspan="2">Күзеттегі нысан макеті</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1179</td>
-<td colspan="2">№ 6 мишень (кеуде пішіні)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1180</td>
-<td colspan="2">№ 9 мишень (адам бойы пішіні)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1181</td>
-<td colspan="2">Тактикалық алаң және атыс қалашығы</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>1182</td>
-<td colspan="2">Көлемі 50-де 20 метрлік топырақты алаң</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1183</td>
-<td colspan="2">№6 мишень (кеуде пішіні)</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1184</td>
-<td colspan="2">№7 мишень (белге дейінгі пішін)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1185</td>
-<td colspan="2">№8 мишень (адам бойы пішіні)</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1186</td>
-<td colspan="2">№10 мишень («Қол пулеметі» макеті)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1187</td>
-<td colspan="2">№12 мишень («Танк» макеті)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1188</td>
-<td colspan="2">Атыс жүргізуге арналған таса жинағы (қабырға, баған, оқпана)</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1189</td>
-<td colspan="2">Атуға арналған тіреуіш (құм салынған қап)</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1190</td>
-<td colspan="2">Автоматы бұзып-жинау және оқжатардан оқ алуға арналған үстел</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="5">тактикалық алаң және ату қалашығы</td>
-</tr>
-<tr>
-<td>1191</td>
-<td colspan="2">Негізгі тактикалық және ату тәсілдер бейнеленген тақталар</td>
-<td>дана</td>
-<td>8</td>
-</tr>
-<tr>
-<td>1192</td>
-<td colspan="2">Түрлі деңгейлі параллелді арыс</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1193</td>
-<td colspan="2">Түрлі деңгейлі көпсалалы керме</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1194</td>
-<td colspan="2">Гимнастикалық орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1195</td>
-<td colspan="2">Жолақты кедергілер элементтері</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">тир</td>
-</tr>
-<tr>
-<td>1196</td>
-<td colspan="2">Медициналық қобдиша (метал жәшіктегі)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1197</td>
-<td colspan="2">Гигиеналық жабыны бар төсеніш</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1198</td>
-<td colspan="2">№4 нысана (мишень) (шеңбер сызылған кеуде пішіні)</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1199</td>
-<td colspan="2">№6 нысана (мишень) (кеуде пішіні)</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1200</td>
-<td colspan="2">№8 нысана (мишень) (адам бойы пішіні)</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1201</td>
-<td colspan="2">Көздеу станогы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1202</td>
-<td colspan="2">Түрегеп тұрып атуға арналған тіреуіш-тұғыр</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1203</td>
-<td colspan="2">Атуға арналған тірек (құм салынған қап)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1204</td>
-<td colspan="2">Ату қаруын тазалау және майлауға арналған үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1205</td>
-<td colspan="2">Оққағар-экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1206</td>
-<td colspan="2">Оқытушыға арналған үстел</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1207</td>
-<td colspan="2">Оқытушыға арналған орындық</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1208</td>
-<td colspan="2">Гимнастикалық орындық</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="5">Кітапхана</td>
-</tr>
-<tr>
-<td>1209</td>
-<td colspan="2">Кітапханашының жұмыс орны</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1210</td>
-<td colspan="2">Оқырман формулярларына арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1211</td>
-<td colspan="2">Шкаф-картотека</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1212</td>
-<td colspan="2">Кітапханалық стеллаж</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>1213</td>
-<td colspan="2">Оқу жұмыс үстелі</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>1214</td>
-<td colspan="2">Компьютерлік үстел</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1215</td>
-<td colspan="2">Дөңгелегі бар кресло</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1216</td>
-<td colspan="2">Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>1217</td>
-<td colspan="2">Жүйелік блок</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1218</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1219</td>
-<td colspan="2">Микрофонды-телефондық гарнитура</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1220</td>
-<td colspan="2">Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1221</td>
-<td colspan="2">Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1222</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1223</td>
-<td colspan="2">Көпфункциялық құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Кітапхана қоры</td>
-</tr>
-<tr>
-<td>1224</td>
-<td colspan="2">Оқу әдебиеті</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1225</td>
-<td colspan="2">Анықтамалық әдебиет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1226</td>
-<td colspan="2">Көркем әдебиет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1227</td>
-<td colspan="2">Басқа басылымдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1228</td>
-<td colspan="2">Аудио-видеотека</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1229</td>
-<td colspan="2">Құжат-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1230</td>
-<td colspan="2">Кітап түптейтін құрал-жабдықтар мен материалдар жинақтамасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1231</td>
-<td colspan="2">Кітаптарды жөндеуге және түптеу жұмыстарына арналған құрал-сайман мен материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Ұсынылатын жабдықтар</td>
-</tr>
-<tr>
-<td>1232</td>
-<td colspan="2">Планшетті түрдегі электронды кітаптар</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1233</td>
-<td colspan="2">Теледидар тумбасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1234</td>
-<td colspan="2">А-3 форматты көпфункциялық құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1235</td>
-<td colspan="2">Кітап сканері</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1236</td>
-<td colspan="2">Электронды картотека</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1237</td>
-<td colspan="2">Теледидар</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1238</td>
-<td colspan="2">Анықтамалық жүйеге арналған ақпараттық киоск</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Акт залы</td>
-</tr>
-<tr>
-<td>1239</td>
-<td colspan="2">Секциялық кресло</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1240</td>
-<td colspan="2">Дәрістік мінбер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1241</td>
-<td colspan="2">Сахна киімдері және антрактілік-жылжымалы перде</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1242</td>
-<td colspan="2">Сахна мен радиорубкаға арналған жиһаз</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1243</td>
-<td colspan="2">Төралқаға арналған үстел</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1244</td>
-<td colspan="2">Төралқаға арналған орындық немесе кресло</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>1245</td>
-<td colspan="2">Ноутбук</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1246</td>
-<td colspan="2">Проектор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1247</td>
-<td colspan="2">Проекторға арналған бекіткіш немесе үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1248</td>
-<td colspan="2">Проекциялық экран</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1249</td>
-<td colspan="2">Тіреуі бар колонка жинағы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1250</td>
-<td colspan="2">Сымсыз микрофон</td>
-<td>жиынтық</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1251</td>
-<td colspan="2">Сым тартылған микрофон</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1252</td>
-<td colspan="2">Микрофондарға арналған тірек</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1253</td>
-<td colspan="2">Пульт-микшер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1254</td>
-<td colspan="2">Синтезатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1255</td>
-<td colspan="2">Күшейткіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1256</td>
-<td colspan="2">Музыкалық орталық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Ұсынылатын жабдықтар</td>
-</tr>
-<tr>
-<td>1257</td>
-<td colspan="2">Концерттік рояль немесе пианинно</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1258</td>
-<td colspan="2">Кәсіби-сахналық микрофонды-телефон гарнитурасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Әкімшілік бөлмелердің жабдықтары және жиһазы</td>
-</tr>
-<tr>
-<td>1259</td>
-<td colspan="2">Директор кабинеті</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1260</td>
-<td colspan="2">Басшыға арналған үстел комплекті</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1261</td>
-<td colspan="2">Басшының креслосы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1262</td>
-<td colspan="2">Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>1263</td>
-<td colspan="2">Кабинетке арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1264</td>
-<td colspan="2">Телефон</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1265</td>
-<td colspan="2">Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1266</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1267</td>
-<td colspan="2">Микрофонды-телефондық гарнитура</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1268</td>
-<td colspan="2">Web-камера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1269</td>
-<td colspan="2">Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1270</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="5">Қабылдау бөлмесі</td>
-</tr>
-<tr>
-<td>1271</td>
-<td colspan="2">Кабинетке арналған үстел</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1272</td>
-<td colspan="2">Дөңгелегі бар кресло</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1273</td>
-<td colspan="2">Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1274</td>
-<td colspan="2">Кабинетке арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1275</td>
-<td colspan="2">Телефон</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1276</td>
-<td colspan="2">Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1277</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1278</td>
-<td colspan="2">Акустикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1279</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1280</td>
-<td colspan="2">Көпфункционалды құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="5">Әдістемелік кабинет</td>
-</tr>
-<tr>
-<td>1281</td>
-<td colspan="2">Кабинетке арналған үстел</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1282</td>
-<td colspan="2">Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>1283</td>
-<td colspan="2">Кабинетке арналған шкаф</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1284</td>
-<td colspan="2">Жүйелік блок</td>
-<td>дана</td>
+<td>3424</td>
+<td>Сынып тақтасына арналған 5 заттан тұратын сызба құралдары</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1285</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1286</td>
-<td colspan="2">Микрофонды-телефондық гарнитура</td>
-<td>дана</td>
+<td>3425</td>
+<td>Тәжірибелерге арналған ыдыстар мен керек-жарақтардың жиынтық</td>
+<td>жиынты</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1287</td>
-<td colspan="2">Web-камера</td>
-<td>дана</td>
-<td>1</td>
+<th></th>
+<th>Сандық зертхана</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>1288</td>
-<td colspan="2">Акустикалық жүйе</td>
-<td>дана</td>
+<td>3426</td>
+<td>Жаратылыстану-ғылыми цикл пәндері бойынша эксперименттерге арналған сездіргілер жиыны</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1289</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>1290</td>
-<td colspan="2">Көпфункциялы құрылғы</td>
-<td>дана</td>
-<td>1</td>
+<th></th>
+<th>Биология бойынша демонстрациялық оқу құралдары мен жабдықтары</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>1291</td>
-<td colspan="2">Интерактивті тақта</td>
+<td>3427</td>
+<td>Сандық USB микроскоп</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1292</td>
-<td colspan="2">Проектор</td>
+<td>3428</td>
+<td>Гүлдің әмбебап үлгісі</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1293</td>
-<td colspan="2">Проекторға арналған бекіткіш</td>
+<td>3429</td>
+<td>Адам денесі 85 сантиметр</td>
 <td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1294</td>
-<td colspan="2">Электронды оқу басылымдарының</td>
-<td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="5">Оқу-тәрбие жөніңдіге директордың орынбасары кабинеті</td>
+<th></th>
+<th>Физика бойынша демонстрациялық оқу құралдары мен жабдықтары</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>1295</td>
-<td colspan="2">Кабинетке арналған үстел</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1296</td>
-<td colspan="2">Дөңгелегі бар кресло</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1297</td>
-<td colspan="2">Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1298</td>
-<td colspan="2">Кабинетке арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1299</td>
-<td colspan="2">Телефон</td>
-<td>дана</td>
+<td>3430</td>
+<td>Негізгі немесе орта мектепке қойылатын талаптарға сәйкес физиканы оқытуға арналған құралдар мен керек-жарақтар</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1300</td>
-<td colspan="2">Жүйелік блок</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1301</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
-<td>2</td>
+<th></th>
+<th>Химия бойынша демонстрациялық оқу құралдары мен жабдықтары</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>1302</td>
-<td colspan="2">Микрофонды-телефондық гарнитура</td>
-<td>дана</td>
+<td>3431</td>
+<td>Электр химиядан тәжірибелерге арналған жиынтық</td>
+<td>жиынты</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1303</td>
-<td colspan="2">Акустикалық жүйе</td>
-<td>дана</td>
+<td>3432</td>
+<td>Кристалл торлардың демонстрациялық жиынтық</td>
+<td>жиынты</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1304</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>4</td>
+<th></th>
+<th>Сыныпқа оқушыларға арналған жиынтықтағы аспаптар мен керек-жарақтар (екі оқушыға 1 құрал есебінен)</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>1305</td>
-<td colspan="2">Көпфункциялық құрылғы</td>
-<td>дана</td>
+<td>3433</td>
+<td>Анатомия, ботаника, зоология, жалпы биология бойынша микропрепараттар</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="5">Шаруашылық істері бойынша орынбасардың бөлмесі</td>
-</tr>
-<tr>
-<td>1306</td>
-<td colspan="2">Біртумбалы үстел</td>
-<td>дана</td>
+<td>3434</td>
+<td>Оқушы микроскопы 640х</td>
+<td>жиын</td>
 <td>1</td>
-</tr>
-<tr>
-<td>1307</td>
-<td colspan="2">Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1308</td>
-<td colspan="2">Кабинетке арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
 </tr>
 <tr>
-<td>1309</td>
-<td colspan="2">Телефон</td>
-<td>дана</td>
+<td>3435</td>
+<td>Органикалық және бейорганикалық молекулалардың үлгілері</td>
+<td>жиын</td>
 <td>1</td>
-</tr>
-<tr>
-<td colspan="5">Бухгалтерия</td>
 </tr>
 <tr>
-<td>1310</td>
-<td colspan="2">Кабинетке арналған үстел</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1311</td>
-<td colspan="2">Дөңгелегі бар кресло</td>
-<td>дана</td>
+<td>3436</td>
+<td>Зертханалық жұмыстарға арналған ыдыс</td>
+<td>жиын</td>
 <td>1</td>
-</tr>
-<tr>
-<td>1312</td>
-<td colspan="2">Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1313</td>
-<td colspan="2">Кабинетке арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
 </tr>
 <tr>
-<td>1314</td>
-<td colspan="2">Телефон</td>
-<td>дана</td>
+<td>3437</td>
+<td>Газ жинауға арналған құрал</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1315</td>
-<td colspan="2">Өртке төзімді сейф</td>
-<td>дана</td>
+<td>3438</td>
+<td>Зертханалық құрама штатив</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1316</td>
-<td colspan="2">Жүйелік блок</td>
-<td>дана</td>
-<td>1</td>
+<th></th>
+<th>Әрбір білім алушының есебінен қорғаныс құралдары</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>1317</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
+<td>3439</td>
+<td>Оқушыларға арналған ашықтүрдегі қорғаныс көзілдірігі</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1318</td>
-<td colspan="2">Үздіксіз қорек көзі</td>
-<td>дана</td>
+<td>3440</td>
+<td>Оқушыларға арналған химиялық төзімді қорғаныс қолғаптары</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1319</td>
-<td colspan="2">Акустикалық жүйе</td>
-<td>дана</td>
+<td>3441</td>
+<td>Оқушыларға арналған медициналық м/м халат</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1320</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
+<th></th>
+<th>Химиялық реактивтер жиынтығы</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>1321</td>
-<td colspan="2">Көпфункциялық құрылғы</td>
-<td>дана</td>
+<td>3442</td>
+<td>Оқыту бағдарламасына сәйкес тәжірибелер мен эксперименттерге арналған химиялық реактивтер жиынтығы</td>
+<td>жиынты</td>
 <td>1</td>
-</tr>
-<tr>
-<td colspan="5">Жүйелік-коммуникативті торабының жабдықтары және жиһазы</td>
 </tr>
 <tr>
-<td>1363</td>
-<td colspan="2">Сервер</td>
-<td>дана</td>
-<td>1</td>
+<th></th>
+<th>Оқу құралдары, стендтер мен кестелер</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>1364</td>
-<td colspan="2">Монитор</td>
-<td>дана</td>
+<td>3443</td>
+<td>Электрондық оқу басылымдарының жиыны</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1365</td>
-<td colspan="2">Үздіксіз қорек көзі</td>
-<td>дана</td>
+<td>3444</td>
+<td>Пластик негіздегі қабырға стендтерінің жиыны</td>
+<td>жиын</td>
 <td>1</td>
-</tr>
-<tr>
-<td>1366</td>
-<td colspan="2">Желілік фильтр</td>
-<td>дана</td>
-<td>2</td>
 </tr>
 <tr>
-<td>1367</td>
-<td colspan="2">Қолжетімділік коммутатор</td>
-<td>дана</td>
+<td>3445</td>
+<td>Химия, физика және биология пәндерінен электронды плакаттар</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1368</td>
-<td colspan="2">Коммутациялық шкаф</td>
+<td>3446</td>
+<td>Виртуалды зертханалық жұмыстар БЖ</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1369</td>
-<td colspan="2">Үстел</td>
-<td>дана</td>
-<td>1</td>
+<th></th>
+<th>Қосымша керек-жарақтар</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>1370</td>
-<td colspan="2">Кресло</td>
+<td>3447</td>
+<td>Керек-жарақтары бар дәрі қобдишасы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>1371</td>
-<td colspan="2">Медициналық дәрі қорап</td>
+<td>3448</td>
+<td>Қоқыс себеті</td>
 <td>дана</td>
 <td>1</td>
-</tr>
-<tr>
-<td colspan="5">Білім алушылардың жеке пайдалануы үшін жабдықтар</td>
 </tr>
 <tr>
-<td>1198</td>
-<td colspan="2">Оқулықтар, ауыстыратын аяқ киімін және спорттық құралдарын сақтауға арналған жеке шкаф</td>
+<td>3449</td>
+<td>Резеңкеленген алжапқыш</td>
 <td>дана</td>
-<td>25</td>
-</tr>
-<tr>
-<td colspan="5">Робот техникасымен, зерттеу және жобалау қызметімен айналасуға арналған инновациялық және жоғары технологиялық жабдықтар</td>
-</tr>
-<tr>
-<td>1199</td>
-<td colspan="2">Ноутбук</td>
-<td>Дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1200</td>
-<td colspan="2">Желілік фильтр</td>
-<td>Дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1201</td>
-<td colspan="2">Басып шығаруға арналған пластигі бар 3-D принтер</td>
-<td>Дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>1202</td>
-<td colspan="2">Бағдарламалық қамтамасыз етілген микрокомпьютер, сервомоторлар, датчиктер, құрылыс элементтері, зарядтаушы құрылғы, интерактивтік сабақтар, оқу-әдістемелік кешеннен тұратын робототехникалық жинақ</td>
-<td>Жинақ</td>
-<td>4</td>
-</tr>
-<tr>
-<td>1203</td>
-<td colspan="2">Мониторы бар және бағдарламалық қамтамасыз етілген микропроцессорлік компьютер базасындағы бағдарламалауды оқытуға арналған жинақ</td>
-<td>Жинақ</td>
-<td>5</td>
-</tr>
-<tr>
-<td>1204</td>
-<td colspan="2">Микроконтроллері мен командалық интерпретаторы бар плата базасындағы робототехникалық жинақ және оқу әдістемелік кешен</td>
-<td>Жинақ</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1205</td>
-<td colspan="2">Зерттеу қызметіне арналған датчиктер жинағы</td>
-<td>Жинақ</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1206</td>
-<td colspan="2">Бағдарламалау мүмкіндігі бар электрондық компоненттер мен механикалық модельдер, әдістемелік құралдан тұратын жобалау қызметіне арналған жинақ</td>
-<td>Жинақ</td>
-<td>10</td>
-</tr>
-<tr>
-<td>1207</td>
-<td colspan="2">Лицензиялық бағдарламалар, оның ішінде микроконтроллермен жұмысқа арналған үстел және мобильдік операциялық жүйесінің кешені, құжаттаманы, мультимедиалық деректерді және оқу-әдістемелік материалдарды қарау құралдары, визуалды әзірлеу құралдары, редакторлар, дерекқорлар, микроконтролердің жұмысын атқаратын виртуалды машиналар, үш өлшемді модельдерді жасауға, схемаларды жобалауға және интертетте жұмыс істеуге арналған бағдарламалар</td>
-<td>Жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1208</td>
-<td colspan="2">Жарыстар мен олимпиадаларға қатысуға арналған жинақ</td>
-<td>Жинақ</td>
 <td>1</td>
-</tr>
-<tr>
-<td>1209</td>
-<td colspan="2">Антропоморфтік робот</td>
-<td>Дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1210</td>
-<td colspan="2">Виртуалды ортаны және толықтырылған шынайылықты жасауға арналған жабдықтар мен бағдарламалық қамтамасыз ету кешені және әдістемелік құрал</td>
-<td>Жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1211</td>
-<td colspan="2">Баннерлік матадағы жаттығу алаңдары</td>
-<td>Дана</td>
-<td>10</td>
-</tr>
-</table>
-<strong>Арнайы білім беру ұйымдарын құралдар мен жиһаздармен жабдықтаудың нормасы</strong>
-</td>
 </tr>
 </table>
 
+## Арнайы білім беру ұйымдарын жабдықтар мен және жиһазбен жабдықтау, сондай-ақ білім беру ұйымдарында ерекше білім беруді қажет ететін тұлғалардың ( балалардың) білім алуы үшін арнайы жағдайлар жасау нормалары
+
 <table>
 <tr>
-<td>№</td>
-<td>Атауы</td>
-<td>Өлшеу бірлігі</td>
-<td>Саны</td>
+<th>№</th>
+<th>Атауы</th>
+<th>Өлшем бірлігі</th>
+<th>Саны</th>
 </tr>
 <tr>
-<td colspan="4">Оңалту орталықтары мен психологиялық-педагогикалық түзеу кабинеттері, психологиялық-медициналық-педагогикалық консультациялар, мектепке дейінгі арнайы білім беру ұйымдардағы, арнайы (түзеу) білім беру ұйымдарында түзеу-дамыту ортасын құруға арналған жабдықтар</td>
+<th></th>
+<th colspan="3">Арнайы және басқа да білім беру ұйымдарында ерекше білім берді қажет ететін балалардың білім алуы үшін арнайы жағдайлар жасауға, сондай-ақ түзету-дамыту ортасын құруға арналған жабдық</th>
 </tr>
 <tr>
-<td colspan="4">Полифункционалдық жабдықтар</td>
+<th></th>
+<th colspan="3">Көп функциялы жабдық</th>
 </tr>
 <tr>
-<td>1</td>
-<td>Жұмсақ еден жасау үшін төсеніш</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Жұмсақ еден жасау үшін жиналмалы төсеніштер</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Әртүрлі конфигурациядағы жұмсақ қабырғалы құрғақ бассейн: төртбұрышты, дөңгелек толықтырғыштары бар: бір көлемдегі түрлі-түсті пластикалық шариктер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Жұмсақ полифункционалдық конструкторлар</td>
+<td>3450</td>
+<td>Жұмсақ көп функционалды жиынтық, конструкторлар</td>
 <td>жиынтық</td>
 <td>4</td>
 </tr>
 <tr>
-<td>5</td>
-<td>Дамыту үшін әртүрлі көлемдегі және түрдегі терапевтикалық доп</td>
+<td>3451</td>
+<td>Жұмсақ еденді жасауға арналған еден төсеніші</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3452</td>
+<td>Жұмсақ еденді жасауға арналған жиналмалы төсеніш</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3453</td>
+<td>Жууға болатын әртүрлі түсті полимерлі мата менқапталған поролоннан жасалған жұмсақ жиһаз</td>
+<td>жиын</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3454</td>
+<td>дамытуға арналған әртүрлі және түрлі мөлшердегі толтырылатын терапиялық доптар</td>
 <td>дана</td>
 <td>6</td>
 </tr>
 <tr>
-<td>6</td>
-<td>Сезіну дағдыларын дамыту үшін жұмсақ тактильді-дамытушы панель</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Тактильдік-көру панельдері көру қабілеті бұзылған балаларға арналған, тактильді, көру және дыбыстық стимуляция мен ұсақ моторикасы мен ойын терапиясын дамытуымен үйлесуі мүмкін.</td>
+<td>3455</td>
+<td>Сипау дағдыларын дамытуға арналған жұмсақ тактильді-дамытушы панель</td>
 <td>дана</td>
 <td>5</td>
 </tr>
 <tr>
-<td>8</td>
-<td>Жуылатын түрлі-түсті полимер матасымен қапталған жұмсақ және қауіпсіз поролон жихазы</td>
-<td>жиынтық</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="4">Интерактивтік модульдер және панно</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Интерактивтік сенсорлық қабырға панелі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Интерактивтік сенсорлық еден панелі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Дыбыстық ықпал, логиканы дамыту, ойын терапиясы және жануарлардың дыбыстарын ажыратуға арналған интерактивтік дыбыстық панель</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Акустикалық тактильдік қабырға панелі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Түзеу-дамыту компьютер ойындары мен бағдарламалар жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Жекелік және топтық сабақтарға арналған дидактикалық модульдік кешендер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Дидактикалық дамытушы ойындар және көмекші құрал</td>
-<td>жиынтық</td>
-<td>6</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Математикалық білімдерді қалыптастыруға арналған жүйелік дидактикалық материал</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Мультимедиялық интерактивтік бағдарламалық-әдістемелік оқу кешені</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Дидактикалық еден ойын жинағы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Монтессори-педагогикасы элементтері бар дидактикалық дамыту материалы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Сенсорлық бөлме</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Арнайы білім беру ұйымдарына арналған, оның ішінде мектепке дейінгі, жалпы білім беретін ұйымдардағы, психологиялық-медициналық-педагогикалық консультациялардағы, оңалту орталықтар мен психологиялық-педагогикалық түзеу кабинеттеріндегі жабдықтар тізімі</td>
-</tr>
-<tr>
-<td colspan="4">Емдік дене-шынықтыру залы</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Бактерицидті қабырға сәулелендіргіші</td>
+<td>3456</td>
+<td>Музыкалық аспаптар панелі</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>22</td>
-<td>Медициналық таразы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Секундомер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Өлшеуіш лента</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Бой өлшеуіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Қол динамометрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>27</td>
-<td>Доптарға арналған манеж</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>28</td>
-<td>Сақтандыру белдігі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Допты үрлеуге арналған сорғыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>30</td>
-<td>Қабырға айнасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>31</td>
-<td>Арқан саты</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>32</td>
-<td>Жүруге арналған төбешіктер</td>
-<td>дана</td>
-<td></td>
-</tr>
-<tr>
-<td>33</td>
-<td>Бөрене</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>34</td>
-<td>Швед қабырғасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>35</td>
-<td>Қабырғалы тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Еңбектеуге арналған жиынтықтық доға</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Арқан</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>38</td>
-<td>Кегльдер жиынтығы</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>39</td>
-<td>Дөнгелектер жиынтығы</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>40</td>
-<td>Кубтар</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>41</td>
-<td>Ұзын түрлі-түсті баулар</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>42</td>
-<td>Қысқа түрлі-түсті баулар</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>43</td>
-<td>Физиодоп</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>44</td>
-<td>Терапевтикалық белдік</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>45</td>
-<td>Үлкен спорттық төсеніш</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>46</td>
-<td>Кішкентай спорттық төсеніш</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>47</td>
-<td>Еңкеймелі орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>48</td>
-<td>Ірі габаритті жұмсақ модуль</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>49</td>
-<td>Атлетикалық доп</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>50</td>
-<td>Тактильді жол</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>51</td>
-<td>Үрлемелі доп</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>52</td>
-<td>Резеңке доп</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>53</td>
-<td>Балаларға арналған шеңбер</td>
+<td>3457</td>
+<td>Көру қабілеті бұзылған адамдар санатына арналған тактильді-көру панелі</td>
 <td>дана</td>
 <td>5</td>
 </tr>
 <tr>
-<td>54</td>
-<td>Гимнастикалық таяқ</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>55</td>
-<td>«Парашют» бейімдегіші</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>56</td>
-<td>Сылдырлақ</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>57</td>
-<td>Секіргіш</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>58</td>
-<td>Секірмек</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>59</td>
-<td>Гимнастикалық орындық</td>
+<td>3458</td>
+<td>Тактильді- дамытушы панель</td>
 <td>дана</td>
 <td>3</td>
 </tr>
 <tr>
-<td>60</td>
-<td>0,2; 0, 5; 1 килограммдық гантельдер</td>
-<td>дана</td>
-<td></td>
+<td>3459</td>
+<td>Әртүрлі конфигурациядағы жұмсақ қабырғалары мен пластикалық шарлары бар құрғақ бассейн</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
-<td>61</td>
-<td>Түрлі-түсті жалаушалар</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>62</td>
-<td>Ұзын бау</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>63</td>
-<td>Қысқа бау</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>64</td>
-<td>Тербелмелі платформа</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>65</td>
-<td>Керуге арналған тренажер</td>
+<td>3460</td>
+<td>Тактильді жәшік</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>66</td>
-<td>Жүріс еліктегіші</td>
+<th></th>
+<th>Интерактивтік модулдер мен панно</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3461</td>
+<td>Ойын түрінде танымдық функцияларды, жалпы моториканы жақсартуға арналған интерактивті сенсорлық еден модульдері</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>67</td>
-<td>Қимыл белсенділігін дамытуға арналған ойын жиынтығы</td>
+<td>3462</td>
+<td>Тактильді акустикалық қабырға панелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3463</td>
+<td>Дыбыс әсеріне, логиканы дамытуға, ойын терапиясына және жануарлардың дауыстарына жыратуға арналған интерактивті дыбыстық панель</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3464</td>
+<td>Интерактивті сенсорлық қабырға панелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3465</td>
+<td>Интерактивті сенсорлық еден</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Дидактикалық және оқыту ойындары мен оқу құралдары</th>
+</tr>
+<tr>
+<td>3466</td>
+<td>Дидактикалық оқу құралы бар дамытатын ойыншық</td>
 <td>жиынтық</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3467</td>
+<td>Жеке және топтық сабақтарға арналған дидактикалық модульдік кешен</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>68</td>
-<td>Жүруге үйрететін екі қабатты құрылғы</td>
-<td>жиынтық</td>
+<td>3468</td>
+<td>Дидактикалық еденді койын жиыны</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>69</td>
+<td>3469</td>
+<td>Монтессори-педагогика элементтері бар дидактикалық дамытушы материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3470</td>
+<td>Математикалық білім ді қалыптастыруға арналған жүйелі дидактикалық материал</td>
+<td>жиын</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3471</td>
+<td>Компьютерлік түзету-дамыту ойындары мен бағдарламаларының жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3472</td>
+<td>Мультимедиялық интерактивті оқыту бағдарламалық-әдістемелік кешені (қазақ, орыс және ағылшын тілдерінде)</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<th colspan="2">Сенсорлық бөлме</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3473</td>
+<td>Ауа-көпіршікті түтікке арналған қабырғалы акрил айналар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3474</td>
+<td>Жарық көзі бар айналы шар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3475</td>
+<td>Басқару пульті бар интерактивті ауа-көпіршікті түтік</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3476</td>
+<td>Интерактивті ауа көпіршікті-түтікке арналған жұмсақ платформа</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3477</td>
+<td>Қабырға, еден төсеніштері</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3478</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3479</td>
+<td>Тактильді панельдер</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3480</td>
+<td>Әр түрлі мөлшердегі түйіршіктері бар пуфик-кресло</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3481</td>
+<td>Жиында кварц құмы бар, құм мен сурет салуға арналған жарық үстелі</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3482</td>
+<td>Пластикалық жартылай мөлдір шарлар мен толтырылған құрғақ бассейн</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3483</td>
+<td>Тактильді кілемше</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3484</td>
+<td>Жарық көзі бар фиброоптикалық талшықтар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3485</td>
+<td>Фиброоптикалық кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3486</td>
+<td>Фиброоптикалық туннель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Емдік дене шынықтыру залы</th>
+</tr>
+<tr>
+<td>3487</td>
 <td>Батут</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>70</td>
-<td>Эластик баумен бекітілген доптар</td>
+<td>3488</td>
+<td>Бөрене</td>
 <td>дана</td>
-<td>15</td>
-</tr>
-<tr>
-<td>71</td>
-<td>Дыбысты нысана</td>
-<td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td>72</td>
-<td>Массаж жұмырша</td>
+<td>3489</td>
+<td>Медициналық таразылар</td>
 <td>дана</td>
-<td>5</td>
+<td>1</td>
 </tr>
 <tr>
-<td>73</td>
-<td>Массаж кілемше</td>
+<td>3490</td>
+<td>Гантельдер 0,2, 0,5, 1 килограмм</td>
 <td>дана</td>
 <td>3</td>
 </tr>
 <tr>
-<td colspan="4">Логопед кабинеті</td>
-</tr>
-<tr>
-<td>74</td>
-<td>Компьютерге арналаған тумбочкасы бар үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>75</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>76</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>77</td>
-<td>Магниттік/пробкалы тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>78</td>
-<td>Жүйелік блок, монитор, акустикалық жүйе, телефон-микрофондық гарнитура, желілік фильтр, үздіксіз қуат көзі, көпқызметтік құрылғы, орысша және қазақша әріпті клавиатура, «тышқан» басқарғышы, модем</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>79</td>
-<td>Балалар үстелі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>80</td>
-<td>Балалар орындығы</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>81</td>
-<td>Кілем</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>82</td>
-<td>Ортопедиялық орындығы (2 көлем)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>83</td>
-<td>Тірек-қозғалыс аппаратының бұзылулары бар балаларға массаж кушеткасы, реттелетін</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>84</td>
-<td>Тірек-қозғалыс аппаратының бұзылулары бар балаларға үстел-парта</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>85</td>
-<td>Логопедиялық топтық сабақтарға арналған қабырға айнасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>86</td>
-<td>Логопедиялық жекелей сабақтарға арналған қабырға айнасы</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>87</td>
-<td>Ауырлатқыштар (салмақтары 500 гр., 1 кг., 2 кг.)</td>
-<td>жиынтық</td>
-<td>3</td>
-</tr>
-<tr>
-<td>88</td>
-<td>Логопедиялық шпатель</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>89</td>
-<td>Қойылымдылық логопедиялық зонд</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>90</td>
-<td>Массаждық логопедиялық зонд</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>91</td>
-<td>Көмекші логопедиялық зонд</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>92</td>
-<td>Стерилизатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>93</td>
-<td>Музыкалық орталық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>94</td>
-<td>Ауызша сөйлеу ауытқушылықтарды түзеуге арналған мультимедиялық кешен</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>95</td>
-<td>Компьютерлік түзеу-дамыту ойындары мен бағдарламаларының жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>96</td>
-<td>Жеке компьютер базасындағы жаттықтырушы (лексикалық-грамматикалық және дыбыстық-сойлеу жақтарды дамытуға арналған)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>97</td>
-<td>Қарапайым сөйлеу коммуникациясын дамыту және игеруге арналған сөйлеу жаттықтырушысы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>98</td>
-<td>Лексикалық тақырыптар бойынша үстел ойын немесе ойыншық</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>99</td>
-<td>Көрнекі-дидактикалық материал</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>100</td>
-<td>Бактерицидті қабырғалық сәулелендіргіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>101</td>
-<td>Әдістемелік әдебиет, арнайы және оқу құралдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Психолог кабинеті</td>
-</tr>
-<tr>
-<td>102</td>
-<td>Компьютерге арналаған тумбочкалы үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>103</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>104</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>105</td>
-<td>Магниттік/пробкалы тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>106</td>
-<td>Жүйелік блок, монитор, акустикалық жүйе, телефон-микрофондық гарнитура, желілік фильтр, үздіксіз қуат көзі, көпқызметтік құрылғы, орысша және қазақша әріпті клавиатура, «тышқан» басқарғышы, модем</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>107</td>
-<td>Балаларға арналған үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>108</td>
-<td>Балаларға арналған орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>109</td>
-<td>Ортопедиялық орындық (2 көлемде)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>110</td>
-<td>Диван</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>111</td>
-<td>Жұмсақ жұмыршалар</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>112</td>
-<td>Кілем</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>113</td>
-<td>Қабырға айнасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>114</td>
-<td>DVD-плеер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>115</td>
-<td>Бактерицидті қабырға сәулелендіргіші</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>116</td>
-<td>Ойын қызметін дамытуға арналған үстел ойыны немесе ойыншық</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>117</td>
-<td>Ынталандырушы көрнекі дидактикалық материал</td>
-<td>жиынтық</td>
-<td>3</td>
-</tr>
-<tr>
-<td>118</td>
-<td>Рельефті ынталандырушы көрнекі-дидактикалық материл</td>
-<td>жиынтық</td>
-<td>3</td>
-</tr>
-<tr>
-<td>119</td>
-<td>Қарапайым сөйлеу коммуникациясын дамыту және игеруге арналған сөйлеу жаттықтырушысы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>120</td>
-<td>Әдістемелік әдебиет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Арнайы педагог (дефектологтың) кабинеті</td>
-</tr>
-<tr>
-<td>121</td>
-<td>Компьютерге арналаған тумбочкалы үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>122</td>
-<td>Жартылай жұмсақ орындық.</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>123</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>124</td>
-<td>Магниттік/пробкалы тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>125</td>
-<td>Жүйелік блок, монитор, акустикалық жүйе, телефон-микрофондық гарнитура, желілік фильтр, үздіксіз қуат көзі, көпқызметтік құрылғы, орысша және қазақша әріпті клавиатура, «тышқан» басқарғышы, модем</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>126</td>
-<td>Балаларға арналған үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>127</td>
-<td>Балаларға арналған орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>128</td>
-<td>Ортопедиялық орындық (2 көлемде)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>129</td>
-<td>Бактерицидті қабырға сәулелендіргіші</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>130</td>
-<td>Кілем</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>131</td>
-<td>Көрнекі-дидактикалық материал, пәндік және сюжеттік суреттер, ұсақ моториканы дамытуға арналған құрал</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>132</td>
-<td>Ойын қызметін дамытуға арналған үстел ойыны немесе ойыншық</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>133</td>
-<td>Қарапайым сөйлеу коммуникациясын дамыту және игеруге арналған сөйлеу жаттықтырушысы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>134</td>
-<td>Монтессори-педагогикасының элементтері бар дамытушы дидактикалық материалдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>135</td>
-<td>Әдістемелік әдебиет, оқулық және көмекші оқу құрал</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Тифлопедагогтың кабинеті</td>
-</tr>
-<tr>
-<td>136</td>
-<td>Компьютерге арналаған тумбочкалы үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>137</td>
-<td>Жартылай жұмсақ орындық.</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>138</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>139</td>
-<td>Балаларға арналған үстел</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>140</td>
-<td>Балаларға арналған орындық</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>141</td>
-<td>Кілем</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>142</td>
-<td>Брайль бойынша баспа машинасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>143</td>
-<td>Көзі көрмейтіндерге арналған оқитын машинасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>144</td>
-<td>Нашар көретіндерге арналған стационарлық үлкейткіш құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>145</td>
-<td>Нашар көретіндерге арналған портативті үлкейткіш құрылғы</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>146</td>
-<td>DAISY плеер, медиа-плеер, кітап оқудың форматындағы тифлоплеер, онлайн, FM-радио, сағат, диктофон</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>147</td>
-<td>Бір оқу жылына арналған бір оқушы есебі бойынша Брайль шрифтінде жазуға арналған құрал-жабдықтар</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>148</td>
-<td>Бір оқу жылына арналған бір оқушы есебі күңгірт қабатты арнайы қағаз</td>
-<td>бет</td>
-<td>200</td>
-</tr>
-<tr>
-<td>149</td>
-<td>Бір оқу жылына арналған бір оқушы есебінен рельефті-нүктелі шрифтімен жазуға арналған арнайы қағаз</td>
-<td>бет</td>
-<td>1500</td>
-</tr>
-<tr>
-<td>150</td>
-<td>Бір оқу жылына арналған бір оқушы есебінен Брайль алфавитін оқыту құралдары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>151</td>
-<td>Бір оқу жылына арналған бір оқушы есебінен сызығы анық сызықты дәптер</td>
-<td>дана</td>
-<td>50</td>
-</tr>
-<tr>
-<td>152</td>
-<td>Бір оқу жылына арналған бір оқушы есебінен сызығы анық торкөзді дәптер</td>
-<td>дана</td>
-<td>60</td>
-</tr>
-<tr>
-<td>153</td>
-<td>Бір оқу жылына арналған бір оқушы есебінен Брайльдің рельефті нүктелі баспааға арналған арнайы қағаз</td>
-<td>бет</td>
-<td>500</td>
-</tr>
-<tr>
-<td>154</td>
-<td>Бір оқу жылына арналған бір оқушы есебінен кеңістіктегі бағытталуға арналған тифлотехникалық құралдардың жинағы</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>155</td>
-<td>Рельефтік көрнекіліктер, тактильді диаграммалар мен рельефті суреттерді дайындауға арналған принтер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>156</td>
-<td>Басылған бейнелерді тактильдікке ауыстыруға болатын, тактильдік диаграммалар мен рельефтік суреттерді дайындауға арналған, арнайы қағазы бар принтер</td>
-<td>бет</td>
-<td>150</td>
-</tr>
-<tr>
-<td>157</td>
-<td>Тактильдік зерттеуге арналған макет, муляж, скульптуралық бейне</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>158</td>
-<td>Тактильдік зерттеуге арналған жан-жануарлар мен құстардың тұлыптары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>159</td>
-<td>Жануалар, көше мен көлік шуы, құстар сайрауы т.б. дыбыстары жазбаларының фонотекасы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>160</td>
-<td>Әріптер мен буындарды кассасы, бір жылға арналған бір оқушы есебінен сандық касса (ірі шрифтті)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>161</td>
-<td>Көзбен қабылдауды зерттеу бойынша тесттер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>162</td>
-<td>Сезім түйсігін зерттеуге арналған түрлі материалдардан дайындалған заттар жиынтығы, иістер колекциясы және түрлі иісті фломастерлер</td>
-<td>жинақ</td>
-<td>3</td>
-</tr>
-<tr>
-<td>163</td>
-<td>Қажеттіліктері бойынша әрбір оқушыға арналған диктофон</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>164</td>
-<td>Қажеттіліктері бойынша әрбір оқушыға арналған Брайльдік органайзер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>165</td>
-<td>Әрбір оқушыға аналған сурет салу, оқу, жазуға арналған көзі нашар көретіндерге арналған оптикалық құралдар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>166</td>
-<td>Қажеттіліктеріне байланысты әрбір оқушыға арналған Брайльдік мектеп құралдары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>167</td>
-<td>Әрбір жұмыс орнына арналған жергілікті жарық шамы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>168</td>
-<td>Аймақтағы және ғимараттағы әртүрлі көз бағыттары</td>
-<td>жиынтық</td>
-<td>5</td>
-</tr>
-<tr>
-<td>169</td>
-<td>Мақал-мәтелдер картотекасы (жатықбасу нұсқасымен, Брайль жүйесі бойынша және үлкейтілген шрифтімен)</td>
-<td>жиынтық</td>
-<td>3</td>
-</tr>
-<tr>
-<td>170</td>
-<td>Көрсеткіштер бойынша әрбір оқушыға арналған кеңістіктегі бағытталуға үйретуге арналған тифлоқұрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>171</td>
-<td>Әдістемелік әдебиет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Сурдопедагог кабинеті</td>
-</tr>
-<tr>
-<td>172</td>
-<td>Компьютерге арналаған тумбочкалы үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>173</td>
-<td>Жартылай жұмсақ орындық.</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>174</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>175</td>
-<td>Магниттік/пробкалы тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>176</td>
-<td>Жүйелік блок, монитор, акустикалық жүйе, телефон-микрофондық гарнитура, желілік фильтр, үздіксіз қуат көзі, көпқызметтік құрылғы, орысша және қазақша әріпті клавиатура, «тышқан» басқарғышы, модем</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>177</td>
-<td>Балаларға арналған үстел</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>178</td>
-<td>Балаларға арналған орындық</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>179</td>
-<td>Ортопедиялық орындық (2 көлем)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>180</td>
-<td>Кілем</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>181</td>
-<td>Жекелей есту-сөйлеуді дамытуға арналған дыбыстық айтылуды қалыптастыру мен есту арқылы қабылдауға арналған есту-сөйлеу тренажеры</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>182</td>
-<td>Сөйлеудің дыбыс шығару және лексика-грамматикалық жағын дамытуға арналған дербес компьютер базасындағы тренажер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>183</td>
-<td>Қарапайым сөйлеу байланысын дамыту және игеруге арналған сөйлеу тренажеры</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>184</td>
-<td>Кохлеарлы имплант пен есту аппараттарын қолданатын оқушылардың есту-сөйлеу оңалтуының сапасын қамтамасыздандыру үшін желісіз оқу сыныбы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>185</td>
-<td>Жекелей FM-жүйесі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>186</td>
-<td>Индукциялық ілмек</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>187</td>
-<td>Лексикалық тақырыптар бойынша үстел ойын мен ойыншық</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>188</td>
-<td>Көрнекі-дидактикалық материал</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>189</td>
-<td>Есту қабілетінің бұзылулары бар балаларды психологиялық-педагогикалық тексеруге арналған жинақ</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>190</td>
-<td>Музыкалық ойыншық</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>191</td>
-<td>Дыбыстық ойыншық</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>192</td>
-<td>Дыбыстық белгіге қозғалыс белгісін қалыптастыруға арналған ойыншықтар жинағы</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>193</td>
-<td>Пәндік суреттер жинағы</td>
-<td>жинақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td>194</td>
-<td>Әдістемелік әдебиет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>195</td>
-<td>Топтық логопедиялық сабақтарға арналған қабырға айнасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>196</td>
-<td>Жекелей логопедиялық сабақтарға арнаған қабырға айнасы</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>197</td>
-<td>Логопедиялық зондтар мен шпатель жинағы</td>
-<td>жиынтық</td>
-<td>5</td>
-</tr>
-<tr>
-<td>198</td>
-<td>Бактерицидті қабырға сәулелендіргіші</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Ерте жастағы балаларға арналған кабинет (0-ден 3 жас аралағында)</td>
-</tr>
-<tr>
-<td>199</td>
-<td>Компьютерге арналаған тумбочкалы үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>200</td>
-<td>Жартылай жұмсақ орындық.</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>201</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>202</td>
-<td>Магниттік/пробкалы тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>203</td>
-<td>Жүйелік блок, монитор, акустикалық жүйе, телефон-микрофондық гарнитура, желілік фильтр, үздіксіз қуат көзі, көпқызметтік құрылғы, орысша және қазақша әріпті клавиатура, «тышқан» басқарғышы, модем</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>204</td>
-<td>Стол-мольберт</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>205</td>
-<td>Бала орындығы</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>206</td>
-<td>Ортопедиялық орындық (2 шамада)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>Кілем</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>208</td>
-<td>Қауіпсіз қабырға айнасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>209</td>
-<td>Әртүрлі шариктері бар, борттары 50 см биіктіктегі құрғақ бассейн</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>210</td>
-<td>Полифункционалды модуль</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>211</td>
-<td>Пәндік және ойын қызметін дамытуға арналған ойыншық</td>
-<td>дана</td>
-<td>30</td>
-</tr>
-<tr>
-<td>212</td>
-<td>Көрнекі-дидактикалық материал</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>213</td>
-<td>Монтессори-педагогиксы элементтері бар дидактикалық дамыту материал</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>214</td>
-<td>Қарапайым сөйлеу арқылы байланыс жасауды дамыту және игеру үшін сөйлеу тренажеры.</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>215</td>
-<td>Ерте жастағы балалардың психофизикалық дамуын скринингтеуге арналған жиынтық</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>216</td>
-<td>Бактерицидті қабырға сәулелендіргіші</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>217</td>
-<td>Әдістемелік әдебиет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Әлеуметтік педагогтың кабинеті (қызметкер)</td>
-</tr>
-<tr>
-<td>218</td>
-<td>Компьютерге арналаған тумбочкалы үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>219</td>
-<td>Жартылай жұмсақ орындық.</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>220</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>221</td>
-<td>Балалар үстелі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>222</td>
-<td>Балалар орындығы</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>223</td>
-<td>Ортопедиялық орындық (2 шамада)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>224</td>
-<td>Флипчарт</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>225</td>
-<td>Жұмсақ жихаз жинағы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>226</td>
-<td>Күңгірт сәулелі аспа шам</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>227</td>
-<td>Кілем</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>228</td>
-<td>Жүйелік блок, қазақ және орыс тіліндегі пернетақта, «тышқан» манипуляторы, модем, дыбыстық колонкалар, принтер, үздіксіз тоқ беру көзі UPS</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>229</td>
-<td>Ақпараттық қабырға</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>230</td>
-<td>Дамытушы дидактикалық материал</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>231</td>
-<td>Бактерицидті қабырға сәулелендіргіші</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>232</td>
-<td>Әдістемелік әдебиет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Музыка залы</td>
-</tr>
-<tr>
-<td>233</td>
-<td>Бала орындықтары</td>
-<td>дана</td>
-<td>40</td>
-</tr>
-<tr>
-<td>234</td>
-<td>Фортепиано орындығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>235</td>
-<td>Телевизор тумбасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>236</td>
-<td>Хореографиялық білдек</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>237</td>
-<td>Көмекші құралдарға арналған шкаф</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>238</td>
-<td>CD-DVD-дискілер жинағы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>239</td>
-<td>DVD-плеер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>240</td>
-<td>Музыкалық орталық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>241</td>
-<td>Телевизор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>242</td>
-<td>Балаларға арналған музыкалық құрал</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>243</td>
-<td>Дыбыстық кітап</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>244</td>
-<td>Дыбыстық ойыншық</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>245</td>
-<td>Дыбыс шығаратын ойыншық</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>246</td>
-<td>Қолдан жасалған дыбысты ойыншық</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>247</td>
-<td>Музыкалық саты</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>248</td>
-<td>Музыкалық зырылдауық</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>249</td>
-<td>Фортепиано немесе сандық пианино</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>250</td>
-<td>Композиторлар портреттерінің жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>251</td>
-<td>Демонстрациялық сурет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>252</td>
-<td>Музыкалық-дидактикалық ойын</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>253</td>
-<td>Түрлі-түсті жалаушалар</td>
-<td>дана</td>
-<td>24</td>
-</tr>
-<tr>
-<td>254</td>
-<td>Айдаршық</td>
-<td>дана</td>
-<td>24</td>
-</tr>
-<tr>
-<td>255</td>
-<td>Салют</td>
-<td>дана</td>
-<td>24</td>
-</tr>
-<tr>
-<td>256</td>
-<td>Түрлі-түсті бау</td>
-<td>дана</td>
-<td>24</td>
-</tr>
-<tr>
-<td>257</td>
-<td>Гүл</td>
-<td>дана</td>
-<td>24</td>
-</tr>
-<tr>
-<td>258</td>
-<td>Қамшы</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>259</td>
-<td>әртүрлі ертегі кейіпкерлері, жан-жануарлар, өсімдіктердің бейнесі бар бас киімдер немесе маскалар</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>260</td>
-<td>Ұлттық костюм</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>261</td>
-<td>Карнавалдық костюм</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>262</td>
-<td>Костюм детальдары</td>
-<td>дана</td>
-<td>100</td>
-</tr>
-<tr>
-<td>263</td>
-<td>Ермек-ойыншығы</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>264</td>
-<td>Музыкалық-дидактикалық ойын</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>265</td>
-<td>Жұмсақ ойыншық</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>266</td>
-<td>Пәндік ойыншық</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="4">Ритимика кабинеті</td>
-</tr>
-<tr>
-<td>267</td>
-<td>Қабырға айнасы</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>268</td>
-<td>Индукциялық ілмек жүйесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>269</td>
-<td>Музыкалық орталық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>270</td>
-<td>DVD-жалғауы бар телевизор</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>271</td>
-<td>Жазу үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>272</td>
-<td>Жұмсақ орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>273</td>
-<td>Балалар орындығы</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>274</td>
-<td>Фортепиано немесе сандық пинино</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>275</td>
-<td>Фортепиано орындығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Психологиялық-медициналық-педагогикалық кеңеске арналған жабдықтар</td>
-</tr>
-<tr>
-<td>276</td>
-<td>Балалар столы</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>277</td>
-<td>Балалар орындығы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>278</td>
-<td>Еден орындықтар</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>279</td>
-<td>Ортопедиялық орындықтар (3 көлемдегі)</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>280</td>
-<td>Бөлеу үстелі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Диагностика-кеңестік көмек көрстеуді ұйымдастыру жабдықтар</td>
-</tr>
-<tr>
-<td>281</td>
-<td>Компьютерге арналаған тумбочкалы үстел</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>282</td>
-<td>Жартылай жұмсақ орындық.</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>283</td>
-<td>Стол</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>284</td>
-<td>Шкаф</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>285</td>
-<td>Тығынды тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>286</td>
-<td>Жүйелік блок, монитор, қазақ және орыс тіліндегі пернетақта, «тышқан» манипуляторы, модем, дыбыстық колонкалар, принтер, үздіксіз тоқ беру көзі, телефонды –микрофонды гарнитура, жүйелік фильтр, көпфункционалды құрылғы</td>
-<td>жиынтық</td>
-<td></td>
-</tr>
-<tr>
-<td>287</td>
-<td>Бейнекамера</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>288</td>
-<td>Фотоаппарат</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>289</td>
-<td>Факс</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>290</td>
-<td>Телевизор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>291</td>
-<td>DVD-плеер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>292</td>
-<td>Диктофон</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>293</td>
-<td>Статистикалық есепке арналған бағдарламалық пакет</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>294</td>
-<td>Тасымалдауға арналған автокөліктер (келісім бойынша)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>295</td>
-<td>Физикалық және психологиялық даму бұзылулары жөніндегі диагностика және кеңес бойынша арнайы, анықтамалық және оқу-әдістемелік әдебиет</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Есту қызметін зерттеуге арналған дыбыстық оқшауландырылған бөлме</td>
-</tr>
-<tr>
-<td>296</td>
-<td>
-Есту қызметін зерттеуге арналған жабдықтар:
-Камертондар жинағы
-Диагностикалық аудиометр
-Тоналды тасымалы аудиометрі
-Аудиометрге ойын жалғауы
-Педиатриялық аудиометр
-</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Невропатолог, психиатр кабинеттерінің жабдықтары</td>
-</tr>
-<tr>
-<td>297</td>
-<td>
-Жабдықтар жиынтығы
-Жедел медициналық көмек көрсету жинағы бар шкаф, бойөлшегіш, еден таразысы, неврорлогиялық балға, шпатель, стерилизатор, сантиметр, неврологиялық фонарь, тонометр, қарау кушеткасы
-</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Офтальмолог кабинеттерінің жабдықтары, алғашқы тексеру бөлмесі және оқшауланған қараңғы бөлме</td>
-</tr>
-<tr>
-<td>298</td>
-<td>Дәрі-дәрмек жиынтығы бар шкаф</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>299</td>
-<td>Балаларға арналған байқау ілдірігі</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>300</td>
-<td>Көру қызметін тексеруге арналған жабдықтар мен диагностикалық кестелер: Орлов, Сивцев кестесі, Рабкин кестелері, офтальмоскоп</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Психологиялық-педагогикалық зерттеу әдістемесі</td>
-</tr>
-<tr>
-<td>301</td>
-<td>Балалардың танымдық қызметін зерттеуге арналған әдістемелер жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>302</td>
-<td>Есту қабілеті бұзылған балаларды психологиялық-педагогикалық зерттеуге арналған кешен</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>303</td>
-<td>Балалардың сөйлеу жағдайын зерттеуге арналған логопедиялық альбом</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>304</td>
-<td>Көру арқылы қабылдау мен ойлаудың көренкі үлгілерін зерттеуге арналған ынталандырушы практикалық материалдар жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>305</td>
-<td>Көру қабілеті бұзылған балаларға арналған психологиялық-педагогикалық тексеру жиынтығы</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>306</td>
-<td>Қыртыс психикалық функцияларын зерттеуге арналған нейропсихологиялық альбом</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>307</td>
-<td>Тұлғааралық қарым-қатынас пен эмоционалды-еріктік аймақты зерттеуге арналған әдістеме</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Психологиялық-педагогикалық түзеу кабинеттері мен оңалту орталықтарына арналған жабдықтар және жиһаз</td>
-</tr>
-<tr>
-<td colspan="4">Емдік дене тәрбиесі залының арнайы жабдықтары</td>
-</tr>
-<tr>
-<td>308</td>
-<td>Механотерапевтикалық оңалту жатықтырушысы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>309</td>
-<td>Массаж білікшесі</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>310</td>
-<td>Массаж кілемшесі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>311</td>
-<td>Жүруге арналған ортпедиялық жатықтырушысы</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>312</td>
-<td>Стенд-вертикализатор</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>313</td>
-<td>Жүру арбасының жатықтырушысы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>314</td>
-<td>Көру қабілеті бұзылған балаларға арналған дыбыстық доп</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>315</td>
-<td>Терапевтикалық білдемше</td>
-<td>дана</td>
-<td>6</td>
-</tr>
-<tr>
-<td>316</td>
-<td>0,5-1,0 килограммдық құм толтырылған қап</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>317</td>
-<td>Көру қабілет бұзылған балалардың кеңістікте көзі көретін адаммен бірге қозғалуына арналған велосипед-тандем</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>318</td>
-<td>Мүмкіндігі шектеулі балаларға арналған велосипед</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>319</td>
-<td>Диаметрі 25, 50 және 75 сантиметр болатын үш доптан тұратын жинақ</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>320</td>
-<td>Әртүрлі өлшемдегі тірек-қимыл аппараттары бұзылған балаларға арналған нейро-ортопедиялық оңалту комбинезоны</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>321</td>
-<td>Әртүрлі өлшемдегі тірек-қимыл аппараттары бұзылған балаларға арналған рефлекторлық жүктемелік құрылғы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>322</td>
-<td>Тірек-қимыл аппараттары бұзылған балаларға арналған екі адамдық коляскалар</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>323</td>
-<td>Тірек-қимыл аппараты бұзылған балаларды жүруге үйрететін екі қабатты бейімдегіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>324</td>
-<td>Функционалды бағана (артқа иілетін вертикализатор)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>325</td>
-<td>Вертикализатор-бағана</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>326</td>
-<td>Иілгіш вертикализатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>327</td>
-<td>Көп қызметті терапевтикалық жүйе</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>328</td>
-<td>Тірек-қозғалысы бұзылған жасөспірмдерге арналған жатқан қалыпқа арналған универсалдық жүйе</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>329</td>
-<td>Жүруге арналған төбешіктер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Эмоционалды-ерікті аймақтары бұзылған балаларға арналған психолог кабинеті ( 20 кв.м)</td>
-</tr>
-<tr>
-<td>330</td>
-<td>Жазба столы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>331</td>
-<td>Жартылай жұмсақ орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>332</td>
-<td>Балалар үстелі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>333</td>
-<td>Балалар орындығы</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>334</td>
-<td>Ортопедиялық орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>335</td>
-<td>Жұмсақ отырғыштар</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>336</td>
-<td>Кілем</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="4">Қысқа мерзімде болу топтары ( күнделікті 3-4 сағат)</td>
-</tr>
-<tr>
-<td>337</td>
-<td>Қысқа мерзімде болу топтарының жабдықтары бұзылымдарына қарай жабдықталған арнайы мектепке дейінгі ұйымдардың жабдықтарымен бірдей болуы керек.</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Есту қабілеті бұзылған балаларға арналған</td>
-</tr>
-<tr>
-<td colspan="4">Оқытудың арнайы техникалық және компенсаторлық құралдары</td>
-</tr>
-<tr>
-<td>338</td>
-<td>Стационарлық дыбыскүшейткіш жабдықтар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>339</td>
-<td>Оқу бағдарламасына сәйкес оқу жылында құлағы нашар еститін балаға арналған жұмыс дәптері</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>340</td>
-<td>Құлағы нашар еститін балаларға арналған жұмыс дәптері</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>341</td>
-<td>Оқу бағдарламасына сәйкес әрбір оқу жылында құлағы естімейтін балаларға арналған оқу көмекші құралы.</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>342</td>
-<td>Оқу бағдарламасына сәйкес әрбір оқу жылында құлағы естімейтін балаларға арналған оқу көмекші құралы.</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td colspan="4">Ойын бөлмелері, акт және спорт залдарға арналған жабдықтар</td>
-</tr>
-<tr>
-<td>343</td>
-<td>Индукционды ілмек</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>344</td>
-<td>Оқу аудиториясына арналған дыбыскүшейткіш жүйе</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Көру қабілеті зақымдалған балаларға</td>
-</tr>
-<tr>
-<td colspan="4">Офтальмолог-дәрігер (ортоптикалық кабинет) кабинетінің жабдықталуы</td>
-</tr>
-<tr>
-<td>345</td>
-<td>Көру өткірлігін тексеру үшін жарығы бар кестелер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>346</td>
-<td>Оптикалық шынылар топтамасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>347</td>
-<td>Балаларға арналған байқау ілдірігі</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>348</td>
-<td>Скиаскопиялық сызғыш</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>349</td>
-<td>Қол айна офтальмоскопы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>350</td>
-<td>Офтальмометр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>351</td>
-<td>Водовозовтың офтальмохромоскопы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>352</td>
-<td>Қол электр офтальмоскопы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>353</td>
-<td>Үстел үсті периметрі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>354</td>
-<td>Түстесті</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>355</td>
-<td>Қуыс лампасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>356</td>
-<td>Монобиноскоп (немесе үлкен рефлекссіз офтальмоскоп)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>357</td>
-<td>Жақыннан көру функцияларын белгілеуге арналған құрал</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>358</td>
-<td>Көздің қан қысымын тексеруге арналған контактісіз тонометр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>359</td>
-<td>Коордиметрия құралы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>360</td>
-<td>Эргограф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>361</td>
-<td>Диоптриметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>362</td>
-<td>Офтальмоскопия шамы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>363</td>
-<td>Синоптофор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>364</td>
-<td>Шектеуіш-корректор</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>365</td>
-<td>Оқуға арналған торша</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>366</td>
-<td>Хейроскоп</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>367</td>
-<td>Конвергенцтренер</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>368</td>
-<td>Көздің мускултренері</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>369</td>
-<td>Поляроидты макулотестер</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>370</td>
-<td>Макулоынталандырғыш (қарама-қарсы сезімталдықты жатықтырушы)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>371</td>
-<td>Призмалық компенсатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>372</td>
-<td>Импульсты жарығы бар лампа (немесе «Плиз»)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>373</td>
-<td>Диплоптикалық жаттығуларға арналған призмалар топтамасы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>374</td>
-<td>аккомодотренер</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>375</td>
-<td>НТ аккомодотренер</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>376</td>
-<td>Матрешкалар, пирамидалар, салғыш-ойындар</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>377</td>
-<td>Әр түрлі көлемдегі мозаика</td>
-<td>динақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>378</td>
-<td>Әр түрлі мөлшердегі бөлшектері бар құрылыс құрастырғыштары</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>379</td>
-<td>Шеңберлерді кигізу, домалақтарды лақтыру ойыны</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>380</td>
-<td>Көру кеңістігінде ауытқушылықтары бар балаларға арналған қажетті көру кеңістігінің шеңберінде өзгеріске ұшырайтын арнайы оптикалық жүйелер</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>381</td>
-<td>Амблиокор</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="4">Тірек-қимыл аппаратының бұзылыстары бар балаларға</td>
-</tr>
-<tr>
-<td>382</td>
-<td>Оқу бағдарламасына сәйкес оқу жылында балаға арналған жұмыс дәптері</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>383</td>
-<td>Оқу бағдарламасына сәйкес оқу жылында әрбір балаға арналған жұмыс дәптері</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>384</td>
-<td>Ортопедиялық орындық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>385</td>
-<td>Стендер-вертикализатор</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>386</td>
-<td>Еден орындығы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>387</td>
-<td>Бейімделетін мольберт-үстел</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>388</td>
-<td>Вертикализатор-тірек</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>389</td>
-<td>Тірек рамасы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Емдік дене шынықтыру залы</td>
-</tr>
-<tr>
-<td>390</td>
-<td>Түрлі көлемдегі нейро-ортопедиялық оңалту комбинезоны</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>391</td>
-<td>Түрлі көлемдегі рефлекторлы—жүктемелік құрал</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>392</td>
-<td>Оңалту механотерапиялық жаттықтырғыш</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>393</td>
-<td>Массаж валик</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>394</td>
-<td>Массаж кілем</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>395</td>
-<td>Жүруге арналған ортопедиялық жаттықтырғыш</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>396</td>
-<td>Иілгіш вертикализатор</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>397</td>
-<td>Жүруге арналған жаттықтырушы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>398</td>
-<td>Терапиялық валик, жастық</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>399</td>
-<td>Құм салынған дорбалар, салмағы 150-200грамм</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>400</td>
-<td>Еңкейіп тұратын орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>401</td>
-<td>Үлкен габаритті жұмсақ модуль</td>
-<td>диынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>402</td>
-<td>Тактильды жол</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>403</td>
-<td>Іздер (топтама)</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>404</td>
-<td>Қол мен аяқтарды ауырлатқыш</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>405</td>
-<td>Жүру еліктегіші</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>406</td>
-<td>Екі баланы тасуға арналған коляска</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>407</td>
-<td>Жүруге үйрету үшін арналған екі қабатты құрал</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>408</td>
-<td>Функциональді тірек (артқа еңкейген)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>409</td>
-<td>4-5 жасқа дейінгі балаларға арналған төсемелі – көпқызметті терапевтикалық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>410</td>
-<td>Жасөспірмдерге арналған жатқан қалыпқа арналған универсалдық жүйе</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>411</td>
+<td>3491</td>
 <td>Жүруге арналған төбешік</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="4">балалар ауласы</td>
+<td>3492</td>
+<td>балаларға арналған ойын жиындары, оның ішінде: тіректер, гимнастикалық таяқшалар, қорғаныс шарлары, эстафеталық таяқшалар, секіртпелер, арқандар</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
-<td>412</td>
-<td>Бір адамға арналға қауіпсіз әткеншек</td>
+<td>3493</td>
+<td>Қол динамометрі</td>
 <td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3494</td>
+<td>Қырлы тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3495</td>
+<td>Өрмелеуге арналған доға жиында</td>
+<td>жиын</td>
 <td>2</td>
 </tr>
 <tr>
-<td>413</td>
-<td>Екі адамға арналға қауіпсіз әткеншек</td>
+<td>3496</td>
+<td>Қабырғалық айна</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>414</td>
-<td>Тау</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>415</td>
-<td>Құмсалғыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>416</td>
-<td>Далада ойнауға арналған ойын жинағы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>417</td>
-<td>Балалар ойындарына арналған үй</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>418</td>
-<td>Орындық</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>419</td>
-<td>Турник</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>420</td>
-<td>Ойын шытырманы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Есту қабілеті зақымдалған балаларға</td>
-</tr>
-<tr>
-<td>421</td>
-<td>Фронталды оқу қызметін қамтамасыздандыруға станционарлы дыбыс күшейткіш құралдар (әр сыныпқа)</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>422</td>
-<td>Мультимедиялық компьютерлік сынып</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>423</td>
-<td>Оқу бағдарламасына сәйкес оқу жылында нашар еститін балаларға арналған жұмыс дәптері әр балаға</td>
-<td>дана</td>
-<td>
-20
-.
-</td>
-</tr>
-<tr>
-<td>424</td>
-<td>Оқу бағдарламасына сәйкес оқу жылында нашар еститін балаға арналған жұмыс дәптері</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>425</td>
-<td>Оқу бағдарламасына сәйкес оқу жылында нашар еститін балаға арналған оқу көмекші құралдары</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>426</td>
-<td>Оқу бағдарламасына сәйкес оқу жылында нашар еститін балаға арналған оқу көмекші құралдары</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td>427</td>
-<td>Әрбір балаға арналған жекелей есту аппараттары (бинаурально)</td>
-<td>дана</td>
-<td>20</td>
-</tr>
-<tr>
-<td colspan="4">Ойын бөлмелері, акт және спорт залы</td>
-</tr>
-<tr>
-<td>428</td>
-<td>Индукционды ілмек</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>429</td>
-<td>Оқу аудиториясына арналған дыбыскүшейткіш жүйе</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Көру қабілеті бұзылған балаларға</td>
-</tr>
-<tr>
-<td>430</td>
-<td>1+10 компьютерлік сыныптар компьютерлік тифлокомплекстерден тұрады</td>
+<td>3497</td>
+<td>Жаяу жүріс имитаторы</td>
 <td>жиынтық</td>
 <td>3</td>
 </tr>
 <tr>
-<td>431</td>
-<td>Акустикалык кабинеттерде Брайль шрифтімен басып шығаратын принтерлер</td>
+<td>3498</td>
+<td>Арқан</td>
 <td>дана</td>
-<td>3</td>
+<td>1</td>
 </tr>
 <tr>
-<td>432</td>
-<td>Екібағытты аударма мен баспаны жүзеге асыруға арналған бағдрлама</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="4">кітапхана</td>
-</tr>
-<tr>
-<td>433</td>
-<td>Компьютерлік тифлокешен</td>
+<td>3499</td>
+<td>Жиынтық тағы кегльдер</td>
 <td>жиынтық</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3500</td>
+<td>Сақиналақ тырғыш жиынтықта</td>
+<td>жиынтық</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3501</td>
+<td>Әртүрлі өлшемді нейро-ортопедиялық оңалту комбинезоны</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3502</td>
+<td>11 түрлі-түсті сатыдан тұратын жиын</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>434</td>
-<td>Акустикалык кабинеттерде Брайль шрифтері бойынша басып шығаратын принтерлер</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>435</td>
-<td>Көрмейтіндерге арналған дауыстап оқитын машина</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>436</td>
-<td>DAISY плеер, медиа-плеер форматындағы тифлоплеер, кітап оқу, онлайн, FM-радио, сағат, диктофон</td>
+<td>3503</td>
+<td>Текше</td>
 <td>дана</td>
 <td>10</td>
 </tr>
 <tr>
-<td>437</td>
-<td>Стационарлық нашар көретіндерге немесе оқшауланып көруге арналған үлкейткіш құрылғы</td>
+<td>3504</td>
+<td>Ойын лабиринті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3505</td>
+<td>Өлшеу іштаспа</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3506</td>
+<td>Түрлі түсті ұзынтаспа</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3507</td>
+<td>Түрлі түсті қысқа таспа</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3508</td>
+<td>Арқансаты</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3509</td>
+<td>Допқа арналған манеж</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3510</td>
+<td>Массажды білік</td>
 <td>дана</td>
 <td>5</td>
 </tr>
 <tr>
-<td>438</td>
-<td>Портативтік нашар кқретіндерге арналған үлкейткіш құрылығы</td>
-<td>дана</td>
-<td>5</td>
-</tr>
-<tr>
-<td>439</td>
-<td>Рельефті-нүктелі, және үлкейтілген қаріптегі оқу, әдістемелік және көркем әдебиеттер</td>
-<td>комплект</td>
-<td>1</td>
-</tr>
-<tr>
-<td>440</td>
-<td>Брайль бойынша басуға арналған баспа машинасы (бір оқушыға арналған)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>441</td>
-<td>Көрмейтіндерге арналған оқу машинасы (бір сыныпқа арналған)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>442</td>
-<td>Көрмейіндерге арналған Брайлдік органайзер (жоғары сыныптың әрбір оқушыларына арналған)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>443</td>
-<td>Тактильді диаграммалар мен рельефтік суреттерді дайындауға арналған принтер</td>
+<td>3511</td>
+<td>Массажды кілемше</td>
 <td>дана</td>
 <td>3</td>
 </tr>
 <tr>
-<td>444</td>
-<td>Қажеттіліктері бойынша әр сыныптар мен топтарға арналған басып шығарылатын бейнелер тактильдіге айналатындай арнайы қағаз</td>
-<td>бет</td>
-<td>150</td>
-</tr>
-<tr>
-<td>445</td>
-<td>Нашар көретіндерге алыстан қарау үшін және/немесе стационарлық үлкейткіш құрылғы</td>
+<td>3512</td>
+<td>Ізідері бар массаж кілемшесі</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>446</td>
-<td>Қажеттілігі бойынша әрбір оқушыға арналған портативті үлкейткіш құрылғы</td>
+<td>3513</td>
+<td>Спорттық үлкен төсеніш</td>
 <td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3514</td>
+<td>Спорттық кішкене төсеніш</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3515</td>
+<td>Дыбысталған нысана</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>447</td>
-<td>DAISY плеер, медиа-плеер форматындағы тифлоплеер, кітап оқу, онлайн, FM-радио, сағат, диктофон (қажеттілігі бойынша әр оқушыға)</td>
+<td>3516</td>
+<td>ТҚАБ балаларға арналған «Бочча» добы (салмағы 275 грамм, шеңбері 270 миллиметр)</td>
 <td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3517</td>
+<td>Көзікөрмейтіндерге арналған «Голбол» добы</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3518</td>
+<td>Атлетикалық доп</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3519</td>
+<td>Серпімді баусыммен бекітілген доп</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3520</td>
+<td>Толтырылған доп</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>448</td>
-<td>Әрбір сыныпқа арналған жанап өту, дыбыс және көз арқылы оқытатын жүйе</td>
+<td>3521</td>
+<td>Резеңкедоп</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3522</td>
+<td>Қозғалыс белсенділігін дамытуға арналған ойын жиынтығы</td>
 <td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td>449</td>
-<td>Бір жылда бір оқушыға арналған Брайль қарпі арқылы жазуға арналған құралдар жиынтығы</td>
-<td>жиынтық</td>
+<td>3523</td>
+<td>Жұмсақкөп функционалды жиынтық, конструкторлар</td>
+<td>жиын</td>
 <td>2</td>
 </tr>
 <tr>
-<td>450</td>
-<td>Брайль бойынша мектеп құралдары: сызу, жазу, сурет салу (бір оқушыға)</td>
+<td>3524</td>
+<td>Жиында 20 инесі бар, допты үрлеуге арналған сорғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3525</td>
+<td>Қабырғалық бактерицидті сәулелен діргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3526</td>
+<td>Балалар шеңбері</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3527</td>
+<td>Гимнастикалық таяқша</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3528</td>
+<td>Тренажерларға арналған еңкейтілетін панель (қол мен қолсаусақтарын дайындау үшін )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3529</td>
+<td>Тренажерларға арналған қабырғалық панель (білек пен қолсаусақтарын дайындау үшін )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3530</td>
+<td>Тербелмелі платформа</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3531</td>
+<td>Шылдырмақ</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3532</td>
+<td>Сақтандырубелдігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3533</td>
+<td>«Парашют» айла бұйымы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3534</td>
+<td>Жаяу жүруді үйретуге арналған екі деңгейлі айла бұйым</td>
 <td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td>451</td>
-<td>Бір жылда бір оқушыға арналған күңгірт қабатты арнайы қағаз</td>
-<td>бет</td>
+<td>3535</td>
+<td>Секіртпе</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3536</td>
+<td>Бой өлшегіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3537</td>
+<td>Секундомер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3538</td>
+<td>Секіргіш</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3539</td>
+<td>Гимнастикалық орындық</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3540</td>
+<td>Көлбеу орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3541</td>
+<td>Электр жетекті бірсекциялык инезотерапияға арналған үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3542</td>
+<td>Тактильді жол</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3543</td>
+<td>Терапевт тікбілеу</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3544</td>
+<td>Саусақтарды дамытуға арналған «Жұму-ашу» тренажері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3545</td>
+<td>Қолдар мен саусақтарды дамытуға арналған тренажер ( әртүрлі )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3546</td>
+<td>Созуға арналған тренажер</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3547</td>
+<td>Механотерапиялық оңалту тренажері (бойы 90 -140 сантиметр)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3548</td>
+<td>Механотерапиялық оңалту тренажері (бойы 140 сантиметр және оданбиік)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3549</td>
+<td>Ойын құбыры (поролоннан жасалған вестибулярный тренажер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3550</td>
+<td>Әртүрлі өлшемдегі рефлекторлық-жүктемелік құрылғы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3551</td>
+<td>Физиодоп</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3552</td>
+<td>Түрлі түсті жалауша</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3553</td>
+<td>Швед қабырғасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3554</td>
+<td>Ұзынбау</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3555</td>
+<td>Қысқа бау</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Логопед кабинеті</th>
+</tr>
+<tr>
+<td>3556</td>
+<td>Вертикали затор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3557</td>
+<td>Есіктері мен құлыптары бар үй</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3558</td>
+<td>Магнитті/тығынды тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3559</td>
+<td>Жеке логопедтік сабақтарға арналған айна</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3560</td>
+<td>Логопедке арналған ақылды айна</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3561</td>
+<td>Топтық логопедтік сабақтарға арналған қабырға айнасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3562</td>
+<td>Кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3563</td>
+<td>Дамытатын текше</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3564</td>
+<td>Логопедтік қосалқы зонд</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3565</td>
+<td>Массажды логопедтік зонд</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3566</td>
+<td>Қойылымдық логопедтік зонд</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3567</td>
+<td>Логопедтік шпатель</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3568</td>
+<td>Логопедтік түр жиын</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3569</td>
+<td>Тірек-қимыл аппараты бұзылған балаларға арналған реттелетін массаж кушеткасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3570</td>
+<td>Әдістемелік әдебиеттер мен оқу құралдары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3571</td>
+<td>Механикалық метроном</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3572</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3573</td>
+<td>Ауызша сөйлеу бұзылыстарын түзетуге арналған мультимедиялық кешен</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3574</td>
+<td>Компьютерлік коррекциялық- дамыту ойындары мен бағдарламалары</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3575</td>
+<td>Көрнекі-дидактикалық материал</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3576</td>
+<td>Лексикалық тақырыптар бойынша үстел ойыны немесе ойыншық</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3577</td>
+<td>Бағдарламалық жасақтамасы бар үстелдікс өйлеу құрылғысы, 100 хабарламаға 20 батырма</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3578</td>
+<td>Бағдарламалық жасақтамасы бар үстелдік сөйлеу құрылғысы, 20 хабарламаға 4 негізгі және 2 қосымша батырма</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3579</td>
+<td>Қабырғалық бактерицидті сәулелендіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3580</td>
+<td>Жиынында 12,5 килограмм құмы бар құ мен сурет салуға арналған жарық үстел</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3581</td>
+<td>Ерте жастағы балаларға арналған едендік орындық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3582</td>
+<td>Жүйелік блок, монитор, акустикалық жүйе, телефон-микрофон гарнитурасы, желілік фильтр, көп функциялық ұрылғы, перне тақта, тінтуір манипулятор, модем</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3583</td>
+<td>Стерили затор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3584</td>
+<td>Балалар үстелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3585</td>
+<td>Тумбочкасы бар компьютерге арналған үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3586</td>
+<td>Тірек-қимыл аппараты бұзылған балаларға арналған үстел-парта</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3587</td>
+<td>балалар орындығы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3588</td>
+<td>Ортопедиялық орындық (2 өлшем)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3589</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3590</td>
+<td>Хатқа арналған тренажер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3591</td>
+<td>Есту қабілетін дамытуға және коммуникативтік-сөйлеу дағдыларын қалыптастыруға арналған тренажер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3592</td>
+<td>Дербес компьютер базасындағы тренажер (дыбыстың айтылуын және сөйлеудің лексикалық-грамматикалық жағын дамыту үшін )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3593</td>
+<td>Қарапайым сөйлеу коммуникациясын игеруге және дамытуға арналған сөйлеу тренажері</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3594</td>
+<td>Ауырлат қыштар (500 грамм., 1 килограмм., 2 килограмм)</td>
+<td>жиын</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3595</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3596</td>
+<td>«Айтылуы. Дыбыстар әлемі» альбомының электронды нұсқасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Психолог кабинеті</th>
+</tr>
+<tr>
+<td>3597</td>
+<td>Диван</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3598</td>
+<td>Магнитті/тығынды тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3599</td>
+<td>Қабырғалы қайна</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3600</td>
+<td>Кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3601</td>
+<td>Ертежастағы балалардың психофизикалық дамуын зерттеуге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3602</td>
+<td>Ақыл-ойы бұзылған балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3603</td>
+<td>Әдістемелік әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3604</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3605</td>
+<td>Ойын әрекетін дамытуға арналған үстел ойыны немесе ойыншық</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3606</td>
+<td>Қабырғалық бактерицидті сәулелендіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3607</td>
+<td>Жұмсақ пуфик</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3608</td>
+<td>Жүйелік блок, монитор, акустикалық жүйе, телефон-микрофон гарнитурасы, желілік фильтр, көп функциялық ұрылғы, перне тақта, тінтуір манипулятор, модем</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3609</td>
+<td>Ынталандырушы көрнекі-дидактикалық материал</td>
+<td>жиын</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3610</td>
+<td>Ынталандырушы бедерлі көрнекі- дидактикалық материал</td>
+<td>жиын</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3611</td>
+<td>Балалар үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3612</td>
+<td>Тумбочкасы бар компьютерге арналған үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3613</td>
+<td>балалар орындығы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3614</td>
+<td>Ортопедиялық орындық (2 өлшемді)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3615</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3616</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Арнайы педагог (дефектолог) кабинеті</th>
+</tr>
+<tr>
+<td>3617</td>
+<td>Магнитті/тығынды тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3618</td>
+<td>Кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3619</td>
+<td>Әдістемелік әдебиеттер, оқулықтар оқу құралы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3620</td>
+<td>Мультимедиялық интерактивті оқыту бағдарламалық-әдістемелік кешені (қазақ, орыс және ағылшын тілдерінде)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3621</td>
+<td>Ұсақ моториканы дамытуға арналған көрнекі- дидактикалық материал</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3622</td>
+<td>Пәндік және ойын әрекетін дамытуға арналған үстел ойыны немесе ойыншық</td>
+<td>дана</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3623</td>
+<td>Қабырғалық бактерицидті сәулелендіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3624</td>
+<td>Монтессори-педагогика эле менттері мен дамытушы дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3625</td>
+<td>Қарапайым сөйлеу коммуникациясын игеруге және дамытуға арналған сөйлеу тренажері</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3626</td>
+<td>Жүйелік блок, монитор, акустикалық жүйе, телефон-микрофон гарнитурасы, желілік фильтр, көп функциялық ұрылғы, перне тақта, тінтуір манипулятор, модем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3627</td>
+<td>Математикалық білімді қалыптастыруға арналған жүйелі дидактикалық материал</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3628</td>
+<td>балалар үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3629</td>
+<td>Тумбочкасы бар компьютерге арналған үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3630</td>
+<td>Балалар орындығы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3631</td>
+<td>Ортопедиялық орындық (2 өлшем)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3632</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3633</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Тифлопедагог кабинеті</th>
+</tr>
+<tr>
+<td>3634</td>
+<td>Тумбочкасы бар компьютерге арналған үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3635</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3636</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3637</td>
+<td>Қабырғалық магнитті тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3638</td>
+<td>Жеке жұмысқа арналған магниттік тақта</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3639</td>
+<td>Жеке жұмыстарға арналған фланелеграф</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3640</td>
+<td>Қитарланған қылилық, миопия, афакия, глаукомасы бар балаларға арналған оқу тұғыры (әрбірбалаға)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3641</td>
+<td>Қажеттілік бойынша жеке фондық жазықтықтар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3642</td>
+<td>Балалар үстелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3643</td>
+<td>Балалар орындығы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3644</td>
+<td>Кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3645</td>
+<td>Брайль баспа машинасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3646</td>
+<td>Брайль қарпімен, лицензиялық экрандыққол жеткізу бағдарламалық жасақтамасы мен және көзік өрмейтін, нашар көретін, сондай-ақ бір мезгілде көру қабілеті мен есту қабілетінен айрылған білім алушылардың сөйлеу синтезі ментифлокомпьютер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3647</td>
+<td>Нашар көретін білім алушыларға арналған лицензиялық экрандық қол жеткізу және сөйлеу синтезі бағдарламалық жасақтамасы бар ноутбук</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3648</td>
+<td>Екі бағытты аударма мен басуды жүзегеасыруға арналған лицензиялық бағдарлама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3649</td>
+<td>Шужұтатын шкафы бар Брайль басып шығаруға арналған принтер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3650</td>
+<td>Тактильді график анық ұруға арналған құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3651</td>
+<td>Тактильді графика құру құрылғысына арналған қағаз</td>
+<td>дана</td>
+<td>500</td>
+</tr>
+<tr>
+<td>3652</td>
+<td>Зағип жандарға арналған оқу машинасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3653</td>
+<td>Нашар көретіндерге арналған стационарлық үлкейткіш құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3654</td>
+<td>Нашар көретіндерге арналған портативті үлкейткіш құрылғы</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3655</td>
+<td>DAISY ойнатқышы, медиа ойнатқыш, кітап оқу, онлайн, FM радиосы, сағат, диктофон форматын қолдайтын, дыбыстық жазбаны ойнатуға арналған тифлофлешплеер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3656</td>
+<td>Бір оқу жылына бір білім алушыға шаққанда Брайль қарпімен жазуға арналған керек-жарақтар</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3657</td>
+<td>Бір оқу жылына бір білім алушыға шаққанда күңгірт беті бар арнайы қағаз</td>
+<td>парақ</td>
 <td>200</td>
 </tr>
 <tr>
-<td>452</td>
-<td>Бір жылда бір оқушыға арнаған Брайльдің рельефті-нүктелік шрифтімен жазу мен басып шығаруға арналған қағаз.</td>
-<td>бет</td>
-<td>1500</td>
+<td>3658</td>
+<td>Бір оқу жылына 3 жастан асқан көзі көрмейтін бір тәрбиеленушіге шаққанда бедерлі-нүктелі қаріппен жазуға арналған арнайы қағаз</td>
+<td>парақ</td>
+<td>20</td>
 </tr>
 <tr>
-<td>453</td>
-<td>Бір жылда бір оқушыға арналған нашар көретіндерге арналған жақсы көрінетін сызықтары бар торкөзді дәптерлер</td>
+<td>3659</td>
+<td>Бір оқу жылына 3 жастан асқан көзі көрмейтін бір тәрбиеленушіге шаққанда бедерлі сурет салуға арналған үлдір</td>
+<td>парақ</td>
+<td>20</td>
+</tr>
+<tr>
+<td>3660</td>
+<td>Бір оқу жылына бір білім алушыға шаққанда Брайль әліпбиін зерделеу құралдары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3661</td>
+<td>Бір оқу жылына арналған бір оқушы есебінен сызығы анық жол дәптер</td>
+<td>дана</td>
+<td>50</td>
+</tr>
+<tr>
+<td>3662</td>
+<td>Бір оқу жылына арналған бір оқушы есебінен сызығы анық тор көзді дәптер</td>
 <td>дана</td>
 <td>60</td>
 </tr>
 <tr>
-<td>454</td>
-<td>Бір жылда бір оқушыға арналған нашар көретіндерге арналған жақсы көрінетін сызықтары бар дәптерлер</td>
-<td>бет</td>
-<td>50</td>
-</tr>
-<tr>
-<td>455</td>
-<td>Бір жылда бір оқушыға арналған Брайльдің рельефті-нүктелік шрифтімен жазу мен басып шығаруға арналған қағаз</td>
-<td>бет</td>
+<td>3663</td>
+<td>Бір оқу жылына арналған бір оқушы есебінен Брайльдің рельефті нүктелі баспаға арналған арнайы қағаз</td>
+<td>парақ</td>
 <td>500</td>
 </tr>
 <tr>
-<td>456</td>
-<td>Көрсеткіштер бойынша әрбір оқушыға арналған Қылилық, миопиясы, афакиясы, глаукомасы бар балаларға арналған оқу тіректері</td>
+<td>3664</td>
+<td>Бір оқу жылына арналған бір оқушы/тәрбиеленуші есебінен кеңістіктегі бағытталуға арналған тифлотехникалық құралдардың жиынтық</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3665</td>
+<td>Рельефтік көрнекіліктер,тактильді диаграммалар мен рельефті суреттерді дайындауға арналған принтер</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>457</td>
-<td>Бір жылда бір оқушыға арналған Брайль әліпбиін оқуға арналған құралдар</td>
-<td>жиынтық</td>
+<td>3666</td>
+<td>Басып шығарылатын бейнелерді қажетіне қарайәрбір білім алушыға/тәрбиеленушіге тактильді еті птүрлендіруге арналған арнайы қағаз</td>
+<td>парақ</td>
+<td>150</td>
+</tr>
+<tr>
+<td>3667</td>
+<td>Тактильдік зерттеуге арналған макет, нақпішін,мүсіндік бейне</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>458</td>
-<td>Көрсеткіштер бойынша Бағдарлау таяқшасы</td>
+<td>3668</td>
+<td>Тактильдік зерттеуге арналған жан-жануарлар мен құстардың тұлыптары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3669</td>
+<td>Жануалар, көше мен көлікшуы, құстар сайрауы дыбыстары жазбаларының фонотекасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3670</td>
+<td>Әріптер мен буындардың кассасы, біржылға арналған бір оқушы есебінен сандық касса (ірі шрифтті)</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>459</td>
-<td>Тактильді тексеруге арналған макеттер, муляждар, скульптуралық бейнелер, шарнирлі модельдер</td>
-<td>жиынтық</td>
+<td>3671</td>
+<td>Көзбен қабылдауды зерттеу бойынша тесттер</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>460</td>
-<td>Жануарлар мен құстар (жасанды) тұлыптарының жиынтығы</td>
-<td>жиынтық</td>
+<td>3672</td>
+<td>Рельефті-графикалық иллюстрациялық материал (контурлы, аппликациялық, барельефтік суреттер)</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>461</td>
-<td>Әрбір оқушы бастапқы звенға арналған әріптер мен буындар кассасы, цифр кассасы (ірі шрифтпен)</td>
-<td>жиынтық</td>
+<td>3673</td>
+<td>Оқушылардың көру, сипау қабілетін және ұсақ моторикасын дамытуға, кеңістікте бағдарлауға, оқу бағдарламасына сәйкес әлеуметтік-тұрмыстық бағдарлауға арналған дидактикалық материалдар мен оқу құралдары</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>462</td>
-<td>Ірі жазумен жазылған Брайль жүйесі бойынша жазықтықтағы жазумен жазылған жаңылтпаштар, мақал-мәтелдер картотекасы</td>
+<td>3674</td>
+<td>Сезім түйсігін зерттеуге арналған түрлі материалдардан дайындалған заттар жиынтығы, иістер колекциясы және түрлі иісті фломастерлер</td>
 <td>жиынтық</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3675</td>
+<td>Қажет тіліктері бойынша әрбір оқу шыға арналған диктофон</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3676</td>
+<td>Брайль бойынша жазуға арналған Грифель</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3677</td>
+<td>Брайль бойынша жазуға арналған 18-жолды аспап</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3678</td>
+<td>Әрбір білім алушыға сурет салуға, оқуға, жазуға арналған нашар көретіндерге арналған оптикалық құрал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3679</td>
+<td>Ұлғайтқыш әйнек жол</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3680</td>
+<td>Қажеттіліктеріне байланысты әрбір оқушыға арналған Брайльдік мектеп құралдары</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3681</td>
+<td>Рельефті сурет салуға арналған аспап және 3 жастан асқан әрбір көзі көрмейтін тәрбиеленушіге арналған Брайль бойынша жазуға арналған балалар грифелі</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3682</td>
+<td>Әрбір жұмыс орнына жергілікті жарықтандыру шамы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3683</td>
+<td>Үй-жайлар мен аумақтардағы әртүрлі көрнекі бағдарлар</td>
+<td>жиын</td>
 <td>5</td>
 </tr>
 <tr>
-<td>463</td>
-<td>Магнитофонды жазбалардың фонотекасы (жануарлардың, құстардың, көшенің, көліктердің шуы)</td>
+<td>3684</td>
+<td>Мақал-мәтелдердің картотекасы (жазық баспан ұсқасында, Брайль жүйесі бойынша және ірілендірілген қаріппен)</td>
+<td>жиын</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3685</td>
+<td>Көрсе тілімдер бойынша әрбір білім алушыға кеңістікте бағдарлауды оқытуға арналған тифло аспап</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3686</td>
+<td>Әдістемелік әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Есту қабілетін дамыту кабинеті (сурдопедагог кабинеті)</th>
+</tr>
+<tr>
+<td>3687</td>
+<td>Компьютерге арналған тумбочкасы бар үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3688</td>
+<td>Жартылайжұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3689</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3690</td>
+<td>Магнитті/тығынды тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3691</td>
+<td>Жүйелік блок, монитор, акустикалық жүйе, телефон-микрофон гарнитурасы, желілік фильтр, көп функциялық ұрылғы, перне тақта, тінтуір манипулятор, модем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3692</td>
+<td>Балалар үстелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3693</td>
+<td>балалар орындығы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3694</td>
+<td>Ортопедиялық орындық (2 өлшемде)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3695</td>
+<td>Кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3696</td>
+<td>Есту қабілетін дамытуға және коммуникативтік-сөйлеу дағдыларын қалыптастыруға арналған тренажер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3697</td>
+<td>Сөйлеудің дыбыстық және лексикалық-грамматикалық жағын дамытуға арналған дербес компьютер негізіндегі тренажер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3698</td>
+<td>Қарапайым сөйлеу байланысын дамыту және игеруге арналған сөйлеу тренажеры</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3699</td>
+<td>Кохлеарлы имплант пен есту аппараттарын қолданатын оқу шылардың есту-сөйлеу оңалтуының сапасын қамтамасыздандыру үшін желісіз оқу сыныбы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3700</td>
+<td>Дербес FM- жүйесі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3701</td>
+<td>Диагностический аудиометр (с функцией тональной, игровой, речевой аудиометрии и аудиометрии в свободном звуковом поле)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3702</td>
+<td>Индукциялық ілмек жүйесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3703</td>
+<td>Лексикалық тақырыптар бойынша үстелойын мен ойыншық</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3704</td>
+<td>Көрнекі- дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3705</td>
+<td>Есту қабілетінің бұзылулары бар балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3706</td>
+<td>Музыкалық ойыншық</td>
 <td>жиынтық</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3707</td>
+<td>Дыбыстық ойыншық</td>
+<td>жиынтық</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3708</td>
+<td>Дыбыстық белгіге қозғалыс белгісін қалыптастыруға арналған ойыншық тар жинағы</td>
+<td>жиынтық</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3709</td>
+<td>Пәндік картиналардың жиынтығы</td>
+<td>жиынтық</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3710</td>
+<td>Әдістемелік әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3711</td>
+<td>Топтық логопедтік сабақтарға арналған қабырғалық айна</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3712</td>
+<td>Жекелей логопедтік сабақтарға арнаған қабырға айнасы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3713</td>
+<td>Логопедтік зондтар мен шпательдердің жиыны</td>
+<td>жиын</td>
 <td>5</td>
 </tr>
 <tr>
-<td>464</td>
-<td>Оқу бағдарламасына сәйкес оқу жылында әрбір сыныпқа арналған жұмыс дәптері және оқу көмекші құралы</td>
+<td>3714</td>
+<td>Бактерицидті қабырға сәулелендіргіші</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Ерте жастағы балаларға арналған кабинет (0-ден 3 жасаралағында)</th>
+</tr>
+<tr>
+<td>3715</td>
+<td>Компьютерге арналаған тумбочкалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3716</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3717</td>
+<td>Магнитті тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3718</td>
+<td>Жүйелік блок, монитор, акустикалық жүйе, телефон- микрофон гарнитурасы, желілік фильтр, көп функциялық ұрылғы, перне тақта, тінтуір манипулятор, модем</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3719</td>
+<td>Стол-мольберт</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3720</td>
+<td>балалар орындығы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3721</td>
+<td>Ортопедиялық орындық (2 өлшемде)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3722</td>
+<td>Едендік отырғыш (ерте жастағы балалар үшін )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3723</td>
+<td>Бейімдейтін орындық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3724</td>
+<td>Алға жүрісті, артқы жүрісті жақтау</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3725</td>
+<td>Бекіткішті, бекіткішсіз итарбалар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3726</td>
+<td>Гимнастикалық таяқшалар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3727</td>
+<td>Түрлі кедергілер</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3728</td>
+<td>Ірі модульдер</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3729</td>
+<td>Кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3730</td>
+<td>Диаметрі 15, 20,30,35 сантиметр ортопедиялық білік</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3731</td>
+<td>Салмағы 2 килограмм., 4килограмм., 6 килограмм ауырлатқыш (құмсалынған қаптар) төсемдер</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3732</td>
+<td>Дұрысқалып беру үшін қолда бар құралдардан жасалған төсемдер (ұяшық түрінде шиыршықталған көрпе; білік түрінде шиыршықталған моншас үлгісі)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3733</td>
+<td>Вандалға қарсы қабырға айнасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3734</td>
+<td>Ернеуінің биіктігі 50 сантиметр, түрлі-түстішарлары бар құрғақ бассейн</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3735</td>
+<td>Балалар ваннасы ( ойыншық )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3736</td>
+<td>Сиқырлы қапшық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3737</td>
+<td>7*7 сантиметр екітерезесі және жарқын дыбыстық ойыншығы бар ақ экран 35*35 сантиметр</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3738</td>
+<td>Аспалы жиыны менгамак</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3739</td>
+<td>Баспалдағы бартөбешік</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3740</td>
+<td>Қуыршаққа арналған түбек</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3741</td>
+<td>Жібі бар жүк машинасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3742</td>
+<td>Балалар түбегі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3743</td>
+<td>Айна</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3744</td>
+<td>Ойын туннелі, жиналмалы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3745</td>
+<td>ойыншық жиһаз, ағаш</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3746</td>
+<td>ойыншық телефон</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3747</td>
+<td>Балғасы бар ойыншық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3748</td>
+<td>Сенсорлық әсері бар ойыншық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3749</td>
+<td>Жануарлар ойыншық тары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3750</td>
+<td>Камертон</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3751</td>
+<td>Әрекеттерге арналған картиналар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3752</td>
+<td>Жарқын заттың ақ фонда бейнеленгенс уреттері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3753</td>
+<td>Қоларба</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3754</td>
+<td>Кинетикалық құм</td>
+<td>килограмм</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3755</td>
+<td>Кілемше «Шөп», массаж</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3756</td>
+<td>Жол конустары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3757</td>
+<td>Қақпағы барқораптар (банкалар)</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3758</td>
+<td>Қуыршақ төсегі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3759</td>
+<td>Текше-жапсырма</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3760</td>
+<td>Жұмсақ пластикалық және ағаш текшелер</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3761</td>
+<td>Қызыл, көк, сары және жасыл түсті текшелер</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3762</td>
+<td>Қуыршақ, тарақ, шыныаяқ, қасық, табақ</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3763</td>
+<td>Қуыршақ үйі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3764</td>
+<td>Балалар машинасы, кішкентай</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3765</td>
+<td>Ұсақ заттар (моншақтар, таяқшалар, таспалар)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3766</td>
+<td>Микрофон</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3767</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3768</td>
+<td>Жұмсақ ойыншық (қуыршақ, қонжық)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3769</td>
+<td>Қатты жарқырайтын доп және өлшемі 15 сантиметр кәдімгі доп</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3770</td>
+<td>Құрылымдалмаған материал</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3771</td>
+<td>Балалар шеңберлері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3772</td>
+<td>Көкөніс-жемістер (нақпішіндер)</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3773</td>
+<td>Қуыршақтарға арналған киім, маусымдық</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3774</td>
+<td>Қарақұмық қабығымен толтырылған балалар Үкі көрпесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3775</td>
+<td>Парашют</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3776</td>
+<td>Жұптық картиналар</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3777</td>
+<td>3 және 5 сақиналы пирамида</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3778</td>
+<td>Әртүрлі пішіндіс ылдырмақтар</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3779</td>
+<td>Ыдыс (қасық, кесе, тарелка, кәстрөл, шәйнек)</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3780</td>
+<td>тақырыптық және сюжеттік суреттер</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3781</td>
+<td>Тамақ өнімдері (нақ пішіндер)</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3782</td>
+<td>1-еуінде 3 секіргіштері: секіргіштер, тарзанка, әткеншектер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3783</td>
+<td>Пластикті таратқыш ыдыс</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3784</td>
+<td>Қиылатын суреттер</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3785</td>
+<td>Сенсорлы ағаш жол</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3786</td>
+<td>Тұғырық орындық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3787</td>
+<td>Үлкен-кішкене леген</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3788</td>
+<td>Ақ-қарасурет (шахмат тақтасы, шеңберлер, беттер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3789</td>
+<td>Көлемі 3-тен 10 сантиметрге дейінгі шарлар (тегіс, тікенді, шиқылдайтын)</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3790</td>
+<td>Жұмыртқа «Үкі»</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3791</td>
+<td>Объектіні тіркеуге және бақылауға арналған ойыншық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3792</td>
+<td>Жұмсақ көп функционалды жиынтық, конструкторлар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3793</td>
+<td>Пәндік және ойын қызметін дамытуға арналған ойыншық</td>
+<td>дана</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3794</td>
+<td>Жұмсақ көп функционалды жиынтық, конструкторлар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3795</td>
+<td>Көрнекі- дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3796</td>
+<td>Монтессори-педагогика элементтері мен дамытушы дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3797</td>
+<td>Қарапайым сөйлеу коммуникациясын игеруге және дамытуға арналған сөйлеу тренажері</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3798</td>
+<td>Ерте жастағы балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3799</td>
+<td>Ақыл-ойы бұзылған балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3800</td>
+<td>Қабырғалық бактерицидті сәулелендіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3801</td>
+<td>Әдістемелік әдебиеттер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Әлеуметтік педагогтың кабинеті (қызметкер)</th>
+</tr>
+<tr>
+<td>3802</td>
+<td>Компьютерге арналаған тумбочкалы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3803</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3804</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3805</td>
+<td>балалар үстелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3806</td>
+<td>балалар орындығы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3807</td>
+<td>Ортопедиялық орындық (2 өлшемде)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3808</td>
+<td>Флипчарт</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3809</td>
+<td>Жұмсақ жиһаз жинағы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3810</td>
+<td>Күңгірт сәулелі аспашам</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3811</td>
+<td>Кілем</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3812</td>
+<td>Жүйелік блок, монитор, орыс және қазақ алфавиті бар перне тақта, тінтуір манипулятор, модем, дыбыстық колонкалар, принтер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3813</td>
+<td>Ақпараттық стенд</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3814</td>
+<td>дамытушы дидактикалық материал</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3815</td>
+<td>Бактерицидті қабырға сәулелендіргіші</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3816</td>
+<td>Әдістемелік әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Музыкалық зал</th>
+</tr>
+<tr>
+<td>3817</td>
+<td>Демонстрациялық картина</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3818</td>
+<td>Костюм бөлшектері</td>
+<td>дана</td>
+<td>100</td>
+</tr>
+<tr>
+<td>3819</td>
+<td>Дыбысталатын ойыншық</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3820</td>
+<td>Бекітілген әуені бар ойыншық</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3821</td>
+<td>Ермек- ойыншық</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3822</td>
+<td>Бекітілге нәуені бар ойыншық</td>
 <td>дана</td>
 <td>20</td>
 </tr>
 <tr>
-<td colspan="4">Әлуметтік-тұрмыстық бағдарлау кабинеті</td>
+<td>3823</td>
+<td>Танымдық және қозғалыс саласын дамытуға арналған интерактивті жабдықтар</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
-<td>465</td>
-<td>Сынып бөлмесінің макеті (рельефті жоспар)</td>
+<td>3824</td>
+<td>Қамшы</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3825</td>
+<td>Карнавал костюмі</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>3826</td>
+<td>Дыбыстық кітапша</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>466</td>
-<td>Жатын бөлменің макеті (рельефті жоспары)</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>467</td>
-<td>Мектептің рельефті жоспары</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>468</td>
-<td>Мектеп ауласының рельефті жоспары</td>
-<td>дана</td>
+<td>3827</td>
+<td>Композиторлар портреттерінің жиыны</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>469</td>
-<td>Қаланың рельефті жоспары</td>
+<td>3828</td>
+<td>Түрлі түстіт аспа</td>
 <td>дана</td>
-<td>1</td>
+<td>24</td>
 </tr>
 <tr>
-<td>470</td>
-<td>Облыстың рельефті жоспары</td>
+<td>3829</td>
+<td>Музыкалық баспалдақ</td>
 <td>дана</td>
-<td>1</td>
+<td>6</td>
 </tr>
 <tr>
-<td>471</td>
-<td>Шулардың жинағы: тұрмыстағы, табиғи (бір кабинетке)</td>
+<td>3830</td>
+<td>Музыкалық- дидактикалық ойын</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>3831</td>
+<td>Музыкалық зырылдауық</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3832</td>
+<td>балаларға арналған музыкалық аспап</td>
 <td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td>472</td>
-<td>Дыбыстық сүйемелдеуі бар таразы</td>
+<td>3833</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td></td>
-<td>Дыбыстық сүйемелдеу бар қол сағаты</td>
+<td>3834</td>
+<td>Жұмсақ ойыншық</td>
 <td>дана</td>
 <td>10</td>
 </tr>
 <tr>
-<td>473</td>
-<td>Дыбыстық сүйемелдеу бар калькулятор (кабинет)</td>
+<td>3835</td>
+<td>Ұлттық костюм</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>3836</td>
+<td>Пәндік ойыншық</td>
 <td>дана</td>
 <td>10</td>
 </tr>
 <tr>
-<td>474</td>
-<td>Брайлдік оқу сағаты</td>
+<td>3837</td>
+<td>Отшашу</td>
+<td>дана</td>
+<td>24</td>
+</tr>
+<tr>
+<td>3838</td>
+<td>Балалар орындығы</td>
+<td>дана</td>
+<td>40</td>
+</tr>
+<tr>
+<td>3839</td>
+<td>Фортепиано орындығы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>475</td>
-<td>Жүзжылдықты, мыңжылдықты, екі эраны көрсететін уақыт сызығы</td>
+<td>3840</td>
+<td>Сұлтан</td>
+<td>дана</td>
+<td>24</td>
+</tr>
+<tr>
+<td>3841</td>
+<td>Теледидар</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>476</td>
-<td>Қолжуғыш шұңғылша</td>
+<td>3842</td>
+<td>Теледидар тумбасы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>477</td>
-<td>Жануарлардың, көше шуының, көліктің, құстардың дыбыстарының фонотекасы Магнитофондағы жазуды сақтау, фонотека (жануар, дыбыстары, көшенің, көліктің, спорттың шуы,құстардың әні)</td>
-<td>жиынтық</td>
+<td>3843</td>
+<td>Түрлі түсті жалауша</td>
+<td>дана</td>
+<td>24</td>
+</tr>
+<tr>
+<td>3844</td>
+<td>Фортепиано немесе цифрлы пианино</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3845</td>
+<td>Хореографиялық станок</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3846</td>
+<td>Гүл</td>
+<td>дана</td>
+<td>24</td>
+</tr>
+<tr>
+<td>3847</td>
+<td>Әртүрлі ертегі кейіпкерлері, жан-жануарлар, өсімдіктердің бейнесі бар бас киімдер немесе маскалар</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3848</td>
+<td>Оқу құралдарына шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Ритмика кабинеті</th>
+</tr>
+<tr>
+<td>3849</td>
+<td>Қабырға айнасы</td>
+<td>дана</td>
 <td>5</td>
 </tr>
 <tr>
-<td>478</td>
-<td>Әдістемелік әдебиет, оқулық, оқу құралдары.</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>479</td>
-<td>Күн жүйесінің макеті</td>
+<td>3850</td>
+<td>Сымсыз технологиялары бар музыкалық орталық</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>480</td>
-<td>Мектепте жүру ережесі</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>481</td>
-<td>Көрмейтіндерге арналған көшеде жүру ережелері және әдістемелік нұсқаулар</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4">Офтальмолог-дәрігердің кабинеті (ортоптиялық кабинет)</td>
-</tr>
-<tr>
-<td>482</td>
-<td>Көру өткірлігін тексеруге арналған жарығы бар кестелер</td>
+<td>3851</td>
+<td>Индукциялық ілмек жүйесі</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>483</td>
-<td>Оптикалық айнектер жүесі</td>
-<td>жиынтық</td>
+<td>3852</td>
+<td>Индукциялық ілмек жүйесі</td>
+<td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>484</td>
-<td>Балаларға арналған сыналатыноправасы</td>
+<td>3853</td>
+<td>балалар орындығы</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3854</td>
+<td>Фортепиано орындығы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3855</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3856</td>
+<td>Теледидар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3857</td>
+<td>Фортепиано немесе цифрлық пианино</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Психологиялық-медициналық-педагогикалық кеңеске арналған жабдықтар</th>
+</tr>
+<tr>
+<td>3858</td>
+<td>Балалар орындығы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3859</td>
+<td>Балалар үстелі</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>485</td>
+<td>3860</td>
+<td>Еден орындықтар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3861</td>
+<td>Ерте жастағы балаларға арналған еден орындықтар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3862</td>
+<td>Ортопелиялық орындық (3 өлшемде)</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3863</td>
+<td>Бөлеу үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3864</td>
+<td>Магнитті тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3865</td>
+<td>Балалардың танымдық қызметін зерттеуге арналған әдістемелер жиыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3866</td>
+<td>Балалардың сөйлеуін зерттеуге арналған логопедтік альбом</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3867</td>
+<td>Көрнекі қабылдау мен көрнекі ойлау формаларын зерттеуге арналған практикалық ынталандыру материалдарының жиыны: «Сеген тақталары» пазлдары, пішінді қораптар («пошта жәшіктері»), қуыршақтар, пирамидалар және тағы басқа</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3868</td>
+<td>Көру қабілеті бұзылған балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3869</td>
+<td>Қабыршақты психикалық функцияларды зерттеуге арналған нейропсихологиялық альбом</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3870</td>
+<td>Эмоционалды-еріктік саланы және тұлғааралық қатынастарды зерттеу әдістемесі</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3871</td>
+<td>Ақыл-ойы бұзылған балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3872</td>
+<td>Есту қабілеті бұзылған балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3873</td>
+<td>Ерте жастағы балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Диагностика-кеңестік көмек көрсетуді ұйымдастыру жабдықтары мен жиһаз</th>
+</tr>
+<tr>
+<td>3874</td>
+<td>Компьютерге арналған тумбочкалы үстел</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3875</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>12</td>
+</tr>
+<tr>
+<td>3876</td>
+<td>Стол</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3877</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3878</td>
+<td>Монитор, жүйелік блок, перне тақта, «тінтуір» манипуляторы, модем, белсенді дыбыстық динамиктер, принтер, үздіксіз қуат көзі, телефон- микрофон гарнитурасы, желілік фильтр, көп функциялық ұрылғы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3879</td>
+<td>Бейнекамера</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3880</td>
+<td>Фотоаппарат</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3881</td>
+<td>Теледидар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3882</td>
+<td>Диктофон</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3883</td>
+<td>Статистикалық есепке арналған бағдарламалық пакет</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Невропатолог, психиатр кабинеттерінің жабдықтары</th>
+</tr>
+<tr>
+<td>3884</td>
+<td>Жедел медициналық көмек көрсету жинағы бар шкаф, бой өлшегіш, еден таразысы, неврорлогиялы қбалға, шпатель, стерили затор, сантиметр, неврологиялық фонарь, тонометр, қарау кушеткасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3885</td>
+<td colspan="3">Психологиялық-педагогикалық түзеу кабинеттері мен оңалту орталықтарына арналған жабдықтар және жиһаз</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Арнайы техникалық және компенсаторлық құралдар</th>
+</tr>
+<tr>
+<td>3886</td>
+<td colspan="3">Оңалту орталықтары мен психологиялық-педагогикалық түзеу кабинет теріесту, көру және тірек-қимыл аппараты бұзылған балаларға арналған арнайы мектепке дейінгі және мектептік білім беру ұйымдарына арналған жабдықтар тізбесіне сәйкес арнайы техникалық және компенсаторлық құралдармен жарақтандырылады</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Емдік дене тәрбиесі залы</th>
+</tr>
+<tr>
+<td>3887</td>
+<td>Батут</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3888</td>
+<td>Мүмкіндігі шектеулі балаларға арналған велосипед (бойға байланысты)</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3889</td>
+<td>Көру қабілет бұзылған балалардың кеңістікте көзі көретін адаммен бірге қозғалуына арналған велосипед-тандем</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3890</td>
+<td>Вертикали затор наклонный (в зависимости от роста)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3891</td>
+<td>Вертикали затор-бағана</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3892</td>
+<td>Жүруге арналған төбешік</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3893</td>
+<td>Балаларға арналған ойын жиындары, оның ішінде: тіректер, гимнастикалық таяқшалар, қорғаныс шарлары, эстафеталық таяқшалар, секірмелер, арқандар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3894</td>
+<td>Қырлы жол</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3895</td>
+<td>Теңгеру тақтасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3896</td>
+<td>Вестибулярлық тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3897</td>
+<td>Көру қабілеті бұзылған балаларға арналған дыбыс шығаратын доп</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3898</td>
+<td>Бүкіл қабырғаға арналған қабырға айнасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3899</td>
+<td>Жүріс имитаторы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3900</td>
+<td>Тірек-қимыл аппараты бұзылған балалар үшін екі баланы тасымалдауға арналған арба</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3901</td>
+<td>11 түрлі-түсті сатыдан тұратын жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3902</td>
+<td>Жұмсақ көп функциялы модульдер, конструкторлар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3903</td>
+<td>Поролонды ойын лабиринті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3904</td>
+<td>Массажды білік</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3905</td>
+<td>Іздері бар массаж кілемшесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3906</td>
+<td>Биіктік тіреттеуге арналған құрылғысы бар массаж үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3907</td>
+<td>Ұсақ мүкәммал (шеңбер, түрлі диаметрдегі және тактильді беттегі доптар, ойындоптары, ауырлатқыштар, гантельдер, пластмассадан жасалған гимнастикалық таяқшалар, аттап өтуге арналған әртүрлі биіктіктегі тосқауылдар)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3908</td>
+<td>Құм салынған салмағы 0,5-1,0 килограмм қап</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3909</td>
+<td>Жиын дадиаметрі 25, 50 және 75 сантиметр болатын толтырымды үш доп</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3910</td>
+<td>Тірек-қимыл аппараты бұзылған балаларға арналған әртүрлі мөлшердегі нейро-ортопедиялық оңалту комбинезоны</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3911</td>
+<td>Тренажерларға арналған еңкейтілетін панель (қолмен қолсаусақтарын дайындау үшін )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3912</td>
+<td>Тренажерларға арналған қабырғалық панель (білекпен қолсаусақтарын дайындау үшін )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3913</td>
+<td>Тірек-қимыл аппараты бұзылған балаларға арналған жүруге үйрететін екі қабатты құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3914</td>
+<td>Нақыл сөздер (кондуктивтік педагогика әдісі бойынша тренажерлар)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3915</td>
+<td>Тірек-қимыл аппараты бұзылған балаларға арналған әртүрлі мөлшердегі рефлекторлық-жүктемелік құрылғы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3916</td>
+<td>Едендік отырғыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3917</td>
+<td>Гимнастикалық орындық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3918</td>
+<td>Стендер-вертикали затор (бойына қарай)</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3919</td>
+<td>Кинезотерапияға арналған электр жетекті бір секциялы үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3920</td>
+<td>Тактильді жол</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3921</td>
+<td>Терапевттік білеу</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3922</td>
+<td>Саусақтарды дамытуға арналған «Жұму-ашу» тренажері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3923</td>
+<td>Қолдар мен саусақтарды дамытуға арналған тренажер</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3924</td>
+<td>Жүруге арналған ортопедиялық тренажер (бойына байланысты)</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3925</td>
+<td>Механотерапиялық оңалту тренажері (бойы 90 -140 сантиметр)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3926</td>
+<td>Механотерапиялық оңалту тренажері (бойы 140 сантиметр және одан биік)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3927</td>
+<td>Тренажер-итарба (бойына қарай)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3928</td>
+<td>Ойын құбыры (поролоннан жасалған вестибулярный тренажер)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3929</td>
+<td>Төсем-көп функционалды терапиялық жүйе</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3930</td>
+<td>Тірек-қимыл аппараты бұзылған жасөспірімдерге арналған жатуға арналған әмбебап жүйе</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3931</td>
+<td>Функционалды тірек (артқы көлбеуі бар вертикали затор) (бойына байланысты)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3932</td>
+<td>Швед қабырғасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th colspan="4">Эмоционалды-еріктік саласы бұзылған балалар мен және АСБ бар балалар мен жұмыс істеуге арналған психолог кабинетінің жабдығы мен жиһазы (кемінде 20 шағын метр)</th>
+</tr>
+<tr>
+<td>3933</td>
+<td>балалар үстелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3934</td>
+<td>Дөңгелек үстел</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3935</td>
+<td>Жазу үстелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3936</td>
+<td>Тік бұрышты үстел</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3937</td>
+<td>Ромб тәрізді үстел</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3938</td>
+<td>Эргономикалық үстел</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3939</td>
+<td>Шағын үстел</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3940</td>
+<td>Жабық сөре</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3941</td>
+<td>Ашық сөре</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3942</td>
+<td>Жүк қораптары бар сөре</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3943</td>
+<td>балалар орындығы</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3944</td>
+<td>Ортопедиялық орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3945</td>
+<td>Жұмсақ пуфик</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3946</td>
+<td>Жылжымалы тумба</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3947</td>
+<td>Фитбол (гимнастикалық доп)</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3948</td>
+<td>Жұмсақ доптар, массаж доптары, роликтер, біліктер</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3949</td>
+<td>Оңалтатын ойы жиындары</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3950</td>
+<td>Тактильді дамытушы қабырға панельдері</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3951</td>
+<td>Арнайы сенсорлық жастықтар, кілемшелер</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3952</td>
+<td>Шуды басатын құлаққаптар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3953</td>
+<td>Батут</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3954</td>
+<td>Ауыр көрпе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3955</td>
+<td>Боди-сокс</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3956</td>
+<td>Сенсорлы әткеншектер, кресло</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3957</td>
+<td>ПЭКС-карточкалар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3958</td>
+<td>Танымдық іс-әрекеттің дамуын бағалауға арналған диагностикалық альбом</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3959</td>
+<td>Конструкторлар</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3960</td>
+<td>Ламинатор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3961</td>
+<td>Таймер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3962</td>
+<td>«Жарық баспалдақтары» жарық-дыбыс панелі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3963</td>
+<td>Нейро секіртпе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3964</td>
+<td>Сөйлеу тынысын дамытуға арналған аэробол</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3965</td>
+<td>Резеңке жолақтағы нейродоп</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3966</td>
+<td>Гимнастикалық кілемше</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3967</td>
+<td>Магниттік тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3968</td>
+<td>Магнитті койын-пазл</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3969</td>
+<td>Тынысалу жаттығуларына арналған тренажер-ойын</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3970</td>
+<td>Магниттік конструктор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3971</td>
+<td>2,3,4,5 бөліктен тұратын ағаш кесілген суреттер</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3972</td>
+<td>ОйыншыБтар: қуыршақтар, матрешкалар, машиналар, қуыршақтарға арналған арбалар</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3973</td>
+<td>Кинетикалық құм</td>
+<td>килограмм</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3974</td>
+<td>Лексикалық тақырыптар бойынша дыбыстық тақталар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3975</td>
+<td>Төбешік</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3976</td>
+<td>Гамак</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3977</td>
+<td>Секіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3978</td>
+<td>НТҚА бар балаларға арналған едендік орындық</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3979</td>
+<td>Әртүрлі биіктіктегі табуреткалар</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3980</td>
+<td>Әртүрлі көлемдегі және салмақтағы доптар (баскетбол, футбол, сенсорлы ауырлатылған, балалар)</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3981</td>
+<td>Конустар</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3982</td>
+<td>Туннель</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3983</td>
+<td>Томатис аппарат</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3984</td>
+<td>Толтырымды доп жиынға диаметрі 25, 50 және 75 сантиметр болатын үш доп кіреді</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3985</td>
+<td>балаларға арналған сенсорлықжол</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3986</td>
+<td>балаларға арналған іздері бар массаж кілемшесі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3987</td>
+<td>Интерактивті дыбыс тақтасы</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3988</td>
+<td>Жұмсақ көп функционалды жиынтық, конструкторлар</td>
+<td>жиынтық</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3989</td>
+<td>11 түрлі-түсті сатыдан тұратын жиын</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3990</td>
+<td>Ойын лабиринт (поролон)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3991</td>
+<td>Матрешка ( ағаш )</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3992</td>
+<td>Автомобиль</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3993</td>
+<td>Кілем</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Қысқа мерзімді болу тобы (күнделікті 3-4 сағат)</th>
+</tr>
+<tr>
+<td>3994</td>
+<td>Бұзушылықтардың түрлері бойынша арнайы мектепке дейінгі ұйымдардың топтары жиынымен бірдей</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Есту қабілеті бұзылған балаларға арналған мектепке дейінгі білім беру ұйымдарының жабдықтары</th>
+</tr>
+<tr>
+<th></th>
+<th>оқытудың арнайы техникалық және компенсаторлық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3995</td>
+<td>Топта фронтальды жұмысты ұйымдастыруға арналған сымсыз оқу сыныбы (біртопқа). Жиын естімейтін балалар үшін топтың толымдылығы есебінен - 1 мұғалім - 6-8 бала</td>
+<td>жиын</td>
+<td>Мектепке дейінгі ұйымдардағы топтардың санына байланысты</td>
+</tr>
+<tr>
+<td>3996</td>
+<td>Топта фронтальды жұмысты ұйымдастыруға арналған сымсыз оқу сыныбы (біртопқа). Жиын нашар еститін балалар үшін топтың толымдылығы есебінен - 1 мұғалім-10-12 бала</td>
+<td>жиын</td>
+<td>Мектепке дейінгі ұйымдардағы топтардың санына байланысты</td>
+</tr>
+<tr>
+<td>3997</td>
+<td>Индукциялық цикл жүйесі (бір топқа бір)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Акт және спорт залдарына, ойын бөлмелеріне арналған жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3998</td>
+<td>Индукциялық цикл жүйесі (біртопқа, залға, бөлмеге)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Көру қабілеті бұзылған балаларға арналған мектепке дейінгі білім беру ұйымдарын жабдықтау</th>
+</tr>
+<tr>
+<th></th>
+<th>Оқытудың арнайы техникалық және компенсаторлық құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>3999</td>
+<td>Тактильді диаграммалар мен бедерлі суреттерді, бедерлі көрнекілікті дайындауға арналған принтер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4000</td>
+<td>Суреттерді басып шығаруға және оларды тактильге айналдыруға арналған арнайы қағаз</td>
+<td>дана</td>
+<td>150</td>
+</tr>
+<tr>
+<td>4001</td>
+<td>Шубасатын шкафы бар Брайль бойынша басып шығаруға арналған принтер (сыныпқа)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4002</td>
+<td>Брайльдің бедерлі-нүктелі қарпімен басып шығаруға арналған бір оқу жылына бір білім алушыға арналған арнайы қағаз</td>
+<td>дана</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td>4003</td>
+<td>Тактильді графиканы құруға арналған құрылғы (бір сыныпқа)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4004</td>
+<td>Тактильді графиканы жасау құрылғысына арналған қағаз (бір сыныпқа)</td>
+<td>дана</td>
+<td>500</td>
+</tr>
+<tr>
+<td>4005</td>
+<td>Қитарланған қылилық, миопия, афакия, глаукомасы бар балаларға арналған оқу тұғыры (әрбір балаға)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4006</td>
+<td>Қажеттілік бойынша жеке фондық жазықтықтар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4007</td>
+<td>Нашар көретіндерге арналған стационарлық үлкейткіш құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4008</td>
+<td>Нашар көретіндерге арналған қажеттіліктеріне байланысты портативті үлкейткіш құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4009</td>
+<td>Әрбір жұмыс орнына жергілікті жарықтандыру шамы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4010</td>
+<td>Офтальмологиялық-гигиеналықталаптарға жауап беретін көрнекі- дидактикалық материал (әртопқа)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Офтальмолог-дәрігердің кабинетін жабдықтау (ортоптикалық кабинет)</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4011</td>
+<td>Көру өткірлігін тексеру үшін жарығы бар кестелер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4012</td>
+<td>Оптикалық шынылар топтамасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4013</td>
+<td>Балаларға арналған байқауілдірігі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4014</td>
 <td>Скиаскопиялық сызғыш</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>486</td>
-<td>Қол айна офтальмоскопы</td>
+<td>4015</td>
+<td>Қолайна офтальмоскопы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>487</td>
+<td>4016</td>
 <td>Офтальмометр</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>488</td>
-<td>Водовозовтың офтальмохромоскоп ы</td>
+<td>4017</td>
+<td>Түзу офтальмоскоп</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>489</td>
-<td>Электрофтальмоскопы</td>
+<td>4018</td>
+<td>Қол электрофтальмоскопы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>490</td>
-<td>Үстел периметрі</td>
+<td>4019</td>
+<td>Түс тесті</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>491</td>
-<td>Түстер тесті</td>
+<td>4020</td>
+<td>Қуыслампасы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>492</td>
-<td>Қуыс лампасы</td>
+<td>4021</td>
+<td>Монобиноскоп немесе үлкен рефлекссіз офтальмоскоп</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>493</td>
-<td>Монобиноскоп (немесе үлкен рефлекссіз офтальмоскоп)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>494</td>
-<td>Жақыннан көру қызметін анықтайтын құрал</td>
+<td>4022</td>
+<td>Жақыннан көру функцияларын белгілеуге арналған құрал</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>495</td>
-<td>Көзішінің қан қысымын өлшеуге арналған тонометр</td>
+<td>4023</td>
+<td>Коордиметрия құралы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>496</td>
-<td>Рефракцияның лазерлі анализаторы</td>
+<td>4024</td>
+<td>Офтальмоскопия шамы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>497</td>
-<td>Коордиметрияға арналған құрылғы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>498</td>
-<td>Эргограф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>499</td>
-<td>Диоптриметр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>500</td>
-<td>Офтальмоскопияға арналған шам</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>501</td>
+<td>4025</td>
 <td>Синоптофор</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>502</td>
+<td>4026</td>
 <td>Шектеуіш-корректор</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>503</td>
-<td>Оқуға арналған тор</td>
+<td>4027</td>
+<td>Амблиотренер</td>
 <td>дана</td>
-<td>3</td>
+<td>1</td>
 </tr>
 <tr>
-<td>504</td>
-<td>Хейроскоп</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>505</td>
+<td>4028</td>
 <td>Конвергенцтренер</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>506</td>
-<td>Көзге арналған мускултренер</td>
+<td>4029</td>
+<td>Көздің мускул тренері</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>507</td>
-<td>Макулотестер поляроидный</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>508</td>
-<td>Макулоынталандырушы (кереғарлы сезімталдылықты жаттықтыру)</td>
+<td>4030</td>
+<td>Макуло ынталандырғыш (қарама-қарсы сезімталдықты жаттықтырушы)</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>509</td>
-<td>Призмалы өтемдеуіш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>510</td>
-<td>Импульсивті жарығы бар лампа ( «Плиз»)</td>
+<td>4031</td>
+<td>Импульсты жарығы барлампа</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>511</td>
-<td>Диплоптикалық жаттығуларға арналған призмалар жинағы</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>512</td>
-<td>Аккомодотренер</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>513</td>
-<td>аккомодотренер-НТ</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>514</td>
-<td>Матрешка, пирамидка, салғыш-ойыншық</td>
+<td>4032</td>
+<td>Матрешка, пирамида, ойын-жапсырма</td>
 <td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td>515</td>
-<td>Әр түрлі көлемдегі мозаика</td>
+<td>4033</td>
+<td>Әртүрлі көлемдегі мозаика</td>
 <td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td>516</td>
-<td>Әр түрлі мөлшердегі бөлшектері бар құрылыс құрастырғыш</td>
+<td>4034</td>
+<td>Әртүрлі мөлшердегі бөлшектері бар құрылыс құрастырғыштары</td>
 <td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td>517</td>
-<td>Шариктерді лақтырып салу, шеңберлерді салу ойын</td>
+<td>4035</td>
+<td>Амблиопияны емдеуге арналған компьютерлік бағдарламалар жиынтығы, кемінде 6</td>
 <td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td>518</td>
-<td>Бивизиотренер</td>
-<td>дана</td>
+<td>4036</td>
+<td>Шеңберлерді кигізу, домалақтарды лақтыру ойыны</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>519</td>
+<td>4037</td>
 <td>Амблиокор</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>520</td>
-<td>Көру аяларының ақауы бар балалардың көру аясын өзгертетін арнайы оптикалық жүйе</td>
-<td>жиынтық</td>
-<td>1</td>
+<th colspan="2">Әлеуметтік-тұрмыстық және кеңістікте бағдарлау кабинеті</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td colspan="4">Тірек-қимыл аппараттары бұзылған</td>
-</tr>
-<tr>
-<td>521</td>
-<td>1+10 мультимедиялық компьютерлік сынып</td>
-<td>жиынтық</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Оқытудың арнайы техникалық және компенсаторлық жабдықтар</td>
-</tr>
-<tr>
-<td>522</td>
-<td>Көрсеткіштер бойынша әр оқушыға арнайы клавиатура</td>
+<td>4038</td>
+<td>Топ макеті (рельефтіжоспар)</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>523</td>
-<td>Манипулятор, джойстик және т.б. (көрстекіштер бойынша әр оқушыға)</td>
+<td>4039</td>
+<td>Жатын бөлмесінің макеті (рельефті жоспар)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4040</td>
+<td>балалар бақшасының рельефті жоспары</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4041</td>
+<td>балалар бақшасы аумағының рельефті жоспары</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>524</td>
-<td>Оқу бағдарламасына сәйкес жұмыс дәптері және оқу көмекші құралы (Көрсеткіштер бойынша әр оқушыға)</td>
+<td>4042</td>
+<td>Шуылдар жиынтығы: тұрмыстық және табиғи (топқа)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4043</td>
+<td>Брайльдік оқу сағаттары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4044</td>
+<td>Шұңғылша</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4045</td>
+<td>Жануарлар, көше, көлікшуы, құстардың сайрауы және басқа дыбыстардың фонотекасы</td>
+<td>жиын</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4046</td>
+<td>Көкөністер, жемістер, жануарлар, құстар және т. б. нақ пішіндері</td>
+<td>жиын</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4047</td>
+<td>Балалар бақшасымен жүру ережелері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4048</td>
+<td>Зағип және нашар көретіндерге арналған әдістемелі кнұсқаулары бар көше қозғалысының ережелері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4049</td>
+<td>Зағип жандардың кеңістікте бағдарлануына арналған аппарат</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4050</td>
+<td>Әрбір оқу шыға арналған өлшемдер бойынша бағдарлы таяқ</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4051</td>
+<td>Әрбір білім алушыға навигациялық қол білезігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4052</td>
+<td>Әдістемелік әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4053</td>
+<td>Әрбір білім алушыға лупа-жол</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4054</td>
+<td>Әрбір білім алушыға оптикалық ұлғайтқыштар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Тірек-қимыл аппараты бұзылған балалар үшін мектепке дейінгі білім беру ұйымдарының жабдықтары мен жиһазы</th>
+</tr>
+<tr>
+<th></th>
+<th>Жалпы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4055</td>
+<td>Оқу бағдарламасына сәйкес оқу жылын дабалаға арналған жұмыс дәптері</td>
 <td>дана</td>
 <td>20</td>
 </tr>
 <tr>
-<td>525</td>
-<td>Ортопедиялық орындық (көрсеткіштер бойынша әр балаға)</td>
+<td>4056</td>
+<td>Оқу бағдарламасына сәйкес оқу жылына әрбір білім алушыға арналған оқу құралы</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>4057</td>
+<td>Ортопедиялық орындық</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>526</td>
-<td>Реттелетін функционалды тірек (көрсеткіштер бойынша әр балаға)</td>
+<td>4058</td>
+<td>Стендер-вертикали затор</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>527</td>
-<td>Еденүсті орындық (көрсеткіштер бойынша әр балаға)</td>
+<td>4059</td>
+<td>Едендік отырғыш</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>528</td>
-<td>Бейімделетін үстел-мольберт (көрсеткіштер бойынша әр балаға)</td>
+<td>4060</td>
+<td>Бейімдегіш үстел-станок</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>529</td>
-<td>Көрсеткіштер бойынша әр балаға тірек қаңқа</td>
+<td>4061</td>
+<td>Вертикали затор-бағана</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="4">Емдік дене шынықтыру залы</td>
+<td>4062</td>
+<td>Тірек жақтау</td>
+<td>дана</td>
+<td>1</td>
 </tr>
 <tr>
-<td>530</td>
-<td>Әртүрлі шамадағы нейро-ортопедиялық оңалту комбинезоны</td>
+<th></th>
+<th>Емдік денешынықтыру залы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4063</td>
+<td>Түрлі көлемдегі нейро-ортопедиялық оңалту комбинезоны</td>
 <td>дана</td>
 <td>4</td>
 </tr>
 <tr>
-<td>531</td>
+<td>4064</td>
 <td>Түрлі көлемдегі рефлекторлы—жүктемелік құрал</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>532</td>
-<td>Оңалту механотерапевтикалық жатықтырушы</td>
+<td>4065</td>
+<td>Оңалту механо терапиялық жаттықтырғыш</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>533</td>
-<td>Массаж валик</td>
+<td>4066</td>
+<td>Массажды білік</td>
 <td>дана</td>
 <td>5</td>
 </tr>
 <tr>
-<td>534</td>
-<td>Массаж жол</td>
+<td>4067</td>
+<td>Іздері бар массам кілемі</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>535</td>
-<td>Жүруге арналған ортопедиялық жаттықтырғыш</td>
+<td>4068</td>
+<td>Жүруге арналған ортопедиялық жаттықтырғыш (бойына байланысты)</td>
 <td>дана</td>
 <td>3</td>
 </tr>
 <tr>
-<td>536</td>
-<td>Жүруге арналған жатықтырушы</td>
+<td>4069</td>
+<td>Көлбеу вертикали затор (бойынабайланысты)</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>537</td>
-<td>Терапиялық валик, түрлі көлемдегі жастық</td>
+<td>4070</td>
+<td>Тренажер-итарбалар (бойына байланысты)</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>538</td>
-<td>Құм салынған салмағы 150-200грамм дорба</td>
+<td>4071</td>
+<td>Терапевт тікбілік, жастық</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4072</td>
+<td>Құмсалынған қапшық салмағы 150-200 грамм</td>
+<td>дана</td>
+<td></td>
+</tr>
+<tr>
+<td>4073</td>
+<td>Еңкіш орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4074</td>
+<td>Жұмсақ іріга баритті модуль</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4075</td>
+<td>Тактильді жол</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4076</td>
+<td>Іздер (жиын)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4077</td>
+<td>Қолмен аяққа арналған ауырлатқыш</td>
 <td>дана</td>
 <td>4</td>
 </tr>
 <tr>
-<td>539</td>
-<td>Еңкейіп тұратын орындық</td>
+<td>4078</td>
+<td>Жүріс имитаторы</td>
 <td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>540</td>
-<td>Ірі габаритті жұмсақ модуль (топтама)</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>541</td>
-<td>Тактильды жол</td>
-<td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td>542</td>
-<td>Іздер (топтама)</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>543</td>
-<td>Қол мен аяқтарды ауырлатқыш</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>544</td>
-<td>Жүруге арналған жиынтық</td>
-<td>жинақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>545</td>
+<td>4079</td>
 <td>Екі баланы тасымалдауға арналған арба</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>546</td>
-<td>Жүруге үйрету үшін арналған екі қабатты құрал</td>
+<td>4080</td>
+<td>Жаяу жүруді үйретуге арналған екі деңгейлі құрылғы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>547</td>
-<td>Функциональдітірек (артқа еңкейген вертикализатор)</td>
+<td>4081</td>
+<td>Функционалды тірек (артқы көлбеуі бар вертикали затор) (бойына байланысты)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4082</td>
+<td>Төсеу-4-5 жасқа дейінгі көп функционалды терапиялық жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4083</td>
+<td>Жасөспірімдерге арналған әмбебап жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4084</td>
+<td>Жүруге арналған төбешік</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4085</td>
+<td>Тірек-қимыл жүйесіне арналған лабиринт</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Балалар алаңы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4086</td>
+<td>Бір адамға арналған қауіпсіз әткеншек</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>548</td>
-<td>4-5 жастағы балаларға арналған көпфункционалды терапиялық жүйе</td>
+<td>4087</td>
+<td>Екі адамға арналған қауіпсіз әткеншек</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4088</td>
+<td>Төбешік</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4089</td>
+<td>Құмсалғыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4090</td>
+<td>Далада ойнауға арналған ойын жиынтығы</td>
 <td>жиынтық</td>
 <td>1</td>
 </tr>
 <tr>
-<td>549</td>
-<td>Жатуға арналған әмбебап жүйе (жасөспірімдер үшін)</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>550</td>
-<td>Еңкеймелі вертикализатор</td>
+<td>4091</td>
+<td>Балалар ойындарына арналған үй</td>
 <td>дана</td>
 <td>2</td>
 </tr>
 <tr>
-<td>551</td>
-<td>Жүруге арналған төбешіктер</td>
+<td>4092</td>
+<td>Орындықтар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4093</td>
+<td>Турник</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4094</td>
+<td>Ойын шытырманы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>552</td>
-<td>Жүру електеткіш</td>
-<td>дана</td>
-<td>1</td>
+<th></th>
+<th>Лекотека</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td colspan="4">Лекотека (ойыншықтар билиотекасы)</td>
-</tr>
-<tr>
-<td>553</td>
-<td>Оқу жұмыс үстелі</td>
+<td>4095</td>
+<td>Оқырман жұмыс үстелі</td>
 <td>дана</td>
 <td>6</td>
 </tr>
 <tr>
-<td>554</td>
-<td>Тумбочкалы компьютер үстелі</td>
+<td>4096</td>
+<td>Компьютерге арналған тумбочкасы бар үстел</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>555</td>
+<td>4097</td>
 <td>Жартылай жұмсақ орындық</td>
 <td>дана</td>
 <td>14</td>
 </tr>
 <tr>
-<td>556</td>
+<td>4098</td>
 <td>Шкаф</td>
 <td>дана</td>
 <td>3</td>
 </tr>
 <tr>
-<td>557</td>
-<td>Ойыншықтарға арналған стеллаж</td>
+<td>4099</td>
+<td>Ойыншықтарға арналған сөре</td>
 <td>дана</td>
 <td>5</td>
 </tr>
 <tr>
-<td>558</td>
-<td>Кітаптарға арналған стеллаж</td>
+<td>4100</td>
+<td>Кітап сөресі</td>
 <td>дана</td>
 <td>5</td>
 </tr>
 <tr>
-<td>559</td>
-<td>Сандық видеокамера</td>
+<td>4101</td>
+<td>Сандық бейнекамера</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>560</td>
+<td>4102</td>
 <td>Сандық фотоаппарат</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>561</td>
-<td>Сканер</td>
+<td>4103</td>
+<td>Көп функциялы құрылғы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>562</td>
-<td>Көшірме құрылғысы</td>
+<td>4104</td>
+<td>Интерактивті тақта</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>563</td>
-<td>Интербелсенді тақта</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>564</td>
+<td>4105</td>
 <td>Мультимедиялық проектор</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>565</td>
+<td>4106</td>
+<td>Қабырғалық бактерицидті сәулелендіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4107</td>
+<td>Жүйелік блок, монитор, үздіксіз қуаттау көзі, акустикалық жүйе, телефон-микрофон гарнитурасы, желілік фильтр, көп функционалды құрылғы, перне тақта, тінтуір манипуляторы, принтер</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4108</td>
+<td>Жер шарының жер бедері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4109</td>
+<td>Жиынтықтағы дидактикалық ойыншық</td>
+<td>жиынтық</td>
+<td>13</td>
+</tr>
+<tr>
+<td>4110</td>
+<td>Театр ойындарына арналған ойыншық</td>
+<td>жиынтық</td>
+<td>12</td>
+</tr>
+<tr>
+<td>4111</td>
+<td>Жиынтықтағы сюжеттік-рөлді койын (қуыршақтар, төсек орындары және қуыршақтарға арналған киім, жиһаз және ыдыс)</td>
+<td>жиынтық</td>
+<td>15</td>
+</tr>
+<tr>
+<td>4112</td>
+<td>Коррекциялық педагогика және арнайы психология бойынша әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4113</td>
+<td>Ақыл-ойы бұзылған балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4114</td>
+<td>Есту қабілеті бұзылған балаларды психологиялық-педагогикалық тексеруге арналған жиын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4115</td>
+<td>Ерте жастағы балалардың психофизикалық дамуын зерттеуге арналған жын</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Есту қабілеті бұзылған балаларға арналған арнайы білім беру ұйымдарының жабдығы мен жиһазы</th>
+</tr>
+<tr>
+<th></th>
+<th>Арнайы техникалық және компенсаторлық оқыту құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4116</td>
+<td>Топтафронтальды жұмысты ұйымдастыруға арналған сымсыз оқу сыныбы (бір топқа). Жиын естімейтін балалар үшін топтың толымдылығы есебінен-1 мұғалім - 6-8 бала</td>
+<td>жиын</td>
+<td>Мектепке дейінгі ұйымдағы топтардың санына байланысты</td>
+</tr>
+<tr>
+<td>4117</td>
+<td>Топта фронтальды жұмысты ұйымдастыруға арналған сымсыз оқу сыныбы (біртопқа). Жиын нашар еститін балалар үшін топтың толымдылығы есебінен-1 мұғалім-10-12 бала</td>
+<td>жиын</td>
+<td>Мектепке дейінгі ұйымдағы топтардың санына байланысты</td>
+</tr>
+<tr>
+<td>4118</td>
+<td>Индукциялық цикл жүйесі (біртопқа, залға, бөлмеге)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Акт және спорт залдарына, ойын бөлмелеріне арналған жабдық</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4119</td>
+<td>Индукциялықілмек жүйесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Кітапхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4120</td>
+<td>Индукциялық ілмек жүйесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4121</td>
+<td>Оқырман жұмыс үстелі</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4122</td>
+<td>Компьютерге арналған тумбочкасы бар үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4123</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>14</td>
+</tr>
+<tr>
+<td>4124</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4125</td>
+<td>Кітап сөресі</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4126</td>
+<td>Санды қбейнекамера</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4127</td>
+<td>Сандық фотоаппарат</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4128</td>
+<td>Көп функциялы құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4129</td>
+<td>Интерактивті тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4130</td>
+<td>Мультимедиялық проектор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4131</td>
+<td>Қабырғалық бактерицидті сәулелендіргіш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4132</td>
+<td>Жүйелік блок, монитор, үздіксіз қуаттау көзі, акустикалық жүйе, телефон-микрофон гарнитурасы, желілік фильтр, көп функционалды құрылғы, перне тақта, тінтуір манипуляторы, принтер</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4133</td>
+<td>Жер шарының жер бедері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4134</td>
+<td>Коррекциялық педагогика және арнайы психология бойынша әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Көру қабілеті бұзылған балаларға арналған арнайы білім беру ұйымдарының жабдығы мен жиһазы</th>
+</tr>
+<tr>
+<th></th>
+<th>Мультимедиялық компьютер сыныбы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4135</td>
+<td>Брайль қарпін енгізу/шығару тифло компьютерлерінен, лицензиялық экрандыққол жеткізу бағдарламалық жасақтамасы және сөйлеусинтезі нен тұратын 1+10 компьютерлік сынып (көзі көрмейтін, нашар көретін, сондай-ақ бір мезгілде көру және есту қабілетінен айырылған адамдар үшін )</td>
+<td>жиын</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4136</td>
+<td>1+10 компьютерлік сыныбы (нашар көретіндер үшін ), лицензиялық экрандық қол жеткізу бағдарламалық жасақтамасы және нашар көретіндерге арналған сөйлеусинтезі бар ноутбуктерден тұрады</td>
+<td>жиын</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4137</td>
+<td>Шужұтатын шкафы бар Брайль бойынша басып шығаруға арналған принтер</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4138</td>
+<td>Тактильді диаграммалар мен бедерлі суреттерді дайындауға арналған принтер</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4139</td>
+<td>Тактильді графиканы құруға арналған құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4140</td>
+<td>Брайльдің бедерлі-нүктелі қарпімен басып шығаруға арналған бір оқу жылына бір білім алушыға арналған арнайы қағаз</td>
+<td>дана</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td>4141</td>
+<td>Басып шығарылатын суреттерді әрсыныпқа, қажеттілік бойынша топқа тактильді етіп түрлендіруге болатын арнайы қағаз</td>
+<td>дана</td>
+<td>600</td>
+</tr>
+<tr>
+<td>4142</td>
+<td>Тактильді графика жасау құрылғысына арналған қағаз</td>
+<td>дана</td>
+<td>1 500</td>
+</tr>
+<tr>
+<td>4143</td>
+<td>Екі бағытты аудармамен басуды жүзегеасыруға арналған лицензиялық бағдарлама</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4144</td>
+<td>Брайль алфавитін оқытуға арналған құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4145</td>
+<td>Зағипттарға арналған оқу машинасы</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4146</td>
+<td>DAISY ойнатқышы, медиа ойнатқыш, кітап оқу, онлайн, FM радиосы, сағат, диктофон, дыбыстық жазбаны ойнату форматын қолдайтын тифлофлешплеер</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4147</td>
+<td>Нашар көретіндерге арналған стационарлық және/немесе қашықтан көруге арналған үлкейткіш құрылғы</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4148</td>
+<td>Нашар көретіндерге арналған портативті үлкейткіш құрылғы</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4149</td>
+<td>Рельефті-нүктелі және ірілендірілген қаріппен оқу, әдістемелік және көркем әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4150</td>
+<td>Жұмыс үстелі</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4151</td>
+<td>Компьютерге арналған тумбочкасы бар үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4152</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>14</td>
+</tr>
+<tr>
+<td>4153</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<th></th>
+<th>Кітапхана</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4154</td>
+<td>Брайльқарпі мен, лицензиялық экрандық қол жеткізу бағдарламалық қамтамасыз ету мен және көзі көрмейтін, нашар көретін, сондай-ақ бір мезгілде көру және есту қабілетінен айырылған адамдарға арналған сөйлеусинтезі ментифлокомпьютер</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4155</td>
+<td>Көру қабілеті нашарадамдарға арналған лицензиялық экрандық қол жеткізу және сөйлеусинтезі бар ноутбук</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4156</td>
+<td>Екі бағытты аударумен басуды жүзеге асыруға арналған лицензиялық бағдарлама</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4157</td>
+<td>Шужұтатын шкафы бар Брайль бойынша басып шығаруға арналған принтер</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4158</td>
+<td>Брайльдің бедерлі-нүктелі қарпімен басып шығаруға арналған бір оқу жылын абір білім алушыға арналған арнайы қағаз</td>
+<td>дана</td>
+<td>3 000</td>
+</tr>
+<tr>
+<td>4159</td>
+<td>Зағип жандарға арналған оқу машинасы</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4160</td>
+<td>DAISY ойнатқышы, медиа ойнатқыш, кітап оқу, онлайн, FM радиосы, сағат, диктофон, дыбыстық жазбаны ойнату форматын қолдайтын тифлофлешплеер</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4161</td>
+<td>Нашар көретіндерге арналған стационарлық және/немесе қашықтан көруге арналған үлкейткіш құрылғы</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4162</td>
+<td>Нашар көретіндерге арналған портативті үлкейткіш құрылғы</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4163</td>
+<td>Рельефті-нүктелі және ірілендірілген қаріппен оқу, әдістемелік және көркем әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4164</td>
+<td>Оқырман жұмыс үстелі</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4165</td>
+<td>Компьютерге арналған тумбочкасы бар үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4166</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>14</td>
+</tr>
+<tr>
+<td>4167</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4168</td>
+<td>Кітап сөресі</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<th></th>
+<th>Арнайы техникалық және компенсаторлық оқыту құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4169</td>
+<td>Брайль бойынша баспамашинкасы (орта сыныптардың бір білім алушысына)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4170</td>
+<td>Нашар көретіндерге арналған лицензиялық экрандыққол жеткізу және сөйлеусинтезі бағдарламалық жасақтамасы бар ноутбук (жоғары сыныптардың әрбір білім алушысы үшін )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4171</td>
+<td>Зағип жандарға арналған оқу машинасы (сыныпқа)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4172</td>
+<td>Брайльқарпі мен, лицензиялық экрандық қол жеткізу бағдарламалық қамтамасыз етумен және көзі көрмейтін, нашар көретін, сондай-ақ бірмезгілде көру және есту қабілетінен айырылған адамдарға арналған сөйлеусинтезі ментифлокомпьютер (жоғары сыныптардың әрбір білім алушысы үшін )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4173</td>
+<td>Тактильді диаграммалар мен бедерлі суреттерді дайындауға арналған принтер</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4174</td>
+<td>Шубасатын шкафы бар Брайль бойынша басып шығаруға арналған принтер (сыныпқа)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4175</td>
+<td>Тактильді графиканы құруға арналған құрылғы (бір сыныпқа)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4176</td>
+<td>Тактильді графиканы жасау құрылғысына арналған қағаз (бір сыныпқа)</td>
+<td>дана</td>
+<td>500</td>
+</tr>
+<tr>
+<td>4177</td>
+<td>Әр сыныпқа, қажеттілік бойынша топқа тактильдік түрлендірумен суреттерді басып шығаруға арналған арнайы қағаз</td>
+<td>дана</td>
+<td>150</td>
+</tr>
+<tr>
+<td>4178</td>
+<td>Нашар көретіндерге арналған стационарлық және/немесе қашықтан көруге арналған үлкейткіш құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4179</td>
+<td>Көзін ашар көретіндерге арналған портативтік қажеттілік бойынша әрбір білім алушыға арналған үлкейткіш құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4180</td>
+<td>Әрбір білім алушыға лупа-жол</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4181</td>
+<td>Әрбір білім алушыға оптикалы құлғайтқыштар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4182</td>
+<td>Қажеттілік бойынша әр оқушыға DAISY ойнатқышы, медиа ойнатқыш, кітап оқу, онлайн, FM радиосы, сағат, диктофон, дыбыстық жазбаны ойнату форматын қолдайтын тифлофлешплеер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4183</td>
+<td>Әр сыныпқа жанасу, дыбыс және көру арқылы оқыту жүйесі</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4184</td>
+<td>Бір оқу жылына бір білім алушыға Брайль қарпімен жазуға арналған жиындық керек-жарақтар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4185</td>
+<td>Жазуға, сурет салуға және сурет салуға арналған брайльдік мектеп керек-жарақтары (бір оқушыға)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4186</td>
+<td>Бір оқу жылына бір білім алушыға арналған күңгірт беті бар арнайы қағаз</td>
+<td>дана</td>
+<td>200</td>
+</tr>
+<tr>
+<td>4187</td>
+<td>Бір оқу жылына бір білім алушыға Брайльдің бедерлі-нүктелі қарпімен жазуға арналған арнайы қағаз</td>
+<td>дана</td>
+<td>1500</td>
+</tr>
+<tr>
+<td>4188</td>
+<td>Бір оқу жылына бір білім алушыға нашар көретіндерге арналған анық тор көзді дәптер</td>
+<td>дана</td>
+<td>60</td>
+</tr>
+<tr>
+<td>4189</td>
+<td>Бір оқу жылына бір білім алушыға нашар көретіндерге арналған анық жолдәптер</td>
+<td>дана</td>
+<td>50</td>
+</tr>
+<tr>
+<td>4190</td>
+<td>Бір оқу жылына арналған бір оқу шы есебінен Брайльдің рельефті нүктелі баспаға арналған арнайы қағаз</td>
+<td>дана</td>
+<td>500</td>
+</tr>
+<tr>
+<td>4191</td>
+<td>Қитарланған қылилық, миопия, афакия, глаукомасы бар балаларға арналған оқу тұғыры, көрсеткіштер бойынша әр оқушыға</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4192</td>
+<td>Бір оқу жылына бір білім алушыға Брайль әліпбиін оқуға арналған жиынтық құралдар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4193</td>
+<td>Бір білім алушыға Брайль қарпінің қазақ, орыс, ағылшын және басқа тілдердегі электрондық-тактильді өзін-өзі оқу құралы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4194</td>
+<td>Макет, нақ пішін, мүсіндік бейне, тактильді тексеруге арналған топсалымодель</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4195</td>
+<td>Әрбір бастауыш сынып оқушысына арналған цифрлық касса, әріптермен буындардың кассасы, үлкейтілген қаріппен</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4196</td>
+<td>Мақал-мәтелдердің картотекасы (жазық баспа нұсқасында, Брайль жүйесі бойынша және ірілендірілген қаріппен)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4197</td>
+<td>Жануарлардың, құстардың, көшенің, көліктердің шуы және магнитофонды жазбалардың фонотекасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4198</td>
+<td>Оқу бағдарламасына сәйкес оқу жылында әрбір сыныпқа арналған арнайы жұмыс дәптері және оқу көмекші құралы</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<th></th>
+<th>Әлеуметтік-тұрмыстық бағдарлау кабинеті</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4199</td>
+<td>Сынып бөлмесінің макеті (рельефті жоспар)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4200</td>
+<td>Жатын бөлмесінің макеті (рельефті жоспар)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4201</td>
+<td>Мектептің рельефті жоспары</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4202</td>
+<td>Мектеп аумағының рельефті жоспары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4203</td>
+<td>Қаланың рельефті жоспары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4204</td>
+<td>Облыстың рельефті жоспары</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4205</td>
+<td>Шуылдар жиынтығы: тұрмыстық және табиғи (кабинетке)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4206</td>
+<td>Дыбыстық сүйемелдеуі бар таразы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4207</td>
+<td>Дыбыстық сүйемелдеу бар қолсағаты (кабинетке)</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4208</td>
+<td>Дыбыстық сүйемелдеу бар калькулятор (кабинетке)</td>
+<td>дана</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4209</td>
+<td>Брайлдік оқу сағаты</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4210</td>
+<td>Зағип жандардың кеңістікте бағдарлануына арналған аппарат</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4211</td>
+<td>Әрбір оқушыға арналған өлшемдер бойынша бағдарлы таяқ</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4212</td>
+<td>Әрбір білім алушыға навигациялық қолбілезігі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4213</td>
+<td>Жүзжылдықты, мыңжылдықты, екі эраны көрсететін уақыт сызығы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4214</td>
+<td>Асүй жұмыс үстелі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4215</td>
+<td>Гигиеналық жабынды тамақтану үстелі</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4216</td>
+<td>Асүй орындықтары</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4217</td>
+<td>Асханалық табурет</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4218</td>
+<td>Ыдысқа арналған жабық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4219</td>
+<td>Ыдысты кептіруге арналған ілмелі шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4220</td>
+<td>Азық-түлікке арналған жабық шкаф</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4221</td>
+<td>Үй дәріқобдишасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4222</td>
+<td>Блендер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4223</td>
+<td>Асүйге арналған электрондық үстел таразысы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4224</td>
+<td>Ыдыс жууға арналған шұңғылша</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4225</td>
+<td>Әртүрлі мөлшердегі кастрөлдер жиынтығы (эмальданған)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4226</td>
+<td>Ағаш немесе пластмасса сабы бар табалар жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4227</td>
+<td>Асхана ыдыстарының жиынтығы (терең, жалпақ, жалпы тағамдарға, салатқа, жемістерге, кәмпиттерге арналған)</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4228</td>
+<td>Шәйнектер жиынтығы</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4229</td>
+<td>Электр шәйнек</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4230</td>
+<td>Сапты аяқтар (шыны аяқ, пиала)</td>
+<td>дана</td>
+<td>18</td>
+</tr>
+<tr>
+<td>4231</td>
+<td>Асхана құралдары: қасықтар (асханалық, десерттік, шай), шанышқылар (екінші тағамдарға арналған, балық)</td>
+<td>жиынтық</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4232</td>
+<td>Кесетін тақталар жиынтығы</td>
+<td>жиынтық</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4233</td>
+<td>Көкөніске арналған үккіш</td>
+<td>жиынтық</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4234</td>
+<td>Асүй үлгісі</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4235</td>
+<td>Ыдыс-аяқты күтуге арналған құралдар (жөкелер, щеткалар, жуу құралдары).</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4236</td>
+<td>Аспаздық кітаптар</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4237</td>
+<td>Үтіктеу тақтасы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4238</td>
+<td>Үтік</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4239</td>
+<td>Тұмша пеші бар электрплитасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4240</td>
+<td>Плита үстіндегі сорғыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4241</td>
+<td>Қысқа толқынды пеш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4242</td>
+<td>Кір жуғыш машина</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4243</td>
+<td>Киімдерге арналған кептіргіш</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4244</td>
+<td>Тоңазытқыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4245</td>
+<td>Шаңсорғыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4246</td>
+<td>Электрлік тігін машинасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4247</td>
+<td>Тігін керек-жарақтары (жіптер, қайшылар, инелер);</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4248</td>
+<td>Асүй комбайны</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4249</td>
+<td>Ет тартқыш</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4250</td>
+<td>Миксер</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4251</td>
+<td>Жууға арналған жуу құралдары</td>
+<td>килограмм</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4252</td>
+<td>USB қосқышы және интернет байланысы бар теледидар</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4253</td>
+<td>Магнитті тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4254</td>
+<td>Басқышы, қақпағы бар қалдықтарға арналған бак</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4255</td>
+<td>Жануарлар, көше, көлікшуы, құстардың сайрауы және т.б.дыбыстардың фонотекасы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4256</td>
+<td>Әдістемелік әдебиет</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4257</td>
+<td>Күн жүйесінің макеті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4258</td>
+<td>Мектептегі жүру ережелері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4259</td>
+<td>Зағип және нашар көретіндерге арналған әдістемелік нұсқаулары бар көше қозғалысының ережелері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4260</td>
+<td>Қауіпсіздік техникасының ережелері</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Офтальмолог-дәрігердің кабинеті (ортоптиялық кабинет)</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4261</td>
+<td>Көру өткірлігін тексеруге арналған жарығы бар кестелер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4262</td>
+<td>Оптикалық әйнектер жүйесі</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4263</td>
+<td>балаларға арналған байқау ілдірігі</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4264</td>
+<td>Скиаскопиялық сызғыш</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4265</td>
+<td>Қолайна офтальмоскопы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4266</td>
+<td>Офтальмометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4267</td>
+<td>Водовозовтың офтальмохромоскопы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4268</td>
+<td>Қол электрофтальмоскопы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4269</td>
+<td>Үстел периметрі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4270</td>
+<td>Түстер тесті</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4271</td>
+<td>Қуыслампасы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4272</td>
+<td>Монобиноскоп немесе үлкенр ефлекссіз офтальмоскоп</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4273</td>
+<td>Жақыннан көру функцияларын белгілеуге арналған құрал</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4274</td>
+<td>Көзішінің қанқысымын өлшеуге арналған тонометр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4275</td>
+<td>Рефракцияның лазерлі анали заторы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4276</td>
+<td>Коордиметрияға арналған құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4277</td>
+<td>Эргограф</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4278</td>
+<td>Диоптриметр</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4279</td>
+<td>Офтальмоскопияға арналған шам</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4280</td>
+<td>Синоптофор</td>
+<td>дана</td>
+<td></td>
+</tr>
+<tr>
+<td>4281</td>
+<td>Шектеуіш -корректор</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4282</td>
+<td>Оқуға арналған тор</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4283</td>
+<td>Хейроскоп</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4284</td>
+<td>Конвергенцтренер</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4285</td>
+<td>Көз мускултренер</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4286</td>
+<td>Поляроидтік макулотестер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4287</td>
+<td>Макулоын таландырғыш (қарама-қарсы сезім талдықты жатықтырушы)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4288</td>
+<td>Призмалы компенсатор</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4289</td>
+<td>Импульстік жарықшамы</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4290</td>
+<td>Диплоптикалық жаттығуларға арналған призма</td>
+<td>жиынтық</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4291</td>
+<td>Аккомодотренер</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4292</td>
+<td>Матрешка, пирамидка, ойын-жапсырма</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4293</td>
+<td>Әртүрлі мөлшердегі мозаика</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4294</td>
+<td>Әртүрлі мөлшердегі бөлшектердің құрылыс дизайнері</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4295</td>
+<td>Шеңберлерді кигізу, шариктерді лақтыруойыны</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4296</td>
+<td>Бивизиотренер</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4297</td>
+<td>Амблиокор</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4298</td>
+<td>Көру ақауы бар балалар үшін қажетті шектерде көру өрісін өзгертетін арнайы оптикалық жүйе</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Тірек-қимыл аппараты бұзылған балаларға арналған арнайы білім беру ұйымдарының жабдығы мен жиһазы</th>
+</tr>
+<tr>
+<th></th>
+<th>Компьютерлік сынып</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4299</td>
+<td>Мультимедиялық компьтерлік сынып 1+10</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Арнайы техникалық және компенсаторлық оқыту құралдары</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4300</td>
+<td>Арнайы перне тақта (көрсеткіштер бойынша әр оқушыға)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4301</td>
+<td>Манипулятор, джойстик және т.б ( көрсеткіштер бойынша әр оқу)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4302</td>
+<td>Оқу бағдарламасына сәйкес жұмыс дәптері және оқу көмекші құралы (көрсеткіштер бойынша әр оқушыға)</td>
+<td>дана</td>
+<td>20</td>
+</tr>
+<tr>
+<td>4303</td>
+<td>Ортопедиялық орындық (көрсеткіштер бойынша әрбалаға)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4304</td>
+<td>Едендік орындық (көрсеткіштер бойынша әрбалаға)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4305</td>
+<td>Бейімделетін үстел-мольберт ( көрсеткіштер бойынша әрбалаға)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4306</td>
+<td>Вертикали затор-тіреуіш ( көрсеткіштер бойынша әрбірбалаға)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4307</td>
+<td>Тіреуіш жақтау (көрсеткіштер бойынша әрбірбалаға)</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th>Емдік денешынықтыру залы</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4308</td>
+<td>Әртүрлі өлшемді нейро-ортопедиялы қоңалту комбинезоны</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4309</td>
+<td>Түрлі көлемдегі рефлекторлы—жүктемелік құрал</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4310</td>
+<td>Механо терапиялық оңалту тренажері (бойы 90 -140 сантиметр)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4311</td>
+<td>Механо терапиялық оңалту тренажері (бойы 140 сантиметр және одан биік)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4312</td>
+<td>Массаж білігі</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4313</td>
+<td>Массаж кілемшесі</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4314</td>
+<td>Жүруге арналған әртүрлі өлшемдегі ортопедиялық жаттықтырғыш</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4315</td>
+<td>Тренажер-итарба</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4316</td>
+<td>Терапевттік білік, түрлі өлшемдегі жастықтар</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4317</td>
+<td>Құмсалынған қап, салмағы 150-200 грамм</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4318</td>
+<td>Еңкіш орындық</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4319</td>
+<td>Ірі көлемді жұмсақ модуль ( жиын)</td>
+<td>жиын</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4320</td>
+<td>Тактильді жол</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4321</td>
+<td>Іздер</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4322</td>
+<td>Қол мен аяққа арналған ауырлатқыш</td>
+<td>дана</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4323</td>
+<td>Жүруге арналған жиынтық</td>
+<td>жиынтық</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4324</td>
+<td>Екі баланы тасымалдауға арналған арба</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4325</td>
+<td>Жаяу жүруді үйретуге арналған екі деңгейлі айла ұйым</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4326</td>
+<td>Функционалдық тіреу (артқыеңісі бар вертикали затор)</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4327</td>
+<td>Төсем 4-5 жастағы балаларға арналған көп функционалды терапиялық жүйе</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4328</td>
+<td>Жату қалпында жасөспірімдерге арналған әмбебап жүйе</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4329</td>
+<td>Көлбеу вертикали затор</td>
+<td>дана</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4330</td>
+<td>Жүруге арналған төбешік</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4331</td>
+<td>Жаяу жүру имитаторы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4332</td>
+<td>Тренажерларға арналған қабырғалық панель (білекпен қолсаусақтарын дайындау үшін )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4333</td>
+<td>Тренажерларға арналған еңкейтілетін панель (қолмен қолсаусақтарын дайындау үшін )</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4334</td>
+<td>Саусақтарды дамытуға арналған «Жұму-ашу» тренажері</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4335</td>
+<td>Қолдар мен саусақтарды дамытуға арналған тренажер</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4336</td>
+<td>Тірек-қимыл жүйесіне арналған лабиринт</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<th></th>
+<th colspan="3">Кітапхана</th>
+</tr>
+<tr>
+<td>4337</td>
+<td>Оқырман жұмыс үстелі</td>
+<td>дана</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4338</td>
+<td>Компьютерге арналған тумбочкасы бар үстел</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4339</td>
+<td>Жартылай жұмсақ орындық</td>
+<td>дана</td>
+<td>14</td>
+</tr>
+<tr>
+<td>4340</td>
+<td>Шкаф</td>
+<td>дана</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4341</td>
+<td>Кітап сөресі</td>
+<td>дана</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4342</td>
+<td>Сандық бейнекамера</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4343</td>
+<td>Сандық фотоаппарат</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4344</td>
+<td>Көп функциялы құрылғы</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4345</td>
+<td>Интерактивті панель/Проекторы бар интерактивті тақта</td>
+<td>дана</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4346</td>
 <td>Тығынды тақта</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>566</td>
-<td>Бактерицидті қабырға сәуелендіргіші</td>
+<td>4347</td>
+<td>Облучатель бактерицидный настенный</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>567</td>
-<td>Жүйелік блок, монитор, үздіксіз қуаттандыру көзі, акустикалық жүйе, телефонды-микрофондық гарнитура, желілік фильтр, көпқызметті құрылғы, орысша және қазақша әріпті клавиатура, «тышқан» манипуляторы, принтер</td>
-<td>жиынтық</td>
+<td>4348</td>
+<td>Жүйелік блок, монитор, акустикалық жүйе, телефон- микрофонгарнитурасы, желілік фильтр, перне тақта, «тінтуір» манипуляторы</td>
+<td>жиын</td>
 <td>2</td>
 </tr>
 <tr>
-<td>568</td>
+<td>4349</td>
 <td>Рельефті жер шарының глобусы</td>
 <td>дана</td>
 <td>1</td>
 </tr>
 <tr>
-<td>569</td>
-<td>Жиынтықты дидактикалық ойыншық</td>
-<td>жиынтық</td>
-<td>13</td>
-</tr>
-<tr>
-<td>570</td>
-<td>Театрландырылған ойындарға арналған ойыншық</td>
-<td>жиынтық</td>
-<td>12</td>
-</tr>
-<tr>
-<td>571</td>
-<td>Жиһаз және ыдыс, қуыршақтарға арналған киімдер, қуыршақтар жиынтығының сюжеттік-рөлдік ойыны</td>
-<td>жинақ</td>
-<td>15</td>
-</tr>
-<tr>
-<td>572</td>
-<td>Арнайы психология және түзеу педагогикасы бойынша ғылыми-әдістемелік әдебиеттер</td>
-<td>жиынтық</td>
+<td>4350</td>
+<td>Коррекциялық педагогика және арнайы психология бойынша әдебиет</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>573</td>
-<td>Ақыл-ойы бұзылған балаларға арналған психологиялық-педагогикалық тексеру кешені</td>
-<td>жиынтық</td>
+<th></th>
+<th colspan="3">Мүмкіндіктері шектеулі балаларға білім алу үшін арнайы жағдайлар жасау үшін ұсынылатын жабдық және жиһаз ( қажет болған жағдайда)</th>
+</tr>
+<tr>
+<td>4351</td>
+<td>Көзі көрмейтін және нашар көретін балаларға және тірек-қимыл аппараты бұзылған балаларға ғимараттың, үй-жайдың, бөлме кабинетінің ішіне кіруді/шығуды және орын ауыстыруды қамтамасыз ететін құрылғылар (қабаттарға орын ауыстыруды ескере отырып)</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>574</td>
-<td>Есту қабілеті бұзылған балаларға арналған психологиялық-педагогикалық тексеру кешені</td>
-<td>жиынтық</td>
+<td>4352</td>
+<td>Естімейтін және нашар еститін балаларға, сондай-ақ кохлеарлық импланттары бар балаларға арналған дыбыс күшейткіш айла бұйымдар</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>575</td>
-<td>Ерте жастағы балаларға арналған психологиялық-педагогикалық тексеру кешені</td>
-<td>жиынтық</td>
+<td>4353</td>
+<td>Тірек-қимыл аппараты мен көруқабілеті бұзылған балаларға арналған оқу орнын ұйымдастыруға арналған құрылғылар мен жиһаз</td>
+<td>жиын</td>
 <td>1</td>
 </tr>
 <tr>
-<td>576</td>
-<td>CD диск</td>
-<td>дана</td>
-<td>20</td>
+<td>4354</td>
+<td>Мүмкіндігі шектеулі балалардың білім алуына арналған өзге де құрылғылар</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 <tr>
-<td>577</td>
-<td>DVD диск</td>
-<td>дана</td>
-<td>20</td>
+<th></th>
+<th>Қауіпсіздікті қамтамасыз ету үшін ұсынылған құрал- жабдықтар</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>4355</td>
+<td>Кіруді бақылау және басқару жүйесі мен, күзет сигнализациясын хабардар ету құралдары мен жабдық жиынтығы</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4356</td>
+<td>Бейнекамералары бар бейнебақылау жүйесі жабдықтарының жиынтығы ( мектеп ғимаратының алаңына байланысты)</td>
+<td>жиын</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4357</td>
+<td>Дауыстық хабарлауы бар өрт дабылы жүйесін орнату</td>
+<td>жиын</td>
+<td>1</td>
 </tr>
 </table>
+
+Ескертпе: * Педагог жоғарыда көрсетілген оқу және ойын ресурстарын (материалдар, ұсынылатын жабдықтар мен жиһаз) пайдаланады, мектепке дейінгі тәрбие мен оқытудың мемлекеттік жалпыға міндетті стандартының талаптарына сәйкес ыңғайлы және қауіпсіз пәндік-кеңістіктік дамыту ортасын құру үшін ойын, шығармашылық, дамыту аймақтарын дербес айқындайды (Қазақстан Республикасы Білім және ғылым министрінің 2018 жылғы 31 қазандағы № 604).
+
+* Сынып-жинақтарға, оқушылардың, педагогтардың санына байланысты жабдықтар мен жиһаз тізбесі қысқартылады немесе орта білім беру ұйымы ұлғайтады.
+
+* «Көркем еңбек» пәні бойынша бөлімдерді аймақтарға біріктіруге жол беріледі.
+
+* Шағын жинақты мектептер оқушылар санына пропорционалды түрде мектепке дейінгі, орта білім беру ұйымдарын жабдықтармен және жиһаздармен жабдықтау нормаларына сәйкес жабдықтармен және жиһаздармен жарақтандырылады. Жеке пән кабинеттерін біріктіруге рұқсат етіледі.
+
+* Білім беру ұйымдары қосымша, оның ішінде білім берудің барлық деңгейлерінің мемлекеттік жалпыға міндетті стандартында көзделген инновациялық жабдықпен, үлгілік оқу жоспарларымен және қосымша білім беру бағдарламаларымен жарақтандырылуы мүмкін.
