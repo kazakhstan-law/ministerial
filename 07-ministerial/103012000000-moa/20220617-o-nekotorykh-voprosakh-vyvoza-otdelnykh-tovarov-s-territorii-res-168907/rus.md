@@ -13,6 +13,11 @@ approval_date: 2022-06-17
 version_date: 2022-06-17
 registry_number: '168907'
 source: https://zan.gov.kz/client/#!/doc/168907/rus/17.06.2022
+repealed_on: 2022-08-31
+repealed_by:
+  code: '168907'
+  title: О некоторых вопросах вывоза отдельных товаров с территории Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/168907/rus
 ---
 
 # О некоторых вопросах вывоза отдельных товаров с территории Республики Казахстан
