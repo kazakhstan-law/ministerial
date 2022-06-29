@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/91963/kaz/20.09.2021
+source: https://zan.gov.kz/client/#!/doc/91963/kaz/29.06.2022
 ---
 
 # Iшкi сауда қағидаларын бекiту туралы
