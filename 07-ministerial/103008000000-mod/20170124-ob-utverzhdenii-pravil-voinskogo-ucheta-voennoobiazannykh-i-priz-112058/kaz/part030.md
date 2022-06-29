@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/112058/kaz/20.08.2021
+source: https://zan.gov.kz/client/#!/doc/112058/kaz/29.06.2022
 ---
 
 > *Әскери міндеттілер мен әскерге*  
