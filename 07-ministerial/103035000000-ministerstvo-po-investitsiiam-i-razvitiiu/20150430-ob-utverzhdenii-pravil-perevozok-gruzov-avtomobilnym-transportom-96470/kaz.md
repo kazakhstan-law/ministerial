@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96470/kaz/23.08.2021
+source: https://zan.gov.kz/client/#!/doc/96470/kaz/03.07.2022
 ---
 
 # Автомобиль көлігімен жүктерді тасымалдау қағидаларын бекіту туралы
