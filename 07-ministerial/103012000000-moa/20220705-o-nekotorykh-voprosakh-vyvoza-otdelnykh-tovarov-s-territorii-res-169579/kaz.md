@@ -13,6 +13,11 @@ approval_date: 2022-07-05
 version_date: 2022-07-05
 registry_number: '169579'
 source: https://zan.gov.kz/client/#!/doc/169579/kaz/05.07.2022
+repealed_on: 2022-09-30
+repealed_by:
+  code: '169579'
+  title: Қазақстан Республикасы аумағынан жекелеген тауарларды әкетудің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/169579/kaz
 ---
 
 # Қазақстан Республикасы аумағынан жекелеген тауарларды әкетудің кейбір мәселелері туралы
