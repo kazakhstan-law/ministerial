@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/165589/rus/24.03.2022
+source: https://zan.gov.kz/client/#!/doc/165589/rus/29.07.2022
 ---
 
 > *Приложение 10 к Стандарту*  
