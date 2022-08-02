@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/147726/kaz/02.10.2020
+source: https://zan.gov.kz/client/#!/doc/147726/kaz/02.08.2022
 ---
 
 > *Донорларды медициналық*  
