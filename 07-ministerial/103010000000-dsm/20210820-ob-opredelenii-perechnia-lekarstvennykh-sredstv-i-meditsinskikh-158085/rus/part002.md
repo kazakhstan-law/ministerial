@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/158085/rus/26.03.2022
+source: https://zan.gov.kz/client/#!/doc/158085/rus/16.08.2022
 ---
 
 > *Приложение 2 к приказу Министра здравоохранения Республики Казахстан от 20 августа 2021 года*  
