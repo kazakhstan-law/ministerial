@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87859/rus/11.02.2021
+source: https://zan.gov.kz/client/#!/doc/87859/rus/17.08.2022
 ---
 
 # Инструкция по составлению сведений о сети, штатах, контингентах
@@ -39,19 +39,6 @@ source: https://zan.gov.kz/client/#!/doc/87859/rus/11.02.2021
 |---|---|
 | [`an000`](rus/an000.md) | Инструкция по составлению сведений о сети, штатах, контингентах |
 | [`an001`](rus/an001.md) | Форма, предназначенная для сбора административных данных |
-| [`an001-part001-t001`](rus/an001-part001-t001.md) | таблица 1 |
-| [`an001-part001-t002`](rus/an001-part001-t002.md) | таблица 2 |
-| [`an001-part001-t003`](rus/an001-part001-t003.md) | таблица 3 |
-| [`an001-part001-t004`](rus/an001-part001-t004.md) | таблица 4 |
-| [`an001-part001-t005`](rus/an001-part001-t005.md) | таблица 5 |
-| [`an001-part001-t006`](rus/an001-part001-t006.md) | таблица 6 |
-| [`an001-part001-t007`](rus/an001-part001-t007.md) | таблица 7 |
-| [`an001-part001-t008`](rus/an001-part001-t008.md) | таблица 8 |
-| [`an001-part001-t009`](rus/an001-part001-t009.md) | таблица 9 |
-| [`an001-part001-part018`](rus/an001-part001-part018.md) | an001-part001-part018 |
-| [`an001-part001-t010`](rus/an001-part001-t010.md) | таблица 10 |
-| [`an001-part001-t011`](rus/an001-part001-t011.md) | таблица 11 |
-| [`an001-part001-t012`](rus/an001-part001-t012.md) | таблица 12 |
-| [`an001-part001-t013`](rus/an001-part001-t013.md) | таблица 13 |
-| [`an001-part001-part026`](rus/an001-part001-part026.md) | an001-part001-part026 |
+| [`an001-sec015`](rus/an001-sec015.md) | an001-sec015 |
+| [`an001-sec024`](rus/an001-sec024.md) | an001-sec024 |
 | [`an002`](rus/an002.md) | Форма, предназначенная для сбора административных данных |

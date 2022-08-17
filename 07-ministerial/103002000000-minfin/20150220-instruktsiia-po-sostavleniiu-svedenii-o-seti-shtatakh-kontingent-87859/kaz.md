@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87859/kaz/11.02.2021
+source: https://zan.gov.kz/client/#!/doc/87859/kaz/17.08.2022
 ---
 
 # Желi, штаттар, контингенттер туралы мәлiметтердi жасау жөнiндегi нұсқаулық
@@ -39,18 +39,6 @@ source: https://zan.gov.kz/client/#!/doc/87859/kaz/11.02.2021
 |---|---|
 | [`an000`](kaz/an000.md) | Желi, штаттар, контингенттер туралы мәлiметтердi жасау жөнiндегi нұсқаулық |
 | [`an001`](kaz/an001.md) | Әкімшілік деректер жинауға арналған нысан |
-| [`an001-part001-t001`](kaz/an001-part001-t001.md) | таблица 1 |
-| [`an001-part001-t002`](kaz/an001-part001-t002.md) | таблица 2 |
-| [`an001-part001-t003`](kaz/an001-part001-t003.md) | таблица 3 |
-| [`an001-part001-t004`](kaz/an001-part001-t004.md) | таблица 4 |
-| [`an001-part001-t005`](kaz/an001-part001-t005.md) | таблица 5 |
-| [`an001-part001-t006`](kaz/an001-part001-t006.md) | таблица 6 |
-| [`an001-part001-t007`](kaz/an001-part001-t007.md) | таблица 7 |
-| [`an001-part001-t008`](kaz/an001-part001-t008.md) | таблица 8 |
-| [`an001-part001-t009`](kaz/an001-part001-t009.md) | таблица 9 |
-| [`an001-part001-part018`](kaz/an001-part001-part018.md) | an001-part001-part018 |
-| [`an001-part001-t010`](kaz/an001-part001-t010.md) | таблица 10 |
-| [`an001-part001-t011`](kaz/an001-part001-t011.md) | таблица 11 |
-| [`an001-part001-t012`](kaz/an001-part001-t012.md) | таблица 12 |
-| [`an001-part001-part024`](kaz/an001-part001-part024.md) | an001-part001-part024 |
+| [`an001-sec015`](kaz/an001-sec015.md) | an001-sec015 |
+| [`an001-sec025`](kaz/an001-sec025.md) | an001-sec025 |
 | [`an002`](kaz/an002.md) | Әкімшілік деректерді жинауға арналған нысан |
