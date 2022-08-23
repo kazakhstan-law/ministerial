@@ -1,5 +1,5 @@
 ---
-version_id: '143154_582630'
+version_id: '143154_591448'
 act_code: '143154'
 language: kaz
 title: Орта білім беру ұйымдарына арналған жекелеген пәндер бойынша оқулықтар мен базалық оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесін бекіту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2020-05-22
-version_date: 2022-06-21
+version_date: 2022-08-23
 registry_number: '143154'
 caused_by:
-  code: '169081'
+  code: '171033'
   title: «Орта білім беру ұйымдарына арналған оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесін бекіту туралы» Қазақстан Республикасы Білім және ғылым министрінің 2020 жылғы 22 мамырдағы № 216 бұйрығына өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/169081/kaz
-source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
+  link: https://zan.gov.kz/client/#!/doc/171033/kaz
+source: https://zan.gov.kz/client/#!/doc/143154/kaz/23.08.2022
 ---
 
 # Орта білім беру ұйымдарына арналған оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесін бекіту туралы
@@ -48,32 +48,31 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 
 **А. Аймагамбетов**
 
-> *Қазақстан Республикасы*  
-> *Білім және ғылым министрінің*  
-> *«22» мамырдағы 2020 жылғы*  
-> *№ 216 бұйрығына*  
-> *1-қосымша*
+> *Қазақстан Республикасы Білім*  
+> *және ғылым министрінің «22»*  
+> *мамырдағы 2020 жылғы № 216*  
+> *бұйрығына 1-қосымша*
 
 ## Орта білім беру ұйымдарына арналған оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесі
 
-> *Ескерту. Тізбеге өзгерістер енгізілді - ҚР Білім және ғылым министрінің 08.09.2020 № 389 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің 23.04.2021 № 179 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 10.06.2021 № 286 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің м.а. 25.08.2021 № 428 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); ҚР Оқу-ағарту министрінің 21.06.2022 № 291 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. Тізбеге өзгерістер енгізілді - ҚР Білім және ғылым министрінің 08.09.2020 № 389 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің 23.04.2021 № 179 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 10.06.2021 № 286 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің м.а. 25.08.2021 № 428 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); ҚР Оқу-ағарту министрінің 21.06.2022 № 291 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 23.08.2022 № 376 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрықтарымен.*
 
 <table>
 <tr>
-<td>№</td>
-<td>Басылымның атауы</td>
-<td colspan="3">Автор(лар)</td>
-<td colspan="2">Шыққан жылы</td>
-<td>Баспа</td>
+<th>№</th>
+<th>Басылымның атауы</th>
+<th colspan="3">Автор(лар)</th>
+<th colspan="2">Шыққан жылы</th>
+<th>Баспа</th>
 </tr>
 <tr>
-<td colspan="8">Орта білім беру ұйымдарына арналған 1-11-сыныптарының оқулықтары</td>
+<th colspan="8">Орта білім беру ұйымдарына арналған 1-11-сыныптарының оқулықтары</th>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ тілінде</td>
+<th colspan="8">оқыту қазақ тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -146,7 +145,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -338,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -414,7 +413,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -487,7 +486,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -651,7 +650,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -843,7 +842,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -1063,7 +1062,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -1266,8 +1265,8 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 </tr>
 <tr>
 <td>29.</td>
-<td>Қазақстан тарихы Оқулық. (ХХ ғасырдың басы – 1945 ж.)</td>
-<td colspan="3">Қ. Өскембаев, З. Сақтағанова, Л. Зуева, Ғ. Мұхтарұлы</td>
+<td>Қазақстан тарихы. Оқулық.</td>
+<td colspan="3">Т. Омарбеков, Г. Хабижанова, Т. Қартаева, М. Ноғайбаева</td>
 <td colspan="2">2018</td>
 <td>Мектеп</td>
 </tr>
@@ -1328,7 +1327,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -1535,8 +1534,18 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 </tr>
 <tr>
 <td>30.</td>
-<td>Қазақстан тарихы. Оқулық. 1945 жылдан бүгінгі күнге дейін</td>
-<td colspan="3">Қ. Өскембаев, З. Сақтағанова, Ғ. Мұхтарұлы</td>
+<td>
+Қазақстан тарихы. 8-9 Оқулық.
+1-бөлім (XX ғ. басы – 1945 ж. 2-бөлім. (1945 жылдан бүгінгі күнге дейін)
+</td>
+<td colspan="3">
+1-бөлім
+Қ. Өскембаев, З. Сақтағанова,
+Л. Зуева, Ғ. Мұхтарұлы
+2-бөлім
+Қ. Өскембаев, З. Сақтағанова,
+Ғ. Мұхтарұлы
+</td>
 <td colspan="2">2019</td>
 <td>Мектеп</td>
 </tr>
@@ -1611,10 +1620,10 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -1757,7 +1766,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -1914,7 +1923,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -1980,10 +1989,10 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -2140,7 +2149,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -2304,7 +2313,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -2370,10 +2379,10 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">оқыту орыс тілінде</td>
+<th colspan="8">оқыту орыс тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -2470,7 +2479,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -2731,7 +2740,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>АОО «Назарбаев Интеллектуальные школы»</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -2807,7 +2816,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -2880,7 +2889,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -3037,7 +3046,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -3204,7 +3213,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/21.06.2022
 <td>Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -3379,41 +3388,48 @@ Chemistry Grade 7
 </tr>
 <tr>
 <td>25.</td>
+<td>Всемирная история. Учебник</td>
+<td colspan="3">Айтбай Р., Касымова А.</td>
+<td colspan="2">2017</td>
+<td>Атамұра</td>
+</tr>
+<tr>
+<td>26.</td>
 <td>Самопознание. Учебник</td>
 <td colspan="3">Калачева И., Керимбаева С., Сакенова Е., Юраш А.</td>
 <td colspan="2">2017</td>
 <td>Бөбек</td>
 </tr>
 <tr>
-<td>26.</td>
+<td>27.</td>
 <td>Художественный труд (вариант для мальчиков). Учебник +CD</td>
 <td colspan="3">Чукалин В., Танбаев Х., Развенкова И., Лосенко О., Велькер Е.</td>
 <td colspan="2">2017</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td>27.</td>
+<td>28.</td>
 <td>Художественный труд (вариант для девочек). Учебник+CD</td>
 <td colspan="3">Алимсаева Р., Развенкова И., Лосенко О., Велькер Е.</td>
 <td colspan="2">2017</td>
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td>28.</td>
+<td>29.</td>
 <td>Художественный труд для мальчиков. Учебник</td>
 <td colspan="3">Жақманов М., Кульбекова Ж., Пак О., Хасенов З.</td>
 <td colspan="2">2017</td>
 <td>АОО «Назарбаев интеллектуальные школы»</td>
 </tr>
 <tr>
-<td>29.</td>
+<td>30.</td>
 <td>Художественный труд для девочек. Учебник</td>
 <td colspan="3">Дуйсенова Б., Жолдасбекова С., Кульбекова Ж., Курабаева Ф.</td>
 <td colspan="2">2017</td>
 <td>АОО «Назарбаев интеллектуальные школы»</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -3582,11 +3598,7 @@ Chemistry Grade 7
 История Казахстана Учебник.
 (с начало ХХ века до 1945 г.)
 </td>
-<td colspan="3">
-Ускембаев К.,
-Сактаганова З.,
-Зуева Л.
-</td>
+<td colspan="3">Омарбеков Т., Хабижанова Г., Картаева Т., Ногайбаева М.</td>
 <td colspan="2">2018</td>
 <td>Мектеп</td>
 </tr>
@@ -3653,7 +3665,7 @@ Informatics.
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -3832,7 +3844,10 @@ Informatics.
 </tr>
 <tr>
 <td>26.</td>
-<td>История Казахстана. Учебник (с 1945 года до наших дней)</td>
+<td>
+История Казахстана. Учебник. 8-9, 1 ч. (с начало XX века до 1945 года )
+2 ч. (с начало 1945 года до наших дней )
+</td>
 <td colspan="3">Ускембаев К., Сактаганова З., Зуева Л.</td>
 <td colspan="2">2019</td>
 <td>Мектеп</td>
@@ -3908,10 +3923,10 @@ Informatics.
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -4026,7 +4041,7 @@ Informatics.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -4169,7 +4184,7 @@ Informatics.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -4235,10 +4250,10 @@ Informatics.
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -4384,7 +4399,7 @@ Informatics.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -4548,7 +4563,7 @@ Informatics.
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -4614,16 +4629,16 @@ Informatics.
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">
+<th colspan="8">
 Абайтану.
 5-11-сыныптар
-</td>
+</th>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ тілінде</td>
+<th colspan="8">оқыту қазақ тілінде</th>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -4645,7 +4660,7 @@ Informatics.
 <td>Әл-Наир баспасы</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>3.</td>
@@ -4667,7 +4682,7 @@ Informatics.
 <td>Әл-Наир баспасы</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>5.</td>
@@ -4689,7 +4704,7 @@ Informatics.
 <td>Әл-Наир баспасы</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>7.</td>
@@ -4711,7 +4726,7 @@ Informatics.
 <td>Әл-Наир баспасы</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>9.</td>
@@ -4733,7 +4748,7 @@ Informatics.
 <td>Әл-Наир баспасы</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
 <td>11.</td>
@@ -4755,7 +4770,7 @@ Informatics.
 <td>Әл-Наир баспасы</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
 <td>13.</td>
@@ -4777,7 +4792,7 @@ Informatics.
 <td>Әл-Наир баспасы</td>
 </tr>
 <tr>
-<td colspan="8">Өлкетану</td>
+<th colspan="8">Өлкетану</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -4892,7 +4907,7 @@ Informatics.
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">оқыту орыс тілінде</td>
+<th colspan="8">оқыту орыс тілінде</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -4986,13 +5001,13 @@ Informatics.
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ және орыс тілдерінде</td>
+<th colspan="8">оқыту қазақ және орыс тілдерінде</th>
 </tr>
 <tr>
-<td colspan="8">Ағылшын тіліндегі оқулықтар</td>
+<th colspan="8">Ағылшын тіліндегі оқулықтар</th>
 </tr>
 <tr>
-<td colspan="8">7- сынып</td>
+<th colspan="8">7- сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5037,7 +5052,7 @@ Informatics.
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="8">8- сынып</td>
+<th colspan="8">8- сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5089,7 +5104,7 @@ Informatics.
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="8">9- сынып</td>
+<th colspan="8">9- сынып</th>
 </tr>
 <tr>
 <td>8.</td>
@@ -5148,7 +5163,7 @@ Informatics.
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5182,7 +5197,7 @@ Aibek Baieshov, Askhad Artykbayev, Kamila Auyelbayeva
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5206,7 +5221,7 @@ Aibek Baieshov, Askhad Artykbayev, Kamila Auyelbayeva
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5230,7 +5245,7 @@ Aibek Baieshov, Askhad Artykbayev, Kamila Auyelbayeva
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5261,10 +5276,10 @@ Aibek Baieshov, Askhad Artykbayev, Kamila Auyelbayeva
 <td>Астана-кітап</td>
 </tr>
 <tr>
-<td colspan="8">Неміс тілі</td>
+<th colspan="8">Неміс тілі</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5274,7 +5289,7 @@ Aibek Baieshov, Askhad Artykbayev, Kamila Auyelbayeva
 <td>«Көкжиек-Горизонт (Ernst Klett Sprachen материалдары негізінде)»</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5284,7 +5299,7 @@ Aibek Baieshov, Askhad Artykbayev, Kamila Auyelbayeva
 <td>NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5294,7 +5309,7 @@ Aibek Baieshov, Askhad Artykbayev, Kamila Auyelbayeva
 <td>NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5314,7 +5329,7 @@ Schürmann Anja, Seuthe Christiane, Saule Shunkeyeva, Vassilja Kumpeissova, Assi
 <td>Hueber Verlag (InterPress Distribution)</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5324,7 +5339,7 @@ Schürmann Anja, Seuthe Christiane, Saule Shunkeyeva, Vassilja Kumpeissova, Assi
 <td>NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<td colspan="8">7- сынып</td>
+<th colspan="8">7- сынып</th>
 </tr>
 <tr>
 <td>3.1.</td>
@@ -5337,10 +5352,10 @@ Schürmann Anja, Seuthe Christiane, Saule Shunkeyeva, Bakhytgul Zhetpisbayeva, M
 <td>Hueber Verlag (Inter Press Distribution)</td>
 </tr>
 <tr>
-<td colspan="8">Француз тілі</td>
+<th colspan="8">Француз тілі</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5350,7 +5365,7 @@ Schürmann Anja, Seuthe Christiane, Saule Shunkeyeva, Bakhytgul Zhetpisbayeva, M
 <td>ТОО EDU Stream и Просвещение</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>2.</td>
@@ -5360,20 +5375,20 @@ Schürmann Anja, Seuthe Christiane, Saule Shunkeyeva, Bakhytgul Zhetpisbayeva, M
 <td>Просвещение и EDU Stream</td>
 </tr>
 <tr>
-<td colspan="8">Ағылшын тілі</td>
+<th colspan="8">Ағылшын тілі</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
-<td>Pupil’s Book for Kazakhstan Grade 1 &quot;Smiles 1&quot;. Электронный учебник (web-платформа) 1 class. https://topiq.kz/</td>
+<td>Pupil’s Book for Kazakhstan Grade 1 «Smiles 1». Pupil's Book</td>
 <td colspan="3">Jenny Dooley – Virginia Evans Translations by N. Mukhamedjanova</td>
-<td colspan="2">2020</td>
+<td colspan="2">2021</td>
 <td>ExpressPublishing</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5396,7 +5411,7 @@ Express Publishing
 </td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5406,7 +5421,7 @@ Express Publishing
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5416,7 +5431,7 @@ Express Publishing
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5447,7 +5462,7 @@ Express Publishing
 <td>Macmillan Publishers</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5485,7 +5500,7 @@ Express Publishing
 <td>MM Publications</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5516,7 +5531,7 @@ Express Publishing
 <td>Macmillan Publishers</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5560,7 +5575,7 @@ Grade 8 Student`s Book
 <td>MM Publications</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5598,10 +5613,10 @@ Grade 8 Student`s Book
 <td>Macmillan Publishers</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5622,7 +5637,7 @@ Digital Student`s Book Premium Pack
 <td>Macmillan Publishers</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5650,10 +5665,10 @@ Digital Student`s Book Premium Pack
 <td>Macmillan Publishers</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5690,7 +5705,7 @@ Malkogianni
 <td>Express Publishing</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5707,10 +5722,10 @@ Malkogianni
 <td>Oxford University Press</td>
 </tr>
 <tr>
-<td colspan="8">оқыту ұйғыр тілінде</td>
+<th colspan="8">оқыту ұйғыр тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5776,7 +5791,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5807,49 +5822,76 @@ Malkogianni
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Тәбиәтшунаслиқ. Дәрислик</td>
-<td colspan="3">Е. Очкур, В. Ударцева</td>
-<td colspan="2">2017</td>
-<td>Мектеп</td>
+<th>3.</th>
+<th>Математика 1,2-қисим. Дәрислик</th>
+<th colspan="3">
+Т. Оспанов,
+Ж. Астамбаева,
+Н. Мергенбаева
+</th>
+<th colspan="2">2022</th>
+<th>Атамұра</th>
 </tr>
 <tr>
-<td>4.</td>
-<td>Дуниятонуш. Дәрислик</td>
-<td colspan="3">Ш. Толыбекова, Г. Головина, М. Дюжикова</td>
-<td colspan="2">2017</td>
-<td>Мектеп</td>
+<th>4.</th>
+<th>Цифрлиқ саватлиқ. Дәрислик</th>
+<th colspan="3">
+Ж. Кобдикова,
+Г. Көпеева,
+Ә. Қаптағаева,
+А. Юсупова
+</th>
+<th colspan="2">2022</th>
+<th>Арман-ПВ</th>
 </tr>
 <tr>
-<td>5.</td>
-<td>Бәдиий әмгәк. Дәрислик</td>
-<td colspan="3">Н. Раупова</td>
-<td colspan="2">2017</td>
-<td>Атамұра</td>
+<th>5.</th>
+<th>Дуния тонуш. Дәрислик</th>
+<th colspan="3">
+Ш. Толыбекова,
+Г. Головина,
+М. Дюжикова,
+В. Золотарeва
+</th>
+<th colspan="2">2022</th>
+<th>Мектеп</th>
 </tr>
 <tr>
-<td>6.</td>
-<td>Математика + СD Дәрислик. 1, 2, 3, 4 бөлүм</td>
-<td colspan="3">А. Ақпаева, Л. Лебедева, М. Мыңжасарова</td>
-<td colspan="2">2017</td>
-<td>Алматыкітап баспасы</td>
+<th>6.</th>
+<th>Тәбиәтшунаслиқ. Дәрислик</th>
+<th colspan="3">
+С. Көшербаева,
+Л. Көдек,
+Г. Тәшенова
+</th>
+<th colspan="2">2022</th>
+<th>Атамұра</th>
 </tr>
 <tr>
-<td>7.</td>
-<td>Өзини-өзи тонуш. Дәрислик</td>
-<td colspan="3">Р. Муқажанова, Г. Омарова, Ж. Әкимбаева, Р. Изғуттынова, Г. Кошкеева, Н. Оналбаева, Б. Ахатаева</td>
-<td colspan="2">2017</td>
-<td>Бөбек</td>
+<th>7.</th>
+<th>Бәдиий әмгәк. Дәрислик</th>
+<th colspan="3">
+Е. Ермилова,
+С. Попкова,
+С. Козина
+</th>
+<th colspan="2">2022</th>
+<th>Мектеп</th>
 </tr>
 <tr>
-<td>8.</td>
-<td>Музыка. Дәрислик</td>
-<td colspan="3">Ш. Қулманова, Б. Сүлейменова, Т. Тоғжанов, Н. Рембақиева</td>
-<td colspan="2">2017</td>
-<td>Атамұра</td>
+<th>8.</th>
+<th>Музыка. Дәрислик</th>
+<th colspan="3">
+Ш. Қулманова,
+Б. Сүлейменова,
+Т. Тоғжанов,
+Н. Рембақиева
+</th>
+<th colspan="2">2022</th>
+<th>Атамұра</th>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5915,7 +5957,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -5981,7 +6023,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6061,7 +6103,7 @@ Malkogianni
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6134,7 +6176,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6235,7 +6277,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6357,7 +6399,7 @@ Malkogianni
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6472,10 +6514,10 @@ Malkogianni
 <td>Keleshek -2030</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6555,7 +6597,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6628,7 +6670,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6652,10 +6694,10 @@ Malkogianni
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6735,7 +6777,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6815,7 +6857,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1</td>
@@ -6832,10 +6874,10 @@ Malkogianni
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">оқыту өзбек тілінде</td>
+<th colspan="8">оқыту өзбек тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6894,7 +6936,7 @@ Malkogianni
 <td>Мектеп- Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -6917,49 +6959,70 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Математика. Дарслик. № 1, 2, 3, 4 қисм</td>
-<td colspan="3">А. Акпаева, Л. Лебедева, М. Минжасарова</td>
-<td colspan="2">2017</td>
-<td>Алматыкітап баспасы -Жазушы</td>
+<th>3.</th>
+<th>Математика. Дарслик. 1, 2 қисм</th>
+<th colspan="3">
+Т. Оспанов,
+Ж. Астамбаева,
+Н. Мергенбаева
+</th>
+<th colspan="2">2022</th>
+<th>Атамұра - Жазушы</th>
 </tr>
 <tr>
-<td>4.</td>
-<td>Табиатшунослик. Дарслик</td>
-<td colspan="3">Н. Болтушенко, В. Зворыгина, Р. Избасарова, О. Лауто, Т. Помогайко, Т. Яндулова</td>
-<td colspan="2">2017</td>
-<td>Алматыкітап баспасы -Жазушы</td>
+<th>4.</th>
+<th>Рақамли саводхонлик. Дарслик</th>
+<th colspan="3">
+Ж. Кобдикова,
+Г. Копеева,
+А. Қаптағаева,
+А. Юсупова
+</th>
+<th colspan="2">2022</th>
+<th>Арман-ПВ - Жазушы</th>
 </tr>
 <tr>
-<td>5.</td>
-<td>Дунетаниш. Дарслик</td>
-<td colspan="3">Б. Турмалиев, С. Салиш, Т. Мирук</td>
-<td colspan="2">2017</td>
-<td>Атамұра -Жазушы</td>
+<th>5.</th>
+<th>Дунётаниш. Дарслик</th>
+<th colspan="3">
+К. Байтенова,
+Ж. Қажиғалиева,
+Н. Орехова
+</th>
+<th colspan="2">2022</th>
+<th>«Назарбаев Зияткерлік мектептері» ДББҰ – Жазушы</th>
 </tr>
 <tr>
-<td>6.</td>
-<td>Уз-узини англаш. Дарслик</td>
-<td colspan="3">Р. Муқажанова, Г. Омарова, Ж. Акимбаева, Р. Изғуттинова, Г. Кошкеева, Н. Оналбаева, Б. Ахатова</td>
-<td colspan="2">2017</td>
-<td>Бөбек</td>
+<th>6.</th>
+<th>Табиатшунослик. Дарслик</th>
+<th colspan="3">
+С. Кучербаева,
+Л. Кудек,
+Г. Ташенова
+</th>
+<th colspan="2">2022</th>
+<th>Атамұра - Жазушы</th>
 </tr>
 <tr>
-<td>7.</td>
-<td>Мусиқа. Дарслик</td>
-<td colspan="3">Ш. Қулманова, Б. Сулейменова, Т. Тоғжанов</td>
-<td colspan="2">2017</td>
-<td>Атамұра -Жазушы</td>
+<th>7.</th>
+<th>Бадиий меҳнат. Дарслик</th>
+<th colspan="3">Н. Королькова, С. Жолдасбекова, Д. Мадиева</th>
+<th colspan="2">2022</th>
+<th>Алматыкітап баспасы – Жазушы</th>
 </tr>
 <tr>
-<td>8.</td>
-<td>Бадиий мехнат. Дарслик</td>
-<td colspan="3">Н. Раупова</td>
-<td colspan="2">2017</td>
-<td>Атамұра -Жазушы</td>
+<th>8.</th>
+<th>Мусиқа. Дарслик</th>
+<th colspan="3">
+Ш. Қулманова,
+Б. Сулейменова,
+Т. Тоқжанов
+</th>
+<th colspan="2">2022</th>
+<th>Атамұра - Жазушы</th>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7018,7 +7081,7 @@ Malkogianni
 <td>Атамұра-Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7084,7 +7147,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7164,7 +7227,7 @@ Malkogianni
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7237,7 +7300,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7338,7 +7401,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7432,7 +7495,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7533,10 +7596,10 @@ Malkogianni
 <td>Keleshek - 2030</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7616,7 +7679,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7689,7 +7752,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1</td>
@@ -7706,10 +7769,10 @@ Malkogianni
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7782,7 +7845,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7862,7 +7925,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7886,10 +7949,10 @@ Malkogianni
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">оқыту тәжік тілінде</td>
+<th colspan="8">оқыту тәжік тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -7962,7 +8025,7 @@ Malkogianni
 <td>Жазушы- Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8014,7 +8077,7 @@ Malkogianni
 <td>Алматыкітап баспасы -Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8024,7 +8087,7 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8041,7 +8104,7 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8058,7 +8121,7 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8075,7 +8138,7 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8085,7 +8148,7 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8102,7 +8165,7 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8119,7 +8182,7 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8136,13 +8199,13 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">Электрондық оқулықтар</td>
+<th colspan="8">Электрондық оқулықтар</th>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ тілінде</td>
+<th colspan="8">оқыту қазақ тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8248,7 +8311,7 @@ www.oqulyqtar.kz
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8444,7 +8507,7 @@ www.oqulyqtar.kz
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8499,7 +8562,7 @@ www.oqulyqtar.kz
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8537,7 +8600,7 @@ www.oqulyqtar.kz
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8667,7 +8730,7 @@ http://e-booksgkn.kz/
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8698,7 +8761,7 @@ http://e-booksgkn.kz/
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8923,7 +8986,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -8983,7 +9046,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -9052,7 +9115,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -9096,7 +9159,7 @@ http://keleshek-2030.kz/portal.php.
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1</td>
@@ -9114,10 +9177,10 @@ http://keleshek-2030.kz/portal.php.
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -9260,7 +9323,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -9357,7 +9420,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -9389,10 +9452,10 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">оқыту орыс тілінде</td>
+<th colspan="8">оқыту орыс тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -9525,7 +9588,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -9765,7 +9828,7 @@ http://www.notedu.kz/
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -9833,7 +9896,7 @@ http://www.notedu.kz/
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -9905,7 +9968,7 @@ http://www.notedu.kz/
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10062,7 +10125,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10100,7 +10163,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10316,7 +10379,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10368,7 +10431,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10452,7 +10515,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10528,10 +10591,10 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10642,7 +10705,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10785,7 +10848,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10810,16 +10873,36 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">Ерекше білім беруге қажеттілігі бар білім алушыларға арналған оқу әдебиеті</td>
+<th colspan="8">с казахским, русским, уйгурским, узбекским языками обучения</th>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ тілінде</td>
+<th colspan="8">начальная образование</th>
 </tr>
 <tr>
-<td colspan="8">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</td>
+<th colspan="8">Английский язык</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<td>1</td>
+<td>
+Pupil’s Book for Kazakhstan Grade 1 «Smiles 1».
+Электронный учебник
+(web-платформа) 1 class. https://topiq.kz/
+</td>
+<td colspan="3">Jenny Dooley – Virginia Evans Translations by N. Mukhamedjanova</td>
+<td colspan="2">2020</td>
+<td>Express Publishing</td>
+</tr>
+<tr>
+<th colspan="8">Ерекше білім беруге қажеттілігі бар білім алушыларға арналған оқу әдебиеті</th>
+</tr>
+<tr>
+<th colspan="8">оқыту қазақ тілінде</th>
+</tr>
+<tr>
+<th colspan="8">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</th>
+</tr>
+<tr>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1</td>
@@ -10857,7 +10940,7 @@ http://keleshek-2030.kz/portal.php
 <td>«Назарбаев зияткерлік мектептері» ДББҰ - ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10881,7 +10964,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы -ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10905,7 +10988,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы - ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10932,7 +11015,7 @@ http://keleshek-2030.kz/portal.php
 <td>Атамұра -ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10963,7 +11046,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп-ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11010,7 +11093,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11049,10 +11132,10 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулықтар</td>
+<th colspan="8">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулықтар</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11076,7 +11159,7 @@ http://keleshek-2030.kz/portal.php
 <td>«Назарбаев зияткерлік мектептері» ДББҰ - ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11096,7 +11179,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы -ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11120,7 +11203,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы -ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11144,7 +11227,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы - ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11161,7 +11244,7 @@ http://keleshek-2030.kz/portal.php
 <td>Атамұра-ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11185,7 +11268,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп - ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11216,7 +11299,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп - ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">8 - сынып</td>
+<th colspan="8">8 - сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11268,7 +11351,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11306,10 +11389,10 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқулықтар</td>
+<th colspan="8">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқулықтар</th>
 </tr>
 <tr>
-<td colspan="8">0-сынып</td>
+<th colspan="8">0-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11340,7 +11423,7 @@ http://keleshek-2030.kz/portal.php
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11367,7 +11450,7 @@ http://keleshek-2030.kz/portal.php
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11405,7 +11488,7 @@ http://keleshek-2030.kz/portal.php
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11460,7 +11543,7 @@ http://keleshek-2030.kz/portal.php
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11498,7 +11581,7 @@ http://keleshek-2030.kz/portal.php
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11539,7 +11622,7 @@ http://keleshek-2030.kz/portal.php
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11584,7 +11667,7 @@ http://keleshek-2030.kz/portal.php
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11632,7 +11715,7 @@ http://keleshek-2030.kz/portal.php
 <td>Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11677,7 +11760,7 @@ http://keleshek-2030.kz/portal.php
 <td>Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11722,33 +11805,62 @@ http://keleshek-2030.kz/portal.php
 <td>Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td>1.</td>
-<td>Қазақ тілі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің 10-сыныбына арналған оқу- әдістемелік кешен. Оқулық</td>
-<td colspan="3">
-К.Бекмухамбетова,
-А. Биисова
-</td>
-<td colspan="2">2014</td>
-<td>ӘБЕО</td>
+<th>1.</th>
+<th>Қазақ тілі. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 10- сынып оқушыларына арналған оқулық</th>
+<th colspan="3">
+А. Биисова,
+Ф. Жалетденова,
+Д. Жаукенова
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
 </tr>
 <tr>
-<td>2.</td>
-<td>Математика. Оқулық. Зерде даму бұзылыстары бар балаларға арналған арнайы мектептің дайындық кезеңіне арналған оқу-әдістемелік кешен</td>
-<td colspan="3">И. Елисеева</td>
-<td colspan="2">2014</td>
-<td>ӘБЕО</td>
+<th>2.</th>
+<th>Оқу және тіл дамыту. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 10- сынып оқушыларына арналған оқулық</th>
+<th colspan="3">
+Р.Сүлейменова,
+К. Каменова,
+М. Каржаубаева
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
 </tr>
 <tr>
-<td colspan="8">оқыту орыс тілінде</td>
+<th>3.</th>
+<th>Математика. Арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 10- сынып оқушыларына арналған оқулық</th>
+<th colspan="3">
+Р. Сүлейменова,
+И.Елисеева,
+С. Парканова
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
 </tr>
 <tr>
-<td colspan="8">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</td>
+<th>4.</th>
+<th>
+Русский язык. Учебник для учащихся 10 класса с нарушением интеллекта
+специальных школ (классов) с нерусским языком обучения
+</th>
+<th colspan="3">
+Халыкова Б.,
+Юлдабаева Н.
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">оқыту орыс тілінде</th>
+</tr>
+<tr>
+<th colspan="8">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</th>
+</tr>
+<tr>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11789,7 +11901,7 @@ http://keleshek-2030.kz/portal.php
 <td>АОО «Назарбаев интеллектуальные школы»-САТР</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11813,7 +11925,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы - САТР</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11844,7 +11956,7 @@ http://keleshek-2030.kz/portal.php
 <td>Express Publishing- САТР</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11868,7 +11980,7 @@ http://keleshek-2030.kz/portal.php
 <td>Атамұра-САТР</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11906,7 +12018,7 @@ http://keleshek-2030.kz/portal.php
 <td>Express Publishing- САТР</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11948,7 +12060,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп-САТР</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11980,10 +12092,10 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп-САТР</td>
 </tr>
 <tr>
-<td colspan="8">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулықтар</td>
+<th colspan="8">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулықтар</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12007,7 +12119,7 @@ http://keleshek-2030.kz/portal.php
 <td>АОО «Назарбаев интеллектуальные школы»- САТР</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12024,7 +12136,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы - САТР</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12048,7 +12160,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы - САТР</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12082,7 +12194,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Express Publishing- САТР</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12099,7 +12211,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Атамұра - САТР</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12130,7 +12242,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Express Publishing- САТР</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12168,7 +12280,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Мектеп - САТР</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12219,7 +12331,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Мектеп – САТР</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12256,10 +12368,13 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Мектеп – САТР</td>
 </tr>
 <tr>
-<td colspan="8">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқулықтар</td>
+<th colspan="8">
+Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға)
+арналған оқулықтар
+</th>
 </tr>
 <tr>
-<td colspan="8">0-сынып</td>
+<th colspan="8">0-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12283,7 +12398,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12307,7 +12422,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12348,7 +12463,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12393,7 +12508,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12431,7 +12546,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12469,7 +12584,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12507,7 +12622,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12552,7 +12667,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Компания Консалтинг &amp; Тренинг</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12597,7 +12712,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Компания Консалтинг &amp;Тренинг</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12642,13 +12757,57 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Компания Консалтинг &amp; Тренинг</td>
 </tr>
 <tr>
-<td colspan="8">Мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендер</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ тілінде</td>
+<th>1.</th>
+<th>
+Русский язык. Учебник для учащихся 10 класса с нарушением интеллекта
+специальных школ (классов)
+</th>
+<th colspan="3">Мельникова Т.</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
 </tr>
 <tr>
-<td colspan="8">Ерте жас тобы (1 жастан бастап)</td>
+<th>2.</th>
+<th>
+Математика. Учебник для учащихся 10 класса с нарушением интеллекта
+специальных школ (классов)
+</th>
+<th colspan="3">
+Сулейменова Р.,
+Елисеева И.,
+Парканова С.
+</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
+</tr>
+<tr>
+<th>3.</th>
+<th>
+Чтение и развитие речи. Учебник для учащихся 10 класса с нарушением интеллекта
+специальных школ (классов)
+</th>
+<th colspan="3">Мельникова Т.</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
+</tr>
+<tr>
+<th>4.</th>
+<th>Қазақ тілі. Оқыту орыс тілінде жүретін арнайы мектептердің (сыныптардың) зерде бұзылыстары бар 10 - сынып оқушыларына арналған оқулық</th>
+<th colspan="3">Г.Есенжолова, Г.Дербисалова, Г.Айтенова</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
+</tr>
+<tr>
+<th colspan="8">Мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендер</th>
+</tr>
+<tr>
+<th colspan="8">оқыту қазақ тілінде</th>
+</tr>
+<tr>
+<th colspan="8">Ерте жас тобы (1 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12679,7 +12838,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td colspan="8">Кіші топ (2 жастан бастап)</td>
+<th colspan="8">Кіші топ (2 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12906,7 +13065,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">Ортаңғы топ (3 жастан бастап)</td>
+<th colspan="8">Ортаңғы топ (3 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -13489,7 +13648,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">Ересектер тобы (4 жастан бастап)</td>
+<th colspan="8">Ересектер тобы (4 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -14110,7 +14269,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
+<th colspan="8">Мектепалды топ, мектепалды сынып (5 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -15111,10 +15270,10 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">оқыту орыс тілінде</td>
+<th colspan="8">оқыту орыс тілінде</th>
 </tr>
 <tr>
-<td colspan="8">Ерте жас тобы (1 жастан бастап)</td>
+<th colspan="8">Ерте жас тобы (1 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -15131,7 +15290,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">Кіші топ (2 жастан бастап)</td>
+<th colspan="8">Кіші топ (2 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -15379,7 +15538,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">Ортаңғы топ (3 жастан бастап)</td>
+<th colspan="8">Ортаңғы топ (3 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -15998,7 +16157,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">Ересектер тобы (4 жастан бастап)</td>
+<th colspan="8">Ересектер тобы (4 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -16737,7 +16896,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
+<th colspan="8">Мектепалды топ, мектепалды сынып (5 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -17727,10 +17886,10 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ және орыс тілдерінде</td>
+<th colspan="8">оқыту қазақ және орыс тілдерінде</th>
 </tr>
 <tr>
-<td colspan="8">Кіші топ (2 жастан бастап)</td>
+<th colspan="8">Кіші топ (2 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -17775,7 +17934,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Shugylakitap</td>
 </tr>
 <tr>
-<td colspan="8">Ортаңғы топ (3 жастан бастап)</td>
+<th colspan="8">Ортаңғы топ (3 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -17869,7 +18028,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Арман-ПВ</td>
 </tr>
 <tr>
-<td colspan="8">Ересектер тобы (4 жастан бастап)</td>
+<th colspan="8">Ересектер тобы (4 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -17970,7 +18129,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Shugylakitap</td>
 </tr>
 <tr>
-<td colspan="8">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
+<th colspan="8">Мектепалды топ, мектепалды сынып (5 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -18036,16 +18195,16 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>&quot;Shugylakitaр&quot;</td>
 </tr>
 <tr>
-<td colspan="8">Цифрлық басылымдар</td>
+<th colspan="8">Цифрлық басылымдар</th>
 </tr>
 <tr>
-<td colspan="8">Мектепке дейінгі тәрбие мен оқыту</td>
+<th colspan="8">Мектепке дейінгі тәрбие мен оқыту</th>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ тілінде</td>
+<th colspan="8">оқыту қазақ тілінде</th>
 </tr>
 <tr>
-<td colspan="8">Кіші топ (2 жастан бастап)</td>
+<th colspan="8">Кіші топ (2 жастан бастап)</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -18118,7 +18277,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Bilim Media Group</td>
 </tr>
 <tr>
-<td colspan="8">5 жастан 6 жасқа дейінгі – мектепалды даярлық</td>
+<th colspan="8">5 жастан 6 жасқа дейінгі – мектепалды даярлық</th>
 </tr>
 <tr>
 <td>11.</td>
@@ -18212,10 +18371,10 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>BilimMedia Group</td>
 </tr>
 <tr>
-<td colspan="8">оқыту орыс тілінде</td>
+<th colspan="8">оқыту орыс тілінде</th>
 </tr>
 <tr>
-<td colspan="8">5 жастан 6 жасқа дейінгі – мектепалды даярлық</td>
+<th colspan="8">5 жастан 6 жасқа дейінгі – мектепалды даярлық</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -18302,13 +18461,13 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Bilim Media Group</td>
 </tr>
 <tr>
-<td colspan="8">1-11 сыныптарға арналған оқу-әдістемелік кешендер</td>
+<th colspan="8">1-11 сыныптарға арналған оқу-әдістемелік кешендер</th>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ тілінде</td>
+<th colspan="8">оқыту қазақ тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -18485,7 +18644,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -18892,7 +19051,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -19049,7 +19208,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -19213,7 +19372,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -19482,7 +19641,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -19807,7 +19966,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -20125,7 +20284,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>«Назарбаев зияткерлік мектептері» ДББҰ</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -20485,7 +20644,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -20897,10 +21056,10 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -21099,7 +21258,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -21326,7 +21485,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -21413,10 +21572,10 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -21632,7 +21791,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -21855,7 +22014,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -21970,7 +22129,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">5-11 сыныптар</td>
+<th colspan="8">5-11 сыныптар</th>
 </tr>
 <tr>
 <td>17.</td>
@@ -21994,7 +22153,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">7-11 сыныптар</td>
+<th colspan="8">7-11 сыныптар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -22004,10 +22163,10 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">Цифрлық басылымдар</td>
+<th colspan="8">Цифрлық басылымдар</th>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -22034,7 +22193,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -22044,7 +22203,7 @@ Jenny Dooley, Bob Obee, N.Mukhamedjanova
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -22071,7 +22230,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -22081,7 +22240,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -22098,10 +22257,10 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">Өлкетану</td>
+<th colspan="8">Өлкетану</th>
 </tr>
 <tr>
-<td colspan="8">5-7 сыныптар</td>
+<th colspan="8">5-7 сыныптар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -22433,10 +22592,10 @@ http://keleshek-2030.kz/portal.php
 <td>Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
-<td colspan="8">Абайтану</td>
+<th colspan="8">Абайтану</th>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -22476,7 +22635,7 @@ http://keleshek-2030.kz/portal.php
 <td>«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>5.</td>
@@ -22516,7 +22675,7 @@ http://keleshek-2030.kz/portal.php
 <td>«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>9.</td>
@@ -22556,7 +22715,7 @@ http://keleshek-2030.kz/portal.php
 <td>«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>13.</td>
@@ -22596,7 +22755,7 @@ http://keleshek-2030.kz/portal.php
 <td>«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>17.</td>
@@ -22636,7 +22795,7 @@ http://keleshek-2030.kz/portal.php
 <td>«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
 <td>21.</td>
@@ -22676,7 +22835,7 @@ http://keleshek-2030.kz/portal.php
 <td>«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
 <td>25.</td>
@@ -22716,10 +22875,10 @@ http://keleshek-2030.kz/portal.php
 <td>«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<td colspan="8">оқыту орыс тілінде</td>
+<th colspan="8">оқыту орыс тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -22865,7 +23024,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -23404,7 +23563,7 @@ http://keleshek-2030.kz/portal.php
 <td>АОО «Назарбаев Интеллектуальные школы»</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -23578,7 +23737,7 @@ http://keleshek-2030.kz/portal.php
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -23728,7 +23887,7 @@ http://keleshek-2030.kz/portal.php
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -23976,7 +24135,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -24213,7 +24372,7 @@ http://keleshek-2030.kz/portal.php
 <td>Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -24512,7 +24671,7 @@ http://keleshek-2030.kz/portal.php
 <td>АОО «Назарбаев интеллектуальные школы»</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -24809,7 +24968,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -25182,10 +25341,10 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -25335,7 +25494,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -25530,7 +25689,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -25624,10 +25783,10 @@ http://keleshek-2030.kz/portal.php
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -25811,7 +25970,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26026,7 +26185,7 @@ http://keleshek-2030.kz/portal.php
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</td>
+<th colspan="8">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26141,7 +26300,7 @@ http://keleshek-2030.kz/portal.php
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">5-11 сыныптар</td>
+<th colspan="8">5-11 сыныптар</th>
 </tr>
 <tr>
 <td>17.</td>
@@ -26165,7 +26324,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">7-11 сыныптар</td>
+<th colspan="8">7-11 сыныптар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26175,16 +26334,16 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">Цифрлық басылымдар</td>
+<th colspan="8">Цифрлық басылымдар</th>
 </tr>
 <tr>
-<td colspan="8">оқыту орыс тілінде</td>
+<th colspan="8">оқыту орыс тілінде</th>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</td>
+<th colspan="8">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</th>
 </tr>
 <tr>
 <td>1</td>
@@ -26201,7 +26360,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26218,7 +26377,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26228,7 +26387,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26238,7 +26397,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26248,7 +26407,7 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26265,10 +26424,10 @@ http://keleshek-2030.kz/portal.php
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">Өлкетану</td>
+<th colspan="8">Өлкетану</th>
 </tr>
 <tr>
-<td colspan="8">5-7 сыныптар</td>
+<th colspan="8">5-7 сыныптар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26558,7 +26717,7 @@ http://keleshek-2030.kz/portal.php
 <td>Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
-<td colspan="8">5-11 сыныптар</td>
+<th colspan="8">5-11 сыныптар</th>
 </tr>
 <tr>
 <td>4.</td>
@@ -26568,7 +26727,7 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">оқыту орыс тілінде</td>
+<th colspan="8">оқыту орыс тілінде</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -26578,13 +26737,13 @@ http://keleshek-2030.kz/portal.php
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ және орыс тілдерінде</td>
+<th colspan="8">оқыту қазақ және орыс тілдерінде</th>
 </tr>
 <tr>
-<td colspan="8">Неміс тілі</td>
+<th colspan="8">Неміс тілі</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -26604,7 +26763,7 @@ http://keleshek-2030.kz/portal.php
 <td colspan="2">2020</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -26624,7 +26783,7 @@ http://keleshek-2030.kz/portal.php
 <td colspan="2">2021</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -26644,7 +26803,7 @@ http://keleshek-2030.kz/portal.php
 <td colspan="2">2021</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -26686,7 +26845,7 @@ Hueber Verlag
 </td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -26706,7 +26865,7 @@ Hueber Verlag
 <td colspan="2">2021</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td rowspan="2">1</td>
@@ -26728,10 +26887,10 @@ Schürmann Anja, Seuthe Christiane, Saule Shunkeyeva, Bakhytgul Zhetpisbayeva, M
 <td>Hueber Verlag (InterPress Distribution)</td>
 </tr>
 <tr>
-<td colspan="8">Француз тілі</td>
+<th colspan="8">Француз тілі</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -26751,7 +26910,7 @@ Schürmann Anja, Seuthe Christiane, Saule Shunkeyeva, Bakhytgul Zhetpisbayeva, M
 <td colspan="2">2021</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td rowspan="3">1</td>
@@ -26773,10 +26932,10 @@ Schürmann Anja, Seuthe Christiane, Saule Shunkeyeva, Bakhytgul Zhetpisbayeva, M
 <td>Просвещение и EDU Stream</td>
 </tr>
 <tr>
-<td colspan="8">Ағылшын тілі</td>
+<th colspan="8">Ағылшын тілі</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -26826,7 +26985,7 @@ Schürmann Anja, Seuthe Christiane, Saule Shunkeyeva, Bakhytgul Zhetpisbayeva, M
 <td colspan="2">2021</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -26877,7 +27036,7 @@ Express Publishing
 <td colspan="2">2022</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td rowspan="8">1.</td>
@@ -26922,7 +27081,7 @@ Express Publishing
 <td colspan="2">2018</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -26973,7 +27132,7 @@ Express Publishing
 <td></td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
@@ -27089,7 +27248,7 @@ Express Publishing
 <td colspan="2">2017</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
@@ -27253,7 +27412,7 @@ Bob Obee
 <td colspan="2">2018</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
@@ -27379,7 +27538,7 @@ Bob Obee
 <td colspan="2">2017</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
@@ -27563,7 +27722,7 @@ Bob Obee
 <td colspan="2">2018</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -27752,7 +27911,7 @@ Bob Obee
 <td colspan="2">2019</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
 <td colspan="8">қоғамдық-гуманитарлық бағыт</td>
@@ -27868,7 +28027,7 @@ Bob Obee
 <td colspan="2">2019</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -28003,10 +28162,10 @@ Bob Obee
 <td colspan="2">2019</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -28131,7 +28290,7 @@ Malkogianni
 <td colspan="2">2020</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -28203,10 +28362,10 @@ Malkogianni
 <td colspan="2">2020</td>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ және орыс тілдерінде</td>
+<th colspan="8">оқыту қазақ және орыс тілдерінде</th>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28216,7 +28375,7 @@ Malkogianni
 <td>8&amp;8</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28226,10 +28385,10 @@ Malkogianni
 <td>8&amp;8</td>
 </tr>
 <tr>
-<td colspan="8">оқыту ұйғыр тілінде</td>
+<th colspan="8">оқыту ұйғыр тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28302,7 +28461,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28362,63 +28521,50 @@ Malkogianni
 <td>Атамұра</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Тәбиәтшунаслиқ. Иш дәптири</td>
-<td colspan="3">Е. Очкур, В. Ударцева</td>
-<td colspan="2">2017</td>
-<td>Мектеп</td>
+<th>6.</th>
+<th>
+Цифрлиқ саватлиқ.
+Иш дәптири
+</th>
+<th colspan="3">
+Г. Көпеева,
+Ә. Қаптағаева,
+А. Юсупова
+</th>
+<th colspan="2">2022</th>
+<th>Арман-ПВ</th>
 </tr>
 <tr>
-<td>7.</td>
-<td>Дуниятонуш. Иш дәптири</td>
-<td colspan="3">Ш. Толыбекова, Г. Головина, М. Дюжикова</td>
-<td colspan="2">2017</td>
-<td>Мектеп</td>
+<th>7.</th>
+<th>
+Дуния тонуш.
+Иш дәптири
+</th>
+<th colspan="3">
+Ш. Толыбекова,
+Г. Головина,
+М. Дюжикова,
+В. Золотарeва
+</th>
+<th colspan="2">2022</th>
+<th>Мектеп</th>
 </tr>
 <tr>
-<td>8.</td>
-<td>Бәдиий әмгәк. Оқутуш методикиси</td>
-<td colspan="3">Н. Раупова</td>
-<td colspan="2">2017</td>
-<td>Атамұра</td>
+<th>8.</th>
+<th>
+Бәдиий әмгәк.
+Иш дәптири
+</th>
+<th colspan="3">
+Е. Ермилова,
+С. Попкова,
+С. Козина
+</th>
+<th colspan="2">2022</th>
+<th>Мектеп</th>
 </tr>
 <tr>
-<td>9.</td>
-<td>Бәдиий әмгәк. № 1, 2 иш дәптири.</td>
-<td colspan="3">Н. Раупова</td>
-<td colspan="2">2017</td>
-<td>Атамұра</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Математика. Методикилиқ қурал</td>
-<td colspan="3">А. Ақпаева, Л. Лебедева, М. Мыңжасарова, Т. Лихобабенко</td>
-<td colspan="2">2017</td>
-<td>Алматыкітап баспасы</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Математика. Иш дәптири. 1, 2, 3, 4 бөлүм</td>
-<td colspan="3">А. Ақпаева, Л. Лебедева, М. Мыңжасарова</td>
-<td colspan="2">2017</td>
-<td>Алматыкітап баспасы</td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Өзини-өзи тонуш. Методикилиқ қолланма</td>
-<td colspan="3">Р. Мукажанова, Г. Омарова, Ж. Акимбаева, Р. Изгуттынова, Г. Кошкеева, Н. Оналбаева, Б. Ахатаева</td>
-<td colspan="2">2017</td>
-<td>Бөбек</td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Өзини-өзи тонуш. Оқуғучи дәптири</td>
-<td colspan="3">Р. Муқажанова, Г. Омарова, Р. Изғуттынова, Г. Кошкеева, Н. Оналбаева, Б. Ахатаева</td>
-<td colspan="2">2017</td>
-<td>Бөбек</td>
-</tr>
-<tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28491,7 +28637,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28557,7 +28703,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28588,7 +28734,7 @@ Malkogianni
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28612,7 +28758,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28657,7 +28803,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28702,7 +28848,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28733,10 +28879,10 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28760,7 +28906,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28784,7 +28930,7 @@ Malkogianni
 <td>Мектеп</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28801,10 +28947,10 @@ Malkogianni
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
+<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28828,7 +28974,7 @@ Malkogianni
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28852,7 +28998,7 @@ Malkogianni
 <td>Атамұра</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28862,10 +29008,10 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">оқыту өзбек тілінде</td>
+<th colspan="8">оқыту өзбек тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1- сынып</td>
+<th colspan="8">1- сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28938,7 +29084,7 @@ Malkogianni
 <td>Мектеп- Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -28981,39 +29127,32 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Математика. № 1, 2, 3, 4 иш дафтари</td>
-<td colspan="3">А. Акпаева, Л. Лебедева, М. Минжасарова</td>
-<td colspan="2">2017</td>
-<td>Алматыкітап баспасы -Жазушы</td>
+<th>5.</th>
+<th>Табиатшунослик. №1,2 Ўқувчи дафтари</th>
+<th colspan="3">
+С. Кучербаева,
+Л. Кудек
+</th>
+<th colspan="2">2022</th>
+<th>Атамұра - Жазушы</th>
 </tr>
 <tr>
-<td>6.</td>
-<td>Табиатшунослик. № 1, 2 иш дафтари</td>
-<td colspan="3">Н. Болтушенко, В. Зворыгина, Р. Избасарова, О. Лауто, Т. Помогайко, Т. Яндулова</td>
-<td colspan="2">2017</td>
-<td>Алматыкітап баспасы -Жазушы</td>
+<th>6.</th>
+<th>Бадиий меҳнат. №1,2 иш дафтари</th>
+<th colspan="3">
+Н. Королькова,
+С. Жолдасбекова,
+Д. Мадиева
+</th>
+<th colspan="2">2022</th>
+<th>Алматыкітап баспасы - Жазушы</th>
 </tr>
 <tr>
 <td>7.</td>
-<td>Уз-узини англаш. Укувчи дафтари</td>
-<td colspan="3">Р. Муқажонова, Г. Омарова, Ж. Акимбоева, Р. Изғуттинова, Н. Оналбоева, Б. Ахатова</td>
-<td colspan="2">2017</td>
-<td>Бөбек</td>
-</tr>
-<tr>
-<td>8.</td>
 <td>Мусиқа. Нота хрестоматияси</td>
 <td colspan="3">Тузувчилар: Ш. Құлманова, Б. Сүлейменова, Н. Мирманов, Ә. Бүшікова</td>
 <td colspan="2">2017</td>
 <td>Атамұра -Жазушы</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Бадииймехнат. № 1, 2 иш дафтари</td>
-<td colspan="3">Н. Раупова</td>
-<td colspan="2">2017</td>
-<td>Атамұра –Жазушы</td>
 </tr>
 <tr>
 <td colspan="8">3-сынып</td>
@@ -29040,7 +29179,7 @@ Malkogianni
 <td>Алматыкітап баспасы -Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29078,7 +29217,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29109,7 +29248,7 @@ Malkogianni
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29140,7 +29279,7 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29157,7 +29296,7 @@ Malkogianni
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29181,7 +29320,7 @@ Malkogianni
 <td>Келешек-2030</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29198,10 +29337,10 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29211,7 +29350,7 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29221,10 +29360,10 @@ Malkogianni
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">11-сынып</td>
+<th colspan="8">11-сынып</th>
 </tr>
 <tr>
-<td colspan="8">жаратылыстану-математикалық бағыт</td>
+<th colspan="8">жаратылыстану-математикалық бағыт</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29234,7 +29373,7 @@ Malkogianni
 <td>Жазушы</td>
 </tr>
 <tr>
-<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
+<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29251,10 +29390,10 @@ Malkogianni
 <td>Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<td colspan="8">оқыту тәжік тілінде</td>
+<th colspan="8">оқыту тәжік тілінде</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29271,13 +29410,13 @@ Malkogianni
 <td>Бөбек</td>
 </tr>
 <tr>
-<td colspan="8">Ерекше білім беруге қажеттілігі бар балаларғы арналған оқу әдебиеттері</td>
+<th colspan="8">Ерекше білім беруге қажеттілігі бар балаларғы арналған оқу әдебиеттері</th>
 </tr>
 <tr>
-<td colspan="8">оқыту қазақ тілінде</td>
+<th colspan="8">оқыту қазақ тілінде</th>
 </tr>
 <tr>
-<td colspan="8">Мектепке дейінгі тәрбие мен оқыту</td>
+<th colspan="8">Мектепке дейінгі тәрбие мен оқыту</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29311,10 +29450,10 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</td>
+<th colspan="8">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</th>
 </tr>
 <tr>
-<td colspan="8">0-сынып</td>
+<th colspan="8">0-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29324,7 +29463,7 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29341,7 +29480,7 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29356,10 +29495,10 @@ Malkogianni
 <td>Арман-ПВ- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</td>
+<th colspan="8">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29390,7 +29529,7 @@ Malkogianni
 <td>«Назарбаев зияткерлік мектептері» ДББҰ -ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29414,7 +29553,7 @@ Malkogianni
 <td>Алматыкітап баспасы -ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29445,7 +29584,7 @@ Malkogianni
 <td>Атамұра- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29455,7 +29594,7 @@ Malkogianni
 <td>Атамұра- ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29470,10 +29609,10 @@ Malkogianni
 <td>Арман-ПВ - ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</td>
+<th colspan="8">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</th>
 </tr>
 <tr>
-<td colspan="8">0-сынып</td>
+<th colspan="8">0-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29560,7 +29699,7 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29633,7 +29772,7 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29706,7 +29845,47 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th>11</th>
+<th>Қол еңбегі. Зерде бұзылыстары бар балаларға арналған арнайы мектептердің (сыныптардың) 2-сыныбына арналған әдістемелік құрал</th>
+<th colspan="3">
+Б. Халықова,
+Н. Юлдабаева
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
+</tr>
+<tr>
+<th>12.</th>
+<th>Қол еңбегі. №1, 2 жұмыс дәптері</th>
+<th colspan="3">
+Б. Халықова,
+Н. Юлдабаева
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
+</tr>
+<tr>
+<th>13.</th>
+<th>Бейнелеу өнері. Зерде бұзылыстары балаларға арналған арнайы мектептердің (сыныптардың) 2-сыныбына арналған әдістемелік құрал</th>
+<th colspan="3">
+Б. Халықова,
+Н. Юлдабаева,
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
+</tr>
+<tr>
+<th>14.</th>
+<th>Бейнелеу өнері. №1, 2 жұмыс дәптері</th>
+<th colspan="3">
+Б. Халықова,
+Н. Юлдабаева
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
+</tr>
+<tr>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29807,7 +29986,7 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29894,7 +30073,7 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -29974,7 +30153,7 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30054,7 +30233,7 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30134,7 +30313,7 @@ Malkogianni
 <td>Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30193,7 +30372,7 @@ Malkogianni
 <td>Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30252,35 +30431,49 @@ Malkogianni
 <td>Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<td colspan="8">10-сынып</td>
+<th colspan="8">10-сынып</th>
 </tr>
 <tr>
-<td>1.</td>
-<td>Қазақ тілі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп тің 10-сыныбына арналған. Әдістемелік құрал</td>
-<td colspan="3">К.Бекмухамбетова, А. Биисова</td>
-<td colspan="2">2014</td>
-<td>ӘБЕО</td>
+<th>1.</th>
+<th>Қазақ тілі. Әдістемелік құрал</th>
+<th colspan="3">
+А. Биисова,
+Ф. Жалетденова,
+Д. Жаукенова
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
 </tr>
 <tr>
-<td>2.</td>
-<td>Қазақ тілі. Зерде даму бұзылыстары бар балаларға арналған арнайы мектеп тің 10-сыныбына арналған жұмыс дәптері</td>
-<td colspan="3">К.Бекмухамбетова, А. Биисова</td>
-<td colspan="2">2014</td>
-<td>ӘБЕО</td>
+<th>2.</th>
+<th>Оқу және тіл дамыту. Әдістемелік құрал</th>
+<th colspan="3">
+Р. Сүлейменова,
+К. Каменова,
+М. Каржаубаева
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
 </tr>
 <tr>
-<td>3.</td>
-<td>Математика. Білім берудің бірінші кезеңі (дайындық кезеңі). Жұмыс дәптері</td>
-<td colspan="3">И. Елисеева</td>
-<td colspan="2">2014</td>
-<td>ӘБЕО</td>
+<th>3.</th>
+<th>Математика. Әдістемелік құрал</th>
+<th colspan="3">
+Р. Сүлейменова,
+И.Елисеева
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
 </tr>
 <tr>
-<td>4.</td>
-<td>Математика. Әдістемелік құрал. Білім берудің бірінші кезеңі (дайындық кезеңі)</td>
-<td colspan="3">И. Елисеева</td>
-<td colspan="2">2014</td>
-<td>ӘБЕО</td>
+<th>4.</th>
+<th>Русский язык. Методическое пособие</th>
+<th colspan="3">
+Халыкова Б.,
+Юлдабаева Н.
+</th>
+<th colspan="2">2022</th>
+<th>ӘБЕО</th>
 </tr>
 <tr>
 <td>5.</td>
@@ -30465,13 +30658,13 @@ Malkogianni
 <td>ӘБЕО</td>
 </tr>
 <tr>
-<td colspan="8">оқыту орыс тілінде</td>
+<th colspan="8">оқыту орыс тілінде</th>
 </tr>
 <tr>
-<td colspan="8">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</td>
+<th colspan="8">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</th>
 </tr>
 <tr>
-<td colspan="8">0-сынып</td>
+<th colspan="8">0-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30481,7 +30674,7 @@ Malkogianni
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30498,7 +30691,7 @@ Malkogianni
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">8-класс</td>
+<th colspan="8">8-класс</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30511,10 +30704,10 @@ Malkogianni
 <td>Мектеп-САТР</td>
 </tr>
 <tr>
-<td colspan="8">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</td>
+<th colspan="8">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</th>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30545,7 +30738,7 @@ Malkogianni
 <td>АОО «Назарбаев интеллектуальные школы»- САТР</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30569,7 +30762,7 @@ Malkogianni
 <td>Алматыкітап баспасы - САТР</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30600,7 +30793,7 @@ Malkogianni
 <td>Express Publishing- САТР</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>5.</td>
@@ -30610,23 +30803,23 @@ Malkogianni
 <td>Атамұра- САТР</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Русская литература. Хрестоматия. Часть 1, 2, 3, 4</td>
 <td colspan="3">
-Шашкина Г., Анищенко О., Шмельцер В.
+Шашкина Г., Анищенко О.,
 Автор адаптации-Жунусканова И.
 </td>
 <td colspan="2">2022</td>
 <td>Мектеп - САТР</td>
 </tr>
 <tr>
-<td colspan="8">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</td>
+<th colspan="8">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</th>
 </tr>
 <tr>
-<td colspan="8">0-сынып</td>
+<th colspan="8">0-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30699,7 +30892,7 @@ Malkogianni
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">1-сынып</td>
+<th colspan="8">1-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30772,7 +30965,7 @@ Malkogianni
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">2-сынып</td>
+<th colspan="8">2-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30845,7 +31038,57 @@ Malkogianni
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">3-сынып</td>
+<th>11.</th>
+<th>
+Ручной труд. Методическое пособие
+для 2 класса специальных школ (классов)
+для детей с нарушением интеллект
+</th>
+<th colspan="3">
+Халыкова Б.,
+Юлдабаева Н
+</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
+</tr>
+<tr>
+<th>12.</th>
+<th>
+Ручной труд.
+Рабочая тетрадь № 1,2
+</th>
+<th colspan="3">
+Халыкова Б.,
+Юлдабаева Н
+</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
+</tr>
+<tr>
+<th>13.</th>
+<th>Изобразительное исскуство. Методическое пособие для 2 класса специальных школ (классов) для детей с нарушением интеллекта</th>
+<th colspan="3">
+Халыкова Б.,
+Юлдабаева Н
+</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
+</tr>
+<tr>
+<th>14.</th>
+<th>
+Изобразительное исскуство.
+Рабочая тетрадь № 1,2
+</th>
+<th colspan="3">
+Халыкова Б.,
+Юлдабаева Н
+</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
+</tr>
+<tr>
+<th colspan="8">3-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -30932,7 +31175,7 @@ Malkogianni
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">4-сынып</td>
+<th colspan="8">4-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -31019,7 +31262,7 @@ Malkogianni
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">5-сынып</td>
+<th colspan="8">5-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -31099,7 +31342,7 @@ Malkogianni
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">6-сынып</td>
+<th colspan="8">6-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -31186,7 +31429,7 @@ Malkogianni
 <td>САТР</td>
 </tr>
 <tr>
-<td colspan="8">7-сынып</td>
+<th colspan="8">7-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -31266,7 +31509,7 @@ Malkogianni
 <td>Компания Консалтинг &amp; Тренинг</td>
 </tr>
 <tr>
-<td colspan="8">8-сынып</td>
+<th colspan="8">8-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -31325,7 +31568,7 @@ Malkogianni
 <td>Компания Консалтинг &amp; Тренинг</td>
 </tr>
 <tr>
-<td colspan="8">9-сынып</td>
+<th colspan="8">9-сынып</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -31368,5 +31611,42 @@ Malkogianni
 <td colspan="3">Абиль А., Абаева Г., Кертаева Г.</td>
 <td colspan="2">2021</td>
 <td>Компания Консалтинг &amp;ТренингСD</td>
+</tr>
+<tr>
+<th colspan="8">10-сынып</th>
+</tr>
+<tr>
+<th>1.</th>
+<th>Русский язык. Методическое пособие</th>
+<th colspan="3">Мельникова Т.</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
+</tr>
+<tr>
+<th>2.</th>
+<th>Математика. Методическое пособие</th>
+<th colspan="3">
+Сулейменова Р.,
+Елисеева И.
+</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
+</tr>
+<tr>
+<th>3.</th>
+<th>
+Чтение и развитие речи.
+Методическое пособие
+</th>
+<th colspan="3">Мельникова Т.</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
+</tr>
+<tr>
+<th>4.</th>
+<th>Қазақ тілі. Әдістемелік құрал</th>
+<th colspan="3">Г.Есенжолова</th>
+<th colspan="2">2022</th>
+<th>САТР</th>
 </tr>
 </table>
