@@ -1,877 +1,2297 @@
 ↑ [Вся редакция](../rus.md)
 
 > *Приложение*  
-> *к Типовой учебной программе*  
-> *по учебному предмету «Русский язык»*  
-> *для 0-4 классов уровня начального образования по обновленному содержанию*
+> *к Типовой учебной программе по учебному предмету «Английский язык» для обучающихся с нарушением опорно-двигательного аппарата 5-10 классов уровня основного среднего образования по обновленному содержанию*
 
-## Долгосрочный план по реализации Типовой учебной программы по учебному предмету «Русский язык» для обучающихся с задержкой психического развития 0-4 классов уровня начального образования по обновленному содержанию
+## Долгосрочный план по реализации Типовой программы по учебному предмету «Английский язык» для обучающихся с нарушением опорно-двигательного аппарата 5-10 классов уровня основного среднего образования по обновленному содержанию
 
-1) 0 класс:
+1) grade 5:
 
-таблица 1
+table 1
 
 <table>
 <tr>
-<td>Сквозные темы</td>
-<td>Разделы</td>
-<td>Цели обучения</td>
+<td>Unit</td>
+<td>Strands</td>
+<td>Learning objectives</td>
 </tr>
 <tr>
-<td colspan="3">1 четверть</td>
+<td colspan="3">Term 1</td>
 </tr>
 <tr>
-<td rowspan="3">Все обо мне</td>
-<td>Слушание и говорение</td>
+<td rowspan="5">Home &amp; away</td>
+<td>Listening</td>
 <td>
-0.​1.​1.​1 отличать на слух звучание русской речи от звучания других языков;
-0.​1.​2.​1 соотносить на слух звукоподражания голосам животных с изображениями этих животных
+5.1.1.1 understand a sequence of supported classroom instructions;
+5.1.3.1 understand most specific information and detail of short, supported talk on a wide range of familiar topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Speaking</td>
 <td>
-0.​2.​2.​1 знать и понимать, что слово и предмет- не одно и то же;
-0.​2.​2.​3 выстраивать сериацию из предметов и слов
+5.2.1.1 provide basic information about themselves and others at sentence level on an increasing range of general topics;
+5.2.2.1 ask simple questions to get information about a limited range of general topics;
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Reading</td>
 <td>
-0.​3.​1.​2 выкладывать отдельные буквы шнурочком, из мозаики, пластилина, рисовать по тонкому слою манки и в воздухе;
-0.​3.​4.​1 выписывать бордюры по трафарету и образцу под счет учителя, используя прием «рука в руке»
+5.3.1.1 understand the main points in a limited range of short simple texts on general and curricular topics;
+5.3.4.1 read with some support a limited range of short fiction and non-fiction texts;
+5.3.5.1 deduce meaning from context in short texts on a limited range of familiar general and curricular topics;
+5.3.7.1 recognise typical features at word, sentence and text level in a limited range of written genres
 </td>
 </tr>
 <tr>
-<td rowspan="3">Моя школа</td>
-<td>Слушание и говорение</td>
+<td>Writing</td>
 <td>
-0.​1.​2.​2 узнавать на слух знакомые слова в диалоге двух и более людей;
-0.​1.​4.​5 сопровождать свои потребности, чувства и настроения адекватным словом, позой, жестом и мимикой, направляя эту деятельность на собеседника
+5.4.1.1 write with support a sequence of short sentences in a paragraph on a limited range of familiar general topics;
+5.4.2.1 write with support factual descriptions at text level which describe people, places and objects;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>0.​2.​2.​4 различать на слух вопросительные и невопросительные предложения</td>
-</tr>
-<tr>
-<td>Письмо</td>
+<td>Use of English</td>
 <td>
-0.​3.​4.​2 распознавать за 6-7 секунд и называть наложенные,
-перечеркнутые и зашумлённые силуэты знакомых предметов
+5.5.1.1 use appropriate countable and uncountable nouns, including common noun phrases describing times and location, on a limited range of familiar general and curricular topic;
+5.5.3.1 use a growing variety of adjectives and regular and irregular comparative and superlative adjectives on a limited range of familiar general and curricular topics;
+5.5.7.1 use simple perfect forms of common verbs to express what has happened [indefinite time] on a limited range of familiar general and curricular topics
 </td>
 </tr>
 <tr>
-<td colspan="3">2 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Моя семья и друзья</td>
-<td>Слушание и говорение</td>
-<td>0.​1.​1.​2 различать на слух ритмизированную и рифмованную русскую речь от нерифмованной (прозы), реагировать на рифму</td>
-</tr>
-<tr>
-<td>Чтение</td>
-<td>0.​2.​2.​2 отстукивать ритм русских народных потешек, попевок, чистоговорок, выделяя сильную (ударную) и слабые (безударные) доли</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>0.​3.​1.​4 обозначать звук буквой, используя помощь учителя и образец</td>
-</tr>
-<tr>
-<td rowspan="3">Мир вокруг нас</td>
-<td>Слушание и говорение</td>
+<td rowspan="5">Living things</td>
+<td>Listening</td>
 <td>
-0.​1.​2.​3 соотносить предметы и действия с их словесным обозначением;
-0.​1.​4.​4 инициировать с помощью учителя общение со сверстниками в игровых ситуациях, оречевляя предметные действия
+5.1.1.1 understand a sequence of supported classroom instructions
+5.1.1.6 understand an increasing range of unsupported basic questions on general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>0.​2.​1.​2 соотносить прочитанный учителем фрагмент и иллюстрацию</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>0.​3.​1.​3 воспроизводить на листе бумаги по обводке и образцу вертикальные наклонные линии, овалы и другие элементы букв</td>
-</tr>
-<tr>
-<td colspan="3">3 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Путешествие</td>
-<td>Слушание и говорение</td>
+<td>Speaking</td>
 <td>
-0.​1.​1.​3 различать на слух звуки неживой природы и окружающего мира, соотносить с изображениями картин природы;
-0.​1.​4.​3 заучивать и воспроизводить с помощью учителя простые песенки, потешки и стихотворения, содержащие звукоподражания
+5.2.2.1 ask simple questions to get information about a limited range of general topics;
+5.2.4.1 respond with limited flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Reading</td>
 <td>
-0.​2.​2.​5 составлять предложения по модели и подражанию, в том числе и с заданным количеством слов - на основе прочитанного учителем;
-0.​2.​3.​1 четко и слитно, с нарастанием темпа произносить цепочку слогов со стечением двух согласных, включающих оппозиционные звуки
+5.3.1.1 understand the main points in a limited range of short simple texts on general and curricular topics;
+5.3.4.1 read with some support a limited range of short fiction and non-fiction texts;
+5.3.5.1 deduce meaning from context in short texts on a limited range of familiar general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Writing</td>
 <td>
-0.​2.​2.​5 составлять предложения по модели и подражанию, в том числе и с заданным количеством слов - на основе прочитанного учителем;
-0.​2.​3.​1 четко и слитно, с нарастанием темпа произносить цепочку слогов со стечением двух согласных, включающих оппозиционные звуки
+5.4.1.1 write with support a sequence of short sentences in a paragraph on a limited range of familiar general topics;
+5.4.2.1 write with support factual descriptions at text level which describe people, places and objects;
+5.4.3.1 link without support sentences using basic coordinating connectors;
 </td>
 </tr>
 <tr>
-<td rowspan="3">Традиции и фольклор</td>
-<td>Слушание и говорение</td>
+<td>Use of English</td>
 <td>
-0.​1.​2.​4 подражать речи взрослых словами, словосочетаниями, короткими предложениями;
-0.​1.​4.​1 понимать и применять в речевой коммуникации элементарные глаголы-предложения повелительного наклонения: «Дай!», «На!», «Иди!», «Сядь!», «Смотри!», «Слушай!»
+5.5.2.1 use quantifiers many, much, a lot of, a few on a limited range of familiar general and curricular topics;
+5.5.3.1 use a growing variety of adjectives and regular and irregular comparative and superlative adjectives on a limited range of familiar general and curricular topics;
+5.5.9.1 use simple present and simple past regular and irregular forms to describe routines, habits and states on a limited range of familiar general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td colspan="3">Term 2</td>
+</tr>
+<tr>
+<td rowspan="5">Values</td>
+<td>Listening</td>
 <td>
-0.​2.​4.​1 дифференцировать печатные буквы по оптико-пространственным признакам;
-0.​2.​4.​2 соотносить образ буквы с реальными предметами, фигурами; быстро распознавать нужную букву среди других
+5.1.2.1 understand an increasing range of unsupported basic questions on general and curricular topics;
+5.1.4.1 understand supported narratives, including some extended talk, on an increasing range of general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Speaking</td>
 <td>
-0.​3.​4.​5 владеть 1-3 приемами пальцевого тренинга \ пальчиковой гимнастики;
-0.​3.​2.​2 наблюдать соблюдение правил единого графического режима на материале записанного текста (равномерные пробелы, абзацные отступы, наклон)
+5.2.1.1 provide basic information about themselves and others at sentence level on an increasing range of general topics;
+5.2.5.1 keep interaction going in basic exchanges on a growing range of general and curricular topics;
+5.2.6.1 communicate meaning clearly at sentence level during, pair, group and whole class exchanges;
 </td>
 </tr>
 <tr>
-<td colspan="3">4 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Еда и напитки</td>
-<td>Слушание и говорение</td>
+<td>Reading</td>
 <td>
-0.​1.​3.​1 делить речевой поток на предложения, предложения – на отдельные слова;
-0.​1.​4.​2 вступать в контакт со сверстниками и взрослыми, отвечать на вопросы и просьбы, называть старших на «Вы»
+5.3.1.1 understand the main points in a limited range of short simple texts on general and curricular topics;
+5.3.4.1 read with some support a limited range of short fiction and non-fiction texts;
+5.3.7.1 recognise typical features at word, sentence and text level in a limited range of written genres;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>0.​2.​3.​2 определять количество слов в предложении и их последовательность</td>
-</tr>
-<tr>
-<td>Письмо</td>
+<td>Writing</td>
 <td>
-0.​3.​2.​1 различать в записанном тексте длинные и короткие предложения;
-0.​3.​3.​1 делать графическую символическую запись, моделирующую последовательность предложений в тексте
+5.4.2.1 write with support factual descriptions at text level which describe people, places and objects;
+5.4.3.1 link without support sentences using basic coordinating connectors;
+5.4.6.1 punctuate written work at text level on a limited range of familiar general with some accuracy;
 </td>
 </tr>
 <tr>
-<td rowspan="3">В здоровом теле -здоровый дух!</td>
-<td>Слушание и говорение</td>
+<td>Use of English</td>
 <td>
-0.​1.​3.​2 использовать в речи по подражанию словоформы единственного и множественного числа существительных, прилагательных, глаголов, числительных;
-0.​1.​3.​3 наблюдать вариативность грамматических значений слов в речи и языке, иметь представление о грамматических категориях
+5.5.2.1 use quantifiers many, much, a lot of, a few on a limited range of familiar general and curricular topics;
+5.5.6.1 use basic personal and demonstrative pronouns and quantitative pronouns some, any, something, nothing anything on a limited range of familiar general and curricular topic;
+5.5.10.1 use present continuous forms with present and future meaning on a limited range of familiar general and curricular topics;
+5.5.14.1 use prepositions to talk about time and location; use prepositions like to describe things and about to denote topic; use prepositions of direction to, into, out of, from, towards on a limited range of familiar general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td rowspan="5">World of work</td>
+<td>Listening</td>
 <td>
-0.​1.​3.​2 использовать в речи по подражанию словоформы единственного и множественного числа существительных, прилагательных, глаголов, числительных;
-0.​1.​3.​3 наблюдать вариативность грамматических значений слов в речи и языке, иметь представление о грамматических категориях
+5.1.1.1 understand a sequence of supported classroom instructions
+5.1.3.1 understand most specific information and detail of short, supported talk on a wide range of familiar topics
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
-<td>0.​3.​1.​1 дифференцировать строчные и прописные буквы по оптико-кинетическим признакам; находить пропущенные буквы в словах, дорисовывать недостающие элементы букв</td>
-</tr>
-</table>
-
-2) 1 класс:
-
-таблица 2
-
-<table>
-<tr>
-<td>Сквозные темы</td>
-<td>Разделы</td>
-<td>Цели обучения</td>
-</tr>
-<tr>
-<td colspan="3">1 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Все обо мне</td>
-<td>Слушание и говорение</td>
-<td>1.​1.​1.​1 демонстрировать слуховое сосредоточение и реагировать на звучащую речь, используя невербальные средства: мимику, жест, позу</td>
-</tr>
-<tr>
-<td>Чтение</td>
-<td>1.​2.​1.​1 обыгрывать адаптированный сюжет прочитанного произведения по ролям, передавая эмоциональное состояние персонажа</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>1.​3.​1.​1 устанавливать пространственные взаимоотношения, ориентироваться на плоскости листа тетради</td>
-</tr>
-<tr>
-<td rowspan="3">Моя школа</td>
-<td>Слушание и говорение</td>
+<td>Speaking</td>
 <td>
-1.​1.​1.​2 различать на слух громкую и тихую, длинную и короткую, медленную и быструю русскую речь
-1.​1.​4.​5 разворачивать диалог с организующей и направляющей помощью учителя
+5.2.3.1 give an opinion at sentence level on a limited range of general and curricular topics;
+5.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a limited range of general topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>1.​2.​1.​2 домысливать, угадывать известные слова по началу и концу - в предложениях и фразах по содержанию сказки или небольшого рассказа</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>1.​3.​1.​2 соблюдать рабочую строку, межстрочное пространство, верхнюю и нижнюю линии рабочей строки</td>
-</tr>
-<tr>
-<td colspan="3">2 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Моя семья и друзья</td>
-<td>Слушание и говорение</td>
+<td>Reading</td>
 <td>
-1.​1.​1.​3 узнавать на слух слово-эталон из 2-х,3-х открытых слогов среди 5-6 слов с аналогичной слоговой структурой;
-1.​1.​4.​4 отвечать на простые вопросы о себе, о семье, любимых игрушках
+5.3.1.1 understand the main points in a limited range of short simple texts on general and curricular topics;
+5.3.8.1 use with support familiar paper and digital reference resources to check meaning and extend understanding;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Writing</td>
 <td>
-1.​2.​4.​1 соотносить звук с его буквенным обозначением,
-иметь представления о том, чем звук отличается от буквы;
-1.​2.​2.​1 наблюдать феномен расхождения звучащего и написанного слов
+5.4.4.1 link, with some support, sentences into a coherent paragraph using basic connectors on a limited range of familiar general topics;
+5.4.5.1 spell most high-frequency words accurately for a limited range of general topics;
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
-<td>1.​3.​1.​3 соблюдать правильное положение спины и руки при письме, имеет навыки правильного удержания ручки или карандаша при письме</td>
-</tr>
-<tr>
-<td rowspan="3">Мир вокруг нас</td>
-<td>Слушание и говорение</td>
+<td>Use of English</td>
 <td>
-1.​1.​2.​1 соотносить на слух слова: ау, уа, ах, ух
-с сюжетными изображениями и звучащими глаголами «зовёт», «плачет», «удивляется», «устал» и другими;
-1.​1.​3.​3 иметь общее представление о корне слова;
-1.​1.​4.​2 иметь представление о речевой этике, демонстрировать стремление её соблюдать в акте речи
+5.5.2.1 use quantifiers many, much, a lot of, a few on a limited range of familiar general and curricular topics;
+5.5.4.1 use determiners including any, no each, every on a limited range of familiar general and curricular topics;
+5.5.11.1 use be /look/ sound /feel/taste/smell like and use be made on a limited range of familiar general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>1.​2.​4.​2 составлять слова из букв разрезной азбуки, из данных слогов, дополнять слова недостающими буквами по следам устного анализа</td>
+<td colspan="3">Term 3</td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td rowspan="5">Creativity</td>
+<td>Listening</td>
 <td>
-1.​3.​1.​4 стремиться осуществлять контроль двигательных актов во время письма: равномерность, ритмичность нажим, темп;
-1.​3.​4.​2 распознавать за 3-5 секунд и называть наложенные, перечеркнутые и зашумлённые строчные буквы
+5.1.3.1 understand most specific information and detail of short, supported talk on a wide range of familiar topics;
+5.1.4.1 understand supported narratives, including some extended talk, on an increasing range of general and curricular topics
 </td>
 </tr>
 <tr>
-<td colspan="3">3 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Путешествие</td>
-<td>Слушание и говорение</td>
+<td>Speaking</td>
 <td>
-1.​1.​2.​2 отбирать на слух из группы слов те слова, которые встречались в услышанном тексте;
-1.​1.​2.​4 дифференцировать утвердительные и отрицательные приказания с частицей «не»
+5.2.5.1 keep interaction going in basic exchanges on a growing range of general and curricular topics;
+5.2.8.1 recount basic stories and events on a range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>1.​2.​2.​2 иметь представление о логически сильном, главном слове в предложении и его смыслообразующей роли</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>1.​3.​2.​1 конструировать и записывать предложения из готовых элементов- полосок со словами</td>
-</tr>
-<tr>
-<td rowspan="3">Традиции и фольклор</td>
-<td>Слушание и говорение</td>
+<td>Reading</td>
 <td>
-1.​1.​3.​1 образовывать притяжательные и относительные прилагательные по образцу;
-1.​1.​4.​3 распространять простое предложение дополнением без предлогов и с предлогами, определениями, обстоятельствами по подражанию и образцу
+5.3.2.1 understand with little support specific information and detail in short, simple texts on a limited range of general and curricular topics;
+5.3.6.1 recognise the attitude or opinion of the writer in short texts on a limited range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Writing</td>
 <td>
-1.​2.​3.​2 владеть навыком плавного послогового чтения слов без стечения согласных;
-1.​3.​3.​1 конструировать письменные тексты из готовых элементов-предложений и слов
+5.4.5.1 spell most high-frequency words accurately for a limited range of general topics;
+5.4.6.1 punctuate written work at text level on a limited range of familiar general with some accuracy;
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
-<td>1.​3.​2.​2 соблюдать правила единого графического режима на материале записанного текста (пробелы, абзацные отступы, наклон) при записи коротких (1-3 слова) предложений- с организующей помощью учителя</td>
-</tr>
-<tr>
-<td colspan="3">4 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Еда и напитки</td>
-<td>Слушание и говорение</td>
-<td>1.​1.​3.​2 отвечать на вопросы «Какой?», «Какая?», «Какое», обозначая цвет, размер, вкус при помощи словосочетаний с прилагательными с учетом рода по образцу</td>
-</tr>
-<tr>
-<td>Чтение</td>
+<td>Use of English</td>
 <td>
-1.​2.​2.​4 находить в прочитанном тексте ответы
-на простые вопросы по фактическому содержанию;
-1.​2.​3.​1 демонстрировать инициативу интонационного «окрашивания» речи, произвольной выразительности, модуляции голоса в процессе чтения
+5.5.3.1 use a growing variety of adjectives and regular and irregular comparative and superlative adjectives on a limited range of familiar general and curricular topics;
+5.5.5.1 use questions, including tag questions to seek agreement, and clarify meaning on a limited range of familiar general and curricular topics;
+5.5.14.1 use prepositions to talk about time and location; use prepositions like to describe things and about to denote topic; use prepositions of direction to, into, out of, from, towards on a limited range of familiar general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td rowspan="5">Reading for pleasure</td>
+<td>Listening</td>
 <td>
-1.​3.​4.​1 распознавать слова, «спрятанные» в бордюрах, копировать их на новую строку;
-1.​3.​4.​3 различать слова и предложения, понимать значение слов и смысл предложений
+5.1.1.1 understand a sequence of supported classroom instructions;
+5.1.3.1 understand most specific information and detail of short, supported talk on a wide range of familiar topics;
 </td>
 </tr>
 <tr>
-<td rowspan="3">В здоровом теле-здоровый дух!</td>
-<td>Слушание и говорение</td>
+<td>Speaking</td>
 <td>
-1.​1.​2.​3 употреблять в речи общеупотребительные существительные, глаголы, прилагательные, наречия по лексическим темам;
-1.​1.​4.​1 понимать и употреблять по подражанию и образцу
-в речи простые предложения: «подлежащее+ сказуемое», «подлежащее+ сказуемое+ дополнение» с предлогами и без
+5.2.1.1 provide basic information about themselves and others at sentence level on an increasing range of general topics;
+5.2.2.1 ask simple questions to get information about a limited range of general topics;
+5.2.3.1 give an opinion at sentence level on a limited range of general and curricular topics;
+5.2.6.1 communicate meaning clearly at sentence level during, pair, group and whole class exchanges;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Reading</td>
 <td>
-1.​2.​2.​3 иметь представление о главных и второстепенных героях, основных и незначимых событиях;
-1.​2.​2.​5 использовать картинки-схемы звукового состава слов, фишки, модели, указки при чтении и проведении звукового анализа слова
+5.3.4.1 read with some support a limited range of short fiction and non-fiction texts;
+5.3.5.1 deduce meaning from context in short texts on a limited range of familiar general and curricular topics;
+5.3.8.1 use with support familiar paper and digital reference resources to check meaning and extend understanding;
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Writing</td>
 <td>
-1.​3.​4.​4 демонстрировать старание, прилежание в процессе письма и ответственность за результат письма;
-1.​3.​4.​5 ощущать перенапряжение кисти руки, приближение писчего спазма, запрашивать помощь учителя к совместному выполнению массажных приемов
-</td>
-</tr>
-</table>
-
-3) 2 класс:
-
-таблица 3
-
-<table>
-<tr>
-<td>Сквозные темы</td>
-<td>Разделы</td>
-<td>Цели обучения</td>
-</tr>
-<tr>
-<td colspan="3">1 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Все обо мне</td>
-<td>Слушание и говорение</td>
-<td>
-2.​1.​1.​1 внимательно слушать, понимать речь и реагировать на нее, используя паравербальные средства;
-2.​1.​2.​1 понимать значение знакомых слов, меющих отношение к повседневной жизни
+5.4.1.1 write with support a sequence of short sentences in a paragraph on a limited range of familiar general topics;
+5.4.4.1 link, with some support, sentences into a coherent paragraph using basic connectors on a limited range of familiar general topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>2.​2.​1.​1 владеть чтением целыми словами с переходом на послоговое в наиболее трудных случаях, с учетом двойной роли букв е, ё, ю, я, ь</td>
-</tr>
-<tr>
-<td>Письмо</td>
+<td>Use of English</td>
 <td>
-2.​3.​1.​1 различать звуки в речи, их правильное произношение и обозначение буквами, включая два способа обозначения мягкости согласных: с помощью гласных е, ё, и, ю, я и мягкого знака;
-2.​3.​4.​1 соблюдать установленный наклон букв, пропорции заглавных и строчных букв в тетради в узкую линейку
+5.5.3.1 use a growing variety of adjectives and regular; and irregular comparative and superlative adjectives on a limited range of familiar general and curricular topics;
+5.5.7.1 use simple perfect forms of common verbs to express what has happened [indefinite time] on a limited range of familiar general and curricular topics;
+5.5.12.1 use common regular and irregular adverbs, simple and comparative forms, adverbs of frequency and adverbs of definite time: last week, yesterday on a limited range of familiar general and curricular topics;
+5.5.16.1 use conjunctions so, if, when , where, before, after to link parts of sentences on a limited range of familiar general and curricular topics
 </td>
 </tr>
 <tr>
-<td rowspan="3">Моя семья и друзья</td>
-<td>Слушание и говорение</td>
+<td rowspan="5">Fantasy world</td>
+<td>Listening</td>
 <td>
-2.​1.​4.​2 использовать в речи слова речевого этикета: просьба, благодарность, приветствие, прощание;
-2.​1.​4.​5 демонстрировать готовность принимать участие в работе парами, группами, в диалоге
+5.1.3.1 understand most specific information and detail of short, supported talk on a wide range of familiar topics;
+5.1.4.1 understand supported narratives, including some extended talk, on an increasing range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>2.​2.​2.​5 знать о приемах получения, хранения и передачи информации в человеческом обществе, использовании различных источников информации, включая Интернет</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>2.​3.​4.​2 распознавать за 1-3 секунды и называть наложенные, перечеркнутые и зашумлённые прописные и строчные буквы</td>
-</tr>
-<tr>
-<td colspan="3">2 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Моя школа</td>
-<td>Слушание и говорение</td>
+<td>Speaking</td>
 <td>
-2.​1.​1.​2 слушать партнёра, не перебивать, не обрывать на полуслове, вникать в смысл того, о чём говорит собеседник;
-2.​1.​2.​2 группировать слова по общности семантики слов
+5.2.2.1 ask simple questions to get information about a limited range of general topics;
+5.2.4.1 respond with limited flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+5.2.8.1 recount basic stories and events on a range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Reading</td>
 <td>
-2.​2.​2.​1 находить предлог в прочитанном предложении и употреблять его при копировании фразы;
-2.​2.​2.​2 иметь представление о структуре текста-повествования
+5.3.4.1 read with some support a limited range of short fiction and non-fiction texts;
+5.3.6.1 recognise the attitude or opinion of the writer in short texts on a limited range of general and curricular topics;
+5.3.8.1 recognise the difference between fact and opinion in short, simple texts on an increasing range of general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Writing</td>
 <td>
-2.​3.​1.​3 списывать безошибочно слова с сочетаниями жи, ши, ча, ща, чк, чн, нч;
-2.​3.​4.​4 находить случаи расхождения звукового и буквенного состава слов при орфоэпическом проговаривании слов учителем
+5.4.2.1 write with support factual descriptions at text level which describe people, places and objects;
+5.4.6.1 punctuate written work at text level on a limited range of familiar general with some accuracy;
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-Мой родной
-край
-</td>
-<td>Слушание и говорение</td>
+<td>Use of English</td>
 <td>
-2.​1.​3.​1 уметь различать правильные и неправильные словоформы;
-2.​1.​4.​5 демонстрировать готовность принимать участие в работе парами, группами, в диалоге
+5.5.5.1 use questions, including tag questions to seek agreement, and clarify meaning on a limited range of familiar general and curricular topic;
+5.5.8.1 use future forms “will” for predictions and “be going to” to talk about already decided plans on a limited range of familiar general and curricular topics;
+5.5.15.1 use common verbs followed by infinitive verb / verb + ing patterns on a limited range of familiar general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td colspan="3">Term 4</td>
+</tr>
+<tr>
+<td rowspan="5">Sports</td>
+<td>Listening</td>
 <td>
-2.​2.​2.​3 обнаруживать нарушенный порядок структурно-логических блоков текста;
-2.​2.​2.​4 отвечать на простые вопросы по содержанию
+5.1.2.1 understand an increasing range of unsupported basic questions on general and curricular topics;
+5.1.4.1 understand supported narratives, including some extended talk, on an increasing range of general and curricular topics.
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
-<td>2.​3.​4.​2 распознавать за 1-3 секунды и называть наложенные, перечеркнутые и зашумлённые прописные и строчные буквы</td>
-</tr>
-<tr>
-<td colspan="3">3 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">В здоровом теле -здоровый дух!</td>
-<td>Слушание и говорение</td>
+<td>Speaking</td>
 <td>
-2.​1.​1.​3 узнавать фразу - эталон по интонационно-мелодической структуре из двух и трех предложенных;
-2.​1.​2.​3 употреблять в речи слова, близкие и противоположные по значению с организующей помощью учителя
+5.2.1.1 provide basic information about themselves and others at sentence level on an increasing range of general topics;
+5.2.2.1 ask simple questions to get information about a limited range of general topics;
+5.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a limited range of general topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>2.​2.​3.​1 находить в прочитанном тексте слова с уменьшительно-ласкательными суффиксами и воспроизводить их при пересказе</td>
-</tr>
-<tr>
-<td>Письмо</td>
+<td>Reading</td>
 <td>
-2.​3.​1.​2 понимать и правильно употреблять на письме слова с суффиксами « -ик», « -ек», « -к»;
-2.​3.​1.​4 понимать графические схемы, символизирующие предметы и отношения между ними, наблюдать согласовывание именных частей речи - с организующей помощью учителя
+5.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics;
+5.3.4.1 read with some support a limited range of short fiction and non-fiction texts;
+5.3.8.1 use with support familiar paper and digital reference resources to check meaning and extend understanding;
 </td>
 </tr>
 <tr>
-<td rowspan="3">Традиции и фольклор</td>
-<td>Слушание и говорение</td>
+<td>Writing</td>
 <td>
-2.​1.​3.​3 иметь общее представление о составе слова;
-2.​1.​4.​3создавать высказывание из 1-2 предложений по картинке
+5.4.2.1 write with support factual descriptions at text level which describe people, places and objects;
+5.4.5.1 spell most high-frequency words accurately for a limited range of general topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Use of English</td>
 <td>
-2.​2.​3.​2 иметь представление о средствах межфразовой связи, находя их в тексте с помощью учителя;
-2.​2.​4.​1 пользоваться звуко-буквенным анализом при выделении из текста и чтении слов с парными звонкими и глухими согласными
+5.5.5.1 use questions, including tag questions to seek agreement, and clarify meaning on a limited range of familiar general and curricular topics;
+5.5.9.1 use simple present and simple past regular and irregular forms to describe routines, habits and states on a limited range of familiar general and curricular topics;
+5.5.11.1 use be /look/ sound /feel/taste/smell like and use be made on a limited range of familiar general and curricular topics;
+5.5.13.1 use might may could to express possibility on a limited range of familiar general and curricular topics;
+5.5.15.1 use common verbs followed by infinitive verb / verb + ing patterns on a limited range of familiar general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
-<td>2.3.2. 1 составлять и записывать простое нераспространенное предложение предложения по данной иллюстрации и образцу, используя знаки препинания в начале и по окончании</td>
-</tr>
-<tr>
-<td colspan="3">4 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Окружающая среда</td>
-<td>Слушание и говорение</td>
+<td rowspan="5">Holidays</td>
+<td>Listening</td>
 <td>
-2.​1.​1.​3 узнавать фразу - эталон по интонационно-мелодической структуре из двух и трех предложенных;
-2.​1.​2.​4 фиксировать по ходу урока и в конце его удовлетворённость/неудовлетворённость своей работой (с помощью смайликов, разноцветных фишек)
+5.1.3.1 understand most specific information and detail of short, supported talk on a wide range of familiar topics;
+5.1.4.1 understand supported narratives, including some extended talk, on an increasing range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>2.​2.​4.​2 распознавать образ и пространственную организацию смешиваемых букв, используя ощущения всех модальностей: кожно-кинестетические, зрительные, тактильно-двигательные, слуховые</td>
-</tr>
-<tr>
-<td>Письмо</td>
+<td>Speaking</td>
 <td>
-2.​3.​4.​3 анализировать звукослоговой состав слова, выстраивая при необходимости линейную и позиционную позиционную модель;
-2.​3.​4.​5 выполнять активизирующий самомассаж пальцев и кистей рук, применяя 3-5 массажных приемов по образцу и словесной инструкции
+5.2.2.1 ask simple questions to get information about a limited range of general topics;
+5.2.8.1 recount basic stories and events on a range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td rowspan="3">Путешествие</td>
-<td>Слушание и говорение</td>
+<td>Reading</td>
 <td>
-2.​1.​4.​1 отвечать на вопросы и подбирать соответствующую иллюстрацию к прослушанному сообщению с помощью учителя;
-2.​1.​4.​4 понимать, о чем говорит собеседник, реагировать на услышанное различными способами и отвечать собеседнику, соблюдая речевые нормы участвовать в диалоге, соблюдать речевые нормы
+5.3.4.1 read with some support a limited range of short fiction and non-fiction texts;
+5.3.5.1 deduce meaning from context in short texts on a limited range of familiar general and curricular topics;
+5.3.9.1 recognise the difference between fact and opinion in short, simple texts on an increasing range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>2.​2.​1.​2 подбирать из прочитанного имена существительные, прилагательные, глаголы, близкие и противоположные по значению</td>
+<td>Writing</td>
+<td>
+5.4.3.1 link without support sentences using basic coordinating connectors;
+5.4.5.1 spell most high-frequency words accurately for a limited range of general topics;
+5.4.6.1 punctuate written work at text level on a limited range of familiar general with some accuracy;
+</td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Use of English</td>
 <td>
-2.​3.​2.​2 писать заглавную букву в именах, фамилиях, кличках животных с помощью учителя;
-2.​3.​3.​1 составлять и записывать краткий текст-описание животного и природы по образцу, аналогии, сенсорному плану, с организующей помощью учителя
+5.5.3.1 use a growing variety of adjectives and regular and irregular comparative and superlative adjectives on a limited range of familiar general and curricular topics;
+5.5.8.1 use future forms “will” for predictions and “be going to” to talk about already decided plans on a limited range of familiar general and curricular topics;
+5.5.12.1 use common regular and irregular adverbs, simple and comparative forms, adverbs of frequency and adverbs of definite time: last week, yesterday on a limited range of familiar general and curricular topics;
+5.5.16.1 use conjunctions so, if, when , where, before, after to link parts of sentences on a limited range of familiar general and curricular topics
+5.5.17.1 use if clauses (in zero conditionals); use where clauses use before/after clauses (with past reference) use defining relative clauses with which who that where to give details on a limited range of familiar general and curricular topics
 </td>
 </tr>
 </table>
 
-4) 3 класс:
+2) grade 6
 
-таблица 4
+table 2
 
 <table>
 <tr>
-<td>Сквозные темы</td>
-<td>Разделы</td>
-<td>Цели обучения</td>
+<td>Unit</td>
+<td>Strand</td>
+<td>Learning objectives</td>
 </tr>
 <tr>
-<td colspan="3">1 четверть</td>
+<td colspan="3">Term 1</td>
 </tr>
 <tr>
-<td rowspan="3">Живая природа</td>
-<td>Слушание и говорение</td>
-<td>3.​1.​1.​1 слушать и понимать устную речь, аудиовизуальный материал, повторяя простейшие фразы</td>
-</tr>
-<tr>
-<td>Чтение</td>
-<td>3.​2.​1.​1 читать вслух правильно, выразительно, осознанно целыми словами с переходом на послоговое чтение в особо трудных случаях</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>3.​3.​1.​1 различать безударные и ударные гласные, звонкие и глухие согласные, проверять безударные гласные и парные согласные по образцу с помощью учителя</td>
-</tr>
-<tr>
-<td rowspan="3">Что такое хорошо и что такое плохо? (свет и темнота)</td>
-<td>Слушание и говорение</td>
-<td>3.​1.​4.​1 отвечать на вопросы и подбирать соответствующую иллюстрацию к прослушанному сообщению</td>
-</tr>
-<tr>
-<td>Чтение</td>
-<td>3.​2.​4.​2 выполнять по инструкции кинезиологические упражнения: имитировать позой тела и жестами образы смешиваемых букв, писать все буквы ведущей и неведущей рукой с открытыми и закрытыми глазами</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>3.​3.​4.​2 различать графемы с разным количеством одинаковых элементов (п-т, л-м, и-ш), с одинаковыми элементами, но разным их расположением в пространстве (п-р, и-у, б-д; с-э)</td>
-</tr>
-<tr>
-<td colspan="3">2 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Время</td>
-<td>Слушание и говорение</td>
-<td>3.​1.​1.​2 слушать партнёра, не перебивать, вникать в смысл того, о чём говорит собеседник, демонстрировать заинтересованность в теме</td>
-</tr>
-<tr>
-<td>Чтение</td>
-<td>3.​2.​1.​2 распознавать в прочитанном тексте существительные прилагательные, глаголы по значению, вопросам, роли в предложении</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>3.​3.​1.​3 разграничивать на слух и оформлять на письме имена собственные и нарицательные, одушевленные и неодушевленные</td>
-</tr>
-<tr>
-<td rowspan="3">Архитектура</td>
-<td>Слушание и говорение</td>
+<td rowspan="5">Our health</td>
+<td>Listening</td>
 <td>
-3.​1.​3.​3 наблюдать изменение окончаний прилагательных в парадигме словоизменения;
-3.​1.​4.​5 договариваться о распределении функций и ролей в совместной деятельности
+6.1.1.1 understand a sequence of supported classroom instructions;
+6.1.3.1 understand most specific information and detail of short, supported talk on a wide range of general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>3.​2.​4.​1 пользоваться звуко-буквенным анализом при выделении из текста и чтении слов с парными твердыми и мягкими согласными</td>
-</tr>
-<tr>
-<td>Письмо</td>
+<td>Speaking</td>
 <td>
-3.​3.​4.​1 писать плавно, ритмично, с достаточной скоростью, линейностью в тетради в широкую линейку;
-3.​3.​4.​5 выполнять своевременно по показу и инструкции элементы кинезиологии, медленные вращения, раскачивания обеих рук, принятие рефлекс-запрещающей позиции – при психо-эмоциональной напряженности, ощущении переутомления, включении механизмов запредельного (охранительного) торможения
+6.2.1.1 provide basic information about themselves and others at discourse level on a range of general topics;
+6.2.3.1 give an opinion at sentence level on an increasing range of general and curricular topics;
+6.2.4.1 respond with limited flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+6.2.8.1 recount some extended stories and events on a range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td colspan="3">3 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Искусство</td>
-<td>Слушание и говорение</td>
+<td>Reading</td>
 <td>
-3.​1.​1.​3 выполнять по словесной инструкции и образцу специальные упражнения, развивающие лицевые, артикуляторные и дыхательно-голосовые мышцы;
-3.​1.​4.​4 участвовать в речевой ситуации на определенную тему, понимать о чем говорит собеседник; соблюдать речевые нормы: правильное произношение местоимений «его», «него»,окончаний –ого,- его
+6.3.1.1 understand the main points in a limited range of short simple texts on general and curricular topics;
+6.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics;
+6.3.5.1 deduce meaning from context in short texts on a limited range of familiar general and curricular topics;
+6.3.8.1 use with support familiar paper and digital reference resources to check meaning and extend understanding;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Writing</td>
 <td>
-3.​2.​2.​1 находить личные местоимения в прочитанном тексте для использования в речи при пересказе;
-3.​2.​3.​2 использовать личные местоимения и слова - синонимы, в речи при пересказе в качестве средств межфразовой связи
+6.4.1.1 write with some support about real and imaginary past events, activities and experiences on a limited range of familiar general topics and some curricular topics;
+6.4.6.1 punctuate written work at text level on a limited range of familiar general with some accuracy;
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Use of English</td>
 <td>
-3.​3.​2.​2 писать предлоги и другие слова в предложении раздельно;
-3.​3.​1.​2 понимать и правильно употреблять на письме слова с суффиксами «- очк», «-ечк», «-ищ»); « -онок», « -енок»; «-ист», «-щик», «-чик», «-ниц» (а), «-тель», «-арь»;
-3.​3.​4.​5 выполнять расслабляющий самомассаж пальцев и кистей рук, применяя 3-5 массажных приемов с направляющей помощью учителя для предупреждения и преодоления писчего спазма
+6.5.1.1 begin to use basic abstract nouns and compound nouns and noun phrases describing times and location on a growing range of familiar general and curricular topics;
+6.5.4.1 use determiners including any, no each, every on a limited range of familiar general and curricular topics;
+6.5.9.1 use simple present and simple past regular and irregular forms to describe routines, habits and states on a limited range of familiar general and curricular topics
 </td>
 </tr>
 <tr>
-<td rowspan="3">Выдающиеся личности</td>
-<td>Слушание и говорение</td>
+<td rowspan="5">Helping &amp; heroes</td>
+<td>Listening</td>
 <td>
-3.​1.​2.​4 проговаривать вслух последовательность производимых действий, для их осознания и проведения пошагового и итогового самоконтроля под руководством учителя;
-3.​1.​4.​3 составлять диалог по сюжетной картинке, по заданной учителем ситуации, соблюдая речевые нормы
+6.1.2.1 understand an increasing range of unsupported questions on personal, general and curricular topics;
+6.1.3.1 understand most specific information and detail of short, supported talk on a wide range of general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Speaking</td>
 <td>
-3.​2.​2.​2 определять основные структурные части текста (начало, основная часть, концовка) с помощью учителя;
-3.​2.​2.​3 восстанавливать порядок следования частей текста с направляющей помощью учителя
+6.2.1.1 provide basic information about themselves and others at discourse level on a range of general topics;
+6.2.2.1 ask simple questions to get information about a growing range of general topic;
+6.2.5.1 keep interaction going in longer exchanges on a growing range of general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
-<td>3.​2.​2.​2 определять основные структурные части текста (начало, основная часть, концовка) с помощью учителя</td>
-</tr>
-<tr>
-<td colspan="3">4 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Вода -источник жизни</td>
-<td>Слушание и говорение</td>
+<td>Reading</td>
 <td>
-3.​1.​2.​1 понимать значение простых фраз, содержащих знакомые слова и имеющих отношение к повседневной жизни;
-3.​1.​3.​1 уметь различать правильно и неправильно структурированные предложения
+6.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics;
+6.3.5.1 deduce meaning from context in short texts on a limited range of familiar general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Writing</td>
 <td>
-3.​2.​2.​4 формулировать вопросы с опорой на ключевые слова и шаблон;
-3.​2.​2.​3 восстанавливать порядок следования частей текста с направляющей помощью учителя
+6.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a limited range of written genres in familiar general and curricular topics;
+6.4.4.1 link, with some support, sentences into a coherent paragraph using basic connectors on a limited range of familiar general topics;
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Use of English</td>
 <td>
-3.​3.​1.​4 правильно выбирать косвенную форму существительного и прилагательного (в зависимости от семантики главного слова и предлога) из 5 предложенных вариантов;
-3.​3.​3.​1 составлять и записывать текст повествование по готовому плану с организующей помощью учителя
+6.5.2.1 use quantifiers many, much, a lot of ,a few on a limited range of familiar general and curricular topics;
+6.5.7.1 use simple perfect forms to express indefinite and unfinished past with for and since on a growing range of familiar general and curricular topics;
+6.5.10.1 use present continuous forms with present and future meaning and past continuous forms for background and interrupted past actions on a limited range of familiar general and curricular topics;
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-Культура отдыха.
-Праздники
-</td>
-<td>Слушание и говорение</td>
+<td colspan="3">Term 2</td>
+</tr>
+<tr>
+<td rowspan="5">Our countryside</td>
+<td>Listening</td>
 <td>
-3.​1.​2.​3 иметь представление о родственных словах, вычленяя их из текста в процессе слушания и говорения;
-3.​1.​3.​2 использовать в речи слова и словосочетания для запроса информации, комментирования действий;
-3.​1.​4.​2 употреблять «вежливые» слова в случае своей неправоты: «Извини, пожалуйста», «Прости, я не хотел тебя обидеть»
+6.1.1.1 understand a sequence of supported classroom instructions;
+6.1.4.1 understand supported narratives, including some extended talk, on an increasing range of general and curricular topic
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Speaking</td>
 <td>
-3.​2.​2.​5 практически использовать алфавитный указатель при выполнении заданий с направляющей помощью учителя;
-3.​2.​3.​1 определять род существительных по значению и внешнему признаку - окончанию: женский род – окончание – а, -я, нулевое окончание; мужской род – нулевое окончание, средний род – окончание -о-, -е при подготовке к пересказу
+6.2.2.1 ask simple questions to get information about a growing range of general topic;
+6.2.3.1 give an opinion at sentence level on an increasing range of general and curricular topics;
+6.2.6.1 communicate meaning clearly at sentence level during, pair, group and whole class exchanges
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Reading</td>
 <td>
-3.​3.​4.​3 подбирать слова с заданным звуком, слогом и называть различия в укладах органов артикуляции при произнесении свистящих и шипящих, звонких и глухих, твердых и мягких;
-3.​3.​4.​4 демонстрировать элементы орфографического чутья: чувствовать ошибкоопасное место в слове
+6.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics;
+6.3.7.1 recognise typical features at word, sentence and text level in a limited range of written genres;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+6.4.1.1 write with some support about real and imaginary past events, activities and experiences on a limited range of familiar general topics and some curricular topics;
+6.4.5.1 spell most high-frequency words accurately for a limited range of general topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+6.5.1.1 begin to use basic abstract nouns and compound nouns and noun phrases describing times and location on a growing range of familiar general and curricular topics;
+6.5.4.1 use determiners including any, no each, every on a limited range of familiar general and curricular topics;
+6.5.6.1 use a variety of personal, demonstrative and quantitative pronouns including someone somebody, everybody, no-one on a growing range of familiar general and curricular topics;
+6.5.11.1 use common impersonal structures with: it, there on a growing range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td rowspan="5">Drama &amp; comedy</td>
+<td>Listening</td>
+<td>
+6.1.2.1 understand an increasing range of unsupported questions on personal, general and curricular topic;
+6.1.4.1 understand supported narratives, including some extended talk, on an increasing range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+6.2.3.1 give an opinion at sentence level on an increasing range of general and curricular topics;
+6.2.5.1 keep interaction going in longer exchanges on a growing range of general and curricular topics;
+6.2.8.1 recount some extended stories and events on a range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+6.3.1.1 understand the main points in a limited range of short simple texts on general and curricular topics;
+6.3.4.1 read with some support a limited range of short fiction and non-fiction texts;
+6.3.8.1 use with support familiar paper and digital reference resources to check meaning and extend understanding;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+6.4.1.1 write with some support about real and imaginary past events, activities and experiences on a limited range of familiar general topics and some curricular topics;
+6.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a limited range of written genres in familiar general and curricular topics;
+6.4.6.1 punctuate written work at text level on a limited range of familiar general with some accuracy;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+6.5.1.1 begin to use basic abstract nouns and compound nouns and noun phrases describing times and location on a growing range of familiar general and curricular topics;
+6.5.5.1 use questions including questions with whose, how often, how long and a growing range of tag questions on a growing range of familiar general and curricular topics;
+6.5.12.1 use common regular and irregular adverbs, simple and comparative forms, adverbs of frequency and adverbs of definite time: last week, yesterday on a limited range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 3</td>
+</tr>
+<tr>
+<td rowspan="5">Our health</td>
+<td>Listening</td>
+<td>
+6.1.3.1 understand most specific information and detail of short, supported talk on a wide range of general and curricular topics;
+6.1.4.1 understand supported narratives, including some extended talk, on an increasing range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+6.2.1.1 provide basic information about themselves and others at discourse level on a range of general topics;
+6.2.6.1 communicate meaning clearly at sentence level during, pair, group and whole class exchanges;
+6.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a limited range of general topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+6.3.2.1 understand with little support specific information and detail in short, simple texts on a limited range of general and curricular topics;
+6.3.4.1 read with some support a limited range of short fiction and non-fiction texts;
+6.3.7.1 recognise typical features at word, sentence and text level in a limited range of written genres;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+6.4.2.1 write with support factual descriptions at text level which describe people, places and object;
+6.4.4.1 link, with some support, sentences into a coherent paragraph using basic connectors on a limited range of familiar general topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+6.5.2.1 use quantifiers many, much, a lot of, a few on a limited range of familiar general and curricular topics;
+6.5.4.1 use determiners including any, no each, every on a limited range of familiar general and curricular topics;
+6.5.6.1 use a variety of personal, demonstrative and quantitative pronouns including someone somebody, everybody, no-one on a growing range of familiar general and curricular topics;
+6.5.7.1 use simple perfect forms to express indefinite and unfinished past with for and since on a growing range of familiar general and curricular topics;
+6.5.13.1 use might may could to express possibility on a limited range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td rowspan="5">Travel &amp; holidays</td>
+<td>Listening</td>
+<td>
+6.1.1.1 understand a sequence of supported classroom instructions;
+6.1.2.1 understand an increasing range of unsupported questions on personal, general and curricular topic
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+6.2.2.1 ask simple questions to get information about a growing range of general topic;
+6.2.4.1 respond with limited flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+6.3.2.1understand with little support specific information and detail in short, simple texts on a limited range of general and curricular topics;
+6.3.5.1 deduce meaning from context in short texts on a limited range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+6.4.1.1 write with some support about real and imaginary past events, activities and experiences on a limited range of familiar general topics and some curricular topics;
+6.4.5.1 spell most high-frequency words accurately for a limited range of general topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+6.5.3.1 use common participles as adjectives and order adjectives correctly in front of nouns on a growing range of familiar general and curricular topics;
+6.5.5.1 use questions including questions with whose, how often, how long and a growing range of tag questions on a growing range of familiar general and curricular topics;
+6.5.8.1 use future forms “will” for predictions and “be going to” to talk about already decided plans on a limited range of familiar general and curricular topics;
+6.5.14.1 use an increased variety of prepositions of time, location and direction use by and with to denote agent and instrument use prepositions before nouns and adjectives in common prepositional phrases on a growing range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td rowspan="5">Reading for pleasure</td>
+<td>Listening</td>
+<td>
+6.1.1.1 understand a sequence of supported classroom instructions;
+6.1.4.1 understand supported narratives, including some extended talk, on an increasing range of general and curricular topic;
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+6.2.3.1 give an opinion at sentence level on an increasing range of general and curricular topics;
+6.2.4.1 respond with limited flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+6.2.8.1 recount some extended stories and events on a range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+6.3.1.1 understand the main points in a limited range of short simple texts on general and curricular topics;
+6.3.6.1 recognise the attitude or opinion of the writer in short texts on a limited range of general and curricular topics;
+6.3.7.1 recognise typical features at word, sentence and text level in a limited range of written genres;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+6.4.4.1 write with support factual descriptions at text level which describe people, places and object;
+6.4.6.1 link, with some support, sentences into a coherent paragraph using basic connectors on a limited range of familiar general topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+6.5.2.1 use quantifiers many, much, a lot of, a few on a limited range of familiar general and curricular topics;
+6.5.6.1 use a variety of personal, demonstrative and quantitative pronouns including someone somebody, everybody, no-one on a growing range of familiar general and curricular topics;
+6.5.15.11 use common verbs followed by infinitive verb / verb + ing patterns; use infinitive of purpose on a limited range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 4</td>
+</tr>
+<tr>
+<td rowspan="5">Our neighborhood</td>
+<td>Listening</td>
+<td>
+6.1.2.1 understand an increasing range of unsupported questions on personal, general and curricular topic;
+6.1.3.1 understand most specific information and detail of short, supported talk on a wide range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+6.2.3.1 give an opinion at sentence level on an increasing range of general and curricular topics;
+6.2.5.1 keep interaction going in longer exchanges on a growing range of general and curricular topics
+6.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a limited range of general topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+6.3.1.1 understand the main points in a limited range of short simple texts on general and curricular topics;
+6.3.4.1 read with some support a limited range of short fiction and non-fiction texts;
+6.3.6.1 recognise the attitude or opinion of the writer in short texts on a limited range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+6.4.2.1 write with support factual descriptions at text level which describe people, places and object;
+6.4.5.1 spell most high-frequency words accurately for a limited range of general topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+6.5.2.1 use quantifiers many, much, a lot of, a few on a limited range of familiar general and curricular topics;
+6.5.5.1 use questions including questions with whose, how often, how long and a growing range of tag questions on a growing range of familiar general and curricular topics;
+6.5.8.1 use future forms “will” for predictions and “be going to” to talk about already decided plans on a limited range of familiar general and curricular topics;
+6.5.16.1 use conjunctions if , when, where, so, and, or, but, because , before, after to link parts of sentences in short texts on a growing range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td rowspan="5">Transport</td>
+<td>Listening</td>
+<td>
+6.1.1.1 understand a sequence of supported classroom instructions;
+6.1.4.1 understand supported narratives, including some extended talk, on an increasing range of general and curricular topic
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+6.2.1.1 provide basic information about themselves and others at discourse level on a range of general topics;
+6.2.4.1 respond with limited flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+6.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a limited range of general topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+6.3.2.1 understand with little support specific information and detail in short, simple texts on a limited range of general and curricular topics;
+6.3.5.1 deduce meaning from context in short texts on a limited range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+6.4.1.1 write with some support about real and imaginary past events, activities and experiences on a limited range of familiar general topics and some curricular topics;
+6.4.4.1 link, with some support, sentences into a coherent paragraph using basic connectors on a limited range of familiar general topics;
+6.4.6.1 punctuate written work at text level on a limited range of familiar general with some accuracy
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+6.5.3.1 use common participles as adjectives and order adjectives correctly in front of nouns on a growing range of familiar general and curricular topics;
+6.5.5.1 use questions including questions with whose, how often, how long and a growing range of tag questions on a growing range of familiar general and curricular topics;
+6.5.7.1 use simple perfect forms to express indefinite and unfinished past with for and since on a growing range of familiar general and curricular topics;
+6.5.17.1 use if clauses (in zero conditionals); use where clauses use before/after clauses (with past reference)
+use defining relative clauses with which who that where to give details on a limited range of familiar general and curricular topics;
 </td>
 </tr>
 </table>
 
-5) 4 класс:
+3) grade 7
 
-таблица 5
+table 3
 
 <table>
 <tr>
-<td>Сквозные темы</td>
-<td>Разделы</td>
-<td>Цели обучения</td>
+<td>Unit</td>
+<td>Strand</td>
+<td>Learning objectives</td>
 </tr>
 <tr>
-<td colspan="3">1 четверть</td>
+<td colspan="3">Term 1</td>
 </tr>
 <tr>
-<td rowspan="3">Моя Родина – Казахстан</td>
-<td>Слушание и говорение</td>
+<td rowspan="5">Hobbies &amp; leisure</td>
+<td>Listening</td>
 <td>
-4.​1.​1.​1 слушать и понимать устную речь, аудиовизуальный материал, разграничивая знакомую и незнакомую, понятную и непонятную информацию;
-4.​1.​4.​4 участвовать в речевой ситуации на определенную тему, понимать о чем говорит собеседник; дополнять высказывания собеседника, разворачивать диалог, инициируя его начало и продолжение, соблюдая нормы речевой культуры и орфоэпии
+7.1.1.1 understand longer sequences of supported classroom instructions;
+7.1.3.1 recognise the opinion of the speaker(s) in supported extended talk on a range of general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Speaking</td>
 <td>
-4.​2.​1.​1 читать выразительно текст или его части, используя виды чтения (ознакомительное чтение, чтение по ролям);
-4.​2.​4.​2 владеть приемом трансформации графемы, - с помощью перемещения, удаления, добавления элементов; трансформации лексемы,- с помощью
+7.2.3.1 give an opinion at sentence level on a growing range of general and curricular topics;
+7.2.5.1 keep interaction with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+7.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general topics, and some curricular topics;
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Reading</td>
 <td>
-4.​3.​1.​1 наблюдать и объяснять правописание падежных окончаний существительных, прилагательных, личных окончаний глаголов 1 и 2 спряжения, безошибочно списывать слова, написание которых расходится с произношением;
-4.​3.​4.​1 воспроизводить два вида соединений в условиях нарастания скорости письма в тетради в широкую линейку;
-4.​3.​1.​2 использовать слова, образованные префиксально-суффиксальный способом, при написании самостоятельных письменных работ
+7.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+7.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+7.3.5.1 deduce meaning from context in short texts on a growing range of familiar general and curricular topics;
+7.3.9.1 recognise the difference between fact and opinion in short, simple texts on a wide range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td rowspan="3">Человеческие ценности</td>
-<td>Слушание и говорение</td>
+<td>Writing</td>
 <td>
-4.​1.​3.​2 использовать в речи специальную лексику в различных контекстах с помощью учителя;
-4.​1.​4.​3 создавать высказывания и диалоги на основе темы, предложенной учителем
+7.4.2.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+7.4.4.1 link, with minimal support, sentences into coherent paragraphs using basic connectors on a growing range of familiar general topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>4.​2.​1.​2 наблюдать вариации лексического значения многозначного слова (существительного, прилагательного, глагола) в контексте</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>4.​3.​3.​1 составлять и записывать тексты с элементами рассуждения (по образцу, по аналогии) с направляющей помощью учителя</td>
-</tr>
-<tr>
-<td colspan="3">2 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Культурное наследие</td>
-<td>Слушание и говорение</td>
+<td>Use of English</td>
 <td>
-4.​1.​1.​2 по собственной инициативе вслушиваться и стараться понимать информацию, исходящую из различных источников (диалоги, радио, телевидение) для использования её в своих целях;
-4.​1.​4.​2 активно использовать слова и фразы речевого этикета в случаях, требующих вежливого отказа, с формулировкой аргумента:
-«Прости, я не смогу тебе помочь, потому что…»
+7.5.1.1 begin to use basic abstract nouns and compound nouns and noun phrases describing times and location on a growing range of familiar general and curricular topics;
+7.5.2.1 use quantifiers including more, little, few less, fewer not as many, not as much on a growing range of familiar general and curricular topics;
+7.5.6.1 use a variety of possessive and reflexive pronouns including mine, yours, ours, theirs, hers, his, myself, yourself, themselves on a growing range of familiar general and curricular topics;
+7.5.7.1 use simple perfect forms to express indefinite and unfinished past with for and since on a growing range of familiar general and curricular topics;
+7.5.10.1 use present continuous forms for present and future meaning and past continuous on a range of familiar general and curricular topics;
+7.5.15.1 use common verbs followed by infinitive verb / verb + ing patterns; use infinitive of purpose
+on a limited range of familiar general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td rowspan="5">Communication &amp; technology</td>
+<td>Listening</td>
+<td>7.1.2.1 understand more complex supported questions on a growing range of general and curricular topics;</td>
+</tr>
+<tr>
+<td>Speaking</td>
 <td>
-4.​2.​2.​1 находить числительные, наречия и местоимения в качестве ключевых (опорных) слов для составления плана пересказа;
-4.​2.​4.​1 выделять смыслоразличительный признак в словах-паронимах: звук свистящий или шипящий; парный звонкий или глухой, мягкий или твердый
+7.2.1.1 use formal and informal registers in their talk on a limited range of general and curricular topics;
+7.2.4.1 respond with increasing flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+7.2.6.1 begin to link comments with some flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges;
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
+<td>Reading</td>
 <td>
-4.​3.​4.​2 дифференцировать буквы на всех уровнях организации речевой деятельности, а именно в: изолированном написании; слогах; словах; словосочетаниях; предложениях; тексте;
-4.​3.​4.​3 безошибочно воспроизводить звуко-буквенный состав слов-паронимов, содержащих звонкие и глухие, твердые и мягкие, шипящие-свистящие
+7.3.2.1 understand independently specific information and detail in short, simple texts on a limited range of general and curricular topics;
+7.3.4.1 read a limited range of extended fiction and non-fiction texts on familiar and some unfamiliar general and curricular topics;
+7.3.7.1 recognise typical features at word, sentence and text level in a range of written genres;
 </td>
 </tr>
 <tr>
-<td rowspan="3">Мир профессий</td>
-<td>Слушание и говорение</td>
+<td>Writing</td>
 <td>
-4.​1.​2.​4 демонстрировать заинтересованность в языковой познавательной деятельности, позитивно относиться к своим успехам, стремиться к улучшению результата, анализируя причины успеха/неуспеха, формулировать их вербально,- оценочными словами и короткими фразами;
-4.​1.​4.​5 брать на себя роль со-координатора и совместно с учителем контролировать выполнение функций и ролей членами команды в групповой работе
+7.4.2.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+7.4.5.1 spell most high-frequency vocabulary accurately for a limited range of familiar general topics and some curricular topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
+<td>Use of English</td>
 <td>
-4.​2.​2.​2 делить текст на смысловые части, уметь озаглавить каждую часть и составить план по этим частям;
-4.​2.​2.​3 восстанавливать порядок следования частей текста и давать своё название тексту;
-4.​2.​2.​4 формулировать вопросы к каждому из слов, входящих в предложение прочитанного текста
+7.5.4.1 use a variety of determiners including all, other on a growing range of familiar general and curricular topics;
+7.5.5.1 use questions which include a variety of different tense on a range of familiar general and curricular topics;
+7.5.6.1 use a variety of possessive and reflexive pronouns including mine, yours, ours, theirs, hers, his, myself, yourself, themselves on a growing range of familiar general and curricular topics;
+7.5.12.1 use an increased variety of adverbs, including adverbs of degree too, not enough, quite, rather on a growing range of familiar general and curricular topics;
+7.5.13.1 use modal forms including mustn’t (prohibition) need (necessity) should (for advice) on a range of familiar general and curricular topics;
+7.5.17.1 use subordinate clauses following think know believe hope, say , tell; use subordinate clauses following sure, certain: use defining relative clauses with which who that where on a growing range of familiar general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Письмо</td>
-<td>4.​3.​4.​4 владеть русским правописанием, реализуя традиционный принцип орфографии, включая правописание имен существительных женского и мужского рода с основой на шипящий (ночь, меч</td>
+<td colspan="3">Term 2</td>
 </tr>
 <tr>
-<td colspan="3">3 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Природные явления</td>
-<td>Слушание и говорение</td>
-<td>4.​1.​1.​3 использовать по словесной инструкции и образцу специальные приемы самоконтроля со включением кинестетического и зрительного анализаторов для уточнения качества звучания, механизма и места образования фонем</td>
-</tr>
-<tr>
-<td>Чтение</td>
-<td>4.​2.​2.​5 искать информацию в школьном энциклопедическом, фразеологическом, орфографическом и других словарях с направляющей помощью учителя</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>4.​3.​3.​2 передавать на письме временные и личные отношения, количественные и порядково-счетные отношения и признаки, координируя глаголы с существительными в настоящем, прошедшем и будущем времени, сочетая местоимений с глаголами 2-го и 1-го лица, числительные с существительными.</td>
-</tr>
-<tr>
-<td rowspan="3">Охрана окружающей среды</td>
-<td>Слушание и говорение</td>
+<td rowspan="5">Holidays &amp; travel</td>
+<td>Listening</td>
 <td>
-4.​1.​2.​1 понимать тексты, содержащие знакомые слова и словосочетания, по контексту догадываться о значении незнакомых слов;
-4.​1.​4.​1 прогнозировать содержание информации по заголовку, опорным словам, рисункам, схемам и таблицам, аргументируя прогноз
+7.1.1.1 understand longer sequences of supported classroom instructions;
+7.1.4.1 understand supported narratives including some extended talk, on a range of general and curricular topics
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>4.​2.​2.​6 давать отчет и реальную самооценку выполнения любой проделанной работы, учебного задания, связанного с чтением</td>
-</tr>
-<tr>
-<td>Письмо</td>
-<td>4.​3.​1.​1 наблюдать и объяснять правописание падежных окончаний существительных, прилагательных, личных окончаний глаголов 1 и 2 спряжения, безошибочно списывать слова, написание которых расходится с произношением</td>
-</tr>
-<tr>
-<td colspan="3">4 четверть</td>
-</tr>
-<tr>
-<td rowspan="3">Путешествие в Космос</td>
-<td>Слушание и говорение</td>
+<td>Speaking</td>
 <td>
-4.​1.​2.​2 определять тему, главную мысль полученной информации, аргументировать свой ответ, используя доступные речевые средства;
-4.​1.​3.​3 употреблять правильные падежные формы прилагательного в кратком описании предмета, животного, природы
+7.2.1.1 use formal and informal registers in their talk on a limited range of general and curricular topics;
+7.2.5.1 keep interaction with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+7.2.8.1 recount some extended stories and events on a range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>4.​2.​3.​1 различать при чтении и прямое и переносное значение существительных, глаголов, прилагательных, многозначные слова и использовать их в речи в процессе пересказа</td>
-</tr>
-<tr>
-<td>Письмо</td>
+<td>Reading</td>
 <td>
-4.​3.​1.​3 распознавать на слух – с помощью учителя, и на письме – самостоятельно слова с общим корнем, общей приставкой, общим суффиксом, общим окончанием;
-4.​3.​1.​4 создавать словообразовательные гнезда; распознавать среди цепочки родственных слов главное слово с ударным корнем, которое может использоваться как инструмент для проверки правописания других родственных слов с сомнительным написанием
+7.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+7.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+7.3.8.1 recognise the difference between fact and opinion in short, simple texts on a wide range of general and curricular topics;
 </td>
 </tr>
 <tr>
-<td rowspan="3">Путешествие в будущее</td>
-<td>Слушание и говорение</td>
+<td>Writing</td>
 <td>
-4.​1.​2.​3 составлять ряд однокоренных родственных слов, пользуясь суффиксальным и префиксальным словообразованием;
-4.​1.​3.​1 понимать различие между словами, предложениями и текстом, ссылаясь на знание признаков текста
+7.4.4.1 link, with minimal support, sentences into coherent paragraphs using basic connectors on a growing range of familiar general topics;
+7.4.5.1 spell most high-frequency vocabulary accurately for a limited range of familiar general topics and some curricular topics;
+7.4.6.1 punctuate written work at text level on a limited range of general topics and some curricular topics with some accuracy;
 </td>
 </tr>
 <tr>
-<td>Чтение</td>
-<td>4.​2.​3.​2 раскрывать лексическое значение слова с помощью приемов: толкование значения, подбор синонимов, используя, где нужно, словарь</td>
+<td>Use of English</td>
+<td>
+7.5.2.1 use quantifiers including more, little, few less, fewer not as many, not as much on a growing range of familiar general and curricular topics;
+7.5.7.1 use simple perfect forms to express indefinite and unfinished past with for and since on a growing range of familiar general and curricular topics;
+7.5.9.1 use appropriately an increased variety of present and past simple active and some passive forms on a growing range of familiar general and curricular topics;
+7.5.14.1 use an increased variety of prepositions of time, location and direction use by and with to denote agent and instrument use prepositions before nouns and adjectives in common prepositional phrases on a growing range of familiar general and curricular topics;
+7.5.16.1 use conjunctions if , when, where, so, and, or, but, because , before, after to link parts of sentences in short texts on a growing range of familiar general and curricular topics;
+</td>
 </tr>
 <tr>
-<td>Письмо</td>
-<td>4.​3.​2.​1 составлять и употреблять в речи предложения с существительными и глаголами в единственном и множественном числе, обозначающими переходность действия на предмет, места и совместности действия с использованием предлогов в, на, под, над, за, около, с</td>
+<td rowspan="5">Space &amp; Earth</td>
+<td>Listening</td>
+<td>
+7.1.2.1 understand more complex supported questions on a growing range of general and curricular topics;
+7.1.3.1 recognise the opinion of the speaker(s) in supported extended talk on a range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+7.2.3.1 give an opinion at sentence level on a growing range of general and curricular topics;
+7.2.6.1 begin to link comments with some flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges;
+7.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general topics, and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+7.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+7.3.4.1 read a limited range of extended fiction and non-fiction texts on familiar and some unfamiliar general and curricular topics;
+7.3.8.1 use independently familiar paper and digital reference resources to check meaning and extend understanding;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+7.4.4.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+7.4.5.1 spell most high-frequency vocabulary accurately for a limited range of familiar general topics and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+7.5.1.1 begin to use basic abstract nouns and compound nouns and noun phrases describing times and location on a growing range of familiar general and curricular topics;
+7.5.4.1 use a variety of determiners including all, other on a growing range of familiar general and curricular topics;
+7.5.10.1 use present continuous forms for present and future meaning and past continuous on a range of familiar general and curricular topics;
+7.5.12.1 use an increased variety of adverbs, including adverbs of degree too, not enough, quite , rather on a growing range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 3</td>
+</tr>
+<tr>
+<td rowspan="5">Reading for pleasure</td>
+<td>Listening</td>
+<td>
+7.1.3.1 recognise the opinion of the speaker(s) in supported extended talk on a range of general and curricular topics;
+7.1.4.1 understand supported narratives including some extended talk, on a range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+7.2.2.1 ask complex questions to get information about a limited range of general topics and some curricular topics;
+7.2.5.1 keep interaction with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+7.2.8.1 recount some extended stories and events on a range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+7.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+7.3.2.1 understand independently specific information and detail in short, simple texts on a limited range of general and curricular topics;
+7.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+7.3.5.1 deduce meaning from context in short texts on a growing range of familiar general and curricular topics;
+7.3.6.1 recognise the attitude or opinion of the writer on a range of unfamiliar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+7.4.1.1 write with some support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+7.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a limited range of written genres in familiar general and curricular topics;
+7.4.6.1 punctuate written work at text level on a limited range of general topics and some curricular topics with some accuracy;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+7.5.3.1 use a growing variety of compound adjectives and adjectives as participles;
+7.5.7.1 use simple perfect forms to express indefinite and unfinished past with for and since on a growing range of familiar general and curricular topics;
+7.5.9.1 use appropriately an increased variety of present and past simple active and some passive forms on a growing range of familiar general and curricular topics;
+7.5.11.1 use some reported speech forms for statements on a range of familiar general and curricular topics;
+7.5.15.1 use common verbs followed by infinitive verb / verb + ing patterns; use infinitive of purpose;
+on a limited range of familiar general and curricular topics;
+7.5.17.1 use subordinate clauses following think know believe hope, say, tell; use subordinate clauses following sure, certain: use defining relative clauses with which who that where on a growing range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td rowspan="5">Entertainment &amp; media</td>
+<td>Listening</td>
+<td>
+7.1.1.1 understand longer sequences of supported classroom instructions;
+7.1.4.1 understand supported narratives including some extended talk, on a range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+7.2.1.1 use formal and informal registers in their talk on a limited range of general and curricular topics;
+7.2.4.1 respond with increasing flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+7.3.5.1 deduce meaning from context in short texts on a growing range of familiar general and curricular topics;
+7.3.7.1 recognise typical features at word, sentence and text level in a range of written genres;
+7.3.8.1 use independently familiar paper and digital reference resources to check meaning and extend understanding;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+7.4.2.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+7.4.5.1 spell most high-frequency vocabulary accurately for a limited range of familiar general topics and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+7.5.1.1 begin to use basic abstract nouns and compound nouns and noun phrases describing times and location on a growing range of familiar general and curricular topics;
+7.5.3.1 use a growing variety of compound adjectives and adjectives as participles;
+7.5.8.1 use future form “will” to make offers, promises, and predictions on a growing range of familiar general and curricular topics;
+7.5.12.1 use an increased variety of adverbs, including adverbs of degree too, not enough, quite , rather on a growing range of familiar general and curricular topics;
+7.5.16.1 use conjunctions if, when, where, so, and, or, but, because, before, after to link parts of sentences in short texts on a growing range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td rowspan="5">Natural disaster</td>
+<td>Listening</td>
+<td>
+7.1.2.1 understand more complex supported questions on a growing range of general and curricular topics;
+7.1.4.1 understand supported narratives including some extended talk, on a range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+7.2.2.1 ask complex questions to get information about a limited range of general topics and some curricular topics;
+7.2.5.1 keep interaction with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+7.2.6.1 begin to link comments with some flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges;
+7.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general topics, and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+7.3.2.1 understand independently specific information and detail in short, simple texts on a limited range of general and curricular topics;
+7.3.4.1 read a limited range of extended fiction and non-fiction texts on familiar and some unfamiliar general and curricular topics;
+7.3.6.1 recognise the attitude or opinion of the writer on a range of unfamiliar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+7.4.1.1 write with some support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+7.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a limited range of written genres in familiar general and curricular topics;
+7.4.6.1 punctuate written work at text level on a limited range of general topics and some curricular topics with some accuracy;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+7.5.2.1 use quantifiers including more, little, few less, fewer not as many, not as much on a growing range of familiar general and curricular topics;
+7.5.4.1 use a variety of determiners including all, other on a growing range of familiar general and curricular topics;
+7.5.9.1 use appropriately an increased variety of present and past simple active and some passive forms on a growing range of familiar general and curricular topics;
+7.5.11.1 use some reported speech forms for statements on a range of familiar general and curricular topics;
+7.5.17.1 use subordinate clauses following think know believe hope, say , tell; use subordinate clauses following sure, certain: use defining relative clauses with which who that where on a growing range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 4</td>
+</tr>
+<tr>
+<td rowspan="5">Healthy habits</td>
+<td>Listening</td>
+<td>
+7.1.3.1 recognise the opinion of the speaker(s) in supported extended talk on a range of general and curricular topics;
+7.1.4.1 understand supported narratives including some extended talk, on a range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+7.2.2.1 ask complex questions to get information about a limited range of general topics and some curricular topics;
+7.2.4.1 respond with increasing flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+7.2.8.1 recount some extended stories and events on a range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+7.3.2.1 understand independently specific information and detail in short, simple texts on a limited range of general and curricular topics;
+7.3.4.1 read a limited range of extended fiction and non-fiction texts on familiar and some unfamiliar general and curricular topics;
+7.3.7.1 recognise typical features at word, sentence and text level in a range of written genres;
+7.3.9.1 recognise the difference between fact and opinion in short, simple texts on a wide range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+7.4.4.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+7.4.5.1 spell most high-frequency vocabulary accurately for a limited range of familiar general topics and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+7.5.5.1 use questions which include a variety of different tense on a range of familiar general and curricular topics;
+7.5.8.1 use future form “will” to make offers, promises, and predictions on a growing range of familiar general and curricular topics;
+7.5.10.1 use present continuous forms for present and future meaning and past continuous on a range of familiar general and curricular topics;
+7.5.13.1 use modal forms including mustn’t (prohibition) need (necessity) should (for advice)
+on a range of familiar general and curricular topics;
+7.5.16.1 use conjunctions if , when, where, so, and, or, but, because , before, after to link parts of sentences in short texts on a growing range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td rowspan="5">Clothes and fashion</td>
+<td>Listening</td>
+<td>
+7.1.4.1 understand supported narratives including some extended talk, on a range of general and curricular topics;
+7.1.2.1 understand more complex supported questions on a growing range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+7.2.3.1 give an opinion at sentence level on a growing range of general and curricular topics;
+7.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general topics, and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+7.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+7.3.6.1 recognise the attitude or opinion of the writer on a range of unfamiliar general and curricular topics;
+7.3.8.1 use independently familiar paper and digital reference resources to check meaning and extend understanding;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+7.4.1.1 write with some support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+7.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a limited range of written genres in familiar general and curricular topics;
+7.4.4.1 link, with minimal support, sentences into coherent paragraphs using basic connectors on a growing range of familiar general topics;
+7.4.6.1 punctuate written work at text level on a limited range of general topics and some curricular topics with some accuracy;
+6.5.14.1 use an increased variety of prepositions of time, location and direction use by and with to denote agent and instrument ,use prepositions before nouns and adjectives in common prepositional phrases on a growing range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+7.5.3.1 use a growing variety of compound adjectives and adjectives as participles;
+7.5.5.1 use questions which include a variety of different tense on a range of familiar general and curricular topics;
+7.5.8.1 use future form “will” to make offers, promises, and predictions on a growing range of familiar general and curricular topics;
+7.5.11.1 use some reported speech forms for statements on a range of familiar general and curricular topics;
+7.5.15.1 use common verbs followed by infinitive verb / verb + ing patterns; use infinitive of purpose on a limited range of familiar general and curricular topics;
+7.5.17.1 use subordinate clauses following think know believe hope, say, tell; use subordinate clauses following sure, certain: use defining relative clauses with which who that where on a growing range of familiar general and curricular topics
+</td>
+</tr>
+</table>
+
+4) grade 8
+
+table 4
+
+<table>
+<tr>
+<td>Unit</td>
+<td>Strand</td>
+<td>Learning objectives</td>
+</tr>
+<tr>
+<td colspan="3">Term 1</td>
+</tr>
+<tr>
+<td rowspan="5">Our world</td>
+<td>Listening</td>
+<td>
+8.1.1.1 understand with little support the main points in extended talk on a limited range of general and curricular topics;
+8.1.2.1 understand more complex supported questions on a growing range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+8.2.1.1 use formal and informal registers in their talk on a limited range of general and curricular topics;
+8.2.3.1 give an opinion at sentence level on a growing range of general and curricular;
+8.2.6.1 begin to link comments with some flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+8.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+8.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+8.3.5.1 deduce meaning from context in short texts on a growing range of familiar general and curricular topics;
+8.3.6.1 recognise the attitude or opinion of the writer on a range of unfamiliar general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+8.4.2.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+8.4.4.1 link with little or no support, sentences into coherent paragraphs using a variety of basic connectors on a range of familiar general topics and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+8.5.1.1 use some abstract nouns and complex noun phrases on a range of familiar general and curricular topics;
+8.5.4.1 use a variety of determiners including neither, either, on a range of familiar general and curricular topics;
+8.5.6.1 use a variety of possessive and reflexive pronouns including mine, yours, ours, theirs, hers, his, myself, yourself, themselves on a growing range of familiar general and curricular topics;
+8.5.10.1 use present continuous forms for present and future meaning and past continuous, including some passive forms, on a range of familiar general and curricular topics;
+8.5.11.1 use some reported speech forms for statements on a range of familiar general and curricular topics;
+8.5.13.1 use a growing variety of modal forms for different functions: obligation, necessity, possibility, permission, requests, suggestions, prohibition on a range of familiar general and curricular topics;
+8.5.17.1 use if / unless in first conditional clauses; use defining relative clauses with which who that where on a wide range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td rowspan="5">Daily life &amp; shopping</td>
+<td>Listening</td>
+<td>
+8.1.3.1 recognise the opinion of the speaker(s) in supported extended talk on a range of general and curricular topics;
+8.1.4.1 understand supported narratives on a wide range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+8.2.2.1 ask complex questions to get information about a limited range of general topics and some curricular topics;
+8.2.4.1 respond with some flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+8.2.8.1 recount some extended stories and events on a range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+8.3.2.1 understand specific information and detail in texts on a range of familiar general and curricular topics;
+8.3.5.1 deduce meaning from context in short texts on a growing range of familiar general and curricular topics;
+8.3.7.1 recognise typical features at word, sentence and text level in a range of written genres;
+8.3.9.1 recognise the difference between fact and opinion in short, simple texts on a wide range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+8.4.1.1 write with some support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+8.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a limited range of written genres in familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+8.5.1.1 use some abstract nouns and complex noun phrases on a range of familiar general and curricular topics;
+8.5.2.1 use a growing variety of quantifiers for countable and uncountable nouns including too much, too many, none any, enough;
+8.5.3.1 use a growing variety of compound adjectives and adjectives as participles and some comparative structures including not as…as, much …than to indicate degree on a range of familiar general and curricular topics;
+8.5.5.1 use questions which include a variety of different tense on a range of familiar general and curricular topics;
+8.5.7.1 use a variety of simple perfect forms to express recent, indefinite and unfinished past on a range of familiar general and curricular topics;
+8.5.9.1 use appropriately a variety of active and passive simple present and past forms and past perfect simple forms on a range of familiar general and curricular topics;
+8.5.14.1 use prepositions before nouns and adjectives in common prepositional phrases on a wide range of familiar general and curricular topics;
+8.5.15.1 use infinitive forms after a limited number of verbs and adjectives; use gerund forms after a limited variety of verbs and prepositions on a growing range of familiar general and curricular topics;
+8.5.16.1 use a growing variety of conjunctions including because, since, as to explain reasons on a range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 2</td>
+</tr>
+<tr>
+<td rowspan="5">Entertainment &amp; media</td>
+<td>Listening</td>
+<td>
+8.1.1.1 understand with little support the main points in extended talk on a limited range of general and curricular topics;
+8.1.4.1 understand supported narratives on a wide range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+8.2.1.1 use formal and informal registers in their talk on a limited range of general and curricular topics;
+8.2.3.1 give an opinion at sentence level on a growing range of general and curricular;
+8.2.6.1 begin to link comments with some flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+8.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+8.3.4.1 read a limited range of extended fiction and non-fiction texts on familiar and some unfamiliar general and curricular topics;
+8.3.8.1 use independently familiar paper and digital reference resources to check meaning and extend understanding;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+8.4.2.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+8.4.5.1 spell most high-frequency vocabulary accurately for a growing range of familiar general topics and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+8.5.2.1 use a growing variety of quantifiers for countable and uncountable nouns including too much, too many, none any, enough;
+8.5.4.1 use a variety of determiners including neither, either, on a range of familiar general and curricular topics;
+8.5.6.1 use a variety of possessive and reflexive pronouns including mine, yours, ours, theirs, hers, his, myself, yourself, themselves on a growing range of familiar general and curricular topics;
+8.5.8.1 use a growing variety of future forms including present continuous with future meaning on a range of familiar general and curricular topics;
+8.5.11.1 use some reported speech forms for statements on a range of familiar general and curricular topics;
+8.5.12.1 use an increased variety of adverbs, including adverbs of degree too, not enough, quite, rather on a growing range of familiar general and curricular topics;
+8.5.15.1 use infinitive forms after a limited number of verbs and adjectives; use gerund forms after a limited variety of verbs and prepositions on a growing range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td rowspan="5">Sport, health &amp; exercise</td>
+<td>Listening</td>
+<td>
+8.1.3.1 recognise the opinion of the speaker(s) in supported extended talk on a range of general and curricular topics;
+8.1.4.1 understand supported narratives on a wide range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+8.2.2.1 ask complex questions to get information about a limited range of general topics and some curricular topics;
+8.2.5.1 keep interaction with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+8.2.8.1 recount some extended stories and events on a range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+8.3.2.1 understand specific information and detail in texts on a range of familiar general and curricular topics;
+8.3.4.1 read a limited range of extended fiction and non-fiction texts on familiar and some unfamiliar general and curricular topics;
+8.3.7.1 recognise typical features at word, sentence and text level in a range of written genres;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+8.4.1.1 write with some support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+8.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a limited range of written genres in familiar general and curricular topics;
+8.4.4.1 link with little or no support, sentences into coherent paragraphs using a variety of basic connectors on a range of familiar general topics and some curricular topics;
+8.4.6.1 punctuate written work at text level on a limited range of general topics and some curricular topics with some accuracy;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+8.5.1.1 use some abstract nouns and complex noun phrases on a range of familiar general and curricular topics;
+8.5.3.1 use a growing variety of compound adjectives and adjectives as participles and some comparative structures including not as…as, much …than to indicate degree on a range of familiar general and curricular topics;
+8.5.5.1 use questions which include a variety of different tense on a range of familiar general and curricular topics;
+8.5.8.1 use a growing variety of future forms including present continuous with future meaning on a range of familiar general and curricular topics;
+8.5.11.1 use some reported speech forms for statements on a range of familiar general and curricular topics;
+8.5.14.1 use prepositions before nouns and adjectives in common prepositional phrases on a wide range of familiar general and curricular topics;
+8.5.16.1 use a growing variety of conjunctions including because, since, as to explain reasons on a range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 3</td>
+</tr>
+<tr>
+<td rowspan="5">Reading for pleasure</td>
+<td>Listening</td>
+<td>
+8.1.2.1 understand more complex supported questions on a growing range of general and curricular topics;
+8.1.4.1 understand supported narratives on a wide range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+8.2.1.1 use formal and informal registers in their talk on a limited range of general and curricular topics;
+8.2.3.1 give an opinion at sentence level on a growing range of general and curricular;
+8.2.5.1 keep interaction with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+8.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general topics, and some curricular topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+8.3.2.1 understand specific information and detail in texts on a range of familiar general and curricular topics;
+8.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+8.3.4.1 deduce meaning from context in short texts on a growing range of familiar general and curricular topics;
+8.3.6.1 recognise the attitude or opinion of the writer on a range of unfamiliar general and curricular topics;
+8.3.9.1 recognise the difference between fact and opinion in short, simple texts on a wide range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+8.4.1.1 write with some support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+8.4.6.1 punctuate written work at text level on a limited range of general topics and some curricular topics with some accuracy;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+8.5.2.1 use a growing variety of quantifiers for countable and uncountable nouns including too much, too many, none any, enough;
+8.5.4.1 use a variety of determiners including neither, either, on a range of familiar general and curricular topics;
+8.5.7.1 use a variety of simple perfect forms to express recent, indefinite and unfinished past on a range of familiar general and curricular topics;
+8.5.10.1 use present continuous forms for present and future meaning and past continuous, including some passive forms, on a range of familiar general and curricular topics;
+8.5.13.1 use a growing variety of modal forms for different functions: obligation, necessity, possibility, permission, requests, suggestions, prohibition on a range of familiar general and curricular topics;
+8.5.15.1 use infinitive forms after a limited number of verbs and adjectives; use gerund forms after a limited variety of verbs and prepositions on a growing range of familiar general and curricular topics;
+8.5.17.1 use if / unless in first conditional clauses; use defining relative clauses with which who that where on a wide range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td rowspan="5">The natural world</td>
+<td>Listening</td>
+<td>
+8.1.1.1 understand with little support the main points in extended talk on a limited range of general and curricular topics;
+8.1.1.4 understand supported narratives on a wide range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+8.2.2.1 ask complex questions to get information about a limited range of general topics and some curricular topics;
+8.2.6.1 begin to link comments with some flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+8.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+8.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+8.3.5.1 recognise the attitude or opinion of the writer on a range of unfamiliar general and curricular topics;
+8.3.7.1 use independently familiar paper and digital reference resources to check meaning and extend understanding;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+8.4.2.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+8.4.4.1 link with little or no support, sentences into coherent paragraphs using a variety of basic connectors on a range of familiar general topics and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+8.5.1.1 use some abstract nouns and complex noun phrases on a range of familiar general and curricular topics;
+8.5.3.1 use a growing variety of compound adjectives and adjectives as participles and some comparative structures including not as…as, much …than to indicate degree on a range of familiar general and curricular topics;
+8.5.5.1 use questions which include a variety of different tense on a range of familiar general and curricular topics;
+8.5.8.1 use a growing variety of future forms including present continuous with future meaning on a range of familiar general and curricular topics;
+8.5.12.1 use an increased variety of adverbs, including adverbs of degree too, not enough, quite, rather on a growing range of familiar general and curricular topics;
+8.5.16.1 use a growing variety of conjunctions including because, since, as to explain reasons on a range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 4</td>
+</tr>
+<tr>
+<td rowspan="5">Travel</td>
+<td>Listening</td>
+<td>
+8.1.2.1 understand more complex supported questions on a growing range of general and curricular topics;
+8.1.3.1 recognise the opinion of the speaker(s) in supported extended talk on a range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+8.2.1.1 use formal and informal registers in their talk on a limited range of general and curricular topics;
+8.2.3.1 give an opinion at sentence level on a growing range of general and curricular;
+8.2.4.1 respond with some flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+8.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general topics, and some curricular topics;
+8.2.8.1 recount some extended stories and events on a range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+8.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+8.3.4.1 read a limited range of extended fiction and non-fiction texts on familiar and some unfamiliar general and curricular topics;
+8.3.6.1 recognise typical features at word, sentence and text level in a range of written genres;
+8.3.9.1 recognise the difference between fact and opinion in short, simple texts on a wide range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+8.4.1.1 write with some support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+8.4.5.1 spell most high-frequency vocabulary accurately for a growing range of familiar general topics and some curricular topics;
+8.4.6.1 punctuate written work at text level on a limited range of general topics and some curricular topics with some accuracy;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+8.5.2.1 use a growing variety of quantifiers for countable and uncountable nouns including too much, too many, none any, enough;
+8.5.7.1 use a variety of simple perfect forms to express recent, indefinite and unfinished past on a range of familiar general and curricular topics;
+8.5.9.1 use appropriately a variety of active and passive simple present and past forms and past perfect simple forms on a range of familiar general and curricular topics;
+8.5.11.1 use some reported speech forms for statements on a range of familiar general and curricular topics;
+8.5.13.1 use a growing variety of modal forms for different functions: obligation, necessity, possibility, permission, requests, suggestions, prohibition on a range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td rowspan="5">Transport</td>
+<td>Listening</td>
+<td>
+8.1.2.1 understand more complex supported questions on a growing range of general and curricular topics;
+8.1.4.1 understand supported narratives on a wide range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+8.2.2.1 ask complex questions to get information about a limited range of general topics and some curricular topics;
+8.2.5.1 keep interaction with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+8.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general topics, and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+8.3.5.1 deduce meaning from context in short texts on a growing range of familiar general and curricular topics;
+8.3.8.1 use independently familiar paper and digital reference resources to check meaning and extend understanding;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+8.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a limited range of written genres in familiar general and curricular topics;
+8.4.5.1 spell most high-frequency vocabulary accurately for a growing range of familiar general topics and some curricular topics;
+8.4.6.1 punctuate written work at text level on a limited range of general topics and some curricular topics with some accuracy;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+8.5.1.1 use some abstract nouns and complex noun phrases on a range of familiar general and curricular topics;
+8.5.3.1 use a growing variety of compound adjectives and adjectives as participles and some comparative structures including not as…as, much …than to indicate degree on a range of familiar general and curricular topics;
+8.5.5.1 use questions which include a variety of different tense on a range of familiar general and curricular topics;
+8.5.7.1 use a variety of simple perfect forms to express recent, indefinite and unfinished past on a range of familiar general and curricular topics;
+8.5.9.1 use appropriately a variety of active and passive simple present and past forms and past perfect simple forms on a range of familiar general and curricular topics;
+8.5.12.1 use an increased variety of adverbs, including adverbs of degree too, not enough, quite, rather on a growing range of familiar general and curricular topics;
+8.5.14.1 use prepositions before nouns and adjectives in common prepositional phrases on a wide range of familiar general and curricular topics;
+8.5.17.1 use if / unless in first conditional clauses; use defining relative clauses with which who that where on a wide range of familiar general and curricular topics;
+</td>
+</tr>
+</table>
+
+5) grade 9
+
+table 5
+
+<table>
+<tr>
+<td>Unit</td>
+<td>Strand</td>
+<td>Learning objectives</td>
+</tr>
+<tr>
+<td colspan="3">Term 1</td>
+</tr>
+<tr>
+<td rowspan="5">Food and drinks</td>
+<td>Listening</td>
+<td>
+9.1.1.1 understand with little or no support the main points in extended talk on a wide range of general and curricular topics;
+9.1.3.1 recognise the opinion of the speaker(s) with little or no support in extended talk on a wide range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+9.2.1.1 use formal and informal registers in their talk on a growing range of general and curricular topics;
+9.2.4.1 respond with some flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+9.2.5.1 interact with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+9.2.8.1 recount some extended stories and events on a range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+9.3.2.1 understand specific information and detail in texts on a growing range of familiar general and curricular topics, including some extended texts;
+9.3.4.1 read a growing range of extended fiction and non-fiction texts on familiar and some unfamiliar general and curricular topics;
+9.3.6.1 recognise the attitude or opinion of the writer on a growing range of unfamiliar general and curricular topics, including some extended text;
+9.3.7.1 recognise typical features at word, sentence and text level in a range of written genres;
+9.3.9.1 recognise inconsistencies in argument in short texts on a limited range of general and curricular subjects;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+9.4.1.1 write with minimal support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+9.4.2.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+9.4.4.1 link, independently, sentences into coherent paragraphs using a variety of basic connectors on a range of familiar general topics and some curricular topics;
+9.4.5.1 spell most high-frequency vocabulary accurately for a range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+9.5.1.1 use some abstract nouns and complex noun phrases on a range of familiar general and curricular topics;
+9.5.3.1 use a growing variety of compound adjectives and adjectives as participles and some comparative structures including not as…as, much …than to indicate degree on a range of familiar general and curricular topics;
+9.5.6.1 use a variety of pronouns including indefinite pronouns anybody, anyone, anything and quantitative pronouns everyone, everything, none, more, less, a few on a range of familiar general and curricular topics;
+9.5.9.1 use appropriately a variety of active and passive simple present and past forms and past perfect simple forms in narrative and reported speech on a range of familiar general and curricular topics;
+9.5.10.1 use present continuous forms for present and future meaning and past continuous, including some passive forms, on a range of familiar general and curricular topics;
+9.5.13.1 use a growing variety of modal forms for different functions: obligation, necessity, possibility, permission, requests, suggestions, prohibition on a range of familiar general and curricular topics;
+9.5.15.1 use infinitive forms after a limited number of verbs and adjectives; use gerund forms after a limited variety of verbs and prepositions; use some prepositional verbs and begin to use common phrasal verbs on a growing range of familiar general and curricular topics;
+9.5.17.1 use if / unless/ if only in second conditional clauses and wish [that] clauses [present reference]; use a growing variety of relative clauses including why clauses on a range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td rowspan="5">The world of work</td>
+<td>Listening</td>
+<td>
+9.1.1.1 understand with little or no support the main points in extended talk on a wide range of general and curricular topics;
+9.1.2.1 understand with some support most of the detail of an argument in extended talk on a limited range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+9.2.2.1 ask more complex questions to get information about a limited range of general topics and some curricular topics;
+9.2.3.1 give an opinion at sentence level on a wide range of general and curricular;
+9.2.6.1 link comments with some flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+9.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+9.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+9.3.5.1 deduce meaning from context in short texts and some extended texts on a growing range of familiar general and curricular topics;
+9.3.8.1 use familiar and some unfamiliar paper and digital reference resources to check meaning and extend understanding;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+9.4.1.1 write with minimal support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+9.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a growing range of written genres in familiar general and curricular topics;
+9.4.5.1 link, independently, sentences into coherent paragraphs using a variety of basic connectors on a range of familiar general topics and some curricular topics;
+9.4.6.1 punctuate written work at text level on an increased range of general topics and some curricular topics with some accuracy;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+9.5.5.1 use questions which include a variety of different tense and modal forms on a range of familiar general and curricular topics;
+9.5.8.1 use a growing variety of future forms including present continuous and present simple with future meaning on a range of familiar general and curricular topics;
+9.5.11.1 use some reported speech forms for statements, questions and commands: say, ask, tell including reported requests on a range of familiar general and curricular topics;
+9.5.12.1 use comparative degree adverb structures not as quickly as / far less quickly with regular and irregular adverbs. Use an increased variety of pre-verbal, post-verbal and end-position adverbs on a range of familiar general and curricular topics;
+9.5.15.1 use infinitive forms after a limited number of verbs and adjectives; use gerund forms after a limited variety of verbs and prepositions; use some prepositional verbs and begin to use common phrasal verbs on a growing range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 2</td>
+</tr>
+<tr>
+<td rowspan="5">Hobbies</td>
+<td>Listening</td>
+<td>
+9.1.1.1 understand with little or no support the main points in extended talk on a wide range of general and curricular topics;
+9.1.2.1 understand with some support most of the detail of an argument in extended talk on a limited range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+9.2.1.1 use formal and informal registers in their talk on a growing range of general and curricular topics;
+9.2.4.1 respond with some flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+9.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general topics, and some curricular topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+9.3.2.1 understand specific information and detail in texts on a growing range of familiar general and curricular topics, including some extended texts;
+9.3.5.1 deduce meaning from context in short texts and some extended texts on a growing range of familiar general and curricular topics;
+9.3.7.1 recognise typical features at word, sentence and text level in a range of written genres;
+9.3.9.1 recognise inconsistencies in argument in short texts on a limited range of general and curricular subjects;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+9.4.2.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+9.4.5.1 spell most high-frequency vocabulary accurately for a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+9.5.1.1 use some abstract nouns and complex noun phrases on a range of familiar general and curricular topics;
+9.5.2.1 use a growing variety of quantifiers for countable and uncountable nouns including several, plenty, a large/small number/amount on a range of familiar general and curricular topics;
+9.5.8.1 use a growing variety of future forms including present continuous and present simple with future meaning on a range of familiar general and curricular topics;
+9.5.10.1 use present continuous forms for present and future meaning and past continuous, including some passive forms, on a range of familiar general and curricular topics;
+9.5.14.1 use prepositions before nouns and adjectives in common prepositional phrases on a wide range of familiar general and curricular topics;
+9.5.16.1 use a growing variety of conjunctions including since, as to explain reasons and the structures so ... that, such a ... that in giving explanations on a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td rowspan="5">Qualities</td>
+<td>Listening</td>
+<td>
+9.1.3.1 recognise the opinion of the speaker(s) with little or no support in extended talk on a wide range of general and curricular topics;
+8.1.4.1 understand supported narratives on a wide range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+9.2.2.1 ask more complex questions to get information about a limited range of general topics and some curricular topics;
+9.2.4.1 respond with some flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+9.2.6.1 link comments with some flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+9.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+9.3.2.1 understand specific information and detail in texts on a growing range of familiar general and curricular topics, including some extended texts;
+9.3.4.1 read a growing range of extended fiction and non-fiction texts on familiar and some unfamiliar general and curricular topics;
+9.3.6.1 recognise the attitude or opinion of the writer on a growing range of unfamiliar general and curricular topics, including some extended text;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+9.4.1.1 write with minimal support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+9.4.2.1 develop with support coherent arguments supported when necessary by examples and reasons for a growing range of written genres in familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+9.5.1.1 use some abstract nouns and complex noun phrases on a range of familiar general and curricular topics;
+9.5.4.1 use an increased variety of determiners including all, half, both [of] in pre-determiner function on a range of familiar general and curricular topics;
+9.5.8.1 use a growing variety of future forms including present continuous and present simple with future meaning on a range of familiar general and curricular topics;
+9.5.12.1 use comparative degree adverb structures not as quickly as / far less quickly with regular and irregular adverbs. Use an increased variety of pre-verbal, post-verbal and end-position adverbs on a range of familiar general and curricular topics;
+9.5.14.1 use prepositions before nouns and adjectives in common prepositional phrases on a wide range of familiar general and curricular topics;
+9.5.15.1 use infinitive forms after a limited number of verbs and adjectives; use gerund forms after a limited variety of verbs and prepositions; use some prepositional verbs and begin to use common phrasal verbs on a growing range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 3</td>
+</tr>
+<tr>
+<td rowspan="5">Exercise &amp; sport</td>
+<td>Listening</td>
+<td>
+9.1.2.1 understand with some support most of the detail of an argument in extended talk on a limited range of general and curricular topics;
+9.1.4.1 understand extended narratives on a wide range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+9.2.1.1 use formal and informal registers in their talk on a growing range of general and curricular topics;
+9.2.3.1 give an opinion at sentence level on a wide range of general and curricular;
+9.2.5.1 interact with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+9.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general topics, and some curricular topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+9.3.2.1 understand specific information and detail in texts on a growing range of familiar general and curricular topics, including some extended texts;
+9.3.4.1 read a growing range of extended fiction and non-fiction texts on familiar and some unfamiliar general and curricular topics;
+9.3.7.1 recognise typical features at word, sentence and text level in a range of written genres;
+9.3.9.1 recognise inconsistencies in argument in short texts on a limited range of general and curricular subjects;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+9.4.2.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+9.4.4.1 link, independently, sentences into coherent paragraphs using a variety of basic connectors on a range of familiar general topics and some curricular topics;
+9.4.5.1 spell most high-frequency vocabulary accurately for a range of familiar general and curricular topics;
+9.4.6.1 punctuate written work at text level on an increased range of general topics and some curricular topics with some accuracy;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+9.5.3.1 use a growing variety of compound adjectives and adjectives as participles and some comparative structures including not as…as, much …than to indicate degree on a range of familiar general and curricular topics;
+9.5.6.1 use a variety of pronouns including indefinite pronouns anybody, anyone, anything and quantitative pronouns everyone, everything, none, more, less, a few on a range of familiar general and curricular topics;
+9.5.8.1 use a growing variety of future forms including present continuous and present simple with future meaning on a range of familiar general and curricular topics;
+9.5.10.1 use present continuous forms for present and future meaning and past continuous, including some passive forms, on a range of familiar general and curricular topics;
+9.5.12.1 use comparative degree adverb structures not as quickly as / far less quickly with regular and irregular adverbs. Use an increased variety of pre-verbal, post-verbal and end-position adverbs on a range of familiar general and curricular topics;
+9.5.15.1 use infinitive forms after a limited number of verbs and adjectives; use gerund forms after a limited variety of verbs and prepositions; use some prepositional verbs and begin to use common phrasal verbs on a growing range of familiar general and curricular topics;
+9.5.17.1 use if / unless/ if only in second conditional clauses and wish [that] clauses [present reference]; use a growing variety of relative clauses including why clauses on a range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td rowspan="5">Earth &amp; our place on it</td>
+<td>Listening</td>
+<td>
+9.1.2.1 understand with some support most of the detail of an argument in extended talk on a limited range of general and curricular topics;
+9.1.4.1 understand extended narratives on a wide range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+9.2.2.1 ask more complex questions to get information about a limited range of general topics and some curricular topics;
+9.2.4.1 respond with some flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+9.2.8.1 recount some extended stories and events on a range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+9.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+9.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+9.3.5.1 deduce meaning from context in short texts and some extended texts on a growing range of familiar general and curricular topics;
+9.3.8.1 use familiar and some unfamiliar paper and digital reference resources to check meaning and extend understanding;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+9.4.1.1 write with minimal support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics
+9.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a growing range of written genres in familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+9.5.4.1 use an increased variety of determiners including all, half, both [of] in pre-determiner function on a range of familiar general and curricular topics;
+9.5.7.1 use a variety of simple perfect forms to express recent, indefinite and unfinished past on a range of familiar general and curricular topics;
+9.5.9.1 use appropriately a variety of active and passive simple present and past forms and past perfect simple forms in narrative and reported speech on a range of familiar general and curricular topics;
+9.5.11.1 use some reported speech forms for statements, questions and commands: say, ask, tell including reported requests on a range of familiar general and curricular topics;
+9.5.13.1 use a growing variety of modal forms for different functions: obligation, necessity, possibility, permission, requests, suggestions, prohibition on a range of familiar general and curricular topics;
+9.5.14.1 use prepositions before nouns and adjectives in common prepositional phrases on a wide range of familiar general and curricular topics;
+9.5.16.1 use a growing variety of conjunctions including since, as to explain reasons and the structures so ... that, such a ... that in giving explanations on a range of familiar general and curricular topics;
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 4</td>
+</tr>
+<tr>
+<td rowspan="5">Earth &amp; our place on it</td>
+<td>Listening</td>
+<td>
+9.1.1.1 understand with little or no support the main points in extended talk on a wide range of general and curricular topics;
+9.1.4.1 understand extended narratives on a wide range of general and curricular topics.
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+9.2.1.1 use formal and informal registers in their talk on a growing range of general and curricular topics;
+9.2.3.1 give an opinion at sentence level on a wide range of general and curricular;
+9.2.5.1 interact with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+9.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general topics, and some curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+9.3.2.1 understand specific information and detail in texts on a growing range of familiar general and curricular topics, including some extended texts;
+9.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+9.3.6.1 recognise the attitude or opinion of the writer on a growing range of unfamiliar general and curricular topics, including some extended text;
+9.3.9.1 recognise inconsistencies in argument in short texts on a limited range of general and curricular subjects;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+9.4.2.1 use with some support style and register appropriate to a limited variety of written genres on general and curricular topics;
+9.4.5.1 spell most high-frequency vocabulary accurately for a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+9.5.1.1 use some abstract nouns and complex noun phrases on a range of familiar general and curricular topics;
+9.5.5.1 use questions which include a variety of different tense and modal forms on a range of familiar general and curricular topics;
+9.5.7.1 use a variety of simple perfect forms to express recent, indefinite and unfinished past on a range of familiar general and curricular topics;
+9.5.8.1 use a growing variety of future forms including present continuous and present simple with future meaning on a range of familiar general and curricular topics;
+9.5.10.1 use present continuous forms for present and future meaning and past continuous, including some passive forms, on a range of familiar general and curricular topics;
+9.5.12.1 use comparative degree adverb structures not as quickly as / far less quickly with regular and irregular adverbs. Use an increased variety of pre-verbal, post-verbal and end-position adverbs on a range of familiar general and curricular topics;
+9.5.13.1 use a growing variety of modal forms for different functions: obligation, necessity, possibility, permission, requests, suggestions, prohibition on a range of familiar general and curricular topics;
+9.5.16.1 use a growing variety of conjunctions including since, as to explain reasons and the structures so ... that, such a ... that in giving explanations on a range of familiar general and curricular topics;
+9.5.17.1 use if / unless/ if only in second conditional clauses and wish [that] clauses [present reference]; use a growing variety of relative clauses including why clauses on a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td rowspan="5">Charities &amp; conflicts</td>
+<td>Listening</td>
+<td>
+9.1.2.1 understand with some support most of the detail of an argument in extended talk on a limited range of general and curricular topics;
+9.1.3.1 recognise the opinion of the speaker(s) with little or no support in extended talk on a wide range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+9.2.2.1 ask more complex questions to get information about a limited range of general topics and some curricular topics;
+9.2.4.1 respond with some flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+9.2.6.1 link comments with some flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges;
+9.2.8.1 recount some extended stories and events on a range of general and curricular topics;
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+9.3.1.1 understand the main points in texts on a limited range of unfamiliar general and curricular topics;
+9.3.3.1 understand the detail of an argument on a limited range of familiar general and curricular topics, including some extended texts;
+9.3.5.1 deduce meaning from context in short texts and some extended texts on a growing range of familiar general and curricular topics;
+9.3.5.1 recognise typical features at word, sentence and text level in a range of written genres;
+9.3.8.1 use familiar and some unfamiliar paper and digital reference resources to check meaning and extend understanding;
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+9.4.1.1 write with minimal support about real and imaginary past events, activities and experiences on a growing range of familiar general topics and some curricular topics;
+9.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a growing range of written genres in familiar general and curricular topics;
+9.4.5.1 link, independently, sentences into coherent paragraphs using a variety of basic connectors on a range of familiar general topics and some curricular topics;
+9.4.6.1 punctuate written work at text level on an increased range of general topics and some curricular topics with some accuracy;
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+9.5.2.1 use a growing variety of quantifiers for countable and uncountable nouns including several, plenty, a large/small number/amount on a range of familiar general and curricular topics;
+9.5.4.1 use an increased variety of determiners including all, half, both [of] in pre-determiner function on a range of familiar general and curricular topics;
+9.5.7.1 use a variety of simple perfect forms to express recent, indefinite and unfinished past on a range of familiar general and curricular topics;
+9.5.9.1 use appropriately a variety of active and passive simple present and past forms and past perfect simple forms in narrative and reported speech on a range of familiar general and curricular topics;
+9.5.14.1 use prepositions before nouns and adjectives in common prepositional phrases on a wide range of familiar general and curricular topics;
+9.5.16.1 use a growing variety of conjunctions including since, as to explain reasons and the structures so ... that, such a ... that in giving explanations on a range of familiar general and curricular topics;
+</td>
+</tr>
+</table>
+
+6) grade 10
+
+table 11
+
+<table>
+<tr>
+<td>Unit</td>
+<td>Strand</td>
+<td>Learning objectives</td>
+</tr>
+<tr>
+<td colspan="3">Term 1</td>
+</tr>
+<tr>
+<td rowspan="5">Reading for pleasure</td>
+<td>Listening</td>
+<td>
+10.1.1.1 understand with little or no support the main points in extended talk on a wide range of general and curricular topics;
+10.1.3.1 recognize the opinion of the speaker(s) in unsupported extended talk on a wide range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+10.2.2.1 ask complex questions to get information on a range of general and curricular topics;
+10.2.5.1 interact with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+10.2.6.1 link comments with growing flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges;
+10.2.8.1 recount some extended stories and events on a range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+10.3.1.1 understand the main points in extended texts on a range of unfamiliar general and curricular topics;
+10.3.5.1 deduce meaning from context in extended texts on a range of familiar general and curricular topics;
+10.3.8.1 use a range of familiar and unfamiliar paper and digital reference resources to check meaning and extend understanding
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+10.4.1.1 write independently about factual and imaginary past events, activities and experiences on a range of familiar general and curricular topics;
+10.4.4.1 write coherently at text level using a variety of connectors on a growing range of familiar general and curricular topics;
+10.4.5.1 spell most high-frequency vocabulary accurately for a wide range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+10.5.1.1 use a growing variety of abstract compound nouns and complex noun phrases on a range of familiar general and curricular topics;
+10.5.6.1 use relative, demonstrative, indefinite, quantitative pronouns and a variety of reflexive pronoun structures on a range of familiar general and curricular topics;
+10.5.8.1 use a variety of future forms, including some passives, on a range of familiar general and curricular topics;
+10.5.11.1 use an increased variety of reported speech forms for statements, questions and commands, including indirect and embedded questions with know, wonder on a range of familiar general and curricular topics;
+10.5.13.1 use a variety of modal forms for different functions and a limited number of past modal forms including should/ shouldn’t have to express regret and criticism on range of familiar general and curricular topics;
+10.5.17.1 use if only /wish [that] clauses [past reference]; use a variety of relative clauses including prepositions from where, to whom on a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td rowspan="5">Reading for pleasure</td>
+<td>Listening</td>
+<td>
+10.1.2.1 understand with some support or unsupported most of the detail of an argument in extended talk on a limited range of general and curricular topics;
+10.1.4.1 begin to recognize inconsistencies in argument in extended talk on a growing range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+10.2.4.1 respond with growing flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+10.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+10.3.3.1 understand the detail of an argument in extended texts on a range of familiar general and curricular topics;
+10.3.5.1 deduce meaning from context in extended texts on a range of familiar general and curricular topics;
+10.3.9.1 recognise inconsistencies in argument in extended texts on a range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+10.4.2.1 use with minimal or no support style and register appropriate to a growing variety of written genres on general and curricular topics;
+10.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a wide range of written genres;
+10.4.6.1 punctuate written work at text level on a wide range of general topics and some curricular topics with some accuracy
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+10.5.4.1 use a wide variety of determiners and pre-determiner structures on a range of familiar general and curricular topics;
+10.5.6.1 use relative, demonstrative, indefinite, quantitative pronouns and a variety of reflexive pronoun structures on a range of familiar general and curricular topics;
+10.5.7.1 use a variety of simple perfect forms including some passive forms, including time adverbials on a range of familiar general and curricular topics;
+10.5.9.1 use appropriately an increased variety of active and passive simple present and past forms and past perfect simple forms in narrative and reported speech on a range of familiar general and curricular topics;
+10.5.10.1 use present continuous forms and past continuous, including a growing variety of passive forms, on a range of familiar general and curricular topics;
+10.5.14.1 use an increased variety of prepositions before nouns and adjectives; use a growing number of dependent prepositions following nouns, adjectives and verbs on a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 2</td>
+</tr>
+<tr>
+<td rowspan="5">Traditions &amp; language</td>
+<td>Listening</td>
+<td>10.1.3.1 recognize the opinion of the speaker(s) in unsupported extended talk on a wide range of general and curricular topics</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+10.2.1.1 use formal and informal registers in their talk on a range of general and curricular topics;
+10.2.3.1 explain and justify their own point of view on a range of general and curricular topics
+10.2.6.1 link comments with growing flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+10.3.2.1 understand specific information and detail in texts on a range of familiar general and curricular topics, including some extended texts;
+10.3.8.1 use a range of familiar and unfamiliar paper and digital reference resources to check meaning and extend understanding;
+10.3.9.1 recognise inconsistencies in argument in extended texts on a range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+10.4.1.1 write independently about factual and imaginary past events, activities and experiences on a range of familiar general and curricular topics;
+10.4.2.1 use with minimal or no support style and register appropriate to a growing variety of written genres on general and curricular topics;
+10.4.4.1 write coherently at text level using a variety of connectors on a growing range of familiar general and curricular topics;
+10.4.6.1 punctuate written work at text level on a wide range of general topics and some curricular topics with some accuracy
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+10.5.1.1 use a growing variety of abstract compound nouns and complex noun phrases on a range of familiar general and curricular topics;
+10.5.3.1 use a variety of compound adjectives and adjectives as participles and a variety of comparative structures to indicate degree on a range of familiar general and curricular topics;
+10.5.6.1 use relative, demonstrative, indefinite, quantitative pronouns and a variety of reflexive pronoun structures on a range of familiar general and curricular topics;
+10.5.9.1 use appropriately an increased variety of active and passive simple present and past forms and past perfect simple forms in narrative and reported speech on a range of familiar general and curricular topics;
+10.5.13.1 use a variety of modal forms for different functions and a limited number of past modal forms including should/ shouldn’t have to express regret and criticism on range of familiar general and curricular topics;
+10.5.16.1 use a variety of conjunctions including so that, (in order to) to indicate purpose although, while, whereas to contrast on a range of familiar general and curricular topics;
+10.5.17.1 use if only /wish [that] clauses [past reference]; use a variety of relative clauses including prepositions from where, to whom on a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td rowspan="5">Traditions &amp; language</td>
+<td>Listening</td>
+<td>
+10.1.1.1 understand with little or no support the main points in extended talk on a wide range of general and curricular topics;
+10.1.4.1 begin to recognize inconsistencies in argument in extended talk on a growing range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+10.2.2.1 ask complex questions to get information on a range of general and curricular topics;
+10.2.4.1 respond with growing flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics;
+10.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+10.3.1.1 understand the main points in extended texts on a range of unfamiliar general and curricular topics;
+10.3.4.1 read a range of extended fiction and non-fiction texts on familiar and unfamiliar general and curricular topics;
+10.3.5.1 deduce meaning from context in extended texts on a range of familiar general and curricular topics;
+10.3.7.1 recognise typical features at word, sentence and text level in a wide range of written genres
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+10.4.1.1 write independently about factual and imaginary past events, activities and experiences on a range of familiar general and curricular topics;
+10.4.3.1 develop with support coherent arguments supported when necessary by examples and reasons for a wide range of written genres
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+10.5.2.1 use a variety of quantifiers for countable and uncountable nouns and some noun phrases on a range of familiar general and curricular topics including majority of, minority of, a great deal of, a great number of;
+10.5.4.1 use a wide variety of determiners and pre-determiner structures on a range of familiar general and curricular topics;
+10.5.8.1 use a variety of future forms, including some passives, on a range of familiar general and curricular topics;
+10.5.11.1 use an increased variety of reported speech forms for statements, questions and commands, including indirect and embedded questions with know, wonder on a range of familiar general and curricular topics;
+10.5.15.1 use infinitive forms after a growing number of adjectives and verbs; use gerund forms after a growing variety of verbs and prepositions; use an increased variety of prepositional verbs and phrasal verbs on a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 3</td>
+</tr>
+<tr>
+<td rowspan="5">Music and films</td>
+<td>Listening</td>
+<td>10.1.2.1 understand with some support or unsupported most of the detail of an argument in extended talk on a limited range of general and curricular topics</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+10.2.1.1 use formal and informal registers in their talk on a range of general and curricular topics;
+10.2.5.1 interact with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+10.2.8.1 recount some extended stories and events on a range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+10.3.3.1 understand the detail of an argument in extended texts on a range of familiar general and curricular topics;
+10.3.4.1 read a range of extended fiction and non-fiction texts on familiar and unfamiliar general and curricular topics;
+10.3.6.1 recognise the attitude or opinion of the writer in extended texts on a range of familiar general and curricular topics;
+10.3.8.1 use a range of familiar and unfamiliar paper and digital reference resources to check meaning and extend understanding;
+10.3.9.1 recognise inconsistencies in argument in extended texts on a range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+10.4.2.1 use with minimal or no support style and register appropriate to a growing variety of written genres on general and curricular topics;
+10.4.4.1 write coherently at text level using a variety of connectors on a growing range of familiar general and curricular topics;
+10.4.6.1 punctuate written work at text level on a wide range of general topics and some curricular topics with some accuracy
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+10.5.1.1 use a growing variety of abstract compound nouns and complex noun phrases on a range of familiar general and curricular topics;
+10.5.4.1 use a wide variety of determiners and pre-determiner structures on a range of familiar general and curricular topics;
+10.5.7.1 use a variety of simple perfect forms including some passive forms, including time adverbials on a range of familiar general and curricular topics;
+10.5.9.1 use appropriately an increased variety of active and passive simple present and past forms and past perfect simple forms in narrative and reported speech on a range of familiar general and curricular topics;
+10.5.12.1 use comparative degree adverb structures not as quickly as / far less quickly with regular and irregular adverbs. Use an increased variety of pre-verbal, post-verbal and end-position adverbs on a range of familiar general and curricular topics;
+10.5.14.1 use an increased variety of prepositions before nouns and adjectives; use a growing number of dependent prepositions following nouns, adjectives and verbs on a range of familiar general and curricular topics;
+10.5.15.1 use infinitive forms after a growing number of adjectives and verbs; use gerund forms after a growing variety of verbs and prepositions; use an increased variety of prepositional verbs and phrasal verbs on a range of familiar general and curricular topics;
+10.5.17.1 use if only /wish [that] clauses [past reference]; use a variety of relative clauses including prepositions from where, to whom on a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td rowspan="5">Travel &amp; tourism</td>
+<td>Listening</td>
+<td>
+10.1.2.1 understand with some support or unsupported most of the detail of an argument in extended talk on a limited range of general and curricular topics;
+10.1.4.1 begin to recognize inconsistencies in argument in extended talk on a growing range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+10.2.1.1 use formal and informal registers in their talk on a range of general and curricular topics;
+10.2.3.1 explain and justify their own point of view on a range of general and curricular topics;
+10.2.4.1 respond with growing flexibility at sentence level to unexpected comments on an increasing range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+10.3.2.1 understand specific information and detail in texts on a range of familiar general and curricular topics, including some extended texts;
+10.3.4.1 read a range of extended fiction and non-fiction texts on familiar and unfamiliar general and curricular topics;
+10.3.7.1 recognise typical features at word, sentence and text level in a wide range of written genres
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>10.4.5.1 spell most high-frequency vocabulary accurately for a wide range of familiar general and curricular topics</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+10.5.2.1 use a variety of quantifiers for countable and uncountable nouns and some noun phrases on a range of familiar general and curricular topics including majority of, minority of, a great deal of, a great number of;
+10.5.5.1 use questions including prepositions at what time, in which direction, from who’s on a range of familiar general and curricular topics;
+10.5.8.1 use a variety of future forms, including some passives, on a range of familiar general and curricular topics;
+10.5.10.1 use present continuous forms and past continuous, including a growing variety of passive forms, on a range of familiar general and curricular topics;
+10.5.15.1 use infinitive forms after a growing number of adjectives and verbs; use gerund forms after a growing variety of verbs and prepositions; use an increased variety of prepositional verbs and phrasal verbs on a range of familiar general and curricular topics;
+10.5.16.1 use a variety of conjunctions including so that, (in order to) to indicate purpose although, while, whereas to contrast on a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td colspan="3">Term 4</td>
+</tr>
+<tr>
+<td rowspan="5">Science</td>
+<td>Listening</td>
+<td>10.1.4.1 begin to recognize inconsistencies in argument in extended talk on a growing range of general and curricular topics</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+10.2.1.1 use formal and informal registers in their talk on a range of general and curricular topics;
+10.2.2.1 ask complex questions to get information on a range of general and curricular topics;
+10.2.6.1 link comments with growing flexibility to what others say at sentence and discourse level in pair, group and whole class exchanges;
+10.2.8.1 recount some extended stories and events on a range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+10.3.1.1 understand the main points in extended texts on a range of unfamiliar general and curricular topics;
+10.3.3.1 understand the detail of an argument in extended texts on a range of familiar general and curricular topics;
+10.3.6.1 recognise the attitude or opinion of the writer in extended texts on a range of familiar general and curricular topics;
+10.3.8.1 use a range of familiar and unfamiliar paper and digital reference resources to check meaning and extend understanding
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>
+10.4.5.1 spell most high-frequency vocabulary accurately for a wide range of familiar general and curricular topics;
+10.4.6.1 punctuate written work at text level on a wide range of general topics and some curricular topics with some accuracy
+</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+10.5.3.1 use a variety of compound adjectives and adjectives as participles and a variety of comparative structures to indicate degree on a range of familiar general and curricular topics;
+10.5.7.1 use a variety of simple perfect forms including some passive forms, including time adverbials on a range of familiar general and curricular topics;
+10.5.9.1 use appropriately an increased variety of active and passive simple present and past forms and past perfect simple forms in narrative and reported speech on a range of familiar general and curricular topics
+</td>
+</tr>
+<tr>
+<td rowspan="5">Technology</td>
+<td>Listening</td>
+<td>
+10.1.1.1 understand with little or no support the main points in extended talk on a wide range of general and curricular topics;
+10.1.3.1 recognize the opinion of the speaker(s) in unsupported extended talk on a wide range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Speaking</td>
+<td>
+10.2.2.1 ask complex questions to get information on a range of general and curricular topics;
+10.2.3.1 explain and justify their own point of view on a range of general and curricular topics;
+10.2.5.1 interact with peers to negotiate, agree and organize priorities and plans for completing classroom tasks;
+10.2.7.1 use appropriate subject-specific vocabulary and syntax to talk about a growing range of general
+</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>
+10.3.2.1 understand specific information and detail in texts on a range of familiar general and curricular topics, including some extended texts;
+10.3.4.1 read a range of extended fiction and non-fiction texts on familiar and unfamiliar general and curricular topics;
+10.3.6.1 recognise the attitude or opinion of the writer in extended texts on a range of familiar general and curricular topics;
+10.3.7.1 recognise typical features at word, sentence and text level in a wide range of written genres;
+10.3.9.1 recognise inconsistencies in argument in extended texts on a range of general and curricular topics
+</td>
+</tr>
+<tr>
+<td>Writing</td>
+<td>10.4.5.1 spell most high-frequency vocabulary accurately for a wide range of familiar general and curricular topics</td>
+</tr>
+<tr>
+<td>Use of English</td>
+<td>
+10.5.3.1 use a variety of compound adjectives and adjectives as participles and a variety of comparative structures to indicate degree on a range of familiar general and curricular topics;
+10.5.5.1 use questions including prepositions at what time, in which direction, from who’s on a range of familiar general and curricular topics;
+10.5.8.1 use a variety of future forms, including some passives, on a range of familiar general and curricular topics;
+10.5.10.1 use present continuous forms and past continuous, including a growing variety of passive forms, on a range of familiar general and curricular topics;
+10.5.12.1 use comparative degree adverb structures not as quickly as / far less quickly with regular and irregular adverbs. Use an increased variety of pre-verbal, post-verbal and end-position adverbs on a range of familiar general and curricular topics
+10.5.15.1 use infinitive forms after a growing number of adjectives and verbs; use gerund forms after a growing variety of verbs and prepositions; use an increased variety of prepositional verbs and phrasal verbs on a range of familiar general and curricular topics;
+10.5.16.1 use a variety of conjunctions including so that, (in order to) to indicate purpose although, while, whereas to contrast on a range of familiar general and curricular topics;
+10.5.17.1 use if only /wish [that] clauses [past reference]; use a variety of relative clauses including prepositions from where, to whom on a range of familiar general and curricular topics
+</td>
 </tr>
 </table>
