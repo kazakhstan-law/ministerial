@@ -1,5 +1,5 @@
 ---
-version_id: '116289_586939'
+version_id: '116289_595251'
 act_code: '116289'
 language: rus
 title: Об утверждении форм судебных отчетов в гражданско-правовой сфере и Инструкции по их формированию
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '107000000000'
 approval_date: 2017-11-02
-version_date: 2022-07-12
+version_date: 2022-09-16
 registry_number: '116289'
 caused_by:
-  code: '169882'
-  title: О внесении изменений в приказ Генерального Прокурора Республики Казахстан от 2 ноября 2017 года № 124 «Об утверждении форм судебных статистических отчетов в гражданско-правовой сфере и Инструкции по их формированию»
-  link: https://zan.gov.kz/client/#!/doc/169882/rus
-source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
+  code: '171726'
+  title: О внесении изменений в некоторые приказы Генерального Прокурора Республики Казахстан в сфере правовой статистики и специальных учетов
+  link: https://zan.gov.kz/client/#!/doc/171726/rus
+source: https://zan.gov.kz/client/#!/doc/116289/rus/16.09.2022
 ---
 
 # Об утверждении форм судебных отчетов в гражданско-правовой сфере и Инструкции по их формированию
@@ -46,7 +46,9 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
    7) форму «Электронный информационный учетный документ 3 на гражданское дело, рассмотренное судом в кассационной инстанции» согласно приложению 7 к настоящему приказу;
 
-   8) Инструкцию о вводе электронных информационных учетных документов в информационную систему судебных органов Республики Казахстан и формировании отчетов в гражданско-правовой сфере согласно приложению 8 к настоящему приказу.
+   8) Инструкцию о вводе электронных информационных учетных документов в информационную систему судебных органов Республики Казахстан и формировании судебных отчетов в гражданско-правовой сфере согласно приложению 8 к настоящему приказу.
+
+> *Сноска. Пункт 1 в редакции приказа Генерального Прокурора РК от 16.09.2022 № 185 (вводится в действие после дня его первого официального опубликования).*
 
 2. Признать утратившим силу приказ Генерального Прокурора Республики Казахстан от 30 марта 2016 года № 52 «Об утверждении форм судебных статистических отчетов в гражданско-правовой сфере и Инструкции по их формированию» (зарегистрирован в Реестре государственной регистрации нормативных правовых актов за № 13690, опубликован 20 мая 2016 года в информационно-правовой системе «Әділет»).
 
@@ -84,22 +86,2089 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 > *от 2 ноября 2017 года*  
 > *№ 124*
 
-> *Сноска. Форма № 2 в редакции приказа Генерального Прокурора РК от 19.11.2019 № 148 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 20.11.2020 № 141 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказов Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021); от 12.07.2022 № 149 (вводится в действие после дня его первого официального опубликования).*
+> *Сноска. Форма № 2 в редакции приказа Генерального Прокурора РК от 19.11.2019 № 148 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 20.11.2020 № 141 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказов Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021); от 12.07.2022 № 149 (вводится в действие после дня его первого официального опубликования); с изменением, внесенным приказом Генерального Прокурора РК от 16.09.2022 № 185 (вводится в действие после дня его первого официального опубликования).*
 
 форма
 
-Форма № 2 Отчет по рассмотрению гражданских дел судами первой инстанции
+Форма № 2 «Отчет по рассмотрению гражданских дел судами первой инстанции»
 
 Таблица А «Движение и результаты рассмотрения гражданских дел»
 
 <table>
 <tr>
-<td colspan="13" rowspan="3">Категории споров</td>
-<td colspan="2" rowspan="3">Код строки</td>
-<td colspan="2" rowspan="3">Остаток неоконченных дел на начало отчетного периода</td>
-<td colspan="2" rowspan="3">Поступило дел за отчетный период</td>
-<td colspan="2" rowspan="3">Возобновлено производств по делам в связи с отменой первоначальных судебных актов по вновь открывшимся обстоятельствам</td>
-<td colspan="2" rowspan="3">Остаток исков/заявлений на начало отчетного периода</td>
+<td colspan="13">Категории споров</td>
+<td colspan="2">Код строки</td>
+<td colspan="2">Остаток неоконченных дел на начало отчетного периода</td>
+<td colspan="2">Поступило дел за отчетный период</td>
+<td colspan="2">Возобновлено производств по делам в связи с отменой первоначальных судебных актов по вновь открывшимся обстоятельствам</td>
+<td>Остаток исков/заявлений на начало отчетного периода</td>
+</tr>
+<tr>
+<td colspan="13">А</td>
+<td colspan="2">Б</td>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+</tr>
+<tr>
+<td rowspan="19">ДЕЛА ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
+<td colspan="12">О взыскании алиментов на содержание несовершеннолетних детей, не связанных с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О возмещении расходов по розыску ответчика и (или) ребенка, заявленных уполномоченными органами</td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О взыскании сумм, затраченных на обучение курсантов учебных заведений, прекративших по собственному желанию обучение либо прохождение службы, а также уволенных или отчисленных по основаниям, предусмотренным законодательством Республики Казахстан, до истечения предусмотренного договором срока</td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О взыскании государственных грантов, подъемных, пособий с молодых специалистов, направленных в сельскую местность, в случае неисполнения или ненадлежащего исполнения ими обязательств по договорам</td>
+<td colspan="2">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
+<td colspan="2">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О взыскании с физических лиц задолженности по таможенным платежам, налогам, специальным, антидемпинговым, компенсационным пошлинам, пеней, процентов</td>
+<td colspan="2">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об исполнении соглашений по спорам, связанным с предпринимательской, инвестиционной деятельностью, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="2">10</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="2">11</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об исполнении соглашений по спорам в сфере защиты прав потребителей, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="2">12</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="2">13</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О взыскании арендных платежей ввиду их неуплаты в сроки, установленные договором аренды, заявленным государственным органом</td>
+<td colspan="2">14</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="2">15</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об исполнении соглашений по спорам о публикации опровержения сведений, порочащих честь, достоинство или деловую репутацию гражданина и деловую репутацию юридического лица, либо ответа в средстве массовой информации</td>
+<td colspan="2">16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="2">17</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О перечислении обязательных пенсионных отчислений в Единый накопительный пенсионный фонд</td>
+<td colspan="2">18</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
+<td colspan="2">19</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="141">ДЕЛА ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td colspan="12">Трудовые споры</td>
+<td colspan="2">20</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="4">в том числе</td>
+<td colspan="9">о восстановлении на работе уволенных</td>
+<td colspan="2">21</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о восстановлении на работе уволенных, в том числе с выплатой заработной платы</td>
+<td colspan="2">22</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о выплате заработной платы и иных платежей</td>
+<td colspan="2">23</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об оспаривании приказов о наложении дисциплинарных взысканий за совершение коррупционных правонарушений</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, возникающие из брачно-семейных отношений</td>
+<td colspan="2">25</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="17">в том числе</td>
+<td colspan="9">о взыскании алиментов на содержание несовершеннолетних детей</td>
+<td colspan="2">26</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">из них</td>
+<td colspan="5">с установлением отцовства (материнства)</td>
+<td colspan="2">27</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об установлении отцовства (без требования о взыскании алиментов)</td>
+<td colspan="2">28</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о взыскании алиментов на время обучения</td>
+<td colspan="2">29</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о взыскании алиментов на содержание супруги (супруга)</td>
+<td colspan="2">30</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о взыскании алиментов на содержание родителей</td>
+<td colspan="2">31</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о снижении (увеличении) размера взыскиваемых алиментов, приостановлении взыскания алиментов</td>
+<td colspan="2">32</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о лишении родительских прав</td>
+<td colspan="2">33</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о восстановлении родительских прав</td>
+<td colspan="2">34</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об ограничении родительских прав</td>
+<td colspan="2">35</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об определении местожительства детей</td>
+<td colspan="2">36</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об определении порядка общения с детьми</td>
+<td colspan="2">37</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об отмене усыновления (удочерения)</td>
+<td colspan="2">38</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о расторжении брака</td>
+<td colspan="2">39</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">из них</td>
+<td colspan="5">лиц, имеющих несовершеннолетних детей</td>
+<td colspan="2">40</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о разделе имущества между супругами</td>
+<td colspan="2">41</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">споры, связанные с брачным договором</td>
+<td colspan="2">42</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры по вопросам наследственного права</td>
+<td colspan="2">43</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры о праве собственности на имущество</td>
+<td colspan="2">44</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="8">в том числе</td>
+<td colspan="9">об освобождении имущества от ареста</td>
+<td colspan="2">45</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о выделении доли из имущества</td>
+<td colspan="2">46</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об обязании освободить незаконно занимаемое нежилое помещение</td>
+<td colspan="2">47</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об истребовании из чужого незаконного владения</td>
+<td colspan="2">48</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о прекращении права собственности</td>
+<td colspan="2">49</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об оспаривании результатов оценки имущества</td>
+<td colspan="2">50</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о незаконном захвате имущества юридических и физических лиц</td>
+<td colspan="2">51</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">споры о праве собственности на жилище</td>
+<td colspan="2">52</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, возникающие из жилищных правоотношений</td>
+<td colspan="2">53</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="9">из них</td>
+<td colspan="9">о выселении граждан из жилища без предоставления другого жилого помещения</td>
+<td colspan="2">54</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о выселении граждан из жилища с предоставлением другого жилого помещения</td>
+<td colspan="2">55</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о вселении</td>
+<td colspan="2">56</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о выделении доли из жилища</td>
+<td colspan="2">57</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о восстановлении, передвижке в очереди нуждающихся в жилье</td>
+<td colspan="2">58</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об обжаловании действий (бездействия) кооператива собственников квартир потребительского кооператива</td>
+<td colspan="2">59</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о взыскании платы за жилье и коммунальные услуги, в том числе по иным договорам за услуги согласно установленным тарифам (в том числе услуги связи, телевидения)</td>
+<td colspan="2">60</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о взыскании расходов на управление объектом кондоминиума и содержание общего имущества кондоминиума</td>
+<td colspan="2">61</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о сносе жилья (построек)</td>
+<td colspan="2">62</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, вытекающие из земельных правоотношений</td>
+<td colspan="2">63</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="3">в том числе</td>
+<td colspan="9">изъятие земельных участков для государственных надобностей</td>
+<td colspan="2">64</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об установлении (прекращении) сервитута</td>
+<td colspan="2">65</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об оспаривании права собственности на земельный участок и землепользования</td>
+<td colspan="2">66</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
+<td colspan="2">67</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="26">в том числе</td>
+<td colspan="9">связанные с обращением взыскания на имущество</td>
+<td colspan="2">68</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">споры между юридическими лицами, гражданами, осуществляющими предпринимательскую деятельность</td>
+<td colspan="2">69</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">из них</td>
+<td colspan="7">с участием квазигосударственного сектора</td>
+<td colspan="2">70</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">с участием государственных учреждений</td>
+<td colspan="2">71</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">с долевым строительством</td>
+<td colspan="2">72</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">с экономической, технологической, информационной безопасностью</td>
+<td colspan="2">73</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по банковскому договору, в том числе потребительские кредиты, договор факторинга, микрофинансовые организации</td>
+<td colspan="2">74</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">из них</td>
+<td colspan="7">с ипотекой недвижимого имущества</td>
+<td colspan="2">75</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">с обращением взыскания на имущество</td>
+<td colspan="2">76</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору займа, в том числе образовательные услуги (гранты), ломбарды</td>
+<td colspan="2">77</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">из них</td>
+<td colspan="7">споры о взыскании долга по договорам займа между физическими лицами</td>
+<td colspan="2">78</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">с недропользованием</td>
+<td colspan="2">79</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">из них</td>
+<td colspan="2">с участием иностранных лиц</td>
+<td colspan="2">80</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору купли-продажи</td>
+<td colspan="2">81</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору поставки</td>
+<td colspan="2">82</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору подряда</td>
+<td colspan="2">83</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору имущественного найма (аренды)</td>
+<td colspan="2">84</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору лизинга</td>
+<td colspan="2">85</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору хранения</td>
+<td colspan="2">86</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору поручения</td>
+<td colspan="2">87</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору комиссии</td>
+<td colspan="2">88</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору дарения</td>
+<td colspan="2">89</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору мены</td>
+<td colspan="2">90</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору страхования</td>
+<td colspan="2">91</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">в том числе</td>
+<td>взыскание страховых выплат</td>
+<td colspan="2">92</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по договору перевозки</td>
+<td colspan="2">93</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="9">О признании сделки недействительной</td>
+<td colspan="2">94</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
+<td colspan="2">95</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="3">в том числе</td>
+<td colspan="9">по спорам до заключения договора</td>
+<td colspan="2">96</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по спорам, относящимся к заключению договора</td>
+<td colspan="2">97</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">по спорам об исполнении договора (о признании недобросовестным участником государственных закупок и взыскании неустойки)</td>
+<td colspan="2">98</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
+<td colspan="2">99</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, связанные с лицензионной деятельностью</td>
+<td colspan="2">100</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">в том числе</td>
+<td colspan="9">с отзывом лицензии</td>
+<td colspan="2">101</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">с приостановлением лицензии</td>
+<td colspan="2">102</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О приостановлении деятельности юридических лиц и индивидуальных предпринимателей</td>
+<td colspan="2">103</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О лжепредпринимательстве</td>
+<td colspan="2">104</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, связанные с ценными бумагами</td>
+<td colspan="2">105</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">в том числе</td>
+<td colspan="9">с отказом в регистрации или с незаконной регистрацией ценных бумаг</td>
+<td colspan="2">106</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, связанные с нарушением налогового законодательства</td>
+<td colspan="2">107</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="5">в том числе</td>
+<td colspan="9">иски налоговых органов о взыскании налогов и сборов с физических лиц</td>
+<td colspan="2">108</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">иски налоговых органов о взыскании налогов и сборов с юридических лиц</td>
+<td colspan="2">109</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">иски физических лиц к налоговым органам</td>
+<td colspan="2">110</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">иски юридических лиц к налоговым органам</td>
+<td colspan="2">111</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о ликвидации юридического лица (прекращении деятельности индивидуального предпринимателя)</td>
+<td colspan="2">112</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры в сфере таможенного законодательства</td>
+<td colspan="2">113</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">в том числе</td>
+<td colspan="9">в рамках Таможенного Союза, Всемирной торговой организации</td>
+<td colspan="2">114</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, связанные с нарушением бюджетного законодательства</td>
+<td colspan="2">115</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, связанные с нарушением пенсионного законодательства</td>
+<td colspan="2">116</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О взыскании пособий, компенсаций</td>
+<td colspan="2">117</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">в том числе</td>
+<td colspan="9">о взыскании детских пособий</td>
+<td colspan="2">118</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
+<td colspan="2">119</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О возмещении вреда</td>
+<td colspan="2">120</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="10">в том числе</td>
+<td colspan="9">о возмещении морального вреда</td>
+<td colspan="2">121</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
+<td colspan="2">122</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2">из них</td>
+<td colspan="5">в связи с исполнением трудовых обязанностей</td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
+<td colspan="2">124</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
+<td colspan="2">125</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4" rowspan="5">из них</td>
+<td colspan="5">в порядке регресса</td>
+<td colspan="2">126</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">по делам реабилитации</td>
+<td colspan="2">127</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">по делам оправданных в суде</td>
+<td colspan="2">128</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">по делам о нарушении гражданских прав</td>
+<td colspan="2">129</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">по делам, связанным с пытками</td>
+<td colspan="2">130</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры о возмещении ущерба</td>
+<td colspan="2">131</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">в том числе</td>
+<td colspan="9">споры о возмещении ущерба от дорожно-транспортного происшествия</td>
+<td colspan="2">132</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О защите прав потребителя</td>
+<td colspan="2">133</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">в том числе</td>
+<td colspan="9">из договоров в сфере торговли, услуг</td>
+<td colspan="2">134</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">иски, связанные с качеством медицинских услуг</td>
+<td colspan="2">135</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Иски о защите чести, достоинства и деловой репутации</td>
+<td colspan="2">136</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="3">в том числе</td>
+<td colspan="9">к средствам массовой информации</td>
+<td colspan="2">137</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">к гражданам и юридическим лицам</td>
+<td colspan="2">138</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">иски юридических лиц о защите деловой репутации</td>
+<td colspan="2">139</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, связанные с интеллектуальной собственностью</td>
+<td colspan="2">140</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">в том числе</td>
+<td colspan="9">о защите авторских прав</td>
+<td colspan="2">141</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о товарных знаках</td>
+<td colspan="2">142</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Иски, связанные с охраной окружающей среды</td>
+<td colspan="2">143</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="4">в том числе</td>
+<td colspan="9">о возмещении ущерба за нарушение природоохранного законодательства</td>
+<td colspan="2">144</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">о возмещении вреда жизни и здоровью, причиненного в результате несоблюдения экологического законодательства</td>
+<td colspan="2">145</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">иски физических лиц</td>
+<td colspan="2">146</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">иски общественных экологических организаций</td>
+<td colspan="2">147</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Иски, связанные с интернет-ресурсами</td>
+<td colspan="2">148</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Иски о признании забастовок незаконными</td>
+<td colspan="2">149</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об обязании, понуждении (исполнения, требования, предписания)</td>
+<td colspan="2">150</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
+<td colspan="2">151</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О взыскании процессуальных издержек</td>
+<td colspan="2">152</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О расторжении медиативного соглашения</td>
+<td colspan="2">153</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Иски об уничтожении запрещенных предметов</td>
+<td colspan="2">154</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Корпоративные споры</td>
+<td colspan="2">155</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">в том числе</td>
+<td colspan="9">о выделении доли, принудительном выкупе доли</td>
+<td colspan="2">156</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">об оспаривании протокола общего собрания</td>
+<td colspan="2">157</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Прочие исковые дела</td>
+<td colspan="2">158</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td colspan="2">159</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">в том числе</td>
+<td colspan="9">с участием иностранных лиц</td>
+<td colspan="2">160</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Дела особого искового производства</td>
+<td colspan="12">Производство по делам об оспаривании законности нормативных правовых актов</td>
+<td colspan="2">161</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">в том числе</td>
+<td colspan="9">зарегистрированных в органах юстиции</td>
+<td colspan="2">162</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td colspan="2">163</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">в том числе</td>
+<td colspan="9">с участием иностранных лиц</td>
+<td colspan="2">164</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="43">Дела особого производства</td>
+<td colspan="12">Об установлении фактов, имеющих юридическое значение</td>
+<td colspan="2">165</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="9">в том числе</td>
+<td colspan="9">родственных отношений лиц</td>
+<td colspan="2">166</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">нахождения лица на иждивении</td>
+<td colspan="2">167</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">регистрации рождения, усыновления (удочерения), брака, развода и смерти</td>
+<td colspan="2">168</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">признания отцовства</td>
+<td colspan="2">169</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">принадлежности правоустанавливающих документов (за исключением воинских документов, паспортов, удостоверения личности и свидетельств, выдаваемых органами записи актов гражданского состояния) лицу</td>
+<td colspan="2">170</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">наличия документов, подтверждающих владение, пользование и (или) распоряжение объектами недвижимого имущества</td>
+<td colspan="2">171</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">несчастного случая</td>
+<td colspan="2">172</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">смерти лица в определенное время при определенных обстоятельствах в случае отказа органов записи актов гражданского состояния в регистрации смерти</td>
+<td colspan="2">173</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">принятия наследства и места открытия наследства</td>
+<td colspan="2">174</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">По заявлениям об усыновлении (удочерении) ребенка</td>
+<td colspan="2">175</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">в том числе</td>
+<td colspan="9">иностранными гражданами</td>
+<td colspan="2">176</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
+<td colspan="2">177</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об отмене решения о признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
+<td colspan="2">178</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об ограничении дееспособности гражданина</td>
+<td colspan="2">179</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О признании гражданина недееспособным</td>
+<td colspan="2">180</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
+<td colspan="2">181</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">об отмене ограничения дееспособности гражданина</td>
+<td colspan="2">182</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
+<td colspan="2">183</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О направлении несовершеннолетних в специальные организации образования для детей с девиантным поведением или организации с особым режимом с содержания</td>
+<td colspan="2">184</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О принудительной госпитализации гражданина в психиатрический стационар</td>
+<td colspan="2">185</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О направлении гражданина, больного алкоголизмом, наркоманией или токсикоманией, на принудительное лечение в наркологическую организацию</td>
+<td colspan="2">186</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О принудительном лечении гражданина, больного туберкулезом</td>
+<td colspan="2">187</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О реструктуризации финансовых организаций и организаций, входящих в банковский конгломерат в качестве родительской организации и не являющихся финансовыми организациями</td>
+<td colspan="2">188</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О реабилитации, в том числе об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
+<td colspan="2">189</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О банкротстве</td>
+<td colspan="2">190</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3">в том числе</td>
+<td colspan="10">юридического лица</td>
+<td colspan="2">191</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">индивидуального предпринимателя</td>
+<td colspan="2">192</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">в том числе о включении (исключении) в реестр требований кредиторов</td>
+<td colspan="2">193</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
+<td colspan="2">194</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об установлении неправильностей записей актов гражданского состояния</td>
+<td colspan="2">195</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">По жалобам на нотариальные действия или на отказ в их совершении</td>
+<td colspan="2">196</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">в том числе</td>
+<td colspan="6">об отмене исполнительской надписи</td>
+<td colspan="2">197</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
+<td colspan="2">198</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">По заявлениям о признании организации, осуществляющей экстремизм или террористическую деятельность на территории Республики Казахстан и (или) другого государства, экстремистской или террористической, в том числе об установлении изменения ею своего наименования, а также о признании информационных материалов, ввозимых, издаваемых, изготавливаемых и (или) распространяемых на территории Республики Казахстан, экстремистскими или террористическими</td>
+<td colspan="2">199</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
+<td colspan="2">200</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">По заявлениям о выдворении иностранца или лица без гражданства за пределы Республики Казахстан за нарушение законодательства Республики Казахстан</td>
+<td colspan="2">201</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О признании гражданина жертвой политических репрессий</td>
+<td colspan="2">202</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">О признании наследства выморочным</td>
+<td colspan="2">203</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">о восстановлении утраченного судебного или исполнительного производства</td>
+<td colspan="2">204</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Прочие дела особого производства</td>
+<td colspan="2">205</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
+<td colspan="2">206</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">в том числе</td>
+<td colspan="4">с участием иностранных лиц</td>
+<td colspan="2">207</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
+<td colspan="2">208</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">Производство по ходатайству об отмене арбитражных решений</td>
+<td colspan="2">209</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">в том числе</td>
+<td colspan="6">третейских судов</td>
+<td colspan="2">210</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
+<td colspan="2">211</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">в том числе</td>
+<td colspan="12">о дискриминации женщин по признаку пола</td>
+<td colspan="2">212</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">по делам, связанным с бытовым насилием</td>
+<td colspan="2">213</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4"></td>
+<td colspan="12">по инвестиционным спорам</td>
+<td colspan="2">214</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">из них</td>
+<td colspan="5">с участием иностранных инвесторов</td>
+<td colspan="2">215</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">о возмещении морального вреда с другими основными требованиями</td>
+<td colspan="2">216</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">в упрощенном (письменном) производстве</td>
+<td colspan="2">217</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">Материалы, представления и тому подобное</td>
+<td colspan="2">218</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="17">в том числе</td>
+<td colspan="12">об отсрочке, рассрочке исполнения решения суда</td>
+<td colspan="2">219</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">об изменении способа и порядка исполнения решения суда, в том числе о замене должника (взыскателя)</td>
+<td colspan="2">220</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">об отсрочке, рассрочке, изменении способа мирового соглашения сторон</td>
+<td colspan="2">221</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">о повороте исполнения решения суда</td>
+<td colspan="2">222</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">по представлению судебного исполнителя</td>
+<td colspan="2">223</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">о санкционировании постановления судебного исполнителя об ограничении выезда гражданина за пределы Республики Казахстан</td>
+<td colspan="2">224</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">о санкционировании других постановлений судебного исполнителя</td>
+<td colspan="2">225</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">о взыскании (отсрочке, рассрочке) исполнительской санкции</td>
+<td colspan="2">226</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">санкционирование постановления судебного исполнителя о приводе должника</td>
+<td colspan="2">227</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">
+из строк
+221-225
+</td>
+<td colspan="5">частным судебным исполнителем</td>
+<td colspan="2">228</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">судебное поручение</td>
+<td colspan="2">229</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">о выдаче исполнительного листа (дубликата)</td>
+<td colspan="2">230</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
+<td colspan="2">231</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">об индексации присужденных денежных сумм</td>
+<td colspan="2">232</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">о восстановлении срока предъявления исполнительного листа</td>
+<td colspan="2">233</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Об обращении взыскания на недвижимое имущество должника</td>
+<td colspan="2">234</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">прочие материалы, представления</td>
+<td colspan="2">235</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">ИТОГО ДЕЛ И МАТЕРИАЛОВ</td>
+<td colspan="2">236</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="14">в том числе</td>
+<td colspan="12">по искам лиц с инвалидностью</td>
+<td colspan="2">237</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">по искам, заявленным в интересах несовершеннолетних</td>
+<td colspan="2">238</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">по искам лиц женского пола</td>
+<td colspan="2">239</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">с участием иностранных лиц</td>
+<td colspan="2">240</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">с участием субъектов малого и среднего предпринимательства</td>
+<td colspan="2">241</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">дел на государственном языке</td>
+<td colspan="2">242</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">применен Международный договор</td>
+<td colspan="2">243</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="7">из них</td>
+<td colspan="9">Международный пакт о гражданских о политических правах</td>
+<td colspan="2">244</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">Международный пакт о ликвидации всех форм дискриминации в отношении женщин</td>
+<td colspan="2">245</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">Международный пакт об экономических, социальных и культурных правах</td>
+<td colspan="2">246</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">Международная конвенция о ликвидации всех форм расовой дискриминации</td>
+<td colspan="2">247</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">Международная конвенция о правах ребенка</td>
+<td colspan="2">248</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">Международная конвенция о правах лиц с инвалидностью</td>
+<td colspan="2">249</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="9">в рамках реализации Орхусской конвенции</td>
+<td colspan="2">250</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
 <td colspan="2" rowspan="3">Поступило исков/заявлений в отчетный период</td>
 <td colspan="9">из граф 4 и 5</td>
 <td colspan="2" rowspan="3">остаток исков/заявлений на конец отчетного периода</td>
@@ -117,12 +2186,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2">с составлением досудебного протокола</td>
 </tr>
 <tr>
-<td colspan="13">А</td>
-<td colspan="2">Б</td>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
 <td colspan="2">5</td>
 <td colspan="2">6</td>
 <td>7</td>
@@ -132,4058 +2195,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2">11</td>
 <td colspan="2">12</td>
 </tr>
-<tr>
-<td rowspan="19">ДЕЛА ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
-<td colspan="12">О взыскании алиментов на содержание несовершеннолетних детей, не связанных с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О возмещении расходов по розыску ответчика и (или) ребенка, заявленных уполномоченными органами</td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О взыскании сумм, затраченных на обучение курсантов учебных заведений, прекративших по собственному желанию обучение либо прохождение службы, а также уволенных или отчисленных по основаниям, предусмотренным законодательством Республики Казахстан, до истечения предусмотренного договором срока</td>
-<td colspan="2">4</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
-<td colspan="2">5</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О взыскании государственных грантов, подъемных, пособий с молодых специалистов, направленных в сельскую местность, в случае неисполнения или ненадлежащего исполнения ими обязательств по договорам</td>
-<td colspan="2">6</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
-<td colspan="2">7</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О взыскании с физических лиц задолженности по таможенным платежам, налогам, специальным, антидемпинговым, компенсационным пошлинам, пеней, процентов</td>
-<td colspan="2">8</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об исполнении соглашений по спорам, связанным с предпринимательской, инвестиционной деятельностью, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td colspan="2">10</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td colspan="2">11</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об исполнении соглашений по спорам в сфере защиты прав потребителей, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td colspan="2">12</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td colspan="2">13</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О взыскании арендных платежей ввиду их неуплаты в сроки, установленные договором аренды, заявленным государственным органом</td>
-<td colspan="2">14</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td colspan="2">15</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об исполнении соглашений по спорам о публикации опровержения сведений, порочащих честь, достоинство или деловую репутацию гражданина и деловую репутацию юридического лица, либо ответа в средстве массовой информации</td>
-<td colspan="2">16</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
-<td colspan="2">17</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О перечислении обязательных пенсионных отчислений в Единый накопительный пенсионный фонд</td>
-<td colspan="2">18</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
-<td colspan="2">19</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="141">ДЕЛА ИСКОВОГО ПРОИЗВОДСТВА</td>
-<td colspan="12">Трудовые споры</td>
-<td colspan="2">20</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="4">в том числе</td>
-<td colspan="9">о восстановлении на работе уволенных</td>
-<td colspan="2">21</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о восстановлении на работе уволенных, в том числе с выплатой заработной платы</td>
-<td colspan="2">22</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о выплате заработной платы и иных платежей</td>
-<td colspan="2">23</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об оспаривании приказов о наложении дисциплинарных взысканий за совершение коррупционных правонарушений</td>
-<td colspan="2">24</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, возникающие из брачно-семейных отношений</td>
-<td colspan="2">25</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="17">в том числе</td>
-<td colspan="9">о взыскании алиментов на содержание несовершеннолетних детей</td>
-<td colspan="2">26</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="4">из них</td>
-<td colspan="5">с установлением отцовства (материнства)</td>
-<td colspan="2">27</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об установлении отцовства (без требования о взыскании алиментов)</td>
-<td colspan="2">28</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о взыскании алиментов на время обучения</td>
-<td colspan="2">29</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о взыскании алиментов на содержание супруги (супруга)</td>
-<td colspan="2">30</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о взыскании алиментов на содержание родителей</td>
-<td colspan="2">31</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о снижении (увеличении) размера взыскиваемых алиментов, приостановлении взыскания алиментов</td>
-<td colspan="2">32</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о лишении родительских прав</td>
-<td colspan="2">33</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о восстановлении родительских прав</td>
-<td colspan="2">34</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об ограничении родительских прав</td>
-<td colspan="2">35</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об определении местожительства детей</td>
-<td colspan="2">36</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об определении порядка общения с детьми</td>
-<td colspan="2">37</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об отмене усыновления (удочерения)</td>
-<td colspan="2">38</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о расторжении брака</td>
-<td colspan="2">39</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="4">из них</td>
-<td colspan="5">лиц, имеющих несовершеннолетних детей</td>
-<td colspan="2">40</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о разделе имущества между супругами</td>
-<td colspan="2">41</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">споры, связанные с брачным договором</td>
-<td colspan="2">42</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры по вопросам наследственного права</td>
-<td colspan="2">43</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры о праве собственности на имущество</td>
-<td colspan="2">44</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="8">в том числе</td>
-<td colspan="9">об освобождении имущества от ареста</td>
-<td colspan="2">45</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о выделении доли из имущества</td>
-<td colspan="2">46</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об обязании освободить незаконно занимаемое нежилое помещение</td>
-<td colspan="2">47</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об истребовании из чужого незаконного владения</td>
-<td colspan="2">48</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о прекращении права собственности</td>
-<td colspan="2">49</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об оспаривании результатов оценки имущества</td>
-<td colspan="2">50</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о незаконном захвате имущества юридических и физических лиц</td>
-<td colspan="2">51</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">споры о праве собственности на жилище</td>
-<td colspan="2">52</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, возникающие из жилищных правоотношений</td>
-<td colspan="2">53</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="9">из них</td>
-<td colspan="9">о выселении граждан из жилища без предоставления другого жилого помещения</td>
-<td colspan="2">54</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о выселении граждан из жилища с предоставлением другого жилого помещения</td>
-<td colspan="2">55</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о вселении</td>
-<td colspan="2">56</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о выделении доли из жилища</td>
-<td colspan="2">57</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о восстановлении, передвижке в очереди нуждающихся в жилье</td>
-<td colspan="2">58</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об обжаловании действий (бездействия) кооператива собственников квартир потребительского кооператива</td>
-<td colspan="2">59</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о взыскании платы за жилье и коммунальные услуги, в том числе по иным договорам за услуги согласно установленным тарифам (в том числе услуги связи, телевидения)</td>
-<td colspan="2">60</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о взыскании расходов на управление объектом кондоминиума и содержание общего имущества кондоминиума</td>
-<td colspan="2">61</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о сносе жилья (построек)</td>
-<td colspan="2">62</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, вытекающие из земельных правоотношений</td>
-<td colspan="2">63</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="3">в том числе</td>
-<td colspan="9">изъятие земельных участков для государственных надобностей</td>
-<td colspan="2">64</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об установлении (прекращении) сервитута</td>
-<td colspan="2">65</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об оспаривании права собственности на земельный участок и землепользования</td>
-<td colspan="2">66</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
-<td colspan="2">67</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="26">в том числе</td>
-<td colspan="9">связанные с обращением взыскания на имущество</td>
-<td colspan="2">68</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">споры между юридическими лицами, гражданами, осуществляющими предпринимательскую деятельность</td>
-<td colspan="2">69</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">из них</td>
-<td colspan="7">с участием квазигосударственного сектора</td>
-<td colspan="2">70</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">с участием государственных учреждений</td>
-<td colspan="2">71</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">с долевым строительством</td>
-<td colspan="2">72</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">с экономической, технологической, информационной безопасностью</td>
-<td colspan="2">73</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по банковскому договору, в том числе потребительские кредиты, договор факторинга, микрофинансовые организации</td>
-<td colspan="2">74</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">из них</td>
-<td colspan="7">с ипотекой недвижимого имущества</td>
-<td colspan="2">75</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">с обращением взыскания на имущество</td>
-<td colspan="2">76</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору займа, в том числе образовательные услуги (гранты), ломбарды</td>
-<td colspan="2">77</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">из них</td>
-<td colspan="7">споры о взыскании долга по договорам займа между физическими лицами</td>
-<td colspan="2">78</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">с недропользованием</td>
-<td colspan="2">79</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">из них</td>
-<td colspan="2">с участием иностранных лиц</td>
-<td colspan="2">80</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору купли-продажи</td>
-<td colspan="2">81</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору поставки</td>
-<td colspan="2">82</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору подряда</td>
-<td colspan="2">83</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору имущественного найма (аренды)</td>
-<td colspan="2">84</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору лизинга</td>
-<td colspan="2">85</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору хранения</td>
-<td colspan="2">86</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору поручения</td>
-<td colspan="2">87</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору комиссии</td>
-<td colspan="2">88</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору дарения</td>
-<td colspan="2">89</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору мены</td>
-<td colspan="2">90</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору страхования</td>
-<td colspan="2">91</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="8">в том числе</td>
-<td>взыскание страховых выплат</td>
-<td colspan="2">92</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по договору перевозки</td>
-<td colspan="2">93</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="9">О признании сделки недействительной</td>
-<td colspan="2">94</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
-<td colspan="2">95</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="3">в том числе</td>
-<td colspan="9">по спорам до заключения договора</td>
-<td colspan="2">96</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по спорам, относящимся к заключению договора</td>
-<td colspan="2">97</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">по спорам об исполнении договора (о признании недобросовестным участником государственных закупок и взыскании неустойки)</td>
-<td colspan="2">98</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
-<td colspan="2">99</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, связанные с лицензионной деятельностью</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="2">в том числе</td>
-<td colspan="9">с отзывом лицензии</td>
-<td colspan="2">101</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">с приостановлением лицензии</td>
-<td colspan="2">102</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О приостановлении деятельности юридических лиц и индивидуальных предпринимателей</td>
-<td colspan="2">103</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О лжепредпринимательстве</td>
-<td colspan="2">104</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, связанные с ценными бумагами</td>
-<td colspan="2">105</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">в том числе</td>
-<td colspan="9">с отказом в регистрации или с незаконной регистрацией ценных бумаг</td>
-<td colspan="2">106</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, связанные с нарушением налогового законодательства</td>
-<td colspan="2">107</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="5">в том числе</td>
-<td colspan="9">иски налоговых органов о взыскании налогов и сборов с физических лиц</td>
-<td colspan="2">108</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">иски налоговых органов о взыскании налогов и сборов с юридических лиц</td>
-<td colspan="2">109</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">иски физических лиц к налоговым органам</td>
-<td colspan="2">110</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">иски юридических лиц к налоговым органам</td>
-<td colspan="2">111</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о ликвидации юридического лица (прекращении деятельности индивидуального предпринимателя)</td>
-<td colspan="2">112</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры в сфере таможенного законодательства</td>
-<td colspan="2">113</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">в том числе</td>
-<td colspan="9">в рамках Таможенного Союза, Всемирной торговой организации</td>
-<td colspan="2">114</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, связанные с нарушением бюджетного законодательства</td>
-<td colspan="2">115</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, связанные с нарушением пенсионного законодательства</td>
-<td colspan="2">116</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О взыскании пособий, компенсаций</td>
-<td colspan="2">117</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">в том числе</td>
-<td colspan="9">о взыскании детских пособий</td>
-<td colspan="2">118</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
-<td colspan="2">119</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О возмещении вреда</td>
-<td colspan="2">120</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="10">в том числе</td>
-<td colspan="9">о возмещении морального вреда</td>
-<td colspan="2">121</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
-<td colspan="2">122</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="4" rowspan="2">из них</td>
-<td colspan="5">в связи с исполнением трудовых обязанностей</td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="5">из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
-<td colspan="2">124</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
-<td colspan="2">125</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="4" rowspan="5">из них</td>
-<td colspan="5">в порядке регресса</td>
-<td colspan="2">126</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="5">по делам реабилитации</td>
-<td colspan="2">127</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="5">по делам оправданных в суде</td>
-<td colspan="2">128</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="5">по делам о нарушении гражданских прав</td>
-<td colspan="2">129</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="5">по делам, связанным с пытками</td>
-<td colspan="2">130</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры о возмещении ущерба</td>
-<td colspan="2">131</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">в том числе</td>
-<td colspan="9">споры о возмещении ущерба от дорожно-транспортного происшествия</td>
-<td colspan="2">132</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О защите прав потребителя</td>
-<td colspan="2">133</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="2">в том числе</td>
-<td colspan="9">из договоров в сфере торговли, услуг</td>
-<td colspan="2">134</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">иски, связанные с качеством медицинских услуг</td>
-<td colspan="2">135</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Иски о защите чести, достоинства и деловой репутации</td>
-<td colspan="2">136</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="3">в том числе</td>
-<td colspan="9">к средствам массовой информации</td>
-<td colspan="2">137</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">к гражданам и юридическим лицам</td>
-<td colspan="2">138</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">иски юридических лиц о защите деловой репутации</td>
-<td colspan="2">139</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, связанные с интеллектуальной собственностью</td>
-<td colspan="2">140</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="2">в том числе</td>
-<td colspan="9">о защите авторских прав</td>
-<td colspan="2">141</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о товарных знаках</td>
-<td colspan="2">142</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Иски, связанные с охраной окружающей среды</td>
-<td colspan="2">143</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="4">в том числе</td>
-<td colspan="9">о возмещении ущерба за нарушение природоохранного законодательства</td>
-<td colspan="2">144</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">о возмещении вреда жизни и здоровью, причиненного в результате несоблюдения экологического законодательства</td>
-<td colspan="2">145</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">иски физических лиц</td>
-<td colspan="2">146</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">иски общественных экологических организаций</td>
-<td colspan="2">147</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Иски, связанные с интернет-ресурсами</td>
-<td colspan="2">148</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Иски о признании забастовок незаконными</td>
-<td colspan="2">149</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об обязании, понуждении (исполнения, требования, предписания)</td>
-<td colspan="2">150</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
-<td colspan="2">151</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О взыскании процессуальных издержек</td>
-<td colspan="2">152</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О расторжении медиативного соглашения</td>
-<td colspan="2">153</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Иски об уничтожении запрещенных предметов</td>
-<td colspan="2">154</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Корпоративные споры</td>
-<td colspan="2">155</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="2">в том числе</td>
-<td colspan="9">о выделении доли, принудительном выкупе доли</td>
-<td colspan="2">156</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">об оспаривании протокола общего собрания</td>
-<td colspan="2">157</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Прочие исковые дела</td>
-<td colspan="2">158</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
-<td colspan="2">159</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">в том числе</td>
-<td colspan="9">с участием иностранных лиц</td>
-<td colspan="2">160</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="4">Дела особого искового производства</td>
-<td colspan="12">Производство по делам об оспаривании законности нормативных правовых актов</td>
-<td colspan="2">161</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">в том числе</td>
-<td colspan="9">зарегистрированных в органах юстиции</td>
-<td colspan="2">162</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
-<td colspan="2">163</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">в том числе</td>
-<td colspan="9">с участием иностранных лиц</td>
-<td colspan="2">164</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="43">Дела особого производства</td>
-<td colspan="12">Об установлении фактов, имеющих юридическое значение</td>
-<td colspan="2">165</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="9">в том числе</td>
-<td colspan="9">родственных отношений лиц</td>
-<td colspan="2">166</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">нахождения лица на иждивении</td>
-<td colspan="2">167</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">регистрации рождения, усыновления (удочерения), брака, развода и смерти</td>
-<td colspan="2">168</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">признания отцовства</td>
-<td colspan="2">169</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">принадлежности правоустанавливающих документов (за исключением воинских документов, паспортов, удостоверения личности и свидетельств, выдаваемых органами записи актов гражданского состояния) лицу</td>
-<td colspan="2">170</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">наличия документов, подтверждающих владение, пользование и (или) распоряжение объектами недвижимого имущества</td>
-<td colspan="2">171</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">несчастного случая</td>
-<td colspan="2">172</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">смерти лица в определенное время при определенных обстоятельствах в случае отказа органов записи актов гражданского состояния в регистрации смерти</td>
-<td colspan="2">173</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">принятия наследства и места открытия наследства</td>
-<td colspan="2">174</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">По заявлениям об усыновлении (удочерении) ребенка</td>
-<td colspan="2">175</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">в том числе</td>
-<td colspan="9">иностранными гражданами</td>
-<td colspan="2">176</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
-<td colspan="2">177</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об отмене решения о признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
-<td colspan="2">178</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об ограничении дееспособности гражданина</td>
-<td colspan="2">179</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О признании гражданина недееспособным</td>
-<td colspan="2">180</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
-<td colspan="2">181</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">об отмене ограничения дееспособности гражданина</td>
-<td colspan="2">182</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
-<td colspan="2">183</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О направлении несовершеннолетних в специальные организации образования для детей с девиантным поведением или организации с особым режимом с содержания</td>
-<td colspan="2">184</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О принудительной госпитализации гражданина в психиатрический стационар</td>
-<td colspan="2">185</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О направлении гражданина, больного алкоголизмом, наркоманией или токсикоманией, на принудительное лечение в наркологическую организацию</td>
-<td colspan="2">186</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О принудительном лечении гражданина, больного туберкулезом</td>
-<td colspan="2">187</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О реструктуризации финансовых организаций и организаций, входящих в банковский конгломерат в качестве родительской организации и не являющихся финансовыми организациями</td>
-<td colspan="2">188</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О реабилитации, в том числе об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
-<td colspan="2">189</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О банкротстве</td>
-<td colspan="2">190</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">в том числе</td>
-<td colspan="10">юридического лица</td>
-<td colspan="2">191</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="10">индивидуального предпринимателя</td>
-<td colspan="2">192</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="10">в том числе о включении (исключении) в реестр требований кредиторов</td>
-<td colspan="2">193</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
-<td colspan="2">194</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об установлении неправильностей записей актов гражданского состояния</td>
-<td colspan="2">195</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">По жалобам на нотариальные действия или на отказ в их совершении</td>
-<td colspan="2">196</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="6">в том числе</td>
-<td colspan="6">об отмене исполнительской надписи</td>
-<td colspan="2">197</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
-<td colspan="2">198</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">По заявлениям о признании организации, осуществляющей экстремизм или террористическую деятельность на территории Республики Казахстан и (или) другого государства, экстремистской или террористической, в том числе об установлении изменения ею своего наименования, а также о признании информационных материалов, ввозимых, издаваемых, изготавливаемых и (или) распространяемых на территории Республики Казахстан, экстремистскими или террористическими</td>
-<td colspan="2">199</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
-<td colspan="2">200</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">По заявлениям о выдворении иностранца или лица без гражданства за пределы Республики Казахстан за нарушение законодательства Республики Казахстан</td>
-<td colspan="2">201</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О признании гражданина жертвой политических репрессий</td>
-<td colspan="2">202</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">О признании наследства выморочным</td>
-<td colspan="2">203</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">о восстановлении утраченного судебного или исполнительного производства</td>
-<td colspan="2">204</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Прочие дела особого производства</td>
-<td colspan="2">205</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
-<td colspan="2">206</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="8">в том числе</td>
-<td colspan="4">с участием иностранных лиц</td>
-<td colspan="2">207</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="13">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
-<td colspan="2">208</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="13">Производство по ходатайству об отмене арбитражных решений</td>
-<td colspan="2">209</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">в том числе</td>
-<td colspan="6">третейских судов</td>
-<td colspan="2">210</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="13">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
-<td colspan="2">211</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="2">в том числе</td>
-<td colspan="12">о дискриминации женщин по признаку пола</td>
-<td colspan="2">212</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">по делам, связанным с бытовым насилием</td>
-<td colspan="2">213</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="4"></td>
-<td colspan="12">по инвестиционным спорам</td>
-<td colspan="2">214</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">из них</td>
-<td colspan="5">с участием иностранных инвесторов</td>
-<td colspan="2">215</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">о возмещении морального вреда с другими основными требованиями</td>
-<td colspan="2">216</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">в упрощенном (письменном) производстве</td>
-<td colspan="2">217</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="13">Материалы, представления и тому подобное</td>
-<td colspan="2">218</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="17">в том числе</td>
-<td colspan="12">об отсрочке, рассрочке исполнения решения суда</td>
-<td colspan="2">219</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">об изменении способа и порядка исполнения решения суда, в том числе о замене должника (взыскателя)</td>
-<td colspan="2">220</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">об отсрочке, рассрочке, изменении способа мирового соглашения сторон</td>
-<td colspan="2">221</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">о повороте исполнения решения суда</td>
-<td colspan="2">222</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">по представлению судебного исполнителя</td>
-<td colspan="2">223</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">о санкционировании постановления судебного исполнителя об ограничении выезда гражданина за пределы Республики Казахстан</td>
-<td colspan="2">224</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">о санкционировании других постановлений судебного исполнителя</td>
-<td colspan="2">225</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">о взыскании (отсрочке, рассрочке) исполнительской санкции</td>
-<td colspan="2">226</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">санкционирование постановления судебного исполнителя о приводе должника</td>
-<td colspan="2">227</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">
-из строк
-221-225
-</td>
-<td colspan="5">частным судебным исполнителем</td>
-<td colspan="2">228</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">судебное поручение</td>
-<td colspan="2">229</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">о выдаче исполнительного листа (дубликата)</td>
-<td colspan="2">230</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
-<td colspan="2">231</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">об индексации присужденных денежных сумм</td>
-<td colspan="2">232</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">о восстановлении срока предъявления исполнительного листа</td>
-<td colspan="2">233</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">Об обращении взыскания на недвижимое имущество должника</td>
-<td colspan="2">234</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">прочие материалы, представления</td>
-<td colspan="2">235</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="13">ИТОГО ДЕЛ И МАТЕРИАЛОВ</td>
-<td colspan="2">236</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td rowspan="14">в том числе</td>
-<td colspan="12">по искам инвалидов</td>
-<td colspan="2">237</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">по искам, заявленным в интересах несовершеннолетних</td>
-<td colspan="2">238</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">по искам лиц женского пола</td>
-<td colspan="2">239</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">с участием иностранных лиц</td>
-<td colspan="2">240</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">с участием субъектов малого и среднего предпринимательства</td>
-<td colspan="2">241</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">дел на государственном языке</td>
-<td colspan="2">242</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="12">применен Международный договор</td>
-<td colspan="2">243</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="7">из них</td>
-<td colspan="9">Международный пакт о гражданских о политических правах</td>
-<td colspan="2">244</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">Международный пакт о ликвидации всех форм дискриминации в отношении женщин</td>
-<td colspan="2">245</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">Международный пакт об экономических, социальных и культурных правах</td>
-<td colspan="2">246</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">Международная конвенция о ликвидации всех форм расовой дискриминации</td>
-<td colspan="2">247</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">Международная конвенция о правах ребенка</td>
-<td colspan="2">248</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">Международная конвенция о правах инвалидов</td>
-<td colspan="2">249</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="9">в рамках реализации Орхусской конвенции</td>
-<td colspan="2">250</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
 </table>
 
 продолжение таблицы
@@ -4192,10 +2203,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <tr>
 <td colspan="7">Всего окончено дел за отчетный период</td>
 <td rowspan="3">отменено решений вынесенных в порядке упрощенного производства</td>
-<td rowspan="3">возвращено по заявлению истца после возбуждения гражданского дела (подпункт 4) статьи 165 ГПК РК)</td>
-<td rowspan="3">Дело направлено по подсудности</td>
-<td rowspan="3">Направлено по экстерриториальной подсудности</td>
-<td rowspan="3">Рассмотрено с прекращением производства по делу</td>
 </tr>
 <tr>
 <td rowspan="2">Рассмотрено с вынесением приказа</td>
@@ -4220,38 +2227,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>18</td>
 <td>19</td>
 <td>20</td>
-<td>21</td>
-<td>22</td>
-<td>23</td>
-<td>24</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -4259,9 +2234,36 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
+<td rowspan="2">возвращено по заявлению истца после возбуждения гражданского дела (подпункт 4) статьи 165 ГПК РК)</td>
+<td rowspan="2">Дело направлено по подсудности</td>
+<td rowspan="2">Направлено по экстерриториальной подсудности</td>
+<td rowspan="2">Рассмотрено с прекращением производства по делу</td>
 <td colspan="4">в том числе</td>
+</tr>
+<tr>
+<td>в связи с отказом от иска</td>
+<td>в связи с заключением мирового соглашения</td>
+<td>в связи с заключением соглашения об урегулировании спора в порядке медиации</td>
+<td>в связи с заключением соглашения об урегулировании спора в порядке партисипативной процедуры</td>
+</tr>
+<tr>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>28</td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
 <td rowspan="2">Количество исков/заявлений, оставленных без рассмотрения</td>
-<td rowspan="2">Всего окончено (сумма граф 13,15,17,21,22, 23, 24,29)</td>
+<td rowspan="2">Всего окончено (сумма граф 13, 15, 17, 21, 22, 23, 24, 29)</td>
 <td rowspan="2">из них в порядке упрощенного (письменного) производства</td>
 <td rowspan="2">в том числе с нарушением сроков установленных ГПК</td>
 <td rowspan="2">в том числе по делам, связанным с бытовым насилием</td>
@@ -4270,17 +2272,9 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="2">Объединено в одно производство</td>
 </tr>
 <tr>
-<td>в связи с отказом от иска</td>
-<td>в связи с заключением мирового соглашения</td>
-<td>в связи с заключением соглашения об урегулировании спора в порядке медиации</td>
-<td>в связи с заключением соглашения об урегулировании спора в порядке партисипативной процедуры</td>
 <td>приостановлено</td>
 </tr>
 <tr>
-<td>25</td>
-<td>26</td>
-<td>27</td>
-<td>28</td>
 <td>29</td>
 <td>30</td>
 <td>31</td>
@@ -4290,41 +2284,13 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>35</td>
 <td>36</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
 продолжение таблицы
 
 <table>
 <tr>
-<td colspan="13">из числа оконченных</td>
+<td colspan="9">из числа оконченных</td>
 </tr>
 <tr>
 <td rowspan="2">по делам, рассмотренным в отчетном периоде, вынесено частных определений</td>
@@ -4335,10 +2301,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="2">Сумма, присужденная по искам, связанным с пытками</td>
 <td rowspan="2">Сумма возмещения ущерба при реабилитации (глава 4 Уголовно-процессуального кодекса Республики Казахстан)</td>
 <td rowspan="2">Сумма возмещения ущерба при нарушении гражданских прав</td>
-<td rowspan="2">Всего лиц, восстановленных на работе</td>
-<td rowspan="2">Сумма, присужденная за вынужденный прогул, в пользу восстановленных лиц на работе</td>
-<td rowspan="2">Сумма, присужденная с должностных лиц, для возмещения по незаконному увольнению</td>
-<td rowspan="2">Сумма, присужденная государству по незаконным действиям должностных лиц</td>
 </tr>
 <tr>
 <td>в адрес прокурора</td>
@@ -4354,40 +2316,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>43</td>
 <td>44</td>
 <td>45</td>
-<td>46</td>
-<td>47</td>
-<td>48</td>
-<td>49</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -4395,35 +2323,32 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
-<td rowspan="2">Рассмотрено с применением видео-аудио фиксации</td>
-<td rowspan="2">Рассмотрено с применением аудиофиксации</td>
-<td colspan="3">Всего дел по искам</td>
+<td colspan="4">из числа оконченных</td>
+<td rowspan="3">Рассмотрено с применением видео-аудио фиксации</td>
+<td rowspan="3">Рассмотрено с применением аудиофиксации</td>
+<td colspan="3" rowspan="2">Всего дел по искам</td>
 </tr>
 <tr>
-<td>инвалидов</td>
+<td rowspan="2">Всего лиц, восстановленных на работе</td>
+<td rowspan="2">Сумма, присужденная за вынужденный прогул, в пользу восстановленных лиц на работе</td>
+<td rowspan="2">Сумма, присужденная с должностных лиц, для возмещения по незаконному увольнению</td>
+</tr>
+<tr>
+<td>Сумма, присужденная государству по незаконным действиям должностных лиц</td>
+<td>лиц с инвалидностью</td>
 <td>в интересах несовершеннолетних</td>
 <td>лиц женского пола</td>
 </tr>
 <tr>
+<td>46</td>
+<td>47</td>
+<td>48</td>
+<td>49</td>
 <td>50</td>
 <td>51</td>
 <td>52</td>
 <td>53</td>
 <td>54</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -4615,7 +2540,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 > *Республики Казахстан*  
 > *от 2 ноября 2017 года № 124*
 
-> *Сноска. Форма № 7 в редакции приказа Генерального Прокурора РК от 19.11.2019 № 148 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 20.11.2020 № 141 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказов Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021); от 12.07.2022 № 149 (вводится в действие после дня его первого официального опубликования).*
+> *Сноска. Форма № 7 в редакции приказа Генерального Прокурора РК от 19.11.2019 № 148 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 20.11.2020 № 141 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказов Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021); от 12.07.2022 № 149 (вводится в действие после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 16.09.2022 № 185 (вводится в действие после дня его первого официального опубликования).*
 
 форма
 
@@ -4631,7 +2556,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="2">Всего поступило дел за отчетный период</td>
 <td colspan="4">в том числе</td>
 <td rowspan="2">принято к производству по заявлениям по вновь открывшимся обстоятельствам</td>
-<td colspan="2">Число дел по которым отозваны</td>
+<td colspan="2">Число дел, по которым отозваны</td>
 <td colspan="3">Отозвано из поступивших одновременно по жалобе и ходатайству прокурора</td>
 </tr>
 <tr>
@@ -8247,7 +6172,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td rowspan="14">в том числе</td>
-<td colspan="10">по искам инвалидов</td>
+<td colspan="10">по искам лиц с инвалидностью</td>
 <td>237</td>
 <td></td>
 <td></td>
@@ -8428,7 +6353,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 </tr>
 <tr>
-<td colspan="9">Международная конвенция о правах инвалидов</td>
+<td colspan="9">Международная конвенция о правах лиц с инвалидностью</td>
 <td>249</td>
 <td></td>
 <td></td>
@@ -8466,12 +6391,12 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="4">из графы 2, после отмены решения (определения) вышестоящим судом</td>
 <td rowspan="4">Прекращено производство по жалобе (ходатайству прокурора)</td>
 <td rowspan="4">Возвращено дел без рассмотрения</td>
-<td colspan="10">Результаты рассмотрения дел</td>
+<td colspan="6">Результаты рассмотрения дел</td>
 </tr>
 <tr>
 <td colspan="2">по ходатайствам прокурора</td>
 <td colspan="2">по жалобам</td>
-<td colspan="6">по жалобам и протестам</td>
+<td colspan="2">по жалобам и протестам</td>
 </tr>
 <tr>
 <td rowspan="2">всего</td>
@@ -8479,15 +6404,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="2">всего</td>
 <td rowspan="2">из них удовлетворено</td>
 <td rowspan="2">всего</td>
-<td colspan="3">из них</td>
-<td rowspan="2">всего рассмотрено по ходатайству прокурора</td>
 <td>из них</td>
 </tr>
 <tr>
 <td>удовлетворено одновременно по жалобе, ходатайствам прокурора</td>
-<td>удовлетворено жалоб</td>
-<td>удовлетворено ходатайств прокурора</td>
-<td>удовлетворено по ходатайству прокурора</td>
 </tr>
 <tr>
 <td>12</td>
@@ -8499,40 +6419,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>18</td>
 <td>19</td>
 <td>20</td>
-<td>21</td>
-<td>22</td>
-<td>23</td>
-<td>24</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -8540,37 +6426,35 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
-<td colspan="2">Результаты рассмотрения дел</td>
+<td colspan="6">Результаты рассмотрения дел</td>
 <td rowspan="4">По жалобам и ходатайствам прокурора, поступившим одновременно отозвано + рассмотрено</td>
 <td rowspan="4">Рассмотрено дел после отмены вышестоящей инстанцией</td>
 </tr>
 <tr>
-<td colspan="2">по жалобам и протестам</td>
+<td colspan="6">по жалобам и протестам</td>
 </tr>
 <tr>
+<td colspan="2">из них</td>
+<td rowspan="2">всего рассмотрено по ходатайству прокурора</td>
+<td>из них</td>
 <td rowspan="2">всего рассмотрено по жалобе</td>
 <td>из них</td>
 </tr>
 <tr>
+<td>удовлетворено жалоб</td>
+<td>удовлетворено ходатайств прокурора</td>
+<td>удовлетворено по ходатайству прокурора</td>
 <td>удовлетворено по жалобе</td>
 </tr>
 <tr>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
 <td>25</td>
 <td>26</td>
 <td>27</td>
 <td>28</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -8582,13 +6466,13 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="2">Вынесено частных определений</td>
 <td rowspan="2">Рассмотрено жалоб на решение</td>
 <td rowspan="2">Рассмотрено жалоб на определение</td>
-<td rowspan="2">Всего окончено дел за отчетный период (сумма граф 13,16,18,20,24,26, 29, 31 минус графа 28)</td>
+<td rowspan="2">Всего окончено дел за отчетный период (сумма граф 13, 16, 18, 20, 24, 26, 29, 31 минус графа 28)</td>
 <td rowspan="2">Из них с нарушением сроков, установленных Гражданским процессуальным кодексом Республики Казахстан (далее – ГПК РК)</td>
 <td rowspan="2">Остаток неоконченных дел на конец отчетного периода</td>
 <td colspan="3">Всего дел по искам</td>
 </tr>
 <tr>
-<td>инвалидов</td>
+<td>лиц с инвалидностью</td>
 <td>в интересах несовершеннолетних</td>
 <td>лиц женского пола</td>
 </tr>
@@ -8604,35 +6488,13 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>37</td>
 <td>38</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
+
+форма
 
 Форма № 7 «Отчет по рассмотрению гражданских дел в апелляционной инстанции»
 
-Таблица Б «Результаты рассмотрения дел по апелляционным жалобам и протестам»
+Таблица Б «Результаты рассмотрения дел по апелляционным жалобам и ходатайствам»
 
 <table>
 <tr>
@@ -12015,7 +9877,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td rowspan="14">в том числе</td>
-<td colspan="13">по искам инвалидов</td>
+<td colspan="13">по искам лиц с инвалидностью</td>
 <td>237</td>
 <td></td>
 <td></td>
@@ -12184,7 +10046,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 </tr>
 <tr>
-<td colspan="11">Международная конвенция о правах инвалидов</td>
+<td colspan="11">Международная конвенция о правах лиц с инвалидностью</td>
 <td>249</td>
 <td></td>
 <td></td>
@@ -12217,7 +10079,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
-<td colspan="13">Решение отменено</td>
+<td colspan="12">Решение отменено</td>
 </tr>
 <tr>
 <td rowspan="2">полностью</td>
@@ -12230,7 +10092,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="2">с вынесением нового решения</td>
 <td rowspan="2">с оставлением иска без рассмотрения</td>
 <td colspan="2">из них</td>
-<td rowspan="2">с прекращением производства по делу</td>
 </tr>
 <tr>
 <td>с полным удовлетворением доводов ходатайства прокурора</td>
@@ -12251,37 +10112,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>20</td>
 <td>21</td>
 <td>22</td>
-<td>23</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -12289,10 +10119,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
-<td colspan="9">Решение отменено</td>
+<td colspan="10">Решение отменено</td>
 <td rowspan="3">Решение изменено</td>
 </tr>
 <tr>
+<td rowspan="2">с прекращением производства по делу</td>
 <td colspan="4">из них</td>
 <td rowspan="2">неправильное определение и выяснение круга обстоятельств, имеющих значение для дела</td>
 <td rowspan="2">недоказанность установленных судом 1-ой инстанции обстоятельств, имеющих значение для дела</td>
@@ -12307,6 +10138,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>с заключением соглашения об урегулировании спора в порядке партисипативной процедуры</td>
 </tr>
 <tr>
+<td>23</td>
 <td>24</td>
 <td>25</td>
 <td>26</td>
@@ -12317,30 +10149,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>31</td>
 <td>32</td>
 <td>33</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -12353,8 +10161,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2">в том числе</td>
 <td rowspan="3">Рассмотрено с прекращением производства по делу (из графы 9)</td>
 <td rowspan="3">другие (из графы 9)</td>
-<td rowspan="3">рассмотрено по вновь открывшимся обстоятельствам на судебные акты апелляционной инстанции</td>
-<td rowspan="3">Всего окончено дел за отчетный период (сумма граф 5, 8, 9, 11, 12, 33)</td>
 </tr>
 <tr>
 <td rowspan="2">по жалобе</td>
@@ -12379,36 +10185,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>41</td>
 <td>42</td>
 <td>43</td>
-<td>44</td>
-<td>45</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -12416,6 +10192,8 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
+<td rowspan="3">рассмотрено по вновь открывшимся обстоятельствам на судебные акты апелляционной инстанции</td>
+<td rowspan="3">Всего окончено дел за отчетный период (сумма граф 5, 8, 9, 11, 12, 33)</td>
 <td rowspan="3">из них с нарушением сроков, установленных ГПК РК</td>
 <td rowspan="3">в том числе по делам, связанным с бытовым насилием</td>
 <td rowspan="3">Вынесено частных определений</td>
@@ -12424,7 +10202,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3">Всего дел по искам</td>
 </tr>
 <tr>
-<td rowspan="2">инвалидов</td>
+<td rowspan="2">лиц с инвалидностью</td>
 <td rowspan="2">в интересах несовершеннолетних</td>
 <td rowspan="2">лиц женского пола</td>
 </tr>
@@ -12432,6 +10210,8 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>поступило ответов</td>
 </tr>
 <tr>
+<td>44</td>
+<td>45</td>
 <td>46</td>
 <td>47</td>
 <td>48</td>
@@ -12441,35 +10221,17 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>52</td>
 <td>53</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
+
+форма
 
 Форма № 7 «Отчет по рассмотрению гражданских дел в апелляционной инстанции»
 
-Таблица В «Результаты рассмотрения дел по частным жалобам и протестам»
+Таблица В «Результаты рассмотрения дел по частным жалобам и ходатайствам»
 
 <table>
 <tr>
-<td colspan="17">Категории споров</td>
+<td colspan="16">Категории споров</td>
 <td>Код строки</td>
 <td colspan="2">Остаток неоконченных дел на начало отчетного периода</td>
 <td colspan="2">Всего поступило дел за отчетный период</td>
@@ -12480,7 +10242,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2">Возвращено без рассмотрения</td>
 </tr>
 <tr>
-<td colspan="17">А</td>
+<td colspan="16">А</td>
 <td>Б</td>
 <td colspan="2">1</td>
 <td colspan="2">2</td>
@@ -12492,7 +10254,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td colspan="2" rowspan="19">ДЕЛА ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
-<td colspan="15">О взыскании алиментов на содержание несовершеннолетних детей, не связанным с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
+<td colspan="14">О взыскании алиментов на содержание несовершеннолетних детей, не связанным с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12503,7 +10265,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О возмещении расходов по розыску ответчика и (или) ребенка, заявленных уполномоченными органами</td>
+<td colspan="14">О возмещении расходов по розыску ответчика и (или) ребенка, заявленных уполномоченными органами</td>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12514,7 +10276,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
+<td colspan="14">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12525,7 +10287,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О взыскании сумм, затраченных на обучение курсантов учебных заведений, прекративших по собственному желанию обучение либо прохождение службы, а также уволенных или отчисленных по основаниям, предусмотренным законодательством Республики Казахстан, до истечения предусмотренного договором срока</td>
+<td colspan="14">О взыскании сумм, затраченных на обучение курсантов учебных заведений, прекративших по собственному желанию обучение либо прохождение службы, а также уволенных или отчисленных по основаниям, предусмотренным законодательством Республики Казахстан, до истечения предусмотренного договором срока</td>
 <td>4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12536,7 +10298,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
+<td colspan="14">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
 <td>5</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12547,7 +10309,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О взыскании государственных грантов, подъемных, пособий с молодых специалистов, направленных в сельскую местность, в случае неисполнения или ненадлежащего исполнения ими обязательств по договорам</td>
+<td colspan="14">О взыскании государственных грантов, подъемных, пособий с молодых специалистов, направленных в сельскую местность, в случае неисполнения или ненадлежащего исполнения ими обязательств по договорам</td>
 <td>6</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12558,7 +10320,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
+<td colspan="14">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
 <td>7</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12569,7 +10331,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О взыскании с физических лиц задолженности по таможенным платежам, налогам, специальным, антидемпинговым, компенсационным пошлинам, пеней, процентов</td>
+<td colspan="14">О взыскании с физических лиц задолженности по таможенным платежам, налогам, специальным, антидемпинговым, компенсационным пошлинам, пеней, процентов</td>
 <td>8</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12580,7 +10342,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="14">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12591,7 +10353,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об исполнении соглашений по спорам, связанным с предпринимательской, инвестиционной деятельностью, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="14">Об исполнении соглашений по спорам, связанным с предпринимательской, инвестиционной деятельностью, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>10</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12602,7 +10364,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="14">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>11</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12613,7 +10375,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об исполнении соглашений по спорам в сфере защиты прав потребителей, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="14">Об исполнении соглашений по спорам в сфере защиты прав потребителей, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12624,7 +10386,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="14">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>13</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12635,7 +10397,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О взыскании арендных платежей ввиду их неуплаты в сроки, установленные договором аренды, заявленным государственным органом</td>
+<td colspan="14">О взыскании арендных платежей ввиду их неуплаты в сроки, установленные договором аренды, заявленным государственным органом</td>
 <td>14</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12646,7 +10408,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="14">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>15</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12657,7 +10419,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об исполнении соглашений по спорам о публикации опровержения сведений, порочащих честь, достоинство или деловую репутацию гражданина и деловую репутацию юридического лица, либо ответа в средстве массовой информации</td>
+<td colspan="14">Об исполнении соглашений по спорам о публикации опровержения сведений, порочащих честь, достоинство или деловую репутацию гражданина и деловую репутацию юридического лица, либо ответа в средстве массовой информации</td>
 <td>16</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12668,7 +10430,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
+<td colspan="14">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
 <td>17</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12679,7 +10441,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О перечислении обязательных пенсионных отчислений в ЕНПФ</td>
+<td colspan="14">О перечислении обязательных пенсионных отчислений в ЕНПФ</td>
 <td>18</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12690,7 +10452,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
+<td colspan="14">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
 <td>19</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12702,7 +10464,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td colspan="2" rowspan="141">ДЕЛА ИСКОВОГО ПРОИЗВОДСТВА</td>
-<td colspan="15">Трудовые споры</td>
+<td colspan="14">Трудовые споры</td>
 <td>20</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12713,7 +10475,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="4">в том числе</td>
+<td colspan="2" rowspan="4">в том числе</td>
 <td colspan="12">о восстановлении на работе уволенных</td>
 <td>21</td>
 <td colspan="2"></td>
@@ -12758,7 +10520,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, возникающие из брачно-семейных отношений</td>
+<td colspan="14">Споры, возникающие из брачно-семейных отношений</td>
 <td>25</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12769,7 +10531,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="17">в том числе</td>
+<td colspan="2" rowspan="17">в том числе</td>
 <td colspan="12">о взыскании алиментов на содержание несовершеннолетних детей</td>
 <td>26</td>
 <td colspan="2"></td>
@@ -12959,7 +10721,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры по вопросам наследственного права</td>
+<td colspan="14">Споры по вопросам наследственного права</td>
 <td>43</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12970,7 +10732,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры о праве собственности на имущество</td>
+<td colspan="14">Споры о праве собственности на имущество</td>
 <td>44</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -12981,7 +10743,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="8">в том числе</td>
+<td colspan="2" rowspan="8">в том числе</td>
 <td colspan="12">об освобождении имущества от ареста</td>
 <td>45</td>
 <td colspan="2"></td>
@@ -13070,7 +10832,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, возникающие из жилищных правоотношений</td>
+<td colspan="14">Споры, возникающие из жилищных правоотношений</td>
 <td>53</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13081,7 +10843,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="9">из них</td>
+<td colspan="2" rowspan="9">из них</td>
 <td colspan="12">о выселении граждан из жилища без предоставления другого жилого помещения</td>
 <td>54</td>
 <td colspan="2"></td>
@@ -13181,7 +10943,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, вытекающие из земельных правоотношений</td>
+<td colspan="14">Споры, вытекающие из земельных правоотношений</td>
 <td>63</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13192,7 +10954,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="3">в том числе</td>
+<td colspan="2" rowspan="3">в том числе</td>
 <td colspan="12">изъятие земельных участков для государственных надобностей</td>
 <td>64</td>
 <td colspan="2"></td>
@@ -13226,7 +10988,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
+<td colspan="14">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
 <td>67</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13237,7 +10999,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="26">в том числе</td>
+<td colspan="2" rowspan="26">в том числе</td>
 <td colspan="12">связанные с обращением взыскания на имущество</td>
 <td>68</td>
 <td colspan="2"></td>
@@ -13529,7 +11291,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="12">О признании сделки недействительной</td>
 <td>94</td>
 <td colspan="2"></td>
@@ -13541,7 +11303,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
+<td colspan="14">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
 <td>95</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13552,7 +11314,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="3">в том числе</td>
+<td colspan="3" rowspan="3">в том числе</td>
 <td colspan="11">по спорам до заключения договора</td>
 <td>96</td>
 <td colspan="2"></td>
@@ -13586,7 +11348,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
+<td colspan="14">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
 <td>99</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13597,7 +11359,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, связанные с лицензионной деятельностью</td>
+<td colspan="14">Споры, связанные с лицензионной деятельностью</td>
 <td>100</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13608,7 +11370,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7" rowspan="2">в том числе</td>
+<td colspan="6" rowspan="2">в том числе</td>
 <td colspan="8">с отзывом лицензии</td>
 <td>101</td>
 <td colspan="2"></td>
@@ -13631,7 +11393,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О приостановлении деятельности юридических лиц и индивидуальных предпринимателей</td>
+<td colspan="14">О приостановлении деятельности юридических лиц и индивидуальных предпринимателей</td>
 <td>103</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13642,7 +11404,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О лжепредпринимательстве</td>
+<td colspan="14">О лжепредпринимательстве</td>
 <td>104</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13653,7 +11415,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, связанные с ценными бумагами</td>
+<td colspan="14">Споры, связанные с ценными бумагами</td>
 <td>105</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13664,7 +11426,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7">в том числе</td>
+<td colspan="6">в том числе</td>
 <td colspan="8">с отказом в регистрации или с незаконной регистрацией ценных бумаг</td>
 <td>106</td>
 <td colspan="2"></td>
@@ -13676,7 +11438,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, связанные с нарушением налогового законодательства</td>
+<td colspan="14">Споры, связанные с нарушением налогового законодательства</td>
 <td>107</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13687,7 +11449,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="5">в том числе</td>
+<td colspan="2" rowspan="5">в том числе</td>
 <td colspan="12">иски налоговых органов о взыскании налогов и сборов с физических лиц</td>
 <td>108</td>
 <td colspan="2"></td>
@@ -13743,7 +11505,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры в сфере таможенного законодательства</td>
+<td colspan="14">Споры в сфере таможенного законодательства</td>
 <td>113</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13754,7 +11516,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7">в том числе</td>
+<td colspan="6">в том числе</td>
 <td colspan="8">в рамках Таможенного Союза, Всемирной торговой организации</td>
 <td>114</td>
 <td colspan="2"></td>
@@ -13766,7 +11528,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, связанные с нарушением бюджетного законодательства</td>
+<td colspan="14">Споры, связанные с нарушением бюджетного законодательства</td>
 <td>115</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13777,7 +11539,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, связанные с нарушением пенсионного законодательства</td>
+<td colspan="14">Споры, связанные с нарушением пенсионного законодательства</td>
 <td>116</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13788,7 +11550,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О взыскании пособий, компенсаций</td>
+<td colspan="14">О взыскании пособий, компенсаций</td>
 <td>117</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13799,7 +11561,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="10">в том числе</td>
+<td colspan="9">в том числе</td>
 <td colspan="5">о взыскании детских пособий</td>
 <td>118</td>
 <td colspan="2"></td>
@@ -13811,7 +11573,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
+<td colspan="14">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
 <td>119</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13822,7 +11584,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О возмещении вреда</td>
+<td colspan="14">О возмещении вреда</td>
 <td>120</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13833,10 +11595,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="10">в том числе</td>
-<td colspan="12">о возмещении морального вреда</td>
-<td colspan="2">121</td>
-<td></td>
+<td rowspan="10">в том числе</td>
+<td colspan="13">о возмещении морального вреда</td>
+<td>121</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
@@ -13845,9 +11607,9 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 </tr>
 <tr>
-<td colspan="12">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
-<td colspan="2">122</td>
-<td></td>
+<td colspan="13">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
+<td>122</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
@@ -13857,20 +11619,9 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td colspan="3" rowspan="2">из них</td>
-<td colspan="9">в связи с исполнением трудовых обязанностей</td>
-<td colspan="2">123</td>
-<td></td>
+<td colspan="10">в связи с исполнением трудовых обязанностей</td>
+<td>123</td>
 <td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
-<td colspan="2">124</td>
-<td></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
@@ -13879,9 +11630,20 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 </tr>
 <tr>
-<td colspan="12">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
-<td colspan="2">125</td>
+<td colspan="10">из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
+<td>124</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="13">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
+<td>125</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
@@ -13891,20 +11653,9 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td colspan="3" rowspan="5">из них</td>
-<td colspan="9">в порядке регресса</td>
-<td colspan="2">126</td>
-<td></td>
+<td colspan="10">в порядке регресса</td>
+<td>126</td>
 <td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">по делам реабилитации</td>
-<td colspan="2">127</td>
-<td></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
@@ -13913,20 +11664,9 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 </tr>
 <tr>
-<td colspan="9">по делам оправданных в суде</td>
-<td colspan="2">128</td>
-<td></td>
+<td colspan="10">по делам реабилитации</td>
+<td>127</td>
 <td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">по делам о нарушении гражданских прав</td>
-<td colspan="2">129</td>
-<td></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
@@ -13935,9 +11675,9 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 </tr>
 <tr>
-<td colspan="9">по делам, связанным с пытками</td>
-<td colspan="2">190</td>
-<td></td>
+<td colspan="10">по делам оправданных в суде</td>
+<td>128</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
@@ -13946,7 +11686,29 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 </tr>
 <tr>
-<td colspan="15">Споры о возмещении ущерба</td>
+<td colspan="10">по делам о нарушении гражданских прав</td>
+<td>129</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10">по делам, связанным с пытками</td>
+<td>190</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="14">Споры о возмещении ущерба</td>
 <td>131</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13957,7 +11719,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7">в том числе</td>
+<td colspan="6">в том числе</td>
 <td colspan="8">споры о возмещении ущерба от дорожно-транспортного происшествия</td>
 <td>132</td>
 <td colspan="2"></td>
@@ -13969,7 +11731,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О защите прав потребителя</td>
+<td colspan="14">О защите прав потребителя</td>
 <td>133</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -13980,7 +11742,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7" rowspan="2">в том числе</td>
+<td colspan="6" rowspan="2">в том числе</td>
 <td colspan="8">из договоров в сфере торговли, услуг</td>
 <td>134</td>
 <td colspan="2"></td>
@@ -14003,7 +11765,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Иски о защите чести, достоинства и деловой репутации</td>
+<td colspan="14">Иски о защите чести, достоинства и деловой репутации</td>
 <td>136</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14014,7 +11776,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7" rowspan="3">в том числе</td>
+<td colspan="6" rowspan="3">в том числе</td>
 <td colspan="8">к средствам массовой информации</td>
 <td>137</td>
 <td colspan="2"></td>
@@ -14048,7 +11810,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, связанные с интеллектуальной собственностью</td>
+<td colspan="14">Споры, связанные с интеллектуальной собственностью</td>
 <td>140</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14059,7 +11821,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7" rowspan="2">в том числе</td>
+<td colspan="6" rowspan="2">в том числе</td>
 <td colspan="8">о защите авторских прав</td>
 <td>141</td>
 <td colspan="2"></td>
@@ -14082,7 +11844,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Иски, связанные с охраной окружающей среды</td>
+<td colspan="14">Иски, связанные с охраной окружающей среды</td>
 <td>143</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14093,7 +11855,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="4">в том числе</td>
+<td colspan="2" rowspan="4">в том числе</td>
 <td colspan="12">о возмещении ущерба за нарушение природоохранного законодательства</td>
 <td>144</td>
 <td colspan="2"></td>
@@ -14138,7 +11900,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Иски, связанные с интернет-ресурсами</td>
+<td colspan="14">Иски, связанные с интернет-ресурсами</td>
 <td>148</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14149,7 +11911,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Иски о признании забастовок незаконными</td>
+<td colspan="14">Иски о признании забастовок незаконными</td>
 <td>149</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14160,7 +11922,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об обязании, понуждении (исполнения, требования, предписания)</td>
+<td colspan="14">Об обязании, понуждении (исполнения, требования, предписания)</td>
 <td>150</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14171,7 +11933,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
+<td colspan="14">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
 <td>151</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14182,7 +11944,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О взыскании процессуальных издержек</td>
+<td colspan="14">О взыскании процессуальных издержек</td>
 <td>152</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14193,7 +11955,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О расторжении медиативного соглашения</td>
+<td colspan="14">О расторжении медиативного соглашения</td>
 <td>153</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14204,7 +11966,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Иски об уничтожении запрещенных предметов</td>
+<td colspan="14">Иски об уничтожении запрещенных предметов</td>
 <td>154</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14215,7 +11977,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Корпоративные споры</td>
+<td colspan="14">Корпоративные споры</td>
 <td>155</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14226,7 +11988,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7" rowspan="2">в том числе</td>
+<td colspan="6" rowspan="2">в том числе</td>
 <td colspan="8">о выделении доли, принудительном выкупе доли</td>
 <td>156</td>
 <td colspan="2"></td>
@@ -14249,7 +12011,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Прочие исковые дела</td>
+<td colspan="14">Прочие исковые дела</td>
 <td>158</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14260,7 +12022,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td colspan="14">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
 <td>159</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14271,7 +12033,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7">в том числе</td>
+<td colspan="6">в том числе</td>
 <td colspan="8">с участием иностранных лиц</td>
 <td>160</td>
 <td colspan="2"></td>
@@ -14284,7 +12046,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td colspan="2" rowspan="4">Дела особого искового производства</td>
-<td colspan="15">Производство по делам об оспаривании законности нормативных правовых актов</td>
+<td colspan="14">Производство по делам об оспаривании законности нормативных правовых актов</td>
 <td>161</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14295,7 +12057,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="11">в том числе</td>
+<td colspan="10">в том числе</td>
 <td colspan="4">зарегистрированных в органах юстиции</td>
 <td>162</td>
 <td colspan="2"></td>
@@ -14307,7 +12069,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td colspan="14">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
 <td>163</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14318,7 +12080,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7">в том числе</td>
+<td colspan="6">в том числе</td>
 <td colspan="8">с участием иностранных лиц</td>
 <td>164</td>
 <td colspan="2"></td>
@@ -14331,7 +12093,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td colspan="2" rowspan="43">Дела особого производства</td>
-<td colspan="15">Об установлении фактов, имеющих юридическое значение</td>
+<td colspan="14">Об установлении фактов, имеющих юридическое значение</td>
 <td>165</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14342,7 +12104,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7" rowspan="9">в том числе</td>
+<td colspan="6" rowspan="9">в том числе</td>
 <td colspan="8">родственных отношений лиц</td>
 <td>166</td>
 <td colspan="2"></td>
@@ -14442,7 +12204,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">По заявлениям об усыновлении (удочерении) ребенка</td>
+<td colspan="14">По заявлениям об усыновлении (удочерении) ребенка</td>
 <td>175</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14453,7 +12215,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">в том числе</td>
+<td colspan="8">в том числе</td>
 <td colspan="6">иностранными гражданами</td>
 <td>176</td>
 <td colspan="2"></td>
@@ -14465,7 +12227,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
+<td colspan="14">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
 <td>177</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14476,7 +12238,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об отмене решения о признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
+<td colspan="14">Об отмене решения о признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
 <td>178</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14487,7 +12249,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об ограничении дееспособности гражданина</td>
+<td colspan="14">Об ограничении дееспособности гражданина</td>
 <td>179</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14498,7 +12260,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О признании гражданина недееспособным</td>
+<td colspan="14">О признании гражданина недееспособным</td>
 <td>180</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14509,7 +12271,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
+<td colspan="14">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
 <td>181</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14520,7 +12282,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">об отмене ограничения дееспособности гражданина</td>
+<td colspan="14">об отмене ограничения дееспособности гражданина</td>
 <td>182</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14531,7 +12293,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
+<td colspan="14">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
 <td>183</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14542,7 +12304,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О направлении несовершеннолетних в специальные организации образования для детей с девиантным поведением или организации с особым режимом с содержания</td>
+<td colspan="14">О направлении несовершеннолетних в специальные организации образования для детей с девиантным поведением или организации с особым режимом с содержания</td>
 <td>184</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14553,7 +12315,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О принудительной госпитализации гражданина в психиатрический стационар</td>
+<td colspan="14">О принудительной госпитализации гражданина в психиатрический стационар</td>
 <td>185</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14564,7 +12326,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О направлении гражданина, больного алкоголизмом, наркоманией или токсикоманией, на принудительное лечение в наркологическую организацию</td>
+<td colspan="14">О направлении гражданина, больного алкоголизмом, наркоманией или токсикоманией, на принудительное лечение в наркологическую организацию</td>
 <td>186</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14575,7 +12337,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О принудительном лечении гражданина, больного туберкулезом</td>
+<td colspan="14">О принудительном лечении гражданина, больного туберкулезом</td>
 <td>187</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14586,7 +12348,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О реструктуризации финансовых организаций и организаций, входящих в банковский конгломерат в качестве родительской организации и не являющихся финансовыми организациями</td>
+<td colspan="14">О реструктуризации финансовых организаций и организаций, входящих в банковский конгломерат в качестве родительской организации и не являющихся финансовыми организациями</td>
 <td>188</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14597,7 +12359,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О реабилитации, в том числе об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
+<td colspan="14">О реабилитации, в том числе об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
 <td>189</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14608,7 +12370,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О банкротстве</td>
+<td colspan="14">О банкротстве</td>
 <td>190</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14619,7 +12381,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7" rowspan="3">в том числе</td>
+<td colspan="6" rowspan="3">в том числе</td>
 <td colspan="8">юридического лица</td>
 <td>191</td>
 <td colspan="2"></td>
@@ -14653,7 +12415,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
+<td colspan="14">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
 <td>194</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14664,7 +12426,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Об установлении неправильностей записей актов гражданского состояния</td>
+<td colspan="14">Об установлении неправильностей записей актов гражданского состояния</td>
 <td>195</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14675,7 +12437,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">По жалобам на нотариальные действия или на отказ в их совершении</td>
+<td colspan="14">По жалобам на нотариальные действия или на отказ в их совершении</td>
 <td>196</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14686,7 +12448,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">в том числе</td>
+<td colspan="8">в том числе</td>
 <td colspan="6">об отмене исполнительской надписи</td>
 <td>197</td>
 <td colspan="2"></td>
@@ -14698,7 +12460,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
+<td colspan="14">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
 <td>198</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14709,7 +12471,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">По заявлениям о признании организации, осуществляющей экстремизм или террористическую деятельность на территории Республики Казахстан и (или) другого государства, экстремистской или террористической, в том числе об установлении изменения ею своего наименования, а также о признании информационных материалов, ввозимых, издаваемых, изготавливаемых и (или) распространяемых на территории Республики Казахстан, экстремистскими или террористическими</td>
+<td colspan="14">По заявлениям о признании организации, осуществляющей экстремизм или террористическую деятельность на территории Республики Казахстан и (или) другого государства, экстремистской или террористической, в том числе об установлении изменения ею своего наименования, а также о признании информационных материалов, ввозимых, издаваемых, изготавливаемых и (или) распространяемых на территории Республики Казахстан, экстремистскими или террористическими</td>
 <td>199</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14720,7 +12482,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
+<td colspan="14">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
 <td>200</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14731,7 +12493,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">По заявлениям о выдворении иностранца или лица без гражданства за пределы Республики Казахстан за нарушение законодательства Республики Казахстан</td>
+<td colspan="14">По заявлениям о выдворении иностранца или лица без гражданства за пределы Республики Казахстан за нарушение законодательства Республики Казахстан</td>
 <td>201</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14742,7 +12504,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О признании гражданина жертвой политических репрессий</td>
+<td colspan="14">О признании гражданина жертвой политических репрессий</td>
 <td>202</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14753,7 +12515,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">О признании наследства выморочным</td>
+<td colspan="14">О признании наследства выморочным</td>
 <td>203</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14764,7 +12526,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">о восстановлении утраченного судебного или исполнительного производства</td>
+<td colspan="14">о восстановлении утраченного судебного или исполнительного производства</td>
 <td>204</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14775,7 +12537,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">Прочие дела особого производства</td>
+<td colspan="14">Прочие дела особого производства</td>
 <td>205</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14786,7 +12548,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="15">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
+<td colspan="14">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
 <td>206</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14797,7 +12559,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="11">в том числе</td>
+<td colspan="10">в том числе</td>
 <td colspan="4">с участием иностранных лиц</td>
 <td>207</td>
 <td colspan="2"></td>
@@ -14809,7 +12571,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="17">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
+<td colspan="16">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
 <td>208</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14820,7 +12582,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="17">Производство по ходатайству об отмене арбитражных решений</td>
+<td colspan="16">Производство по ходатайству об отмене арбитражных решений</td>
 <td>209</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14831,7 +12593,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="8">в том числе</td>
+<td colspan="7">в том числе</td>
 <td colspan="9">третейских судов</td>
 <td>210</td>
 <td colspan="2"></td>
@@ -14843,7 +12605,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="17">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
+<td colspan="16">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
 <td>211</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14855,7 +12617,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td rowspan="6">в том числе</td>
-<td colspan="16">о дискриминации женщин по признаку пола</td>
+<td colspan="15">о дискриминации женщин по признаку пола</td>
 <td>212</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14866,7 +12628,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">по делам, связанным с бытовым насилием</td>
+<td colspan="15">по делам, связанным с бытовым насилием</td>
 <td>213</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14877,7 +12639,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">по инвестиционным спорам</td>
+<td colspan="15">по инвестиционным спорам</td>
 <td>214</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14888,7 +12650,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="9">из низ</td>
+<td colspan="8">из низ</td>
 <td colspan="7">с участием иностранных инвесторов</td>
 <td>215</td>
 <td colspan="2"></td>
@@ -14900,7 +12662,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">о возмещении морального вреда с другими основными требованиями</td>
+<td colspan="15">о возмещении морального вреда с другими основными требованиями</td>
 <td>216</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14911,7 +12673,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">в упрощенном (письменном) производстве</td>
+<td colspan="15">в упрощенном (письменном) производстве</td>
 <td>217</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14922,7 +12684,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="17">Материалы, представления и тому подобное</td>
+<td colspan="16">Материалы, представления и тому подобное</td>
 <td>218</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14934,7 +12696,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td rowspan="17">в том числе</td>
-<td colspan="16">об отсрочке, рассрочке исполнения решения суда</td>
+<td colspan="15">об отсрочке, рассрочке исполнения решения суда</td>
 <td>219</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14945,7 +12707,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">об изменении способа и порядка исполнения решения суда, в том числе о замене должника (взыскателя)</td>
+<td colspan="15">об изменении способа и порядка исполнения решения суда, в том числе о замене должника (взыскателя)</td>
 <td>220</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14956,7 +12718,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">об отсрочке, рассрочке, изменении способа мирового соглашения сторон</td>
+<td colspan="15">об отсрочке, рассрочке, изменении способа мирового соглашения сторон</td>
 <td>221</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14967,7 +12729,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">о повороте исполнения решения суда</td>
+<td colspan="15">о повороте исполнения решения суда</td>
 <td>222</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14978,7 +12740,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">по представлению судебного исполнителя</td>
+<td colspan="15">по представлению судебного исполнителя</td>
 <td>223</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -14989,7 +12751,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">о санкционировании постановления судебного исполнителя об ограничении выезда гражданина за пределы Республики Казахстан</td>
+<td colspan="15">о санкционировании постановления судебного исполнителя об ограничении выезда гражданина за пределы Республики Казахстан</td>
 <td>224</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15000,7 +12762,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">о санкционировании других постановлений судебного исполнителя</td>
+<td colspan="15">о санкционировании других постановлений судебного исполнителя</td>
 <td>225</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15011,7 +12773,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">о взыскании (отсрочке, рассрочке) исполнительской санкции</td>
+<td colspan="15">о взыскании (отсрочке, рассрочке) исполнительской санкции</td>
 <td>226</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15022,7 +12784,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">санкционирование постановления судебного исполнителя о приводе должника</td>
+<td colspan="15">санкционирование постановления судебного исполнителя о приводе должника</td>
 <td>227</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15033,7 +12795,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">из строк 221-225</td>
+<td colspan="12">из строк 221-225</td>
 <td colspan="3">частным судебным исполнителем</td>
 <td>228</td>
 <td colspan="2"></td>
@@ -15045,7 +12807,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">судебное поручение</td>
+<td colspan="15">судебное поручение</td>
 <td>229</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15056,7 +12818,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">о выдаче исполнительного листа (дубликата)</td>
+<td colspan="15">о выдаче исполнительного листа (дубликата)</td>
 <td>230</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15067,7 +12829,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
+<td colspan="15">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
 <td>231</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15078,7 +12840,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">об индексации присужденных денежных сумм</td>
+<td colspan="15">об индексации присужденных денежных сумм</td>
 <td>232</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15089,7 +12851,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">о восстановлении срока предъявления исполнительного листа</td>
+<td colspan="15">о восстановлении срока предъявления исполнительного листа</td>
 <td>233</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15100,7 +12862,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">Об обращении взыскания на недвижимое имущество должника</td>
+<td colspan="15">Об обращении взыскания на недвижимое имущество должника</td>
 <td>234</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15111,7 +12873,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">прочие материалы, представления</td>
+<td colspan="15">прочие материалы, представления</td>
 <td>235</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15122,7 +12884,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="17">ИТОГО ДЕЛ И МАТЕРИАЛОВ</td>
+<td colspan="16">ИТОГО ДЕЛ И МАТЕРИАЛОВ</td>
 <td>236</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15134,7 +12896,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td rowspan="14">в том числе</td>
-<td colspan="16">по искам инвалидов</td>
+<td colspan="15">по искам лиц с инвалидностью</td>
 <td>237</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15145,7 +12907,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">по искам, заявленным в интересах несовершеннолетних</td>
+<td colspan="15">по искам, заявленным в интересах несовершеннолетних</td>
 <td>238</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15156,7 +12918,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">по искам лиц женского пола</td>
+<td colspan="15">по искам лиц женского пола</td>
 <td>239</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15167,7 +12929,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">с участием иностранных лиц</td>
+<td colspan="15">с участием иностранных лиц</td>
 <td>240</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15178,7 +12940,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">с участием субъектов малого и среднего предпринимательства</td>
+<td colspan="15">с участием субъектов малого и среднего предпринимательства</td>
 <td>241</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15189,7 +12951,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">дел на государственном языке</td>
+<td colspan="15">дел на государственном языке</td>
 <td>242</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15200,7 +12962,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="16">применен Международный договор</td>
+<td colspan="15">применен Международный договор</td>
 <td>243</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15211,7 +12973,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="7">из них</td>
+<td colspan="3" rowspan="7">из них</td>
 <td colspan="12">Международный пакт о гражданских о политических правах</td>
 <td>244</td>
 <td colspan="2"></td>
@@ -15267,7 +13029,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="12">Международная конвенция о правах инвалидов</td>
+<td colspan="12">Международная конвенция о правах лиц с инвалидностью</td>
 <td>249</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -15297,7 +13059,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="3">Определений, оставленных без изменения</td>
 <td rowspan="3">Рассмотрено дел после отмены вышестоящей инстанцией</td>
 <td rowspan="3">Всего отменено определений (сумма граф 11, 12)</td>
-<td colspan="9">Определение отменено</td>
+<td colspan="6">Определение отменено</td>
 </tr>
 <tr>
 <td rowspan="2">Полностью</td>
@@ -15305,13 +13067,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="2">по жалобе</td>
 <td rowspan="2">одновременно по жалобе и ходатайству</td>
 <td rowspan="2">по ходатайству прокурора</td>
-<td colspan="2">из них</td>
-<td rowspan="2">с направлением дела на новое рассмотрение</td>
-<td rowspan="2">с вынесением нового решения</td>
+<td>из них</td>
 </tr>
 <tr>
 <td>с полным удовлетворением доводов ходатайства</td>
-<td>с частичным удовлетворением доводов ходатайства</td>
 </tr>
 <tr>
 <td>8</td>
@@ -15323,37 +13082,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>14</td>
 <td>15</td>
 <td>16</td>
-<td>17</td>
-<td>18</td>
-<td>19</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -15361,42 +13089,33 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
-<td colspan="6">Определение отменено</td>
+<td colspan="9">Определение отменено</td>
 </tr>
 <tr>
+<td>из них</td>
+<td rowspan="2">с направлением дела на новое рассмотрение</td>
+<td rowspan="2">с вынесением нового решения</td>
 <td rowspan="2">с оставлением иска без рассмотрения</td>
 <td rowspan="2">с прекращением производства по делу</td>
 <td colspan="4">из них</td>
 </tr>
 <tr>
+<td>с частичным удовлетворением доводов ходатайства</td>
 <td>с отказом от иска</td>
 <td>с утверждением мирового соглашения</td>
 <td>с заключением соглашения об урегулировании спора в порядке медиации</td>
 <td>с заключением соглашения об урегулировании спора в порядке партисипативной процедуры</td>
 </tr>
 <tr>
+<td>17</td>
+<td>18</td>
+<td>19</td>
 <td>20</td>
 <td>21</td>
 <td>22</td>
 <td>23</td>
 <td>24</td>
 <td>25</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -15408,15 +13127,12 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="3">Определение изменено</td>
 <td colspan="5">из них:</td>
 <td rowspan="3">рассмотрено по вновь открывшимся обстоятельствам на судебные акты апелляционной инстанции</td>
-<td rowspan="3">Всего окончено дел за отчетный период (сумма граф 5, 8, 9, 10, 27)</td>
-<td>из них</td>
 </tr>
 <tr>
 <td rowspan="2">по жалобам</td>
 <td rowspan="2">одновременно по жалобе и ходатайству</td>
 <td rowspan="2">по ходатайству прокурора</td>
 <td colspan="2">из них:</td>
-<td rowspan="2">с нарушением сроков, установленных ГПК РК</td>
 </tr>
 <tr>
 <td>с полным удовлетворением доводов ходатайства</td>
@@ -15431,32 +13147,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>31</td>
 <td>32</td>
 <td>33</td>
-<td>34</td>
-<td>35</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -15464,13 +13154,16 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
+<td rowspan="3">Всего окончено дел за отчетный период (сумма граф 5, 8, 9, 10, 27)</td>
+<td>из них</td>
 <td rowspan="3">Вынесено частных определений</td>
 <td rowspan="2">из них</td>
 <td rowspan="3">Остаток неоконченных дел на конец отчетного периода</td>
 <td colspan="3">Всего дел по искам</td>
 </tr>
 <tr>
-<td rowspan="2">инвалидов</td>
+<td rowspan="2">с нарушением сроков, установленных ГПК РК</td>
+<td rowspan="2">лиц с инвалидностью</td>
 <td rowspan="2">в интересах несовершеннолетних</td>
 <td rowspan="2">лиц женского пола</td>
 </tr>
@@ -15478,28 +13171,14 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>поступило ответов</td>
 </tr>
 <tr>
+<td>34</td>
+<td>35</td>
 <td>36</td>
 <td>37</td>
 <td>38</td>
 <td>39</td>
 <td>40</td>
 <td>41</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -15558,30 +13237,15 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 > *Республики Казахстан*  
 > *от 2 ноября 2017 года № 124*
 
-> *Сноска. Форма № 7-К в редакции приказа Генерального Прокурора РК от 19.11.2019 № 148 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 20.11.2020 № 141 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказов Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021); от 12.07.2022 № 149 (вводится в действие после дня его первого официального опубликования).*
+> *Сноска. Форма № 7-К в редакции приказа Генерального Прокурора РК от 19.11.2019 № 148 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 20.11.2020 № 141 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказов Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021); от 12.07.2022 № 149 (вводится в действие после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 16.09.2022 № 185 (вводится в действие после дня его первого официального опубликования).*
 
 форма
 
-Форма №7 К «Отчет по рассмотрению гражданских дел в кассационной инстанции»
+Форма № 7 К «Отчет по рассмотрению гражданских дел в кассационной инстанции»
 
 Таблица А «Движение ходатайств»
 
 <table>
-<tr>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
 <tr>
 <td colspan="16" rowspan="2">Категории споров</td>
 <td rowspan="2">Код строки</td>
@@ -18729,7 +16393,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td rowspan="14">в том числе</td>
-<td colspan="15">по искам инвалидов</td>
+<td colspan="15">по искам лиц с инвалидностью</td>
 <td>237</td>
 <td></td>
 <td></td>
@@ -18886,7 +16550,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 </tr>
 <tr>
-<td colspan="13">Международная конвенция о правах инвалидов</td>
+<td colspan="13">Международная конвенция о правах лиц с инвалидностью</td>
 <td>249</td>
 <td></td>
 <td></td>
@@ -18940,26 +16604,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>16</td>
 <td>17</td>
 </tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
 Продолжение таблицы
@@ -18973,7 +16617,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="4">из графы 9 (по искам)</td>
 </tr>
 <tr>
-<td>инвалидов</td>
+<td>лиц с инвалидностью</td>
 <td>в интересах несовершеннолетних</td>
 <td colspan="2">лиц женского пола</td>
 </tr>
@@ -18986,42 +16630,26 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>23</td>
 <td colspan="2">24</td>
 </tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
 </table>
 
-Форма № 7К "»Отчет по рассмотрению гражданских дел в кассационной инстанции»
+форма
+
+Форма № 7-К «Отчет по рассмотрению гражданских дел в кассационной инстанции»
 
 Таблица Б «Результаты рассмотрения дел»
 
 <table>
 <tr>
 <td colspan="16" rowspan="2">Наименование</td>
-<td rowspan="2"></td>
+<td rowspan="2">Код строки</td>
 <td rowspan="2">Остаток дел на начало отчетного периода</td>
-<td colspan="4">из них</td>
-<td rowspan="2">Поступило дел</td>
 <td colspan="3">из них</td>
-<td colspan="2" rowspan="2">Возобновлено надзорных производств после отмены первоначальных судебных актов по вновь открывшимся обстоятельствам</td>
+<td colspan="2" rowspan="2">Поступило дел</td>
+<td colspan="3">из них</td>
+<td rowspan="2">Возобновлено надзорных производств после отмены первоначальных судебных актов по вновь открывшимся обстоятельствам</td>
 </tr>
 <tr>
-<td colspan="2">по ходатайству</td>
+<td>по ходатайству</td>
 <td colspan="2">по протесту</td>
 <td colspan="2">по ходатайству</td>
 <td>по протесту</td>
@@ -19030,2409 +16658,2409 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="16">А</td>
 <td>Б</td>
 <td>1</td>
-<td colspan="2">2</td>
+<td>2</td>
 <td colspan="2">3</td>
-<td>4</td>
+<td colspan="2">4</td>
 <td colspan="2">5</td>
 <td>6</td>
-<td colspan="2">7</td>
+<td>7</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="19">ДЕЛА ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
 <td colspan="14">О взыскании алиментов на содержание несовершеннолетних детей, не связанных с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
 <td>1</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О возмещении расходов по розыску ответчика и (или) ребенка, заявленных уполномоченными органами</td>
 <td>2</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
 <td>3</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О взыскании сумм, затраченных на обучение курсантов учебных заведений, прекративших по собственному желанию обучение либо прохождение службы, а также уволенных или отчисленных по основаниям, предусмотренным законодательством Республики Казахстан, до истечения предусмотренного договором срока</td>
 <td>4</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
 <td>5</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О взыскании государственных грантов, подъемных, пособий с молодых специалистов, направленных в сельскую местность, в случае неисполнения или ненадлежащего исполнения ими обязательств по договорам</td>
 <td>6</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
 <td>7</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О взыскании с физических лиц задолженности по таможенным платежам, налогам, специальным, антидемпинговым, компенсационным пошлинам, пеней, процентов</td>
 <td>8</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>9</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об исполнении соглашений по спорам, связанным с предпринимательской, инвестиционной деятельностью, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>10</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>11</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об исполнении соглашений по спорам в сфере защиты прав потребителей, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>12</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>13</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О взыскании арендных платежей ввиду их неуплаты в сроки, установленные договором аренды, заявленным государственным органом</td>
 <td>14</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>15</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об исполнении соглашений по спорам о публикации опровержения сведений, порочащих честь, достоинство или деловую репутацию гражданина и деловую репутацию юридического лица, либо ответа в средстве массовой информации</td>
-<td>16</td>
+<td>6</td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="14">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
 <td>17</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О перечислении обязательных пенсионных отчислений в ЕНПФ</td>
 <td>18</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
 <td>19</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2" rowspan="141">ДЕЛА ИСКОВОГО ПРОИЗВОДСТВА</td>
 <td colspan="14">Трудовые споры</td>
 <td>20</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="4">в том числе</td>
 <td colspan="13">о восстановлении на работе уволенных</td>
 <td>21</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о восстановлении на работе уволенных, в том числе. с выплатой заработной платы</td>
 <td>22</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о выплате заработной платы и иных платежей</td>
 <td>23</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">об оспаривании приказов о наложении дисциплинарных взысканий за совершение коррупционных правонарушений</td>
 <td>24</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, возникающие из брачно-семейных отношений</td>
 <td>25</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="17">в том числе</td>
 <td colspan="13">о взыскании алиментов на содержание несовершеннолетних детей</td>
 <td>26</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="8">из них</td>
 <td colspan="5">с установлением отцовства (материнства)</td>
 <td>27</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">об установлении отцовства (без требования о взыскании алиментов)</td>
 <td>28</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о взыскании алиментов на время обучения</td>
-<td>29</td>
+<td>2</td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="13">о взыскании алиментов на содержание супруги (супруга)</td>
 <td>30</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о взыскании алиментов на содержание родителей</td>
 <td>31</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о снижении (увеличении) размера взыскиваемых алиментов, приостановлении взыскания алиментов</td>
 <td>32</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о лишении родительских прав</td>
 <td>33</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о восстановлении родительских прав</td>
 <td>34</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">об ограничении родительских прав</td>
 <td>35</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">об определении местожительства детей</td>
 <td>36</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">об определении порядка общения с детьми</td>
 <td>37</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">об отмене усыновления (удочерения)</td>
 <td>38</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о расторжении брака</td>
 <td>39</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="4">из них</td>
 <td colspan="9">лиц, имеющих несовершеннолетних детей</td>
 <td>40</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о разделе имущества между супругами</td>
 <td>41</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">споры, связанные с брачным договором</td>
 <td>42</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры по вопросам наследственного права</td>
 <td>43</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры о праве собственности на имущество</td>
 <td>44</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="8">в том числе</td>
 <td colspan="13">об освобождении имущества от ареста</td>
 <td>45</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о выделении доли из имущества</td>
 <td>46</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">Об обязании освободить незаконно занимаемое нежилое помещение</td>
 <td>47</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">Об истребовании из чужого незаконного владения</td>
 <td>48</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">О прекращении права собственности</td>
 <td>49</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">Об оспаривании результатов оценки имущества</td>
 <td>50</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">О незаконном захвате имущества юридических и физических лиц</td>
 <td>51</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">Споры о праве собственности на жилище</td>
 <td>52</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, возникающие из жилищных правоотношений</td>
 <td>53</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="9">из них</td>
 <td colspan="13">о выселении граждан из жилища без предоставления другого жилого помещения</td>
 <td>54</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о выселении граждан из жилища с предоставлением другого жилого помещения</td>
 <td>55</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о вселении</td>
 <td>56</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о выделении доли из жилища</td>
 <td>57</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о восстановлении, передвижке в очереди нуждающихся в жилье</td>
 <td>58</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">об обжаловании действий (бездействия) кооператива собственников квартир потребительского кооператива</td>
+<td colspan="13">об обжаловании действий (бездействия) кооператива собственников квартир потребительского кооператив</td>
 <td>59</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о взыскании платы за жилье и коммунальные услуги, в том числе по иным договорам за услуги согласно установленным тарифам (в том числе услуги связи, телевидения)</td>
 <td>60</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о взыскании расходов на управление объектом кондоминиума и содержание общего имущества кондоминиума</td>
 <td>61</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">о сносе жилья (построек)</td>
 <td>62</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, вытекающие из земельных правоотношений</td>
 <td>63</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="3">в том числе</td>
 <td colspan="13">изъятие земельных участков для государственных надобностей</td>
 <td>64</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">об установлении (прекращении) сервитута</td>
 <td>65</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">об оспаривании права собственности на земельный участок и землепользования</td>
 <td>66</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
 <td>67</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="26">в том числе</td>
 <td colspan="13">связанные с обращением взыскания на имущество</td>
 <td>68</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">споры между юридическими лицами, гражданами, осуществляющими предпринимательскую деятельность</td>
 <td>69</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2">из них</td>
 <td colspan="10">с участием квазигосударственного сектора</td>
 <td>70</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="10">с участием государственных учреждений</td>
 <td>71</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">с долевым строительством</td>
 <td>72</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">с экономической, технологической, информационной безопасностью</td>
 <td>73</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по банковскому договору, в том числе потребительские кредиты, договор факторинга, микрофинансовые организации</td>
 <td>74</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2">из них</td>
 <td colspan="10">с ипотекой недвижимого имущества</td>
 <td>75</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="10">с обращением взыскания на имущество</td>
 <td>76</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору займа, в том числе образовательные услуги (гранты), ломбарды</td>
 <td>77</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">из них</td>
 <td colspan="10">споры о взыскании долга по договорам займа между физическими лицами</td>
 <td>78</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">с недропользованием</td>
 <td>79</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="4">из них</td>
 <td colspan="9">с участием иностранных лиц</td>
 <td>80</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору купли-продажи</td>
 <td>81</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору поставки</td>
 <td>82</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору подряда</td>
 <td>83</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору имущественного найма (аренды)</td>
 <td>84</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору лизинга</td>
 <td>85</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору хранения</td>
 <td>86</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору поручения</td>
 <td>87</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору комиссии</td>
 <td>88</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору дарения</td>
 <td>89</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору мены</td>
 <td>90</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору страхования</td>
 <td>91</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="7">в том числе</td>
 <td colspan="6">взыскание страховых выплат</td>
 <td>92</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">по договору перевозки</td>
 <td>93</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="13">О признании сделки недействительной</td>
 <td>94</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
 <td>95</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2" rowspan="3">в том числе</td>
 <td colspan="12">по спорам до заключения договора</td>
 <td>96</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="12">по спорам, относящимся к заключению договора</td>
 <td>97</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="12">по спорам об исполнении договора (о признании недобросовестным участником государственных закупок и взыскании неустойки)</td>
 <td>98</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
 <td>99</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, связанные с лицензионной деятельностью</td>
 <td>100</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2">в том числе</td>
 <td colspan="11">с отзывом лицензии</td>
 <td>101</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">с приостановлением лицензии</td>
 <td>102</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О приостановлении деятельности юридических лиц и индивидуальных предпринимателей</td>
 <td>103</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О лжепредпринимательстве</td>
 <td>104</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, связанные с ценными бумагами</td>
 <td>105</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">в том числе</td>
 <td colspan="11">с отказом в регистрации или с незаконной регистрацией ценных бумаг</td>
 <td>106</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, связанные с нарушением налогового законодательства</td>
 <td>107</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="5">в том числе</td>
+<td colspan="2" rowspan="5">в том чсле</td>
 <td colspan="12">иски налоговых органов о взыскании налогов и сборов с физических лиц</td>
 <td>108</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="12">иски налоговых органов о взыскании налогов и сборов с юридических лиц</td>
 <td>109</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="12">иски физических лиц к налоговым органам</td>
 <td>110</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="12">иски юридических лиц к налоговым органам</td>
 <td>111</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="12">о ликвидации юридического лица (прекращении деятельности индивидуального предпринимателя)</td>
 <td>112</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры в сфере таможенного законодательства</td>
 <td>113</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="6">в том числе</td>
 <td colspan="8">в рамках Таможенного Союза, Всемирной торговой организации</td>
-<td>114</td>
+<td>14</td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="14">Споры, связанные с нарушением бюджетного законодательства</td>
 <td>115</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, связанные с нарушением пенсионного законодательства</td>
 <td>116</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О взыскании пособий, компенсаций</td>
 <td>117</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="7">в том числе</td>
 <td colspan="7">о взыскании детских пособий</td>
 <td>118</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
 <td>119</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О возмещении вреда</td>
 <td>120</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="10">в том числе</td>
 <td colspan="13">о возмещении морального вреда</td>
 <td>121</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="13">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
+<td colspan="13">о возмещении вред за повреждение здоровья или смерть гражданина</td>
 <td>122</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2">из них</td>
 <td colspan="10">в связи с исполнением трудовых обязанностей</td>
 <td>123</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="10">из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
 <td>124</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
 <td>125</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="5">из них</td>
 <td colspan="10">в порядке регресса</td>
 <td>126</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="10">по делам реабилитации</td>
 <td>127</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="10">по делам оправданных в суде</td>
 <td>128</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="10">по делам о нарушении гражданских прав</td>
 <td>129</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="10">по делам, связанным с пытками</td>
 <td>130</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры о возмещении ущерба</td>
 <td>131</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">в том числе</td>
 <td colspan="11">споры о возмещении ущерба от дорожно-транспортного происшествия</td>
 <td>132</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О защите прав потребителя</td>
 <td>133</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2">в том числе</td>
 <td colspan="11">из договоров в сфере торговли, услуг</td>
 <td>134</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">иски, связанные с качеством медицинских услуг</td>
 <td>135</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Иски о защите чести, достоинства и деловой репутации</td>
 <td>136</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="3">в том числе</td>
 <td colspan="11">к средствам массовой информации</td>
 <td>137</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">к гражданам и юридическим лицам</td>
 <td>138</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">иски юридических лиц о защите деловой репутации</td>
 <td>139</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, связанные с интеллектуальной собственностью</td>
 <td>140</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2">в том числе</td>
 <td colspan="11">о защите авторских прав</td>
 <td>141</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">о товарных знаках</td>
 <td>142</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Иски, связанные с охраной окружающей среды</td>
 <td>143</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="4">в том числе</td>
 <td colspan="11">о возмещении ущерба за нарушение природоохранного законодательства</td>
 <td>144</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">о возмещении вреда жизни и здоровью, причиненного в результате несоблюдения экологического законодательства</td>
 <td>145</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">иски физических лиц</td>
 <td>146</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">иски общественных экологических организаций</td>
 <td>147</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Иски, связанные с интернет-ресурсами</td>
 <td>148</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Иски о признании забастовок незаконными</td>
 <td>149</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об обязании, понуждении (исполнения, требования, предписания)</td>
 <td>150</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
 <td>151</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О взыскании процессуальных издержек</td>
 <td>152</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О расторжении медиативного соглашения</td>
 <td>153</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Иски об уничтожении запрещенных предметов</td>
 <td>154</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Корпоративные споры</td>
 <td>155</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="2">в том числе</td>
 <td colspan="11">о выделении доли, принудительном выкупе доли</td>
 <td>156</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">об оспаривании протокола общего собрания</td>
 <td>157</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Прочие исковые дела</td>
 <td>158</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
 <td>159</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="7">в том числе</td>
 <td colspan="7">с участием иностранных лиц</td>
 <td>160</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">Дела особого искового производства</td>
 <td colspan="14">Производство по делам об оспаривании законности нормативных правовых актов</td>
 <td>161</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="7">в том числе</td>
 <td colspan="7">зарегистрированных в органах юстиции</td>
 <td>162</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
 <td>163</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="7">в том числе.</td>
 <td colspan="7">с участием иностранных лиц</td>
 <td>164</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2" rowspan="43">Дела особого производства</td>
 <td colspan="14">Об установлении фактов, имеющих юридическое значение</td>
 <td>165</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="9">в том числе</td>
 <td colspan="13">родственных отношений лиц</td>
 <td>166</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">нахождения лица на иждивении</td>
 <td>167</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">регистрации рождения, усыновления (удочерения), брака, развода и смерти</td>
 <td>168</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">признания отцовства</td>
 <td>169</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">принадлежности правоустанавливающих документов (за исключением воинских документов, паспортов, удостоверения личности и свидетельств, выдаваемых органами записи актов гражданского состояния) лицу</td>
 <td>170</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">наличия документов, подтверждающих владение, пользование и (или) распоряжение объектами недвижимого имущества</td>
 <td>171</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">несчастного случая</td>
 <td>172</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">смерти лица в определенное время при определенных обстоятельствах в случае отказа органов записи актов гражданского состояния в регистрации смерти</td>
 <td>173</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="13">принятия наследства и места открытия наследства</td>
 <td>174</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">По заявлениям об усыновлении (удочерении) ребенка</td>
 <td>175</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="8">в том числе</td>
 <td colspan="6">иностранными гражданами</td>
 <td>176</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
 <td>177</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об отмене решения о признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
-<td>178</td>
+<td>18</td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="14">Об ограничении дееспособности гражданина</td>
 <td>179</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О признании гражданина недееспособным</td>
 <td>180</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
 <td>181</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">об отмене ограничения дееспособности гражданина</td>
 <td>182</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
 <td>183</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О направлении несовершеннолетних в специальные организации образования для детей с девиантным поведением или организации с особым режимом с содержания</td>
 <td>184</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="14">О принудительной госпитализации гражданина в психиатрический стационар</td>
+<td colspan="14">О принудительной госпитализации гражданина в психиатрический стациона</td>
 <td>185</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О направлении гражданина, больного алкоголизмом, наркоманией или токсикоманией, на принудительное лечение в наркологическую организацию</td>
 <td>186</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О принудительном лечении гражданина, больного туберкулезом</td>
 <td>187</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О реструктуризации финансовых организаций и организаций, входящих в банковский конгломерат в качестве родительской организации и не являющихся финансовыми организациями</td>
 <td>188</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О реабилитации, в том числе. об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
 <td>189</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О банкротстве</td>
 <td>190</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3" rowspan="3">в том числе</td>
 <td colspan="11">юридического лица</td>
 <td>191</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">индивидуального предпринимателя</td>
 <td>192</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">в том числе о включении (исключении) в реестр требований кредиторов</td>
 <td>193</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
 <td>194</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Об установлении неправильностей записей актов гражданского состояния</td>
 <td>195</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">По жалобам на нотариальные действия или на отказ в их совершении</td>
 <td>196</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="10">в том числе</td>
 <td colspan="4">об отмене исполнительской надписи</td>
 <td>197</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
 <td>198</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">По заявлениям о признании организации, осуществляющей экстремизм или террористическую деятельность на территории Республики Казахстан и (или) другого государства, экстремистской или террористической, в том числе об установлении изменения ею своего наименования, а также о признании информационных материалов, ввозимых, издаваемых, изготавливаемых и (или) распространяемых на территории Республики Казахстан, экстремистскими или террористическими</td>
 <td>199</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
 <td>200</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">По заявлениям о выдворении иностранца или лица без гражданства за пределы Республики Казахстан за нарушение законодательства Республики Казахстан</td>
 <td>201</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О признании гражданина жертвой политических репрессий</td>
 <td>202</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">О признании наследства выморочным</td>
 <td>203</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">о восстановлении утраченного судебного или исполнительного производства</td>
 <td>204</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">Прочие дела особого производства</td>
 <td>205</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="14">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
 <td>206</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="7">в том числе</td>
 <td colspan="7">с участием иностранных лиц</td>
 <td>207</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="16">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
 <td>208</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="16">Производство по ходатайству об отмене арбитражных решений</td>
 <td>209</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="6">в том числе</td>
 <td colspan="10">третейских судов</td>
 <td>210</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="16">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
 <td>211</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="6">в том числе</td>
 <td colspan="15">о дискриминации женщин по признаку пола</td>
 <td>212</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">по делам, связанным с бытовым насилием</td>
 <td>213</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">по инвестиционным спорам</td>
 <td>214</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">из них</td>
@@ -21440,401 +19068,401 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>с участием иностранных инвесторов</td>
 <td colspan="2">215</td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">о возмещении морального вреда с другими основными требованиями</td>
 <td>216</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">в упрощенном (письменном) производстве</td>
 <td>217</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="16">Материалы, представления и тому подобное</td>
 <td>218</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="17">в том числе</td>
 <td colspan="15">об отсрочке, рассрочке исполнения решения суда</td>
 <td>219</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">об изменении способа и порядка исполнения решения суда, в том числе о замене должника (взыскателя)</td>
 <td>220</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">об отсрочке, рассрочке, изменении способа мирового соглашения сторон</td>
 <td>221</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">о повороте исполнения решения суда</td>
 <td>222</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">по представлению судебного исполнителя</td>
 <td>223</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">о санкционировании постановления судебного исполнителя об ограничении выезда гражданина за пределы Республики Казахстан</td>
 <td>224</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">о санкционировании других постановлений судебного исполнителя</td>
 <td>225</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">о взыскании (отсрочке, рассрочке) исполнительской санкции</td>
 <td>226</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">санкционировании постановления судебного исполнителя о приводе должника</td>
 <td>227</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="12">из строк 221-225</td>
 <td colspan="3">частным судебным исполнителем</td>
 <td>228</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">судебное поручение</td>
 <td>229</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">о выдаче исполнительного листа (дубликата)</td>
 <td>230</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
 <td>231</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">об индексации присужденных денежных сумм</td>
 <td>232</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">о восстановлении срока предъявления исполнительного листа</td>
 <td>233</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">Об обращении взыскания на недвижимое имущество должника</td>
 <td>234</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">прочие материалы, представления</td>
 <td>235</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="16">ИТОГО ДЕЛ И МАТЕРИАЛОВ</td>
 <td>236</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="14">в том числе</td>
-<td colspan="15">по искам инвалидов</td>
+<td colspan="15">по искам лиц с инвалидностью</td>
 <td>237</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">по искам, заявленным в интересах несовершеннолетних</td>
 <td>238</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">по искам лиц женского пола</td>
 <td>239</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">с участием иностранных лиц</td>
 <td>240</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">с участием субъектов малого и среднего предпринимательства</td>
 <td>241</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">дел на государственном языке</td>
 <td>242</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="15">применен Международный договор</td>
 <td>243</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="4" rowspan="7">из них</td>
 <td colspan="11">Международный пакт о гражданских о политических правах</td>
 <td>244</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">Международный пакт о ликвидации всех форм дискриминации в отношении женщин</td>
 <td>245</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">Международный пакт об экономических, социальных и культурных правах</td>
 <td>246</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">Международная конвенция о ликвидации всех форм расовой дискриминации</td>
 <td>247</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">Международная конвенция о правах ребенка</td>
 <td>248</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="11">Международная конвенция о правах инвалидов</td>
+<td colspan="11">Международная конвенция о правах лиц с инвалидностью</td>
 <td>249</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="11">в рамках реализации Орхусской конвенции</td>
 <td>250</td>
 <td></td>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 </tr>
 </table>
 
@@ -21842,2527 +19470,27 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
-<td colspan="19">из графы 4</td>
+<td colspan="22">из графы 4</td>
 </tr>
 <tr>
-<td colspan="3">по пересмотру решения суда первой инстанции</td>
+<td colspan="2">по пересмотру решения суда первой инстанции</td>
 <td colspan="3">по пересмотру решения суда первой инстанции и апелляционного постановления</td>
 <td colspan="3">по пересмотру апелляционного решения</td>
 <td colspan="3">по пересмотру апелляционного постановления</td>
-<td>по пересмотру решения суда первой инстанции и кассационного постановления</td>
-<td colspan="2">по пересмотру решения суда первой инстанции, апелляционного и кассационного постановлений</td>
-<td>по пересмотру апелляционного и кассационного постановления</td>
-<td colspan="3">по пересмотру кассационного постановления</td>
+<td colspan="2">по пересмотру решения суда первой инстанции и кассационного постановления</td>
+<td colspan="3">по пересмотру решения суда первой инстанции, апелляционного и кассационного постановлений</td>
+<td colspan="2">по пересмотру апелляционного и кассационного постановления</td>
+<td colspan="4">по пересмотру кассационного постановления</td>
 </tr>
 <tr>
-<td colspan="3">8</td>
+<td colspan="2">8</td>
 <td colspan="3">9</td>
 <td colspan="3">10</td>
 <td colspan="3">11</td>
-<td>12</td>
-<td colspan="2">13</td>
-<td>14</td>
-<td colspan="3">15</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="2">12</td>
+<td colspan="3">13</td>
+<td colspan="2">14</td>
+<td colspan="4">15</td>
 </tr>
 </table>
 
@@ -24377,9 +19505,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="2">Всего дел, по которым удовлетворены ходатайства, протесты</td>
 <td colspan="2">из них</td>
 <td rowspan="2">Всего дел, по которым отказано в пересмотре в связи с отсутствием оснований</td>
-<td colspan="3">из них</td>
-<td rowspan="2">Оставлено без изменения решений суда первой инстанции</td>
-<td rowspan="2">Оставлено без изменения решений апелляционной инстанции</td>
 </tr>
 <tr>
 <td>по ходатайству</td>
@@ -24388,8 +19513,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>по протесту</td>
 <td>ходатайства</td>
 <td>протесты</td>
-<td>по ходатайству</td>
-<td colspan="2">по протесту</td>
 </tr>
 <tr>
 <td>16</td>
@@ -24402,42 +19525,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>23</td>
 <td>24</td>
 <td>25</td>
-<td>26</td>
-<td colspan="2">27</td>
-<td>28</td>
-<td>29</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -24445,97 +19532,73 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
+<td colspan="2">из них</td>
+<td rowspan="3">Оставлено без изменения решений суда первой инстанции</td>
+<td rowspan="3">Оставлено без изменения решений апелляционной инстанции</td>
 <td rowspan="3">Оставлено без изменения постановлений суда апелляционной инстанции</td>
 <td rowspan="3">Оставлено без изменения постановлений суда кассационной инстанции</td>
 <td rowspan="3">Всего отменено</td>
-<td colspan="20">Решения отменены</td>
+<td colspan="2">Решения отменены</td>
 </tr>
 <tr>
+<td rowspan="2">по ходатайству</td>
+<td rowspan="2">по протесту</td>
 <td rowspan="2">с направлением дела на новое рассмотрение</td>
-<td colspan="6">из них</td>
-<td colspan="2" rowspan="2">с прекращением дела</td>
-<td colspan="8">из них</td>
-<td rowspan="2">с оставлением иска без рассмотрения</td>
-<td colspan="2" rowspan="2">в том числе на основании подпунктов 4), 5) статьи 279 ГПК</td>
+<td>из них</td>
 </tr>
 <tr>
-<td colspan="2">в суд первой инстанции</td>
-<td colspan="2">в суд апелляционной инстанции</td>
-<td colspan="2">в суд кассационной инстанции</td>
-<td colspan="2">в связи с прекращением в виду отказа истца от иска</td>
-<td colspan="2">прекращено в связи с утверждением мирового соглашения</td>
-<td colspan="2">с заключением соглашения об урегулировании спора в порядке медиации</td>
-<td colspan="2">с заключением соглашения об урегулировании спора в порядке партисипативной процедуры</td>
+<td>в суд первой инстанции</td>
 </tr>
 <tr>
+<td>26</td>
+<td>27</td>
+<td>28</td>
+<td>29</td>
 <td>30</td>
 <td>31</td>
 <td>32</td>
 <td>33</td>
-<td colspan="2">34</td>
-<td colspan="2">35</td>
-<td colspan="2">36</td>
-<td colspan="2">37</td>
-<td colspan="2">38</td>
-<td colspan="2">39</td>
-<td colspan="2">40</td>
-<td colspan="2">41</td>
+<td>34</td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td colspan="9">Решения отменены</td>
+</tr>
+<tr>
+<td colspan="2">из них</td>
+<td rowspan="2">с прекращением дела</td>
+<td colspan="4">из них</td>
+<td rowspan="2">с оставлением иска без рассмотрения</td>
+<td rowspan="2">в том числе на основании подпунктов 4), 5) статьи 279 ГПК</td>
+</tr>
+<tr>
+<td>в суд апелляционной инстанции</td>
+<td>в суд кассационной инстанции</td>
+<td>в связи с прекращением в виду отказа истца от иска</td>
+<td>прекращено в связи с утверждением мирового соглашения</td>
+<td>с заключением соглашения об урегулировании спора в порядке медиации</td>
+<td>с заключением соглашения об урегулировании спора в порядке партисипативной процедуры</td>
+</tr>
+<tr>
+<td>35</td>
+<td>36</td>
+<td>37</td>
+<td>38</td>
+<td>39</td>
+<td>40</td>
+<td>41</td>
 <td>42</td>
-<td colspan="2">43</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
+<td>43</td>
 </tr>
 </table>
 
 продолжение таблицы
 
 <table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr>
 <td colspan="14"></td>
 </tr>
@@ -24578,38 +19641,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>55</td>
 <td>56</td>
 <td>57</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -24655,38 +19686,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>69</td>
 <td>70</td>
 <td>71</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -24869,13 +19868,13 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 > *Республики Казахстан*  
 > *от 2 ноября 2017 года № 124*
 
-> *Сноска. Форма № 8-К в редакции приказа Генерального Прокурора РК от 19.11.2019 № 148 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 20.11.2020 № 141 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказов Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021); от 12.07.2022 № 149 (вводится в действие после дня его первого официального опубликования).*
+> *Сноска. Форма № 8-К в редакции приказа Генерального Прокурора РК от 19.11.2019 № 148 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 20.11.2020 № 141 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказов Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021); от 12.07.2022 № 149 (вводится в действие после дня его первого официального опубликования); с изменениями, внесенными приказом Генерального Прокурора РК от 16.09.2022 № 185 (вводится в действие после дня его первого официального опубликования).*
 
 форма
 
-Форма №8К " Отчет по пересмотру судебных актов в кассационном порядке"
+Форма № 8К «Отчет по пересмотру судебных актов в кассационном порядке»
 
-Таблица А "Движение ходатайств о внесении представления в порядке части 3 статьи 434 Гражданского процессуального кодекса Республики Казахстан"
+Таблица А «Движение ходатайств о внесении представления Председателем Верховного Суда Республики Казахстан в порядке части третьей статьи 434 Гражданского процессуального кодекса Республики Казахстан»
 
 <table>
 <tr>
@@ -24887,8 +19886,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td rowspan="2">возвращено с разъяснениями</td>
 <td rowspan="2">отозвано из графы 2</td>
 <td rowspan="2">Всего рассмотрено ходатайств</td>
-<td rowspan="2">количество ходатайств разрешенных с истребованием дел</td>
-<td rowspan="2">с нарушением сроков, установленных Гражданским процессуальным кодексом Республики Казахстан (далее – ГПК РК)</td>
 </tr>
 <tr>
 <td>по частным определениям, постановлениям</td>
@@ -24902,15 +19899,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>4</td>
 <td>5</td>
 <td>6</td>
-<td>7</td>
-<td>8</td>
 </tr>
 <tr>
 <td rowspan="19">ДЕЛА ПРИКАЗНОГВА</td>
 <td colspan="3">О взыскании алиментов на содержание несовершеннолетних детей, не связанным с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
 <td>1</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -24927,14 +19920,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
 <td>3</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -24951,14 +19940,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
 <td>5</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -24975,14 +19960,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
 <td>7</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -24999,14 +19980,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>9</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25023,14 +20000,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>11</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25047,14 +20020,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>13</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25071,14 +20040,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>15</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25095,14 +20060,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
 <td>17</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25119,14 +20080,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
 <td>19</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25144,15 +20101,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="4">в том числе</td>
 <td colspan="2">о восстановлении на работе уволенных</td>
 <td>21</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25169,14 +20122,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о выплате заработной платы и иных платежей</td>
 <td>23</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25193,14 +20142,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, возникающие из брачно-семейных отношений</td>
 <td>25</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25218,15 +20163,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>из них</td>
 <td>с установлением отцовства (материнства)</td>
 <td>27</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25243,14 +20184,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о взыскании алиментов на время обучения</td>
 <td>29</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25267,14 +20204,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о взыскании алиментов на содержание родителей</td>
 <td>31</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25291,14 +20224,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о лишении родительских прав</td>
 <td>33</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25315,14 +20244,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">об ограничении родительских прав</td>
 <td>35</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25339,14 +20264,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">об определении порядка общения с детьми</td>
 <td>37</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25363,14 +20284,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о расторжении брака</td>
 <td>39</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25388,14 +20305,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о разделе имущества между супругами</td>
 <td>41</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25412,8 +20325,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры по вопросам наследственного права</td>
@@ -25424,14 +20335,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры о праве собственности на имущество</td>
 <td>44</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25449,14 +20356,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о выделении доли из имущества</td>
 <td>46</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25473,14 +20376,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">Об истребовании из чужого незаконного владения</td>
 <td>48</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25497,14 +20396,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">Об оспаривании результатов оценки имущества</td>
 <td>50</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25521,8 +20416,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">Споры о праве собственности на жилище</td>
@@ -25533,14 +20426,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, возникающие из жилищных правоотношений</td>
 <td>53</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25558,14 +20447,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о выселении граждан из жилища с предоставлением другого жилого помещения</td>
 <td>55</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25582,14 +20467,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о выделении доли из жилища</td>
 <td>57</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25606,14 +20487,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">об обжаловании действий (бездействия) кооператива собственников квартир потребительского кооператива</td>
 <td>59</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25630,14 +20507,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о взыскании расходов на управление объектом кондоминиума и содержание общего имущества кондоминиума</td>
 <td>61</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25654,14 +20527,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, вытекающие из земельных правоотношений</td>
 <td>63</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25679,14 +20548,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">об установлении (прекращении) сервитута</td>
 <td>65</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25703,14 +20568,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
 <td>67</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25728,14 +20589,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">споры между юридическими лицами, гражданами, осуществляющими предпринимательскую деятельность</td>
 <td>69</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25753,14 +20610,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>с участием государственных учреждений</td>
 <td>71</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25777,8 +20630,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">с экономической, технологической, информационной безопасностью</td>
@@ -25789,14 +20640,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по банковскому договору, в том числе потребительские кредиты, договор факторинга, микрофинансовые организации</td>
 <td>74</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25814,8 +20661,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>с обращением взыскания на имущество</td>
@@ -25826,14 +20671,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору займа, в том числе образовательные услуги (гранты), ломбарды</td>
 <td>77</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25851,14 +20692,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">с недропользованием</td>
 <td>79</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25876,14 +20713,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору купли-продажи</td>
 <td>81</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25900,14 +20733,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору подряда</td>
 <td>83</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25924,14 +20753,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору лизинга</td>
 <td>85</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25948,14 +20773,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору поручения</td>
 <td>87</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25972,14 +20793,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору дарения</td>
 <td>89</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -25996,14 +20813,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору страхования</td>
 <td>91</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26021,14 +20834,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору перевозки</td>
 <td>93</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26046,14 +20855,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
 <td>95</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26071,14 +20876,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по спорам, относящимся к заключению договора</td>
 <td>97</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26095,8 +20896,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
@@ -26107,14 +20906,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с лицензионной деятельностью</td>
 <td>100</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26132,14 +20927,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">с приостановлением лицензии</td>
 <td>102</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26156,8 +20947,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О лжепредпринимательстве</td>
@@ -26168,14 +20957,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с ценными бумагами</td>
 <td>105</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26193,14 +20978,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с нарушением налогового законодательства</td>
 <td>107</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26218,14 +20999,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">иски налоговых органов о взыскании налогов и сборов с юридических лиц</td>
 <td>109</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26242,14 +21019,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">иски юридических лиц к налоговым органам</td>
 <td>111</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26266,14 +21039,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры в сфере таможенного законодательства</td>
 <td>113</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26291,14 +21060,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с нарушением бюджетного законодательства</td>
 <td>115</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26315,14 +21080,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О взыскании пособий, компенсаций</td>
 <td>117</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26340,8 +21101,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
@@ -26352,14 +21111,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О возмещении вреда</td>
 <td>120</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26377,14 +21132,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
 <td>122</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26402,8 +21153,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
@@ -26414,14 +21163,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
 <td>125</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26439,14 +21184,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>по делам реабилитации</td>
 <td>127</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26463,14 +21204,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>по делам о нарушении гражданских прав</td>
 <td>129</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26487,14 +21224,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры о возмещении ущерба</td>
 <td>131</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26512,14 +21245,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О защите прав потребителя</td>
 <td>133</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26537,8 +21266,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">иски, связанные с качеством медицинских услуг</td>
@@ -26549,14 +21276,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Иски о защите чести, достоинства и деловой репутации</td>
 <td>136</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26574,14 +21297,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">к гражданам и юридическим лицам</td>
 <td>138</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26598,14 +21317,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с интеллектуальной собственностью</td>
 <td>140</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26623,8 +21338,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о товарных знаках</td>
@@ -26635,14 +21348,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Иски, связанные с охраной окружающей среды</td>
 <td>143</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26660,14 +21369,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о возмещении вреда жизни и здоровью, причиненного в результате несоблюдения экологического законодательства</td>
 <td>145</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26684,14 +21389,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">иски общественных экологических организаций</td>
 <td>147</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26708,14 +21409,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Иски о признании забастовок незаконными</td>
 <td>149</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26732,14 +21429,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
 <td>151</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26756,14 +21449,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О расторжении медиативного соглашения</td>
 <td>153</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26780,14 +21469,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Корпоративные споры</td>
 <td>155</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26805,14 +21490,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">об оспаривании протокола общего собрания</td>
 <td>157</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26829,14 +21510,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
 <td>159</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26854,15 +21531,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="4">Дела особого искового производства</td>
 <td colspan="3">Производство по делам об оспаривании законности нормативных правовых актов</td>
 <td>161</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26880,14 +21553,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
 <td>163</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26905,15 +21574,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="43">Дела особого производства</td>
 <td colspan="3">Об установлении фактов, имеющих юридическое значение</td>
 <td>165</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26931,14 +21596,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">нахождения лица на иждивении</td>
 <td>167</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26955,14 +21616,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">признания отцовства</td>
 <td>169</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -26979,14 +21636,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">наличия документов, подтверждающих владение, пользование и (или) распоряжение объектами недвижимого имущества</td>
 <td>171</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27003,14 +21656,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">смерти лица в определенное время при определенных обстоятельствах в случае отказа органов записи актов гражданского состояния в регистрации смерти</td>
 <td>173</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27027,14 +21676,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">По заявлениям об усыновлении (удочерении) ребенка</td>
 <td>175</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27052,14 +21697,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
 <td>177</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27076,14 +21717,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об ограничении дееспособности гражданина</td>
 <td>179</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27100,14 +21737,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
 <td>181</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27124,14 +21757,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
 <td>183</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27148,14 +21777,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О принудительной госпитализации гражданина в психиатрический стационар</td>
 <td>185</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27172,14 +21797,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О принудительном лечении гражданина, больного туберкулезом</td>
 <td>187</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27196,14 +21817,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="3">О реабилитации, в том числе. об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
+<td colspan="3">О реабилитации, в том числе об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
 <td>189</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27214,8 +21831,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <tr>
 <td colspan="3">О банкротстве</td>
 <td>190</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27233,14 +21848,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">индивидуального предпринимателя</td>
 <td>192</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27257,14 +21868,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
 <td>194</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27281,14 +21888,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">По жалобам на нотариальные действия или на отказ в их совершении</td>
 <td>196</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27306,14 +21909,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
 <td>198</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27330,14 +21929,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
 <td>200</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27354,14 +21949,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О признании гражданина жертвой политических репрессий</td>
 <td>202</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27378,14 +21969,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">о восстановлении утраченного судебного или исполнительного производства</td>
 <td>204</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27402,14 +21989,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
 <td>206</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27427,8 +22010,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="4">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
@@ -27439,14 +22020,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="4">Производство по ходатайству об отмене арбитражных решений</td>
 <td>209</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27464,14 +22041,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="4">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
 <td>211</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27489,14 +22062,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">по делам, связанным с бытовым насилием</td>
 <td>213</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27514,15 +22083,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">из них</td>
 <td>с участием иностранных инвесторов</td>
 <td>215</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27539,14 +22104,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">в упрощенном (письменном) производстве</td>
 <td>217</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27563,10389 +22124,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="17">в том числе</td>
 <td colspan="3">об отсрочке, рассрочке исполнения решения суда</td>
 <td>219</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">об изменении способа и порядка исполнения решения суда, в в том числе о замене должника (взыскателя)</td>
-<td>220</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">об отсрочке, рассрочке, изменении способа мирового соглашения сторон</td>
-<td>221</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">о повороте исполнения решения суда</td>
-<td>222</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">по представлению судебного исполнителя</td>
-<td>223</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">о санкционировании постановления судебного исполнителя об ограничении выезда гражданина за пределы Республики Казахстан</td>
-<td>224</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">о санкционировании других постановлений судебного исполнителя</td>
-<td>225</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">о взыскании (отсрочке, рассрочке) исполнительской санкции</td>
-<td>226</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">санкционирование постановления судебного исполнителя о приводе должника</td>
-<td>227</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">из строк 221-225</td>
-<td>частным судебным исполнителем</td>
-<td>228</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">судебное поручение</td>
-<td>229</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">о выдаче исполнительного листа (дубликата)</td>
-<td>230</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
-<td>231</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">об индексации присужденных денежных сумм</td>
-<td>232</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">о восстановлении срока предъявления исполнительного листа</td>
-<td>233</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об обращении взыскания на недвижимое имущество должника</td>
-<td>234</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">прочие материалы, представления</td>
-<td>235</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">ИТОГО ДЕЛ И МАТЕРИАЛОВ</td>
-<td>236</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="14">в том числе</td>
-<td colspan="3">по искам инвалидов</td>
-<td>237</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">по искам, заявленным в интересах несовершеннолетних</td>
-<td>238</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">по искам лиц женского пола</td>
-<td>239</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">с участием иностранных лиц</td>
-<td>240</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">с участием субъектов малого и среднего предпринимательства</td>
-<td>241</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">дел на государственном языке</td>
-<td>242</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">применен Международный договор</td>
-<td>243</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="7">из них</td>
-<td colspan="2">Международный пакт о гражданских о политических правах</td>
-<td>244</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Международный пакт о ликвидации всех форм дискриминации в отношении женщин</td>
-<td>245</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Международный пакт об экономических, социальных и культурных правах</td>
-<td>246</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Международная конвенция о ликвидации всех форм рассовой дискриминации</td>
-<td>247</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Международная конвенция о правах ребенка</td>
-<td>248</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Международная конвенция о правах инвалидов</td>
-<td>249</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в рамках реализации Орхусской конвенции</td>
-<td>250</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="3">Справки по результатам рассмотрения ходатайств</td>
-<td rowspan="2">Внесено представлений о пересмотре (в составе 3 судей)</td>
-<td rowspan="2">Остаток нерассмотренных ходатайств на конец отчетного периода</td>
-<td colspan="2" rowspan="2">Количество объединенных ходатайств</td>
-</tr>
-<tr>
-<td colspan="2">о передаче ходатайства для предварительного рассмотрения (ч.3 ст.434)</td>
-<td>о возвращении ходатайства в связи с отсутствием оснований</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td colspan="2">13</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-</table>
-
-Форма №8К " Отчет по пересмотру судебных актов в кассационном порядке"
-
-Таблица А1 "Движение ходатайств о внесении представления в порядке части 4 статьи 434 Гражданского процессуального кодекса Республики Казахстан "
-
-<table>
-<tr>
-<td colspan="5" rowspan="2">Категории споров</td>
-<td rowspan="2">Код строки</td>
-<td rowspan="2">Остаток ходатайств на начало отчетного периода</td>
-<td rowspan="2">Поступило ходатайств в отчетном периоде</td>
-<td>в том числе</td>
-<td rowspan="2">возвращено с разъяснениями</td>
-<td rowspan="2">отозвано из граф 2</td>
-<td rowspan="2">Всего рассмотрено ходатайств</td>
-<td rowspan="2">количество ходатайств разрешенных с истребованием дел</td>
-<td rowspan="2">с нарушением сроков, установленных ГПК РК</td>
-</tr>
-<tr>
-<td>по частным определениям, постановлениям</td>
-</tr>
-<tr>
-<td colspan="5">А</td>
-<td>Б</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-</tr>
-<tr>
-<td rowspan="19">ДЕЛА ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
-<td colspan="4">О взыскании алиментов на содержание несовершеннолетних детей, не связанным с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О возмещении расходов по розыску ответчика и (или) ребенка, заявленных уполномоченными органами</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О взыскании сумм, затраченных на обучение курсантов учебных заведений, прекративших по собственному желанию обучение либо прохождение службы, а также уволенных или отчисленных по основаниям, предусмотренным законодательством РК, до истечения предусмотренного договором срока</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О взыскании государственных грантов, подъемных, пособий с молодых специалистов, направленных в сельскую местность, в случае неисполнения или ненадлежащего исполнения ими обязательств по договорам</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О взыскании с физических лиц задолженности по таможенным платежам, налогам, специальным, антидемпинговым, компенсационным пошлинам, пеней, процентов</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об исполнении соглашений по спорам, связанным с предпринимательской, инвестиционной деятельностью, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об исполнении соглашений по спорам в сфере защиты прав потребителей, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О взыскании арендных платежей ввиду их неуплаты в сроки, установленные договором аренды, заявленным государственным органом</td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об исполнении соглашений по спорам о публикации опровержения сведений, порочащих честь, достоинство или деловую репутацию гражданина и деловую репутацию юридического лица, либо ответа в средстве массовой информации</td>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
-<td>17</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О перечислении обязательных пенсионных отчислений в ЕНПФ</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="141">ДЕЛА ИСКОВОГО ПРОИЗВОДСТВА</td>
-<td colspan="4">Трудовые споры</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">в том числе</td>
-<td colspan="2">о восстановлении на работе уволенных</td>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о восстановлении на работе уволенных, в том числе с выплатой заработной платы</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о выплате заработной платы и иных платежей</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об оспаривании приказов о наложении дисциплинарных взысканий за совершение коррупционных правонарушений</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, возникающие из брачно-семейных отношений</td>
-<td>25</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="17">в том числе</td>
-<td colspan="2">о взыскании алиментов на содержание несовершеннолетних детей</td>
-<td>26</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>с установлением отцовства (материнства)</td>
-<td>27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об установлении отцовства (без требования о взыскании алиментов)</td>
-<td>28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о взыскании алиментов на время обучения</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о взыскании алиментов на содержание супруги (супруга)</td>
-<td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о взыскании алиментов на содержание родителей</td>
-<td>31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о снижении (увеличении) размера взыскиваемых алиментов, приостановлении взыскания алиментов</td>
-<td>32</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о лишении родительских прав</td>
-<td>33</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о восстановлении родительских прав</td>
-<td>34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об ограничении родительских прав</td>
-<td>35</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об определении местожительства детей</td>
-<td>36</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об определении порядка общения с детьми</td>
-<td>37</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об отмене усыновления (удочерения)</td>
-<td>38</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о расторжении брака</td>
-<td>39</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>лиц, имеющих несовершеннолетних детей</td>
-<td>40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о разделе имущества между супругами</td>
-<td>41</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">споры, связанные с брачным договором</td>
-<td>42</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры по вопросам наследственного права</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры о праве собственности на имущество</td>
-<td>44</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="8">в том числе</td>
-<td colspan="2">об освобождении имущества от ареста</td>
-<td>45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о выделении доли из имущества</td>
-<td>46</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Об обязании освободить незаконно занимаемое нежилое помещение</td>
-<td>47</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Об истребовании из чужого незаконного владения</td>
-<td>48</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">О прекращении права собственности</td>
-<td>49</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Об оспаривании результатов оценки имущества</td>
-<td>50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">О незаконном захвате имущества юридических и физических лиц</td>
-<td>51</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Споры о праве собственности на жилище</td>
-<td>52</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, возникающие из жилищных правоотношений</td>
-<td>53</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="9">из них</td>
-<td colspan="2">о выселении граждан из жилища без предоставления другого жилого помещения</td>
-<td>54</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о выселении граждан из жилища с предоставлением другого жилого помещения</td>
-<td>55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о вселении</td>
-<td>56</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о выделении доли из жилища</td>
-<td>57</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о восстановлении, передвижке в очереди нуждающихся в жилье</td>
-<td>58</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об обжаловании действий (бездействия) кооператива собственников квартир потребительского кооператива</td>
-<td>59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о взыскании платы за жилье и коммунальные услуги, в том числе по иным договорам за услуги согласно установленным тарифам (в том числе услуги связи, телевидения)</td>
-<td>60</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о взыскании расходов на управление объектом кондоминиума и содержание общего имущества кондоминиума</td>
-<td>61</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о сносе жилья (построек)</td>
-<td>62</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, вытекающие из земельных правоотношений</td>
-<td>63</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">в том числе</td>
-<td colspan="2">изъятие земельных участков для государственных надобностей</td>
-<td>64</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об установлении (прекращении) сервитута</td>
-<td>65</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об оспаривании права собственности на земельный участок и землепользования</td>
-<td>66</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
-<td>67</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="26">в том числе</td>
-<td colspan="2">связанные с обращением взыскания на имущество</td>
-<td>68</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">споры между юридическими лицами, гражданами, осуществляющими предпринимательскую деятельность</td>
-<td>69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">из них</td>
-<td>с участием квазигосударственного сектора</td>
-<td>70</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>с участием государственных учреждений</td>
-<td>71</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">с долевым строительством</td>
-<td>72</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">с экономической, технологической, информационной безопасностью</td>
-<td>73</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по банковскому договору, в том числе потребительские кредиты, договор факторинга, микрофинансовые организации</td>
-<td>74</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">из них</td>
-<td>с ипотекой недвижимого имущества</td>
-<td>75</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>с обращением взыскания на имущество</td>
-<td>76</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору займа, в том числе образовательные услуги (гранты), ломбарды</td>
-<td>77</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>споры о взыскании долга по договорам займа между физическими лицами</td>
-<td>78</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">с недропользованием</td>
-<td>79</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>с участием иностранных лиц</td>
-<td>80</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору купли-продажи</td>
-<td>81</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору поставки</td>
-<td>82</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору подряда</td>
-<td>83</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору имущественного найма (аренды)</td>
-<td>84</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору лизинга</td>
-<td>85</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору хранения</td>
-<td>86</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору поручения</td>
-<td>87</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору комиссии</td>
-<td>88</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору дарения</td>
-<td>89</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору мены</td>
-<td>90</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору страхования</td>
-<td>91</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td>взыскание страховых выплат</td>
-<td>92</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору перевозки</td>
-<td>93</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">О признании сделки недействительной</td>
-<td>94</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
-<td>95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">в том числе</td>
-<td colspan="2">по спорам до заключения договора</td>
-<td>96</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по спорам, относящимся к заключению договора</td>
-<td>97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по спорам об исполнении договора (о признании недобросовестным участником государственных закупок и взыскании неустойки)</td>
-<td>98</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
-<td>99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, связанные с лицензионной деятельностью</td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">в том числе</td>
-<td colspan="2">с отзывом лицензии</td>
-<td>101</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">с приостановлением лицензии</td>
-<td>102</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О приостановлении деятельности юридических лиц и индивидуальных предпринимателей</td>
-<td>103</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О лжепредпринимательстве</td>
-<td>104</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, связанные с ценными бумагами</td>
-<td>105</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в том числе</td>
-<td colspan="2">с отказом в регистрации или с незаконной регистрацией ценных бумаг</td>
-<td>106</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, связанные с нарушением налогового законодательства</td>
-<td>107</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="5">в том числе</td>
-<td colspan="2">иски налоговых органов о взыскании налогов и сборов с физических лиц</td>
-<td>108</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски налоговых органов о взыскании налогов и сборов с юридических лиц</td>
-<td>109</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски физических лиц к налоговым органам</td>
-<td>110</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски юридических лиц к налоговым органам</td>
-<td>111</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о ликвидации юридического лица (прекращении деятельности индивидуального предпринимателя)</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры в сфере таможенного законодательства</td>
-<td>113</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">в рамках Таможенного Союза, Всемирной торговой организации</td>
-<td>114</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, связанные с нарушением бюджетного законодательства</td>
-<td>115</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, связанные с нарушением пенсионного законодательства</td>
-<td>116</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О взыскании пособий, компенсаций</td>
-<td>117</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в том числе</td>
-<td colspan="2">о взыскании детских пособий</td>
-<td>118</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
-<td>119</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О возмещении вреда</td>
-<td>120</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="10">в том числе</td>
-<td colspan="2">о возмещении морального вреда</td>
-<td>121</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
-<td>122</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">из них</td>
-<td>в связи с исполнением трудовых обязанностей</td>
-<td>123</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
-<td>124</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
-<td>125</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="5">из них</td>
-<td>в порядке регресса</td>
-<td>126</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>по делам реабилитации</td>
-<td>127</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>по делам оправданных в суде</td>
-<td>128</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>по делам о нарушении гражданских прав</td>
-<td>129</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>по делам, связанным с пытками</td>
-<td>130</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры о возмещении ущерба</td>
-<td>131</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в том числе</td>
-<td colspan="2">споры о возмещении ущерба от дорожно-транспортного происшествия</td>
-<td>132</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О защите прав потребителя</td>
-<td>133</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">в том числе</td>
-<td colspan="2">из договоров в сфере торговли, услуг</td>
-<td>134</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски, связанные с качеством медицинских услуг</td>
-<td>135</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Иски о защите чести, достоинства и деловой репутации</td>
-<td>136</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">в том числе</td>
-<td colspan="2">к средствам массовой информации</td>
-<td>137</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">к гражданам и юридическим лицам</td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски юридических лиц о защите деловой репутации</td>
-<td>139</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, связанные с интеллектуальной собственностью</td>
-<td>140</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">в том числе</td>
-<td colspan="2">о защите авторских прав</td>
-<td>141</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о товарных знаках</td>
-<td>142</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Иски, связанные с охраной окружающей среды</td>
-<td>143</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">в том числе</td>
-<td colspan="2">о возмещении ущерба за нарушение природоохранного законодательства</td>
-<td>144</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о возмещении вреда жизни и здоровью, причиненного в результате несоблюдения экологического законодательства</td>
-<td>145</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски физических лиц</td>
-<td>146</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски общественных экологических организаций</td>
-<td>147</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Иски, связанные с интернет-ресурсами</td>
-<td>148</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Иски о признании забастовок незаконными</td>
-<td>149</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об обязании, понуждении (исполнения, требования, предписания)</td>
-<td>150</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
-<td>151</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О взыскании процессуальных издержек</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О расторжении медиативного соглашения</td>
-<td>153</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Иски об уничтожении запрещенных предметов</td>
-<td>154</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Корпоративные споры</td>
-<td>155</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">в том числе</td>
-<td colspan="2">о выделении доли, принудительном выкупе доли</td>
-<td>156</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об оспаривании протокола общего собрания</td>
-<td>157</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Прочие исковые дела</td>
-<td>158</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
-<td>159</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в том числе</td>
-<td colspan="2">с участием иностранных лиц</td>
-<td>160</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="4">Дела особого искового производства</td>
-<td colspan="4">Производство по делам об оспаривании законности нормативных правовых актов</td>
-<td>161</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="3">зарегистрированных в органах юстиции</td>
-<td>162</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
-<td>163</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в том числе.</td>
-<td colspan="2">с участием иностранных лиц</td>
-<td>164</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="43">Дела особого производства</td>
-<td colspan="4">Об установлении фактов, имеющих юридическое значение</td>
-<td>165</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="9">в том числе</td>
-<td colspan="2">родственных отношений лиц</td>
-<td>166</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">нахождения лица на иждивении</td>
-<td>167</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">регистрации рождения, усыновления (удочерения), брака, развода и смерти</td>
-<td>168</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">признания отцовства</td>
-<td>169</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">принадлежности правоустанавливающих документов (за исключением воинских документов, паспортов, удостоверения личности и свидетельств, выдаваемых органами записи актов гражданского состояния) лицу</td>
-<td>170</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">наличия документов, подтверждающих владение, пользование и (или) распоряжение объектами недвижимого имущества</td>
-<td>171</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">несчастного случая</td>
-<td>172</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">смерти лица в определенное время при определенных обстоятельствах в случае отказа органов записи актов гражданского состояния в регистрации смерти</td>
-<td>173</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">принятия наследства и места открытия наследства</td>
-<td>174</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">По заявлениям об усыновлении (удочерении) ребенка</td>
-<td>175</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в том числе</td>
-<td colspan="2">иностранными гражданами</td>
-<td>176</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
-<td>177</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об отмене решения о признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
-<td>178</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об ограничении дееспособности гражданина</td>
-<td>179</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О признании гражданина недееспособным</td>
-<td>180</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
-<td>181</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">об отмене ограничения дееспособности гражданина</td>
-<td>182</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
-<td>183</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О направлении несовершеннолетних в специальные организации образования для детей с девиантным поведением или организации с особым режимом с содержания</td>
-<td>184</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О принудительной госпитализации гражданина в психиатрический стационар</td>
-<td>185</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О направлении гражданина, больного алкоголизмом, наркоманией или токсикоманией, на принудительное лечение в наркологическую организацию</td>
-<td>186</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О принудительном лечении гражданина, больного туберкулезом</td>
-<td>187</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О реструктуризации финансовых организаций и организаций, входящих в банковский конгломерат в качестве родительской организации и не являющихся финансовыми организациями</td>
-<td>188</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О реабилитации, в том числе. об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
-<td>189</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О банкротстве</td>
-<td>190</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">в том числе</td>
-<td colspan="2">юридического лица</td>
-<td>191</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">индивидуального предпринимателя</td>
-<td>192</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в том числе. о включении (исключении) в реестр требований кредиторов</td>
-<td>193</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
-<td>194</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об установлении неправильностей записей актов гражданского состояния</td>
-<td>195</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">По жалобам на нотариальные действия или на отказ в их совершении</td>
-<td>196</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в том числе</td>
-<td colspan="2">об отмене исполнительской надписи</td>
-<td>197</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
-<td>198</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">По заявлениям о признании организации, осуществляющей экстремизм или террористическую деятельность на территории Республики Казахстан и (или) другого государства, экстремистской или террористической, в том числе об установлении изменения ею своего наименования, а также о признании информационных материалов, ввозимых, издаваемых, изготавливаемых и (или) распространяемых на территории Республики Казахстан, экстремистскими или террористическими</td>
-<td>199</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">По заявлениям о выдворении иностранца или лица без гражданства за пределы Республики Казахстан за нарушение законодательства Республики Казахстан</td>
-<td>201</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О признании гражданина жертвой политических репрессий</td>
-<td>202</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">О признании наследства выморочным</td>
-<td>203</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">о восстановлении утраченного судебного или исполнительного производства</td>
-<td>204</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Прочие дела особого производства</td>
-<td>205</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
-<td>206</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в том числе</td>
-<td colspan="2">с участием иностранных лиц</td>
-<td>207</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
-<td>208</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">Производство по ходатайству об отмене арбитражных решений</td>
-<td>209</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="4">третейских судов</td>
-<td>210</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
-<td>211</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">в том числе</td>
-<td colspan="4">о дискриминации женщин по признаку пола</td>
-<td>212</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">по делам, связанным с бытовым насилием</td>
-<td>213</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="4"></td>
-<td colspan="4">по инвестиционным спорам</td>
-<td>214</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">из них</td>
-<td>с участием иностранных инвесторов</td>
-<td>215</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">о возмещении морального вреда с другими основными требованиями</td>
-<td>216</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">в упрощенном (письменном) производстве</td>
-<td>217</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">Материалы, представления и тому подобное</td>
-<td>218</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="17">в том числе</td>
-<td colspan="4">об отсрочке, рассрочке исполнения решения суда</td>
-<td>219</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">об изменении способа и порядка исполнения решения суда, в том числе о замене должника (взыскателя)</td>
-<td>220</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">об отсрочке, рассрочке, изменении способа мирового соглашения сторон</td>
-<td>221</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">о повороте исполнения решения суда</td>
-<td>222</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">по представлению судебного исполнителя</td>
-<td>223</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">о санкционировании постановления судебного исполнителя об ограничении выезда гражданина за пределы Республики Казахстан</td>
-<td>224</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">о санкционировании других постановлений судебного исполнителя</td>
-<td>225</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">о взыскании (отсрочке, рассрочке) исполнительской санкции</td>
-<td>226</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">санкционирование постановления судебного исполнителя о приводе должника</td>
-<td>227</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">из строк из строк из строк 221-225</td>
-<td>частным судебным исполнителем</td>
-<td>228</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">судебное поручение</td>
-<td>229</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">о выдаче исполнительного листа (дубликата)</td>
-<td>230</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
-<td>231</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">об индексации присужденных денежных сумм</td>
-<td>232</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">о восстановлении срока предъявления исполнительного листа</td>
-<td>233</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Об обращении взыскания на недвижимое имущество должника</td>
-<td>234</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">прочие материалы, представления</td>
-<td>235</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">ИТОГО ДЕЛ И МАТЕРИАЛОВ</td>
-<td>236</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="14">в том числе</td>
-<td colspan="4">по искам инвалидов</td>
-<td>237</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">по искам, заявленным в интересах несовершеннолетних</td>
-<td>238</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">по искам лиц женского пола</td>
-<td>239</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">с участием иностранных лиц</td>
-<td>240</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">с участием субъектов малого и среднего предпринимательства</td>
-<td>241</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">дел на государственном языке</td>
-<td>242</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">применен Международный договор</td>
-<td>243</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="7">из них</td>
-<td colspan="2">Международный пакт о гражданских о политических правах</td>
-<td>244</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Международный пакт о ликвидации всех форм дискриминации в отношении женщин</td>
-<td>245</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Международный пакт об экономических, социальных и культурных правах</td>
-<td>246</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Международная конвенция о ликвидации всех форм рассовой дискриминации</td>
-<td>247</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Международная конвенция о правах ребенка</td>
-<td>248</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Международная конвенция о правах инвалидов</td>
-<td>249</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в рамках реализации Орхусской конвенции</td>
-<td>250</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="2">Справки по результатам рассмотрения ходатайств</td>
-<td rowspan="2">Внесено представлений о пересмотре</td>
-<td rowspan="2">Остаток нерассмотренных ходатайств на конец отчетного периода</td>
-<td rowspan="2">Количество объединенных ходатайств</td>
-</tr>
-<tr>
-<td>о передаче ходатайства для предварительного рассмотрения</td>
-<td>о возвращении ходатайства в связи с отсутствием оснований</td>
-</tr>
-<tr>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td>13</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-Форма №8К " Отчет по пересмотру судебных актов в кассационном порядке"
-
-Таблица Б "Движение представлений председателя Верховного Суда на постановления кассационной инстанции"
-
-<table>
-<tr>
-<td colspan="4" rowspan="2">Категории споров</td>
-<td rowspan="2">Код строки</td>
-<td rowspan="2">Остаток представлений на начало отчетного периода</td>
-<td rowspan="2">Количество внесенных представлений в отчетном периоде</td>
-<td colspan="2">Решения по результатам предварительного рассмотрения представления</td>
-<td rowspan="2">Всего рассмотрено ходатайств</td>
-<td colspan="5">из них (из графы 5)</td>
-<td rowspan="2">Остаток не рассмотренных ходатайств</td>
-</tr>
-<tr>
-<td>отказано</td>
-<td>удовлетворено</td>
-<td>Рассмотрено ходатайств на решения судов первой инстанции</td>
-<td>Рассмотрено ходатайств на апелляционные постановления</td>
-<td>Рассмотрено ходатайств на кассационные постановления</td>
-<td>Рассмотрено ходатайств на апелляционные определения</td>
-<td>Рассмотрено ходатайств на кассационные определения</td>
-</tr>
-<tr>
-<td colspan="4">А</td>
-<td>Б</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-</tr>
-<tr>
-<td rowspan="19">ДЕЛА ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
-<td colspan="3">О взыскании алиментов на содержание несовершеннолетних детей, не связанным с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О возмещении расходов по розыску ответчика и (или) ребенка, заявленных уполномоченными органами</td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О взыскании сумм, затраченных на обучение курсантов учебных заведений, прекративших по собственному желанию обучение либо прохождение службы, а также уволенных или отчисленных по основаниям, предусмотренным законодательством РК, до истечения предусмотренного договором срока</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О взыскании государственных грантов, подъемных, пособий с молодых специалистов, направленных в сельскую местность, в случае неисполнения или ненадлежащего исполнения ими обязательств по договорам</td>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О взыскании с физических лиц задолженности по таможенным платежам, налогам, специальным, антидемпинговым, компенсационным пошлинам, пеней, процентов</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об исполнении соглашений по спорам, связанным с предпринимательской, инвестиционной деятельностью, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об исполнении соглашений по спорам в сфере защиты прав потребителей, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О взыскании арендных платежей ввиду их неуплаты в сроки, установленные договором аренды, заявленным государственным органом</td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об исполнении соглашений по спорам о публикации опровержения сведений, порочащих честь, достоинство или деловую репутацию гражданина и деловую репутацию юридического лица, либо ответа в средстве массовой информации</td>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
-<td>17</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О перечислении обязательных пенсионных отчислений в ЕНПФ</td>
-<td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
-<td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="141">ДЕЛА ИСКОВОГО ПРОИЗВОДСТВА</td>
-<td colspan="3">Трудовые споры</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="4">в том числе</td>
-<td colspan="2">о восстановлении на работе уволенных</td>
-<td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о восстановлении на работе уволенных, в том числе с выплатой заработной платы</td>
-<td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о выплате заработной платы и иных платежей</td>
-<td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об оспаривании приказов о наложении дисциплинарных взысканий за совершение коррупционных правонарушений</td>
-<td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, возникающие из брачно-семейных отношений</td>
-<td>25</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="17">в том числе</td>
-<td colspan="2">о взыскании алиментов на содержание несовершеннолетних детей</td>
-<td>26</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>с установлением отцовства (материнства)</td>
-<td>27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об установлении отцовства (без требования о взыскании алиментов)</td>
-<td>28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о взыскании алиментов на время обучения</td>
-<td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о взыскании алиментов на содержание супруги (супруга)</td>
-<td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о взыскании алиментов на содержание родителей</td>
-<td>31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о снижении (увеличении) размера взыскиваемых алиментов, приостановлении взыскания алиментов</td>
-<td>32</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о лишении родительских прав</td>
-<td>33</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о восстановлении родительских прав</td>
-<td>34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об ограничении родительских прав</td>
-<td>35</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об определении местожительства детей</td>
-<td>36</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об определении порядка общения с детьми</td>
-<td>37</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об отмене усыновления (удочерения)</td>
-<td>38</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о расторжении брака</td>
-<td>39</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>лиц, имеющих несовершеннолетних детей</td>
-<td>40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о разделе имущества между супругами</td>
-<td>41</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">споры, связанные с брачным договором</td>
-<td>42</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры по вопросам наследственного права</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры о праве собственности на имущество</td>
-<td>44</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="8">в том числе</td>
-<td colspan="2">об освобождении имущества от ареста</td>
-<td>45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о выделении доли из имущества</td>
-<td>46</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Об обязании освободить незаконно занимаемое нежилое помещение</td>
-<td>47</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Об истребовании из чужого незаконного владения</td>
-<td>48</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">О прекращении права собственности</td>
-<td>49</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Об оспаривании результатов оценки имущества</td>
-<td>50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">О незаконном захвате имущества юридических и физических лиц</td>
-<td>51</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Споры о праве собственности на жилище</td>
-<td>52</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, возникающие из жилищных правоотношений</td>
-<td>53</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="9">из них</td>
-<td colspan="2">о выселении граждан из жилища без предоставления другого жилого помещения</td>
-<td>54</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о выселении граждан из жилища с предоставлением другого жилого помещения</td>
-<td>55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о вселении</td>
-<td>56</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о выделении доли из жилища</td>
-<td>57</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о восстановлении, передвижке в очереди нуждающихся в жилье</td>
-<td>58</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об обжаловании действий (бездействия) кооператива собственников квартир потребительского кооператива</td>
-<td>59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о взыскании платы за жилье и коммунальные услуги, в том числе по иным договорам за услуги согласно установленным тарифам (в том числе услуги связи, телевидения)</td>
-<td>60</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о взыскании расходов на управление объектом кондоминиума и содержание общего имущества кондоминиума</td>
-<td>61</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о сносе жилья (построек)</td>
-<td>62</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, вытекающие из земельных правоотношений</td>
-<td>63</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="3">в том числе</td>
-<td colspan="2">изъятие земельных участков для государственных надобностей</td>
-<td>64</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об установлении (прекращении) сервитута</td>
-<td>65</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об оспаривании права собственности на земельный участок и землепользования</td>
-<td>66</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
-<td>67</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="26">в том числе</td>
-<td colspan="2">связанные с обращением взыскания на имущество</td>
-<td>68</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">споры между юридическими лицами, гражданами, осуществляющими предпринимательскую деятельность</td>
-<td>69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">из них</td>
-<td>с участием квазигосударственного сектора</td>
-<td>70</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>с участием государственных учреждений</td>
-<td>71</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">с долевым строительством</td>
-<td>72</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">с экономической, технологической, информационной безопасностью</td>
-<td>73</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по банковскому договору, в том числе потребительские кредиты, договор факторинга, микрофинансовые организации</td>
-<td>74</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">из них</td>
-<td>с ипотекой недвижимого имущества</td>
-<td>75</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>с обращением взыскания на имущество</td>
-<td>76</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору займа, в том числе образовательные услуги (гранты), ломбарды</td>
-<td>77</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>споры о взыскании долга по договорам займа между физическими лицами</td>
-<td>78</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">с недропользованием</td>
-<td>79</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них</td>
-<td>с участием иностранных лиц</td>
-<td>80</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору купли-продажи</td>
-<td>81</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору поставки</td>
-<td>82</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору подряда</td>
-<td>83</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору имущественного найма (аренды)</td>
-<td>84</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору лизинга</td>
-<td>85</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору хранения</td>
-<td>86</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору поручения</td>
-<td>87</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору комиссии</td>
-<td>88</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору дарения</td>
-<td>89</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору мены</td>
-<td>90</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору страхования</td>
-<td>91</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td>взыскание страховых выплат</td>
-<td>92</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по договору перевозки</td>
-<td>93</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">О признании сделки недействительной</td>
-<td>94</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
-<td>95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="3">в том числе</td>
-<td colspan="2">по спорам до заключения договора</td>
-<td>96</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по спорам, относящимся к заключению договора</td>
-<td>97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">по спорам об исполнении договора (о признании недобросовестным участником государственных закупок и взыскании неустойки)</td>
-<td>98</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
-<td>99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, связанные с лицензионной деятельностью</td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">в том числе</td>
-<td colspan="2">с отзывом лицензии</td>
-<td>101</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">с приостановлением лицензии</td>
-<td>102</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О приостановлении деятельности юридических лиц и индивидуальных предпринимателей</td>
-<td>103</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О лжепредпринимательстве</td>
-<td>104</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, связанные с ценными бумагами</td>
-<td>105</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="2">с отказом в регистрации или с незаконной регистрацией ценных бумаг</td>
-<td>106</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, связанные с нарушением налогового законодательства</td>
-<td>107</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="5">в том числе</td>
-<td colspan="2">иски налоговых органов о взыскании налогов и сборов с физических лиц</td>
-<td>108</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски налоговых органов о взыскании налогов и сборов с юридических лиц</td>
-<td>109</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски физических лиц к налоговым органам</td>
-<td>110</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски юридических лиц к налоговым органам</td>
-<td>111</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о ликвидации юридического лица (прекращении деятельности индивидуального предпринимателя)</td>
-<td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры в сфере таможенного законодательства</td>
-<td>113</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">в рамках Таможенного Союза, Всемирной торговой организации</td>
-<td>114</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, связанные с нарушением бюджетного законодательства</td>
-<td>115</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, связанные с нарушением пенсионного законодательства</td>
-<td>116</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О взыскании пособий, компенсаций</td>
-<td>117</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="2">о взыскании детских пособий</td>
-<td>118</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
-<td>119</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О возмещении вреда</td>
-<td>120</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="10">в том числе</td>
-<td colspan="2">о возмещении морального вреда</td>
-<td>121</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
-<td>122</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">из них</td>
-<td>в связи с исполнением трудовых обязанностей</td>
-<td>123</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
-<td>124</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
-<td>125</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="5">из них</td>
-<td>в порядке регресса</td>
-<td>126</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>по делам реабилитации</td>
-<td>127</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>по делам оправданных в суде</td>
-<td>128</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>по делам о нарушении гражданских прав</td>
-<td>129</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>по делам, связанным с пытками</td>
-<td>130</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры о возмещении ущерба</td>
-<td>131</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="2">споры о возмещении ущерба от дорожно-транспортного происшествия</td>
-<td>132</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О защите прав потребителя</td>
-<td>133</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">в том числе</td>
-<td colspan="2">из договоров в сфере торговли, услуг</td>
-<td>134</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски, связанные с качеством медицинских услуг</td>
-<td>135</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Иски о защите чести, достоинства и деловой репутации</td>
-<td>136</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="3">в том числе</td>
-<td colspan="2">к средствам массовой информации</td>
-<td>137</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">к гражданам и юридическим лицам</td>
-<td>138</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски юридических лиц о защите деловой репутации</td>
-<td>139</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, связанные с интеллектуальной собственностью</td>
-<td>140</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">в том числе</td>
-<td colspan="2">о защите авторских прав</td>
-<td>141</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о товарных знаках</td>
-<td>142</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Иски, связанные с охраной окружающей среды</td>
-<td>143</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="4">в том числе</td>
-<td colspan="2">о возмещении ущерба за нарушение природоохранного законодательства</td>
-<td>144</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">о возмещении вреда жизни и здоровью, причиненного в результате несоблюдения экологического законодательства</td>
-<td>145</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски физических лиц</td>
-<td>146</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">иски общественных экологических организаций</td>
-<td>147</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Иски, связанные с интернет-ресурсами</td>
-<td>148</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Иски о признании забастовок незаконными</td>
-<td>149</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об обязании, понуждении (исполнения, требования, предписания)</td>
-<td>150</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
-<td>151</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О взыскании процессуальных издержек</td>
-<td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О расторжении медиативного соглашения</td>
-<td>153</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Иски об уничтожении запрещенных предметов</td>
-<td>154</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Корпоративные споры</td>
-<td>155</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">в том числе</td>
-<td colspan="2">о выделении доли, принудительном выкупе доли</td>
-<td>156</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">об оспаривании протокола общего собрания</td>
-<td>157</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Прочие исковые дела</td>
-<td>158</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
-<td>159</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="2">с участием иностранных лиц</td>
-<td>160</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="4">Дела особого искового производства</td>
-<td colspan="3">Производство по делам об оспаривании законности нормативных правовых актов</td>
-<td>161</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="2">зарегистрированных в органах юстиции</td>
-<td>162</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
-<td>163</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="2">с участием иностранных лиц</td>
-<td>164</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="43">Дела особого производства</td>
-<td colspan="3">Об установлении фактов, имеющих юридическое значение</td>
-<td>165</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="9">в том числе</td>
-<td colspan="2">родственных отношений лиц</td>
-<td>166</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">нахождения лица на иждивении</td>
-<td>167</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">регистрации рождения, усыновления (удочерения), брака, развода и смерти</td>
-<td>168</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">признания отцовства</td>
-<td>169</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">принадлежности правоустанавливающих документов (за исключением воинских документов, паспортов, удостоверения личности и свидетельств, выдаваемых органами записи актов гражданского состояния) лицу</td>
-<td>170</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">наличия документов, подтверждающих владение, пользование и (или) распоряжение объектами недвижимого имущества</td>
-<td>171</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">несчастного случая</td>
-<td>172</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">смерти лица в определенное время при определенных обстоятельствах в случае отказа органов записи актов гражданского состояния в регистрации смерти</td>
-<td>173</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">принятия наследства и места открытия наследства</td>
-<td>174</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">По заявлениям об усыновлении (удочерении) ребенка</td>
-<td>175</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="2">иностранными гражданами</td>
-<td>176</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
-<td>177</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об отмене решения о признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
-<td>178</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об ограничении дееспособности гражданина</td>
-<td>179</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О признании гражданина недееспособным</td>
-<td>180</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
-<td>181</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">об отмене ограничения дееспособности гражданина</td>
-<td>182</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
-<td>183</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О направлении несовершеннолетних в специальные организации образования для детей с девиантным поведением или организации с особым режимом с содержания</td>
-<td>184</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О принудительной госпитализации гражданина в психиатрический стационар</td>
-<td>185</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О направлении гражданина, больного алкоголизмом, наркоманией или токсикоманией, на принудительное лечение в наркологическую организацию</td>
-<td>186</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О принудительном лечении гражданина, больного туберкулезом</td>
-<td>187</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О реструктуризации финансовых организаций и организаций, входящих в банковский конгломерат в качестве родительской организации и не являющихся финансовыми организациями</td>
-<td>188</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О реабилитации, в том числе. об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
-<td>189</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О банкротстве</td>
-<td>190</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="3">в том числе</td>
-<td colspan="2">юридического лица</td>
-<td>191</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">индивидуального предпринимателя</td>
-<td>192</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">в том числе. о включении (исключении) в реестр требований кредиторов</td>
-<td>193</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
-<td>194</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Об установлении неправильностей записей актов гражданского состояния</td>
-<td>195</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">По жалобам на нотариальные действия или на отказ в их совершении</td>
-<td>196</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="2">об отмене исполнительской надписи</td>
-<td>197</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
-<td>198</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">По заявлениям о признании организации, осуществляющей экстремизм или террористическую деятельность на территории Республики Казахстан и (или) другого государства, экстремистской или террористической, в том числе об установлении изменения ею своего наименования, а также о признании информационных материалов, ввозимых, издаваемых, изготавливаемых и (или) распространяемых на территории Республики Казахстан, экстремистскими или террористическими</td>
-<td>199</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
-<td>200</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">По заявлениям о выдворении иностранца или лица без гражданства за пределы Республики Казахстан за нарушение законодательства Республики Казахстан</td>
-<td>201</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О признании гражданина жертвой политических репрессий</td>
-<td>202</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">О признании наследства выморочным</td>
-<td>203</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">о восстановлении утраченного судебного или исполнительного производства</td>
-<td>204</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Прочие дела особого производства</td>
-<td>205</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
-<td>206</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="2">с участием иностранных лиц</td>
-<td>207</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
-<td>208</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Производство по ходатайству об отмене арбитражных решений</td>
-<td>209</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>в том числе</td>
-<td colspan="3">третейских судов</td>
-<td>210</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
-<td>211</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">в том числе</td>
-<td colspan="3">о дискриминации женщин по признаку пола</td>
-<td>212</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">по делам, связанным с бытовым насилием</td>
-<td>213</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="4"></td>
-<td colspan="3">по инвестиционным спорам</td>
-<td>214</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">из них</td>
-<td>с участием иностранных инвесторов</td>
-<td>215</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">о возмещении морального вреда с другими основными требованиями</td>
-<td>216</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">в упрощенном (письменном) производстве</td>
-<td>217</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="4">Материалы, представления и тому подобное</td>
-<td>218</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="17">в том числе</td>
-<td colspan="3">об отсрочке, рассрочке исполнения решения суда</td>
-<td>219</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -37962,20 +22145,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">об отсрочке, рассрочке, изменении способа мирового соглашения сторон</td>
 <td>221</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -37992,20 +22165,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">по представлению судебного исполнителя</td>
 <td>223</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38022,20 +22185,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">о санкционировании других постановлений судебного исполнителя</td>
 <td>225</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38052,20 +22205,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">санкционирование постановления судебного исполнителя о приводе должника</td>
 <td>227</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38083,20 +22226,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">судебное поручение</td>
 <td>229</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38113,20 +22246,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
 <td>231</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38143,20 +22266,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">о восстановлении срока предъявления исполнительного листа</td>
 <td>233</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38173,20 +22286,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">прочие материалы, представления</td>
 <td>235</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38203,21 +22306,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="14">в том числе</td>
-<td colspan="3">по искам инвалидов</td>
+<td colspan="3">по искам лиц с инвалидностью</td>
 <td>237</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38234,20 +22327,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">по искам лиц женского пола</td>
 <td>239</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38264,20 +22347,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">с участием субъектов малого и среднего предпринимательства</td>
 <td>241</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38294,20 +22367,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">применен Международный договор</td>
 <td>243</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38325,20 +22388,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">Международный пакт о ликвидации всех форм дискриминации в отношении женщин</td>
 <td>245</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38355,20 +22408,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="2">Международная конвенция о ликвидации всех форм рассовой дискриминации</td>
+<td colspan="2">Международная конвенция о ликвидации всех форм расовой дискриминации</td>
 <td>247</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38385,20 +22428,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="2">Международная конвенция о правах инвалидов</td>
+<td colspan="2">Международная конвенция о правах лиц с инвалидностью</td>
 <td>249</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -38415,6 +22448,2356 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td rowspan="2">количество ходатайств разрешенных с истребованием дел</td>
+<td rowspan="2">с нарушением сроков, установленных Гражданским процессуальным кодексом Республики Казахстан (далее – ГПК РК)</td>
+<td colspan="2">Справки по результатам рассмотрения ходатайств</td>
+<td rowspan="2">Внесено представлений о пересмотре (в составе 3 судей)</td>
+<td rowspan="2">Остаток нерассмотренных ходатайств на конец отчетного периода</td>
+<td colspan="2" rowspan="2">Количество объединенных ходатайств</td>
+</tr>
+<tr>
+<td>о передаче ходатайства для предварительного рассмотрения (ч.3 ст.434)</td>
+<td>о возвращении ходатайства в связи с отсутствием оснований</td>
+</tr>
+<tr>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td colspan="2">13</td>
+</tr>
+</table>
+
+форма
+
+Форма № 8К «Отчет по пересмотру судебных актов в кассационном порядке»
+
+Таблица А1 «Движение ходатайств о внесении протеста Генеральным Прокурором Республики Казахстан в порядке части четвертой статьи 434 Гражданского процессуального кодекса Республики Казахстан»
+
+<table>
+<tr>
+<td colspan="5" rowspan="2">Категории споров</td>
+<td rowspan="2">Код строки</td>
+<td rowspan="2">Остаток ходатайств на начало отчетного периода</td>
+<td rowspan="2">Поступило ходатайств в отчетном периоде</td>
+<td>в том числе</td>
+<td rowspan="2">возвращено с разъяснениями</td>
+<td rowspan="2">отозвано из граф 2</td>
+</tr>
+<tr>
+<td>по частным определениям, постановлениям</td>
+</tr>
+<tr>
+<td colspan="5">А</td>
+<td>Б</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td rowspan="19">ДЕЛА ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
+<td colspan="4">О взыскании алиментов на содержание несовершеннолетних детей, не связанным с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О возмещении расходов по розыску ответчика и (или) ребенка, заявленных уполномоченными органами</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О взыскании сумм, затраченных на обучение курсантов учебных заведений, прекративших по собственному желанию обучение либо прохождение службы, а также уволенных или отчисленных по основаниям, предусмотренным законодательством РК, до истечения предусмотренного договором срока</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О взыскании государственных грантов, подъемных, пособий с молодых специалистов, направленных в сельскую местность, в случае неисполнения или ненадлежащего исполнения ими обязательств по договорам</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О взыскании с физических лиц задолженности по таможенным платежам, налогам, специальным, антидемпинговым, компенсационным пошлинам, пеней, процентов</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об исполнении соглашений по спорам, связанным с предпринимательской, инвестиционной деятельностью, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об исполнении соглашений по спорам в сфере защиты прав потребителей, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О взыскании арендных платежей ввиду их неуплаты в сроки, установленные договором аренды, заявленным государственным органом</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об исполнении соглашений по спорам о публикации опровержения сведений, порочащих честь, достоинство или деловую репутацию гражданина и деловую репутацию юридического лица, либо ответа в средстве массовой информации</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О перечислении обязательных пенсионных отчислений в ЕНПФ</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="141">ДЕЛА ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td colspan="4">Трудовые споры</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">в том числе</td>
+<td colspan="2">о восстановлении на работе уволенных</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о восстановлении на работе уволенных, в том числе с выплатой заработной платы</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о выплате заработной платы и иных платежей</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об оспаривании приказов о наложении дисциплинарных взысканий за совершение коррупционных правонарушений</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, возникающие из брачно-семейных отношений</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="17">в том числе</td>
+<td colspan="2">о взыскании алиментов на содержание несовершеннолетних детей</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них</td>
+<td>с установлением отцовства (материнства)</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об установлении отцовства (без требования о взыскании алиментов)</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о взыскании алиментов на время обучения</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о взыскании алиментов на содержание супруги (супруга)</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о взыскании алиментов на содержание родителей</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о снижении (увеличении) размера взыскиваемых алиментов, приостановлении взыскания алиментов</td>
+<td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о лишении родительских прав</td>
+<td>33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о восстановлении родительских прав</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об ограничении родительских прав</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об определении местожительства детей</td>
+<td>36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об определении порядка общения с детьми</td>
+<td>37</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об отмене усыновления (удочерения)</td>
+<td>38</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о расторжении брака</td>
+<td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них</td>
+<td>лиц, имеющих несовершеннолетних детей</td>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о разделе имущества между супругами</td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">споры, связанные с брачным договором</td>
+<td>42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры по вопросам наследственного права</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры о праве собственности на имущество</td>
+<td>44</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="8">в том числе</td>
+<td colspan="2">об освобождении имущества от ареста</td>
+<td>45</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о выделении доли из имущества</td>
+<td>46</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Об обязании освободить незаконно занимаемое нежилое помещение</td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Об истребовании из чужого незаконного владения</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">О прекращении права собственности</td>
+<td>49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Об оспаривании результатов оценки имущества</td>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">О незаконном захвате имущества юридических и физических лиц</td>
+<td>51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Споры о праве собственности на жилище</td>
+<td>52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, возникающие из жилищных правоотношений</td>
+<td>53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="9">из них</td>
+<td colspan="2">о выселении граждан из жилища без предоставления другого жилого помещения</td>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о выселении граждан из жилища с предоставлением другого жилого помещения</td>
+<td>55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о вселении</td>
+<td>56</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о выделении доли из жилища</td>
+<td>57</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о восстановлении, передвижке в очереди нуждающихся в жилье</td>
+<td>58</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об обжаловании действий (бездействия) кооператива собственников квартир потребительского кооператива</td>
+<td>59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о взыскании платы за жилье и коммунальные услуги, в том числе по иным договорам за услуги согласно установленным тарифам (в том числе услуги связи, телевидения)</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о взыскании расходов на управление объектом кондоминиума и содержание общего имущества кондоминиума</td>
+<td>61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о сносе жилья (построек)</td>
+<td>62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, вытекающие из земельных правоотношений</td>
+<td>63</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3">в том числе</td>
+<td colspan="2">изъятие земельных участков для государственных надобностей</td>
+<td>64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об установлении (прекращении) сервитута</td>
+<td>65</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об оспаривании права собственности на земельный участок и землепользования</td>
+<td>66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
+<td>67</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="26">в том числе</td>
+<td colspan="2">связанные с обращением взыскания на имущество</td>
+<td>68</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">споры между юридическими лицами, гражданами, осуществляющими предпринимательскую деятельность</td>
+<td>69</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них</td>
+<td>с участием квазигосударственного сектора</td>
+<td>70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>с участием государственных учреждений</td>
+<td>71</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">с долевым строительством</td>
+<td>72</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">с экономической, технологической, информационной безопасностью</td>
+<td>73</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по банковскому договору, в том числе потребительские кредиты, договор факторинга, микрофинансовые организации</td>
+<td>74</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них</td>
+<td>с ипотекой недвижимого имущества</td>
+<td>75</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>с обращением взыскания на имущество</td>
+<td>76</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору займа, в том числе образовательные услуги (гранты), ломбарды</td>
+<td>77</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них</td>
+<td>споры о взыскании долга по договорам займа между физическими лицами</td>
+<td>78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">с недропользованием</td>
+<td>79</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них</td>
+<td>с участием иностранных лиц</td>
+<td>80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору купли-продажи</td>
+<td>81</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору поставки</td>
+<td>82</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору подряда</td>
+<td>83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору имущественного найма (аренды)</td>
+<td>84</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору лизинга</td>
+<td>85</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору хранения</td>
+<td>86</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору поручения</td>
+<td>87</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору комиссии</td>
+<td>88</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору дарения</td>
+<td>89</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору мены</td>
+<td>90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору страхования</td>
+<td>91</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td>взыскание страховых выплат</td>
+<td>92</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору перевозки</td>
+<td>93</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">О признании сделки недействительной</td>
+<td>94</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
+<td>95</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3">в том числе</td>
+<td colspan="2">по спорам до заключения договора</td>
+<td>96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по спорам, относящимся к заключению договора</td>
+<td>97</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по спорам об исполнении договора (о признании недобросовестным участником государственных закупок и взыскании неустойки)</td>
+<td>98</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
+<td>99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, связанные с лицензионной деятельностью</td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">в том числе</td>
+<td colspan="2">с отзывом лицензии</td>
+<td>101</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">с приостановлением лицензии</td>
+<td>102</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О приостановлении деятельности юридических лиц и индивидуальных предпринимателей</td>
+<td>103</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О лжепредпринимательстве</td>
+<td>104</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, связанные с ценными бумагами</td>
+<td>105</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в том числе</td>
+<td colspan="2">с отказом в регистрации или с незаконной регистрацией ценных бумаг</td>
+<td>106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, связанные с нарушением налогового законодательства</td>
+<td>107</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="5">в том числе</td>
+<td colspan="2">иски налоговых органов о взыскании налогов и сборов с физических лиц</td>
+<td>108</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски налоговых органов о взыскании налогов и сборов с юридических лиц</td>
+<td>109</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски физических лиц к налоговым органам</td>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски юридических лиц к налоговым органам</td>
+<td>111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о ликвидации юридического лица (прекращении деятельности индивидуального предпринимателя)</td>
+<td>112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры в сфере таможенного законодательства</td>
+<td>113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">в рамках Таможенного Союза, Всемирной торговой организации</td>
+<td>114</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, связанные с нарушением бюджетного законодательства</td>
+<td>115</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, связанные с нарушением пенсионного законодательства</td>
+<td>116</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О взыскании пособий, компенсаций</td>
+<td>117</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в том числе</td>
+<td colspan="2">о взыскании детских пособий</td>
+<td>118</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
+<td>119</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О возмещении вреда</td>
+<td>120</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="10">в том числе</td>
+<td colspan="2">о возмещении морального вреда</td>
+<td>121</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
+<td>122</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них</td>
+<td>в связи с исполнением трудовых обязанностей</td>
+<td>123</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
+<td>124</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
+<td>125</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">из них</td>
+<td>в порядке регресса</td>
+<td>126</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>по делам реабилитации</td>
+<td>127</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>по делам оправданных в суде</td>
+<td>128</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>по делам о нарушении гражданских прав</td>
+<td>129</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>по делам, связанным с пытками</td>
+<td>130</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры о возмещении ущерба</td>
+<td>131</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в том числе</td>
+<td colspan="2">споры о возмещении ущерба от дорожно-транспортного происшествия</td>
+<td>132</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О защите прав потребителя</td>
+<td>133</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">в том числе</td>
+<td colspan="2">из договоров в сфере торговли, услуг</td>
+<td>134</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски, связанные с качеством медицинских услуг</td>
+<td>135</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Иски о защите чести, достоинства и деловой репутации</td>
+<td>136</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3">в том числе</td>
+<td colspan="2">к средствам массовой информации</td>
+<td>137</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">к гражданам и юридическим лицам</td>
+<td>138</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски юридических лиц о защите деловой репутации</td>
+<td>139</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, связанные с интеллектуальной собственностью</td>
+<td>140</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">в том числе</td>
+<td colspan="2">о защите авторских прав</td>
+<td>141</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о товарных знаках</td>
+<td>142</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Иски, связанные с охраной окружающей среды</td>
+<td>143</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">в том числе</td>
+<td colspan="2">о возмещении ущерба за нарушение природоохранного законодательства</td>
+<td>144</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о возмещении вреда жизни и здоровью, причиненного в результате несоблюдения экологического законодательства</td>
+<td>145</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски физических лиц</td>
+<td>146</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски общественных экологических организаций</td>
+<td>147</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Иски, связанные с интернет-ресурсами</td>
+<td>148</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Иски о признании забастовок незаконными</td>
+<td>149</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об обязании, понуждении (исполнения, требования, предписания)</td>
+<td>150</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
+<td>151</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О взыскании процессуальных издержек</td>
+<td>152</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О расторжении медиативного соглашения</td>
+<td>153</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Иски об уничтожении запрещенных предметов</td>
+<td>154</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Корпоративные споры</td>
+<td>155</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">в том числе</td>
+<td colspan="2">о выделении доли, принудительном выкупе доли</td>
+<td>156</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об оспаривании протокола общего собрания</td>
+<td>157</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Прочие исковые дела</td>
+<td>158</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td>159</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в том числе</td>
+<td colspan="2">с участием иностранных лиц</td>
+<td>160</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Дела особого искового производства</td>
+<td colspan="4">Производство по делам об оспаривании законности нормативных правовых актов</td>
+<td>161</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="3">зарегистрированных в органах юстиции</td>
+<td>162</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td>163</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в том числе.</td>
+<td colspan="2">с участием иностранных лиц</td>
+<td>164</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="43">Дела особого производства</td>
+<td colspan="4">Об установлении фактов, имеющих юридическое значение</td>
+<td>165</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="9">в том числе</td>
+<td colspan="2">родственных отношений лиц</td>
+<td>166</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">нахождения лица на иждивении</td>
+<td>167</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">регистрации рождения, усыновления (удочерения), брака, развода и смерти</td>
+<td>168</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">признания отцовства</td>
+<td>169</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">принадлежности правоустанавливающих документов (за исключением воинских документов, паспортов, удостоверения личности и свидетельств, выдаваемых органами записи актов гражданского состояния) лицу</td>
+<td>170</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">наличия документов, подтверждающих владение, пользование и (или) распоряжение объектами недвижимого имущества</td>
+<td>171</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">несчастного случая</td>
+<td>172</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">смерти лица в определенное время при определенных обстоятельствах в случае отказа органов записи актов гражданского состояния в регистрации смерти</td>
+<td>173</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">принятия наследства и места открытия наследства</td>
+<td>174</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">По заявлениям об усыновлении (удочерении) ребенка</td>
+<td>175</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в том числе</td>
+<td colspan="2">иностранными гражданами</td>
+<td>176</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
+<td>177</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об отмене решения о признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
+<td>178</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об ограничении дееспособности гражданина</td>
+<td>179</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О признании гражданина недееспособным</td>
+<td>180</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
+<td>181</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">об отмене ограничения дееспособности гражданина</td>
+<td>182</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
+<td>183</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О направлении несовершеннолетних в специальные организации образования для детей с девиантным поведением или организации с особым режимом с содержания</td>
+<td>184</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О принудительной госпитализации гражданина в психиатрический стационар</td>
+<td>185</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О направлении гражданина, больного алкоголизмом, наркоманией или токсикоманией, на принудительное лечение в наркологическую организацию</td>
+<td>186</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О принудительном лечении гражданина, больного туберкулезом</td>
+<td>187</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О реструктуризации финансовых организаций и организаций, входящих в банковский конгломерат в качестве родительской организации и не являющихся финансовыми организациями</td>
+<td>188</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О реабилитации, в том числе. об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
+<td>189</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О банкротстве</td>
+<td>190</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3">в том числе</td>
+<td colspan="2">юридического лица</td>
+<td>191</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">индивидуального предпринимателя</td>
+<td>192</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в том числе. о включении (исключении) в реестр требований кредиторов</td>
+<td>193</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
+<td>194</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об установлении неправильностей записей актов гражданского состояния</td>
+<td>195</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">По жалобам на нотариальные действия или на отказ в их совершении</td>
+<td>196</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в том числе</td>
+<td colspan="2">об отмене исполнительской надписи</td>
+<td>197</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
+<td>198</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">По заявлениям о признании организации, осуществляющей экстремизм или террористическую деятельность на территории Республики Казахстан и (или) другого государства, экстремистской или террористической, в том числе об установлении изменения ею своего наименования, а также о признании информационных материалов, ввозимых, издаваемых, изготавливаемых и (или) распространяемых на территории Республики Казахстан, экстремистскими или террористическими</td>
+<td>199</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
+<td>200</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">По заявлениям о выдворении иностранца или лица без гражданства за пределы Республики Казахстан за нарушение законодательства Республики Казахстан</td>
+<td>201</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О признании гражданина жертвой политических репрессий</td>
+<td>202</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">О признании наследства выморочным</td>
+<td>203</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">о восстановлении утраченного судебного или исполнительного производства</td>
+<td>204</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Прочие дела особого производства</td>
+<td>205</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
+<td>206</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в том числе</td>
+<td colspan="2">с участием иностранных лиц</td>
+<td>207</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
+<td>208</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Производство по ходатайству об отмене арбитражных решений</td>
+<td>209</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="4">третейских судов</td>
+<td>210</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
+<td>211</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">в том числе</td>
+<td colspan="4">о дискриминации женщин по признаку пола</td>
+<td>212</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">по делам, связанным с бытовым насилием</td>
+<td>213</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4"></td>
+<td colspan="4">по инвестиционным спорам</td>
+<td>214</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">из них</td>
+<td>с участием иностранных инвесторов</td>
+<td>215</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">о возмещении морального вреда с другими основными требованиями</td>
+<td>216</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">в упрощенном (письменном) производстве</td>
+<td>217</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Материалы, представления и тому подобное</td>
+<td>218</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="17">в том числе</td>
+<td colspan="4">об отсрочке, рассрочке исполнения решения суда</td>
+<td>219</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">об изменении способа и порядка исполнения решения суда, в том числе о замене должника (взыскателя)</td>
+<td>220</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">об отсрочке, рассрочке, изменении способа мирового соглашения сторон</td>
+<td>221</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">о повороте исполнения решения суда</td>
+<td>222</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">по представлению судебного исполнителя</td>
+<td>223</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">о санкционировании постановления судебного исполнителя об ограничении выезда гражданина за пределы Республики Казахстан</td>
+<td>224</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">о санкционировании других постановлений судебного исполнителя</td>
+<td>225</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">о взыскании (отсрочке, рассрочке) исполнительской санкции</td>
+<td>226</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">санкционирование постановления судебного исполнителя о приводе должника</td>
+<td>227</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">из строк из строк из строк 221-225</td>
+<td>частным судебным исполнителем</td>
+<td>228</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">судебное поручение</td>
+<td>229</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">о выдаче исполнительного листа (дубликата)</td>
+<td>230</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
+<td>231</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">об индексации присужденных денежных сумм</td>
+<td>232</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">о восстановлении срока предъявления исполнительного листа</td>
+<td>233</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Об обращении взыскания на недвижимое имущество должника</td>
+<td>234</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">прочие материалы, представления</td>
+<td>235</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">ИТОГО ДЕЛ И МАТЕРИАЛОВ</td>
+<td>236</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="14">в том числе</td>
+<td colspan="4">по искам лиц с инвалидностью</td>
+<td>237</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">по искам, заявленным в интересах несовершеннолетних</td>
+<td>238</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">по искам лиц женского пола</td>
+<td>239</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">с участием иностранных лиц</td>
+<td>240</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">с участием субъектов малого и среднего предпринимательства</td>
+<td>241</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">дел на государственном языке</td>
+<td>242</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">применен Международный договор</td>
+<td>243</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="7">из них</td>
+<td colspan="2">Международный пакт о гражданских о политических правах</td>
+<td>244</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Международный пакт о ликвидации всех форм дискриминации в отношении женщин</td>
+<td>245</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Международный пакт об экономических, социальных и культурных правах</td>
+<td>246</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Международная конвенция о ликвидации всех форм рассовой дискриминации</td>
+<td>247</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Международная конвенция о правах ребенка</td>
+<td>248</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Международная конвенция о правах лиц с инвалидностью</td>
+<td>249</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в рамках реализации Орхусской конвенции</td>
+<td>250</td>
 <td></td>
 <td></td>
 <td></td>
@@ -38423,9 +24806,2140 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 </table>
 
-Форма №8К " Отчет по пересмотру судебных актов в кассационном порядке"
+Продолжение таблицы
 
-Таблица Б1 "Движение представлений председателя Верховного Суда в порядке частями 3, 4 статьи 434 Гражданского процессуального кодекса Республики Казахстан"
+<table>
+<tr>
+<td rowspan="2">Всего рассмотрено ходатайств</td>
+<td rowspan="2">количество ходатайств разрешенных с истребованием дел</td>
+<td rowspan="2">с нарушением сроков, установленных ГПК РК</td>
+<td colspan="2">Справки по результатам рассмотрения ходатайств</td>
+<td rowspan="2">Внесено представлений о пересмотре</td>
+<td rowspan="2">Остаток нерассмотренных ходатайств на конец отчетного периода</td>
+<td rowspan="2">Количество объединенных ходатайств</td>
+</tr>
+<tr>
+<td>о передаче ходатайства для предварительного рассмотрения</td>
+<td>о возвращении ходатайства в связи с отсутствием оснований</td>
+</tr>
+<tr>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+</tr>
+</table>
+
+Форма № 8К «Отчет по пересмотру судебных актов в кассационном порядке»
+
+Таблица Б «Движение представлений Председателя Верховного Суда Республики Казахстан на постановления кассационной инстанции»
+
+<table>
+<tr>
+<td colspan="4" rowspan="2">Категории споров</td>
+<td rowspan="2">Код строки</td>
+<td rowspan="2">Остаток представлений на начало отчетного периода</td>
+<td rowspan="2">Количество внесенных представлений в отчетном периоде</td>
+<td colspan="2">Решения по результатам предварительного рассмотрения представления</td>
+</tr>
+<tr>
+<td>отказано</td>
+<td>удовлетворено</td>
+</tr>
+<tr>
+<td colspan="4">А</td>
+<td>Б</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td rowspan="19">ДЕЛА ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
+<td colspan="3">О взыскании алиментов на содержание несовершеннолетних детей, не связанным с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О возмещении расходов по розыску ответчика и (или) ребенка, заявленных уполномоченными органами</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О взыскании сумм, затраченных на обучение курсантов учебных заведений, прекративших по собственному желанию обучение либо прохождение службы, а также уволенных или отчисленных по основаниям, предусмотренным законодательством РК, до истечения предусмотренного договором срока</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О взыскании государственных грантов, подъемных, пособий с молодых специалистов, направленных в сельскую местность, в случае неисполнения или ненадлежащего исполнения ими обязательств по договорам</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О взыскании с физических лиц задолженности по таможенным платежам, налогам, специальным, антидемпинговым, компенсационным пошлинам, пеней, процентов</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об исполнении соглашений по спорам, связанным с предпринимательской, инвестиционной деятельностью, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об исполнении соглашений по спорам в сфере защиты прав потребителей, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О взыскании арендных платежей ввиду их неуплаты в сроки, установленные договором аренды, заявленным государственным органом</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об исполнении соглашений по спорам о публикации опровержения сведений, порочащих честь, достоинство или деловую репутацию гражданина и деловую репутацию юридического лица, либо ответа в средстве массовой информации</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О перечислении обязательных пенсионных отчислений в ЕНПФ</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="141">ДЕЛА ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td colspan="3">Трудовые споры</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">в том числе</td>
+<td colspan="2">о восстановлении на работе уволенных</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о восстановлении на работе уволенных, в том числе с выплатой заработной платы</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о выплате заработной платы и иных платежей</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об оспаривании приказов о наложении дисциплинарных взысканий за совершение коррупционных правонарушений</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, возникающие из брачно-семейных отношений</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="17">в том числе</td>
+<td colspan="2">о взыскании алиментов на содержание несовершеннолетних детей</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них</td>
+<td>с установлением отцовства (материнства)</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об установлении отцовства (без требования о взыскании алиментов)</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о взыскании алиментов на время обучения</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о взыскании алиментов на содержание супруги (супруга)</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о взыскании алиментов на содержание родителей</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о снижении (увеличении) размера взыскиваемых алиментов, приостановлении взыскания алиментов</td>
+<td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о лишении родительских прав</td>
+<td>33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о восстановлении родительских прав</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об ограничении родительских прав</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об определении местожительства детей</td>
+<td>36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об определении порядка общения с детьми</td>
+<td>37</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об отмене усыновления (удочерения)</td>
+<td>38</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о расторжении брака</td>
+<td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них</td>
+<td>лиц, имеющих несовершеннолетних детей</td>
+<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о разделе имущества между супругами</td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">споры, связанные с брачным договором</td>
+<td>42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры по вопросам наследственного права</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры о праве собственности на имущество</td>
+<td>44</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="8">в том числе</td>
+<td colspan="2">об освобождении имущества от ареста</td>
+<td>45</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о выделении доли из имущества</td>
+<td>46</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Об обязании освободить незаконно занимаемое нежилое помещение</td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Об истребовании из чужого незаконного владения</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">О прекращении права собственности</td>
+<td>49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Об оспаривании результатов оценки имущества</td>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">О незаконном захвате имущества юридических и физических лиц</td>
+<td>51</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Споры о праве собственности на жилище</td>
+<td>52</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, возникающие из жилищных правоотношений</td>
+<td>53</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="9">из них</td>
+<td colspan="2">о выселении граждан из жилища без предоставления другого жилого помещения</td>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о выселении граждан из жилища с предоставлением другого жилого помещения</td>
+<td>55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о вселении</td>
+<td>56</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о выделении доли из жилища</td>
+<td>57</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о восстановлении, передвижке в очереди нуждающихся в жилье</td>
+<td>58</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об обжаловании действий (бездействия) кооператива собственников квартир потребительского кооператива</td>
+<td>59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о взыскании платы за жилье и коммунальные услуги, в том числе по иным договорам за услуги согласно установленным тарифам (в том числе услуги связи, телевидения)</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о взыскании расходов на управление объектом кондоминиума и содержание общего имущества кондоминиума</td>
+<td>61</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о сносе жилья (построек)</td>
+<td>62</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, вытекающие из земельных правоотношений</td>
+<td>63</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">в том числе</td>
+<td colspan="2">изъятие земельных участков для государственных надобностей</td>
+<td>64</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об установлении (прекращении) сервитута</td>
+<td>65</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об оспаривании права собственности на земельный участок и землепользования</td>
+<td>66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
+<td>67</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="26">в том числе</td>
+<td colspan="2">связанные с обращением взыскания на имущество</td>
+<td>68</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">споры между юридическими лицами, гражданами, осуществляющими предпринимательскую деятельность</td>
+<td>69</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них</td>
+<td>с участием квазигосударственного сектора</td>
+<td>70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>с участием государственных учреждений</td>
+<td>71</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">с долевым строительством</td>
+<td>72</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">с экономической, технологической, информационной безопасностью</td>
+<td>73</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по банковскому договору, в том числе потребительские кредиты, договор факторинга, микрофинансовые организации</td>
+<td>74</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них</td>
+<td>с ипотекой недвижимого имущества</td>
+<td>75</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>с обращением взыскания на имущество</td>
+<td>76</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору займа, в том числе образовательные услуги (гранты), ломбарды</td>
+<td>77</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них</td>
+<td>споры о взыскании долга по договорам займа между физическими лицами</td>
+<td>78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">с недропользованием</td>
+<td>79</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них</td>
+<td>с участием иностранных лиц</td>
+<td>80</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору купли-продажи</td>
+<td>81</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору поставки</td>
+<td>82</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору подряда</td>
+<td>83</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору имущественного найма (аренды)</td>
+<td>84</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору лизинга</td>
+<td>85</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору хранения</td>
+<td>86</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору поручения</td>
+<td>87</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору комиссии</td>
+<td>88</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору дарения</td>
+<td>89</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору мены</td>
+<td>90</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору страхования</td>
+<td>91</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td>взыскание страховых выплат</td>
+<td>92</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по договору перевозки</td>
+<td>93</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">О признании сделки недействительной</td>
+<td>94</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
+<td>95</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">в том числе</td>
+<td colspan="2">по спорам до заключения договора</td>
+<td>96</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по спорам, относящимся к заключению договора</td>
+<td>97</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">по спорам об исполнении договора (о признании недобросовестным участником государственных закупок и взыскании неустойки)</td>
+<td>98</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
+<td>99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, связанные с лицензионной деятельностью</td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">в том числе</td>
+<td colspan="2">с отзывом лицензии</td>
+<td>101</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">с приостановлением лицензии</td>
+<td>102</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О приостановлении деятельности юридических лиц и индивидуальных предпринимателей</td>
+<td>103</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О лжепредпринимательстве</td>
+<td>104</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, связанные с ценными бумагами</td>
+<td>105</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="2">с отказом в регистрации или с незаконной регистрацией ценных бумаг</td>
+<td>106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, связанные с нарушением налогового законодательства</td>
+<td>107</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">в том числе</td>
+<td colspan="2">иски налоговых органов о взыскании налогов и сборов с физических лиц</td>
+<td>108</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски налоговых органов о взыскании налогов и сборов с юридических лиц</td>
+<td>109</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски физических лиц к налоговым органам</td>
+<td>110</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски юридических лиц к налоговым органам</td>
+<td>111</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о ликвидации юридического лица (прекращении деятельности индивидуального предпринимателя)</td>
+<td>112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры в сфере таможенного законодательства</td>
+<td>113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">в рамках Таможенного Союза, Всемирной торговой организации</td>
+<td>114</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, связанные с нарушением бюджетного законодательства</td>
+<td>115</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, связанные с нарушением пенсионного законодательства</td>
+<td>116</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О взыскании пособий, компенсаций</td>
+<td>117</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="2">о взыскании детских пособий</td>
+<td>118</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
+<td>119</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О возмещении вреда</td>
+<td>120</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="10">в том числе</td>
+<td colspan="2">о возмещении морального вреда</td>
+<td>121</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
+<td>122</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">из них</td>
+<td>в связи с исполнением трудовых обязанностей</td>
+<td>123</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
+<td>124</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
+<td>125</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">из них</td>
+<td>в порядке регресса</td>
+<td>126</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>по делам реабилитации</td>
+<td>127</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>по делам оправданных в суде</td>
+<td>128</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>по делам о нарушении гражданских прав</td>
+<td>129</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>по делам, связанным с пытками</td>
+<td>130</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры о возмещении ущерба</td>
+<td>131</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="2">споры о возмещении ущерба от дорожно-транспортного происшествия</td>
+<td>132</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О защите прав потребителя</td>
+<td>133</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">в том числе</td>
+<td colspan="2">из договоров в сфере торговли, услуг</td>
+<td>134</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски, связанные с качеством медицинских услуг</td>
+<td>135</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Иски о защите чести, достоинства и деловой репутации</td>
+<td>136</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">в том числе</td>
+<td colspan="2">к средствам массовой информации</td>
+<td>137</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">к гражданам и юридическим лицам</td>
+<td>138</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски юридических лиц о защите деловой репутации</td>
+<td>139</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, связанные с интеллектуальной собственностью</td>
+<td>140</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">в том числе</td>
+<td colspan="2">о защите авторских прав</td>
+<td>141</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о товарных знаках</td>
+<td>142</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Иски, связанные с охраной окружающей среды</td>
+<td>143</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">в том числе</td>
+<td colspan="2">о возмещении ущерба за нарушение природоохранного законодательства</td>
+<td>144</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">о возмещении вреда жизни и здоровью, причиненного в результате несоблюдения экологического законодательства</td>
+<td>145</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски физических лиц</td>
+<td>146</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">иски общественных экологических организаций</td>
+<td>147</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Иски, связанные с интернет-ресурсами</td>
+<td>148</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Иски о признании забастовок незаконными</td>
+<td>149</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об обязании, понуждении (исполнения, требования, предписания)</td>
+<td>150</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
+<td>151</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О взыскании процессуальных издержек</td>
+<td>152</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О расторжении медиативного соглашения</td>
+<td>153</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Иски об уничтожении запрещенных предметов</td>
+<td>154</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Корпоративные споры</td>
+<td>155</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">в том числе</td>
+<td colspan="2">о выделении доли, принудительном выкупе доли</td>
+<td>156</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">об оспаривании протокола общего собрания</td>
+<td>157</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Прочие исковые дела</td>
+<td>158</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td>159</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="2">с участием иностранных лиц</td>
+<td>160</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Дела особого искового производства</td>
+<td colspan="3">Производство по делам об оспаривании законности нормативных правовых актов</td>
+<td>161</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="2">зарегистрированных в органах юстиции</td>
+<td>162</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
+<td>163</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="2">с участием иностранных лиц</td>
+<td>164</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="43">Дела особого производства</td>
+<td colspan="3">Об установлении фактов, имеющих юридическое значение</td>
+<td>165</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="9">в том числе</td>
+<td colspan="2">родственных отношений лиц</td>
+<td>166</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">нахождения лица на иждивении</td>
+<td>167</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">регистрации рождения, усыновления (удочерения), брака, развода и смерти</td>
+<td>168</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">признания отцовства</td>
+<td>169</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">принадлежности правоустанавливающих документов (за исключением воинских документов, паспортов, удостоверения личности и свидетельств, выдаваемых органами записи актов гражданского состояния) лицу</td>
+<td>170</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">наличия документов, подтверждающих владение, пользование и (или) распоряжение объектами недвижимого имущества</td>
+<td>171</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">несчастного случая</td>
+<td>172</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">смерти лица в определенное время при определенных обстоятельствах в случае отказа органов записи актов гражданского состояния в регистрации смерти</td>
+<td>173</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">принятия наследства и места открытия наследства</td>
+<td>174</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">По заявлениям об усыновлении (удочерении) ребенка</td>
+<td>175</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="2">иностранными гражданами</td>
+<td>176</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
+<td>177</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об отмене решения о признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
+<td>178</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об ограничении дееспособности гражданина</td>
+<td>179</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О признании гражданина недееспособным</td>
+<td>180</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
+<td>181</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">об отмене ограничения дееспособности гражданина</td>
+<td>182</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
+<td>183</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О направлении несовершеннолетних в специальные организации образования для детей с девиантным поведением или организации с особым режимом с содержания</td>
+<td>184</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О принудительной госпитализации гражданина в психиатрический стационар</td>
+<td>185</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О направлении гражданина, больного алкоголизмом, наркоманией или токсикоманией, на принудительное лечение в наркологическую организацию</td>
+<td>186</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О принудительном лечении гражданина, больного туберкулезом</td>
+<td>187</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О реструктуризации финансовых организаций и организаций, входящих в банковский конгломерат в качестве родительской организации и не являющихся финансовыми организациями</td>
+<td>188</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О реабилитации, в том числе. об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
+<td>189</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О банкротстве</td>
+<td>190</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">в том числе</td>
+<td colspan="2">юридического лица</td>
+<td>191</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">индивидуального предпринимателя</td>
+<td>192</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в том числе. о включении (исключении) в реестр требований кредиторов</td>
+<td>193</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
+<td>194</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об установлении неправильностей записей актов гражданского состояния</td>
+<td>195</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">По жалобам на нотариальные действия или на отказ в их совершении</td>
+<td>196</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="2">об отмене исполнительской надписи</td>
+<td>197</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
+<td>198</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">По заявлениям о признании организации, осуществляющей экстремизм или террористическую деятельность на территории Республики Казахстан и (или) другого государства, экстремистской или террористической, в том числе об установлении изменения ею своего наименования, а также о признании информационных материалов, ввозимых, издаваемых, изготавливаемых и (или) распространяемых на территории Республики Казахстан, экстремистскими или террористическими</td>
+<td>199</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
+<td>200</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">По заявлениям о выдворении иностранца или лица без гражданства за пределы Республики Казахстан за нарушение законодательства Республики Казахстан</td>
+<td>201</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О признании гражданина жертвой политических репрессий</td>
+<td>202</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">О признании наследства выморочным</td>
+<td>203</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">о восстановлении утраченного судебного или исполнительного производства</td>
+<td>204</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Прочие дела особого производства</td>
+<td>205</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
+<td>206</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="2">с участием иностранных лиц</td>
+<td>207</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
+<td>208</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Производство по ходатайству об отмене арбитражных решений</td>
+<td>209</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>в том числе</td>
+<td colspan="3">третейских судов</td>
+<td>210</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
+<td>211</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">в том числе</td>
+<td colspan="3">о дискриминации женщин по признаку пола</td>
+<td>212</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">по делам, связанным с бытовым насилием</td>
+<td>213</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4"></td>
+<td colspan="3">по инвестиционным спорам</td>
+<td>214</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">из них</td>
+<td>с участием иностранных инвесторов</td>
+<td>215</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">о возмещении морального вреда с другими основными требованиями</td>
+<td>216</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">в упрощенном (письменном) производстве</td>
+<td>217</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Материалы, представления и тому подобное</td>
+<td>218</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="17">в том числе</td>
+<td colspan="3">об отсрочке, рассрочке исполнения решения суда</td>
+<td>219</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">об изменении способа и порядка исполнения решения суда, в том числе о замене должника (взыскателя)</td>
+<td>220</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">об отсрочке, рассрочке, изменении способа мирового соглашения сторон</td>
+<td>221</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">о повороте исполнения решения суда</td>
+<td>222</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">по представлению судебного исполнителя</td>
+<td>223</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">о санкционировании постановления судебного исполнителя об ограничении выезда гражданина за пределы Республики Казахстан</td>
+<td>224</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">о санкционировании других постановлений судебного исполнителя</td>
+<td>225</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">о взыскании (отсрочке, рассрочке) исполнительской санкции</td>
+<td>226</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">санкционирование постановления судебного исполнителя о приводе должника</td>
+<td>227</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">из строк 221-225</td>
+<td>частным судебным исполнителем</td>
+<td>228</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">судебное поручение</td>
+<td>229</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">о выдаче исполнительного листа (дубликата)</td>
+<td>230</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
+<td>231</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">об индексации присужденных денежных сумм</td>
+<td>232</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">о восстановлении срока предъявления исполнительного листа</td>
+<td>233</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Об обращении взыскания на недвижимое имущество должника</td>
+<td>234</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">прочие материалы, представления</td>
+<td>235</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">ИТОГО ДЕЛ И МАТЕРИАЛОВ</td>
+<td>236</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="14">в том числе</td>
+<td colspan="3">по искам лиц с инвалидностью</td>
+<td>237</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">по искам, заявленным в интересах несовершеннолетних</td>
+<td>238</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">по искам лиц женского пола</td>
+<td>239</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">с участием иностранных лиц</td>
+<td>240</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">с участием субъектов малого и среднего предпринимательства</td>
+<td>241</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">дел на государственном языке</td>
+<td>242</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">применен Международный договор</td>
+<td>243</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="7">из них</td>
+<td colspan="2">Международный пакт о гражданских о политических правах</td>
+<td>244</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Международный пакт о ликвидации всех форм дискриминации в отношении женщин</td>
+<td>245</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Международный пакт об экономических, социальных и культурных правах</td>
+<td>246</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Международная конвенция о ликвидации всех форм расовой дискриминации</td>
+<td>247</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Международная конвенция о правах ребенка</td>
+<td>248</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Международная конвенция о правах лиц с инвалидностью</td>
+<td>249</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">в рамках реализации Орхусской конвенции</td>
+<td>250</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td rowspan="2">Всего рассмотрено ходатайств</td>
+<td colspan="5">из них (из графы 5)</td>
+<td rowspan="2">Остаток не рассмотренных ходатайств</td>
+</tr>
+<tr>
+<td>Рассмотрено ходатайств на решения судов первой инстанции</td>
+<td>Рассмотрено ходатайств на апелляционные постановления</td>
+<td>Рассмотрено ходатайств на кассационные постановления</td>
+<td>Рассмотрено ходатайств на апелляционные определения</td>
+<td>Рассмотрено ходатайств на кассационные определения</td>
+</tr>
+<tr>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+</tr>
+</table>
+
+форма
+
+Форма № 8К « Отчет по пересмотру судебных актов в кассационном порядке»
+
+Таблица Б1 «Движение представлений Председателя Верховного Суда Республики Казахстан в порядке части третьей статьи 434 Гражданского процессуального кодекса Республики Казахстан»
 
 <table>
 <tr>
@@ -38433,19 +26947,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2" rowspan="2">Код строки</td>
 <td colspan="3" rowspan="2">Остаток представлений на начало отчетного периода</td>
 <td colspan="2" rowspan="2">Количество внесенных представлений в отчетном периоде</td>
-<td colspan="5">Решения по результатам предварительного рассмотрения представления</td>
-<td rowspan="2">Всего рассмотрено представлений</td>
-<td colspan="11">из них (из графы 5)</td>
-<td rowspan="2">Остаток не рассмотренных представлений</td>
+<td colspan="3">Решения по результатам предварительного рассмотрения представления</td>
 </tr>
 <tr>
 <td colspan="2">отказано</td>
-<td colspan="3">удовлетворено</td>
-<td colspan="2">рассмотрено представлений на решения судов первой инстанции</td>
-<td colspan="4">Рассмотрено ходатайств на апелляционные постановления</td>
-<td colspan="2">Рассмотрено ходатайств на кассационные постановления</td>
-<td colspan="2">Рассмотрено ходатайств на апелляционные определения</td>
-<td>Рассмотрено ходатайств на кассационные определения</td>
+<td>удовлетворено</td>
 </tr>
 <tr>
 <td colspan="5">А</td>
@@ -38453,14 +26959,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3">1</td>
 <td colspan="2">2</td>
 <td colspan="2">3</td>
-<td colspan="3">4</td>
-<td>5</td>
-<td colspan="2">6</td>
-<td colspan="4">7</td>
-<td colspan="2">8</td>
-<td colspan="2">9</td>
-<td>10</td>
-<td>11</td>
+<td>4</td>
 </tr>
 <tr>
 <td rowspan="19">ДЕЛА ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
@@ -38469,13 +26968,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38484,13 +26976,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38499,13 +26984,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38514,13 +26992,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38529,13 +27000,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38544,13 +27008,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38559,13 +27016,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38574,13 +27024,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38589,13 +27032,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38604,13 +27040,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38619,13 +27048,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38634,13 +27056,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38649,13 +27064,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38664,13 +27072,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38679,13 +27080,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38694,13 +27088,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38709,13 +27096,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38724,13 +27104,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38739,13 +27112,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38755,13 +27121,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38771,13 +27130,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38786,13 +27138,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38801,13 +27146,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38816,13 +27154,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38831,13 +27162,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38847,13 +27171,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38863,13 +27180,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38878,13 +27188,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38893,13 +27196,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38908,13 +27204,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38923,13 +27212,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38938,13 +27220,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38953,13 +27228,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38968,13 +27236,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38983,13 +27244,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -38998,13 +27252,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39013,13 +27260,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39028,13 +27268,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39043,13 +27276,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39059,13 +27285,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39074,13 +27293,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39089,13 +27301,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39104,13 +27309,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39119,13 +27317,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39135,13 +27326,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39150,13 +27334,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39165,13 +27342,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39180,13 +27350,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39195,13 +27358,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39210,13 +27366,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39225,13 +27374,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39240,13 +27382,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39255,13 +27390,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39271,13 +27399,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39286,13 +27407,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39301,13 +27415,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39316,13 +27423,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39331,13 +27431,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39346,13 +27439,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39361,13 +27447,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39376,13 +27455,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39391,13 +27463,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39406,13 +27471,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39422,13 +27480,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39437,13 +27488,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39452,13 +27496,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39467,13 +27504,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39483,13 +27513,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39498,13 +27521,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39514,13 +27530,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39529,13 +27538,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39544,13 +27546,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39559,13 +27554,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39574,13 +27562,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39590,13 +27571,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39605,13 +27579,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39620,13 +27587,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39636,13 +27596,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39651,13 +27604,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39667,13 +27613,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39682,13 +27621,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39697,13 +27629,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39712,13 +27637,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39727,13 +27645,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39742,13 +27653,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39757,13 +27661,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39772,13 +27669,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39787,13 +27677,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39802,13 +27685,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39817,13 +27693,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39832,13 +27701,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39848,13 +27710,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39863,13 +27718,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39879,13 +27727,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39894,13 +27735,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39910,13 +27744,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39925,13 +27752,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39940,13 +27760,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39955,13 +27768,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39970,13 +27776,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -39986,13 +27785,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40001,13 +27793,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40016,13 +27801,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40031,13 +27809,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40046,13 +27817,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40062,13 +27826,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40077,13 +27834,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40093,13 +27843,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40108,13 +27851,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40123,13 +27859,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40138,13 +27867,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40153,13 +27875,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40168,13 +27883,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40184,13 +27892,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40199,13 +27900,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40214,13 +27908,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40229,13 +27916,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40245,13 +27925,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40260,13 +27933,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40275,13 +27941,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40291,13 +27950,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40306,13 +27958,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40322,13 +27967,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40337,13 +27975,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40352,13 +27983,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40368,13 +27992,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40383,13 +28000,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40398,13 +28008,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40413,13 +28016,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40428,13 +28024,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40443,13 +28032,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40459,13 +28041,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40474,13 +28049,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40490,13 +28058,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40505,13 +28066,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40520,13 +28074,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40536,13 +28083,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40551,13 +28091,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40566,13 +28099,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40581,13 +28107,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40597,13 +28116,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40612,13 +28124,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40627,13 +28132,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40643,13 +28141,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40658,13 +28149,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40673,13 +28157,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40688,13 +28165,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40703,13 +28173,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40718,13 +28181,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40733,13 +28189,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40748,13 +28197,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40763,13 +28205,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40778,13 +28213,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40793,13 +28221,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40808,13 +28229,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40824,13 +28238,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40839,13 +28246,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40854,13 +28254,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40869,13 +28262,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40885,13 +28271,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40901,13 +28280,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40917,13 +28289,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40932,13 +28297,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40948,13 +28306,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40964,13 +28315,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40980,13 +28324,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -40995,13 +28332,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41010,13 +28340,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41025,13 +28348,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41040,13 +28356,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41055,13 +28364,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41070,13 +28372,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41085,13 +28380,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41100,13 +28388,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41115,13 +28396,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41131,13 +28405,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41146,13 +28413,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41161,13 +28421,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41176,13 +28429,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41191,13 +28437,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41206,13 +28445,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41221,13 +28453,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41236,13 +28461,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41251,13 +28469,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41266,13 +28477,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41281,13 +28485,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41296,13 +28493,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41311,13 +28501,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41326,13 +28509,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41341,13 +28517,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41357,13 +28526,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41372,13 +28534,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41387,13 +28542,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41402,13 +28550,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41417,13 +28558,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41432,13 +28566,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41448,13 +28575,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41463,13 +28583,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41478,13 +28591,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41493,13 +28599,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41508,13 +28607,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41523,13 +28615,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41538,13 +28623,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41553,13 +28631,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41568,13 +28639,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41583,13 +28647,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41599,13 +28656,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41614,13 +28664,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41629,13 +28672,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41645,13 +28681,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41660,13 +28689,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41676,13 +28698,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41691,13 +28706,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41707,13 +28715,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41723,13 +28724,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41738,13 +28732,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41753,13 +28740,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41768,13 +28748,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41784,13 +28757,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41799,13 +28765,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41814,13 +28773,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41829,13 +28781,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41844,13 +28789,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41859,13 +28797,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41874,13 +28805,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41889,13 +28813,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41904,13 +28821,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41920,13 +28830,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41935,13 +28838,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41950,13 +28846,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41965,13 +28854,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41980,13 +28862,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -41995,13 +28870,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42010,13 +28878,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42025,13 +28886,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42040,29 +28894,15 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td rowspan="14">в том числе</td>
-<td colspan="4">по искам инвалидов</td>
+<td colspan="4">по искам лиц с инвалидностью</td>
 <td colspan="2">237</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42071,13 +28911,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42086,13 +28919,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42101,13 +28927,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42116,13 +28935,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42131,13 +28943,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42146,13 +28951,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42162,13 +28960,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42177,13 +28968,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42192,13 +28976,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42207,13 +28984,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42222,28 +28992,14 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="3">Международная конвенция о правах инвалидов</td>
+<td colspan="3">Международная конвенция о правах лиц с инвалидностью</td>
 <td colspan="2">249</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -42252,20 +29008,41 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 </tr>
 </table>
 
-Форма №8К " Отчет по пересмотру судебных актов в кассационном порядке"
+Продолжение таблицы
 
-Таблица В "Движение протестов на постановления кассационной инстанции"
+<table>
+<tr>
+<td rowspan="2">Всего рассмотрено представлений</td>
+<td colspan="11">из них (из графы 5)</td>
+<td rowspan="2">Остаток не рассмотренных представлений</td>
+</tr>
+<tr>
+<td colspan="2">рассмотрено представлений на решения судов первой инстанции</td>
+<td colspan="4">Рассмотрено ходатайств на апелляционные постановления</td>
+<td colspan="2">Рассмотрено ходатайств на кассационные постановления</td>
+<td colspan="2">Рассмотрено ходатайств на апелляционные определения</td>
+<td>Рассмотрено ходатайств на кассационные определения</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="2">6</td>
+<td colspan="4">7</td>
+<td colspan="2">8</td>
+<td colspan="2">9</td>
+<td>10</td>
+<td>11</td>
+</tr>
+</table>
+
+форма
+
+Форма № 8К « Отчет по пересмотру судебных актов в кассационном порядке»
+
+Таблица В «Движение протестов на постановления кассационной инстанции»
 
 <table>
 <tr>
@@ -45653,7 +32430,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td rowspan="14">в том числе</td>
-<td colspan="3">по искам инвалидов</td>
+<td colspan="3">по искам лиц с инвалидностью</td>
 <td colspan="2">237</td>
 <td colspan="2"></td>
 <td></td>
@@ -45822,7 +32599,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="2">Международная конвенция о правах инвалидов</td>
+<td colspan="2">Международная конвенция о правах лиц с инвалидностью</td>
 <td colspan="2">249</td>
 <td colspan="2"></td>
 <td></td>
@@ -45851,9 +32628,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 </table>
 
-Форма №8К " Отчет по пересмотру судебных актов в кассационном порядке"
+форма
 
-Таблица В1 "Движение протестов в порядке частями 3, 4 статьи 434 Гражданского процессуального кодекса Республики Казахстан"
+Форма № 8К « Отчет по пересмотру судебных актов в кассационном порядке»
+
+Таблица В1 «Движение протестов Генерального Прокурора Республики Казахстан в порядке частей третьей и четвертой статьи 434 Гражданского процессуального кодекса Республики Казахстан»
 
 <table>
 <tr>
@@ -49241,7 +36020,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 <tr>
 <td rowspan="14">в том числе</td>
-<td colspan="3">по искам инвалидов</td>
+<td colspan="3">по искам лиц с инвалидностью</td>
 <td>237</td>
 <td></td>
 <td></td>
@@ -49382,7 +36161,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Международная конвенция о ликвидации всех форм рассовой дискриминации</td>
+<td colspan="2">Международная конвенция о ликвидации всех форм расовой дискриминации</td>
 <td>247</td>
 <td></td>
 <td></td>
@@ -49410,7 +36189,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Международная конвенция о правах инвалидов</td>
+<td colspan="2">Международная конвенция о правах лиц с инвалидностью</td>
 <td>249</td>
 <td></td>
 <td></td>
@@ -49439,9 +36218,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 </tr>
 </table>
 
-Форма №8К " Отчет по пересмотру судебных актов в кассационном порядке"
+форма
 
-Таблица Г "Результаты рассмотрения дел"
+Форма № 8К « Отчет по пересмотру судебных актов в кассационном порядке»
+
+Таблица Г «Результаты рассмотрения дел»
 
 <table>
 <tr>
@@ -49451,16 +36232,12 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td colspan="2">из них</td>
 <td rowspan="2">Поступило дел</td>
 <td colspan="2">из них</td>
-<td colspan="3">из графы 4</td>
 </tr>
 <tr>
 <td>по ходатайству</td>
 <td>по протесту</td>
-<td>по ходатайству с представлением председателя ВС</td>
-<td>по протесту Генерального прокурора</td>
-<td>по пересмотру решения суда первой инстанции</td>
-<td>по пересмотру решения суда первой инстанции и апелляционного постановления</td>
-<td>по пересмотру апелляционного решения</td>
+<td>по ходатайству с представлением Председателя Верховного Суда Республики Казахстан (далее – ВС)</td>
+<td>по протесту Генерального Прокурора Республики Казахстан</td>
 </tr>
 <tr>
 <td colspan="4">А</td>
@@ -49471,17 +36248,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>4</td>
 <td>5</td>
 <td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
 </tr>
 <tr>
 <td rowspan="19">ДЕЛА ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
 <td colspan="3">О взыскании алиментов на содержание несовершеннолетних детей, не связанным с установлением отцовства (материнства) или необходимостью привлечения третьих лиц</td>
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49498,16 +36269,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О взыскании единовременного денежного вознаграждения, предусмотренного контрактом о прохождении воинской службы, в случае досрочного расторжения контракта по инициативе военнослужащего</td>
 <td>3</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49524,16 +36289,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О взыскании государственных грантов с лиц, прекративших обучение либо не возвратившихся в Республику Казахстан после окончания учебного заведения в иностранном государстве или нарушивших предусмотренное договором обязательство по возврату гранта</td>
 <td>5</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49550,16 +36309,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О возврате в бюджет выплаченной единовременной денежной выплаты в связи с усыновлением ребенка-сироты и (или) ребенка, оставшегося без попечения родителей, в случае отмены усыновления</td>
 <td>7</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49576,16 +36329,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об исполнении соглашений об урегулировании споров (конфликтов) в порядке медиации, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>9</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49602,16 +36349,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об исполнении соглашений по страховым спорам и спорам, вытекающим из договоров банковского займа, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>11</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49628,16 +36369,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об исполнении соглашений по спорам в сфере защиты прав на интеллектуальную собственность, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>13</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49654,16 +36389,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об исполнении соглашений по спорам в сфере брачно-семейных отношений, заключенных в порядке досудебного урегулирования в случаях, установленных законом или предусмотренных договором</td>
 <td>15</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49680,16 +36409,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об исполнении иных соглашений, заключенных в порядке досудебного урегулирования споров в случаях, установленных законом или предусмотренных договором</td>
 <td>17</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49706,16 +36429,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">ИТОГО ДЕЛ ПРИКАЗНОГО ПРОИЗВОДСТВА</td>
 <td>19</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49733,17 +36450,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="4">в том числе</td>
 <td colspan="2">о восстановлении на работе уволенных</td>
 <td>21</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49760,16 +36471,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о выплате заработной платы и иных платежей</td>
 <td>23</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49786,16 +36491,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, возникающие из брачно-семейных отношений</td>
 <td>25</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49813,17 +36512,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>из них</td>
 <td>с установлением отцовства (материнства)</td>
 <td>27</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49840,16 +36533,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о взыскании алиментов на время обучения</td>
 <td>29</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49866,16 +36553,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о взыскании алиментов на содержание родителей</td>
 <td>31</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49892,16 +36573,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о лишении родительских прав</td>
 <td>33</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49918,16 +36593,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">об ограничении родительских прав</td>
 <td>35</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49944,16 +36613,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">об определении порядка общения с детьми</td>
 <td>37</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49970,16 +36633,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о расторжении брака</td>
 <td>39</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -49997,16 +36654,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о разделе имущества между супругами</td>
 <td>41</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50023,9 +36674,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры по вопросам наследственного права</td>
@@ -50036,16 +36684,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры о праве собственности на имущество</td>
 <td>44</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50063,16 +36705,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о выделении доли из имущества</td>
 <td>46</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50089,16 +36725,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">Об истребовании из чужого незаконного владения</td>
 <td>48</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50115,16 +36745,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">Об оспаривании результатов оценки имущества</td>
 <td>50</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50141,9 +36765,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">Споры о праве собственности на жилище</td>
@@ -50154,16 +36775,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, возникающие из жилищных правоотношений</td>
 <td>53</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50181,16 +36796,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о выселении граждан из жилища с предоставлением другого жилого помещения</td>
 <td>55</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50207,16 +36816,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о выделении доли из жилища</td>
 <td>57</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50233,16 +36836,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">об обжаловании действий (бездействия) кооператива собственников квартир потребительского кооператива</td>
 <td>59</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50259,16 +36856,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о взыскании расходов на управление объектом кондоминиума и содержание общего имущества кондоминиума</td>
 <td>61</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50285,16 +36876,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, вытекающие из земельных правоотношений</td>
 <td>63</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50312,16 +36897,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">об установлении (прекращении) сервитута</td>
 <td>65</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50338,16 +36917,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с заключением, изменением, расторжением договора (сделки) и исполнением договорных обязательств</td>
 <td>67</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50365,16 +36938,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">споры между юридическими лицами, гражданами, осуществляющими предпринимательскую деятельность</td>
 <td>69</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50392,16 +36959,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>с участием государственных учреждений</td>
 <td>71</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50418,9 +36979,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">с экономической, технологической, информационной безопасностью</td>
@@ -50431,16 +36989,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по банковскому договору, в том числе потребительские кредиты, договор факторинга, микрофинансовые организации</td>
 <td>74</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50458,9 +37010,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>с обращением взыскания на имущество</td>
@@ -50471,16 +37020,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору займа, в том числе образовательные услуги (гранты), ломбарды</td>
 <td>77</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50498,16 +37041,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">с недропользованием</td>
 <td>79</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50525,16 +37062,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору купли-продажи</td>
 <td>81</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50551,16 +37082,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору подряда</td>
 <td>83</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50577,16 +37102,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору лизинга</td>
 <td>85</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50603,16 +37122,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору поручения</td>
 <td>87</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50629,16 +37142,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору дарения</td>
 <td>89</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50655,16 +37162,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору страхования</td>
 <td>91</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50682,16 +37183,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по договору перевозки</td>
 <td>93</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50709,16 +37204,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с нарушением законодательства в сфере государственных закупок</td>
 <td>95</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50736,16 +37225,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">по спорам, относящимся к заключению договора</td>
 <td>97</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50762,9 +37245,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Конкурсные обязательства и обязательства, возникающие на основе тендера, аукциона и иных форм торгов (в том числе о признании их действительными, недействительными)</td>
@@ -50775,16 +37255,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с лицензионной деятельностью</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50802,16 +37276,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">с приостановлением лицензии</td>
 <td>102</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50828,9 +37296,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О лжепредпринимательстве</td>
@@ -50841,16 +37306,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с ценными бумагами</td>
 <td>105</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50868,16 +37327,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с нарушением налогового законодательства</td>
 <td>107</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50895,16 +37348,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">иски налоговых органов о взыскании налогов и сборов с юридических лиц</td>
 <td>109</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50921,16 +37368,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">иски юридических лиц к налоговым органам</td>
 <td>111</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50947,16 +37388,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры в сфере таможенного законодательства</td>
 <td>113</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50974,16 +37409,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с нарушением бюджетного законодательства</td>
 <td>115</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51000,16 +37429,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О взыскании пособий, компенсаций</td>
 <td>117</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51027,9 +37450,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Иски о лишении (приостановлении) права управлять автотранспортным средством</td>
@@ -51040,16 +37460,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О возмещении вреда</td>
 <td>120</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51067,16 +37481,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о возмещении вреда за повреждение здоровья или смерть гражданина</td>
 <td>122</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51094,9 +37502,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>из них в связи с нарушением правил дорожного движения и авариями на транспорте</td>
@@ -51107,16 +37512,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">споры о возмещении вреда, причиненного незаконными действиями органов дознания, предварительного следствия, прокуратуры, суда</td>
 <td>125</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51134,16 +37533,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>по делам реабилитации</td>
 <td>127</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51160,16 +37553,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>по делам о нарушении гражданских прав</td>
 <td>129</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51186,16 +37573,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры о возмещении ущерба</td>
 <td>131</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51213,16 +37594,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О защите прав потребителя</td>
 <td>133</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51240,9 +37615,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">иски, связанные с качеством медицинских услуг</td>
@@ -51253,16 +37625,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Иски о защите чести, достоинства и деловой репутации</td>
 <td>136</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51280,16 +37646,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">к гражданам и юридическим лицам</td>
 <td>138</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51306,16 +37666,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с интеллектуальной собственностью</td>
 <td>140</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51333,9 +37687,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о товарных знаках</td>
@@ -51346,16 +37697,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Иски, связанные с охраной окружающей среды</td>
 <td>143</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51373,16 +37718,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">о возмещении вреда жизни и здоровью, причиненного в результате несоблюдения экологического законодательства</td>
 <td>145</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51399,16 +37738,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">иски общественных экологических организаций</td>
 <td>147</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51425,16 +37758,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Иски о признании забастовок незаконными</td>
 <td>149</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51451,16 +37778,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Споры, связанные с действием доверенности (прекращение, признание недействительной)</td>
 <td>151</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51477,16 +37798,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О расторжении медиативного соглашения</td>
 <td>153</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51503,16 +37818,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Корпоративные споры</td>
 <td>155</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51530,16 +37839,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">об оспаривании протокола общего собрания</td>
 <td>157</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51556,16 +37859,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">ИТОГО ДЕЛ ИСКОВОГО ПРОИЗВОДСТВА</td>
 <td>159</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51583,17 +37880,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="4">Дела особого искового производства</td>
 <td colspan="3">Производство по делам об оспаривании законности нормативных правовых актов</td>
 <td>161</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51611,16 +37902,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">ИТОГО ДЕЛ ОСОБОГО ИСКОВОГО ПРОИЗВОДСТВА</td>
 <td>163</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51638,17 +37923,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="43">Дела особого производства</td>
 <td colspan="3">Об установлении фактов, имеющих юридическое значение</td>
 <td>165</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51666,16 +37945,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">нахождения лица на иждивении</td>
 <td>167</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51692,16 +37965,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">признания отцовства</td>
 <td>169</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51718,16 +37985,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">наличия документов, подтверждающих владение, пользование и (или) распоряжение объектами недвижимого имущества</td>
 <td>171</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51744,16 +38005,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">смерти лица в определенное время при определенных обстоятельствах в случае отказа органов записи актов гражданского состояния в регистрации смерти</td>
 <td>173</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51770,16 +38025,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">По заявлениям об усыновлении (удочерении) ребенка</td>
 <td>175</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51797,16 +38046,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О признании гражданина безвестно отсутствующими и об объявлении гражданина умершими</td>
 <td>177</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51823,16 +38066,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об ограничении дееспособности гражданина</td>
 <td>179</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51849,16 +38086,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об ограничении или о лишении несовершеннолетних в возрасте от 14 до 18 лет права самостоятельно распоряжаться своими доходами</td>
 <td>181</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51875,16 +38106,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">Об объявлении несовершеннолетних полностью дееспособных (эмансипация)</td>
 <td>183</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51901,16 +38126,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О принудительной госпитализации гражданина в психиатрический стационар</td>
 <td>185</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51927,16 +38146,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О принудительном лечении гражданина, больного туберкулезом</td>
 <td>187</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51953,9 +38166,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О реабилитации, в том числе. об ускоренной реабилитации, о включении (исключении) в реестр требований кредиторов</td>
@@ -51966,16 +38176,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О банкротстве</td>
 <td>190</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -51993,16 +38197,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">индивидуального предпринимателя</td>
 <td>121</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52019,16 +38217,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О признании движимой вещи бесхозяйной и признании права коммунальной собственности на недвижимое имущество</td>
 <td>194</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52045,16 +38237,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">По жалобам на нотариальные действия или на отказ в их совершении</td>
 <td>196</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52072,16 +38258,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О восстановлении прав по утраченным ценным бумагам на предъявителя и ордерным ценным бумагам (вызывное производство)</td>
 <td>198</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52098,16 +38278,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">По заявлениям о признании интернет-казино, продукции иностранного средства массовой информации, распространяемой на территории Республики Казахстан, содержащей информацию, противоречащую законам Республики Казахстан, незаконными</td>
 <td>200</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52124,16 +38298,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">О признании гражданина жертвой политических репрессий</td>
 <td>202</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52150,16 +38318,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">о восстановлении утраченного судебного или исполнительного производства</td>
 <td>204</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52176,16 +38338,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">ИТОГО ДЕЛ ОСОБОГО ПРОИЗВОДСТВА</td>
 <td>206</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52203,9 +38359,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="4">Производство по рассмотрению заявлений о возвращении ребенка или об осуществлении в отношении ребенка прав доступа на основании международного договора Республики Казахстан</td>
@@ -52216,16 +38369,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="4">Производство по ходатайству об отмене арбитражных решений</td>
 <td>209</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52243,16 +38390,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="4">ВСЕГО ГРАЖДАНСКИХ ДЕЛ (сумма строк 18, 158, 162, 205, 207, 208)</td>
 <td>211</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52270,16 +38411,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">по делам, связанным с бытовым насилием</td>
 <td>213</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52297,17 +38432,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">из них</td>
 <td>с участием иностранных инвесторов</td>
 <td>215</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52324,9 +38453,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">в упрощенном (письменном) производстве</td>
@@ -52337,16 +38463,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="4">Материалы, представления и тому подобное</td>
 <td>218</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52364,16 +38484,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">об изменении способа и порядка исполнения решения суда, в том числе. о замене должника (взыскателя)</td>
 <td>220</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52390,16 +38504,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">о повороте исполнения решения суда</td>
 <td>222</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52416,16 +38524,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">о санкционировании постановления судебного исполнителя об ограничении выезда гражданина за пределы Республики Казахстан</td>
 <td>224</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52442,9 +38544,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">о взыскании (отсрочке, рассрочке) исполнительской санкции</td>
@@ -52455,16 +38554,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">санкционирование постановления судебного исполнителя о приводе должника</td>
 <td>227</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52482,16 +38575,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">судебное поручение</td>
 <td>229</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52508,16 +38595,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">о выдаче исполнительного листа (дубликата) по решениям арбитража (третейского суда)</td>
 <td>231</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52534,16 +38615,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">о восстановлении срока предъявления исполнительного листа</td>
 <td>233</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52560,16 +38635,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">прочие материалы, представления</td>
 <td>235</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52586,17 +38655,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="14">в том числе</td>
-<td colspan="3">по искам инвалидов</td>
+<td colspan="3">по искам лиц с инвалидностью</td>
 <td>237</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52613,16 +38676,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">по искам лиц женского пола</td>
 <td>239</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52639,16 +38696,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">с участием субъектов малого и среднего предпринимательства</td>
 <td>241</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52665,16 +38716,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">применен Международный договор</td>
 <td>243</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52692,16 +38737,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">Международный пакт о ликвидации всех форм дискриминации в отношении женщин</td>
 <td>245</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52718,16 +38757,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="2">Международная конвенция о ликвидации всех форм рассовой дискриминации</td>
+<td colspan="2">Международная конвенция о ликвидации всех форм расовой дискриминации</td>
 <td>247</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52744,16 +38777,10 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="2">Международная конвенция о правах инвалидов</td>
+<td colspan="2">Международная конвенция о правах лиц с инвалидностью</td>
 <td>249</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52770,9 +38797,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -52780,17 +38804,23 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
-<td colspan="6">из графы 4</td>
+<td colspan="9">из графы 4</td>
 </tr>
 <tr>
+<td>по пересмотру решения суда первой инстанции</td>
+<td>по пересмотру решения суда первой инстанции и апелляционного постановления</td>
+<td>по пересмотру апелляционного решения</td>
 <td>по пересмотру апелляционного постановления</td>
-<td>по пересмотру решения суда первой инстанции и кассационного постановления Областного суда</td>
+<td>по пересмотру решения суда первой инстанции и кассационного постановления областного суда</td>
 <td>по пересмотру решения суда первой инстанции, апелляционного и кассационного постановлений областного суда</td>
 <td>по пересмотру апелляционного и кассационного постановления областного суда</td>
 <td>по пересмотру кассационного постановления областного суда</td>
-<td>по пересмотру постановлений судебной коллегии ВС в порядке ч.5 ст.434</td>
+<td>по пересмотру постановлений судебной коллегии ВС в порядке части 5 статьи 434 ГПК РК</td>
 </tr>
 <tr>
+<td>7</td>
+<td>8</td>
+<td>9</td>
 <td>10</td>
 <td>11</td>
 <td>12</td>
@@ -52798,2030 +38828,18 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>14</td>
 <td>15</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
-Продолжение таблицы
+продолжение таблицы
 
 <table>
 <tr>
 <td rowspan="2">Возвращено дел без рассмотрения</td>
-<td colspan="2">из них (из гр.17)</td>
+<td colspan="2">из них (из графы 17)</td>
 <td rowspan="2">Всего рассмотрено дел по представлениям и протестам</td>
-<td colspan="2">из них (из гр.20)</td>
+<td colspan="2">из них (из графы 20)</td>
 <td rowspan="2">Всего дел, по которым удовлетворены представления, протесты</td>
-<td colspan="2">из них (из гр.23)</td>
-<td rowspan="2">Всего дел, по которым отказано в пересмотре в связи с отсутствием оснований</td>
-<td colspan="2">из них (из гр.26)</td>
-<td rowspan="2">Оставлено без изменения решений суда первой инстанции</td>
-<td rowspan="2">Оставлено без изменения решений апелляционной инстанции</td>
+<td colspan="2">из них (из графы 23)</td>
 </tr>
 <tr>
 <td>по представлению</td>
@@ -54830,8 +38848,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>по протесту</td>
 <td>представления</td>
 <td>протесты</td>
-<td>по представлению</td>
-<td>по протесту</td>
 </tr>
 <tr>
 <td>16</td>
@@ -54843,203 +38859,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>22</td>
 <td>23</td>
 <td>24</td>
-<td>25</td>
-<td>26</td>
-<td>27</td>
-<td>28</td>
-<td>29</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -55047,9 +38866,34 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
-<td rowspan="3">Оставлено без изменения постановлений суда апелляционной инстанции</td>
-<td rowspan="3">Оставлено без изменения постановлений суда кассационной инстанции областного суда</td>
-<td rowspan="3">оставлено без изменения постановление судебной коллегии ВС в порядке ч.5 ст.434</td>
+<td rowspan="2">Всего дел, по которым отказано в пересмотре в связи с отсутствием оснований</td>
+<td colspan="2">из них (из графы 26)</td>
+<td rowspan="2">Оставлено без изменения решений суда первой инстанции</td>
+<td rowspan="2">Оставлено без изменения решений апелляционной инстанции</td>
+<td rowspan="2">Оставлено без изменения постановлений суда апелляционной инстанции</td>
+<td rowspan="2">Оставлено без изменения постановлений суда кассационной инстанции областного суда</td>
+<td rowspan="2">оставлено без изменения постановление судебной коллегии ВС в порядке части 5 статьи 434 ГПК РК</td>
+</tr>
+<tr>
+<td>по представлению</td>
+<td>по протесту</td>
+</tr>
+<tr>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
+<td>32</td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
 <td rowspan="3">Всего отменено</td>
 <td colspan="8">Решения отменены</td>
 </tr>
@@ -55068,9 +38912,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>с заключением соглашения об урегулировании спора в порядке партисипативной процедуры</td>
 </tr>
 <tr>
-<td>30</td>
-<td>31</td>
-<td>32</td>
 <td>33</td>
 <td>34</td>
 <td>35</td>
@@ -55081,173 +38922,34 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>40</td>
 <td>41</td>
 </tr>
+</table>
+
+продолжение таблицы
+
+<table>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2">с оставлением иска без рассмотрения</td>
+<td rowspan="2">в том числе на основании подпунктов 4), 5) статьи 279 ГПК РК</td>
+<td rowspan="2">с оставлением в силе одного из вынесенных решений</td>
+<td rowspan="2">с вынесением нового решения</td>
+<td colspan="3">из графы 34</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>всего отменено решений суда первой инстанции за исключением граф 37, 43</td>
+<td>всего отменено решений суда апелляционной инстанции за исключением граф 37, 43</td>
+<td>всего отменено постановлений суда апелляционной инстанции за исключением граф 37, 43</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>42</td>
+<td>43</td>
+<td>44</td>
+<td>45</td>
+<td>46</td>
+<td>47</td>
+<td>48</td>
 </tr>
 </table>
 
@@ -55255,54 +38957,13 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 <table>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="14"></td>
+<td colspan="7"></td>
 <td rowspan="4">Всего изменено</td>
 </tr>
 <tr>
-<td rowspan="3">с оставлением иска без рассмотрения</td>
-<td rowspan="3">в том числе на основании п.п.4), 5) ст.279 ГПК</td>
-<td rowspan="3">с оставлением в силе одного из вынесенных решений</td>
-<td rowspan="3">с вынесением нового решения</td>
-<td colspan="10">из графы 34</td>
+<td colspan="7">из графы 34</td>
 </tr>
 <tr>
-<td rowspan="2">всего отменено решений суда первой инстанции за искл. граф 37, 43</td>
-<td rowspan="2">всего отменено решений суда апелляционной инстанции за искл. граф 37, 43</td>
-<td rowspan="2">всего отменено постановлений суда апелляционной инстанции за искл. граф 37, 43</td>
 <td colspan="2">в том числе</td>
 <td rowspan="2">всего отменено постановлений суда кассационной инстанции</td>
 <td colspan="4">в том числе</td>
@@ -55316,13 +38977,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>с восстановлением постановления суда апелляционной инстанции ранее измененного кассационной инстанцией</td>
 </tr>
 <tr>
-<td>42</td>
-<td>43</td>
-<td>44</td>
-<td>45</td>
-<td>46</td>
-<td>47</td>
-<td>48</td>
 <td>49</td>
 <td>50</td>
 <td>51</td>
@@ -55332,281 +38986,11 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>55</td>
 <td>56</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
-Продолжение таблицы
+продолжение таблицы
 
 <table>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr>
 <td colspan="7">из них</td>
 <td rowspan="3">постановлений судебной коллегии ВС</td>
@@ -55646,214 +39030,6 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 <td>68</td>
 <td>69</td>
 <td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -56626,13 +39802,17 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 > *Республики Казахстан*  
 > *от 2 ноября 2017 года № 124*
 
-# Инструкция о вводе электронных информационных учетных документов в информационную систему судебных органов Республики Казахстан и формировании отчетов в гражданско-правовой сфере
+## Инструкция о вводе электронных информационных учетных документов в информационную систему судебных органов Республики Казахстан и формировании судебных отчетов в гражданско-правовой сфере
 
-## Глава 1. Общие положения
+> *Сноска. Заголовок Инструкции в редакции приказа Генерального Прокурора РК от 16.09.2022 № 185 (вводится в действие после дня его первого официального опубликования).*
 
-1. Настоящая Инструкция о вводе электронных информационных учетных документов (далее – ЭИУД) в информационную систему судебных органов Республики Казахстан (далее – ИС СО РК) и формировании отчетов в гражданско-правовой сфере определяет основные положения ввода ЭИУД и формирования на их основе отчетов по рассмотрению гражданских дел судами первой, апелляционной и кассационной инстанций.
+### Глава 1. Общие положения
 
-## Глава 2. Введение ЭИУД в ИС СО РК
+1. Настоящая Инструкция о вводе электронных информационных учетных документов (далее – ЭИУД) в информационную систему судебных органов Республики Казахстан (далее – ИС СО РК) и формировании судебных отчетов в гражданско-правовой сфере определяет основные положения ввода ЭИУД и формирования на их основе отчетов по рассмотрению гражданских дел судами первой, апелляционной и кассационной инстанций.
+
+> *Сноска. Пункт 1 в редакции приказа Генерального Прокурора РК от 16.09.2022 № 185 (вводится в действие после дня его первого официального опубликования).*
+
+### Глава 2. Введение ЭИУД в ИС СО РК
 
 2. Разработка и введение единых форм ЭИУД осуществляется Комитетом по правовой статистике и специальным учетам Генеральной прокуратуры Республики Казахстан (далее – Комитет) по согласованию с Департаментом по обеспечению деятельности судов при Верховном Суде Республики Казахстан (аппарат Верховного Суда Республики Казахстан) (далее - Департамент ВС РК).
 
@@ -56652,13 +39832,15 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 6. В ЭИУД подлежат электронному заполнению все необходимые реквизиты по гражданскому делу (исковые заявления, заявления, жалобы, ходатайства), рассмотренному судом.
 
-## Глава 3. Внесение корректировок ЭИУД в ИС СО РК
+### Глава 3. Внесение корректировок ЭИУД в ИС СО РК
 
 7. Корректировка реквизитов ЭИУД, внесенных в ИС СО РК, производится территориальными или структурными подразделениями Департамента ВС РК по своей инициативе, по письму Комитета и его территориальных органов.
 
-8. Сведения о произведенной корректировке (с указанием номера заявления (гражданского дела, материала), наименования изменяемого реквизита, прежнего и нового показателя), на основании которых производится проверка в автоматизированной информационной системе Единой унифицированной статистической системы Комитета (далее – АИС ЕУСС Комитета) направляется судебным органом в Комитет или его в соответствующее территориальное управление письменно, со дня произведенной корректировки.
+8. После произведенной корректировки сведения (с указанием номера заявления (гражданского дела, материала), наименования изменяемого реквизита, прежнего и нового показателя), на основании которых производится проверка в автоматизированной информационной системе Комитета (далее – АИС Комитета), незамедлительно направляются судебным органом в Комитет или его территориальный орган письменно, с указанием дня и времени произведенной корректировки.
 
-## Глава 4. Особенности ввода ЭИУД 1 на гражданское дело (заявление), рассмотренное судом первой инстанции
+> *Сноска. Пункт 8 в редакции приказа Генерального Прокурора РК от 16.09.2022 № 185 (вводится в действие после дня его первого официального опубликования).*
+
+### Глава 4. Особенности ввода ЭИУД 1 на гражданское дело (заявление), рассмотренное судом первой инстанции
 
 9. Реквизиты ЭИУД 1 заполняются в ИС СО РК в соответствии с материалами гражданского дела (заявления).
 
@@ -56694,13 +39876,13 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
     После вынесения судьей определения о принятии дела в производство суда, сотрудником канцелярии производится сверка категории дела, указанной в верхнем правом углу определения судьи и в ИС СО РК, в случае расхождения, по согласованию с судьей, производится изменение.
 
-    Если в материалах дела (заявления) отражены сведения об участии иностранных лиц, субъектов малого и среднего предпринимательства, сведения о поступивших исковых заявлениях от инвалидов, женщин, в интересах несовершеннолетних, то в реквизите 11 «Дополнение к категории дела (для статотчетов)» отражаются соответствующие кодовые значения.
+    Если в материалах дела (заявления) отражены сведения об участии иностранных лиц, субъектов малого и среднего предпринимательства, сведения о поступивших исковых заявлениях от лиц с инвалидностью, женщин, в интересах несовершеннолетних, то в реквизите 11 отражаются соответствующие кодовые значения.
 
     В строке «По искам лиц женского пола» отражаются исковые заявления от физического лица – женщин, индивидуальных предпринимателей – женщин.
 
     При наличии ссылок в судебных актах на международные договоры, заполняется реквизит «Рассмотрено с применением универсальных конвенций по правам человека» раздела 12 «Сведения о динамике производства (Решение суда)» с выбором вида международного договора.
 
-> *Сноска. Пункт 12 в редакции приказа Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021).*
+> *Сноска. Пункт 12 в редакции приказов Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021); от 16.09.2022 № 185 (вводится в действие после дня его первого официального опубликования).*
 
 13. В реквизите 9 «Сущность заявленного требования (иска)» – согласно материалу дела (заявления) кратко излагается сущность заявленного требования.
 
@@ -56804,7 +39986,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 32. Остальные реквизиты ЭИУД 1 заполняются в соответствии с материалами гражданского дела (заявления).
 
-## Глава 5. Особенности ввода ЭИУД 2 на гражданское дело, рассмотренное судом апелляционной инстанции
+### Глава 5. Особенности ввода ЭИУД 2 на гражданское дело, рассмотренное судом апелляционной инстанции
 
 33. Реквизиты ЭИУД 2 заполняются в ИС СО РК в соответствии с материалами гражданского дела.
 
@@ -56842,7 +40024,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
     В соответствии со статьей 430 ГПК РК суд апелляционной инстанции в случае, установленном статьей 270 ГПК РК, а также в случае установления нарушений законности со стороны суда при рассмотрении дела может вынести частное определение. В этом случае в реквизитах раздела 7 отражаются дата вынесения, сущность, дата направления частного определения и адресат, также указывается дата поступления ответа на частное определение.
 
-## Глава 6. Особенности ввода ЭИУД 3 на гражданское дело, рассмотренное судом кассационной инстанции
+### Глава 6. Особенности ввода ЭИУД 3 на гражданское дело, рассмотренное судом кассационной инстанции
 
 41. ЭИУД 3 составляется на гражданское дело, поступившее в ВС РК в кассационной инстанции по ходатайствам лиц, участвующих в деле и протестам Генерального Прокурора Республики Казахстан (часть 1 статьи 434 ГПК РК), а также рассмотренное кассационной инстанции по пересмотру в кассационном порядке вступивших в законную силу судебных актов местных и других судов в случае несоблюдения апелляционного порядка их обжалования по представлению Председателя Верховного Суда Республики Казахстан и протесту Генерального Прокурора Республики Казахстан (части 3, 4 статьи 434 ГПК РК).
 
@@ -56872,7 +40054,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 53. В реквизите 3 «Решение вынесено с нарушением срока» обязательно указывается символьное значение «Да» либо «Нет».
 
-## Глава 7. Формирование отчетов форм № 2, № 7, № 7-К, № 8-К
+### Глава 7. Формирование отчетов форм № 2, № 7, № 7-К, № 8-К
 
 54. Отчеты форм № 2, № 7, № 7-К, № 8-К формируются на основании данных ЭИУД 1, ЭИУД 2, ЭИУД 3 в соответствии с алгоритмом расчета показателей ИС СО РК.
 
@@ -56894,7 +40076,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
     Примечание: Если окончание срока приходится на нерабочий день, то последним днем срока считается следующий за ним, рабочий день.
 
-## Глава 8. Отчет формы № 2 «Отчет по рассмотрению гражданских дел судами первой инстанции»
+### Глава 8. Отчет формы № 2 «Отчет по рассмотрению гражданских дел судами первой инстанции»
 
 59. Отчет формы № 2 «Отчет по рассмотрению гражданских дел судами первой инстанции» отражает деятельность судов первой инстанции по рассмотрению гражданских дел и формируется на основании данных ЭИУД 1.
 
@@ -56926,7 +40108,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 *66. Исключен приказом Генерального Прокурора РК от 19.11.2019 № 148 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-## Глава 9. Отчет формы № 7 «Отчет по рассмотрению гражданских дел в апелляционной инстанции»
+### Глава 9. Отчет формы № 7 «Отчет по рассмотрению гражданских дел в апелляционной инстанции»
 
 67. Отчет формы № 7 «Отчет по рассмотрению гражданских дел в апелляционной инстанции» отражает сведения о работе судов апелляционной инстанции по рассмотрению гражданских дел и формируется на основании данных ЭИУД 2.
 
@@ -56950,7 +40132,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 74. В приложении отражаются сведения о рассмотрении заявлений по пересмотру судебных актов по вновь открывшимся обстоятельствам.
 
-## Глава 10. Отчет формы № 7-К «Отчет по рассмотрению гражданских дел в кассационной инстанции»
+### Глава 10. Отчет формы № 7-К «Отчет по рассмотрению гражданских дел в кассационной инстанции»
 
 75. Отчет состоит из пяти таблиц. В таблице А отражается движение ходатайств, таблица Б – содержит сведения о результатах пересмотра судебных актов в кассационной инстанции, таблица В – содержит сведения о движении дел с протестами, таблица Г – содержит сведения о движении дел с постановлениями о пересмотре обжалуемых судебных актов в кассационном порядке, таблица Д – содержит сведения о рассмотрении заявлений по пересмотру судебных актов по вновь открывшимся обстоятельствам.
 
@@ -56958,7 +40140,7 @@ source: https://zan.gov.kz/client/#!/doc/116289/rus/12.07.2022
 
 *76. Исключен приказом Генерального Прокурора РК от 27.05.2021 № 72 (вводится в действие с 01.07.2021).*
 
-## Глава 11. Отчет формы № 8-К «Отчет по пересмотру судебных актов в кассационном порядке»
+### Глава 11. Отчет формы № 8-К «Отчет по пересмотру судебных актов в кассационном порядке»
 
 77. Отчет формы № 8-К «Отчет по пересмотру судебных актов в кассационном порядке» отражает работу коллегии по гражданским делам Верховного Суда РК по пересмотру в кассационном порядке вступивших в законную силу судебных актов местных и других судов в случае несоблюдения апелляционного порядка их обжалования по представлению Председателя Верховного Суда Республики Казахстан и протесту Генерального Прокурора Республики Казахстан (части 3,4 статьи 434 ГПК РК) и формируется на основании ЭИУД 3.
 
