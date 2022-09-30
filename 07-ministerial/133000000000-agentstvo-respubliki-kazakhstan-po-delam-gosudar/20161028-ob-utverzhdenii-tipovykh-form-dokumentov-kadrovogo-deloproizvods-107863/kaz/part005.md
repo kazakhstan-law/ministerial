@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/107863/kaz/10.12.2021
+source: https://zan.gov.kz/client/#!/doc/107863/kaz/30.09.2022
 ---
 
 ## Тәртіптік жаза қолдану туралы бұйрық
