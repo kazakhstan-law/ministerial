@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/88246/kaz/29.09.2022
+source: https://zan.gov.kz/client/#!/doc/88246/kaz/12.10.2022
 ---
 
 > *Қазақстан Республикасының Ұлттық ұланында әскери қызмет өткеру нұсқаулығына*  
