@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/104872/rus/14.09.2022
+source: https://zan.gov.kz/client/#!/doc/104872/rus/28.10.2022
 ---
 
 # О некоторых вопросах содействия занятости населения
