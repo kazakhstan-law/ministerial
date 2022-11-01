@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/55508/kaz/25.08.2021
+source: https://zan.gov.kz/client/#!/doc/55508/kaz/01.11.2022
 ---
 
 # Скринингті ұйымдастыру қағидаларын бекіту туралы
