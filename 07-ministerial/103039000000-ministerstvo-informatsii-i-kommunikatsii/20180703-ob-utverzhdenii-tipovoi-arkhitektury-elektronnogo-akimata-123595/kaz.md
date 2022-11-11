@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/123595/kaz/29.09.2022
+repealed_on: 2023-01-01
+repealed_by:
+  code: '173664'
+  title: Кейбір бұйрықтардың күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/173664/kaz
 ---
 
 # «Электрондық әкімдіктің» үлгілік архитектурасын бекіту туралы

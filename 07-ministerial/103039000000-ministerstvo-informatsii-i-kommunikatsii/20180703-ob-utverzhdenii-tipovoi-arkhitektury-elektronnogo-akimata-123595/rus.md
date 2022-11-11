@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/123595/rus/29.09.2022
+repealed_on: 2023-01-01
+repealed_by:
+  code: '173664'
+  title: О признании утратившими силу некоторых приказов
+  link: https://zan.gov.kz/client/#!/doc/173664/rus
 ---
 
 # Об утверждении Типовой архитектуры «электронного акимата»
