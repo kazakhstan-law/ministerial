@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85928/rus/27.10.2022
+source: https://zan.gov.kz/client/#!/doc/85928/rus/21.11.2022
 ---
 
 # Об утверждении Правил исполнения бюджета и его кассового обслуживания
