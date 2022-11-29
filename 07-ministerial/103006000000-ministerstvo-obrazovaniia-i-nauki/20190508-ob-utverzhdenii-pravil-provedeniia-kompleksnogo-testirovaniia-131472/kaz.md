@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/131472/kaz/07.06.2022
+source: https://zan.gov.kz/client/#!/doc/131472/kaz/29.11.2022
 ---
 
 # Кешенді тестілеуді өткізу қағидаларын бекіту туралы
