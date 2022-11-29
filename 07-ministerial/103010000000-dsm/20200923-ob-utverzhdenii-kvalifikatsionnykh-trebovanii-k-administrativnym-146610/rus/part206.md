@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/146610/rus/27.09.2022
+source: https://zan.gov.kz/client/#!/doc/146610/rus/29.11.2022
 ---
 
 ## Директор юридического департамента, категория С-1, 22-1

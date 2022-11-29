@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/146610/rus/27.09.2022
+source: https://zan.gov.kz/client/#!/doc/146610/rus/29.11.2022
 ---
 
 ## Заместитель департамента стратегии и развития, категория С-2, 13-2
