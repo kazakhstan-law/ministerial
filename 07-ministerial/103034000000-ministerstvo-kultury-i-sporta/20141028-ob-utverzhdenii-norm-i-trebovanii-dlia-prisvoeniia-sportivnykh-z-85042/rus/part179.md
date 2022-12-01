@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85042/rus/12.05.2021
+source: https://zan.gov.kz/client/#!/doc/85042/rus/01.12.2022
 ---
 
 ## Мужчины
