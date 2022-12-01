@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/47466/kaz/31.03.2022
+source: https://zan.gov.kz/client/#!/doc/47466/kaz/01.12.2022
 ---
 
 # Педагог лауазымдарының үлгілік біліктілік сипаттамаларын бекіту туралы
