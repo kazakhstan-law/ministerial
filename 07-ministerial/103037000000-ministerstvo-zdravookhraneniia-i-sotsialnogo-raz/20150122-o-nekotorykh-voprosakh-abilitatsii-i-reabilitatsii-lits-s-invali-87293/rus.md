@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87293/rus/03.10.2022
+source: https://zan.gov.kz/client/#!/doc/87293/rus/01.12.2022
 ---
 
 # О некоторых вопросах абилитации и реабилитации лиц с инвалидностью
