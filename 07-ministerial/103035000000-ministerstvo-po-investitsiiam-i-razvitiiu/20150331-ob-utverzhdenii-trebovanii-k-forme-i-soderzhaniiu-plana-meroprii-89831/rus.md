@@ -1,12 +1,18 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/89831/rus/30.11.2015
+source: https://zan.gov.kz/client/#!/doc/89831/rus/15.12.2022
 ---
 
-# Об утверждении требований к форме и содержанию плана мероприятий по энергосбережению и повышению энергоэффективности, разрабатываемого субъектом Государственного энергетического реестра по итогам энергоаудита
+# Об утверждении требований к форме и содержанию плана мероприятий по энергосбережению и повышению энергоэффективности
 
-В соответствии с подпунктом 6-12) статьи 5 Закона Республики Казахстан от 13 января 2012 года «Об энергосбережении и повышении энергоэффективности» ПРИКАЗЫВАЮ:
+> *Сноска. Заголовок в редакции приказа Министра индустрии и инфраструктурного развития РК от 15.12.2022 № 718 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-1. Утвердить прилагаемые требования к форме и содержанию плана мероприятий по энергосбережению и повышению энергоэффективности, разрабатываемого субъектом Государственного энергетического реестра по итогам энергоаудита.
+В соответствии с подпунктом 6-12) статьи 5 Закона Республики Казахстан «Об энергосбережении и повышении энергоэффективности» ПРИКАЗЫВАЮ:
+
+> *Сноска. Преамбула в редакции приказа Министра индустрии и инфраструктурного развития РК от 15.12.2022 № 718 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+1. Утвердить прилагаемые требования к форме и содержанию плана мероприятий по энергосбережению и повышению энергоэффективности.
+
+> *Сноска. Пункт 1 в редакции приказа Министра индустрии и инфраструктурного развития РК от 15.12.2022 № 718 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 2. Комитету индустриального развития и промышленной безопасности Министерства по инвестициям и развитию Республики Казахстан (Ержанов А.К.) обеспечить:
 
@@ -32,35 +38,43 @@ source: https://zan.gov.kz/client/#!/doc/89831/rus/30.11.2015
 > *Республики Казахстан*  
 > *от 31 марта 2015 года № 391*
 
-# Требования к форме и содержанию плана мероприятий по энергосбережению и повышению энергоэффективности, разрабатываемого субъектом Государственного энергетического реестра по итогам энергоаудита
+## Требования к форме и содержанию плана мероприятий по энергосбережению и повышению энергоэффективности
 
-## 1. Общие положения
+> *Сноска. Заголовок в редакции приказа Министра индустрии и инфраструктурного развития РК от 15.12.2022 № 718 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-1. Настоящие требования к форме и содержанию плана мероприятий по энергосбережению и повышению энергоэффективности, разрабатываемого субъектом Государственного энергетического реестра по итогам энергоаудита (далее - Требования), разработаны в соответствии с подпунктом 6-12) статьи 5 Закона Республики Казахстан от 13 января 2012 года «Об энергосбережении и повышении энергоэффективности».
+### 1. Общие положения
+
+1. Настоящие требования к форме и содержанию плана мероприятий по энергосбережению и повышению энергоэффективности (далее - Требования), разработаны в соответствии с подпунктом 6-12) статьи 5 Закона Республики Казахстан «Об энергосбережении и повышении энергоэффективности».
+
+> *Сноска. Пункт 1 в редакции приказа Министра индустрии и инфраструктурного развития РК от 15.12.2022 № 718 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 2. В настоящих Требованиях используются следующие основные понятия:
 
    1) Государственный энергетический реестр - систематизированный свод информации о субъектах Государственного энергетического реестра;
 
-   *2) Исключен приказом Министра по инвестициям и развитию РК от 30.11.2015 № 1127 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+   2) субъекты Государственного энергетического реестра – индивидуальные предприниматели и юридические лица, потребляющие энергетические ресурсы в объеме, эквивалентном тысяче пятистам и более тонн условного топлива в год, а также государственные учреждения, субъекты квазигосударственного сектора и естественных монополий;
 
-   3) субъекты Государственного энергетического реестра – индивидуальные предприниматели и юридические лица, потребляющие энергетические ресурсы в объеме, эквивалентном тысяче пятистам и более тонн условного топлива в год, а также государственные учреждения, субъекты квазигосударственного сектора и естественных монополий, потребляющие энергетические ресурсы в объеме, эквивалентном ста и более тонн условного топлива в год;
+   3) энергетический аудит (далее – энергоаудит) – сбор, обработка и анализ данных об использовании энергетических ресурсов в целях оценки возможности и потенциала энергосбережения и подготовки заключения по энергосбережению и повышению энергоэффективности;
 
-   4) энергетический аудит (энергоаудит) - сбор, обработка и анализ данных об использовании энергетических ресурсов в целях оценки возможности и потенциала энергосбережения и подготовки заключения;
+   4) энергетические ресурсы - совокупность природных и произведенных носителей энергии, запасенная энергия которых используется в настоящее время или может быть использована в перспективе в хозяйственной и иных видах деятельности, а также виды энергии (атомная, электрическая, химическая, электромагнитная, тепловая и другие виды энергии);
 
-   5) энергетические ресурсы - совокупность природных и произведенных носителей энергии, запасенная энергия которых используется в настоящее время или может быть использована в перспективе в хозяйственной и иных видах деятельности, а также виды энергии (атомная, электрическая, химическая, электромагнитная, тепловая и другие виды энергии);
+   5) энергетическая эффективность (далее – энергоэффективность) – количественное отношение объема предоставленных услуг, работ, выпущенной продукции (товаров) или произведенных энергетических ресурсов к затраченным на это исходным энергетическим ресурсам;
 
-   6) энергетическая эффективность — потребление энергетических ресурсов на единицу продукции;
+   6) энергосбережение – реализация организационных, технических, технологических, экономических и иных мер, направленных на уменьшение объема используемых энергетических ресурсов;
 
-   7) энергосбережение - реализация организационных, технических, технологических, экономических и иных мер, направленных на уменьшение объема используемых энергетических ресурсов;
+   7) зона энергосбережения – основная и вспомогательная часть технологического процесса, устройства и системы ее обеспечения, потребляющие энергетические ресурсы и являющиеся объектами энергосбережения и повышения энергоэффективности, а также мероприятия системы менеджмента качества энергосбережения и повышения энергоэффективности;
 
-   8) зона энергосбережения - основная и вспомогательная часть технологического процесса, устройства и системы ее обеспечения, потребляющие энергетические ресурсы и являющиеся объектами энергосбережения и повышения энергоэффективности, а также мероприятия системы менеджмента качества энергосбережения и повышения энергоэффективности.
+   8) менеджмент в области энергосбережения и повышения энергоэффективности (далее – энергоменеджмент) − комплекс административных действий, направленных на обеспечение рационального потребления энергетических ресурсов и повышение энергоэффективности объекта.
 
-> *Сноска. Пункт 2 с изменениями, внесенными приказом Министра по инвестициям и развитию РК от 30.11.2015 № 1127 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Пункт 2 с изменениями, внесенными приказом Министра по инвестициям и развитию РК от 30.11.2015 № 1127 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции приказа Министра индустрии и инфраструктурного развития РК от 15.12.2022 № 718 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
-## 2. Требования к форме и содержанию плана мероприятий по энергосбережению и повышению энергоэффективности, разрабатываемого субъектом Государственного энергетического реестра по итогам энергоаудита
+### Глава 2. Требования к форме и содержанию плана мероприятий по энергосбережению и повышению энергоэффективности
 
-3. План мероприятий по энергосбережению и повышению энергоэффективности, разрабатываемый субъектом Государственного энергетического реестра по итогам энергоаудита (далее - План мероприятий), разрабатывается по форме согласно приложению к настоящим Требованиям и утверждается первым руководителем субъекта Государственного энергетического реестра с указанием срока его утверждения.
+> *Сноска. Заголовок главы 2 в редакции приказа Министра индустрии и инфраструктурного развития РК от 15.12.2022 № 718 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+3. План мероприятий по энергосбережению и повышению энергоэффективности (далее - План мероприятий), разрабатывается по форме согласно приложению к настоящим Требованиям и утверждается первым руководителем субъекта Государственного энергетического реестра с указанием срока его утверждения.
+
+> *Сноска. Пункт 3 в редакции приказа Министра индустрии и инфраструктурного развития РК от 15.12.2022 № 718 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 4. Дополнения и (или) изменения в План мероприятий утверждаются первым руководителем субъекта Государственного энергетического реестра с указанием срока, как утверждения, так и его переутверждения.
 
@@ -129,958 +143,1119 @@ source: https://zan.gov.kz/client/#!/doc/89831/rus/30.11.2015
 12. Электронный вид Плана мероприятий разрабатывается в табличном редакторе Microsoft Excel.
 
 > *Приложение*  
-> *к Требованиям к форме и содержанию*  
-> *плана мероприятий по*  
-> *энергосбережению и*  
-> *повышению энергоэффективности, разр*  
-> *абатываемого субъектом*  
-> *Государственного энергетического*  
-> *реестра по итогам энергоаудита*
+> *к Требованиям к форме и*  
+> *содержанию плана мероприятий*  
+> *энергосбережению и повышению*  
+> *энергоэффективности*
+
+> *Сноска. Приложение в редакции приказов Министра по инвестициям и развитию РК от 30.11.2015 № 1127 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 15.12.2022 № 718 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 > *Форма*
 
-> *Сноска. Приложение в редакции приказа Министра по инвестициям и развитию РК от 30.11.2015 № 1127 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+## План мероприятий по энергосбережению и повышению энергоэффективности __________________________________ на 20__ - 20__ годы полное наименование организации
 
-```
-                                                                       Утверждаю
-                                                           ___________________________________
-                                                              должность первого руководителя
-                                                          сокращенное наименование организации
-                                                               ______________ ____________
-                                                                   подпись       Ф.И.О.
-                                                                 «__» ________ 20__ год
-                                                                   (дата утверждения)
-                                                               («__» __________ 20__ год)
-                                                                 (дата переутверждения)
-                                                                           М.П
-                                                                                     Таблица 1
-             План мероприятий по энергосбережению и повышению энергоэффективности
-                    __________________________________ на 20__ - 20__ годы
-                      полное наименование организации
-```
+Таблица 1
 
 <table>
 <tr>
 <td rowspan="2">Код и номер</td>
 <td rowspan="2">Мероприятия</td>
-<td rowspan="2">
-Период реализации
-(с - до)
-</td>
-<td colspan="5">Планируемые расходы, млн. тенге</td>
-<td rowspan="2">Ед. изм.</td>
-<td colspan="5">Объем планируемого снижения потребления энергетических ресурсов в натуральном выражении</td>
-<td rowspan="2">Срок окупаемости, лет</td>
-<td rowspan="2">Отметка о выполнении</td>
+<td rowspan="2">Период реализации (с - до)</td>
+<td colspan="9">Планируемые расходы, млн. тенге</td>
+<td colspan="2" rowspan="2">Единица измерения</td>
 </tr>
 <tr>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
+<td>20__</td>
+<td colspan="2">20__</td>
+<td colspan="2">20__</td>
+<td colspan="2">20__</td>
+<td colspan="2">20__</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td>13</td>
-<td>14</td>
-<td>15</td>
-<td>16</td>
+<td colspan="2">5</td>
+<td colspan="2">6</td>
+<td colspan="2">7</td>
+<td colspan="2">8</td>
+<td colspan="2">9</td>
 </tr>
 <tr>
-<td colspan="16">Зона энергосбережения: Электроснабжение и освещение</td>
+<td colspan="14">Зона энергосбережения: Электроснабжение и освещение</td>
 </tr>
 <tr>
 <td>ЭиОс.01</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ЭиОс.02</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ЭиОс.03</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>…</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Всего:</td>
 <td></td>
 <td></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="5"></td>
-<td></td>
+<td colspan="10"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="16">Зона энергосбережения: Теплоснабжение и отопление</td>
+<td colspan="14">Зона энергосбережения: Теплоснабжение и отопление</td>
 </tr>
 <tr>
 <td>ТиОт.01</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ТиОт.02</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ТиОт.03</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>…</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Всего:</td>
 <td></td>
 <td></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="5"></td>
-<td></td>
+<td colspan="10"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="16">Зона энергосбережения: Вентиляция , кондиционирование, увлажнение</td>
+<td colspan="14">Зона энергосбережения: Вентиляция, кондиционирование, увлажнение</td>
 </tr>
 <tr>
 <td>ВКУ.01</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ВКУ.02</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ВКУ.03</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>…</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Всего:</td>
 <td></td>
 <td></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="5"></td>
-<td></td>
+<td colspan="10"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="16">Зона энергосбережения: Водоснабжение и водоотведение</td>
+<td colspan="14">Зона энергосбережения: Водоснабжение и водоотведение</td>
 </tr>
 <tr>
 <td>ВиВ.01</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ВиВ.02</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ВиВ.03</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>…</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Всего:</td>
 <td></td>
 <td></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="5"></td>
-<td></td>
+<td colspan="10"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="16">Зона энергосбережения: Технологическое оборудование</td>
+<td colspan="14">Зона энергосбережения: Технологическое оборудование</td>
 </tr>
 <tr>
 <td>ТО.01</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ТО.02</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ТО.03</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>…</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Всего:</td>
 <td></td>
 <td></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="5"></td>
-<td></td>
+<td colspan="10"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="16">Зона энергосбережения: Приборы и средства учета и контроля, в том числе автоматизированные системы</td>
+<td colspan="14">Зона энергосбережения: Приборы и средства учета и контроля, в том числе автоматизированные системы</td>
 </tr>
 <tr>
 <td>ПУ.01</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ПУ.02</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ПУ.03</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>…</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Всего:</td>
 <td></td>
 <td></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="5"></td>
-<td></td>
+<td colspan="10"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="16">Зона энергосбережения: Энергоменеджмент</td>
+<td colspan="14">Зона энергосбережения: Энергоменеджмент</td>
 </tr>
 <tr>
 <td>ЭМ.01</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ЭМ.02</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ЭМ.03</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>…</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Всего:</td>
 <td></td>
 <td></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="5"></td>
-<td></td>
+<td colspan="10"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="16">Зона энергосбережения: переподготовка и повышение квалификации персонала</td>
+<td colspan="14">Зона энергосбережения: переподготовка и повышение квалификации персонала</td>
 </tr>
 <tr>
 <td>ЭМ.01</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ЭМ.02</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>ЭМ.03</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>…</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Всего:</td>
 <td></td>
 <td></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="5"></td>
-<td></td>
+<td colspan="10"></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2">Итого по плану</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2">Всего по плану</td>
 <td></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="5"></td>
-<td></td>
+<td colspan="10"></td>
 <td></td>
 </tr>
 </table>
 
-```
-                                                                                     Таблица 2
-```
+Продолжение таблицы
+
+<table>
+<tr>
+<td colspan="11">Объем планируемого снижения потребления энергетических ресурсов в натуральном выражении</td>
+<td colspan="2" rowspan="2">Срок окупаемости, лет</td>
+<td colspan="2" rowspan="2">Отметка о выполнении</td>
+</tr>
+<tr>
+<td colspan="3">20__</td>
+<td colspan="2">20__</td>
+<td colspan="2">20__</td>
+<td colspan="2">20__</td>
+<td colspan="2">20__</td>
+</tr>
+<tr>
+<td colspan="3">10</td>
+<td colspan="2">11</td>
+<td colspan="2">12</td>
+<td colspan="2">13</td>
+<td colspan="2">14</td>
+<td colspan="2">15</td>
+<td colspan="2">16</td>
+</tr>
+<tr>
+<td colspan="15">Зона энергосбережения: Электроснабжение и освещение</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="11"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="15">Зона энергосбережения: Теплоснабжение и отопление</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="11"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="15">Зона энергосбережения: Вентиляция, кондиционирование, увлажнение</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="11"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="15">Зона энергосбережения: Водоснабжение и водоотведение</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="11"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="15">Зона энергосбережения: Технологическое оборудование</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="11"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="15">Зона энергосбережения: Приборы и средства учета и контроля, в том числе автоматизированные системы</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="11"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="15">Зона энергосбережения: Энергоменеджмент</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="11"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="15">Зона энергосбережения: переподготовка и повышение квалификации персонала</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="11"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="11"></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+Таблица 2
 
 <table>
 <tr>
 <td rowspan="2">№</td>
 <td rowspan="2">Наименование энергетического ресурса</td>
-<td rowspan="2">Ед. изм.</td>
 <td colspan="5">Объем планируемого снижения потребления энергетических ресурсов (т.у.т.)</td>
+<td rowspan="2">Суммарный объем планируемого снижения потребления энергетических ресурсов (т.у.т.)</td>
 <td colspan="5">Планируемые экономия, млн. тенге</td>
-<td rowspan="2">Возможное уменьшение максимальной мощности</td>
-<td rowspan="2">Потенциал снижения потребления энергоресурсов (%)</td>
-<td rowspan="2">Отметка о выполнении</td>
+<td rowspan="2">Объем планируемой экономии, млн. тенге</td>
 </tr>
 <tr>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
-<td>20 __</td>
+<td>20_</td>
+<td>20_</td>
+<td>20_</td>
+<td>20_</td>
+<td>20_</td>
+<td>20_</td>
+<td>20_</td>
+<td>20_</td>
+<td>20_</td>
+<td>20_</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1097,13 +1272,9 @@ source: https://zan.gov.kz/client/#!/doc/89831/rus/30.11.2015
 <td>12</td>
 <td>13</td>
 <td>14</td>
-<td>15</td>
-<td>16</td>
 </tr>
 <tr>
 <td>1</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1133,8 +1304,6 @@ source: https://zan.gov.kz/client/#!/doc/89831/rus/30.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>3</td>
@@ -1151,13 +1320,9 @@ source: https://zan.gov.kz/client/#!/doc/89831/rus/30.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>…</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1186,95 +1351,70 @@ source: https://zan.gov.kz/client/#!/doc/89831/rus/30.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
-```
-                                                                                     Таблица 3
-```
+Продолжение таблицы
 
 <table>
 <tr>
-<td rowspan="2">Код но-мер</td>
-<td rowspan="2">Наименование удельного показателя</td>
-<td rowspan="2">Единица измерения используемых коэффициентов энергоэффективности организации</td>
-<td colspan="5">Объем планируемого снижения потребления энергетических ресурсов на единицу продукции/площади</td>
+<td>Потенциал снижения потребления энергоресурсов (%)</td>
+<td>Отметка о выполнении</td>
 </tr>
 <tr>
-<td>20__</td>
-<td>20__</td>
-<td>20__</td>
-<td>20__</td>
-<td>20__</td>
+<td>15</td>
+<td>16</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Итого:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Всего</td>
 <td></td>
-<td colspan="5"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
-```
-  Согласовано:                        Разработчики:
-  Примечание:
-```
+1. Значение кода мероприятий:
 
-```
-  1. Значение кода мероприятий:
    1) ЭиОс. - электроснабжение и освещение;
+
    2) ТиОт. - теплоснабжение и отопление;
+
    3) ВКУ. - вентиляция, кондиционирование, увлажнение;
+
    4) ВиВ. - Водоснабжение и водоотведение;
+
    5) ТО. - технологическое оборудование;
+
    6) ПУ. - приборы и средства учета и контроля, в том числе автоматизированные системы;
+
    7) ЭМ. - энергоменеджмент;
+
    8) ППК. - переподготовка и повышение квалификации;
+
    9) ТТ. - твердое топливо;
+
    10) Газ. - газ;
+
    11) ЖТ. - жидкое топливо;
+
    12) ЭЭ. - электрическая энергия;
+
    13) ТЭ. - тепловая энергия;
+
    14) В. – вода;
+
    15) т.ут. – тонна условного топлива.
-```
