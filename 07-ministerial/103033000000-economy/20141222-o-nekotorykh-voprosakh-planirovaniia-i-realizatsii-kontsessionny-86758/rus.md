@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/86758/rus/20.04.2022
+source: https://zan.gov.kz/client/#!/doc/86758/rus/23.12.2022
 ---
 
 # О некоторых вопросах планирования и реализации концессионных проектов
