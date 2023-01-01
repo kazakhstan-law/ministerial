@@ -1,5 +1,5 @@
 ---
-version_id: '160088_610511'
+version_id: '160088_661229'
 act_code: '160088'
 language: rus
 title: Об утверждении Методики расчета утилизационного платежа
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103047000000'
 approval_date: 2021-11-02
-version_date: 2022-12-27
+version_date: 2023-01-01
 registry_number: '160088'
 caused_by:
-  code: '176261'
+  code: '168180'
   title: О приостановлении действия пункта 3 Методики расчета утилизационного платежа, утвержденной приказом и.о. Министра экологии, геологии и природных ресурсов Республики Казахстан от 2 ноября 2021 года № 448
-  link: https://zan.gov.kz/client/#!/doc/176261/rus
-source: https://zan.gov.kz/client/#!/doc/160088/rus/27.12.2022
+  link: https://zan.gov.kz/client/#!/doc/168180/rus
+source: https://zan.gov.kz/client/#!/doc/160088/rus/01.01.2023
 ---
 
 # Об утверждении Методики расчета утилизационного платежа
