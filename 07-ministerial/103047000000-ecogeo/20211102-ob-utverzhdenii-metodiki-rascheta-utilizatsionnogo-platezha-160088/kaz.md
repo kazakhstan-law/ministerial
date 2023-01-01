@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/160088/kaz/27.12.2022
+source: https://zan.gov.kz/client/#!/doc/160088/kaz/01.01.2023
 ---
 
 # Кәдеге жарату төлемін есептеу әдістемесін бекіту туралы

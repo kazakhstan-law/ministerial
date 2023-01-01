@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/160088/rus/27.12.2022
+source: https://zan.gov.kz/client/#!/doc/160088/rus/01.01.2023
 ---
 
 # Об утверждении Методики расчета утилизационного платежа
