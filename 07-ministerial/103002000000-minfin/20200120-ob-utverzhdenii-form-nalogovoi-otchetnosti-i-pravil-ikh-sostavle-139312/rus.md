@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/139312/rus/29.09.2022
+source: https://zan.gov.kz/client/#!/doc/139312/rus/01.01.2023
 ---
 
 # Об утверждении форм налоговой отчетности и правил их составления
