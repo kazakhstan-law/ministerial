@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/90007/rus/22.02.2022
+source: https://zan.gov.kz/client/#!/doc/90007/rus/03.01.2023
 ---
 
 ## Раздел 3. Защита и автоматика
