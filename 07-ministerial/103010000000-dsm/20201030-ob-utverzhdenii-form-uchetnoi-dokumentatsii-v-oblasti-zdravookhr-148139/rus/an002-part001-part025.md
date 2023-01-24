@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/148139/rus/23.11.2022
+source: https://zan.gov.kz/client/#!/doc/148139/rus/24.01.2023
 ---
 
 ## Форма № 045/у «Медицинское свидетельство о смерти № __________»
