@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87674/rus/30.01.2015
+source: https://zan.gov.kz/client/#!/doc/87674/rus/30.01.2023
 ---
 
 # Об утверждении Устава службы на судах
