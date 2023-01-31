@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90078/kaz/24.12.2021
+source: https://zan.gov.kz/client/#!/doc/90078/kaz/31.01.2023
 ---
 
 # Байланыс қызметтерін көрсету қағидаларын бекіту туралы
