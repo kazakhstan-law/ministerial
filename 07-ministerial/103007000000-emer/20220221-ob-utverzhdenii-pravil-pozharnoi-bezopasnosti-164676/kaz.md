@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/164676/kaz/16.09.2022
+source: https://zan.gov.kz/client/#!/doc/164676/kaz/01.02.2023
 ---
 
 # Өрт қауіпсіздігі қағидаларын бекіту туралы
