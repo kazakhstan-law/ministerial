@@ -11,8 +11,15 @@ approved_on: 2015-11-25
 approved_by:
 - '103033000000'
 version_date:
-  kaz: 2015-11-25
-  rus: 2015-11-25
+  kaz: 2023-02-15
+  rus: 2023-02-15
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/97411/kaz/25.11.2015
-  rus: https://zan.gov.kz/client/#!/doc/97411/rus/25.11.2015
+  kaz: https://zan.gov.kz/client/#!/doc/97411/kaz/15.02.2023
+  rus: https://zan.gov.kz/client/#!/doc/97411/rus/15.02.2023
+caused_by:
+  code: '178719'
+  requisite: Приказ Заместителя Премьер-Министра - Министра торговли и интеграции Республики Казахстан от 15 февраля 2023 года № 75-НҚ. Зарегистрирован в Министерстве юстиции Республики Казахстан 17 февраля 2023 года № 31912
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/178719/rus
