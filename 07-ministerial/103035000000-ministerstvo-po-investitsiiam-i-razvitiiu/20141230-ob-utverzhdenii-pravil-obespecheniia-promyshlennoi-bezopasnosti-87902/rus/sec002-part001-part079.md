@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/87902/rus/19.06.2020
+source: https://zan.gov.kz/client/#!/doc/87902/rus/06.03.2023
 ---
 
 ## Параграф 1. Освещение аккумуляторными светильниками индивидуального пользования
