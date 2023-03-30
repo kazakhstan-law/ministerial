@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/156828/kaz/29.06.2021
+source: https://zan.gov.kz/client/#!/doc/156828/kaz/30.03.2023
 ---
 
 # Сәйкестікті бағалау қағидаларын бекіту туралы
