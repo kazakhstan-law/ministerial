@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/148004/rus/25.02.2022
+repealed_on: 2023-04-01
+repealed_by:
+  code: '179347'
+  title: О признании утратившими силу некоторых приказов
+  link: https://zan.gov.kz/client/#!/doc/179347/rus
 ---
 
 # Об утверждении Правил выпуска и оборота обеспеченных цифровых активов
