@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/164511/kaz/11.02.2022
+source: https://zan.gov.kz/client/#!/doc/164511/kaz/05.04.2023
 ---
 
 > *«Түсті металлургия және тау кен*  
