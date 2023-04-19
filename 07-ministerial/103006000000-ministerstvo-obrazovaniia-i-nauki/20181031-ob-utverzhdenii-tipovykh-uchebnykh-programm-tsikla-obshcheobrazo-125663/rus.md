@@ -1,5 +1,5 @@
 ---
-version_id: '125663_609973'
+version_id: '125663_629618'
 act_code: '125663'
 language: rus
 title: Об утверждении типовых учебных программ цикла общеобразовательных дисциплин для организаций высшего и (или) послевузовского образования
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2018-10-31
-version_date: 2022-12-13
+version_date: 2023-04-19
 registry_number: '125663'
 caused_by:
-  code: '175073'
-  title: О внесении изменений в приказ Министра образования и науки Республики Казахстан от 31 октября 2018 года № 603 «Об утверждении типовых учебных программ цикла общеобразовательных дисциплин для организаций высшего и (или) послевузовского образования»
-  link: https://zan.gov.kz/client/#!/doc/175073/rus
-source: https://zan.gov.kz/client/#!/doc/125663/rus/13.12.2022
+  code: '180103'
+  title: О внесении изменения в приказ Министра образования и науки Республики Казахстан от 31 октября 2018 года № 603 «Об утверждении типовых учебных программ цикла общеобразовательных дисциплин для организаций высшего и (или) послевузовского образования»
+  link: https://zan.gov.kz/client/#!/doc/180103/rus
+source: https://zan.gov.kz/client/#!/doc/125663/rus/19.04.2023
 ---
 
 # Об утверждении типовых учебных программ цикла общеобразовательных дисциплин для организаций высшего и (или) послевузовского образования
@@ -7267,23 +7267,26 @@ source: https://zan.gov.kz/client/#!/doc/125663/rus/13.12.2022
 </tr>
 </table>
 
-> *Приложение 5*  
+> *Приложение*  
 > *к приказу Министра*  
 > *образования и науки*  
 > *Республики Казахстан*  
-> *от 31 октября 2018 года № 603*
+> *от 31 октября 2018 года*  
+> *№ 603*
 
 ## Типовая учебная программа общеобразовательной дисциплины «Информационно-коммуникационные технологии» для организаций высшего и (или) послевузовского образования
 
+> *Сноска. Приложение 5 в редакции приказа Министра науки и высшего образования РК от 19.04.2023 № 171 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 ### Глава 1. Общие положения
 
-1. Настоящая типовая учебная программа общеобразовательной дисциплины «Информационно-коммуникационные технологии» для организаций высшего и (или) послевузовского образования (далее - программа) разработана в соответствии с подпунктом 5-2) статьи 5 Закона Республики Казахстан от 27 июля 2007 года «Об образовании» и определяет цель, задачи, структуру, содержание и методы обучения.
+1. Настоящая типовая учебная программа общеобразовательной дисциплины «Информационно-коммуникационные технологии» для организаций высшего и (или) послевузовского образования (далее – программа) разработана в соответствии с подпунктом 5-2) статьи 5 Закона Республики Казахстан «Об образовании» и определяет цель, задачи, структуру, содержание, методы обучения и критерии оценивания результатов обучения.
 
-2. Настоящая программа направлена на изучение обновленного содержания общеобразовательной дисциплины «Информационно-коммуникационные технологии», формирование способности критического понимания роли и значения современных информационно-коммуникационных технологий в эпоху цифровой глобализации, формирование нового «цифрового» мышления, приобретение знаний и навыков использования современных информационно-коммуникационных технологий в различных видах деятельности.
+2. Программа направлена на изучение обновленного содержания общеобразовательной дисциплины «Информационно-коммуникационные технологии» (далее – дисциплина), формирование способности критического понимания роли и значения современных информационно-коммуникационных технологий в эпоху цифровой глобализации, формирование нового «цифрового» мышления, приобретение знаний и навыков использования современных информационно-коммуникационных технологий в различных видах деятельности.
 
-3. Продолжительность обучения по настоящей программе в соответствии со структурой образовательной программы высшего образования составляет 150 академических часов (5 академических кредитов).
+3. Продолжительность обучения по программе в соответствии со структурой образовательной программы высшего образования составляет 150 академических часов (5 кредитов).
 
-### Глава 2. Цель, задачи и ожидаемые результаты программы
+### Глава 2. Цель и задачи программы
 
 4. Целью программы является формирование способности критически оценивать и анализировать процессы, методы поиска, хранения и обработки информации, способы сбора и передачи информации посредством цифровых технологий.
 
@@ -7315,17 +7318,17 @@ source: https://zan.gov.kz/client/#!/doc/125663/rus/13.12.2022
 
 ### Глава 3. Структура и содержание программы
 
-7. Настоящая программа начинается с обзора цели и задач, тематического плана дисциплины, методов, результатов обучения, пререквизитов и постреквизитов дисциплины.
+7. Настоящая программа начинается с обзора цели и задач, тематического плана дисциплины, методов обучения, критериев оценивания результатов обучения, пререквизитов и постреквизитов дисциплины.
 
-8. Содержание общеобразовательной дисциплины «Информационно-коммуникационные технологии» для организаций высшего и (или) послевузовского образования, включающее содержание дисциплины, темы лабораторных (практических) занятий и самостоятельных работ обучающихся приведен в приложении к настоящей программе.
+8. Учебный план дисциплины, включающий содержание дисциплины, темы семинарских (практических) и самостоятельных работ обучающихся приведен в приложении к настоящей программе.
 
 9. Методы и технологии обучения, используемые в процессе реализации программы:
 
-   1) студентоцентрированное обучение, основанное на рефлексивном подходе к обучению со стороны преподавателя и студентов;
+   1) студентоцентрированное обучение, основанное на рефлексивном подходе к обучению со стороны и преподавателя, и студентов;
 
    2) интерактивная лекция (проблемная лекция, дискуссионная лекция, лекция-конференция, лекция-консультация, лекция «Пресс-конференция», лекция «Вопросы-ответы-обсуждение»);
 
-   3) интерактивный семинар (семинар «Выявление проблемы», семинар «Решение проблемы», семинар «Применение решения проблемы»);
+   3) интерактивный семинар (семинар «Выявление проблемы, семинар «Решение проблемы, семинар «Применение решения проблемы»);
 
    4) кейс-стади (анализ конкретных ситуаций);
 
@@ -7348,9 +7351,10 @@ source: https://zan.gov.kz/client/#!/doc/125663/rus/13.12.2022
 11. Оценка компетенций обучающихся осуществляется по следующим критериям: демонстрация понимания обновленной программы, владения терминологией, использование полученных знаний.
 
 > *Приложение*  
-> *к типовой учебной программе общеобразовательной дисциплины «Информационно-коммуникационные технологии» для организаций высшего и (или) послевузовского образования*
+> *к Типовой учебной программе*  
+> *«Информационно-коммуникационные технологии» для организаций высшего и (или) послевузовского образования*
 
-### Содержание общеобразовательной дисциплины «Информационно-коммуникационные технологии» для организаций высшего и (или) послевузовского образования
+## Содержание типовой учебной программы «Информационно-коммуникационные технологии» для организаций высшего и (или) послевузовского образования
 
 <table>
 <tr>
@@ -7358,16 +7362,197 @@ source: https://zan.gov.kz/client/#!/doc/125663/rus/13.12.2022
 <td>Содержание дисциплины</td>
 <td>Темы лабораторных (практических) занятий</td>
 <td>Темы самостоятельных работ обучающихся</td>
-<td>Количество часов</td>
+<td>
+Количество
+часов
+</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 1: Роль ИКТ в ключевых секторах развития общества. Стандарты в области ИКТ</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Определение ИКТ. Предмет ИКТ и его цели. Роль ИКТ в ключевых секторах развития общества. Стандарты в области ИКТ. Связь между ИКТ и достижением целей устойчивого развития в Декларации тысячелетия.</td>
+<td>Вычисление метрик производительности компьютерной системы: скорость, эффективность, затраты энергии, закон Амдала, CPU время.</td>
+<td>Разработка блок-схем работы устройств компьютера. Этап 1.</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 2: Введение в компьютерные системы. Архитектура компьютерных систем</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Обзор компьютерных систем. Эволюция компьютерных систем. Архитектура и компоненты компьютерных систем. Применение компьютерных систем. Представление данных в компьютерных системах.</td>
+<td>1.Определение свойств операционной системы. Работа с файлами и каталогами.</td>
+<td>Разработка блок-схем работы устройств компьютера. Этап 2.</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 3: Программное обеспечение. Операционные системы.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Программное обеспечение. Виды программного обеспечения, цели и характеристики. Базовые концепции ОС. Эволюция операционных систем. Классификация операционных систем, в т.ч. для мобильных устройств. Классификация настольных приложений.</td>
+<td>Определение требований к разработке «удобного в применении» Web-сайта.</td>
+<td>
+Сбор, анализ и структуризация данных в профессиональной среде (разработка базы данных).
+Этап 1.
+</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 4: Человеко-компьютерное взаимодействие</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Пользовательский интерфейс, как средство человеко-компьютерного взаимодействия. Юзабилити интерфейсов. Виды интерфейсов: интерфейс командной строки, текстовый интерфейс, графический интерфейс. Физические и ментальные характеристики пользователя. Этапы разработки пользовательского интерфейса. Виды тестирования интерфейсов (тестирование пользователей). Перспективы развития интерфейсов.</td>
+<td>Разработка структуры базы данных, создание таблиц и запросов. Работа с реляционной базой данных MySQL. Администрирование базы данных MySQL с помощью программы phpMyAdmin. Работа с однотабличной базой данных.</td>
+<td>
+Сбор, анализ и структуризация данных в профессиональной среде (разработка базы данных).
+Этап 2.
+</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 5: Системы баз данных</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Основы систем баз данных: понятие, характеристика, архитектура. Модели данных. Нормализация. Ограничение целостности данных. Оптимизация запросов и их обработка. ОсновыSQL. Параллельная обработка данных и их восстановление. Проектирование и разработка баз данных. Технология программирования ORM. Распределенные, параллельные и гетерогенные базы данных.</td>
+<td>Проектирование и создание презентаций лекционного материала, научных докладов и т.д.</td>
+<td>Описание сетевой топологии административного здания. Этап 1.</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 6: Анализ данных. Управление данными.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Основы анализа данных. Методы сбора, классификации и прогнозирования. Деревья решений. Обработка больших объёмов данных. Методы и стадии Data Mining. Задачи Data Mining. Визуализация данных.</td>
+<td>Обработка числовой информации, редактирование формул и создание диаграмм в табличных редакторах.</td>
+<td>Описание сетевой топологии административного здания. Этап 2.</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 7: Сети и телекоммуникации.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Конечные устройства, устройства передачи данных, среда передачи данных. Типы сетей. Стековые протоколы: TCP/IP, OSI. IP-адресация. Локальные и глобальные сети. Проводные и беспроводные сетевые технологии. Протокол DHCP. Технологии подключения к сети Интернет. Телекоммуникационные технологии.</td>
+<td>Создание простой сетевой конфигурации. IP-адресация. Мониторинг сети. Анализ трафика. Использование снифферов для анализа сетевых пакетов.</td>
+<td>Сравнительный анализ антивирусных средств защиты информации. Этап 1.</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 8: Кибербезопасность.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Угрозы безопасности информации и их классификация. Индустрия кибербезопасности. Кибербезопасность и управление Интернетом. Вредоносные программы. Меры и средства защиты информации. Стандарты и спецификации в области информационной безопасности. Законодательные акты Республики Казахстан, регулирующие правовые отношения в сфере информационной безопасности. Электронная цифровая подпись. Шифрование.</td>
+<td>Использование аппаратно-программных средств для генерации ключей. Применение ЭЦП и шифрования при обмене сообщениями по E-mail. Настройки программного элемента компьютерной сети Firewall для контроля и фильтрации сетевого трафика. Работа с различными антивирусными программами.</td>
+<td>Сравнительный анализ антивирусных средств защиты информации. Этап 2.</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 9: Интернет технологии.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Основные понятия Интернет. Универсальный идентификатор ресурсов (URI), его назначение и составные части. Служба DNS. Web-технологии: HTTP, DHTML, CSS, and JavaScript. Электронная почта. Формат сообщения. Протоколы SMTP, POP3, IMAP.</td>
+<td>Получение данных с сервера. Работа с системами управления содержимым сайта WordPress, Joomla. Разработка дизайна сайта с помощью многофункционального графического редактора Photoshop и языка разметки CSS. Использование разработанной ранее базы данных MySQL для работы сайта.</td>
+<td>Поиск информации по профилю специальности в Интернете, использование облачных сервисов для хранения и обработки данных. Этап 1.</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 10: Облачные и мобильные технологии.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Дата центры. Тенденции развития современных инфраструктурных решений. Принципы облачных вычислений. Технологии виртуализации. Web-службы в Облаке. Основные термины и концепции мобильных технологий. Мобильные сервисы. Стандарты мобильных технологий.</td>
+<td>Знакомство с облачными сервисами Google Docs и Microsoft Office Web Apps. Создание аккаунтов для работы с облачными сервисами. Изучение режимов работы, связанных с хранением, совместным доступом и обработкой файлов. Использование мобильных технологий для получения доступа к информации. GPS навигаторы. GSM сигнализация.</td>
+<td>Поиск информации по профилю специальности в Интернете, использование облачных сервисов для хранения и обработки данных. Этап 2.</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 11: Мультимедийные технологии</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Представление текстовой, аудио, видео и графической информации в цифровом формате. Базовые технологии для сжатия информации. 3-D представление виртуального мира и анимация. Инструменты разработки мультимедийных приложений. Использование мультимедийных технологий для планирования, описания бизнес-процессов и их визуализация.</td>
+<td>Создание видео-файлов с использованием программ: HyperCam, Adobe Premiere Pro, Windows Movie Maker и т.д.</td>
+<td>Создание эмблемы, видеоролика и других материалов по профилю специальности средствами мультимедийных технологий. Этап 1.</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 12: Smart технологии.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Интернет вещей. Большие данные. Технология Блок чейн. Искусственный интеллект. Использование Smart-сервисов. Зеленые технологии в ИКТ. Телеконференции. Телемедицина.</td>
+<td>Работа со Smart-приложениями: Smart TV, Smart Hub и т.д.</td>
+<td>Создание эмблемы, видеоролика и других материалов по профилю специальности средствами мультимедийных технологий. Этап 2.</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 13: E-технологии. Электронный бизнес. Электронное обучение. Электронное правительство.</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Электронный бизнес: Основные модели электронного бизнеса. Информационная инфраструктура электронного бизнеса. Правовое регулирование в электронном бизнесе. Электронное обучение: архитектура, состав и платформы. Электронные учебники. Электронное правительство: концепция, архитектура, сервисы. Форматы реализации электронного правительства в развитых странах.</td>
+<td>Работа с сервисами на сайте электронного правительства http://​egov.​kz/​cms/​ru/​gov​ernm​ent-​ser​vice​s/​for_​citizen: регистрация заявок, получение дубликатов документов и т.д.</td>
+<td>
+Презентация и защита основных результатов проектной деятельности по специальности.
+Этап 1.
+</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 14: Информационные технологии в профессиональной сфере. Индустриальные ИКТ.</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Программное обеспечение для решения задач специализированной профессиональной сферы. Современные ИТ-тренды в профессиональной сфере: медицина, энергетика и т.д. Использование поисковых систем и электронных ресурсов в профессиональных целях. Вопросы безопасности в индустриальных информационно-коммуникационных технологиях.</td>
+<td>Разработка структуры и содержания урока в среде дистанционного обучения: Moodle, eDX и т.д.</td>
+<td>
+Презентация и защита основных результатов проектной деятельности по специальности.
+Этап 2.
+</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">Неделя 15: Перспективы развития ИКТ</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Перспективы развития в сфере ИТ рынка: развитие свободного программного обеспечения. Формирование экосистемы ИТ предпринимательства и поддержка малых стартап компаний. Программы акселерации и инкубации. Развитие необходимой инфраструктуры электронных платежей и логистики. Перспективы развития E-технологий.</td>
+<td>Установка и использование прикладных программ в профессиональной сфере. Работа в среде для научных и технических вычислений Matlab. Работа с пакетами расширения Matlab для решения прикладных задач.</td>
+<td>Прием задач и СРС</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="5">
+Примечание: 1 академический кредит = 30 академических часов
+Всего:150 академических часов
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>№</td>
+<td>Content of the discipline</td>
+<td>Topics of laboratory (practical) classes</td>
+<td>Topics of independent work of students</td>
+<td>Number of hours</td>
 </tr>
 <tr>
 <td colspan="5">Week 1: An ICT role in key sectors of development of society. Standards in the field of ICT</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Definition of ICT. Subject ICT and its purposes. An ICT role in key sectors of development of society. Standards in the field of ICT. Communication between ICT and achievement of the objectives of a sustainable development in the Millennium Declaration.</td>
-<td>Computation of metrics of productivity of computer system: speed, efficiency, energy expenses, Amdal's law, CPU time.</td>
-<td>Development of flowcharts of operation of devices of the computer. Stage 1.</td>
+<td>Definition of ICT. Subject ICT and its purposes. An ICT role in key sectors of development of society. Communication between ICT and achievement of the objectives of a sustainable development in the Millennium Declaration. Standards in the field of ICT.</td>
+<td>Calculation of metrics of productivity of computer system: speed, efficiency, energy costs, Amdahl's law, CPU time.</td>
+<td>Development of flowcharts of computer devices. Stage 1.</td>
 <td>10</td>
 </tr>
 <tr>
@@ -7376,8 +7561,8 @@ source: https://zan.gov.kz/client/#!/doc/125663/rus/13.12.2022
 <tr>
 <td>2</td>
 <td>Review of computer systems. Evolution of computer systems. Architecture and components of computer systems. Use of computer systems. Data representation in computer systems.</td>
-<td>Determination of properties of an operating system. Operation with files and directories.</td>
-<td>Development of flowcharts of operation of devices of the computer. Stage 2.</td>
+<td>2.​Det​ermi​nati​on of properties of an operating system. Operation with files and directories.</td>
+<td>Development of flowcharts of computer devices. Stage 2</td>
 <td>10</td>
 </tr>
 <tr>
@@ -7386,11 +7571,8 @@ source: https://zan.gov.kz/client/#!/doc/125663/rus/13.12.2022
 <tr>
 <td>3</td>
 <td>Software. Types of the software, purpose and characteristic. Basic concepts of OS. Evolution of operating systems. Classification of operating systems, including for mobile devices. Classification of desktop applications.</td>
-<td>Determination of requirements to development &quot;convenient in application&quot; the website.</td>
-<td>
-Collecting, the analysis and structurization of data in the professional environment (development of the database).
-Stage 1.
-</td>
+<td>Determination of requirements to development «convenient in application» the website.</td>
+<td>Collecting, the analysis and structurization of data in the professional environment (development of the database). Stage 1.</td>
 <td>10</td>
 </tr>
 <tr>
@@ -7400,10 +7582,7 @@ Stage 1.
 <td>4</td>
 <td>User interface as means of human-computer interaction. Usability of interfaces. Types of interfaces: command line interface, text interface, graphic interface. Physical and mental characteristics of the user. Development stages of the user interface. Types of testing of interfaces (testing of users). Perspectives of development of interfaces.</td>
 <td>Development of database structure, creation of tables and requests. Working with a MySQL relational database. MySQL database administration using phpMyAdmin. Working with a single-table database.</td>
-<td>
-Collecting, the analysis and structurization of data in the professional environment (development of the database).
-Stage 2.
-</td>
+<td>Collecting, the analysis and structurization of data in the professional environment (development of the database). Stage 2.</td>
 <td>10</td>
 </tr>
 <tr>
@@ -7421,7 +7600,7 @@ Stage 2.
 </tr>
 <tr>
 <td>6</td>
-<td>Data analysis bases. Methods of collection, classification and prediction. Decision trees. Processing of large volumes of data. Methods and stages of Data mining. Tasks Data mining. Visualization of data.</td>
+<td>Basics of Data Analysis. Methods of collection, classification and prediction. Decision trees. Processing of large volumes of data. Methods and stages of Data mining. Tasks Data mining. Visualization of data.</td>
 <td>Processing of numerical information, editing formulas and creation of charts in spreadsheet editors.</td>
 <td>Description of network topology of the office building. Stage 2.</td>
 <td>10</td>
@@ -7441,7 +7620,7 @@ Stage 2.
 </tr>
 <tr>
 <td>8</td>
-<td>Security risks of information and their classification. Industry of cybersecurity. Cybersecurity and control of the Internet. Malicious applications. Measures and means of information protection. Standards and specifications in information security field. The acts of the Republic of Kazakhstan governing legal relations in the sphere of information security. Digital signature. Encoding.</td>
+<td>Security risks of information and their classification. Industry of cybersecurity. Cybersecurity and control of the Internet. Malicious applications. Measures and means of information protection. Standards and specifications in information security field. The acts of the Republic of Kazakhstan governing legal relations in the sphere of information security. Electronic digital signature. Encryption.</td>
 <td>Use of hardware and software for key generation. Application of the EDS and encoding in case of message exchange by E-mail. Settings of the Firewall program element of the computer network for network traffic monitoring and filtering. Working with the various antivirus programs.</td>
 <td>Comparative analysis of anti-virus means of information protection. Stage 2.</td>
 <td>10</td>
@@ -7451,7 +7630,7 @@ Stage 2.
 </tr>
 <tr>
 <td>9</td>
-<td>Basic concepts Internet. The universal identifier of resources (URI), its assignment and components. Service DNS. Web technologies: HTTP, DHTML, CSS, and JavaScript. E-mail. Message format. SMTP, POP3, IMAP protocols.</td>
+<td>Basic Internet concepts. The Uniform Resource Identifier (URI), its assignment and components. DNS service. Web technologies: HTTP, DHTML, CSS, and JavaScript. E-mail. Message format. SMTP, POP3, IMAP protocols.</td>
 <td>Data acquisition from the server. Working with WordPress and Joomla web content management systems. Development a website design using Photoshop multifunctional graphic editor and CSS style sheet language. Using of the previously developed MySQL database for the work of the website.</td>
 <td>Information search in a specialty profile on the Internet, use of cloud services for storage and data processing. Stage 1.</td>
 <td>10</td>
@@ -7492,11 +7671,8 @@ Stage 2.
 <tr>
 <td>13</td>
 <td>Electronic business: Main models of electronic business. Information infrastructure of electronic business. Legal regulation in electronic business. Electronic training: architecture, structure and platforms. Electronic textbooks. Electronic government: concept, architecture, services. Formats of implementation of the electronic government in developed countries.</td>
-<td>Operation with services on the website of the electronic government http://​egov.​kz/​cms/​ru/​gov​ernm​ent-​ser​vice​s/​for_​citizen: registration of requests, obtaining counterparts of documents, etc.</td>
-<td>
-Presentation and protection of the main results of design activity in the specialty.
-Stage 1.
-</td>
+<td>Operation with services on the website of the electronic government http://​egov.​kz/​cms/​ru/​gov​ernm​ent-​service​s/for_citizen: registration of requests, obtaining counterparts of documents, etc.</td>
+<td>Presentation and protection of the main results of design activity in the specialty. Stage 1.</td>
 <td>10</td>
 </tr>
 <tr>
@@ -7524,29 +7700,8 @@ Stage 2.
 </tr>
 <tr>
 <td colspan="5">
-Ескерту: 1 академиялық кредит = 30 академиялық сағат
-Барлығы: 5 академиялық кредит = 150 академиялық сағат
-</td>
-</tr>
-<tr>
-<td colspan="5">
-<strong>References: Basic:</strong>
-1. June J. Parsons and Dan Oja, New Perspectives on Computer Concepts 16th Edition - Comprehensive, Thomson Course Technology, a division of Thomson Learning, Inc Cambridge, MA, COPYRIGHT © 2014.
-2. Shynybekov D.A., Uskenbayeva R.K., Serbin V.V., Duzbayev N.T., Moldagulova A.N., Duisebekova K.S., Satybaldiyeva R.Z., Hasanova G.I., Urmashev B.A. Information and communication technologies. Textbook: in 2 parts. Part 1, 1st ed. - Almaty: IITU, 2017. - 588 p., ISBN 978-601-7911-03-4 (A textbook in English with the stamp of the Ministry of Education and Science of the Republic of Kazakhstan)
-3. Shynybekov D.A., Uskenbayeva R.K., Serbin V.V., Duzbayev N.T., Moldagulova A.N., Duisebekova K.S., Satybaldiyeva R.Z., Hasanova G.I., Urmashev B.A. Information and communication technologies. Textbook: in 2 parts. Part 1, 1st ed. - Almaty: IITU, 2017. - 588 p., ISBN 978-601-7911-04-1 (A textbook in English with the stamp of the Ministry of Education and Science of the Republic of Kazakhstan)
-4. Urmashev B.A. Information and communication technology: Textbook / B.A. Urmashev. – Almaty, 2016. - 410 p., ISBN 978-601-7940-02-7 (A textbook in English with the stamp of the Ministry of Education and Science of the Republic of Kazakhstan)
-5. Lorenzo Cantoni (University of Lugano, Switzerland), James A. Danowski (University of Illinois at Chicago, IL, USA) Communication and Technology, 576 p.
-6. Нурпеисова Т.Б., Кайдаш И.Н. ИКТ. Учебное пособие / Алматы, изд-во Бастау, 2017, 183 с.
-7. Nurpeisova T.B., Kaidash I.N. ICT, Almaty, Bastau, 2017. 241 p.
-8. Craig Van Slyke. Information Communication Technologies: Concepts, Methodologies, Tools, and Applications (6 Volumes). ISBN13: 9781599049496, 2008, 4288 p.
-9. Brynjolfsson, E. and A. Saunders (2010). Wired for Innovation: How Information Technology Is Reshaping the Economy. Cambridge, MA: MIT Press.
-10. Kretschmer, T. (2012), “Information and Communication Technologies and Productivity Growth: A Survey of the Literature”, OECD Digital Economy Papers, No. 195, OECD Publishing.
-<strong>Additional:</strong>
-1. Vijay K. Vaishnavi, Vijay K. Vaishnavi, William Kuechler Design Science Research Methods and Patterns: Innovating Information and Communication Technology, 2nd Edition 2015 by CRC Press
-2. Hans J Schnoll E-Government: Information, Technology, and Transformation: Information, Technology, and Transformation (Routledge, March 12, 2015 - Political Science - 343 p.)
-3. The Millennium Development Goals Report 2015, United Nations, New York, 2015
-4. Maximizing Mobile //2012 Information and Communications for Development. World Bank, Washington D.C., 2012, 244 p.
-5. Doing Business 2016 Measuring regulatory Quality and Efficiency / World bank Group Flagship Report, 2016. Usha Rani Vyasulu Reddi. Primer Series on ICTD for Youth. Primer 1: An Introduction to ICT for Development A learning resource on ICT for development for institutions of higher education, 235 p.
+Note: 1 academic credit = 30 academic hours
+Total: 150 academic hours
 </td>
 </tr>
 </table>
