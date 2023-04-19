@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/125663/rus/13.12.2022
+source: https://zan.gov.kz/client/#!/doc/125663/rus/19.04.2023
 ---
 
 ## Уровень С1
