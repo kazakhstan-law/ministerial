@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59098/kaz/27.03.2014
+source: https://zan.gov.kz/client/#!/doc/59098/kaz/26.04.2023
 ---
 
 # Темір жол көлігіндегі сигнализация туралы нұсқаулықты бекіту туралы

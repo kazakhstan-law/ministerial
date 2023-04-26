@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/59098/kaz/27.03.2014
+source: https://zan.gov.kz/client/#!/doc/59098/kaz/26.04.2023
 ---
 
 ## § 8. Маневрлік жұмыс кезінде қолданылатын сигналдар
