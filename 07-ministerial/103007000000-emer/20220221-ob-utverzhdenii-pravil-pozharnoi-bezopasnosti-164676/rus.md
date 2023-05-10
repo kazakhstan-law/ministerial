@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/164676/rus/01.02.2023
+source: https://zan.gov.kz/client/#!/doc/164676/rus/10.05.2023
 ---
 
 # Об утверждении Правил пожарной безопасности
