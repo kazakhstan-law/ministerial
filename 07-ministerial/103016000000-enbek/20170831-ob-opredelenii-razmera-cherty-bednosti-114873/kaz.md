@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/114873/kaz/01.10.2019
+repealed_on: 2023-07-01
+repealed_by:
+  code: '181792'
+  title: Кедейлік шегінің мөлшерін айқындау туралы
+  link: https://zan.gov.kz/client/#!/doc/181792/kaz
 ---
 
 # Кедейлік шегінің мөлшерін айқындау туралы
