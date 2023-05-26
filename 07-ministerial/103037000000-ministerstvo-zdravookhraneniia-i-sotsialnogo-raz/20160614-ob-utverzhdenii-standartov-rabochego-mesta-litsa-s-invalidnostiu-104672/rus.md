@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/104672/rus/14.09.2022
+repealed_on: 2023-07-01
+repealed_by:
+  code: '182220'
+  title: Об утверждении стандартов рабочего места лиц с инвалидностью
+  link: https://zan.gov.kz/client/#!/doc/182220/rus
 ---
 
 # Об утверждении стандартов рабочего места лица с инвалидностью
