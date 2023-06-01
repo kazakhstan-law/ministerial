@@ -1,5 +1,5 @@
 ---
-version_id: '126965_582234'
+version_id: '126965_635773'
 act_code: '126965'
 language: rus
 title: Об утверждении предельных тарифов на электрическую энергию
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103036000000'
 approval_date: 2018-12-14
-version_date: 2022-07-01
+version_date: 2023-06-01
 registry_number: '126965'
 caused_by:
-  code: '168471'
+  code: '182134'
   title: О внесении изменения в приказ Министра энергетики Республики Казахстан от 14 декабря 2018 года № 514 «Об утверждении предельных тарифов на электрическую энергию»
-  link: https://zan.gov.kz/client/#!/doc/168471/rus
-source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
+  link: https://zan.gov.kz/client/#!/doc/182134/rus
+source: https://zan.gov.kz/client/#!/doc/126965/rus/01.06.2023
 ---
 
 # Об утверждении предельных тарифов на электрическую энергию
@@ -49,27 +49,28 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 
 > *Утверждены приказом*  
 > *Министра энергетики*  
-> *Республики Казахстан от*  
-> *14 декабря 2018 года*  
-> *№ 514*
+> *Республики Казахстан*  
+> *от 14 декабря 2018 года № 514*
 
 ## Предельные тарифы на электрическую энергию
 
-> *Сноска. Предельные тарифы в редакции приказов и.о. Министра энергетики РК от 23.09.2019 № 313 (вводится в действие с 01.10.2019); Министра энергетики РК от 29.06.2020 № 243 (вводится в действие с 01.07.2020); с изменениями, внесенными приказом и.о. Министра энергетики РК от 09.07.2020 № 250 (вводится в действие после дня его первого официального опубликования); в редакции приказов Министра энергетики РК от 30.03.2021 № 108 (вводится в действие с 01.04.2021); и.о. Министра энергетики РК от 24.06.2021 № 211 (вводится в действие с 01.07.2021); от 30.10.2021 № 332 (вводится в действие с 01.11.2021); Министра энергетики РК от 25.01.2022 № 26 (вводится в действие со дня его первого официального опубликования); от 30.06.2022 № 226 (вводится в действие с 01.07.2022).*
-
-тенге/кВтч
+> *Сноска. Предельные тарифы в редакции приказов и.о. Министра энергетики РК от 23.09.2019 № 313 (вводится в действие с 01.10.2019); Министра энергетики РК от 29.06.2020 № 243 (вводится в действие с 01.07.2020); с изменениями, внесенными приказом и.о. Министра энергетики РК от 09.07.2020 № 250 (вводится в действие после дня его первого официального опубликования); в редакции приказов Министра энергетики РК от 30.03.2021 № 108 (вводится в действие с 01.04.2021); и.о. Министра энергетики РК от 24.06.2021 № 211 (вводится в действие с 01.07.2021); от 30.10.2021 № 332 (вводится в действие с 01.11.2021); Министра энергетики РК от 25.01.2022 № 26 (вводится в действие со дня его первого официального опубликования); от 30.06.2022 № 226 (вводится в действие с 01.07.2022); от 26.05.2023 № 192 (вводится в действие с 01.06.2023 ).*
 
 <table>
 <tr>
+<td colspan="6"></td>
+<td colspan="5">тенге/кВтч</td>
+</tr>
+<tr>
 <td rowspan="2">№ п/п</td>
 <td rowspan="2">Группа энергопроизводящих организаций, реализующих электрическую энергию</td>
-<td colspan="7">Предельные тарифы на электрическую энергию по годам</td>
+<td colspan="8">Предельные тарифы на электрическую энергию по годам</td>
 </tr>
 <tr>
 <td>2019 год</td>
 <td>2020 год</td>
 <td>2021 год</td>
-<td>2022 год</td>
+<td colspan="2">2022 год</td>
 <td>2023 год</td>
 <td>2024 год</td>
 <td>2025 год</td>
@@ -80,10 +81,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>5,76</td>
 <td>5,80</td>
 <td>5,90</td>
-<td>5,90</td>
-<td>5,90</td>
-<td>5,90</td>
-<td>5,90</td>
+<td colspan="2">5,90</td>
+<td>7,32</td>
+<td>7,32</td>
+<td>7,32</td>
 </tr>
 <tr>
 <td>2</td>
@@ -91,10 +92,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>4,50</td>
 <td>5,55</td>
 <td>5,59</td>
-<td>6,17</td>
-<td>6,17</td>
-<td>6,17</td>
-<td>6,17</td>
+<td colspan="2">6,17</td>
+<td>7,40</td>
+<td>7,40</td>
+<td>7,40</td>
 </tr>
 <tr>
 <td>3</td>
@@ -102,10 +103,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>7,73</td>
 <td>9,13</td>
 <td>8,59</td>
-<td>8,59</td>
-<td>8,59</td>
-<td>8,59</td>
-<td>8,59</td>
+<td colspan="2">8,59</td>
+<td>11,20</td>
+<td>11,20</td>
+<td>11,20</td>
 </tr>
 <tr>
 <td>4</td>
@@ -113,10 +114,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>5,83</td>
 <td>7,50</td>
 <td>7,91</td>
-<td>8,78</td>
-<td>8,78</td>
-<td>8,78</td>
-<td>8,78</td>
+<td colspan="2">8,78</td>
+<td>11,65</td>
+<td>11,65</td>
+<td>11,65</td>
 </tr>
 <tr>
 <td>5</td>
@@ -124,10 +125,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>8,10</td>
 <td>9,10</td>
 <td>10,45</td>
-<td>11,32</td>
-<td>11,32</td>
-<td>11,32</td>
-<td>11,32</td>
+<td colspan="2">11,32</td>
+<td>12,28</td>
+<td>12,28</td>
+<td>12,28</td>
 </tr>
 <tr>
 <td>6</td>
@@ -135,10 +136,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>6,70</td>
 <td>7,91</td>
 <td>8,78</td>
-<td>9,86</td>
-<td>9,86</td>
-<td>9,86</td>
-<td>9,86</td>
+<td colspan="2">9,86</td>
+<td>12,64</td>
+<td>12,64</td>
+<td>12,64</td>
 </tr>
 <tr>
 <td>7</td>
@@ -146,10 +147,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>6,44</td>
 <td>7,72</td>
 <td>8,48</td>
-<td>9,45</td>
-<td>9,45</td>
-<td>9,45</td>
-<td>9,45</td>
+<td colspan="2">9,45</td>
+<td>12,75</td>
+<td>12,75</td>
+<td>12,75</td>
 </tr>
 <tr>
 <td>8</td>
@@ -157,10 +158,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>6,70</td>
 <td>8,38</td>
 <td>9,44</td>
-<td>10,90</td>
-<td>10,90</td>
-<td>10,90</td>
-<td>10,90</td>
+<td colspan="2">10,90</td>
+<td>14,50</td>
+<td>14,50</td>
+<td>14,50</td>
 </tr>
 <tr>
 <td>9</td>
@@ -168,10 +169,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>5,06</td>
 <td>6,17</td>
 <td>6,70</td>
-<td>7,19</td>
-<td>7,19</td>
-<td>7,19</td>
-<td>7,19</td>
+<td colspan="2">7,19</td>
+<td>8,49</td>
+<td>8,49</td>
+<td>8,49</td>
 </tr>
 <tr>
 <td>10</td>
@@ -179,10 +180,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>6,60</td>
 <td>8,29</td>
 <td>9,49</td>
-<td>10,67</td>
-<td>10,67</td>
-<td>10,67</td>
-<td>10,67</td>
+<td colspan="2">10,67</td>
+<td>14,11</td>
+<td>14,11</td>
+<td>14,11</td>
 </tr>
 <tr>
 <td>11</td>
@@ -190,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>7,00</td>
 <td>7,00</td>
 <td>6,77</td>
-<td>6,77</td>
+<td colspan="2">6,77</td>
 <td>6,77</td>
 <td>6,77</td>
 <td>6,77</td>
@@ -201,10 +202,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>4,03</td>
 <td>4,80</td>
 <td>4,93</td>
-<td>5,39</td>
-<td>5,39</td>
-<td>5,39</td>
-<td>5,39</td>
+<td colspan="2">5,39</td>
+<td>6,05</td>
+<td>6,05</td>
+<td>6,05</td>
 </tr>
 <tr>
 <td>13</td>
@@ -212,10 +213,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>8,42</td>
 <td>10,39</td>
 <td>12,02</td>
-<td>13,52</td>
-<td>13,52</td>
-<td>13,52</td>
-<td>13,52</td>
+<td colspan="2">13,52</td>
+<td>16,37</td>
+<td>16,37</td>
+<td>16,37</td>
 </tr>
 <tr>
 <td>14</td>
@@ -223,10 +224,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>7,80</td>
 <td>10,10</td>
 <td>12,68</td>
-<td>13,93</td>
-<td>13,93</td>
-<td>13,93</td>
-<td>13,93</td>
+<td colspan="2">13,93</td>
+<td>18,17</td>
+<td>18,17</td>
+<td>18,17</td>
 </tr>
 <tr>
 <td>15</td>
@@ -234,10 +235,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>8,20</td>
 <td>9,50</td>
 <td>10,70</td>
-<td>11,41</td>
-<td>11,41</td>
-<td>11,41</td>
-<td>11,41</td>
+<td colspan="2">11,41</td>
+<td>15,02</td>
+<td>15,02</td>
+<td>15,02</td>
 </tr>
 <tr>
 <td>16</td>
@@ -245,10 +246,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>7,57</td>
 <td>8,86</td>
 <td>10,53</td>
-<td>10,53</td>
-<td>10,53</td>
-<td>10,53</td>
-<td>10,53</td>
+<td colspan="2">10,53</td>
+<td>14,02</td>
+<td>14,02</td>
+<td>14,02</td>
 </tr>
 <tr>
 <td>17</td>
@@ -256,10 +257,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>10,20</td>
 <td>11,78</td>
 <td>11,97</td>
-<td>12,98</td>
-<td>12,98</td>
-<td>12,98</td>
-<td>12,98</td>
+<td colspan="2">12,98</td>
+<td>14,79</td>
+<td>14,79</td>
+<td>14,79</td>
 </tr>
 <tr>
 <td>18</td>
@@ -267,10 +268,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>8,00</td>
 <td>9,95</td>
 <td>11,66</td>
-<td>12,12</td>
-<td>12,12</td>
-<td>12,12</td>
-<td>12,12</td>
+<td colspan="2">12,12</td>
+<td>16,40</td>
+<td>16,40</td>
+<td>16,40</td>
 </tr>
 <tr>
 <td>19</td>
@@ -278,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>6,30</td>
 <td>6,30</td>
 <td>5,76</td>
-<td>6,36</td>
+<td colspan="2">6,36</td>
 <td>6,36</td>
 <td>6,36</td>
 <td>6,36</td>
@@ -289,10 +290,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>6,82</td>
 <td>8,48</td>
 <td>13,24</td>
-<td>14,49</td>
-<td>14,49</td>
-<td>14,49</td>
-<td>14,49</td>
+<td colspan="2">14,49</td>
+<td>16,20</td>
+<td>16,20</td>
+<td>16,20</td>
 </tr>
 <tr>
 <td>21</td>
@@ -300,10 +301,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>6,54</td>
 <td>8,10</td>
 <td>8,10</td>
-<td>8,86</td>
-<td>8,86</td>
-<td>8,86</td>
-<td>8,86</td>
+<td colspan="2">8,86</td>
+<td>10,61</td>
+<td>10,61</td>
+<td>10,61</td>
 </tr>
 <tr>
 <td>22</td>
@@ -311,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>7,30</td>
 <td>7,30</td>
 <td>7,07</td>
-<td>7,07</td>
+<td colspan="2">7,07</td>
 <td>7,07</td>
 <td>7,07</td>
 <td>7,07</td>
@@ -322,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>6,40</td>
 <td>8,67</td>
 <td>8,44</td>
-<td>8,44</td>
+<td colspan="2">8,44</td>
 <td>8,44</td>
 <td>8,44</td>
 <td>8,44</td>
@@ -333,7 +334,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>6,33</td>
 <td>7,61</td>
 <td>7,28</td>
-<td>7,28</td>
+<td colspan="2">7,28</td>
 <td>7,28</td>
 <td>7,28</td>
 <td>7,28</td>
@@ -344,7 +345,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>6,57</td>
 <td>9,47</td>
 <td>8,89</td>
-<td>9,82</td>
+<td colspan="2">9,82</td>
 <td>9,82</td>
 <td>9,82</td>
 <td>9,82</td>
@@ -355,10 +356,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>8,70</td>
 <td>10,30</td>
 <td>10,23</td>
-<td>11,19</td>
-<td>11,19</td>
-<td>11,19</td>
-<td>11,19</td>
+<td colspan="2">11,19</td>
+<td>14,02</td>
+<td>14,02</td>
+<td>14,02</td>
 </tr>
 <tr>
 <td>27</td>
@@ -366,10 +367,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>12,12</td>
 <td>13,10</td>
 <td>13,04</td>
-<td>14,87</td>
-<td>14,87</td>
-<td>14,87</td>
-<td>14,87</td>
+<td colspan="2">14,87</td>
+<td>18,68</td>
+<td>18,68</td>
+<td>18,68</td>
 </tr>
 <tr>
 <td>28</td>
@@ -377,7 +378,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>8,95</td>
 <td>10,02</td>
 <td>11,44</td>
-<td>11,44</td>
+<td colspan="2">11,44</td>
 <td>11,44</td>
 <td>11,44</td>
 <td>11,44</td>
@@ -388,10 +389,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>10,55</td>
 <td>11,81</td>
 <td>11,43</td>
-<td>11,97</td>
-<td>11,97</td>
-<td>11,97</td>
-<td>11,97</td>
+<td colspan="2">11,97</td>
+<td>13,10</td>
+<td>13,10</td>
+<td>13,10</td>
 </tr>
 <tr>
 <td>30</td>
@@ -399,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>7,60</td>
 <td>7,60</td>
 <td>7,60</td>
-<td>7,60</td>
+<td colspan="2">7,60</td>
 <td>7,60</td>
 <td>7,60</td>
 <td>7,60</td>
@@ -410,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>8,94</td>
 <td>10,40</td>
 <td>12,44</td>
-<td>12,44</td>
+<td colspan="2">12,44</td>
 <td>12,44</td>
 <td>12,44</td>
 <td>12,44</td>
@@ -421,7 +422,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>1,10</td>
 <td>1,10</td>
 <td>1,46</td>
-<td>1,46</td>
+<td colspan="2">1,46</td>
 <td>1,46</td>
 <td>1,46</td>
 <td>1,46</td>
@@ -432,10 +433,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>2,43</td>
 <td>3,44</td>
 <td>2,85</td>
-<td>3,20</td>
-<td>3,20</td>
-<td>3,20</td>
-<td>3,20</td>
+<td colspan="2">3,20</td>
+<td>3,67</td>
+<td>3,67</td>
+<td>3,67</td>
 </tr>
 <tr>
 <td>34</td>
@@ -443,10 +444,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>1,86</td>
 <td>2,59</td>
 <td>2,14</td>
-<td>2,40</td>
-<td>2,40</td>
-<td>2,40</td>
-<td>2,40</td>
+<td colspan="2">2,40</td>
+<td>3,14</td>
+<td>3,14</td>
+<td>3,14</td>
 </tr>
 <tr>
 <td>35</td>
@@ -454,7 +455,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>8,72</td>
 <td>8,10</td>
 <td>8,77</td>
-<td>9,82</td>
+<td colspan="2">9,82</td>
 <td>9,82</td>
 <td>9,82</td>
 <td>9,82</td>
@@ -465,10 +466,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>12,02</td>
 <td>12,02</td>
 <td>10,90</td>
-<td>11,71</td>
-<td>11,71</td>
-<td>11,71</td>
-<td>11,71</td>
+<td colspan="2">11,71</td>
+<td>12,77</td>
+<td>12,77</td>
+<td>12,77</td>
 </tr>
 <tr>
 <td>37</td>
@@ -476,7 +477,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>8,78</td>
 <td>10,80</td>
 <td>13,05</td>
-<td>13,05</td>
+<td colspan="2">13,05</td>
 <td>13,05</td>
 <td>13,05</td>
 <td>13,05</td>
@@ -487,7 +488,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>13,68</td>
 <td>15,46</td>
 <td>15,04</td>
-<td>15,04</td>
+<td colspan="2">15,04</td>
 <td>15,04</td>
 <td>15,04</td>
 <td>15,04</td>
@@ -498,7 +499,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>10,02</td>
 <td>11,30</td>
 <td>12,34</td>
-<td>12,34</td>
+<td colspan="2">12,34</td>
 <td>12,34</td>
 <td>12,34</td>
 <td>12,34</td>
@@ -509,7 +510,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>9,24</td>
 <td>11,30</td>
 <td>11,58</td>
-<td>11,58</td>
+<td colspan="2">11,58</td>
 <td>11,58</td>
 <td>11,58</td>
 <td>11,58</td>
@@ -520,10 +521,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>8,76</td>
 <td>8,76</td>
 <td>8,53</td>
-<td>8,53</td>
-<td>8,53</td>
-<td>8,53</td>
-<td>8,53</td>
+<td colspan="2">8,53</td>
+<td>12,15</td>
+<td>12,15</td>
+<td>12,15</td>
 </tr>
 <tr>
 <td>42</td>
@@ -531,7 +532,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>11,38</td>
 <td>12,78</td>
 <td>12,35</td>
-<td>12,35</td>
+<td colspan="2">12,35</td>
 <td>12,35</td>
 <td>12,35</td>
 <td>12,35</td>
@@ -542,7 +543,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>7,00</td>
 <td>7,00</td>
 <td>7,48</td>
-<td>7,48</td>
+<td colspan="2">7,48</td>
 <td>7,48</td>
 <td>7,48</td>
 <td>7,48</td>
@@ -553,10 +554,10 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>7,39</td>
 <td>7,39</td>
 <td>7,16</td>
-<td>8,05</td>
-<td>8,05</td>
-<td>8,05</td>
-<td>8,05</td>
+<td colspan="2">8,05</td>
+<td>19,25</td>
+<td>19,25</td>
+<td>19,25</td>
 </tr>
 <tr>
 <td>45</td>
@@ -564,7 +565,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>-</td>
 <td>12,10</td>
 <td>10,67</td>
-<td>10,67</td>
+<td colspan="2">10,67</td>
 <td>10,67</td>
 <td>10,67</td>
 <td>10,67</td>
@@ -575,7 +576,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>-</td>
 <td>-</td>
 <td>16,92</td>
-<td>16,92</td>
+<td colspan="2">16,92</td>
 <td>16,92</td>
 <td>16,92</td>
 <td>16,92</td>
@@ -586,7 +587,7 @@ source: https://zan.gov.kz/client/#!/doc/126965/rus/01.07.2022
 <td>-</td>
 <td>-</td>
 <td>10,17</td>
-<td>10,17</td>
+<td colspan="2">10,17</td>
 <td>10,17</td>
 <td>10,17</td>
 <td>10,17</td>
