@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/100196/kaz/31.01.2023
+source: https://zan.gov.kz/client/#!/doc/100196/kaz/13.06.2023
 ---
 
 > *Телекоммуникация*  
