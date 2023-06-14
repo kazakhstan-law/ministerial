@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87412/kaz/02.04.2021
+source: https://zan.gov.kz/client/#!/doc/87412/kaz/14.06.2023
 ---
 
 # Магистралдық газ құбырларын пайдалану қағидаларын бекіту туралы
