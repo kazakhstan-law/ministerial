@@ -1,10 +1,12 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
+source: https://zan.gov.kz/client/#!/doc/151398/kaz/23.06.2023
 ---
 
 # Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және (немесе) міндетті әлеуметтік медициналық сақтандыру жүйесінде денсаулық сақтау субъектілерінен медициналық қызметтерді сатып алу шарты талаптарының орындалу мониторингін жүргізу қағидаларын бекіту туралы
 
-«Халық денсаулығы және денсаулық сақтау жүйесі туралы» Қазақстан Республикасының 2020 жылғы 7 шілдедегі Кодексі 7-бабының 99) тармақшасына сәйкес БҰЙЫРАМЫН:
+«Халық денсаулығы және денсаулық сақтау жүйесі туралы» Қазақстан Республикасы Кодексінің 7-бабының 99) тармақшасына сәйкес БҰЙЫРАМЫН:
+
+> *Ескерту. Кіріспе жаңа редакцияда - ҚР Денсаулық сақтау министрінің 23.06.2023 № 118 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрығымен.*
 
 1. Қоса беріліп отырған Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және (немесе) міндетті әлеуметтік медициналық сақтандыру жүйесінде денсаулық сақтау субъектілерінен медициналық қызметтерді сатып алу шарты талаптарының орындалу мониторингін жүргізу қағидалары бекітілсін.
 
@@ -375,39 +377,33 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 
 76. Өлім жағдайының мониторингі бойынша қорытындымен келіспеген жағдайда, қызмет беруші қорытынды ұсынылған күннен бастап бес жұмыс күні ішінде қордың филиалына ескертулер және (немесе) қарсылықтар жібереді.
 
-> *Тегін медициналық көмектің*  
-> *кепілдік берілген көлемі*  
-> *шеңберінде және (немесе)*  
-> *міндетті әлеуметтік*  
-> *медициналық сақтандыру*  
-> *жүйесінде денсаулық сақтау*  
-> *субъектілерінен медициналық*  
-> *қызметтерді сатып алу шарты*  
-> *талаптарының орындалу*  
-> *мониторингін жүргізу*  
-> *қағидаларына*  
+> *Тегін медициналық көмектің кепілдік берілген көлемі шеңберінде және (немесе) міндетті әлеуметтік медициналық сақтандыру жүйесінде денсаулық сақтау субъектілерінен медициналық қызметтерді сатып алу шарты талаптарының орындалу мониторингін жүргізу қағидаларына*  
 > *1-қосымша*
 
-## Ақаулардың бірыңғай жіктеуіші
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Денсаулық сақтау министрінің 23.06.2023 № 118 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрығымен.*
+
+Ақаулардың бірыңғай жіктеуіші
 
 <table>
 <tr>
 <td rowspan="2">№ р/с</td>
 <td rowspan="2">Ақау коды</td>
 <td rowspan="2">Ақау атауы</td>
-<td colspan="4">Амбулаториялық-емханалық көмек</td>
+<td colspan="3">Амбулаториялық-емханалық көмек</td>
 <td rowspan="2">Стационарлық және стационарды алмастыратын жағдайларда медициналық көмек (емделіп шығу жағдайының құнынан)</td>
+<td></td>
 <td rowspan="2">Жедел медициналық көмек (1-3 санат) (айына 1 адамға жедел жәрдем базалық жан басына шаққандағы норматив еселігінде</td>
 <td rowspan="2">Ауыл халқына медициналық көмек (айына 1 ауыл тұрғынына базалық кешенді жан басына шаққандағы норматив еселігінде (БХТЖ))</td>
-<td colspan="3">Медициналық-әлеуметтік көмек</td>
+<td colspan="4">Медициналық-әлеуметтік көмек</td>
 <td rowspan="2">Патологоанатомиялық диагностика (қызмет құнынан)</td>
 <td rowspan="2">Қан мен оның компоненттерін дайындау, қайта өңдеу, сақтау және өткізу, қызмет құнынан қан препараттарын өндіру жөніндегі қызметтер</td>
 </tr>
 <tr>
-<td colspan="2">базалық кешенді жан басына шаққандағы норматив бойынша (айына 1 адамға арналған базалық кешенді жан басына шаққандағы норматив еселігінде (БКЖН)</td>
+<td>базалық кешенді жан басына шаққандағы норматив бойынша (айына 1 адамға арналған базалық кешенді жан басына шаққандағы норматив еселігінде (БКЖН)</td>
 <td colspan="2">кешенді жан басына шаққандағы норматив бойынша төлеу кезінде ескерілмейтін шығындар (қызмет құнынан)</td>
+<td></td>
 <td>Психикасының және мінез-құлқының бұзылулары (аурулары) бар адамдарға (кешенді тарифтің (КТ) еселігі)</td>
-<td>Туберкулезбен ауыратындарға (кешенді тарифтің (КТ) еселігі)</td>
+<td colspan="2">Туберкулезбен ауыратындарға (кешенді тарифтің (КТ) еселігі)</td>
 <td>АИТВ-инфекциясын жұқтырғандарға</td>
 </tr>
 <tr>
@@ -417,10 +413,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>4</td>
 <td colspan="2">5</td>
 <td>6</td>
-<td colspan="2">7</td>
+<td></td>
+<td>7</td>
 <td>8</td>
 <td>9</td>
-<td>10</td>
+<td colspan="2">10</td>
 <td>11</td>
 <td>12</td>
 <td>13</td>
@@ -432,10 +429,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>30 ЖБШКН</td>
 <td colspan="2">-</td>
 <td>100%</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>30 ЖБШКН</td>
 <td>5 КТ</td>
-<td>1КТ</td>
+<td colspan="2">1КТ</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -447,10 +445,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">-</td>
 <td>+</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>+</td>
 <td>+</td>
-<td>+</td>
+<td colspan="2">+</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -462,10 +461,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>-</td>
 <td colspan="2">+</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>+</td>
-<td>+</td>
+<td colspan="2">+</td>
 <td>+</td>
 <td>+</td>
 <td>+</td>
@@ -477,10 +477,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>+</td>
 <td>+</td>
-<td>+</td>
+<td colspan="2">+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -492,10 +493,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>0</td>
 <td colspan="2">0</td>
 <td>0</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 <td colspan="2">0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -507,10 +509,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>+</td>
 <td>+</td>
@@ -522,10 +525,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>+</td>
 <td>+</td>
@@ -537,10 +541,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>+</td>
 <td>+</td>
@@ -552,10 +557,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>-</td>
 <td colspan="2">100%</td>
 <td>50%</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>3 КТ</td>
-<td>0,5 КТ</td>
+<td colspan="2">0,5 КТ</td>
 <td>-</td>
 <td>100%</td>
 <td>100%</td>
@@ -567,10 +573,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>-</td>
 <td colspan="2">+</td>
 <td>+</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>+</td>
-<td>+</td>
+<td colspan="2">+</td>
 <td>-</td>
 <td>+</td>
 <td>+</td>
@@ -582,10 +589,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>-</td>
 <td colspan="2">+</td>
 <td>+</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>-</td>
 <td>+</td>
-<td>+</td>
+<td colspan="2">+</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -597,10 +605,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>-</td>
 <td colspan="2">-</td>
 <td>+</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td colspan="2">-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -608,14 +617,18 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <tr>
 <td>17.</td>
 <td>4.0</td>
-<td>Негізсіз қайта емдеуге жатқызу (стационарда емдеу аяқталған күннен бастап күнтізбелік 30 күн)</td>
+<td>
+Негізсіз қайта емдеуге жатқызу (стационарда емдеу аяқталған күннен бастап күнтізбелік 30 күн)
+паллиативтік медициналық көмек көрсететін өнім берушілерден басқа
+</td>
 <td>-</td>
 <td colspan="2">-</td>
 <td>100%</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>15 ЖБШКН</td>
 <td>2 КТ</td>
-<td>1 КТ</td>
+<td colspan="2">1 КТ</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -627,10 +640,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>30 ЖБШКН</td>
 <td colspan="2">300%</td>
 <td>300%</td>
-<td colspan="2">30 БХС</td>
+<td></td>
+<td>30 БХС</td>
 <td>30 ЖБШКН</td>
 <td>3 КТ</td>
-<td>3 КТ</td>
+<td colspan="2">3 КТ</td>
 <td>1 КТ</td>
 <td>300%</td>
 <td>300%</td>
@@ -642,10 +656,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>-</td>
 <td colspan="2">-</td>
 <td>+</td>
-<td colspan="2">+</td>
+<td></td>
+<td>+</td>
 <td>-</td>
 <td>+</td>
-<td>+</td>
+<td colspan="2">+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -657,10 +672,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>-</td>
 <td colspan="2">+</td>
 <td>+</td>
-<td colspan="2">+</td>
+<td></td>
+<td>+</td>
 <td>-</td>
 <td>+</td>
-<td>+</td>
+<td colspan="2">+</td>
 <td>+</td>
 <td>+</td>
 <td>+</td>
@@ -672,10 +688,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">-</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -687,10 +704,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>+</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -702,10 +720,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>+</td>
 <td>+</td>
-<td>+</td>
+<td colspan="2">+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -717,10 +736,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>15 ЖБШКН</td>
 <td colspan="2">30%</td>
 <td>30%</td>
-<td colspan="2">10 БХС</td>
+<td></td>
+<td>10 БХС</td>
 <td>15 ЖБШКН</td>
 <td>3 КТ</td>
-<td>0,3 КТ</td>
+<td colspan="2">0,3 КТ</td>
 <td>1 КТ</td>
 <td>-</td>
 <td>50%</td>
@@ -732,10 +752,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -747,10 +768,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -762,10 +784,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -777,10 +800,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -792,10 +816,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>+</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -807,10 +832,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>+</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -825,10 +851,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>+</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -840,10 +867,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -855,10 +883,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>+</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -870,10 +899,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -885,10 +915,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">-</td>
 <td>-</td>
-<td colspan="2">+</td>
+<td></td>
+<td>+</td>
 <td>+</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -900,10 +931,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">-</td>
 <td>-</td>
-<td colspan="2">+</td>
+<td></td>
+<td>+</td>
 <td>-</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -915,10 +947,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>-</td>
 <td colspan="2">-</td>
 <td>-</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td colspan="2">-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
 <td>-</td>
 <td>+</td>
 <td>-</td>
@@ -930,10 +963,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -945,10 +979,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>5 ЖБШКН</td>
 <td colspan="2">30%</td>
 <td>-</td>
-<td colspan="2">15 БХС</td>
+<td></td>
+<td>15 БХС</td>
 <td>5 ЖБШКН</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -960,10 +995,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>+</td>
 <td>-</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -975,10 +1011,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>30 ЖБШКН</td>
 <td colspan="2">100%</td>
 <td>100%</td>
-<td colspan="2">25 БХС</td>
+<td></td>
+<td>25 БХС</td>
 <td>30 ЖБШКН</td>
 <td>10 КТ</td>
-<td>1КТ</td>
+<td colspan="2">1КТ</td>
 <td>1 КТ</td>
 <td>-</td>
 <td>-</td>
@@ -990,10 +1027,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>+</td>
 <td>-</td>
@@ -1005,10 +1043,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>+</td>
 <td colspan="2">+</td>
 <td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
 <td colspan="2">+</td>
-<td>+</td>
-<td>+</td>
-<td>+</td>
 <td>+</td>
 <td>-</td>
 <td>-</td>
@@ -1020,10 +1059,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>50 ЖБШКН</td>
 <td colspan="2">-</td>
 <td>100%</td>
-<td colspan="2">100 БХС</td>
+<td></td>
+<td>100 БХС</td>
 <td>50 ЖБШКН</td>
 <td>6 КТ</td>
-<td>1 КТ</td>
+<td colspan="2">1 КТ</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -1035,10 +1075,11 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>-</td>
 <td colspan="2">-</td>
 <td>50%</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>20 ЖБШКН</td>
 <td>3 КТ</td>
-<td>0,5 КТ</td>
+<td colspan="2">0,5 КТ</td>
 <td>-</td>
 <td>50%</td>
 <td>-</td>
@@ -1047,8 +1088,9 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>49.</td>
 <td>11.0</td>
 <td>ТМККК / МӘМС кіретін медициналық көмек көрсету кезінде дәрілік заттарды, медициналық бұйымдарды және пациенттің ақшалай қаражатын тарту</td>
-<td colspan="6">Өнім берушіден пациентке соманы қайтару туралы хабарламамен құжатпен расталған шығындар сомасына алу</td>
-<td colspan="6">Өнім берушіден пациентке соманы қайтару туралы хабарламамен құжатпен расталған шығындар сомасына алу</td>
+<td colspan="2"></td>
+<td colspan="4">Өнім берушіден пациентке соманы қайтару туралы хабарламамен құжатпен расталған шығындар сомасына алу</td>
+<td colspan="7">Өнім берушіден пациентке соманы қайтару туралы хабарламамен құжатпен расталған шығындар сомасына алу</td>
 </tr>
 <tr>
 <td>50.</td>
@@ -1057,11 +1099,12 @@ source: https://zan.gov.kz/client/#!/doc/151398/kaz/29.09.2022
 <td>-</td>
 <td colspan="2">-</td>
 <td>100%</td>
-<td colspan="2">-</td>
+<td></td>
+<td>-</td>
 <td>20 ЖБШКН</td>
 <td>3 КТ</td>
 <td>0,5 КТ</td>
-<td>-</td>
+<td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
 </tr>
