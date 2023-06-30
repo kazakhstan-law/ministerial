@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/35107/rus/09.09.2021
+repealed_on: 2023-07-01
+repealed_by:
+  code: '183567'
+  title: «Об утверждении форм кадастрового паспорта объекта недвижимости»
+  link: https://zan.gov.kz/client/#!/doc/183567/rus
 ---
 
 # Об утверждении форм технического паспорта
