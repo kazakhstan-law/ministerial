@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85928/rus/20.03.2023
+source: https://zan.gov.kz/client/#!/doc/85928/rus/01.07.2023
 ---
 
 ## Параграф 4. Оформление и предоставление заявки на регистрацию гражданско-правовой сделки
