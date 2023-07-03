@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/99865/kaz/07.06.2022
+source: https://zan.gov.kz/client/#!/doc/99865/kaz/03.07.2023
 ---
 
 ## Негізгі орта білім беру ұйымдарын жабдықтармен және жиһазбен жабдықтау нормалары
