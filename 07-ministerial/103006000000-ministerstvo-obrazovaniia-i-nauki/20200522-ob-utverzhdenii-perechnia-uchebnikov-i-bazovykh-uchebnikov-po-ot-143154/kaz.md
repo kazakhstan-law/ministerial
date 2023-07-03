@@ -1,5 +1,5 @@
 ---
-version_id: '143154_636790'
+version_id: '143154_643045'
 act_code: '143154'
 language: kaz
 title: Орта білім беру ұйымдарына арналған жекелеген пәндер бойынша оқулықтар мен базалық оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесін бекіту туралы
@@ -11,20 +11,22 @@ type_codes:
 approved_by:
 - '103006000000'
 approval_date: 2020-05-22
-version_date: 2023-05-22
+version_date: 2023-07-03
 registry_number: '143154'
 caused_by:
-  code: '181834'
-  title: «Орта білім беру ұйымдарына арналған оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесін бекіту туралы» Қазақстан Республикасы Білім және ғылым министрінің 2020 жылғы 22 мамырдағы № 216 бұйрығына өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/181834/kaz
-source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
+  code: '183745'
+  title: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/183745/kaz
+source: https://zan.gov.kz/client/#!/doc/143154/kaz/03.07.2023
 ---
 
 # Орта білім беру ұйымдарына арналған оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесін бекіту туралы
 
 > *Ескерту. Тақырыбы жаңа редакцияда - ҚР Білім және ғылым министрінің 23.04.2021 № 179 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрығымен.*
 
-«Білім туралы» 2007 жылғы 27 шілдедегі Қазақстан Республикасы Заңының 5-бабының 27-1) тармақшасына сәйкес БҰЙЫРАМЫН:
+«Білім туралы» Қазақстан Республикасы Заңының 5-бабының 67) тармақшасына сәйкес БҰЙЫРАМЫН:
+
+> *Ескерту. Кіріспе жаңа редакцияда - ҚР Оқу-ағарту министрінің 03.07.2023 № 194 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
 
 1. Орта білім беру ұйымдарына арналған оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесі осы бұйрыққа 1-қосымшаға сәйкес бекітілсін.
 
@@ -56,24 +58,24 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 
 ## Орта білім беру ұйымдарына арналған оқулықтардың, мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған оқу-әдістемелік кешендердің, оның ішінде электрондық нысандағы тізбесі
 
-> *Ескерту. Тізбеге өзгерістер енгізілді - ҚР Білім және ғылым министрінің 08.09.2020 № 389 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің 23.04.2021 № 179 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 10.06.2021 № 286 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің м.а. 25.08.2021 № 428 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); ҚР Оқу-ағарту министрінің 21.06.2022 № 291 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 23.08.2022 № 376 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); ҚР Оқу-ағарту министрінің м.а. 22.05.2023 № 140 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. Тізбеге өзгерістер енгізілді - ҚР Білім және ғылым министрінің 08.09.2020 № 389 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің 23.04.2021 № 179 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 10.06.2021 № 286 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); жаңа редакцияда - ҚР Білім және ғылым министрінің м.а. 25.08.2021 № 428 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); ҚР Оқу-ағарту министрінің 21.06.2022 № 291 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 23.08.2022 № 376 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); ҚР Оқу-ағарту министрінің м.а. 22.05.2023 № 140 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); ҚР Оқу-ағарту министрінің 03.07.2023 № 194 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
 
 <table>
 <tr>
-<th>№</th>
-<th colspan="3">Басылымның атауы</th>
-<th>Автор(лар)</th>
-<th>Шыққан жылы</th>
-<th colspan="2">Баспа</th>
+<td>№</td>
+<td colspan="3">Басылымның атауы</td>
+<td>Автор(лар)</td>
+<td>Шыққан жылы</td>
+<td colspan="2">Баспа</td>
 </tr>
 <tr>
-<th colspan="8">Орта білім беру ұйымдарына арналған 1-11-сыныптарының оқулықтары</th>
+<td colspan="8">Орта білім беру ұйымдарына арналған 1-11-сыныптарының оқулықтары</td>
 </tr>
 <tr>
-<th colspan="8">оқыту қазақ тілінде</th>
+<td colspan="8">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<th colspan="8">1-сынып</th>
+<td colspan="8">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -104,7 +106,8 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 <td>3.</td>
 <td colspan="3">Русский язык (для школ с нерусским языком обучения). Учебник 1, 2 часть+Аудиодиск 1, 2 часть</td>
 <td>
-Кадралиева А., Рахметова Т.,
+Кадралиева А.,
+Рахметова Т.,
 Ыбышева А.
 </td>
 <td>2021</td>
@@ -180,7 +183,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="8">2-сынып</th>
+<td colspan="8">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -245,7 +248,8 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 Учебник
 </td>
 <td>
-Калашникова Т., Карпыкова Г.,
+Калашникова Т.,
+Карпыкова Г.,
 Беспалова Р.,
 Сарсенбекова А.
 </td>
@@ -289,7 +293,8 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 </td>
 <td>
 Р. Қадырқұлов,
-Г. Нұрмұханбетова, У. Ғайыпбаева.
+Г. Нұрмұханбетова,
+У. Ғайыпбаева.
 </td>
 <td>2022</td>
 <td colspan="2">Алматыкітап баспасы</td>
@@ -472,7 +477,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="8">3-сынып</th>
+<td colspan="8">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -612,7 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="8">4-сынып</th>
+<td colspan="8">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -753,7 +758,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="8">5-сынып</th>
+<td colspan="8">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -910,7 +915,8 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 Оқулық
 </td>
 <td>
-С.Мұхамбетжанова, А. Тен,
+С.Мұхамбетжанова,
+А. Тен,
 М. Ерғали
 </td>
 <td>2020</td>
@@ -1069,7 +1075,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="8">6-сынып</th>
+<td colspan="8">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -1449,7 +1455,7 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 <td colspan="2">Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<th colspan="8">7-сынып</th>
+<td colspan="8">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -1624,7 +1630,8 @@ source: https://zan.gov.kz/client/#!/doc/143154/kaz/22.05.2023
 <td>14.</td>
 <td colspan="3">Информатика. Оқулық</td>
 <td>
-С.Мухамбетжанова, А. Тен,
+С.Мухамбетжанова,
+А. Тен,
 Л. Демидова
 </td>
 <td>2021</td>
@@ -1866,7 +1873,7 @@ Biology. Grade 7.
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="8">8-сынып</th>
+<td colspan="8">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -2367,7 +2374,7 @@ Chemistry.
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="8">9-сынып</th>
+<td colspan="8">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -2608,7 +2615,8 @@ Chemistry.
 Оқулық
 </td>
 <td>
-С.Мұхамбетжанова, А. Тен.,
+С.Мұхамбетжанова,
+А. Тен.,
 Н. Голикова
 </td>
 <td>2019</td>
@@ -2960,10 +2968,10 @@ Biology.
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="8">10-сынып</th>
+<td colspan="8">10-сынып</td>
 </tr>
 <tr>
-<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -3248,7 +3256,7 @@ Biology.
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="8">жаратылыстану-математикалық бағыт</th>
+<td colspan="8">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -3559,7 +3567,7 @@ Biology.
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
+<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -3666,10 +3674,10 @@ Biology.
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="8">11-сынып</th>
+<td colspan="8">11-сынып</td>
 </tr>
 <tr>
-<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -3992,7 +4000,7 @@ Biology.
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="8">жаратылыстану-математикалық бағыт</th>
+<td colspan="8">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -4337,7 +4345,7 @@ Biology.
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
+<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -4456,10 +4464,10 @@ Biology.
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="8">оқыту орыс тілінде</th>
+<td colspan="8">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<th colspan="8">1-сынып</th>
+<td colspan="8">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -4479,8 +4487,10 @@ Biology.
 <td colspan="3">Обучение грамоте. Учебник</td>
 <td>
 Аймагамбетова М.,
-Богатырева Е. В., Бучина Р. А.,
-Регель Н. В., Труханова О. И.
+Богатырева Е. В.,
+Бучина Р. А.,
+Регель Н. В.,
+Труханова О. И.
 </td>
 <td>2021</td>
 <td colspan="2">Алматыкітап баспасы</td>
@@ -4504,7 +4514,9 @@ Biology.
 <td colspan="3">Математика. Учебник 1, 2 часть</td>
 <td>
 Акпаева А.,
-Лебедева Л., Мынжасарова М., Лихобабенко Т.
+Лебедева Л.,
+Мынжасарова М.,
+Лихобабенко Т.
 </td>
 <td>2021</td>
 <td colspan="2">Алматыкітап баспасы</td>
@@ -4516,7 +4528,8 @@ Biology.
 Учебник+ СD
 </td>
 <td>
-Сагимбаева А., Ермухамбетова М.,
+Сагимбаева А.,
+Ермухамбетова М.,
 Бидайбеков Е.
 </td>
 <td>2021</td>
@@ -4529,7 +4542,8 @@ Biology.
 Учебник
 </td>
 <td>
-Кучербаева С., Темникова И.,
+Кучербаева С.,
+Темникова И.,
 Ташенова Г.
 </td>
 <td>2021</td>
@@ -4579,7 +4593,7 @@ Biology.
 <td colspan="2">Назарбаев Зияткерлік мектептері</td>
 </tr>
 <tr>
-<th colspan="8">2-сынып</th>
+<td colspan="8">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -4665,8 +4679,11 @@ Biology.
 Учебник часть 1, 2
 </td>
 <td>
-Аймагамбетова М., Богатырёва Е., Бучина Р.,
-Регель Н., Труханова О.
+Аймагамбетова М.,
+Богатырёва Е.,
+Бучина Р.,
+Регель Н.,
+Труханова О.
 </td>
 <td>2022</td>
 <td colspan="2">Алматыкітап баспасы</td>
@@ -4702,7 +4719,9 @@ Biology.
 </td>
 <td>
 Оспанов Т.,
-Астамбаева Ж., Мергенбаева Н., Козленко А.
+Астамбаева Ж.,
+Мергенбаева Н.,
+Козленко А.
 </td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
@@ -4713,7 +4732,12 @@ Biology.
 Цифровая грамотность.
 Учебник
 </td>
-<td>Кобдикова Ж., Копеева Г., Каптагаева А., Юсупова А.</td>
+<td>
+Кобдикова Ж.,
+Копеева Г.,
+Каптагаева А.,
+Юсупова А.
+</td>
 <td>2022</td>
 <td colspan="2">Арман-ПВ</td>
 </tr>
@@ -4724,7 +4748,8 @@ Biology.
 Учебник
 </td>
 <td>
-Кадиркулов Р.А., Нурмуханбетова Г.К.,
+Кадиркулов Р.А.,
+Нурмуханбетова Г.К.,
 Гаипбаева У.А.
 </td>
 <td>2022</td>
@@ -4733,7 +4758,12 @@ Biology.
 <tr>
 <td>12.</td>
 <td colspan="3">Цифровая грамотность. Учебник</td>
-<td>Исабаева Д., Назарбекова А., Зординова П., Аубекова М.</td>
+<td>
+Исабаева Д.,
+Назарбекова А.,
+Зординова П.,
+Аубекова М.
+</td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -4743,7 +4773,11 @@ Biology.
 Естествознание.
 Учебник
 </td>
-<td>Кучербаева С., Темникова И., Ташенова Г.</td>
+<td>
+Кучербаева С.,
+Темникова И.,
+Ташенова Г.
+</td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -4751,7 +4785,10 @@ Biology.
 <td>14.</td>
 <td colspan="3">Естествознание. Учебник</td>
 <td>
-Суюндикова Ж., Зворыгина В., Болтушенко Н., Помогайко Т.,
+Суюндикова Ж.,
+Зворыгина В.,
+Болтушенко Н.,
+Помогайко Т.,
 Лауто О.,
 Яндулова Т.
 </td>
@@ -4796,7 +4833,8 @@ Biology.
 Учебник
 </td>
 <td>
-Толыбекова Ш., Головина Г.,
+Толыбекова Ш.,
+Головина Г.,
 Дюжикова М.,
 Золотарeва В.
 </td>
@@ -4820,14 +4858,23 @@ Biology.
 <tr>
 <td>19.</td>
 <td colspan="3">Познание мира.Учебник</td>
-<td>Зворыгина В., Болтушенко Н., Суюндикова Ж., Яндулова Т.</td>
+<td>
+Зворыгина В.,
+Болтушенко Н.,
+Суюндикова Ж.,
+Яндулова Т.
+</td>
 <td>2022</td>
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
 <td>20.</td>
 <td colspan="3">Художественный труд. Учебник</td>
-<td>Королькова Н., Жолдасбекова С., Мадиева Д.</td>
+<td>
+Королькова Н.,
+Жолдасбекова С.,
+Мадиева Д.
+</td>
 <td>2022</td>
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
@@ -4835,7 +4882,8 @@ Biology.
 <td>21.</td>
 <td colspan="3">Художественный труд. Учебник</td>
 <td>
-Ермилова Е., Попкова С.,
+Ермилова Е.,
+Попкова С.,
 Козина С.
 </td>
 <td>2022</td>
@@ -4844,7 +4892,11 @@ Biology.
 <tr>
 <td>22.</td>
 <td colspan="3">Художественный труд. Учебник</td>
-<td>Н. Раупова, А. Тулебиев, А. Бочкарев</td>
+<td>
+Н. Раупова,
+А. Тулебиев,
+А. Бочкарев
+</td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -4882,13 +4934,14 @@ Biology.
 <td>
 Ажгереева К.,
 Дрозд Н.,
-Кайдарова А., Оспанова А.
+Кайдарова А.,
+Оспанова А.
 </td>
 <td>2022</td>
 <td colspan="2">АОО «Назарбаев Интеллектуальные школы»</td>
 </tr>
 <tr>
-<th colspan="8">3-сынып</th>
+<td colspan="8">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -4964,7 +5017,8 @@ Biology.
 Учебник+СD.
 </td>
 <td>
-Кадиркулов Р., Рыскулбекова А.
+Кадиркулов Р.,
+Рыскулбекова А.
 Беристемова Н.
 </td>
 <td>2021</td>
@@ -5027,7 +5081,7 @@ Biology.
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="8">4-сынып</th>
+<td colspan="8">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -5166,7 +5220,7 @@ Biology.
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="8">5-сынып</th>
+<td colspan="8">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -5296,7 +5350,8 @@ Biology.
 Учебник
 </td>
 <td>
-С.Мухамбетжанова Тен А.,
+С.Мухамбетжанова
+Тен А.,
 Ергали М.
 </td>
 <td>2020</td>
@@ -5482,7 +5537,7 @@ Biology.
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="8">6-сынып</th>
+<td colspan="8">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -5810,7 +5865,7 @@ Biology.
 <td colspan="2">Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<th colspan="8">7-сынып</th>
+<td colspan="8">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -6137,7 +6192,11 @@ Chemistry Grade 7
 <tr>
 <td>25.</td>
 <td colspan="3">История Казахстана. Учебник 8(7)</td>
-<td>З. Кабульдинов, Ж.Калиев, А.Бейсембаева</td>
+<td>
+З. Кабульдинов,
+Ж.Калиев,
+А.Бейсембаева
+</td>
 <td>2018</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -6218,7 +6277,7 @@ Chemistry Grade 7
 <td colspan="2">АОО «Назарбаев интеллектуальные школы»</td>
 </tr>
 <tr>
-<th colspan="8">8-сынып</th>
+<td colspan="8">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -6405,7 +6464,8 @@ Chemistry Grade 7
 <td>14.</td>
 <td colspan="3">Информатика. Учебник +СD</td>
 <td>
-Салгараева Г., Бекежанова А.,
+Салгараева Г.,
+Бекежанова А.,
 Базаева Ж.
 </td>
 <td>2021</td>
@@ -6523,7 +6583,8 @@ Chemistry Grade 7
 <td colspan="3">История Казахстана. Учебник 9(8), (начало ХХ века – 1945 г.)</td>
 <td>
 Кабульдинов З.,
-Шаймерденова М., Куркеев Е.
+Шаймерденова М.,
+Куркеев Е.
 </td>
 <td>2019</td>
 <td colspan="2">Атамұра</td>
@@ -6657,7 +6718,7 @@ Chemistry.
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="8">9-сынып</th>
+<td colspan="8">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -6869,7 +6930,10 @@ Chemistry.
 Информатика.
 Учебник + CD
 </td>
-<td>Кадиркулов Р., Нурмуханбетова Г.</td>
+<td>
+Кадиркулов Р.,
+Нурмуханбетова Г.
+</td>
 <td>2019</td>
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
@@ -7193,10 +7257,10 @@ Chemistry.
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="8">10-сынып</th>
+<td colspan="8">10-сынып</td>
 </tr>
 <tr>
-<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -7425,7 +7489,7 @@ Chemistry.
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="8">жаратылыстану-математикалық бағыт</th>
+<td colspan="8">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -7542,7 +7606,10 @@ Chemistry.
 <tr>
 <td>9.</td>
 <td colspan="3">Информатика. Учебник.</td>
-<td>Кадиркулов Р., Нурмуханбетова Г.</td>
+<td>
+Кадиркулов Р.,
+Нурмуханбетова Г.
+</td>
 <td>2019</td>
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
@@ -7611,7 +7678,10 @@ Chemistry.
 География.
 Учебник
 </td>
-<td>Каймулдинова К., Абилмажинова С.</td>
+<td>
+Каймулдинова К.,
+Абилмажинова С.
+</td>
 <td>2019</td>
 <td colspan="2">Мектеп</td>
 </tr>
@@ -7705,7 +7775,7 @@ Chemistry.
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
+<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -7821,10 +7891,10 @@ Chemistry.
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="8">11-сынып</th>
+<td colspan="8">11-сынып</td>
 </tr>
 <tr>
-<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -8116,7 +8186,7 @@ Chemistry.
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="8">жаратылыстану-математикалық бағыт</th>
+<td colspan="8">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -8452,7 +8522,7 @@ Chemistry.
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
+<td colspan="8">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -8571,16 +8641,16 @@ Chemistry.
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="8">
+<td colspan="8">
 Абайтану.
 5-11-сыныптар
-</th>
+</td>
 </tr>
 <tr>
-<th colspan="8">оқыту қазақ тілінде</th>
+<td colspan="8">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<th colspan="8">5-сынып</th>
+<td colspan="8">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -8606,7 +8676,7 @@ Chemistry.
 <td colspan="2">Әл-Наир баспасы</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -8633,7 +8703,7 @@ Chemistry.
 <td colspan="2">Әл-Наир баспасы</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -8660,7 +8730,7 @@ Chemistry.
 <td colspan="2">Әл-Наир баспасы</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -8686,7 +8756,7 @@ Chemistry.
 <td colspan="2">Әл-Наир баспасы</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -8712,7 +8782,7 @@ Chemistry.
 <td colspan="2">Әл-Наир баспасы</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -8738,7 +8808,7 @@ Chemistry.
 <td colspan="2">Әл-Наир баспасы</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -8764,7 +8834,7 @@ Chemistry.
 <td colspan="2">Әл-Наир баспасы</td>
 </tr>
 <tr>
-<th colspan="9">Өлкетану</th>
+<td colspan="9">Өлкетану</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -8889,7 +8959,8 @@ Chemistry.
 <td>
 С. Мұқашева,
 А. Қиныбаева,
-Ж. Ташетованың жалпы редакциясымен. Құрастырғандар:
+Ж. Ташетованың жалпы редакциясымен.
+Құрастырғандар:
 И. Михалькова,
 И. Кривоносова,
 М. Испамбетов,
@@ -9078,7 +9149,7 @@ Chemistry.
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">оқыту орыс тілінде</th>
+<td colspan="9">оқыту орыс тілінде</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -9308,7 +9379,7 @@ Chemistry.
 </tr>
 <tr>
 <td>13.</td>
-<td colspan="3">Краеведение. Южно-Казахстанский регион (Туркестанская область и город Шымкент) 5,6,7 классы</td>
+<td colspan="3">Краеведение. Южно-Казахстанский регион (Туркестанская область и город Шымкент) 5, 6, 7 классы</td>
 <td>
 Шыныбекулы О.,
 Бейсетаева Б.,
@@ -9319,13 +9390,13 @@ Chemistry.
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ және орыс тілдерінде</th>
+<td colspan="9">оқыту қазақ және орыс тілдерінде</td>
 </tr>
 <tr>
-<th colspan="9">Ағылшын тіліндегі оқулықтар</th>
+<td colspan="9">Ағылшын тіліндегі оқулықтар</td>
 </tr>
 <tr>
-<th colspan="9">7- сынып</th>
+<td colspan="9">7- сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -9426,19 +9497,19 @@ Madiyar Meiramov
 <td>7.</td>
 <td colspan="3">Biology 7, textbook</td>
 <td>
-A.​Sag​inta​yev,
-B.​Ermetov,
-B.​Kenci,
-N.​Karimova,
+A.Sagintayev,
+B.Ermetov,
+B.Kenci,
+N.Karimova,
 T. Zhigitbayev,
-K.​Zha​nass​ova,
+K.Zhanassova,
 B. Ayash
 </td>
 <td>2023</td>
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="9">8- сынып</th>
+<td colspan="9">8- сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -9586,7 +9657,7 @@ Textbook
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="9">9- сынып</th>
+<td colspan="9">9- сынып</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -9695,7 +9766,7 @@ Physics.
 Textbook
 </td>
 <td>
-N. Tashev, N.​Sho​koba​lino​v,
+N. Tashev, N.Shokobalinov,
 Y. Duiseyev,
 A. Karabatyrov,
 A. Baieshov,
@@ -9743,7 +9814,7 @@ A. Jilkaidarova
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -9831,7 +9902,7 @@ Y. Shaniyev
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -9883,7 +9954,7 @@ Olga Polueva
 <td colspan="2">Express Publishing</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -9935,7 +10006,7 @@ Olga Polueva
 <td colspan="2">Express Publishing</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10007,10 +10078,10 @@ Darkhan Alimzhanov
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="9">Неміс тілі</th>
+<td colspan="9">Неміс тілі</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10027,11 +10098,11 @@ Beibytnur Shumabekova
 <td colspan="2">«Көкжиек-Горизонт (Ernst Klett Sprachen материалдары негізінде)»</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Deutsch 2.​Klasse Schülerbuch Teil 1, 2</td>
+<td colspan="3">Deutsch 2.Klasse Schülerbuch Teil 1, 2</td>
 <td>
 Diana Kabenova,
 Asina Ospanova
@@ -10040,21 +10111,21 @@ Asina Ospanova
 <td colspan="2">NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Deutsch 4.​Klasse Schülerbuch Teil 1, 2</td>
+<td colspan="3">Deutsch 4.Klasse Schülerbuch Teil 1, 2</td>
 <td>Kristina Samosledova, Anastasia Potemkina, Kulasch Schubakova</td>
 <td>2021</td>
 <td colspan="2">NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Deutsch 5.​Klasse Schülerbuch Teil 1, 2</td>
+<td colspan="3">Deutsch 5.Klasse Schülerbuch Teil 1, 2</td>
 <td>Aigul Bishkenova, Kulshanat Bulatbayeva, Assemgul Magsam, Ulshan Abdrachimova</td>
 <td>2021</td>
 <td colspan="2">NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
@@ -10077,11 +10148,11 @@ Margarita Svettsova
 <td colspan="2">Hueber Verlag (InterPress Distribution)</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Deutsch 6.​Klasse Schülerbuch Teil 1, 2</td>
+<td colspan="3">Deutsch 6.Klasse Schülerbuch Teil 1, 2</td>
 <td>
 Aigul Bishkenova, Kulshanat Bulatbayeva, Sagyngul Schakenova,
 Gulmira Arystankulova
@@ -10105,7 +10176,7 @@ S. Kaskyrbaeva
 <td colspan="2">EDU Stream</td>
 </tr>
 <tr>
-<th colspan="9">7- сынып</th>
+<td colspan="9">7- сынып</td>
 </tr>
 <tr>
 <td>3.1.</td>
@@ -10135,7 +10206,7 @@ Madina Issayeva
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>5.1</td>
@@ -10149,24 +10220,24 @@ Madina Issayeva
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">Француз тілі</th>
+<td colspan="9">Француз тілі</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">Le Francais Pour le Kazakhstan classe 1. Livre de l’eleve</td>
 <td>
-M.​Kal​ougi​na
-A.​Gousseva
-D.​Kou​zatb​ek
+M.Kalougina
+A.Gousseva
+D.Kouzatbek
 </td>
 <td>2021</td>
 <td colspan="2">ТОО EDU Stream и Просвещение</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -10180,7 +10251,7 @@ D. Kouzatbek
 <td colspan="2">Просвещение и EDU Stream</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -10206,7 +10277,7 @@ D. Kouzatbek.
 <td colspan="2">Сапалы білім Баспасы и CLE International</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -10216,7 +10287,7 @@ D. Kouzatbek.
 <td colspan="2">Сапалы білім Баспасы и CLE International</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -10231,10 +10302,10 @@ Alimova R.
 <td colspan="2">Сапалы білім Баспасы и CLE International</td>
 </tr>
 <tr>
-<th colspan="9">Ағылшын тілі</th>
+<td colspan="9">Ағылшын тілі</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10249,7 +10320,7 @@ N. Mukhamedjanova
 <td colspan="2">ExpressPublishing</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10270,7 +10341,7 @@ Oxford University Press
 <td colspan="3">English Language for Kazakhstan Grade 2 Pupil's Book+ Pupil's CD</td>
 <td>
 Jenny Dooley-Virginia Evans
-Series Consultants: Bob Obee N.​Muk​hame​djan​ova
+Series Consultants: Bob Obee N.Mukhamedjanova
 </td>
 <td>2022</td>
 <td colspan="2">
@@ -10279,7 +10350,7 @@ Express Publishing
 </td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10291,13 +10362,13 @@ Pupil's Book
 <td>
 Jenny Dooley,
 Series Consultant: Bob Obee. Translationsby
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2018</td>
 <td colspan="2">Express Publishing</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10310,13 +10381,13 @@ Pupil's Book
 Jenny Dooley,
 Bob Obee.
 Translations by
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2019</td>
 <td colspan="2">Express Publishing</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10379,7 +10450,7 @@ Mark Ormerod
 <td colspan="2">Macmillan Publishers</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10463,7 +10534,7 @@ Grade 6 Student’s Book
 <td colspan="2">MM Publications</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10538,7 +10609,7 @@ Publishers
 </td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10611,7 +10682,7 @@ Grade 8 Student’s Book
 <td colspan="2">MM Publications</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10683,10 +10754,10 @@ Steve Taylore-Knowles
 <td colspan="2">Macmillan Publishers</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10710,7 +10781,7 @@ Digital Student`s Book Premium Pack
 <td colspan="2">Macmillan Publishers</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10745,10 +10816,10 @@ Digital Student`s Book Premium Pack
 <td colspan="2">Macmillan Publishers</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10786,11 +10857,11 @@ Grade 11 (Humanities)
 Student`s Book
 </td>
 <td>
-G.​Bek​zhan​ova,
-J.​Sma​gulo​va,
-Zh.​Tut​baye​va,
-N.​Tut​baye​va,
-R.​Akysheva
+G.Bekzhanova,
+J.Smagulova,
+Zh.Tutbayeva,
+N.Tutbayeva,
+R.Akysheva
 </td>
 <td>2020</td>
 <td colspan="2">«Study Inn (Cambridge University Press материалдары негізінде)»</td>
@@ -10805,13 +10876,13 @@ Student`s book
 <td>
 Jenny Dooley,
 Bob Obee,
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2020</td>
 <td colspan="2">Express Publishing</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10822,7 +10893,7 @@ Student`s book
 </td>
 <td>
 Jenny Dooley,
-Bob Obee, N.​Muk​hame​djan​ova
+Bob Obee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 <td colspan="2">ExpressP ublishing</td>
@@ -10845,10 +10916,10 @@ Sylvia Wheeldon
 <td colspan="2">Oxford University Press</td>
 </tr>
 <tr>
-<th colspan="9">оқыту ұйғыр тілінде</th>
+<td colspan="9">оқыту ұйғыр тілінде</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10960,7 +11031,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11060,7 +11131,7 @@ Sylvia Wheeldon
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11175,7 +11246,7 @@ Sylvia Wheeldon
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11297,7 +11368,7 @@ Sylvia Wheeldon
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11444,7 +11515,7 @@ Sylvia Wheeldon
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11578,7 +11649,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11760,7 +11831,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11983,7 +12054,7 @@ Sylvia Wheeldon
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -12194,10 +12265,10 @@ Sylvia Wheeldon
 <td colspan="2">Keleshek -2030</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -12352,7 +12423,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -12499,7 +12570,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</th>
+<td colspan="9">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -12524,10 +12595,10 @@ Sylvia Wheeldon
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -12688,7 +12759,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -12841,7 +12912,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</th>
+<td colspan="9">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1</td>
@@ -12859,10 +12930,10 @@ Sylvia Wheeldon
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">оқыту өзбек тілінде</th>
+<td colspan="9">оқыту өзбек тілінде</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -12961,7 +13032,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп- Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -12969,7 +13040,11 @@ Sylvia Wheeldon
 Узбек тили.
 Дарслик. 1,2-қисм
 </td>
-<td>Н.Шамадиева, З.Аташикова, М.Мусаева</td>
+<td>
+Н.Шамадиева,
+З.Аташикова,
+М.Мусаева
+</td>
 <td>2022</td>
 <td colspan="2">Жазушы</td>
 </tr>
@@ -13055,7 +13130,7 @@ Sylvia Wheeldon
 <td colspan="2">Атамұра - Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13182,7 +13257,7 @@ Sylvia Wheeldon
 <td colspan="2">Атамұра-Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13304,7 +13379,7 @@ Sylvia Wheeldon
 <td colspan="2">Атамұра-Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13455,7 +13530,7 @@ Sylvia Wheeldon
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13544,7 +13619,8 @@ Sylvia Wheeldon
 Дарслик
 </td>
 <td>
-С.Мухамбетжанова ,А. Тен,
+С.Мухамбетжанова ,
+А. Тен,
 О. Кыдырбек
 </td>
 <td>2018</td>
@@ -13595,7 +13671,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13633,7 +13709,8 @@ Sylvia Wheeldon
 <td>3.</td>
 <td colspan="3">Информатика. Дарслик</td>
 <td>
-С.Мухамбетжанова, А. Тен,
+С.Мухамбетжанова,
+А. Тен,
 Л. Демидова
 </td>
 <td>2021</td>
@@ -13782,7 +13859,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13852,7 +13929,8 @@ Sylvia Wheeldon
 <td>5.</td>
 <td colspan="3">Информатика. Дарслик</td>
 <td>
-С.Мухамбетжанова, А.Тен,
+С.Мухамбетжанова,
+А.Тен,
 Л. Демидова
 </td>
 <td>2021</td>
@@ -13972,7 +14050,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14153,10 +14231,10 @@ Sylvia Wheeldon
 <td colspan="2">Keleshek - 2030</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14311,7 +14389,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14448,7 +14526,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</th>
+<td colspan="9">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1</td>
@@ -14473,10 +14551,10 @@ Sylvia Wheeldon
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14609,7 +14687,7 @@ Sylvia Wheeldon
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14753,13 +14831,14 @@ Sylvia Wheeldon
 А. Бекишев,
 Д. Турсинқулова,
 С. Гончаров,
-А. Баданова, А. Қасимжанова
+А. Баданова,
+А. Қасимжанова
 </td>
 <td>2020</td>
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</th>
+<td colspan="9">қоғамдық-гуманитарлық, жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14788,10 +14867,10 @@ Sylvia Wheeldon
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">оқыту тәжік тілінде</th>
+<td colspan="9">оқыту тәжік тілінде</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14908,7 +14987,8 @@ Sylvia Wheeldon
 Д. Сапақов,
 И. Васева,
 А. Жамиева,
-М. Құсайынова, М.Тасбулатова
+М. Құсайынова,
+М.Тасбулатова
 </td>
 <td>2016</td>
 <td colspan="2">
@@ -14944,7 +15024,7 @@ Sylvia Wheeldon
 </td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -15031,7 +15111,7 @@ Sylvia Wheeldon
 <td colspan="2">Алматыкітап баспасы -Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -15047,7 +15127,7 @@ Sylvia Wheeldon
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -15078,7 +15158,7 @@ Sylvia Wheeldon
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -15109,7 +15189,7 @@ Sylvia Wheeldon
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -15138,7 +15218,7 @@ Sylvia Wheeldon
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -15148,7 +15228,7 @@ Sylvia Wheeldon
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -15178,7 +15258,7 @@ Sylvia Wheeldon
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -15202,7 +15282,7 @@ Sylvia Wheeldon
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -15225,18 +15305,22 @@ Sylvia Wheeldon
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">Электрондық оқулықтар</th>
+<td colspan="9">Электрондық оқулықтар</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ тілінде</th>
+<td colspan="9">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Әліппе. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
-<td>Жумабаева Ә., Құрман Н., Сабденова Б.</td>
+<td colspan="3">Әліппе. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
+<td>
+Жумабаева Ә.,
+Құрман Н.,
+Сабденова Б.
+</td>
 <td>2021</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -15244,7 +15328,7 @@ Sylvia Wheeldon
 <td>2.</td>
 <td colspan="3">
 Ана тілі. Электрондық оқулық.
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Уайсова Г.,
@@ -15256,7 +15340,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">Русский язык. Электрондық оқулық (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Русский язык. Электрондық оқулық (web-платформа) https://topiq.kz/</td>
 <td>
 Калашникова Т.,
 Беспалова Р.
@@ -15289,8 +15373,8 @@ www.​oqu​lyqt​ar.​kz
 Математика.
 Электрондық оқулық. 1, 2-бөлім
 (web-платформа)
-1-бөлім: https://​topiq.​kz
-2-бөлім: https://​topiq.​kz
+1-бөлім: https://topiq.kz
+2-бөлім: https://topiq.kz
 </td>
 <td>
 Ә. Ақпаева,
@@ -15321,7 +15405,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Цифрлық сауаттылық. Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Р. Қадырқұлов,
@@ -15336,11 +15420,12 @@ https://​topiq.​kz/
 <td colspan="3">
 Цифрлық сауаттылық. Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 А.Сағымбаева,
-М.Ермұхамбетова, Е.Бидайбеков
+М.Ермұхамбетова,
+Е.Бидайбеков
 </td>
 <td>2021</td>
 <td colspan="2">Алматыкітап баспасы</td>
@@ -15363,9 +15448,14 @@ https://​topiq.​kz/
 <td>10.</td>
 <td colspan="3">
 Цифрлық сауаттылық. Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
-<td>Исабаева Д., Назарбекова А., Зординова П., Әубекова М..</td>
+<td>
+Исабаева Д.,
+Назарбекова А.,
+Зординова П.,
+Әубекова М..
+</td>
 <td>2021</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -15373,7 +15463,7 @@ www.​oqu​lyqt​ar.​kz
 <td>11.</td>
 <td colspan="3">
 Дүниетану. 1-сынып. Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Б. Тұрмашева,
@@ -15387,7 +15477,7 @@ www.​oqu​lyqt​ar.​kz
 <td>12.</td>
 <td colspan="3">
 Жаратылыстану Электрондық оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Р. Қаратабанов,
@@ -15400,14 +15490,18 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>13.</td>
-<td colspan="3">Музыка. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
-<td>Құлманова Ш., Сулейменова Б., Тоқжанов Т.</td>
+<td colspan="3">Музыка. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
+<td>
+Құлманова Ш.,
+Сулейменова Б.,
+Тоқжанов Т.
+</td>
 <td>2021</td>
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
 <td>14.</td>
-<td colspan="3">Көркем еңбек. Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Көркем еңбек. Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Е. Ермилова ,
 С. Попкова,
@@ -15417,11 +15511,11 @@ https://​topiq.​kz/
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Русский язык. Электрондық оқулық (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Русский язык. Электрондық оқулық (web-платформа) https://topiq.kz/</td>
 <td>
 Калашникова Т.,
 Беспалова Р.
@@ -15431,7 +15525,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="3">Математика. Электрондық оқулық (web-платформа). https://​topiq.​kz/</td>
+<td colspan="3">Математика. Электрондық оқулық (web-платформа). https://topiq.kz/</td>
 <td>
 Ә. Ақпаева,
 Л. Лебедева,
@@ -15444,7 +15538,7 @@ https://​topiq.​kz/
 <td>3.</td>
 <td colspan="3">
 Қазақ тілі. Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Ә. Жұмабаева,
@@ -15458,7 +15552,7 @@ www.​oqu​lyqt​ar.​kz
 <td>4.</td>
 <td colspan="3">
 Әдебиеттік оқу. Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Б. Қабатай,
@@ -15473,7 +15567,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Әдебиеттік оқу Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Ә. Рысқұлбекова,
@@ -15485,7 +15579,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="3">Математика. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Математика. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Т. Оспанов,
 Ж. Астамбаева,
@@ -15514,7 +15608,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Цифрлық сауаттылық. Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Р. Қадырқұлов
@@ -15528,7 +15622,7 @@ https://​topiq.​kz/
 <td>9.</td>
 <td colspan="3">
 Цифрлық сауаттылық. Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Д. Исабаева,
@@ -15543,7 +15637,7 @@ www.​oqu​lyqt​ar.​kz
 <td>10.</td>
 <td colspan="3">
 Цифрлық сауаттылық.
-Электрондық оқулық http://​www.​notedu.​kz/
+Электрондық оқулық http://www.notedu.kz/
 </td>
 <td>
 А. Давлетова,
@@ -15563,7 +15657,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Жаратылыстану.
 Оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Ж. Сүйіндікова,
@@ -15580,10 +15674,11 @@ https://​topiq.​kz/
 <td>12.</td>
 <td colspan="3">
 Жаратылыстану. Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
-Көшербаева С., Көдек Л.,
+Көшербаева С.,
+Көдек Л.,
 Ташенова Г.
 </td>
 <td>2022</td>
@@ -15610,7 +15705,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Дүниетану.
 Оқулық (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 Ш. Толыбекова,
@@ -15623,7 +15718,7 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>15.</td>
-<td colspan="3">Дүниетану. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Дүниетану. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Б. Тұрмашева,
 С. Салиш,
@@ -15637,7 +15732,7 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="3">
 Көркем еңбек. Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Н. Королькова,
@@ -15649,7 +15744,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>17.</td>
-<td colspan="3">Көркем еңбек. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Көркем еңбек. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Н. Раупова,
 Ә. Төлебиев,
@@ -15660,7 +15755,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>18.</td>
-<td colspan="3">Көркем еңбек. Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Көркем еңбек. Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Е. Ермилова,
 С. Попкова,
@@ -15673,11 +15768,12 @@ https://​topiq.​kz/
 <td>19.</td>
 <td colspan="3">
 Музыка. Электрондық оқулық
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Ш. Кұлманова,
-Б. Сулейменова, Т.Токжанов.
+Б. Сулейменова,
+Т.Токжанов.
 </td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
@@ -15687,7 +15783,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Музыка.
 Электрондық оқулық
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 М. Оразалиева,
@@ -15698,11 +15794,11 @@ https://​topiq.​kz/
 <td colspan="2">Алматыкітап</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Қазақ тілі. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Қазақ тілі. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
 А. Жұмабаева,
 Г. Уайсова,
@@ -15716,7 +15812,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Әдебиеттік оқу.
 Электрондық оқулық
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Б. Қабатай,
@@ -15731,7 +15827,7 @@ https://​topiq.​kz/
 <td>3.</td>
 <td colspan="3">
 Русский язык. Электрондық оқулық 3-сынып. (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Калашникова Т.,
@@ -15747,7 +15843,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Русский язык (для школ с нерусским языком обучения).
 Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Бекишева Р.,
@@ -15764,8 +15860,8 @@ https://​topiq.​kz/
 Математика.
 Электрондық оқулық. 1, 2-бөлім
 (web-платформа)
-1-бөлім: https://​topiq.​kz
-2-бөлім: https://​topiq.​kz
+1-бөлім: https://topiq.kz
+2-бөлім: https://topiq.kz
 </td>
 <td>
 Ә. Ақпаева,
@@ -15780,7 +15876,7 @@ https://​topiq.​kz/
 <td>6.</td>
 <td colspan="3">
 Цифрлық сауаттылық. Электрондық оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Р.Қадырқұлов,
@@ -15794,9 +15890,14 @@ https://​topiq.​kz/
 <td>7.</td>
 <td colspan="3">
 Цифрлық сауаттылық. Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
-<td>Исабаева Д., Назарбекова А., Зординова П., Әубекова М.</td>
+<td>
+Исабаева Д.,
+Назарбекова А.,
+Зординова П.,
+Әубекова М.
+</td>
 <td>2021</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -15805,7 +15906,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Дүниетану.
 Электрондық оқулық
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Б. Тұрмашева,
@@ -15836,7 +15937,7 @@ Ekitap.kz
 <td colspan="3">
 Музыка.
 Электрондық оқулық
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Ш. Құлманова
@@ -15847,13 +15948,13 @@ Ekitap.kz
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Әдебиеттік оқу. Электрондық оқулық (web-платформа)
-4-сынып. https://​topiq.​kz/
+4-сынып. https://topiq.kz/
 </td>
 <td>
 З. Мүфтибекова,
@@ -15866,7 +15967,7 @@ Ekitap.kz
 <td>2.</td>
 <td colspan="3">
 Русский язык. Электрондық оқулық (web-платформа) 4-сынып.
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Калашникова Т.,
@@ -15883,7 +15984,7 @@ https://​topiq.​kz/
 <td>3.</td>
 <td colspan="3">
 Математика. Электрондық оқулық (web-платформа). 4-сынып.
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 А. Ақпаева,
@@ -15896,7 +15997,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td colspan="3">Дүниетану. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Дүниетану. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Тұрмашева Б.,
 Салиш С.,
@@ -15907,20 +16008,21 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>5.</td>
-<td colspan="3">Көркем еңбек. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Көркем еңбек. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Раупова Н.,
-Төлебиев Ә., Дашкевич Е.
+Төлебиев Ә.,
+Дашкевич Е.
 </td>
 <td>2021</td>
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Информатика. Электрондық оқулық (web-платформа). https://​topiq.​kz/</td>
+<td colspan="3">Информатика. Электрондық оқулық (web-платформа). https://topiq.kz/</td>
 <td>
 Р.Қадырқұлов,
 Г.Нұрмұханбетова
@@ -15930,7 +16032,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="3">Қазақ тілі. Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Қазақ тілі. Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Б. Қапалбек,
 М. Жолшаева,
@@ -15945,7 +16047,7 @@ https://​topiq.​kz/
 Қазақ тілі.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Ж. Дәулетбекова,
@@ -15960,7 +16062,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Қазақ тілі.
 Электрондық оқулық
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 М. Мұхамедьярова,
@@ -15973,9 +16075,10 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>5.</td>
-<td colspan="3">Қазақ әдебиеті. Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Қазақ әдебиеті. Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
-Б. Керімбекова, Ә. Қуанышбаева,
+Б. Керімбекова,
+Ә. Қуанышбаева,
 Г. Отарбаева
 </td>
 <td>2022</td>
@@ -15986,7 +16089,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Қазақ әдебиеті. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 А. Ақтанова,
@@ -16001,7 +16104,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Қазақ әдебиеті.
 Электрондық оқулық
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 А. Тымболова,
@@ -16017,7 +16120,7 @@ www.​oqu​lyqt​ar.​kz
 <td>8.</td>
 <td colspan="3">
 Русский язык и литература.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Жанпейс У.,
@@ -16032,7 +16135,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Математика.
 Электрондық оқулық
-http://​e-​boo​ksgk​n.​kz/
+http://e-booksgkn.kz/
 </td>
 <td>
 Ж. Кайдасов,
@@ -16050,7 +16153,7 @@ http://​e-​boo​ksgk​n.​kz/
 <td colspan="3">
 Математика. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Т. Алдамуратова,
@@ -16065,7 +16168,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Информатика. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 С. Мұхамбетжанова,
@@ -16096,7 +16199,7 @@ Ekitap.kz
 <td>13.</td>
 <td colspan="3">
 Жаратылыстану. Электрондық оқулық (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 М. Нұртаева,
@@ -16112,7 +16215,7 @@ http://​oqu​lyqt​ar.​kz
 <td>14.</td>
 <td colspan="3">
 Жаратылыстану.
-Электрондық оқулық (web-платформа) https://​topiq.​kz/
+Электрондық оқулық (web-платформа) https://topiq.kz/
 </td>
 <td>
 Л. Верховцева,
@@ -16128,7 +16231,7 @@ http://​oqu​lyqt​ar.​kz
 Жаратылыстану.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Б. Әбдіманапов,
@@ -16144,7 +16247,7 @@ www.​oqu​lyqt​ar.​kz
 Дүниежүзі тарихы.
 Электрондық оқулық
 (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 А. Сыздықова,
@@ -16161,7 +16264,7 @@ https://​topiq.​kz/
 Дүниежүзі тарихы.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Т. Төлебаев,
@@ -16173,7 +16276,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>18.</td>
-<td colspan="3">Көркем еңбек (қыз балаларға арналған). Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Көркем еңбек (қыз балаларға арналған). Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Е. Ермилова,
 С. Попкова,
@@ -16184,7 +16287,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>19.</td>
-<td colspan="3">Көркем еңбек (ұл балаларға арналған). Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Көркем еңбек (ұл балаларға арналған). Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Е. Ермилова,
 С. Попкова,
@@ -16195,7 +16298,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>20.</td>
-<td colspan="3">Көркем еңбек. (қыз балаларға арналған).Электрондық оқулық http://​kel​eshe​k-​2030.​kz/​portal.​php</td>
+<td colspan="3">Көркем еңбек. (қыз балаларға арналған).Электрондық оқулық http://keleshek-2030.kz/portal.php</td>
 <td>
 Р. Алимсаева,
 И. Развенкова,
@@ -16206,7 +16309,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>21.</td>
-<td colspan="3">Көркем еңбек. (ұл балаларға арналған нұсқа). Электрондық оқулық http://​kel​eshe​k-​2030.​kz/​portal.​php</td>
+<td colspan="3">Көркем еңбек. (ұл балаларға арналған нұсқа). Электрондық оқулық http://keleshek-2030.kz/portal.php</td>
 <td>
 В. Чукалин,
 И. Развенкова,
@@ -16216,7 +16319,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -16224,7 +16327,7 @@ www.​oqu​lyqt​ar.​kz
 Қазақ тілі.
 Электрондық оқулық
 (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 А. Жаңабекова,
@@ -16240,7 +16343,7 @@ https://​topiq.​kz/
 Қазақ әдебиеті.
 Электрондық оқулық
 (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 А. Тымболова,
@@ -16256,7 +16359,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Қазақ әдебиеті.
 Электрондық оқулық
-(web-платформа) http://​oqu​lyqt​ar.​kz
+(web-платформа) http://oqulyqtar.kz
 </td>
 <td>
 Б. Керімбекова,
@@ -16271,7 +16374,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Қазақстан тарихы.
 Электрондық оқулық
-(web-платформа) http://​oqu​lyqt​ar.​kz
+(web-платформа) http://oqulyqtar.kz
 </td>
 <td>
 Т. Омарбеков,
@@ -16287,7 +16390,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Дүниежүзі тарихы.
 Электрондық оқулық
-(web-платформа) http://​oqu​lyqt​ar.​kz
+(web-платформа) http://oqulyqtar.kz
 </td>
 <td>
 Г. Көкебаева,
@@ -16302,7 +16405,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Математика.
 Электрондық оқулық
-(web-платформа) http://​oqu​lyqt​ar.​kz
+(web-платформа) http://oqulyqtar.kz
 </td>
 <td>
 А.Әбілқасымова,
@@ -16316,7 +16419,7 @@ https://​topiq.​kz/
 <td>7.</td>
 <td colspan="3">
 Информатика. Электрондық оқулық (web-платформа). 6-сынып.
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Р. Қадырқұлов,
@@ -16347,7 +16450,7 @@ Ekitap.kz
 <td colspan="3">
 Информатика. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 С. Мұхамбетжанова,
@@ -16362,7 +16465,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Жаратылыстану. Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Ж.Сүйіндікова,
@@ -16380,7 +16483,7 @@ https://​topiq.​kz/
 Жаратылыстану.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Е.Очкур,
@@ -16392,7 +16495,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -16400,7 +16503,7 @@ www.​oqu​lyqt​ar.​kz
 Қазақ тілі.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Г. Қосымова,
@@ -16416,7 +16519,7 @@ www.​oqu​lyqt​ar.​kz
 Қазақ әдебиеті.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 А. Ақтанова,
@@ -16432,7 +16535,7 @@ www.​oqu​lyqt​ar.​kz
 Қазақ әдебиеті.
 Электрондық оқулық
 (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 А. Тымболова,
@@ -16449,7 +16552,7 @@ https://​topiq.​kz/
 Русский язык и литература.
 Электронный учебник
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Жанпейс У.,
@@ -16464,7 +16567,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Геометрия.
 Жалпы білім беретін мектептің 7-сынып оқушыларына арналған электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Г. Солтан,
@@ -16480,7 +16583,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="3">Информатика. Электрондық оқулық (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Информатика. Электрондық оқулық (web-платформа) https://topiq.kz/</td>
 <td>
 Р. Қадырқұлов,
 Ә. Рысқұлбекова,
@@ -16491,7 +16594,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="3">Информатика. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Информатика. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Мухамбетжанова С.,
 Тен А.,
@@ -16504,7 +16607,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>8.</td>
 <td colspan="3">
 Алгебра. Электрондық оқулық (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 А. Әбілқасымова,
@@ -16520,7 +16623,7 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="3">
 Алгебра. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Ә. Шыныбеков,
@@ -16534,7 +16637,7 @@ www.​oqu​lyqt​ar.​kz
 <td>10.</td>
 <td colspan="3">
 Алгебра. Электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 А. Жумадилова,
@@ -16550,7 +16653,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Геометрия.
 Электрондық оқулық
-http://​e-​boo​ksgk​n.​kz/
+http://e-booksgkn.kz/
 </td>
 <td>
 Ж. Кайдасов,
@@ -16579,7 +16682,7 @@ http://​e-​boo​ksgk​n.​kz/
 </tr>
 <tr>
 <td>13.</td>
-<td colspan="3">География. Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">География. Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Ш. Толыбекова,
 Г. Головина,
@@ -16593,7 +16696,7 @@ http://​e-​boo​ksgk​n.​kz/
 <td colspan="3">
 География. Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Р. Қаратабанов,
@@ -16608,7 +16711,7 @@ https://​topiq.​kz/
 <td colspan="3">
 География. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 А. Егорина,
@@ -16624,7 +16727,7 @@ www.​oqu​lyqt​ar.​kz
 Қазақстан тарихы.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 З. Қабылдинов,
@@ -16641,7 +16744,7 @@ www.​oqu​lyqt​ar.​kz
 Дүниежүзі тарихы.
 Электрондық оқулық
 (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Ж. Базарбаева,
@@ -16656,7 +16759,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Биология. Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Г. Қартбаева,
@@ -16682,7 +16785,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>20.</td>
-<td colspan="3">Физика. Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Физика. Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Б. Кронгарт,
 Е. Даданбеков,
@@ -16696,7 +16799,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Физика. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Р. Башарұлы,
@@ -16711,7 +16814,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Химия.
 Электрондық оқулық
-http://​www.​notedu.​kz/
+http://www.notedu.kz/
 </td>
 <td>
 Д. Джусубалиева,
@@ -16727,7 +16830,7 @@ http://​www.​notedu.​kz/
 <td colspan="3">
 Химия. Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Р. Жұмаділова,
@@ -16740,7 +16843,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>24.</td>
-<td colspan="3">Химия. Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Химия. Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 М. Оспанова,
 Қ. Аухадиева,
@@ -16754,7 +16857,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Химия. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 М. Усманова,
@@ -16767,7 +16870,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>26.</td>
-<td colspan="3">Көркем еңбек (ұл балаларға арналған). Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Көркем еңбек (ұл балаларға арналған). Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Е. Ермилова,
 С. Попкова,
@@ -16778,7 +16881,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>27.</td>
-<td colspan="3">Көркем еңбек (қыз балаларға арналған). Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Көркем еңбек (қыз балаларға арналған). Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Е. Ермилова,
 С. Попкова,
@@ -16791,7 +16894,7 @@ www.​oqu​lyqt​ar.​kz
 <td>28.</td>
 <td colspan="3">
 Көркем еңбек. (қыз балаларға арналған нұсқа). Электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Р. Алимсаева,
@@ -16805,7 +16908,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>29.</td>
 <td colspan="3">
 Көркем еңбек. (ұл балаларға арналған нұсқа). Электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 В. Чукалин,
@@ -16816,7 +16919,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -16824,7 +16927,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 Қазақ тілі.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Б. Қапалбек,
@@ -16841,7 +16944,7 @@ www.​oqu​lyqt​ar.​kz
 Қазақ әдебиеті.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 С. Дарибаев,
@@ -16855,7 +16958,7 @@ www.​oqu​lyqt​ar.​kz
 <td>3.</td>
 <td colspan="3">
 Алгебра. 8. Электрондық оқулық
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 A. Елемесов,
@@ -16869,7 +16972,7 @@ A. Елемесов,
 <td>4.</td>
 <td colspan="3">
 Алгебра. Электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 А. Жумадилова,
@@ -16886,7 +16989,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 Геометрия.
 Жалпы білім беретін мектептің
 8-сынып оқушыларына арналған электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Г. Солтан,
@@ -16904,7 +17007,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>6.</td>
 <td colspan="3">
 Геометрия. 8. Электрондық оқулық
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 А. Турапбеков,
@@ -16920,7 +17023,7 @@ A. Елемесов,
 Геометрия.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 В.Смирнов,
@@ -16932,7 +17035,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>8.</td>
-<td colspan="3">Информатика. Электрондық оқулық (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Информатика. Электрондық оқулық (web-платформа) https://topiq.kz/</td>
 <td>
 Р. Қадырқұлов,
 Ә. Рысқұлбекова,
@@ -16945,10 +17048,11 @@ www.​oqu​lyqt​ar.​kz
 <td>9.</td>
 <td colspan="3">
 Информатика. Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
-Мухамбетжанова С., Тен А.,
+Мухамбетжанова С.,
+Тен А.,
 Демидова Л.
 </td>
 <td>2021</td>
@@ -16972,7 +17076,7 @@ www.​oqu​lyqt​ar.​kz
 <td>11.</td>
 <td colspan="3">
 Informatics. 8. Қостілді электрондық оқулық
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 А. Жунусов,
@@ -17002,7 +17106,7 @@ Ekitap.kz
 <td colspan="3">
 Физика. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Б. Кронгарт,
@@ -17016,7 +17120,7 @@ www.​oqu​lyqt​ar.​kz
 <td>14.</td>
 <td colspan="3">
 Physics. Қостілді электрондық оқулық
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 Ш. Алтынбеков,
@@ -17033,7 +17137,7 @@ www.​mersys.​io
 Қазақстан тарихы.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Т. Омарбеков,
@@ -17050,7 +17154,7 @@ www.​oqu​lyqt​ar.​kz
 Дүниежүзі тарихы.
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Н. Алдабек,
@@ -17065,7 +17169,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 География. Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Р. Қаратабанов,
@@ -17082,7 +17186,7 @@ https://​topiq.​kz/
 География.
 Электрондық оқулық
 web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 С. Әбілмажінова,
@@ -17098,7 +17202,7 @@ www.​oqu​lyqt​ar.​kz
 Биология.
 Электрондық оқулық
 web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Г. Қартбаева,
@@ -17112,7 +17216,7 @@ https://​topiq.​kz/
 <td>20.</td>
 <td colspan="3">
 Biology. 8. Қостілді электрондық оқулық
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 Б.Эрметов,
@@ -17127,7 +17231,7 @@ www.​mersys.​io
 <td>21.</td>
 <td colspan="3">
 Химия. Электрондық оқулық
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 Н. Жұмағұлов,
@@ -17142,7 +17246,7 @@ www.​mersys.​io
 <td colspan="3">
 Химия. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 М. Оспанова,
@@ -17157,7 +17261,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Chemistry.
 Қостілді электрондық оқулық
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 Н. Жұмағұлов,
@@ -17168,14 +17272,14 @@ www.​mersys.​io
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Қазақ тілі. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 М. Мамаева,
@@ -17189,7 +17293,7 @@ www.​oqu​lyqt​ar.​kz
 <td>2.</td>
 <td colspan="3">
 Қазақ әдебиеті. Электрондық оқулық
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Б. Керімбекова,
@@ -17201,7 +17305,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">Русский язык и литература. Электрондық оқулық (web-платформа) 9-сынып. https://​topiq.​kz/</td>
+<td colspan="3">Русский язык и литература. Электрондық оқулық (web-платформа) 9-сынып. https://topiq.kz/</td>
 <td>
 Ержанова Р.
 Белякова С.
@@ -17214,7 +17318,7 @@ www.​oqu​lyqt​ar.​kz
 <td>4.</td>
 <td colspan="3">
 Алгебра. Электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 А. Жумадилова,
@@ -17230,7 +17334,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Геометрия.
 Жалпы білім беретін мектептің 9-сынып оқушыларына арналған электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Г. Солтан,
@@ -17246,7 +17350,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="3">Информатика. Электрондық оқулық (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Информатика. Электрондық оқулық (web-платформа) https://topiq.kz/</td>
 <td>
 Р. Қадырқұлов,
 Г. Нұрмұханбетова
@@ -17281,7 +17385,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Химия. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 М. Оспанова,
@@ -17296,7 +17400,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Қазақстан тарихы. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 К. Өскембаев,
@@ -17311,7 +17415,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Дүниежүзі тарихы. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Н. Алдабек ,
@@ -17325,7 +17429,7 @@ www.​oqu​lyqt​ar.​kz
 <td>11.</td>
 <td colspan="3">
 Құқық негіздері. Электрондық оқулық
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 А. Ибраева,
@@ -17337,7 +17441,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>12.</td>
-<td colspan="3">Қазақстан географиясы. Электрондық оқулық (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Қазақстан географиясы. Электрондық оқулық (web-платформа) https://topiq.kz/</td>
 <td>
 Р. Қаратабанов,
 А. Саипов,
@@ -17349,7 +17453,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>13.</td>
-<td colspan="3">Қазақстан географиясы. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Қазақстан географиясы. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Ш. Толыбекова,
 Г. Головина,
@@ -17360,16 +17464,16 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Қазақ тілі (ҚГБ). Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Б. Қапалбек,
@@ -17383,7 +17487,7 @@ www.​oqu​lyqt​ar.​kz
 <td>2.</td>
 <td colspan="3">
 Қазақ әдебиеті (ҚГБ). Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Г. Орда,
@@ -17397,7 +17501,7 @@ www.​oqu​lyqt​ar.​kz
 <td>3.</td>
 <td colspan="3">
 Геометрия (ҚГБ). Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 В. Смирнов,
@@ -17411,7 +17515,7 @@ www.​oqu​lyqt​ar.​kz
 <td>4.</td>
 <td colspan="3">
 Дүниежүзі тарихы (ҚГБ). Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Р. Қайырбекова,
@@ -17427,7 +17531,7 @@ www.​oqu​lyqt​ar.​kz
 Құқық негіздері (ҚГБ).
 Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 А. Ибраева,
@@ -17442,7 +17546,7 @@ www.​oqu​lyqt​ar.​kz
 <td>6.</td>
 <td colspan="3">
 География (ҚГБ). Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 К. Каймулдинова,
@@ -17456,7 +17560,7 @@ www.​oqu​lyqt​ar.​kz
 <td>7.</td>
 <td colspan="3">
 Химия (ҚГБ). Электрондық оқулық
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 М. Оспанова,
@@ -17467,14 +17571,14 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3">
 География. (ЖМБ).
 Электрондық оқулық
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 С. Төлепбекова,
@@ -17488,7 +17592,7 @@ www.​oqu​lyqt​ar.​kz
 <td>2.</td>
 <td colspan="3">
 Қазақ әдебиеті (ЖМБ). Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Г. Орда,
@@ -17500,7 +17604,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">Геометрия (ЖМБ). 10-сынып. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Геометрия (ЖМБ). 10-сынып. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
 В. Смирнов,
 Е. Тұяқов,
@@ -17511,7 +17615,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>4.</td>
-<td colspan="3">Информатика (ЖМБ). 10-сынып. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Информатика (ЖМБ). 10-сынып. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Н. Кольева,
 Е. Шевчук,
@@ -17525,7 +17629,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Дүниежүзі тарихы (ЖМБ). 10-сынып.
 Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Р. Қайырбекова,
@@ -17540,7 +17644,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Құқық негіздері (ЖМБ). 10-сынып.
 Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 А. Ибраева,
@@ -17553,9 +17657,10 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="3">География (ЖМБ). 10-сынып. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">География (ЖМБ). 10-сынып. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
 <td>
-К. Каймулдинова, С. Әбілмәжінова,
+К. Каймулдинова,
+С. Әбілмәжінова,
 Б. Абдиманапов
 </td>
 <td>2023</td>
@@ -17565,7 +17670,7 @@ www.​oqu​lyqt​ar.​kz
 <td>8.</td>
 <td colspan="3">
 Биология (ЖМБ). 10-сынып.
-Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz
+Электрондық оқулық (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Е. Очкур,
@@ -17576,13 +17681,13 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Алгебра және анализ бастамалары.
-Электрондық оқулық (web-платформа) 10-сынып. ttps://​topiq.​kz/
+Электрондық оқулық (web-платформа) 10-сынып. ttps://topiq.kz/
 </td>
 <td>
 О. Пак,
@@ -17597,7 +17702,7 @@ E. Ескендирова
 <td colspan="3">
 Геометрия. (ҚГБ)
 Электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Г. Солтан,
@@ -17613,7 +17718,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">Информатика. Электрондық оқулық (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Информатика. Электрондық оқулық (web-платформа) https://topiq.kz/</td>
 <td>
 Р. Қадырқұлов,
 Г. Нұрмұханбетова
@@ -17641,7 +17746,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 1-бөлім. Алғашқы әскери және технологиялық дайындық
 2-бөлім. Оқу-далалық (лагерлік) жиындар. Электрондық оқулық.
 10-сынып
-http://​kel​eshe​k-​2030.​kz/​portal.​php.
+http://keleshek-2030.kz/portal.php.
 </td>
 <td>
 А. Рыспаев,
@@ -17662,7 +17767,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php.
 <td colspan="3">
 Қазақстан тарихы. 10-сынып.
 Электрондық оқулық (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 З. Джандосова,
@@ -17674,23 +17779,27 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="3">Алғашқы әскери және технологиялық дайындық. Электрондық оқулық (web-платформа) www.​oqu​lyqt​ar.​kz</td>
-<td>Тасбулатов А., Майхиев Д., Акимбаев Е.</td>
+<td colspan="3">Алғашқы әскери және технологиялық дайындық. Электрондық оқулық (web-платформа) www.oqulyqtar.kz</td>
+<td>
+Тасбулатов А.,
+Майхиев Д.,
+Акимбаев Е.
+</td>
 <td>2023</td>
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Геометрия. (ҚГБ)
 Электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Г. Солтан,
@@ -17708,7 +17817,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>2.</td>
 <td colspan="3">
 Информатика. (ҚГБ) Электрондық оқулық Электрондық оқулық
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 В.Архипова,
@@ -17750,7 +17859,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>5.</td>
 <td colspan="3">
 Қазақ тілі (ҚГБ) Электрондық оқулық (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 Б. Қапалбек,
@@ -17764,18 +17873,19 @@ http://​oqu​lyqt​ar.​kz
 <td>6.</td>
 <td colspan="3">
 Қазақ әдебиеті (ҚГБ) Электрондық оқулық (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 Г.Орда,
-С. Дарибаев, А.Сатылова.
+С. Дарибаев,
+А.Сатылова.
 </td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="3">Русский язык и литература Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Русский язык и литература Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Г. Шашкина,
 О. Анищенко,
@@ -17788,10 +17898,11 @@ http://​oqu​lyqt​ar.​kz
 <td>8.</td>
 <td colspan="3">
 Геометрия (ҚГБ) Электрондық оқулық (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
-В. Смирнов, Е.Тұяқов,
+В. Смирнов,
+Е.Тұяқов,
 Л. Жадраева.
 </td>
 <td>2022</td>
@@ -17801,12 +17912,13 @@ http://​oqu​lyqt​ar.​kz
 <td>9.</td>
 <td colspan="3">
 География (ҚГБ) Электрондық оқулық (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 К. Каймулдинова,
 Б. Абдиманапов,
-С. Әбілмажінова, А.Саипов.
+С. Әбілмажінова,
+А.Саипов.
 </td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
@@ -17816,7 +17928,7 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="3">
 География (ҚГБ)
 Электрондық оқулық
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 О. Мазбаев,
@@ -17831,7 +17943,7 @@ http://​oqu​lyqt​ar.​kz
 <td>11.</td>
 <td colspan="3">
 Химия (ҚГБ) Электрондық оқулық (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 М.Оспанова,
@@ -17843,7 +17955,7 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>12.</td>
-<td colspan="3">Дүниежүзі тарихы (ҚГБ) Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Дүниежүзі тарихы (ҚГБ) Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Р. Қайырбекова,
 А. Ибраева,
@@ -17856,7 +17968,7 @@ http://​oqu​lyqt​ar.​kz
 <td>13.</td>
 <td colspan="3">
 Құқық негіздері (ҚГБ) Электрондық оқулық (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 А. Ибраева,
@@ -17873,14 +17985,14 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Информатика. (ЖМБ).
 Электрондық оқулық
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 В.Архипова,
@@ -17895,7 +18007,7 @@ http://​oqu​lyqt​ar.​kz
 <td>2.</td>
 <td colspan="3">
 Қазақ тілі (ЖМБ)
-Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz
+Электрондық оқулық (web-платформа) http://oqulyqtar.kz
 </td>
 <td>
 Б. Қапалбек,
@@ -17910,7 +18022,7 @@ http://​oqu​lyqt​ar.​kz
 <td>3.</td>
 <td colspan="3">
 Геометрия (ЖМБ)
-Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz
+Электрондық оқулық (web-платформа) http://oqulyqtar.kz
 </td>
 <td>
 В. Смирнов,
@@ -17924,10 +18036,11 @@ http://​oqu​lyqt​ar.​kz
 <td>4.</td>
 <td colspan="3">
 География (ЖМБ) Электрондық оқулық (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
-К. Каймулдинова, С. Абильмажинова,
+К. Каймулдинова,
+С. Абильмажинова,
 Б. Абдиманапов
 </td>
 <td>2022</td>
@@ -17938,7 +18051,7 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="3">
 География (ЖМБ) Электрондық
 оқулық (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 С. Төлепбекова,
@@ -17952,7 +18065,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="3">Химия (ЖМБ) Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Химия (ЖМБ) Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 М.Оспанова,
 Қ. Аухадиева,
@@ -17963,7 +18076,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="3">Дүниежүзі тарихы (ЖМБ) Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Дүниежүзі тарихы (ЖМБ) Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Р. Қайырбекова,
 А. Ибраева,
@@ -17974,7 +18087,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>8.</td>
-<td colspan="3">Құқық негіздері (ЖМБ) Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Құқық негіздері (ЖМБ) Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 А. Ибраева,
 Л. Еркинбаева,
@@ -17990,7 +18103,7 @@ https://​topiq.​kz/
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -18012,7 +18125,7 @@ https://​topiq.​kz/
 <td>2.</td>
 <td colspan="3">
 Алғашқы әскери және технологиялық дайындық. Жалпы білім беретін мектептің 11-сынып оқушыларына арналған электрондық оқулық
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 А. Рихтер,
@@ -18026,7 +18139,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">Алғашқы әскери және технологиялық дайындық Электрондық оқулық (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Алғашқы әскери және технологиялық дайындық Электрондық оқулық (web-платформа) http://oqulyqtar.kz</td>
 <td>
 А. Тасбулатов,
 Д. Майхиев,
@@ -18037,14 +18150,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">оқыту орыс тілінде</th>
+<td colspan="9">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Қазақ тілі. Электронный учебник (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Қазақ тілі. Электронный учебник (web-платформа) https://topiq.kz/</td>
 <td>
 А. Хазимова,
 Б. Салыхова,
@@ -18057,7 +18170,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>2.</td>
 <td colspan="3">
 Қазақ тілі (оқыту қазақ тілінде емес мектептер үшін). 1-сынып. Электрондық оқулық
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 А. Хазимова,
@@ -18069,7 +18182,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">Букварь. Электронный учебник. (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Букварь. Электронный учебник. (web-платформа) https://topiq.kz/</td>
 <td>
 Богатырева Е. В.,
 Бучина Р. А.,
@@ -18084,7 +18197,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>4.</td>
 <td colspan="3">
 Обучение грамоте. Электронный учебник. (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Богатырева Е. В.,
@@ -18121,13 +18234,14 @@ https://​topiq.​kz/
 <td>6.</td>
 <td colspan="3">
 Математика. Электронный учебник
-Часть 1, 2 1 часть: https://​topiq.​kz/
-2 часть: https://​topiq.​kz/
+Часть 1, 2 1 часть: https://topiq.kz/
+2 часть: https://topiq.kz/
 </td>
 <td>
 Акпаева А.,
 Лебедева Л.,
-Мыңжасарова М., Лихобабенко Т.
+Мыңжасарова М.,
+Лихобабенко Т.
 </td>
 <td>2021</td>
 <td colspan="2">Алматыкітап баспасы</td>
@@ -18136,10 +18250,11 @@ https://​topiq.​kz/
 <td>7.</td>
 <td colspan="3">
 Цифровая грамотность.
-Электронный учебник (web-платформа) https://​topiq.​kz/
+Электронный учебник (web-платформа) https://topiq.kz/
 </td>
 <td>
-Кадиркулов Р., Рыскулбекова А.,
+Кадиркулов Р.,
+Рыскулбекова А.,
 Беристемова Н.
 </td>
 <td>2021</td>
@@ -18149,10 +18264,11 @@ https://​topiq.​kz/
 <td>8.</td>
 <td colspan="3">
 Цифровая грамотность.
-Электронный учебник (web-платформа) https://​topiq.​kz/
+Электронный учебник (web-платформа) https://topiq.kz/
 </td>
 <td>
-Сагимбаева А., Ермухамбетова М.,
+Сагимбаева А.,
+Ермухамбетова М.,
 Бидайбеков Е.
 </td>
 <td>2021</td>
@@ -18178,7 +18294,7 @@ https://​topiq.​kz/
 <td>10.</td>
 <td colspan="3">
 Цифровая грамотность.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Исабаева Д.,
@@ -18193,7 +18309,7 @@ https://​topiq.​kz/
 <td>11.</td>
 <td colspan="3">
 Естествознание. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Кучербаева С.,
@@ -18208,7 +18324,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Естествознание
 1 класс. Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Зворыгина В.,
@@ -18224,7 +18340,7 @@ www.​oqu​lyqt​ar.​kz
 <td>13.</td>
 <td colspan="3">
 Познание мира. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Турмашева Б.,
@@ -18239,7 +18355,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Познание мира.
 1 класс. Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Зворыгина В.,
@@ -18251,7 +18367,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>15.</td>
-<td colspan="3">Музыка. Электронный учебник (web-платформа). https://​topiq.​kz/</td>
+<td colspan="3">Музыка. Электронный учебник (web-платформа). https://topiq.kz/</td>
 <td>
 Садовская И.,
 Оразалиева М.,
@@ -18264,7 +18380,7 @@ www.​oqu​lyqt​ar.​kz
 <td>16.</td>
 <td colspan="3">
 Художественный труд. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 Ермилова Е.,
@@ -18275,13 +18391,13 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Қазақ тілі (оқыту қазақ тілінде емес мектептер үшін). 2-сынып. Электрондық оқулық
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 А. Хазимова,
@@ -18295,7 +18411,7 @@ http://​oqu​lyqt​ar.​kz
 <td>2.</td>
 <td colspan="3">
 Русский язык. Электронный учебник (web-платформа).
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Богатырева Е.,
@@ -18311,7 +18427,7 @@ https://​topiq.​kz/
 <td>3.</td>
 <td colspan="3">
 Литературное чтение.
-Электронный учебник (web-платформа). https://​topiq.​kz/
+Электронный учебник (web-платформа). https://topiq.kz/
 </td>
 <td>
 Богатырева Е.,
@@ -18327,7 +18443,7 @@ https://​topiq.​kz/
 <td>4.</td>
 <td colspan="3">
 Математика. Электронный учебник (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Акпаева А.,
@@ -18341,7 +18457,7 @@ https://​topiq.​kz/
 <td>5.</td>
 <td colspan="3">
 Естествознание.
-Электронный учебник (web-платформа) https://​topiq.​kz/
+Электронный учебник (web-платформа) https://topiq.kz/
 </td>
 <td>
 Болтушенко Н.,
@@ -18356,7 +18472,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="3">Музыка. Электронный учебник (web-платформа). https://​topiq.​kz/</td>
+<td colspan="3">Музыка. Электронный учебник (web-платформа). https://topiq.kz/</td>
 <td>
 Горчакова Е.,
 Плешакова Т.
@@ -18368,7 +18484,7 @@ https://​topiq.​kz/
 <td>7.</td>
 <td colspan="3">
 Русский язык. Электронный учебник (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Аймагамбетова М.,
@@ -18390,16 +18506,24 @@ Ekitap.kz
 Новаковская О.,
 Ракицкая А.,
 Тузова Н.,
-Бараникова В., Лисовская Н., Зайнуллина А.,
-Оспанова И., Жапенова К.
+Бараникова В.,
+Лисовская Н.,
+Зайнуллина А.,
+Оспанова И.,
+Жапенова К.
 </td>
 <td>2022</td>
 <td colspan="2">Арман-ПВ</td>
 </tr>
 <tr>
 <td>9.</td>
-<td colspan="3">Русский язык. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
-<td>Никитина С., Казабеева В., Кульгильдинова Т., Якунина Т.</td>
+<td colspan="3">Русский язык. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
+<td>
+Никитина С.,
+Казабеева В.,
+Кульгильдинова Т.,
+Якунина Т.
+</td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -18407,7 +18531,7 @@ Ekitap.kz
 <td>10.</td>
 <td colspan="3">
 Литературное чтение. Электронный учебник (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Аймагамбетова М.,
@@ -18427,7 +18551,8 @@ Ekitap.kz
 </td>
 <td>
 Беляева Е.,
-Толоконникова Т., Крылова Е.,
+Толоконникова Т.,
+Крылова Е.,
 Оспанова И.,
 Жапенова К.
 </td>
@@ -18438,9 +18563,13 @@ Ekitap.kz
 <td>12.</td>
 <td colspan="3">
 Литературное чтение. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
-<td>Павленко В., Бражникова Е., Юсупова Н.</td>
+<td>
+Павленко В.,
+Бражникова Е.,
+Юсупова Н.
+</td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -18448,9 +18577,13 @@ www.​oqu​lyqt​ar.​kz
 <td>13.</td>
 <td colspan="3">
 Қазақ тілі (қазақ тілді емес мектептер үшін) Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
-<td>Кайырбекова А., Нукебаева Б., Мухамеджанова А.</td>
+<td>
+Кайырбекова А.,
+Нукебаева Б.,
+Мухамеджанова А.
+</td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -18458,9 +18591,14 @@ www.​oqu​lyqt​ar.​kz
 <td>14.</td>
 <td colspan="3">
 Математика. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
-<td>Оспанов Т., Астамбаева Ж., Мергенбаева Н. , Козленко А.</td>
+<td>
+Оспанов Т.,
+Астамбаева Ж.,
+Мергенбаева Н. ,
+Козленко А.
+</td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -18469,7 +18607,8 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">Цифровая грамотность. Электронный учебник (web-платформа) Ekitap.kz</td>
 <td>
 Кобдикова Ж.,
-Копеева Г., Каптагаева А.,
+Копеева Г.,
+Каптагаева А.,
 Юсупова А.
 </td>
 <td>2022</td>
@@ -18479,7 +18618,7 @@ www.​oqu​lyqt​ar.​kz
 <td>16.</td>
 <td colspan="3">
 Цифровая грамотность.
-Электронный учебник (web-платформа) https://​topiq.​kz/
+Электронный учебник (web-платформа) https://topiq.kz/
 </td>
 <td>
 Кадиркулов Р.,
@@ -18493,9 +18632,14 @@ www.​oqu​lyqt​ar.​kz
 <td>17.</td>
 <td colspan="3">
 Цифровая грамотность.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
-<td>Исабаева Д., Назарбекова А., Зординова П., Аубекова М.</td>
+<td>
+Исабаева Д.,
+Назарбекова А.,
+Зординова П.,
+Аубекова М.
+</td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -18504,12 +18648,15 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Цифровая грамотность.
 Электронный учебник
-http://​www.​notedu.​kz/
+http://www.notedu.kz/
 </td>
 <td>
 Давлетова А.,
 Маскаленко Ю.,
-Панченко Ю., Нургалиева Г., Тажигулова А., Арыстанова А.
+Панченко Ю.,
+Нургалиева Г.,
+Тажигулова А.,
+Арыстанова А.
 </td>
 <td>2022</td>
 <td colspan="2">Новые образовательные технологии</td>
@@ -18518,11 +18665,13 @@ http://​www.​notedu.​kz/
 <td>19.</td>
 <td colspan="3">
 Естествознание.Электронный учебник (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Суюндикова Ж.,
-Зворыгина В., Болтушенко Н., Помогайко Т.,
+Зворыгина В.,
+Болтушенко Н.,
+Помогайко Т.,
 Лауто О.,
 Яндулова Т.
 </td>
@@ -18533,9 +18682,13 @@ https://​topiq.​kz/
 <td>20.</td>
 <td colspan="3">
 Естествознание. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
-<td>Кучербаева С., Темникова И., Ташенова Г.</td>
+<td>
+Кучербаева С.,
+Темникова И.,
+Ташенова Г.
+</td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -18543,9 +18696,14 @@ www.​oqu​lyqt​ar.​kz
 <td>21.</td>
 <td colspan="3">
 Познание мира.Учебник
-Электронный учебник (web-платформа) https://​topiq.​kz/
+Электронный учебник (web-платформа) https://topiq.kz/
 </td>
-<td>Зворыгина В., Болтушенко Н., Суюндикова Ж., Яндулова Т.</td>
+<td>
+Зворыгина В.,
+Болтушенко Н.,
+Суюндикова Ж.,
+Яндулова Т.
+</td>
 <td>2022</td>
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
@@ -18553,7 +18711,7 @@ www.​oqu​lyqt​ar.​kz
 <td>22.</td>
 <td colspan="3">
 Познание мира. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Турмашева Б.,
@@ -18567,9 +18725,14 @@ www.​oqu​lyqt​ar.​kz
 <td>23.</td>
 <td colspan="3">
 Познание мира. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
-<td>Толыбекова Ш., Головина Г., Дюжикова М., Золотарёва В.</td>
+<td>
+Толыбекова Ш.,
+Головина Г.,
+Дюжикова М.,
+Золотарёва В.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
@@ -18577,7 +18740,7 @@ http://​oqu​lyqt​ar.​kz
 <td>24.</td>
 <td colspan="3">
 Художественный труд.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Раупова Н.,
@@ -18591,7 +18754,7 @@ http://​oqu​lyqt​ar.​kz
 <td>25.</td>
 <td colspan="3">
 Художественный труд.
-Электронный учебник (web-платформа) https://​topiq.​kz/
+Электронный учебник (web-платформа) https://topiq.kz/
 </td>
 <td>
 Королькова Н.,
@@ -18605,7 +18768,7 @@ http://​oqu​lyqt​ar.​kz
 <td>26.</td>
 <td colspan="3">
 Художественный труд.
-Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) http://oqulyqtar.kz
 </td>
 <td>
 Ермилова Е. ,
@@ -18617,13 +18780,17 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>27.</td>
-<td colspan="3">Музыка. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
-<td>Валиуллина Р., Маханова А., Каппучи О.</td>
+<td colspan="3">Музыка. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
+<td>
+Валиуллина Р.,
+Маханова А.,
+Каппучи О.
+</td>
 <td>2022</td>
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -18631,7 +18798,7 @@ http://​oqu​lyqt​ar.​kz
 Русский язык.
 Электронный учебник
 (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Богатырева Е.,
@@ -18648,7 +18815,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Русский язык.
 3 класс. Электронный учебник
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Никитина С.,
@@ -18665,7 +18832,7 @@ https://​topiq.​kz/
 Литературное чтение.
 Электронный учебник
 (web-платформа).
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Богатырева Е.,
@@ -18698,7 +18865,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Математика. Электронный учебник
 (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Акпаева А.,
@@ -18711,9 +18878,10 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="3">Цифровая грамотность. Электронный учебник (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Цифровая грамотность. Электронный учебник (web-платформа) https://topiq.kz/</td>
 <td>
-Кадиркулов Р., Рыскулбекова А.,
+Кадиркулов Р.,
+Рыскулбекова А.,
 Беристемова Н.
 </td>
 <td>2021</td>
@@ -18723,9 +18891,14 @@ https://​topiq.​kz/
 <td>7.</td>
 <td colspan="3">
 Цифровая грамотность.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
-<td>Исабаева Д., Назарбекова А., Зординова П., Аубекова М.</td>
+<td>
+Исабаева Д.,
+Назарбекова А.,
+Зординова П.,
+Аубекова М.
+</td>
 <td>2021</td>
 <td colspan="2">Атамұра</td>
 </tr>
@@ -18734,7 +18907,8 @@ https://​topiq.​kz/
 <td colspan="3">Цифровая грамотность. Электронный учебник (web-платформа) Ekitap.kz</td>
 <td>
 Кобдикова Ж.,
-Копеева Г., Каптагаева А.,
+Копеева Г.,
+Каптагаева А.,
 Юсупова А.
 </td>
 <td>2022</td>
@@ -18744,7 +18918,7 @@ https://​topiq.​kz/
 <td>9.</td>
 <td colspan="3">
 Естествознание 3 класс. Электронный учебник
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Кучербаева С.,
@@ -18758,7 +18932,7 @@ https://​topiq.​kz/
 <td>10.</td>
 <td colspan="3">
 Познание мира. 3 класс. Электронный учебник
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Турмашева Б.,
@@ -18773,7 +18947,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Музыка. 3 класс.
 Электронный учебник
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Валиуллина Р.,
@@ -18784,11 +18958,11 @@ https://​topiq.​kz/
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Қазақ тілі. Электронный учебник (web-платформа). https://​topiq.​kz/</td>
+<td colspan="3">Қазақ тілі. Электронный учебник (web-платформа). https://topiq.kz/</td>
 <td>
 Р. Дәулеткереева,
 Г. Мұқанғалиева
@@ -18798,7 +18972,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="3">Русский язык. Электронный учебник (web-платформа). https://​topiq.​kz/</td>
+<td colspan="3">Русский язык. Электронный учебник (web-платформа). https://topiq.kz/</td>
 <td>
 Богатырева Е.,
 Бучина Р.,
@@ -18813,7 +18987,7 @@ https://​topiq.​kz/
 <td>3.</td>
 <td colspan="3">
 Литературное чтение.Электронный учебник (web-платформа).
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Богатырева Е.,
@@ -18829,12 +19003,13 @@ https://​topiq.​kz/
 <td>4.</td>
 <td colspan="3">
 Математика.
-Электронный учебник Часть 1,2 (web-платформа) https://​topiq.​kz/
+Электронный учебник Часть 1,2 (web-платформа) https://topiq.kz/
 </td>
 <td>
 Акпаева А.,
 Лебедева Л.,
-Мынжасарова М., Лихобабенко Т.
+Мынжасарова М.,
+Лихобабенко Т.
 </td>
 <td>2020</td>
 <td colspan="2">Алматыкітап баспасы</td>
@@ -18843,7 +19018,7 @@ https://​topiq.​kz/
 <td>5.</td>
 <td colspan="3">
 Информационно-коммуникационные технологии.
-Электронный учебник (web-платформа) https://​topiq.​kz/
+Электронный учебник (web-платформа) https://topiq.kz/
 </td>
 <td>
 Кобдикова Ж.,
@@ -18877,7 +19052,7 @@ https://​topiq.​kz/
 <td>7.</td>
 <td colspan="3">
 Познание мира. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Турмашева Б.,
@@ -18891,11 +19066,12 @@ www.​oqu​lyqt​ar.​kz
 <td>8.</td>
 <td colspan="3">
 Художественный труд. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Раупова Н.,
-Төлебиев Ә., Дашкевич Е.
+Төлебиев Ә.,
+Дашкевич Е.
 </td>
 <td>2021</td>
 <td colspan="2">Атамұра</td>
@@ -18904,7 +19080,7 @@ www.​oqu​lyqt​ar.​kz
 <td>9.</td>
 <td colspan="3">
 Музыка. Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Горчакова Е.,
@@ -18914,13 +19090,13 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Қазақ тілі мен әдебиеті. 5-сынып. Электрондық оқулық
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Е. Адаева,
@@ -18938,7 +19114,7 @@ www.​oqu​lyqt​ar.​kz
 Русская литература.
 5 класс.
 Электронный учебник
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Сафронова Л. ,
@@ -18967,7 +19143,7 @@ www.​oqu​lyqt​ar.​kz
 <td>4.</td>
 <td colspan="3">
 Русская литература.
-Электронный учебник (web-платформа) https://​topiq.​kz/
+Электронный учебник (web-платформа) https://topiq.kz/
 </td>
 <td>
 Бодрова Е.,
@@ -18980,14 +19156,17 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>5.</td>
-<td colspan="3">Информатика. Электронный учебник (web-платформа) https://​topiq.​kz/</td>
-<td>Кадиркулов Р., Нурмуханбетова Г.</td>
+<td colspan="3">Информатика. Электронный учебник (web-платформа) https://topiq.kz/</td>
+<td>
+Кадиркулов Р.,
+Нурмуханбетова Г.
+</td>
 <td>2020</td>
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="3">Русский язык. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Русский язык. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Сабитова З.,
 Скляренко К.,
@@ -19000,7 +19179,7 @@ www.​oqu​lyqt​ar.​kz
 <td>7.</td>
 <td colspan="3">
 Русская литература. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 Локтионова Н.,
@@ -19012,8 +19191,12 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>8.</td>
-<td colspan="3">Қазақ тілі мен әдебиеті. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
-<td>Қосымова Г., Ерхожина Ш., Тәуекелова Г.</td>
+<td colspan="3">Қазақ тілі мен әдебиеті. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
+<td>
+Қосымова Г.,
+Ерхожина Ш.,
+Тәуекелова Г.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
@@ -19022,7 +19205,7 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="3">
 Математика,
 Электронный учебник
-http://​e-​boo​ksgk​n.​kz/
+http://e-booksgkn.kz/
 </td>
 <td>
 Кайдасов Ж,
@@ -19041,7 +19224,7 @@ http://​e-​boo​ksgk​n.​kz/
 <td colspan="3">
 Математика. 5 класс.
 Электронный учебник
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Алдамуратова Т.,
@@ -19056,7 +19239,7 @@ http://​e-​boo​ksgk​n.​kz/
 <td colspan="3">
 Информатика,
 Электронный учебник
-http://​www.​notedu.​kz/
+http://www.notedu.kz/
 </td>
 <td>
 Давлетова А.,
@@ -19089,7 +19272,7 @@ http://​www.​notedu.​kz/
 <td>13.</td>
 <td colspan="3">
 Информатика. 5 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Мухамбетжанова С
@@ -19101,7 +19284,7 @@ http://​www.​notedu.​kz/
 </tr>
 <tr>
 <td>14.</td>
-<td colspan="3">Всемирная история. 5 класс. Электронный учебник (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Всемирная история. 5 класс. Электронный учебник (web-платформа) https://topiq.kz/</td>
 <td>
 Сыздыкова А.,
 Шугаипова Г.,
@@ -19115,7 +19298,7 @@ http://​www.​notedu.​kz/
 <td>15.</td>
 <td colspan="3">
 Всемирная история. 5 класс. Электронный учебник
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Тулебаев Т.,
@@ -19131,7 +19314,7 @@ http://​www.​notedu.​kz/
 <td colspan="3">
 Естествознание.
 Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 Нұртаева М.,
@@ -19145,7 +19328,7 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>17.</td>
-<td colspan="3">Естествознание. Электронный учебник 1,2 часть (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Естествознание. Электронный учебник 1,2 часть (web-платформа) https://topiq.kz/</td>
 <td>
 Верховцева Л.,
 Костюченко О.
@@ -19156,7 +19339,7 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>18.</td>
-<td colspan="3">Естествознание. 5 класс. Электронный учебник. (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Естествознание. 5 класс. Электронный учебник. (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Абдиманапов Б.,
 Абулгазиев А.,
@@ -19167,7 +19350,7 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>19.</td>
-<td colspan="3">Художественный труд (вариант для девочек). Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Художественный труд (вариант для девочек). Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Ермилова Е.,
 Попкова С.,
@@ -19178,7 +19361,7 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>20.</td>
-<td colspan="3">Художественный труд (вариант для мальчиков) Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Художественный труд (вариант для мальчиков) Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Ермилова Е.,
 Попкова С.,
@@ -19191,9 +19374,13 @@ http://​oqu​lyqt​ar.​kz
 <td>21.</td>
 <td colspan="3">
 Художественный труд. Электронный учебник (вариант для девочек)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
-<td>Алимсаева Р., Развенкова И., Велькер Е.</td>
+<td>
+Алимсаева Р.,
+Развенкова И.,
+Велькер Е.
+</td>
 <td>2022</td>
 <td colspan="2">Келешек-2030</td>
 </tr>
@@ -19201,20 +19388,24 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>22.</td>
 <td colspan="3">
 Художественный труд. Электронный учебник (вариант для мальчиков)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
-<td>Чукалин В. Развенкова И., Велькер Е.</td>
+<td>
+Чукалин В.
+Развенкова И.,
+Велькер Е.
+</td>
 <td>2022</td>
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Қазақ тілі мен әдебиеті. 6-сынып. Электрондық оқулық
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Г. Косымова,
@@ -19247,7 +19438,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 Русский язык.
 6 класс.
 Электронный учебник
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Сабитова З.,
@@ -19276,7 +19467,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Русская литература.
 Электронный учебник (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Бодрова Е.,
@@ -19293,7 +19484,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Русская литература. 6 класс.
 Электронный учебник
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Локтионова Н.,
@@ -19308,7 +19499,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Математика. 6 класс.
 Электронный учебник
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Абылкасымова А.,
@@ -19320,8 +19511,11 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>8.</td>
-<td colspan="3">Информатика. Электронный учебник (web-платформа) https://​topiq.​kz/</td>
-<td>Кадиркулов Р., Нурмуханбетова Г.</td>
+<td colspan="3">Информатика. Электронный учебник (web-платформа) https://topiq.kz/</td>
+<td>
+Кадиркулов Р.,
+Нурмуханбетова Г.
+</td>
 <td>2020</td>
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
@@ -19329,7 +19523,7 @@ www.​oqu​lyqt​ar.​kz
 <td>9.</td>
 <td colspan="3">
 Информатика. 6 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Мухамбетжанова С
@@ -19357,7 +19551,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>11.</td>
-<td colspan="3">История Казахстана. 6 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">История Казахстана. 6 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Омарбеков Т.,
 Хабижанова Г.,
@@ -19369,7 +19563,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>12.</td>
-<td colspan="3">Всемирная история. 6 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Всемирная история. 6 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Кокебаева Г.,
 Мырзабекова Р.,
@@ -19382,7 +19576,7 @@ www.​oqu​lyqt​ar.​kz
 <td>13.</td>
 <td colspan="3">
 Естествознание. Электронный учебник (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Суюндикова Ж.,
@@ -19398,7 +19592,7 @@ https://​topiq.​kz/
 <td>14.</td>
 <td colspan="3">
 Естествознание. 6 класс. Электронный учебник.
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Очкур Е.,
@@ -19410,7 +19604,7 @@ https://​topiq.​kz/
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -19433,15 +19627,20 @@ https://​topiq.​kz/
 Электронный учебник(СD)
 </td>
 <td>
-Баймуханов Б., Козтаева К., Берикканова С.,
-Соколова А., Нургалиева Г., Тажигулова А., Арыстанова А.
+Баймуханов Б.,
+Козтаева К.,
+Берикканова С.,
+Соколова А.,
+Нургалиева Г.,
+Тажигулова А.,
+Арыстанова А.
 </td>
 <td>2021</td>
 <td colspan="2">Новые образовательные технологии</td>
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">Алгебра. Электронный учебник http://​kel​eshe​k-​2030.​kz/​portal.​php</td>
+<td colspan="3">Алгебра. Электронный учебник http://keleshek-2030.kz/portal.php</td>
 <td>
 Жумадилова А.,
 Солтан Г.,
@@ -19453,7 +19652,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>4.</td>
-<td colspan="3">Алгебра. 7 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Алгебра. 7 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Шыныбеков А.,
 Шыныбеков Д.,
@@ -19467,7 +19666,7 @@ https://​topiq.​kz/
 <td colspan="3">
 Геометрия.
 Электронный учебник
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Солтан Г.,
@@ -19483,9 +19682,10 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="3">Информатика. Электронный учебник (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Информатика. Электронный учебник (web-платформа) https://topiq.kz/</td>
 <td>
-Кадиркулов Р., Рыскулбекова А.,
+Кадиркулов Р.,
+Рыскулбекова А.,
 Нурмуханбетова Г.
 </td>
 <td>2021</td>
@@ -19493,9 +19693,10 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="3">Информатика. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Информатика. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
-Мухамбетжанова С., Тен А.,
+Мухамбетжанова С.,
+Тен А.,
 Демидова Л.
 </td>
 <td>2021</td>
@@ -19505,9 +19706,13 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>8.</td>
 <td colspan="3">
 Русский язык. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
-<td>Сабитова З., Скляренко К., Дюсенова Д.</td>
+<td>
+Сабитова З.,
+Скляренко К.,
+Дюсенова Д.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
@@ -19515,18 +19720,23 @@ http://​oqu​lyqt​ar.​kz
 <td>9.</td>
 <td colspan="3">
 Русская литература. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
-<td>Локтионова Н., Забинякова Г., Иттерова И.</td>
+<td>
+Локтионова Н.,
+Забинякова Г.,
+Иттерова И.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
 <td>10.</td>
-<td colspan="3">Қазақ тілі мен әдебиеті. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Қазақ тілі мен әдебиеті. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Г.Қосымова,
-Ш. Ерхожина, Б.Абикеева.
+Ш. Ерхожина,
+Б.Абикеева.
 </td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
@@ -19535,10 +19745,12 @@ http://​oqu​lyqt​ar.​kz
 <td>11.</td>
 <td colspan="3">
 Алгебра. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
-Абылкасымова А., Кучер Т., Корчевский В.,
+Абылкасымова А.,
+Кучер Т.,
+Корчевский В.,
 Жумагулова З.
 </td>
 <td>2022</td>
@@ -19546,11 +19758,15 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>12.</td>
-<td colspan="3">Геометрия. Электронный учебник http://​e-​boo​ksgk​n.​kz/</td>
+<td colspan="3">Геометрия. Электронный учебник http://e-booksgkn.kz/</td>
 <td>
-Кайдасов Ж, Грачева С., Айтпаева С., Берикканова С.,
+Кайдасов Ж,
+Грачева С.,
+Айтпаева С.,
+Берикканова С.,
 Рамазанова А.,
-Нургалиева Г., Тажигулова А.
+Нургалиева Г.,
+Тажигулова А.
 </td>
 <td>2022</td>
 <td colspan="2">Центр педагогических технологий информатизации образования</td>
@@ -19570,7 +19786,7 @@ http://​oqu​lyqt​ar.​kz
 <td>14.</td>
 <td colspan="3">
 История Казахстана. 7 класс. Электронный учебник
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Кабульдинов З.,
@@ -19583,7 +19799,7 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>15.</td>
-<td colspan="3">Всемирная история. 7 класс. Электронный учебник (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Всемирная история. 7 класс. Электронный учебник (web-платформа) https://topiq.kz/</td>
 <td>
 Базарбаева Ж.,
 Шлюпиков М.,
@@ -19596,10 +19812,11 @@ http://​oqu​lyqt​ar.​kz
 <td>16.</td>
 <td colspan="3">
 География. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
-Толыбекова Ш., Головина Г.,
+Толыбекова Ш.,
+Головина Г.,
 Козина С.
 </td>
 <td>2022</td>
@@ -19607,14 +19824,18 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>17.</td>
-<td colspan="3">География. Электронный учебник 1,2 часть (web-платформа) https://​topiq.​kz/</td>
-<td>Каратабанов Р., Байметова Ж., Тенькебаева Ж.</td>
+<td colspan="3">География. Электронный учебник 1,2 часть (web-платформа) https://topiq.kz/</td>
+<td>
+Каратабанов Р.,
+Байметова Ж.,
+Тенькебаева Ж.
+</td>
 <td>2022</td>
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
 <td>18.</td>
-<td colspan="3">География. 7 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">География. 7 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Егорина А.,
 Нуркенова С.,
@@ -19627,7 +19848,8 @@ http://​oqu​lyqt​ar.​kz
 <td>19.</td>
 <td colspan="3">Физика. Электронный учебник (web-платформа) Ekitap.kz</td>
 <td>
-Закирова Н., ШуюшбаеваН.,
+Закирова Н.,
+ШуюшбаеваН.,
 Аширов Р.
 </td>
 <td>2022</td>
@@ -19635,10 +19857,11 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>20.</td>
-<td colspan="3">Физика. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Физика. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Кронгарт Б.,
-Даданбеков Е., Тоқбергенова У.
+Даданбеков Е.,
+Тоқбергенова У.
 </td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
@@ -19648,11 +19871,13 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="3">
 Химия.
 Электронный учебник
-http://​www.​notedu.​kz/
+http://www.notedu.kz/
 </td>
 <td>
-Джусубалиева Д., Шамганова Т.
-Нургалиева Г., Тажигулова А.
+Джусубалиева Д.,
+Шамганова Т.
+Нургалиева Г.,
+Тажигулова А.
 </td>
 <td>2022</td>
 <td colspan="2">Новые образовательные технологии</td>
@@ -19661,7 +19886,7 @@ http://​www.​notedu.​kz/
 <td>22.</td>
 <td colspan="3">
 Химия. Электронный учебник (web-платформа)
-https://​topiq.​kz/
+https://topiq.kz/
 </td>
 <td>
 Жумадилова Р.,
@@ -19674,14 +19899,18 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>23.</td>
-<td colspan="3">Химия. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
-<td>Оспанова М., Аухадиева Қ., Белоусова Т.</td>
+<td colspan="3">Химия. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
+<td>
+Оспанова М.,
+Аухадиева Қ.,
+Белоусова Т.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
 <td>24.</td>
-<td colspan="3">Химия. 7 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Химия. 7 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Усманова М.,
 Тантыбаева Б.,
@@ -19693,7 +19922,7 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>25.</td>
-<td colspan="3">Биология. 7 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Биология. 7 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Соловьева А.,
 Ибраимова Б.,
@@ -19704,9 +19933,10 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>26.</td>
-<td colspan="3">Художественный труд (вариант для девочек) Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Художественный труд (вариант для девочек) Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
-Ермилова Е., Попкова С.,
+Ермилова Е.,
+Попкова С.,
 Козина С.
 </td>
 <td>2022</td>
@@ -19714,9 +19944,10 @@ https://​topiq.​kz/
 </tr>
 <tr>
 <td>27.</td>
-<td colspan="3">Художественный труд (вариант для мальчиков) Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Художественный труд (вариант для мальчиков) Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
-Ермилова Е., Попкова С.,
+Ермилова Е.,
+Попкова С.,
 Козина С.
 </td>
 <td>2022</td>
@@ -19726,9 +19957,13 @@ https://​topiq.​kz/
 <td>28.</td>
 <td colspan="3">
 Художественный труд. Электронный учебник (вариант для девочек)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
-<td>Алимсаева Р., Развенкова И., Велькер Е.</td>
+<td>
+Алимсаева Р.,
+Развенкова И.,
+Велькер Е.
+</td>
 <td>2022</td>
 <td colspan="2">Келешек-2030</td>
 </tr>
@@ -19736,23 +19971,24 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>29.</td>
 <td colspan="3">
 Художественный труд. Электронный учебник (вариант для мальчиков)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Чукалин В.,
-Развенкова И., Велькер Е.
+Развенкова И.,
+Велькер Е.
 </td>
 <td>2022</td>
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Қазақ тілі мен әдебиеті. 8-сынып. Электрондық оқулық
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Г. Косымова,
@@ -19780,7 +20016,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">Русский язык. 8 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Русский язык. 8 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Сабитова З.,
 Скляренко К.,
@@ -19793,7 +20029,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>4.</td>
 <td colspan="3">
 Русская литература. 8 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Шашкина Г.,
@@ -19807,7 +20043,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>5.</td>
 <td colspan="3">
 Алгебра. Электронный учебник для учащихся 8 класса общеобразовательной школы
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Жумадилова А.,
@@ -19823,7 +20059,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Геометрия.
 Электронный учебник
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Солтан Г.,
@@ -19839,7 +20075,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="3">Геометрия. 8 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Геометрия. 8 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Смирнов В.,
 Туяков Е.,
@@ -19850,9 +20086,10 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td colspan="3">Информатика. Электронный учебник (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Информатика. Электронный учебник (web-платформа) https://topiq.kz/</td>
 <td>
-Кадиркулов Р., Рыскулбекова А.,
+Кадиркулов Р.,
+Рыскулбекова А.,
 Нурмуханбетова Г.
 </td>
 <td>2021</td>
@@ -19860,9 +20097,10 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>9.</td>
-<td colspan="3">Информатика. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Информатика. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
-Мухамбетжанова С., Тен А.,
+Мухамбетжанова С.,
+Тен А.,
 Демидова Л.
 </td>
 <td>2021</td>
@@ -19883,7 +20121,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>11.</td>
 <td colspan="3">
 Informatics. 8. Билингвальный электронный учебник
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 Жунусов А.,
@@ -19911,7 +20149,7 @@ Ekitap.kz
 <td>13.</td>
 <td colspan="3">
 Физика. 8 класс. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Кронгарт Б.,
@@ -19925,7 +20163,7 @@ www.​oqu​lyqt​ar.​kz
 <td>14.</td>
 <td colspan="3">
 Physics. 8. Билингвальный электронный учебник
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 Алтынбеков Ш.,
@@ -19941,7 +20179,7 @@ www.​mersys.​io
 <td colspan="3">
 Химия. 8 класс.
 Электронный учебник
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 Жумагулов Н.,
@@ -19955,7 +20193,7 @@ www.​mersys.​io
 <td>16.</td>
 <td colspan="3">
 Химия. 8 класс. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Оспанова М.,
@@ -19969,7 +20207,7 @@ www.​oqu​lyqt​ar.​kz
 <td>17.</td>
 <td colspan="3">
 Chemistry. 8 Билингвальный электронный учебник
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 Жумагулов Н.,
@@ -19983,7 +20221,7 @@ www.​mersys.​io
 <td>18.</td>
 <td colspan="3">
 Biology. 8 Билингвальный электронный учебник
-www.​mersys.​io
+www.mersys.io
 </td>
 <td>
 Эрметов Б.,
@@ -19996,7 +20234,7 @@ www.​mersys.​io
 </tr>
 <tr>
 <td>19.</td>
-<td colspan="3">История Казахстана. 8 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">История Казахстана. 8 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Омарбеков Т.,
 Хабижанова Г.,
@@ -20008,7 +20246,7 @@ www.​mersys.​io
 </tr>
 <tr>
 <td>20.</td>
-<td colspan="3">Всемирная история. 8 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Всемирная история. 8 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Алдабек Н.,
 Макашева К.,
@@ -20019,7 +20257,7 @@ www.​mersys.​io
 </tr>
 <tr>
 <td>21.</td>
-<td colspan="3">География. Электронный учебник (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">География. Электронный учебник (web-платформа) https://topiq.kz/</td>
 <td>
 Каратабанов Р.,
 Куанышева Г.,
@@ -20033,7 +20271,7 @@ www.​mersys.​io
 <td>22.</td>
 <td colspan="3">
 География. 8 класс. Электронный учебник
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Абильмажинова С.,
@@ -20044,14 +20282,14 @@ www.​mersys.​io
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Қазақ тілі мен әдебиеті. 9-сынып. Электрондық оқулық
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Г. Косымова,
@@ -20069,7 +20307,7 @@ www.​oqu​lyqt​ar.​kz
 9 класс.
 Электронный учебник
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Сабитова З.,
@@ -20085,7 +20323,7 @@ www.​oqu​lyqt​ar.​kz
 Русская литература.
 9 класс.
 Электронный учебник
-(web-платформа)www.​oqu​lyqt​ar.​kz
+(web-платформа)www.oqulyqtar.kz
 </td>
 <td>
 Шашкина Г.,
@@ -20100,7 +20338,7 @@ www.​oqu​lyqt​ar.​kz
 <td>4.</td>
 <td colspan="3">
 Алгебра. Электронный учебник
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Жумадилова А.,
@@ -20116,7 +20354,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Геометрия.
 Электронный учебник
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Солтан Г.,
@@ -20136,7 +20374,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 Геометрия. 9 класс.
 Электронный учебник
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Смирнов В.,
@@ -20151,7 +20389,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Информатика.
 Электронный учебник.
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Кадиркулов Р.,
@@ -20184,7 +20422,7 @@ www.​oqu​lyqt​ar.​kz
 <td>9.</td>
 <td colspan="3">
 Химия. 9 класс. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Оспанова М.,
@@ -20196,7 +20434,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>10.</td>
-<td colspan="3">История Казахстана. 9 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">История Казахстана. 9 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Ускембаев К.,
 Сактаганова З.,
@@ -20209,7 +20447,7 @@ www.​oqu​lyqt​ar.​kz
 <td>11.</td>
 <td colspan="3">
 Основы права. 9 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Ибраева А.,
@@ -20223,11 +20461,13 @@ www.​oqu​lyqt​ar.​kz
 <td>12.</td>
 <td colspan="3">
 География Казахстана. 1,2 часть Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
-Каратабанов Р., Саипов А.,
-Балгабаева Б., Сапаров К.
+Каратабанов Р.,
+Саипов А.,
+Балгабаева Б.,
+Сапаров К.
 </td>
 <td>2022</td>
 <td colspan="2">Алматыкітап баспасы</td>
@@ -20238,7 +20478,7 @@ www.​oqu​lyqt​ar.​kz
 География Казахстана.
 9 класс. Электронный учебник
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Толыбекова Ш.,
@@ -20250,16 +20490,16 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
-<th colspan="8">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="8">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Алгебра и начала анализа. (ОГН) Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Пак О.,
@@ -20273,7 +20513,7 @@ www.​oqu​lyqt​ar.​kz
 <td>2.</td>
 <td colspan="3">
 Русский язык (ОГН). 10 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Сабитова З.,
@@ -20288,7 +20528,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Русская литература (ОГН).
 10 класс. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Салханова Ж.,
@@ -20302,7 +20542,7 @@ www.​oqu​lyqt​ar.​kz
 <td>4.</td>
 <td colspan="3">
 Геометрия (ОГН). 10 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Смирнов В.,
@@ -20316,7 +20556,7 @@ www.​oqu​lyqt​ar.​kz
 <td>5.</td>
 <td colspan="3">
 Всемирная история (ОГН). 10 класс. Электронный учебник
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Кайырбекова Р.,
@@ -20331,7 +20571,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Основы права (ОГН). 10 класс.
 Электронный учебник
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Ибраева А.,
@@ -20344,7 +20584,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="3">География (ОГН). 10 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">География (ОГН). 10 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Каймулдинова К.,
 Абильмажинова С.,
@@ -20357,7 +20597,7 @@ www.​oqu​lyqt​ar.​kz
 <td>8.</td>
 <td colspan="3">
 Химия (ОГН). 10 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Оспанова М.,
@@ -20368,11 +20608,11 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="8">жаратылыстану-математикалық бағыт</th>
+<td colspan="8">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Русский язык. (ЕМН) Электронный учебник (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Русский язык. (ЕМН) Электронный учебник (web-платформа) https://topiq.kz/</td>
 <td>
 А. Султанова,
 М. Бондаренко,
@@ -20383,7 +20623,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="3">Информатика. (ЕМН) Электронный учебник (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">Информатика. (ЕМН) Электронный учебник (web-платформа) https://topiq.kz/</td>
 <td>
 Кадиркулов Р.,
 Нурмуханбетова Г.
@@ -20393,7 +20633,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">География. (ЕМН) Электронный учебник (web-платформа) https://​topiq.​kz/</td>
+<td colspan="3">География. (ЕМН) Электронный учебник (web-платформа) https://topiq.kz/</td>
 <td>
 Тулепбекова С.,
 Жапанова Г.,
@@ -20407,7 +20647,7 @@ www.​oqu​lyqt​ar.​kz
 <td>4.</td>
 <td colspan="3">
 Русский язык (ЕМН). 10 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Сабитова З.,
@@ -20422,7 +20662,7 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="3">
 Русская литература (ЕМН).
 10 класс. Электронный учебник (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Салханова Ж.,
@@ -20436,7 +20676,7 @@ www.​oqu​lyqt​ar.​kz
 <td>6.</td>
 <td colspan="3">
 Геометрия (ЕМН). 10 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Смирнов В.,
@@ -20450,7 +20690,7 @@ www.​oqu​lyqt​ar.​kz
 <td>7.</td>
 <td colspan="3">
 Всемирная история (ЕМН). 10 класс. Электронный учебник
-(web-платформа) www.​oqu​lyqt​ar.​kz
+(web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Кайырбекова Р.,
@@ -20464,7 +20704,7 @@ www.​oqu​lyqt​ar.​kz
 <td>8.</td>
 <td colspan="3">
 Основы права (ЕМН). 10 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Ибраева А.,
@@ -20479,7 +20719,7 @@ www.​oqu​lyqt​ar.​kz
 <td>9.</td>
 <td colspan="3">
 Информатика (ЕМН). 10 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Кольева Н.,
@@ -20491,7 +20731,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>10.</td>
-<td colspan="3">География (ЕМН). 10 класс. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
+<td colspan="3">География (ЕМН). 10 класс. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
 <td>
 Абильмажинова С.,
 Каймулдинова К.,
@@ -20501,14 +20741,14 @@ www.​oqu​lyqt​ar.​kz
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="8">10-сынып</th>
+<td colspan="8">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Қазақ тілі мен әдебиеті. 10-сынып. Электронный учебник
 (web-платформа)
-www.​oqu​lyqt​ar.​kz
+www.oqulyqtar.kz
 </td>
 <td>
 Г. Косымова,
@@ -20520,7 +20760,7 @@ www.​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="3">Геометрия. Электронный учебник http://​kel​eshe​k-​2030.​kz/​portal.​php</td>
+<td colspan="3">Геометрия. Электронный учебник http://keleshek-2030.kz/portal.php</td>
 <td>
 Солтан Г.,
 Солтан А..,
@@ -20560,7 +20800,7 @@ www.​oqu​lyqt​ar.​kz
 <td>5.</td>
 <td colspan="3">
 История Казахстана. 10 класс.
-Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz
+Электронный учебник (web-платформа) www.oqulyqtar.kz
 </td>
 <td>
 Джандосова З.,
@@ -20574,7 +20814,7 @@ www.​oqu​lyqt​ar.​kz
 <td>6.</td>
 <td colspan="3">
 Начальная военная и технологическая подготовка. Часть 1. Начальная военная и технологическая подготовка. Часть 2. Учебно-полевые (лагерные) сборы. Электронный учебник
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Рыспаев А.,
@@ -20592,16 +20832,20 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="3">Начальная военная и технологическая подготовка. Электронный учебник (web-платформа) www.​oqu​lyqt​ar.​kz</td>
-<td>Тасбулатов А., Майхиев Д., Акимбаев Е.</td>
+<td colspan="3">Начальная военная и технологическая подготовка. Электронный учебник (web-платформа) www.oqulyqtar.kz</td>
+<td>
+Тасбулатов А.,
+Майхиев Д.,
+Акимбаев Е.
+</td>
 <td>2023</td>
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -20620,7 +20864,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="3">Қазақ тілі мен әдебиеті Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Қазақ тілі мен әдебиеті Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Г.Косымова,
 М. Бисенбаева,
@@ -20634,7 +20878,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Русская литература (ОГН).
 Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Абишева С.,
@@ -20665,15 +20909,23 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>5.</td>
-<td colspan="3">Русский язык (ОГН) Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
-<td>Сабитова З., Бейсембаев А., Скляренко К.</td>
+<td colspan="3">Русский язык (ОГН) Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
+<td>
+Сабитова З.,
+Бейсембаев А.,
+Скляренко К.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="3">Русская литература (ОГН) Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
-<td>Локтионова Н., Забинякова Г., Иттерова И.</td>
+<td colspan="3">Русская литература (ОГН) Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
+<td>
+Локтионова Н.,
+Забинякова Г.,
+Иттерова И.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
@@ -20682,7 +20934,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Геометрия. (ОГН)
 Электронный учебник
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Солтан Г.,
@@ -20698,7 +20950,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>8.</td>
-<td colspan="3">Геометрия.Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Геометрия.Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Смирнов В.,
 Тұяқов Е.,
@@ -20712,7 +20964,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Информатика. (ОГН).
 Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Архипова В.,
@@ -20726,17 +20978,23 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>10.</td>
 <td colspan="3">
 География.Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
-<td>Каймулдинова К., Абдиманапов Б., Әбілмажінова С., Саипов А.</td>
+<td>
+Каймулдинова К.,
+Абдиманапов Б.,
+Әбілмажінова С.,
+Саипов А.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
 <td>11.</td>
-<td colspan="3">Химия. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Химия. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
-Оспанова М., Аухадиева Қ.,
+Оспанова М.,
+Аухадиева Қ.,
 Белоусова Т.
 </td>
 <td>2022</td>
@@ -20746,11 +21004,12 @@ http://​oqu​lyqt​ar.​kz
 <td>12.</td>
 <td colspan="3">
 Всемирная история. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
 Қайырбекова Р.,
-Ибраева А., Аязбаева Г.
+Ибраева А.,
+Аязбаева Г.
 </td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
@@ -20759,21 +21018,31 @@ http://​oqu​lyqt​ar.​kz
 <td>13.</td>
 <td colspan="3">
 Основы права. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
-<td>Ибраева А., Еркинбаева Л., Назаркулова Л., Ищанова Г., Бекишев А., Турсынкулова Д., Гончаров С., Баданова А., Касымжанова А.</td>
+<td>
+Ибраева А.,
+Еркинбаева Л.,
+Назаркулова Л.,
+Ищанова Г.,
+Бекишев А.,
+Турсынкулова Д.,
+Гончаров С.,
+Баданова А.,
+Касымжанова А.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Русский язык. (ЕМН).
 Электронный учебник
-(web-платформа) https://​topiq.​kz
+(web-платформа) https://topiq.kz
 </td>
 <td>
 А. Султанова,
@@ -20790,7 +21059,7 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="3">
 Русская литература (ЕМН).
 Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Абишева С.,
@@ -20803,8 +21072,12 @@ http://​oqu​lyqt​ar.​kz
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">Русский язык. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
-<td>Сабитова З., Бейсембаев А., Скляренко К.</td>
+<td colspan="3">Русский язык. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
+<td>
+Сабитова З.,
+Бейсембаев А.,
+Скляренко К.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
@@ -20826,9 +21099,13 @@ http://​oqu​lyqt​ar.​kz
 <td>5.</td>
 <td colspan="3">
 Русская литература. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
-<td>Локтионова Н., Забинякова Г., Иттерова И.</td>
+<td>
+Локтионова Н.,
+Забинякова Г.,
+Иттерова И.
+</td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
@@ -20837,7 +21114,7 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="3">
 Информатика. (ЕМН).
 Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Архипова В.,
@@ -20852,19 +21129,21 @@ http://​oqu​lyqt​ar.​kz
 <td colspan="3">
 Геометрия. Электронный учебник
 (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Солтан Г.,
-Солтан А., Жумадилова А.,
-Лосенко О., Ергалиев Ж.
+Солтан А.,
+Жумадилова А.,
+Лосенко О.,
+Ергалиев Ж.
 </td>
 <td>2021</td>
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
 <td>8.</td>
-<td colspan="3">Геометрия. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Геометрия. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Смирнов В.,
 Тұяқов Е.,
@@ -20925,9 +21204,10 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>12.</td>
-<td colspan="3">География. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">География. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
-Каймулдинова К., Абильмажинова С.,
+Каймулдинова К.,
+Абильмажинова С.,
 Абдиманапов Б.
 </td>
 <td>2022</td>
@@ -20938,17 +21218,23 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 География. (ЕМН).
 Электронный учебник
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
-<td>Тулепбекова С., Жапанова Г., Былинская С., Чистякова Г.</td>
+<td>
+Тулепбекова С.,
+Жапанова Г.,
+Былинская С.,
+Чистякова Г.
+</td>
 <td>2022</td>
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
 <td>14.</td>
-<td colspan="3">Химия. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Химия. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
-Оспанова М., Аухадиева Қ.,
+Оспанова М.,
+Аухадиева Қ.,
 Белоусова Т.
 </td>
 <td>2022</td>
@@ -20956,7 +21242,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>15.</td>
-<td colspan="3">Всемирная история. Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Всемирная история. Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Қайырбекова Р.,
 Ибраева А.,
@@ -20969,23 +21255,30 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>16.</td>
 <td colspan="3">
 Основы права. Электронный учебник (web-платформа)
-http://​oqu​lyqt​ar.​kz
+http://oqulyqtar.kz
 </td>
 <td>
-Ибраева А., Еркинбаева Л., Назаркулова Л., Ищанова Г.,
-Бекишев А., Турсынкулова Д., Гончаров С., Баданова А., Касымжанова А.
+Ибраева А.,
+Еркинбаева Л.,
+Назаркулова Л.,
+Ищанова Г.,
+Бекишев А.,
+Турсынкулова Д.,
+Гончаров С.,
+Баданова А.,
+Касымжанова А.
 </td>
 <td>2022</td>
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Начальная военная и технологическая подготовка. Электронный учебник для учащихся 11 класса общеобразовательной школы
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Рихтер А.,
@@ -20999,7 +21292,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="3">Начальная военная и технологическая подготовка Электронный учебник (web-платформа) http://​oqu​lyqt​ar.​kz</td>
+<td colspan="3">Начальная военная и технологическая подготовка Электронный учебник (web-платформа) http://oqulyqtar.kz</td>
 <td>
 Тасбулатов А.,
 Майхиев Д.,
@@ -21010,13 +21303,13 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="8">оқыту қазақ және орыс тілдерінде</th>
+<td colspan="8">оқыту қазақ және орыс тілдерінде</td>
 </tr>
 <tr>
-<th colspan="8">Ағылшын тілінде</th>
+<td colspan="8">Ағылшын тілінде</td>
 </tr>
 <tr>
-<th colspan="8">8-сынып</th>
+<td colspan="8">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -21105,16 +21398,16 @@ D. Kaliyev
 <td colspan="2">Астана-кітап</td>
 </tr>
 <tr>
-<th colspan="9">с казахским, русским, уйгурским, узбекским языками обучения</th>
+<td colspan="9">с казахским, русским, уйгурским, узбекским языками обучения</td>
 </tr>
 <tr>
-<th colspan="9">начальная образование</th>
+<td colspan="9">начальная образование</td>
 </tr>
 <tr>
-<th colspan="9">Английский язык</th>
+<td colspan="9">Английский язык</td>
 </tr>
 <tr>
-<th colspan="8">1-сынып</th>
+<td colspan="8">1-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21122,7 +21415,7 @@ D. Kaliyev
 Pupil’s Book for Kazakhstan Grade 1 «Smiles 1».
 Электронный учебник
 (web-платформа)
-1 class. https://​topiq.​kz/
+1 class. https://topiq.kz/
 </td>
 <td>
 Jenny Dooley –
@@ -21134,7 +21427,7 @@ N. Mukhamedjanova
 <td colspan="2">Express Publishing</td>
 </tr>
 <tr>
-<th colspan="8">3-сынып</th>
+<td colspan="8">3-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21144,7 +21437,7 @@ N. Mukhamedjanova
 <td colspan="2">Express Publishing &amp; EDU Stream</td>
 </tr>
 <tr>
-<th colspan="8">6-сынып</th>
+<td colspan="8">6-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21165,7 +21458,7 @@ Kamila Beibitbayeva
 <td colspan="2">Oxford University Press</td>
 </tr>
 <tr>
-<th colspan="8">8-сынып</th>
+<td colspan="8">8-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21186,10 +21479,10 @@ Kamila Beibitbayeva
 <td colspan="2">Oxford University Press</td>
 </tr>
 <tr>
-<th colspan="8">Француз тілі</th>
+<td colspan="8">Француз тілі</td>
 </tr>
 <tr>
-<th colspan="8">3-сынып</th>
+<td colspan="8">3-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21197,12 +21490,12 @@ Kamila Beibitbayeva
 Le français
 Livre de l’élève Pour le Kazakhstan classe 3 Le manuel électronique
 </td>
-<td>M.​Maryn A.​Gousseva D.​Kou​zatb​ek</td>
+<td>M.Maryn A.Gousseva D.Kouzatbek</td>
 <td>2023</td>
 <td colspan="2">Просвещение и EDU Stream</td>
 </tr>
 <tr>
-<th colspan="8">5-сынып</th>
+<td colspan="8">5-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21221,10 +21514,10 @@ D. Kouzatbek.
 <td colspan="2">Просвещение и EDU Stream</td>
 </tr>
 <tr>
-<th colspan="8">Неміс тілі</th>
+<td colspan="8">Неміс тілі</td>
 </tr>
 <tr>
-<th colspan="8">6-сынып</th>
+<td colspan="8">6-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21242,7 +21535,7 @@ S. Kaskyrbaeva
 <td colspan="2">EDU Stream</td>
 </tr>
 <tr>
-<th colspan="8">7-сынып</th>
+<td colspan="8">7-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21261,7 +21554,7 @@ DEUTSCH. 7. Klasse.
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="8">8-сынып</th>
+<td colspan="8">8-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21278,19 +21571,19 @@ DEUTSCH. 8. Klasse.
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">
+<td colspan="9">
 Ерекше білім беруге қажеттілігі бар білім алушыларға
 арналған оқу әдебиеті
-</th>
+</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ тілінде</th>
+<td colspan="9">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<th colspan="9">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</th>
+<td colspan="9">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21369,7 +21662,7 @@ DEUTSCH. 8. Klasse.
 <td colspan="2">«Назарбаев зияткерлік мектептері» ДББҰ - ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -21422,7 +21715,7 @@ DEUTSCH. 8. Klasse.
 <td colspan="2">Алматыкітап баспасы -ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -21480,7 +21773,7 @@ DEUTSCH. 8. Klasse.
 <td colspan="2">Алматыкітап баспасы - ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="8">4-сынып</th>
+<td colspan="8">4-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21544,7 +21837,7 @@ Bob Obee,
 <td colspan="2">Express Publishing-ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -21596,7 +21889,7 @@ Bob Obee,
 <td colspan="2">Атамұра -ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="8">6-сынып</th>
+<td colspan="8">6-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -21661,7 +21954,7 @@ Bob Obee
 <td colspan="2">Express Publishing-ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -21729,7 +22022,7 @@ Bob Obee
 <td colspan="2">Мектеп-ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -21776,7 +22069,7 @@ Bob Obee
 <td colspan="2">Мектеп- ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -21815,10 +22108,10 @@ Bob Obee
 <td colspan="2">Мектеп- ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулықтар</th>
+<td colspan="9">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулықтар</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -21877,7 +22170,7 @@ Bob Obee
 <td colspan="2">«Назарбаев зияткерлік мектептері» ДББҰ - ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -21914,7 +22207,7 @@ Bob Obee
 <td colspan="2">Алматыкітап баспасы -ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -21969,7 +22262,7 @@ Bob Obee
 <td colspan="2">Алматыкітап баспасы -ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22008,7 +22301,7 @@ Bob Obee
 <td colspan="2">Алматыкітап баспасы - ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22044,7 +22337,7 @@ Bob Obee
 <td colspan="2">Атамұра-ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22085,7 +22378,7 @@ Bob Obee
 <td colspan="2">Мектеп - ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22155,7 +22448,7 @@ Bob Obee
 <td colspan="2">Мектеп - ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">8 - сынып</th>
+<td colspan="9">8 - сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22207,7 +22500,7 @@ Bob Obee
 <td colspan="2">Мектеп- ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22245,7 +22538,7 @@ Bob Obee
 <td colspan="2">Мектеп- ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="8">10 -сынып</th>
+<td colspan="8">10 -сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -22306,15 +22599,15 @@ In two books
 Virginia Evans
 Jenny Dooley
 Bob Obee
-Translations by N.​Muk​hame​djan​ova
+Translations by N.Mukhamedjanova
 Adapted by:
-D.​Bak​berg​enov​a
+D.Bakbergenova
 </td>
 <td>2023</td>
 <td colspan="2">Express Publishing-ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="8">11-сынып</th>
+<td colspan="8">11-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -22368,18 +22661,18 @@ D.​Bak​berg​enov​a
 <td>
 Jenny Dooley
 Bob Obee
-Translations by N.​Muk​hame​djan​ova
+Translations by N.Mukhamedjanova
 Adapted by:
-R.​Kac​hsha​yev
+R.Kachshayev
 </td>
 <td>2023</td>
 <td colspan="2">Express Publishing-ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқулықтар</th>
+<td colspan="9">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқулықтар</td>
 </tr>
 <tr>
-<th colspan="9">0-сынып</th>
+<td colspan="9">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22428,7 +22721,7 @@ R.​Kac​hsha​yev
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22462,7 +22755,7 @@ R.​Kac​hsha​yev
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22520,7 +22813,7 @@ R.​Kac​hsha​yev
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22592,7 +22885,7 @@ R.​Kac​hsha​yev
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22644,7 +22937,7 @@ R.​Kac​hsha​yev
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22699,7 +22992,7 @@ R.​Kac​hsha​yev
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22761,7 +23054,7 @@ R.​Kac​hsha​yev
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22830,7 +23123,7 @@ R.​Kac​hsha​yev
 <td colspan="2">Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22897,7 +23190,7 @@ R.​Kac​hsha​yev
 <td colspan="2">Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -22963,7 +23256,7 @@ R.​Kac​hsha​yev
 <td colspan="2">Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23012,13 +23305,13 @@ R.​Kac​hsha​yev
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">оқыту орыс тілінде</th>
+<td colspan="9">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<th colspan="9">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</th>
+<td colspan="9">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқулықтар</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23095,7 +23388,7 @@ R.​Kac​hsha​yev
 <td colspan="2">АОО «Назарбаев интеллектуальные школы»-САТР</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23153,7 +23446,7 @@ R.​Kac​hsha​yev
 <td colspan="2">Алматыкітап баспасы - САТР</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23226,7 +23519,7 @@ Jenny Dooley
 <td colspan="2">Express Publishing- САТР</td>
 </tr>
 <tr>
-<th colspan="8">4-сынып</th>
+<td colspan="8">4-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -23282,7 +23575,7 @@ Jenny Dooley
 <td colspan="2">Алматыкітап баспасы -САТР</td>
 </tr>
 <tr>
-<th colspan="8">5-сынып</th>
+<td colspan="8">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23332,7 +23625,7 @@ Jenny Dooley
 <td colspan="2">Атамұра-САТР</td>
 </tr>
 <tr>
-<th colspan="8">6-сынып</th>
+<td colspan="8">6-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -23381,7 +23674,7 @@ Jenny Dooley
 <td colspan="2">Мектеп-САТР</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23462,7 +23755,7 @@ Bob Obee
 <td colspan="2">Express Publishing- САТР</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23504,7 +23797,7 @@ Bob Obee
 <td colspan="2">Мектеп-САТР</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23536,10 +23829,10 @@ Bob Obee
 <td colspan="2">Мектеп-САТР</td>
 </tr>
 <tr>
-<th colspan="9">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулықтар</th>
+<td colspan="9">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқулықтар</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23596,7 +23889,7 @@ Bob Obee
 <td colspan="2">АОО «Назарбаев интеллектуальные школы»- САТР</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23629,7 +23922,7 @@ Bob Obee
 <td colspan="2">Алматыкітап баспасы - САТР</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23677,7 +23970,7 @@ Bob Obee
 <td colspan="2">Алматыкітап баспасы - САТР</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23703,7 +23996,7 @@ Bob Obee
 <td>
 Н. Регель,
 О.Труханова,
-Е. БогатырҰва,
+Е. Богатырёва,
 Р. Бучина,
 Е.Штукина
 Адаптировала:
@@ -23735,7 +24028,7 @@ Bob Obee
 <td>
 Jenny Dooley,
 Bob Obee,
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 Адаптировала:
 D. Bakbergenova
 </td>
@@ -23743,7 +24036,7 @@ D. Bakbergenova
 <td colspan="2">Express Publishing- САТР</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23767,7 +24060,7 @@ D. Bakbergenova
 <td colspan="2">Атамұра - САТР</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23813,7 +24106,7 @@ D. Bakbergenova
 <td>
 Jenny Dooley,
 Bob Obee,
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 Адаптировала:
 D. Bakbergenova
 </td>
@@ -23821,7 +24114,7 @@ D. Bakbergenova
 <td colspan="2">Express Publishing- САТР</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23885,7 +24178,7 @@ D. Bakbergenova
 <td colspan="2">Мектеп - САТР</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23936,7 +24229,7 @@ D. Bakbergenova
 <td colspan="2">Мектеп – САТР</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -23973,7 +24266,7 @@ D. Bakbergenova
 <td colspan="2">Мектеп – САТР</td>
 </tr>
 <tr>
-<th colspan="8">10-сынып</th>
+<td colspan="8">10-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -24019,7 +24312,7 @@ D. Bakbergenova
 <td colspan="2">Мектеп-САТР</td>
 </tr>
 <tr>
-<th colspan="8">11-сынып</th>
+<td colspan="8">11-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -24058,13 +24351,13 @@ D. Bakbergenova
 <td colspan="2">Мектеп-САТР</td>
 </tr>
 <tr>
-<th colspan="9">
+<td colspan="9">
 Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға)
 арналған оқулықтар
-</th>
+</td>
 </tr>
 <tr>
-<th colspan="9">0-сынып</th>
+<td colspan="9">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24098,7 +24391,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24133,7 +24426,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24188,7 +24481,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24245,7 +24538,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24286,7 +24579,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24337,7 +24630,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24387,7 +24680,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24453,7 +24746,7 @@ D. Bakbergenova
 <td colspan="2">Компания Консалтинг &amp; Тренинг</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24518,7 +24811,7 @@ D. Bakbergenova
 <td colspan="2">Компания Консалтинг &amp;Тренинг</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24577,7 +24870,7 @@ D. Bakbergenova
 <td colspan="2">Компания Консалтинг &amp; Тренинг</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24621,16 +24914,16 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">
+<td colspan="9">
 Мектепке дейінгі ұйымдарға, орта білім беру ұйымдарына арналған
 оқу-әдістемелік кешендер
-</th>
+</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ тілінде</th>
+<td colspan="9">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<th colspan="9">Ерте жас тобы (1 жастан бастап)</th>
+<td colspan="9">Ерте жас тобы (1 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -24689,7 +24982,7 @@ D. Bakbergenova
 <td colspan="2">Арман-ПВ</td>
 </tr>
 <tr>
-<th colspan="9">Кіші топ (2 жастан бастап)</th>
+<td colspan="9">Кіші топ (2 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -25084,7 +25377,7 @@ D. Bakbergenova
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">Ортаңғы топ (3 жастан бастап)</th>
+<td colspan="9">Ортаңғы топ (3 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -26027,7 +26320,7 @@ D. Bakbergenova
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">Ересектер тобы (4 жастан бастап)</th>
+<td colspan="9">Ересектер тобы (4 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -27043,7 +27336,7 @@ D. Bakbergenova
 <td>Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">Мектепалды топ, мектепалды сынып (5 жастан бастап)</th>
+<td colspan="9">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -28374,7 +28667,7 @@ D. Bakbergenova
 <td colspan="3">
 Қоршаған ортамен танысу.
 Электрондық жұмыс дәптері
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>С. Сағиева</td>
 <td>2022</td>
@@ -28385,7 +28678,7 @@ D. Bakbergenova
 <td colspan="3">
 Математика негіздері.
 Электрондық жұмыс дәптері 1,2
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>
 Ә. Ақпаева,
@@ -28399,7 +28692,7 @@ D. Bakbergenova
 <td>110.</td>
 <td colspan="3">
 Сауат ашу негіздері. Электрондық жұмыс дәптері 1,2
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>Г. Тұрсынбаева</td>
 <td>2022</td>
@@ -28552,10 +28845,10 @@ D. Bakbergenova
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">оқыту орыс тілінде</th>
+<td colspan="9">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<th colspan="9">Ерте жас тобы (1 жастан бастап)</th>
+<td colspan="9">Ерте жас тобы (1 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -28584,7 +28877,7 @@ D. Bakbergenova
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">Кіші топ (2 жастан бастап)</th>
+<td colspan="9">Кіші топ (2 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -28982,7 +29275,7 @@ D. Bakbergenova
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">Ортаңғы топ (3 жастан бастап)</th>
+<td colspan="9">Ортаңғы топ (3 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -29952,7 +30245,7 @@ D. Bakbergenova
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">Ересектер тобы (4 жастан бастап)</th>
+<td colspan="9">Ересектер тобы (4 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -31009,7 +31302,7 @@ D. Bakbergenova
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">Мектепалды топ, мектепалды сынып (5 жастан бастап)</th>
+<td colspan="9">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -32281,7 +32574,7 @@ D. Bakbergenova
 <td colspan="3">
 Ознакомление с окружающим миром.
 Электронная рабочая тетрадь
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>Терехова Е.</td>
 <td>2022</td>
@@ -32291,7 +32584,7 @@ D. Bakbergenova
 <td>117.</td>
 <td colspan="3">
 Основы математики.
-Электронная рабочая тетрадь (web-платформа) https://​topiq.​kz/
+Электронная рабочая тетрадь (web-платформа) https://topiq.kz/
 </td>
 <td>
 Акпаева А.,
@@ -32306,7 +32599,7 @@ D. Bakbergenova
 <td colspan="3">
 Основы грамоты.
 Электронная рабочая тетрадь
-(web-платформа) https://​topiq.​kz/
+(web-платформа) https://topiq.kz/
 </td>
 <td>Куликова И.</td>
 <td>2022</td>
@@ -32428,10 +32721,10 @@ D. Bakbergenova
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ және орыс тілдерінде</th>
+<td colspan="9">оқыту қазақ және орыс тілдерінде</td>
 </tr>
 <tr>
-<th colspan="9">Кіші топ (2 жастан бастап)</th>
+<td colspan="9">Кіші топ (2 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -32503,7 +32796,7 @@ D. Bakbergenova
 <td colspan="2">Shugylakitap</td>
 </tr>
 <tr>
-<th colspan="9">Ортаңғы топ (3 жастан бастап)</th>
+<td colspan="9">Ортаңғы топ (3 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -32639,7 +32932,7 @@ D. Bakbergenova
 <td colspan="2">Арман-ПВ</td>
 </tr>
 <tr>
-<th colspan="9">Ересектер тобы (4 жастан бастап)</th>
+<td colspan="9">Ересектер тобы (4 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -32805,7 +33098,7 @@ D. Bakbergenova
 <td colspan="2">Shugylakitap</td>
 </tr>
 <tr>
-<th colspan="9">Мектепалды топ, мектепалды сынып (5 жастан бастап)</th>
+<td colspan="9">Мектепалды топ, мектепалды сынып (5 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -32915,16 +33208,16 @@ D. Bakbergenova
 <td colspan="2">&quot;Shugylakitaр&quot;</td>
 </tr>
 <tr>
-<th colspan="9">Цифрлық басылымдар</th>
+<td colspan="9">Цифрлық басылымдар</td>
 </tr>
 <tr>
-<th colspan="9">Мектепке дейінгі тәрбие мен оқыту</th>
+<td colspan="9">Мектепке дейінгі тәрбие мен оқыту</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ тілінде</th>
+<td colspan="9">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<th colspan="9">Кіші топ (2 жастан бастап)</th>
+<td colspan="9">Кіші топ (2 жастан бастап)</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -32970,7 +33263,7 @@ D. Bakbergenova
 <td>5.</td>
 <td colspan="3">
 Құрастыру. (18 цифрлық оқу-әдістемелік кешен) Жолмен жүрейік; Құлыншаққа қоршау; Күздік алмаларға қорапша; Балапанға саты; Жүк машинасы жолы; Күшік Викидің үйшігі; Жүргінші жолы; Мұнара; Шаңғы жолы; Жемшашар; Қошақанға шарбақ; Қонаққа орындықтар; Қонжыққа төсек; Диван; Құс ұясы; Гараж; Аула қақпасы; Біздің көше;
-2 жастан бастап www.​bil​imki​ds.​kz
+2 жастан бастап www.bilimkids.kz
 </td>
 <td></td>
 <td>2021</td>
@@ -33021,14 +33314,14 @@ D. Bakbergenova
 <td colspan="2">Bilim Media Group</td>
 </tr>
 <tr>
-<th colspan="9">5 жастан 6 жасқа дейінгі – мектепалды даярлық</th>
+<td colspan="9">5 жастан 6 жасқа дейінгі – мектепалды даярлық</td>
 </tr>
 <tr>
 <td>11.</td>
 <td colspan="3">
 Тәй-тәй. Көктем (6 мультимедиалық цифрлықбілім беру кешені):
 Жаттығулар: Есту арқылы қабылдау және есту-моторлы координациясы; Есту-көру моторлы координациясы; Математикалық дағдылар; Кеңістіктік қабылдау; Ойлау дағдылары; Әлеуметтік дағдылар.
-www.​bil​imla​nd.​kz
+www.bilimland.kz
 </td>
 <td></td>
 <td>2017</td>
@@ -33042,7 +33335,7 @@ Group
 <td colspan="3">
 Тәй-тәй. Жаз (3 мультимедиалық цифрлық білім беру кешені):
 Жаттығулар: Есту арқылы қабылдау және есту-моторлы координациясы; Қосымша материалдар: Жазғы демалыс қорабы; Өсімдіктер кітабы.
-www.​bil​imla​nd.​kz
+www.bilimland.kz
 </td>
 <td></td>
 <td>2017</td>
@@ -33056,7 +33349,7 @@ Group
 <td colspan="3">
 Тәй-тәй. Күз (7 мультимедиалық цифрлық білім беру кешені):
 Жаттығулар: Себеп-салдар байланысын орнату дағдылары; Көру арқылы қабылдау және көру-моторлы координациясы; Есту арқылы қабылдау және есту-моторлы координациясы; Ойлау дағдылары; Қосымша материалдар: Күз альбомы; Менің кітабым; Фото сурет жиектемесі.
-www.​bil​imla​nd.​kz
+www.bilimland.kz
 </td>
 <td></td>
 <td>2017</td>
@@ -33069,7 +33362,7 @@ Group
 <td>14.</td>
 <td colspan="3">
 Тәй-тәй. Қыс (12 мультимедиалық цифрлық білім беру кешені):
-Жаттығулар: Себеп-салдар байланысын орнату дағдылары; Көру арқылы қабылдау және көру-моторлы координациясы; Есту арқылы қабылдау және есту-моторлы координациясы; Графомоторикалық дағдылар; Табиғат пен танысу; Кеңістіктік қабылдау; Ойлау дағдылары; Әлеуметтік дағдылар; Қосымша материалдар: Айтылым; Қосымша тапсырмалар; Тақпақтар; Сурет-жұмбақтар. www.​bil​imla​nd.​kz
+Жаттығулар: Себеп-салдар байланысын орнату дағдылары; Көру арқылы қабылдау және көру-моторлы координациясы; Есту арқылы қабылдау және есту-моторлы координациясы; Графомоторикалық дағдылар; Табиғат пен танысу; Кеңістіктік қабылдау; Ойлау дағдылары; Әлеуметтік дағдылар; Қосымша материалдар: Айтылым; Қосымша тапсырмалар; Тақпақтар; Сурет-жұмбақтар. www.bilimland.kz
 </td>
 <td></td>
 <td>2017</td>
@@ -33082,7 +33375,7 @@ Group
 <td>15.</td>
 <td colspan="3">
 Сөз ойындары. Жаттығулар.
-Тілді дамыту: Иллюстрациялық диктант (мультимедиалықцифрлық білім беру кешені) www.​bil​imla​nd.​kz
+Тілді дамыту: Иллюстрациялық диктант (мультимедиалықцифрлық білім беру кешені) www.bilimland.kz
 </td>
 <td></td>
 <td>2017</td>
@@ -33200,7 +33493,7 @@ Group
 <td>21.</td>
 <td colspan="3">
 Сөйлейтін суреттер. Жаттығулар (14 цифрлық білім беру ресурсы): Сөздер, дыбыстар және еліктеуіш сөздер: Хайуанаттар бағындағы жануарлар; Орман мекендеушілері; Үй жануарлары; Музыкалық аспаптар; Көлік түрлері; Тұрмыстық заттар; Табиғат дыбыстары; Түстер; Кеңістіктік қабылдау; Антонимдер; Бөгде ғаламшарлықтарЖерде.
-Ойындар мен жаттығулар: Есту қабілетін дамытатын жұмбақтар; Ойындар; Тақпақтар. www.​bil​imla​nd.​kz
+Ойындар мен жаттығулар: Есту қабілетін дамытатын жұмбақтар; Ойындар; Тақпақтар. www.bilimland.kz
 </td>
 <td></td>
 <td>2019</td>
@@ -33219,7 +33512,7 @@ Group
 Ауызша және сазды жаттығулар:
 Ойыншық қонжық; Бесік жыры; Кішкентай жануарлар; Апта күндері; Әңгіме; Әже; Су дыбыстары; Дауыстар; Есімдер; Барыстың тышқандары; Жүрегім; Қуыршақтар кеші; Менің әкем; Пысықай мысық; Қолдар мен аяқтар.
 Құралдар: Виртуалды пернетақта; Әуен жазу құралы; До мажор гаммасы; Созылыңқылық.
-www.​bil​imla​nd.​kz
+www.bilimland.kz
 </td>
 <td></td>
 <td>2019</td>
@@ -33239,7 +33532,7 @@ Group
 Моторикалық дағдылар: Жалпы және ұсақ моторика.
 Көру арқылы қабылдау: Көру арқылы қабылдау; Көру есі; Түсініктердің жіктелуі; Кеңістіктік қабылдау; Көру моторикасыжәне есту-көру моторикалық координациясы.
 Математикалық дағдылар: Денені және кеңістікті бағдарлау; Өлшемдер – көлем, ұзындық, биіктік; Уақытты қабылдау; Геометриялық фигуралар; Сұрыптау, жіктеу, топтау; Санау (1-10).
-www.​bil​imla​nd.​kz
+www.bilimland.kz
 </td>
 <td></td>
 <td>2019</td>
@@ -33249,16 +33542,16 @@ Group
 </td>
 </tr>
 <tr>
-<th colspan="9">оқыту орыс тілінде</th>
+<td colspan="9">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<th colspan="9">5 жастан 6 жасқа дейінгі – мектепалды даярлық</th>
+<td colspan="9">5 жастан 6 жасқа дейінгі – мектепалды даярлық</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Шаг за шагом. Весна (5 мультимедийных цифровых образовательных комплексов): Упражнения: Слуховое восприятие и слухо-моторная координация; Слухо-зрительно-моторная координация; Знакомство с природой; Пространственное восприятие; Навыки мышления.
-www.​bil​imla​nd.​kz
+www.bilimland.kz
 </td>
 <td></td>
 <td>2017</td>
@@ -33271,7 +33564,7 @@ Group
 <td>2.</td>
 <td colspan="3">
 Шаг за шагом. Лето (6 мультимедийных цифровых образовательных комплексов): Упражнения: Визуальное восприятие и зрительно-моторная координация; Навыки мышления.
-Дополнительные материалы: Коробка с лета; Замок из песка; Книга растений; Мои летние каникулы. www.​bil​imla​nd.​kz
+Дополнительные материалы: Коробка с лета; Замок из песка; Книга растений; Мои летние каникулы. www.bilimland.kz
 </td>
 <td></td>
 <td>2017</td>
@@ -33282,7 +33575,7 @@ Group
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="3">Шаг за шагом. Осень (6 мультимедийных цифровых образовательных комплексов): Упражнения: Слуховое восприятие и слухо-моторная координация; Слухо-зрительно-моторная координация. Дополнительные материалы: Осенний альбом; Моя книга; Рамка для фотографии; Игра для тренировки памяти. www.​bil​imla​nd.​kz</td>
+<td colspan="3">Шаг за шагом. Осень (6 мультимедийных цифровых образовательных комплексов): Упражнения: Слуховое восприятие и слухо-моторная координация; Слухо-зрительно-моторная координация. Дополнительные материалы: Осенний альбом; Моя книга; Рамка для фотографии; Игра для тренировки памяти. www.bilimland.kz</td>
 <td></td>
 <td>2017</td>
 <td colspan="2">
@@ -33295,7 +33588,7 @@ Group
 <td colspan="3">
 Шаг за шагом. Зима (6 мультимедийных цифровых образовательных комплексов): Упражнения: Визуальное восприятие и зрительно-моторная координация; Слуховое восприятие и слухо-моторная координация; Навыки мышления.
 Дополнительные материалы: Произношение; Дополнительные материалы; Картинка-загадки.
-www.​bil​imla​nd.​kz
+www.bilimland.kz
 </td>
 <td></td>
 <td>2017</td>
@@ -33397,7 +33690,7 @@ Group
 Слова, звуки и звуко-подражательные слова:
 Животные в зоопарке; Обитатели леса; Домашние животные; Музыкальные инструменты; Виды транспорта; Предметы быта; Звуки природы; Цвета; Пространственное восприятие; Антонимы; Пришельцы на планете Земля.
 Игры и упражнения: Слуховые загадки; Игры; Стихотворения.
-www.​bil​imla​nd.​kz
+www.bilimland.kz
 </td>
 <td></td>
 <td>2019</td>
@@ -33413,7 +33706,7 @@ Group
 Упражнения для развития слуха: Разнообразие частоты; Разнообразие ритма; Разнообразие тембра; Разнообразие динамики; Разнообразие акцента; Разнообразие артикуляции; Разнообразие мелодики.
 Речевые и музыкальные упражнения: Плюшевый мишка; Колыбельная; Маленькие животные; Дни недели; Беседа; Бабуля; Звуки воды; Голоса; Имена; Мыши Барсика; Мое сердце; Танцевальный вечер кукол; Мой папа; Кошка Мурка; Ноги и руки.
 Инструменты: Виртуальная клавиатура; Сочинитель музыки; Гамма до мажор; Длительность.
-www.​bil​imla​nd.​kz
+www.bilimland.kz
 </td>
 <td></td>
 <td>2019</td>
@@ -33431,7 +33724,7 @@ Group
 Моторные навыки: Крупная и мелкая моторика.
 Визуальное восприятие: Визуальное восприятие; Зрительная память;-классификация понятий; Пространственное восприятие; Зрительно-моторная и слухо-зрительно-моторная координация.
 Математические навыки: Тело и ориентация в пространстве; Измерения - размер, длина, высота; Восприятие времени; Геометрические фигуры; Сортировка,-классификация и категоризация; Счет (1-10).
-www.​bil​imla​nd.​kz
+www.bilimland.kz
 </td>
 <td></td>
 <td>2019</td>
@@ -33441,13 +33734,13 @@ Group
 </td>
 </tr>
 <tr>
-<th colspan="9">1-11 сыныптарға арналған оқу-әдістемелік кешендер</th>
+<td colspan="9">1-11 сыныптарға арналған оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ тілінде</th>
+<td colspan="9">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -33693,7 +33986,7 @@ Group
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -34258,7 +34551,7 @@ Group
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -34508,7 +34801,7 @@ Group
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -34777,7 +35070,7 @@ Group
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -35288,7 +35581,7 @@ Group
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -35897,7 +36190,7 @@ Group
 <td colspan="2">Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -36452,7 +36745,7 @@ Group
 </td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -37102,7 +37395,7 @@ Group
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -37872,10 +38165,10 @@ Group
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -38250,7 +38543,7 @@ Group
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -38655,7 +38948,7 @@ Group
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
+<td colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -38805,10 +39098,10 @@ Group
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -39224,7 +39517,7 @@ Group
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -39667,7 +39960,7 @@ CD-диск
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
+<td colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -39869,7 +40162,7 @@ CD-диск
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">5-11 сыныптар</th>
+<td colspan="9">5-11 сыныптар</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -39893,7 +40186,7 @@ CD-диск
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">7-11 сыныптар</th>
+<td colspan="9">7-11 сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -39906,16 +40199,16 @@ CD-диск
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">Цифрлық басылымдар</th>
+<td colspan="9">Цифрлық басылымдар</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Алгебра. Жиынтық бағалауға арналған электрондық дәптер-конструктор. 7-сынып (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 М.Ефимик,
@@ -39928,7 +40221,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="3">Геометрия. Жиынтық бағалауға арналған электрондық дәптер-конструктор. 7-сынып (web-платформа) http://​kel​eshe​k-​2030.​kz/​portal.​php</td>
+<td colspan="3">Геометрия. Жиынтық бағалауға арналған электрондық дәптер-конструктор. 7-сынып (web-платформа) http://keleshek-2030.kz/portal.php</td>
 <td>
 М.Ефимик,
 О. Калинина,
@@ -39943,7 +40236,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Геометрия. Электрондық дәптер.
 7-сынып (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 О.Колубекова,
@@ -39954,13 +40247,13 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Геометрия. Жиынтық бағалауға арналған электрондық дәптер-конструктор. 8-сынып (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Е.Нипрук,
@@ -39971,14 +40264,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Алгебра. Жиынтық бағалауға арналған электрондық дәптер-конструктор. 9-сынып
 (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Д.Гудовщикова,
@@ -39996,7 +40289,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>2.</td>
 <td colspan="3">
 Алгебра. Электрондық дәптер. 9-сынып (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 О.Колубекова,
@@ -40010,7 +40303,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>3.</td>
 <td colspan="3">
 Геометрия. Жиынтық бағалауға арналған электрондық дәптер-конструктор. 9-сынып (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Д.Гудовщикова,
@@ -40023,13 +40316,13 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Алғашқы әскери және технологиялық дайындық. Оқушылардың білімін бақылау жұмыстарын ұйымдастыру және өткізу бойынша материалдар. Электрондық дәптер. 10-сынып (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 В. Яковенко,
@@ -40041,13 +40334,13 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Геометрия. ЖМБ және ҚГБ бойынша электрондық дәптер. 11-сынып (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 О.Колубекова,
@@ -40062,7 +40355,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Алғашқы әскери және технологиялық дайындық. Оқушылардың білімін бақылау жұмыстарын ұйымдастыру және өткізу бойынша материалдар. Электрондық дәптер. 11-сынып
 (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 В.Яковенко,
@@ -40074,10 +40367,10 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">Өлкетану</th>
+<td colspan="9">Өлкетану</td>
 </tr>
 <tr>
-<th colspan="9">5-7 сыныптар</th>
+<td colspan="9">5-7 сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -40415,10 +40708,10 @@ CD)
 <td colspan="2">Павлодар мемлекеттік педагогикалық университеті</td>
 </tr>
 <tr>
-<th colspan="9">Абайтану</th>
+<td colspan="9">Абайтану</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -40467,7 +40760,7 @@ CD)
 <td colspan="2">«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -40516,7 +40809,7 @@ CD)
 <td colspan="2">«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -40565,7 +40858,7 @@ CD)
 <td colspan="2">«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -40614,7 +40907,7 @@ CD)
 <td colspan="2">«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -40663,7 +40956,7 @@ CD)
 <td colspan="2">«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>21.</td>
@@ -40712,7 +41005,7 @@ CD)
 <td colspan="2">«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
 <td>25.</td>
@@ -40761,10 +41054,10 @@ CD)
 <td colspan="2">«Әл-Наир баспасы»</td>
 </tr>
 <tr>
-<th colspan="9">оқыту орыс тілінде</th>
+<td colspan="9">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -40970,7 +41263,7 @@ CD)
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -41601,7 +41894,7 @@ CD)
 <td colspan="2">АОО «Назарбаев Интеллектуальные школы»</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -41914,7 +42207,7 @@ CD)
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -42169,7 +42462,7 @@ CD)
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -42645,7 +42938,7 @@ CD)
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -43097,7 +43390,7 @@ CD)
 <td colspan="2">Қазақ энциклопедиясы</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -43614,7 +43907,7 @@ CD)
 <td colspan="2">АОО «Назарбаев интеллектуальные школы»</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -44162,7 +44455,7 @@ CD)
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -44861,10 +45154,10 @@ CD)
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -45139,7 +45432,7 @@ CD)
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -45473,7 +45766,7 @@ CD)
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
+<td colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -45650,10 +45943,10 @@ CD)
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -45998,7 +46291,7 @@ CD-диск
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -46408,7 +46701,7 @@ CD-диск
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</th>
+<td colspan="9">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -46610,7 +46903,7 @@ CD-диск
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">5-11 сыныптар</th>
+<td colspan="9">5-11 сыныптар</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -46640,7 +46933,7 @@ CD-диск
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">7-11 сыныптар</th>
+<td colspan="9">7-11 сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -46656,39 +46949,39 @@ CD-диск
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">Цифрлық басылымдар</th>
+<td colspan="9">Цифрлық басылымдар</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ тілінде</th>
+<td colspan="9">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3">
 Дүниежүзі және әлемнің жеке бөліктерінің, Қазақстанның географиялық карталары. 1-бөлім. Жалпы білім беретін мектепке арналған карталардың электрондық топтамасы.
 7-8-сынып
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>И. Плачинта</td>
 <td>2023</td>
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="8">оқыту орыс тілінде</th>
+<td colspan="8">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<th colspan="8">11-сынып</th>
+<td colspan="8">11-сынып</td>
 </tr>
 <tr>
-<th colspan="8">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</th>
+<td colspan="8">жаратылыстану-математикалық және қоғамдық-гуманитарлық бағыттар</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3">
 Русская литература ЕМН.
-Хрестоматия. Электронное пособие 11 класс (web-платформа) https://​topiq.​kz
+Хрестоматия. Электронное пособие 11 класс (web-платформа) https://topiq.kz
 </td>
 <td>
 Абишева С.,
@@ -46703,7 +46996,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>2</td>
 <td colspan="3">
 Русская литература ОГН.
-Хрестоматия. Электронное пособие 11 класс (web-платформа) https://​topiq.​kz
+Хрестоматия. Электронное пособие 11 класс (web-платформа) https://topiq.kz
 </td>
 <td>
 Абишева С.,
@@ -46715,13 +47008,13 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Геометрия. Электронная тетрадь-конструктор для суммативного оценивания. 7 класс (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Ефимик М., Калинина О., Шаргалина О.,
@@ -46732,7 +47025,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="3">Геометрия. Электронная тетрадь. 7 класс (web-платформа) http://​kel​eshe​k-​2030.​kz/​portal.​php</td>
+<td colspan="3">Геометрия. Электронная тетрадь. 7 класс (web-платформа) http://keleshek-2030.kz/portal.php</td>
 <td>
 Колубекова О., Алибеков С.,
 Ергалиев Ж.
@@ -46744,18 +47037,18 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td>3.</td>
 <td colspan="3">
 Географические карты Мира, Казахстана и отдельных частей света. Часть 1. Электронный комплект карт для общеобразовательной школы.
-7-8 класс. http://​kel​eshe​k-​2030.​kz/​portal.​php
+7-8 класс. http://keleshek-2030.kz/portal.php
 </td>
 <td>Плачинта И.</td>
 <td>2023</td>
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="3">Геометрия. Электронная тетрадь-конструктор для суммативного оценивания. 8 класс (web-платформа) http://​kel​eshe​k-​2030.​kz/​portal.​php</td>
+<td colspan="3">Геометрия. Электронная тетрадь-конструктор для суммативного оценивания. 8 класс (web-платформа) http://keleshek-2030.kz/portal.php</td>
 <td>
 Нипрук Е.,
 Калинина О.,
@@ -46765,13 +47058,13 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Геометрия. Электронная тетрадь-конструктор для суммативного оценивания. 9 класс (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Гудовщикова Д., Бащук Е.,
@@ -46783,14 +47076,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Начальная военная и технологическая подготовка. Материалы по организации и проведению контроля с учащимися. Электронная тетрадь. 10 класс
 (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Яковенко В.,
@@ -46802,14 +47095,14 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">
 Геометрия. Электронная тетрадь.
 По направлениям ЕМН и ОГН. 11 класс (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Колубекова О., Алибеков С.,
@@ -46823,7 +47116,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="3">
 Начальная военная и технологическая подготовка. Материалы по организации и проведению контроля с учащимися. Электронная тетрадь. 11 класс
 (web-платформа)
-http://​kel​eshe​k-​2030.​kz/​portal.​php
+http://keleshek-2030.kz/portal.php
 </td>
 <td>
 Яковенко В.,
@@ -46835,10 +47128,10 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">Өлкетану</th>
+<td colspan="9">Өлкетану</td>
 </tr>
 <tr>
-<th colspan="9">5-7 сыныптар</th>
+<td colspan="9">5-7 сыныптар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -47131,7 +47424,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Павлодарский государственный педагогический университет</td>
 </tr>
 <tr>
-<th colspan="9">5-11 сыныптар</th>
+<td colspan="9">5-11 сыныптар</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -47154,7 +47447,7 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">оқыту орыс тілінде</th>
+<td colspan="9">оқыту орыс тілінде</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -47175,13 +47468,13 @@ http://​kel​eshe​k-​2030.​kz/​portal.​php
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ және орыс тілдерінде</th>
+<td colspan="9">оқыту қазақ және орыс тілдерінде</td>
 </tr>
 <tr>
-<th colspan="9">Неміс тілі</th>
+<td colspan="9">Неміс тілі</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -47221,7 +47514,7 @@ Beibytnur Shumabekova
 <td>2020</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -47247,11 +47540,11 @@ Asina Ospanova
 <td>2021</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
-<td colspan="3">Deutsch 4.​Klasse Arbeitsbuch Teil 1, 2</td>
+<td colspan="3">Deutsch 4.Klasse Arbeitsbuch Teil 1, 2</td>
 <td>Kristina Samosledova, Anastasia Potemkina, Kulasch Schubakova</td>
 <td>2021</td>
 <td colspan="2" rowspan="3">NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
@@ -47262,16 +47555,16 @@ Asina Ospanova
 <td>2021</td>
 </tr>
 <tr>
-<td colspan="3">Deutsch 4.​Kla​sseC​DHörtextezum LehrbuchundArbeitsbuch (Аудиоматериалы к учебнику и рабочей тетради)</td>
+<td colspan="3">Deutsch 4.KlasseCDHörtextezum LehrbuchundArbeitsbuch (Аудиоматериалы к учебнику и рабочей тетради)</td>
 <td>Kristina Samosledova, Anastasia Potemkina, Kulshanat Bulatbayeva</td>
 <td>2021</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
-<td colspan="3">Deutsch 5.​Klasse Arbeitsbuch Teil 1, 2, 3, 4</td>
+<td colspan="3">Deutsch 5.Klasse Arbeitsbuch Teil 1, 2, 3, 4</td>
 <td>
 Kulshanat Bulatbayeva,
 Assemgul Magsam, Ulshan Abdrachimova
@@ -47326,11 +47619,11 @@ Hueber Verlag
 </td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
-<td colspan="3">Deutsch 6.​Klasse Arbeitsbuch Teil 1, 2, 3, 4</td>
+<td colspan="3">Deutsch 6.Klasse Arbeitsbuch Teil 1, 2, 3, 4</td>
 <td>Kulshanat Bulatbayeva, Sagyngul Schakenova, Gulmira Arystankulova</td>
 <td>2021</td>
 <td colspan="2" rowspan="3">NUR-SULTAN BASPASY (Ernst Klett Sprachen GmbH материалдары негізінде)</td>
@@ -47375,7 +47668,7 @@ S. Kaskyrbaeva
 <td colspan="2">EDU Stream</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td rowspan="2">1</td>
@@ -47431,18 +47724,18 @@ Madina Issayeva
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">Француз тілі</th>
+<td colspan="9">Француз тілі</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
 <td colspan="3">Le Francais Pour le Kazakhstan classe 1. Cahier d’activites</td>
 <td>
-A.​Gousseva
-A.​Gub​erni​eva
-D.​Kou​zatb​ek
+A.Gousseva
+A.Gubernieva
+D.Kouzatbek
 </td>
 <td>2021</td>
 <td colspan="2" rowspan="3">ТОО EDU Stream и Просвещение</td>
@@ -47450,22 +47743,22 @@ D.​Kou​zatb​ek
 <tr>
 <td colspan="3">Le Francais Pour le Kazakhstan classe 1. I-e book</td>
 <td>
-A.​Gousseva
-A.​Gub​erni​eva
-D.​Kou​zatb​ek
+A.Gousseva
+A.Gubernieva
+D.Kouzatbek
 </td>
 <td>2021</td>
 </tr>
 <tr>
 <td colspan="3">Le Francais Pour le Kazakhstan classe 1. Livre du professeur</td>
 <td>
-M.​Kal​ougi​na
-D.​Kou​zatb​ek
+M.Kalougina
+D.Kouzatbek
 </td>
 <td>2021</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1</td>
@@ -47497,7 +47790,7 @@ D. Kouzatbek
 <td colspan="2">Просвещение и EDU Stream</td>
 </tr>
 <tr>
-<th colspan="8">5-сынып</th>
+<td colspan="8">5-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -47555,7 +47848,7 @@ Meerbekova Sh.
 <td colspan="2">Сапалы білім Баспасы и CLE International</td>
 </tr>
 <tr>
-<th colspan="8">6-сынып</th>
+<td colspan="8">6-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -47579,7 +47872,7 @@ Livre du professeur
 <td colspan="2">Сапалы білім Баспасы и CLE International</td>
 </tr>
 <tr>
-<th colspan="8">7-сынып</th>
+<td colspan="8">7-сынып</td>
 </tr>
 <tr>
 <td>1</td>
@@ -47613,10 +47906,10 @@ Alimova R.
 <td colspan="2">Сапалы білім Баспасы и CLE International</td>
 </tr>
 <tr>
-<th colspan="9">Ағылшын тілі</th>
+<td colspan="9">Ағылшын тілі</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -47705,7 +47998,7 @@ Natalya Mukhamedjanova
 <td>2021</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -47795,7 +48088,7 @@ N. Mukhamedjanova
 <td>2022</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td rowspan="8">1.</td>
@@ -47807,7 +48100,7 @@ Activity Book
 <td>
 Jenny Dooley,Series Consultant: Bob Obee.
 Translationsby
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2018</td>
 <td colspan="2" rowspan="8">Express Publishing</td>
@@ -47823,7 +48116,7 @@ Jenny Dooley,
 Series Consultant:
 Bob Obee.
 Translationsby
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2018</td>
 </tr>
@@ -47839,7 +48132,7 @@ Jenny Dooley,
 SeriesConsultant:
 Bob Obee.
 Translationsby
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2018</td>
 </tr>
@@ -47888,7 +48181,7 @@ Jenny Dooley,
 SeriesConsultant:
 Bob Obee.
 Translationsby
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2018</td>
 </tr>
@@ -47903,12 +48196,12 @@ Jenny Dooley,
 SeriesConsultant:
 Bob Obee.
 Translationsby
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2018</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -47921,7 +48214,7 @@ Activity Book
 Jenny Dooley,
 Bob Obee.
 Translations by
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2019</td>
 <td colspan="2" rowspan="8">Express Publishing</td>
@@ -47936,7 +48229,7 @@ Teacher's Book
 Jenny Dooley,
 Bob Obee.
 Translations by
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2019</td>
 </tr>
@@ -47951,7 +48244,7 @@ Grammar Practice
 Jenny Dooley,
 Bob Obee.
 Translations by
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2019</td>
 </tr>
@@ -47966,7 +48259,7 @@ Jenny Dooley,
 Series Consultant:
 Bob Obee.
 Translationsby
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2019</td>
 </tr>
@@ -47980,7 +48273,7 @@ Picture Flashcards
 Jenny Dooley,
 Bob Obee.
 Translations by
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2019</td>
 </tr>
@@ -48012,7 +48305,7 @@ Teacher's Resource Pack CD-Rom
 <td colspan="2"></td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
@@ -48248,7 +48541,7 @@ MarkOrmerod
 <td>2017</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
@@ -48555,7 +48848,7 @@ Grade 6 Online Material
 <td>2018</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
@@ -48829,7 +49122,7 @@ Steve Taylore-Knowles
 <td>2017</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td rowspan="5">1.</td>
@@ -49247,7 +49540,7 @@ Yntyk Shayakhmetova
 <td>2018</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -49655,10 +49948,10 @@ Galymzhan Karamyrzayev
 <td>2019</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -49868,7 +50161,7 @@ Chemistry Grade 10 Digital Resources
 <td>2019</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -50119,10 +50412,10 @@ Olga Polueva
 <td>2019</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td rowspan="3">1.</td>
@@ -50194,11 +50487,11 @@ Grade 11 (Humanities)
 Workbook
 </td>
 <td>
-G.​Bek​zhan​ova,
-J.​Sma​gulo​va,
-Zh.​Tut​baye​va,
-N.​Tut​baye​va,
-R.​Akysheva
+G.Bekzhanova,
+J.Smagulova,
+Zh.Tutbayeva,
+N.Tutbayeva,
+R.Akysheva
 </td>
 <td>2020</td>
 <td colspan="2" rowspan="4">&quot;Study Inn (Cambridge University Press материалдары негізінде)&quot;</td>
@@ -50210,11 +50503,11 @@ Grade 11 (Humanities)
 Teacher`s Book
 </td>
 <td>
-G.​Bek​zhan​ova,
-J.​Sma​gulo​va,
-Zh.​Tut​baye​va,
-N.​Tut​baye​va,
-R.​Akysheva
+G.Bekzhanova,
+J.Smagulova,
+Zh.Tutbayeva,
+N.Tutbayeva,
+R.Akysheva
 </td>
 <td>2020</td>
 </tr>
@@ -50225,10 +50518,10 @@ Grade 11 (Humanities)
 Class Audio and Video Materials
 </td>
 <td>
-J.​Sma​gulo​va,
-Zh.​Tut​baye​va,
-N.​Tut​baye​va,
-R.​Akysheva
+J.Smagulova,
+Zh.Tutbayeva,
+N.Tutbayeva,
+R.Akysheva
 </td>
 <td>2020</td>
 </tr>
@@ -50239,9 +50532,9 @@ Grade 11 (Humanities)
 Supplementary materials for teachers
 </td>
 <td>
-Zh.​Tut​baye​va,
-N.​Tut​baye​va,
-R.​Akysheva
+Zh.Tutbayeva,
+N.Tutbayeva,
+R.Akysheva
 </td>
 <td>2020</td>
 </tr>
@@ -50254,7 +50547,7 @@ Workbook&amp; Grammar book
 </td>
 <td>
 Jenny Dooley,
-Bob Obee, N.​Muk​hame​djan​ova
+Bob Obee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 <td colspan="2" rowspan="9">Express Publishing</td>
@@ -50268,7 +50561,7 @@ Teacher`s book
 <td>
 Jenny Dooley,
 Bob Obee,
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50281,7 +50574,7 @@ Class CDs
 <td>
 Jenny Dooley,
 Bob Obee,
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50294,7 +50587,7 @@ eBook
 <td>
 Jenny Dooley,
 Bob Obee,
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50307,7 +50600,7 @@ DVD Video (PAL)
 <td>
 Jenny Dooley,
 Bob Obee,
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50320,7 +50613,7 @@ DVD Activity Book
 <td>
 Jenny Dooley,
 Bob Obee,
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50333,7 +50626,7 @@ DVD Activity Book KEY
 <td>
 Jenny Dooley,
 Bob Obee,
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50346,7 +50639,7 @@ Interactive Whiteboard Software
 <td>
 Jenny Dooley,
 Bob Obee
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50355,12 +50648,12 @@ N.​Muk​hame​djan​ova
 <td>
 Jenny Dooley,
 Bob Obee,
-N.​Muk​hame​djan​ova
+N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td rowspan="9">1.</td>
@@ -50371,7 +50664,7 @@ Workbook &amp; Grammar book
 </td>
 <td>
 Jenny Dooley,
-Bob Obee, N.​Muk​hame​djan​ova
+Bob Obee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 <td colspan="2" rowspan="9">Express Publishing</td>
@@ -50380,7 +50673,7 @@ Bob Obee, N.​Muk​hame​djan​ova
 <td colspan="3">Action for KazakhstanGrade 11 (Science Schools) Teacher`s book</td>
 <td>
 Jenny Dooley,
-Bob Obee, N.​Muk​hame​djan​ova
+Bob Obee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50388,7 +50681,7 @@ Bob Obee, N.​Muk​hame​djan​ova
 <td colspan="3">Action for KazakhstanGrade 11 (Science Schools) Class CDs</td>
 <td>
 Jenny Dooley,
-Bob Obee, N.​Muk​hame​djan​ova
+Bob Obee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50396,7 +50689,7 @@ Bob Obee, N.​Muk​hame​djan​ova
 <td colspan="3">Action for KazakhstanGrade 11 (Science Schools) eBook</td>
 <td>
 Jenny Dooley,
-Bob Obee, N.​Muk​hame​djan​ova
+Bob Obee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50404,7 +50697,7 @@ Bob Obee, N.​Muk​hame​djan​ova
 <td colspan="3">Action for Kazakhstan Grade 11 (Science Schools) DVD Video (PAL)</td>
 <td>
 Jenny Dooley,
-Bob Obee, N.​Muk​hame​djan​ova
+Bob Obee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50412,7 +50705,7 @@ Bob Obee, N.​Muk​hame​djan​ova
 <td colspan="3">Action for Kazakhstan Grade 11(Science Schools) DVDActivity Book</td>
 <td>
 JennyDooley,
-BobObee, N.​Muk​hame​djan​ova
+BobObee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50420,7 +50713,7 @@ BobObee, N.​Muk​hame​djan​ova
 <td colspan="3">Action for KazakhstanGrade 11 (Science Schools) DVD Activity BookKEY</td>
 <td>
 Jenny Dooley,
-Bob Obee, N.​Muk​hame​djan​ova
+Bob Obee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50432,7 +50725,7 @@ Interactive Whiteboard Software
 </td>
 <td>
 JennyDooley,
-BobObee, N.​Muk​hame​djan​ova
+BobObee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50440,7 +50733,7 @@ BobObee, N.​Muk​hame​djan​ova
 <td colspan="3">Action for Kazakhstan Grade 11 (Science Schools) Teacher`s Resource Pack &amp; Tests CD-ROM</td>
 <td>
 Jenny Dooley,
-Bob Obee, N.​Muk​hame​djan​ova
+Bob Obee, N.Mukhamedjanova
 </td>
 <td>2020</td>
 </tr>
@@ -50495,10 +50788,10 @@ Tim Falla
 <td>2020</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ және орыс тілдерінде</th>
+<td colspan="9">оқыту қазақ және орыс тілдерінде</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -50508,7 +50801,7 @@ Tim Falla
 <td colspan="2">8&amp;8</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -50518,10 +50811,10 @@ Tim Falla
 <td colspan="2">8&amp;8</td>
 </tr>
 <tr>
-<th colspan="9">оқыту ұйғыр тілінде</th>
+<td colspan="9">оқыту ұйғыр тілінде</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -50628,7 +50921,7 @@ Tim Falla
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -50731,7 +51024,7 @@ Tim Falla
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -50830,7 +51123,7 @@ Tim Falla
 <td colspan="2">Алматыкітап баспасы</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -50925,7 +51218,7 @@ Tim Falla
 <td colspan="2">Назарбаев Әқлиймәктәплири</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -50973,7 +51266,7 @@ Tim Falla
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51007,7 +51300,7 @@ Tim Falla
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51078,7 +51371,7 @@ Tim Falla
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51148,7 +51441,7 @@ Tim Falla
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51188,10 +51481,10 @@ Tim Falla
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51236,7 +51529,7 @@ Tim Falla
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51280,7 +51573,7 @@ Tim Falla
 <td colspan="2">Мектеп</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
+<td colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51294,10 +51587,10 @@ Tim Falla
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық бағыт</th>
+<td colspan="9">қоғамдық-гуманитарлық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51331,7 +51624,7 @@ Tim Falla
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51368,10 +51661,10 @@ Tim Falla
 <td colspan="2">Атамұра</td>
 </tr>
 <tr>
-<th colspan="9">оқыту өзбек тілінде</th>
+<td colspan="9">оқыту өзбек тілінде</td>
 </tr>
 <tr>
-<th colspan="9">1- сынып</th>
+<td colspan="9">1- сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51479,7 +51772,7 @@ Tim Falla
 <td colspan="2">Мектеп- Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51572,7 +51865,7 @@ Tim Falla
 <td colspan="2">Атамұра -Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51621,7 +51914,7 @@ Tim Falla
 <td colspan="2">Алматыкітап баспасы -Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51665,7 +51958,7 @@ Tim Falla
 <td colspan="2">Алматыкітап баспасы -Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51732,7 +52025,7 @@ Tim Falla
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51782,7 +52075,7 @@ Tim Falla
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51818,7 +52111,7 @@ Tim Falla
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51871,7 +52164,7 @@ Tim Falla
 <td colspan="2">Келешек-2030</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51888,10 +52181,10 @@ Tim Falla
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51908,7 +52201,7 @@ Tim Falla
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
+<td colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51922,10 +52215,10 @@ Tim Falla
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">11-сынып</th>
+<td colspan="9">11-сынып</td>
 </tr>
 <tr>
-<th colspan="9">жаратылыстану-математикалық бағыт</th>
+<td colspan="9">жаратылыстану-математикалық бағыт</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51942,7 +52235,7 @@ Tim Falla
 <td colspan="2">Жазушы</td>
 </tr>
 <tr>
-<th colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</th>
+<td colspan="9">қоғамдық-гуманитарлық және жаратылыстану-математикалық бағыттар</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -51967,13 +52260,13 @@ Tim Falla
 <td colspan="2">Көкжиек-Горизонт</td>
 </tr>
 <tr>
-<th colspan="9">Ерекше білім беруге қажеттілігі бар балаларғы арналған оқу әдебиеттері</th>
+<td colspan="9">Ерекше білім беруге қажеттілігі бар балаларғы арналған оқу әдебиеттері</td>
 </tr>
 <tr>
-<th colspan="9">оқыту қазақ тілінде</th>
+<td colspan="9">оқыту қазақ тілінде</td>
 </tr>
 <tr>
-<th colspan="9">Мектепке дейінгі тәрбие мен оқыту</th>
+<td colspan="9">Мектепке дейінгі тәрбие мен оқыту</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52021,10 +52314,10 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</th>
+<td colspan="9">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<th colspan="9">0-сынып</th>
+<td colspan="9">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52034,7 +52327,7 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52054,7 +52347,7 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52072,10 +52365,10 @@ Tim Falla
 </td>
 </tr>
 <tr>
-<th colspan="9">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</th>
+<td colspan="9">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52148,7 +52441,7 @@ Tim Falla
 <td colspan="2">«Назарбаев зияткерлік мектептері» ДББҰ -ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52196,7 +52489,7 @@ Tim Falla
 <td colspan="2">Алматыкітап баспасы -ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52244,7 +52537,7 @@ Tim Falla
 <td colspan="2">Атамұра- ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52259,7 +52552,7 @@ Tim Falla
 <td colspan="2">Атамұра- ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52274,10 +52567,10 @@ Tim Falla
 <td colspan="2">Арман-ПВ - ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</th>
+<td colspan="9">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<th colspan="9">0-сынып</th>
+<td colspan="9">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52436,7 +52729,7 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52558,7 +52851,7 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52729,7 +53022,7 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52876,7 +53169,7 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -52994,7 +53287,7 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -53141,7 +53434,7 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -53276,7 +53569,7 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -53426,7 +53719,7 @@ Tim Falla
 <td colspan="2">Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -53517,7 +53810,7 @@ Tim Falla
 <td colspan="2">Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -53605,7 +53898,7 @@ Tim Falla
 <td colspan="2">Консалтинг &amp; Тренинг Компаниясы</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -53890,13 +54183,13 @@ Tim Falla
 <td colspan="2">ӘБЕО</td>
 </tr>
 <tr>
-<th colspan="9">оқыту орыс тілінде</th>
+<td colspan="9">оқыту орыс тілінде</td>
 </tr>
 <tr>
-<th colspan="9">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</th>
+<td colspan="9">Көрмейтін білім алушыларға арналған Брайль қарпімен әзірленген (бейімделген) оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<th colspan="9">0-сынып</th>
+<td colspan="9">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -53906,7 +54199,7 @@ Tim Falla
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -53929,7 +54222,7 @@ Tim Falla
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">8-класс</th>
+<td colspan="9">8-класс</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -53942,10 +54235,10 @@ Tim Falla
 <td colspan="2">Мектеп-САТР</td>
 </tr>
 <tr>
-<th colspan="9">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</th>
+<td colspan="9">Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -54022,7 +54315,7 @@ Tim Falla
 <td colspan="2">АОО «Назарбаев интеллектуальные школы»- САТР</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -54065,7 +54358,7 @@ Tim Falla
 <td colspan="2">Алматыкітап баспасы - САТР</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -54075,7 +54368,7 @@ Tim Falla
 1-4 ч.
 </td>
 <td>
-Е.БогатырҰва,
+Е.Богатырёва,
 Р.Бучина,
 Н.Регель,
 О.Труханова,
@@ -54090,7 +54383,7 @@ Tim Falla
 <td colspan="3">Литературное чтение. Рабочая тетрадь 1-8 ч.</td>
 <td>
 Н. Регель, О.Труханова,
-Е. БогатырҰва,
+Е. Богатырёва,
 Р. Бучина,
 Адаптировала:
 Р. Шаканова.
@@ -54124,7 +54417,7 @@ D. Bakbergenova
 <td colspan="2">Express Publishing- САТР</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -54139,7 +54432,7 @@ D. Bakbergenova
 <td colspan="2">Атамұра- САТР</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -54152,10 +54445,10 @@ D. Bakbergenova
 <td colspan="2">Мектеп - САТР</td>
 </tr>
 <tr>
-<th colspan="9">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</th>
+<td colspan="9">Зерде бұзылыстары бар білім алушылар үшін арнайы мектептерге (сыныптарға) арналған оқу-әдістемелік кешендер</td>
 </tr>
 <tr>
-<th colspan="9">0-сынып</th>
+<td colspan="9">0-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -54275,7 +54568,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">1-сынып</th>
+<td colspan="9">1-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -54392,7 +54685,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">2-сынып</th>
+<td colspan="9">2-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -54570,7 +54863,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">3-сынып</th>
+<td colspan="9">3-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -54684,7 +54977,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">4-сынып</th>
+<td colspan="9">4-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -54780,7 +55073,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">5-сынып</th>
+<td colspan="9">5-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -54899,7 +55192,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">6-сынып</th>
+<td colspan="9">6-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -55028,7 +55321,7 @@ D. Bakbergenova
 <td colspan="2">САТР</td>
 </tr>
 <tr>
-<th colspan="9">7-сынып</th>
+<td colspan="9">7-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -55159,7 +55452,7 @@ D. Bakbergenova
 <td colspan="2">Компания Консалтинг &amp; Тренинг</td>
 </tr>
 <tr>
-<th colspan="9">8-сынып</th>
+<td colspan="9">8-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -55255,7 +55548,7 @@ D. Bakbergenova
 <td colspan="2">Компания Консалтинг &amp; Тренинг</td>
 </tr>
 <tr>
-<th colspan="9">9-сынып</th>
+<td colspan="9">9-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -55316,7 +55609,7 @@ D. Bakbergenova
 <td colspan="2">Компания Консалтинг &amp;ТренингСD</td>
 </tr>
 <tr>
-<th colspan="9">10-сынып</th>
+<td colspan="9">10-сынып</td>
 </tr>
 <tr>
 <td>1.</td>
