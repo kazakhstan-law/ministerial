@@ -14,6 +14,11 @@ approval_date: 2019-03-29
 version_date: 2019-03-29
 registry_number: '130519'
 source: https://zan.gov.kz/client/#!/doc/130519/kaz/29.03.2019
+repealed_on: 2023-09-25
+repealed_by:
+  code: '184203'
+  title: Мемлекеттік реттеуге жататын өлшемдер тізбесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/184203/kaz
 ---
 
 # Мемлекеттік реттеуге жатқызылатын өлшем тізбелерін бекіту туралы

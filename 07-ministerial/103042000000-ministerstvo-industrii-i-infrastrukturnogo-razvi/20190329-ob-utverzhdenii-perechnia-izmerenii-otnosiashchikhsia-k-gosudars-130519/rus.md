@@ -14,6 +14,11 @@ approval_date: 2019-03-29
 version_date: 2019-03-29
 registry_number: '130519'
 source: https://zan.gov.kz/client/#!/doc/130519/rus/29.03.2019
+repealed_on: 2023-09-25
+repealed_by:
+  code: '184203'
+  title: Об утверждении перечня измерений, относящихся к государственному регулированию
+  link: https://zan.gov.kz/client/#!/doc/184203/rus
 ---
 
 # Об утверждении перечня измерений, относящихся к государственному регулированию
