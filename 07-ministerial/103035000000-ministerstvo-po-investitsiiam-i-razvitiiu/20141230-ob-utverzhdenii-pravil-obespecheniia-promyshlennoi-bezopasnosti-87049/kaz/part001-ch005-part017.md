@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/87049/kaz/28.12.2022
+source: https://zan.gov.kz/client/#!/doc/87049/kaz/14.07.2023
 ---
 
 ## 17-Параграф. Ұңғымаларды сынау, гидродинамикалық зерттеу мен игеру

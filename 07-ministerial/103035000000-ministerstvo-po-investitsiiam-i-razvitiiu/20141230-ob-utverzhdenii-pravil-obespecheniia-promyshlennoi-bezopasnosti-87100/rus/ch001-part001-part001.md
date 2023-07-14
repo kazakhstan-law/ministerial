@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/87100/rus/30.12.2022
+source: https://zan.gov.kz/client/#!/doc/87100/rus/14.07.2023
 ---
 
 ## Параграф 1. Порядок обеспечения промышленной безопасности при подготовке газа

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/159084/kaz/29.09.2021
+source: https://zan.gov.kz/client/#!/doc/159084/kaz/14.07.2023
 ---
 
 > *Қызмет ету мерзімі өткен жалпы*  
