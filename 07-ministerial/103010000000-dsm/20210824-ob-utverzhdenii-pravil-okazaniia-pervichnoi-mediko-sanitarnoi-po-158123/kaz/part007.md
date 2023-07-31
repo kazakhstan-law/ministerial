@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/158123/kaz/07.12.2021
+source: https://zan.gov.kz/client/#!/doc/158123/kaz/31.07.2023
 ---
 
 > *Медициналық-санитариялық*  
