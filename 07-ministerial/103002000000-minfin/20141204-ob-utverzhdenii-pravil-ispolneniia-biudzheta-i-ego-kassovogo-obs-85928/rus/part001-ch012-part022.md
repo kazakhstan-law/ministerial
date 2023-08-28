@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85928/rus/01.07.2023
+source: https://zan.gov.kz/client/#!/doc/85928/rus/28.08.2023
 ---
 
 ## Параграф 20. Процедура предоставления поручительства государства Республики Казахстан
