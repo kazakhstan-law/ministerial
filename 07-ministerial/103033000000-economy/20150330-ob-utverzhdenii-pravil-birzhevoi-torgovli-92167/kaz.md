@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/92167/kaz/20.09.2022
+source: https://zan.gov.kz/client/#!/doc/92167/kaz/07.09.2023
 ---
 
 # Биржа саудасының қағидаларын бекіту туралы
