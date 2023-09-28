@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/179570/kaz/09.06.2023
+source: https://zan.gov.kz/client/#!/doc/179570/kaz/28.09.2023
 ---
 
 # Медициналық оңалту көрсетуді ұйымдастыру стандартын бекіту туралы
