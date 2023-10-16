@@ -2,9 +2,9 @@
 
 > *Ескерту. Тақырыбы жаңа редакцияда - ҚР Бас Прокурорының 04.11.2021 № 145 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрықтарымен.*
 
-«Мемлекеттік құқықтық статистика және арнайы есепке алу туралы» 2003 жылғы 22 желтоқсандағы Қазақстан Республикасы Заңының 6-бабының 12) тармақшасына сәйкес БҰЙЫРАМЫН:
+Прокуратура туралы» Қазақстан Республикасы Конституциялық Заңының 9-бабының 22) тармақшасына сәйкес, Қазақстан Республикасы Президентінің 2017 жылғы 13 қазандағы № 563 Жарлығымен бекітілген «Қазақстан Республикасының прокуратура органдарының кейбір мәселелері туралы» Қазақстан Республикасының Бас прокуратурасы туралы Ереженің 19-тармағының 37) тармақшасын басшылыққа ала отырып, БҰЙЫРАМЫН:
 
-> *Ескерту. Кіріспе жаңа редакцияда - ҚР Бас Прокурорының 26.09.2017 № 108 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 15.06.2020 № 76 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. Кіріспе жаңа редакцияда - ҚР Бас Прокурорының 26.09.2017 № 108 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 15.06.2020 № 76 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 16.10.2023 № 189 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
 
 1. Мыналар:
 
@@ -37,1437 +37,1456 @@
 > *Қазақстан Республикасы*  
 > *Бас Прокурорының*  
 > *2014 жылғы 1 қазандағы*  
-> *№ 102 бұйрығына 1-қосымша*
+> *№ 102 бұйрығына*  
+> *1-қосымша*
 
-> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Бас Прокурорының 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); өзгерістер енгізілді - ҚР Бас Прокурорының 04.11.2021 № 145 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 27.09.2022 № 191 (алғашқы ресми жарияланған күнiнен кейін қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Бас Прокурорының 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); өзгерістер енгізілді - ҚР Бас Прокурорының 04.11.2021 № 145 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 27.09.2022 № 191 (алғашқы ресми жарияланған күнiнен кейін қолданысқа енгізіледі); 16.10.2023 № 189 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
 
-> *Нысан*
+нысан
 
-«Қылмыстық қудалау органдарының жұмысы туралы» № 1-Е есебі
+Қылмыстық қудалау органдарының жұмысы туралы есеп
 
-№ 1-кесте «Қылмыстық қудалау органдарының негізгі көрсеткіштері»
+```
+№ 1-кесте «Қылмыстық қудалау
+органдарының негізгі көрсеткіштері»
+```
 
 <table>
 <tr>
-<td colspan="7" rowspan="2">Атауы</td>
-<td rowspan="2">Жол коды</td>
-<td colspan="2">жалпы</td>
-<td colspan="2">тергеу</td>
-<td colspan="2">анықтау</td>
-</tr>
-<tr>
-<td>есепті кезеңде</td>
-<td>ағымдағы айда</td>
-<td>есепті кезеңде</td>
-<td>ағымдағы айда</td>
-<td>есепті кезеңде</td>
-<td>ағымдағы айда</td>
-</tr>
-<tr>
-<td colspan="7">Баған коды</td>
+<td colspan="9" rowspan="2">Атауы</td>
 <td></td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<td colspan="4">жалпы</td>
+<td colspan="4">тергеу</td>
+<td colspan="3">анықтау</td>
+</tr>
+<tr>
+<td>Жол коды</td>
+<td colspan="2">Есепті кезең бойынша</td>
+<td colspan="2">Ағымдағы ай бойынша</td>
+<td colspan="2">Есепті кезең бойынша</td>
+<td colspan="2">Ағымдағы ай бойынша</td>
+<td colspan="2">Есепті кезең бойынша</td>
+<td>Ағымдағы ай бойынша</td>
+</tr>
+<tr>
+<td colspan="9">баған коды</td>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
 <td>6</td>
 </tr>
 <tr>
-<td colspan="7">Есепті кезеңнің басында іс жүргізуде болған істердің қалдығы</td>
+<td colspan="9">Есепті кезеңнің басында іс жүргізуде болған істердің қалдығы</td>
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Іс жүргізуге қабылданған істер</td>
+<td colspan="9">Іс жүргізуге қабылданды</td>
 <td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="15">2-жолдан</td>
-<td colspan="6">Органның өзі сотқа дейінгі тергеп-тексеруді бастады</td>
+<td colspan="2" rowspan="15">2-жолдан</td>
+<td colspan="7">Органның өзі сотқа дейінгі тергеп-тексеруді бастады</td>
 <td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">басқа органдардан тергеулігі бойынша келіп түскендер</td>
+<td colspan="7">басқа органдардан тергеулігі бойынша келіп түскендер</td>
 <td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Прокурор қосымша тергеп-тексеруге қайтарған соң іс жүргізуге қабылданды</td>
+<td colspan="7">Прокурор қосымша тергеп-тексеруге қайтарған соң іс жүргізуге қабылданды</td>
 <td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Прокурор тоқтату туралы қаулыны бекітуден бас тартқаннан кейін іс жүргізуге қабылданды</td>
+<td colspan="7">Прокурор тоқтату туралы қаулыны бекітуден бас тартқаннан кейін іс жүргізуге қабылданды</td>
 <td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">алдын ала тергеуді немесе анықтауды жүргізу үшін қылмыстық қудалау органдарына сот қайтарған бұйрықтық іс жүргізу бойынша қылмыстық істер</td>
+<td colspan="7">алдын ала тергеуді немесе анықтауды жүргізу үшін қылмыстық қудалау органдарына сот қайтарған бұйрықтық іс жүргізу бойынша қылмыстық істер</td>
 <td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">оның ішінде онша ауыр емес қылмыстар бойынша</td>
+<td colspan="7">оның ішінде онша ауыр емес қылмыстар бойынша</td>
 <td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">прокурор бұйрықтық іс жүргізуді қолдану туралы қаулыны бекітуден бас тартқаннан кейін қабылданған қылмыстық істер</td>
+<td colspan="7">прокурор бұйрықтық іс жүргізуді қолдану туралы қаулыны бекітуден бас тартқаннан кейін қабылданған қылмыстық істер</td>
 <td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">сот қайтарған хаттамалық нысандағы қылмыстық істер</td>
+<td colspan="7">сот қайтарған хаттамалық нысандағы қылмыстық істер</td>
 <td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">прокурор хаттамалық нысанды қолдану туралы қаулыны бекітуден бас тартқаннан кейін қабылданған қылмыстық істер</td>
+<td colspan="7">прокурор хаттамалық нысанды қолдану туралы қаулыны бекітуден бас тартқаннан кейін қабылданған қылмыстық істер</td>
 <td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">тергеуді және анықтауды жүргізу үшін қылмыстық қудалау органына қайтарылған жеделдетілген іс жүргізу бойынша қылмыстық істер</td>
+<td colspan="7">тергеуді және анықтауды жүргізу үшін қылмыстық қудалау органына қайтарылған жеделдетілген іс жүргізу бойынша қылмыстық істер</td>
 <td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2">оның ішінде</td>
-<td colspan="4">сот</td>
+<td colspan="5">сот</td>
 <td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">прокурор</td>
+<td colspan="5">прокурор</td>
 <td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">іс жүргізуі қайта басталған</td>
+<td colspan="7">іс жүргізуі қайта басталған</td>
 <td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2">оның ішінде</td>
-<td colspan="4">бұрын тоқтатылған</td>
+<td colspan="5">бұрын тоқтатылған</td>
 <td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">бұрын тергеп-тексеру мерзімдері үзілген істер бойынша</td>
+<td colspan="5">бұрын тергеп-тексеру мерзімдері үзілген істер бойынша</td>
 <td>17</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Есепті кезеңде іс жүргізуде болған қылмыстық істердің барлығы</td>
+<td colspan="9">Есепті кезеңде іс жүргізуде болған қылмыстық істердің барлығы</td>
 <td>18</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Электрондық форматта тағайындалған</td>
+<td colspan="9">Электрондық форматта тағайындалған</td>
 <td>19</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Электрондық форматтан қағаз жүзіне ауыстырылған</td>
+<td colspan="9">Электрондық форматтан қағаз жүзіне ауыстырылған</td>
 <td>20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Есепті кезеңде аяқталған қылмыстық істердің барлығы (негізгі істер)</td>
+<td colspan="9">Есепті кезеңде аяқталған қылмыстық істердің барлығы (негізгі істер)</td>
 <td>21</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>оның ішінде</td>
-<td colspan="6">Электрондық форматтағы</td>
+<td colspan="2"></td>
+<td colspan="2">оның ішінде</td>
+<td colspan="5">электрондық форматтағы</td>
 <td>22</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">негізгілерге қосылған аяқталған қылмыстық істердің саны</td>
+<td colspan="9">негізгілерге қосылған аяқталған қылмыстық істердің саны</td>
 <td>23</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>оның ішінде</td>
-<td colspan="6">Электрондық форматтағы</td>
+<td colspan="2"></td>
+<td colspan="2">оның ішінде</td>
+<td colspan="5">электрондық форматтағы</td>
 <td>24</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="29">21- жолдан</td>
-<td colspan="6">Айыптау актісін немесе айыптау хаттамасын бекіту үшін прокурорға жіберілді</td>
+<td colspan="2" rowspan="30">21-жолдан</td>
+<td colspan="7">Айыптау актісін немесе айыптау хаттамасын бекіту үшін прокурорға жіберілді</td>
 <td>25</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">сондай-ақ негізгілерге қосылған</td>
+<td colspan="7">сондай-ақ негізгілерге қосылған</td>
 <td>26</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Сотқа дейінгі тергеп-тексерудің аяқталғаны туралы есеп жасау және айыптау актісін шығару үшін қылмыстық істі прокурорға жіберу</td>
+<td colspan="7">Сотқа дейінгі тергеп-тексерудің аяқталғаны туралы есеп жасау және айыптау актісін шығару үшін қылмыстық істі прокурорға жіберу</td>
 <td>27</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">сондай-ақ негізгілерге қосылған</td>
+<td colspan="7">сондай-ақ негізгілерге қосылған</td>
 <td>28</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Прокурор медициналық сипаттағы мәжбүрлеу шараларын қабылдау үшін жіберген</td>
+<td colspan="7">Прокурор медициналық сипаттағы мәжбүрлеу шараларын қабылдау үшін жіберген</td>
 <td>29</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">сондай-ақ негізгілерге қосылған</td>
+<td colspan="7">сондай-ақ негізгілерге қосылған</td>
 <td>30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Сотқа дейінгі жеделдетілген тергеп-тексеру хаттамсы нысанында аяқталған</td>
+<td colspan="7">Сотқа дейінгі жеделдетілген тергеп-тексеру хаттамсы нысанында аяқталған</td>
 <td>31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">сондай-ақ негізгілерге қосылған</td>
+<td colspan="7">сондай-ақ негізгілерге қосылған</td>
 <td>32</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">кінәні мойындау туралы процестік келісімді жасасу тәртібінде аяқталған</td>
+<td colspan="7">кінәні мойындау туралы процестік келісімді жасасу тәртібінде аяқталған</td>
 <td>33</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">сондай-ақ негізгілерге қосылған</td>
+<td colspan="7">сондай-ақ негізгілерге қосылған</td>
 <td>34</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Хаттамалық нысанды бекіту үшін прокурорға жіберілді</td>
+<td colspan="2">оның ішінде 33-жолдан</td>
+<td colspan="5">кінәні мойындау және заңсыз иемденілген активтерді қайтару туралы мәміле нысанында</td>
 <td>35</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">сондай-ақ негізгілерге қосылған</td>
+<td colspan="7">Хаттамалық нысанды бекіту үшін прокурорға жіберілді</td>
 <td>36</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">35-жолдан</td>
-<td colspan="5">прокурор бекіткен</td>
+<td colspan="7">сондай-ақ негізгілерге қосылған</td>
 <td>37</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">36-жолдан</td>
+<td colspan="5">прокурормен бекітілген</td>
+<td>38</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="5">прокурор хаттамалық нысанды бекітуден бас тартты</td>
-<td>38</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="6">Бұйрықтық іс жүргізуді бекіту үшін прокурорға жіберілді</td>
 <td>39</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">сондай-ақ негізгілерге қосылған</td>
+<td colspan="7">Бұйрықтық іс жүргізуді бекіту үшін прокурорға жіберілді</td>
 <td>40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">39-жолдан</td>
-<td colspan="5">прокурор бекіткен</td>
+<td colspan="7">сондай-ақ негізгілерге қосылған</td>
 <td>41</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">40-жолдан</td>
+<td colspan="5">прокурормен бекітілді</td>
+<td>42</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="5">бұйрықтық іс жүргізуді қолданудан прокурор бас тартты</td>
-<td>42</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="6">Қылмыстық істі тоқтату туралы шешімді бекіту үшін прокурорға жіберілді</td>
 <td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">сондай-ақ негізгілерге қосылған</td>
+<td colspan="7">Қылмыстық істі тоқтату туралы шешімді бекіту үшін прокурорға жіберілді</td>
 <td>44</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">43 - жолдан</td>
-<td colspan="4">прокурор бекіткен</td>
+<td colspan="7">сондай-ақ негізгілерге қосылған</td>
 <td>45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">прокурор бас тартты</td>
+<td colspan="2" rowspan="2">44-жолдан</td>
+<td colspan="5">прокурормен бекітілді</td>
 <td>46</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">оның ішінде ақтайтын негіздер бойынша</td>
+<td colspan="5">прокурормен бас тартылды</td>
 <td>47</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">сондай-ақ негізгілерге қосылған</td>
+<td colspan="7">оның ішінде ақтайтын негіздер бойынша</td>
 <td>48</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">47-жолдан</td>
-<td colspan="4">прокурор бекіткен</td>
+<td colspan="7">сондай-ақ негізгілерге қосылған</td>
 <td>49</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">прокурор бас тартты</td>
+<td colspan="2" rowspan="2">48-жолдан</td>
+<td colspan="5">прокурормен бекітілді</td>
 <td>50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">ынтымақтастық туралы процестік келісім нәтижесінде алынған мәліметтерді қолданумен аяқталған</td>
+<td colspan="5">прокурормен бас тартылды</td>
 <td>51</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Қазақстан Республикасы Қылмыстық-процестік кодексінің (бұдан әрі – ҚР ҚПК) 45-бабы 7-бөлігінің 1-тармағы, 2-тармағы бойынша бұрын үзілген құқық бұзушылықтар санынан тергеп-тексерумен аяқталды</td>
+<td colspan="7">ынтымақтастық туралы процестік келісім нәтижесінде алынған мәліметтерді қолданумен аяқталған</td>
 <td>52</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td colspan="7">Қазақстан Республикасы Қылмыстық-процестік кодексінің (бұдан әрі – ҚР ҚПК) 45-бабы 7-бөлігінің 1-тармағы, 2-тармағы бойынша бұрын үзілген құқық бұзушылықтар санынан тергеп-тексерумен аяқталды</td>
+<td>53</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2">оның ішінде</td>
-<td colspan="4">өткен жылдарда (тоқтата тұрылғандар)</td>
-<td>53</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="7">Іс тергеулігі бойынша жіберілді</td>
+<td colspan="5">алдыңғы жылдардың (тоқтатылғандар)</td>
 <td>54</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">сондай-ақ негізгілерге қосылған</td>
+<td colspan="9">Іс тергеулігі бойынша жіберілді</td>
 <td>55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Сотқа дейінгі тергеп-тексеру мерзімдері үзілген қылмыстық істер</td>
+<td colspan="9">сондай-ақ негізгілерге қосылған</td>
 <td>56</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">сондай-ақ негізгілерге қосылған</td>
+<td colspan="9">Сотқа дейінгі тергеп-тексеру мерзімдері үзілген қылмыстық істер</td>
 <td>57</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="2">56-жолдан</td>
-<td colspan="6">прокурормен келісілген</td>
+<td colspan="9">сондай-ақ негізгілерге қосылған</td>
 <td>58</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">келісуден бас тартылды</td>
+<td colspan="4" rowspan="2">57-жолдан</td>
+<td colspan="5">прокурормен келісілді</td>
 <td>59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">анықтау органының бастығы бұйрықтық іс жүргізуді қолдану туралы қаулыны келісуден бас тартты</td>
+<td colspan="5">келісуден бас тартылды</td>
 <td>60</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>оның ішінде</td>
-<td colspan="6">онша ауыр емес қылмыстар бойынша</td>
+<td colspan="9">анықтау органының бастығы бұйрықтық іс жүргізуді қолдану туралы қаулыны келісуден бас тартты</td>
 <td>61</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">айыптаумен</td>
+<td colspan="2"></td>
+<td colspan="2">оның ішінде</td>
+<td colspan="5">ауыр емес қылмыстар бойынша</td>
 <td>62</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">қылмыстық істерді прокурор сотқа жіберді</td>
+<td colspan="9">айыптау органының бастығы айыптау хаттамасын келісуден бас тартты</td>
 <td>63</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>оның ішінде</td>
-<td colspan="6">электрондық форматтағы</td>
+<td colspan="9">қылмыстық істерді прокурор сотқа жіберді</td>
 <td>64</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">сондай-ақ негізгілерге қосылған (63-жолдан)</td>
+<td colspan="4">оның ішінде</td>
+<td colspan="5">электрондық форматтағы</td>
 <td>65</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>63-жолдан</td>
-<td colspan="6">Оның ішінде бұйрықтық іс жүргізу тәртібіндегі</td>
+<td colspan="9">сондай-ақ негізгілерге қосылған (64-жолдан)</td>
 <td>66</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">оның ішінде онша ауыр емес қылмыстар бойынша (66-жолдан)</td>
+<td colspan="4">64-жолдан</td>
+<td colspan="5">олардың ішінде бұйрықтық іс жүргізу тәртібіндегі</td>
 <td>67</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">есепті мерзімде іс жүргізуде болғандар санынан қосылған қылмыстық істер</td>
+<td colspan="9">оның ішінде онша ауыр емес қылмыстар бойынша (67-жолдан)</td>
 <td>68</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Есепті кезеңнің соңында аяқталмаған қылмыстық істердің қалдығы</td>
+<td colspan="9">есепті мерзімде іс жүргізуде болғандар санынан қосылған қылмыстық істер</td>
 <td>69</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td>69-жолдан</td>
-<td colspan="6">Оның ішінде адамдар</td>
+<td colspan="9">Есепті кезеңнің соңында аяқталмаған қылмыстық істердің қалдығы</td>
 <td>70</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Тергеу әрекеттері туралы сотқа жіберілген өтінішхаттар</td>
+<td colspan="4">70-жолдан</td>
+<td colspan="5">оның ішінде адамдар</td>
 <td>71</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="54">оның ішінде</td>
-<td colspan="6">қызметінен уақытша шеттету</td>
+<td colspan="9">Тергеу әрекеттері туралы сотқа жіберілген өтінішхаттар</td>
 <td>72</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="58">оның ішінде</td>
+<td colspan="7">қызметінен уақытша шеттету</td>
 <td>73</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>74</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>75</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">жақындауға тыйым салу</td>
+<td colspan="5">сот санкциялаған</td>
 <td>76</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">жақындауға тиым салу</td>
 <td>77</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>78</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>79</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">мәжбүрлеп куәландыру</td>
+<td colspan="5">сот санкциялаған</td>
 <td>80</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">мәжбүрлеп куәландыру</td>
 <td>81</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>82</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>83</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">мүлікке тыйым салу</td>
+<td colspan="5">сот санкциялаған</td>
 <td>84</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">мүлікке тиым салу</td>
 <td>85</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>86</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>87</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">арнаулы медициналық мекемеге орналастыру</td>
+<td colspan="5">сот санкциялаған</td>
 <td>88</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">арнайы медициналық мекемеге орналастыру</td>
 <td>89</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>90</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>91</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">мәйітті эксгумациялау</td>
+<td colspan="5">сот санкциялаған</td>
 <td>92</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">мәйітті эксгумациялау</td>
 <td>93</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>94</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>95</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">күдіктіге, айыпталушыға халықаралық іздеу жариялау</td>
+<td colspan="5">сот санкциялаған</td>
 <td>96</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">күдіктіге, айыпталушыға халықаралық іздеу жариялау</td>
 <td>97</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>98</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>99</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Тінту</td>
+<td colspan="5">сот санкциялаған</td>
 <td>100</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">тінту</td>
 <td>101</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>102</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>103</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Алу</td>
+<td colspan="5">сот санкциялаған</td>
 <td>104</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">алу</td>
 <td>105</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>106</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>107</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Жеке тінту</td>
+<td colspan="5">сот санкциялаған</td>
 <td>108</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">жеке тінту</td>
 <td>109</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>110</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>111</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">үлгілерді мәжбүрлеп алу</td>
+<td colspan="5">сот санкциялаған</td>
 <td>112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">үлгілерді мәжбүрлеп алу</td>
 <td>113</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>114</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>115</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">айғақтарын сақтауға қою</td>
+<td colspan="5">сот санкциялаған</td>
 <td>116</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">айғақтарын сақтауға қою</td>
 <td>117</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>118</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>119</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">тез бұзылатын немесе қылмыстық істі мәні бойынша шешкенге дейін ұзақ сақталуы елеулі материалдық шығындарды қажет ететін заттай дәлелдемелерді өткізу туралы</td>
+<td colspan="5">сот санкциялаған</td>
 <td>120</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">оның ішінде</td>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="7">тез бұзылатын немесе қылмыстық істі мәні бойынша шешкенге дейін ұзақ сақталуы елеулі материалдық шығындарды қажет ететін заттай дәлелдемелерді өткізу туралы</td>
 <td>121</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="2">кәсіпкерлік қызмет саласында</td>
+<td colspan="2">олардың ішінен</td>
+<td colspan="5">сот санкциялаған</td>
 <td>122</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">сот санкциялаған</td>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>123</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">тұрғын үй-жайды мәжбүрлеп тексеру (ҚПК-нің 220-бабының 14-бөлігі)</td>
+<td colspan="5">сот санкциялаған</td>
 <td>124</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">оның ішінде кәсіпкерлік қызмет саласында</td>
+<td colspan="7">тұрғын үй-жайды мәжбүрлеп тексеру (ҚПК-нің 220-бабының 14 бөлігі)</td>
 <td>125</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td rowspan="4"></td>
-<td colspan="6">келу туралы міндеттеме</td>
+<td colspan="2">оның ішінде</td>
+<td colspan="5">оның ішінде кәсіпкерлік қызмет саласында</td>
 <td>126</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="5">оның ішінде</td>
-<td>кәсіпкерлік қызмет саласында</td>
+<td colspan="7">келу міндеттемесі</td>
 <td>127</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">жетек (мәжбүрлеп жеткізу)</td>
+<td colspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>128</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="5">оның ішінде</td>
-<td>кәсіпкерлік қызмет саласында</td>
+<td colspan="7">жетек (мәжбүрлеп жеткізу)</td>
 <td>129</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Прокурорға мүлікті тәркілеуді жүргізу туралы қорытынды жіберілді (ҚР ҚПК-нің 668-бабының 5-бөлігі)</td>
+<td colspan="2">оның ішінде</td>
+<td colspan="5">кәсіпкерлік қызмет саласында</td>
 <td>130</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">ҚПК-нің 200-бабына сәйкес ұсынулар енгізілді</td>
+<td colspan="9">Прокурорға мүлікті тәркілеуді жүргізу туралы қорытынды жіберілді (ҚР ҚПК-нің 668-бабының 5-бөлігі)</td>
 <td>131</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">оның ішінде қаралды</td>
+<td colspan="9">ҚР ҚПК-нің 200-бабына сәйкес ұсыныстар енгізілді</td>
 <td>132</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">оның ішінде мерзімі бұзылған</td>
+<td colspan="9">олардың ішінде қаралды</td>
 <td>133</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4" rowspan="2">оның ішінде:</td>
-<td colspan="3">тәртіптік жауаптылыққа тартылғаны</td>
+<td colspan="9">оның ішінде мерзімі бұзылған</td>
 <td>134</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="3">ҚР Әкімшілік құқық бұзушылық туралы кодексінің 479-бабы бойынша әкімшілік жауаптылыққа тартылған адамдардың саны</td>
+<td colspan="2" rowspan="2">олардың ішінде</td>
+<td colspan="7">тәртіптік жауапкершілікке тартылғаны</td>
 <td>135</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr>
+<td colspan="7">ӘҚБтК-нің 479-бабы бойынша әкімшілік жауапкершілікке тартылған адамдардың саны</td>
+<td>136</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 </table>
@@ -4102,7 +4121,7 @@
 </tr>
 </table>
 
-## № 5-кесте «Қылмыстық істерді сотқа дейінгі тергеп-тексеру мерзімдері бойынша қылмыстық қудалау органдары жұмысының көрсеткіштері»
+№ 5-кесте «Қылмыстық істерді сотқа дейінгі тергеп-тексеру мерзімдері бойынша қылмыстық қудалау органдары жұмысының көрсеткіштері»
 
 <table>
 <tr>
@@ -5284,11 +5303,11 @@
 
 5. Есепті құрастыру кезінде жеке көрсеткіштер арасындағы логикалық арақатынасты сақтау қажет.
 
-6. Республика бойынша, сондай-ақ өңір және құқықтық статистиканың әрбір субъектісі бойынша жиынтық есеп Қазақстан Республикасы Бас прокуратурасының Құқықтық статистика және арнайы есепке алу жөніндегі комитетінің орталық аппаратында (бұдан әрі – Комитет) автоматтандырылған режимде қалыптастырылады.
+6. Қазақстан Республикасы Бас прокуратурасының Құқықтық статистика және арнайы есепке алу жөніндегі комитетінің (бұдан әрі - Комитет) орталық аппаратында автоматтандырылған режимде республика бойынша, сондай-ақ өңір бойынша және құқықтық статистиканың әрбір субъектісі бойынша жиынтық есеп қалыптастырылады.
 
-   Комитеттің аумақтық органдарының бастықтары өз орындарында СДТБТ-ға енгізілетін мәліметтер дұрыстығын қамтамасыз етеді және есептіліктің бұрмалануын болдырмау үшін шаралар қабылдайды.
+   Комитеттің аумақтық және оларға теңестірілген органдарының бастықтары жергілікті жерлерде СДТБТ келіп түскен мәліметтерінің дұрыстығын қамтамасыз етеді және есептіліктің бұрмалануын жою жөнінде қажетті шаралар қабылдайды.
 
-> *Ескерту. 6-тармақ жаңа редакцияда - ҚР Бас Прокурорының 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. 6-тармақ жаңа редакцияда - ҚР Бас Прокурорының 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 16.10.2023 № 189 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
 
 7. СДТБТ-не АЭН мәліметтерінің уақытылы, дұрыс және толық енгізілуіне жауапты болып оларды тікелей енгізетін қызметкерлер табылады.
 
@@ -5326,25 +5345,27 @@
 
 > *Ескерту. 12-тармақ жаңа редакцияда - ҚР Бас Прокурорының 04.05.2018 № 61 (алғашқы ресми жарияланған күнiнен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
 
-13. Аяқталған, оның ішінде электрондық форматтағы қылмыстық істер туралы мәліметтер (негізгі істер, сондай-ақ негізгі істерге қосылған, аяқталған эпизодтар бойынша қылмыстық істер), 21-53 жолдар бойынша бөлінеді.
+13. Аяқталған, оның ішінде электрондық форматтағы қылмыстық істер туралы мәліметтер (негізгі істер, сондай-ақ негізгі істерге қосылған, аяқталған эпизодтар бойынша қылмыстық істер), 25-54 жолдар бойынша бөлінеді.
 
-> *Ескерту. 13-тармақ жаңа редакцияда - ҚР Бас Прокурорының 04.05.2018 № 61 (алғашқы ресми жарияланған күнiнен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. 13-тармақ жаңа редакцияда - ҚР Бас Прокурорының 04.05.2018 № 61 (алғашқы ресми жарияланған күнiнен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 16.10.2023 № 189 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
 
-14. 54-55-жолдарда тергеулігі бойынша жіберілген істер, 56-59-жолдарда - қылмыстық істі үзуді келісу үшін прокурорға жіберілген қылмыстық істер, 60-61-жолдарда - анықтау органы бастығының бұйрықтық іс жүргізуді қолдану туралы жұмысы туралы мәліметтер, 62-жолда - анықтау органы бастығының айыптау хаттамасының қаулысын келісуден бас тартуы, 63-66-жолдарда прокурор сотқа жіберген қылмыстық істер көрсетіледі.
+14. 55-56-жолдарда тергеулігі бойынша жіберілген істер, 57-60-жолдарда - қылмыстық істі үзуді келісу үшін прокурорға жіберілген қылмыстық істер, 61-63-жолдарда - анықтау органы бастығының бұйрықтық іс жүргізуді қолдану туралы жұмысы туралы мәліметтер, 63-жолда - анықтау органы бастығының айыптау хаттамасының қаулысын келісуден бас тартуы, 64-68-жолдарда прокурор сотқа жіберген қылмыстық істер көрсетіледі.
 
-> *Ескерту. 14-тармақ жаңа редакцияда - ҚР Бас Прокурорының 04.05.2018 № 61 (алғашқы ресми жарияланған күнiнен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) бұйрықтарымен.*
+    69-жолда есепті кезеңдегі іс жүргізудегі істердің ішінен біріктірілген қылмыстық істердің саны, 70, 71-жолдарда есепті кезеңнің соңындағы аяқталмаған қылмыстық істердің қалдығы көрсетіледі.
 
-15. Қылмыстық қудалау органдарының тергеу әрекеттері туралы, сондай-ақ кәсіпкерлік қызмет саласындағы өтінішхаттары 71-129-жолдарда көрсетілген.
+> *Ескерту. 14-тармақ жаңа редакцияда - ҚР Бас Прокурорының 04.05.2018 № 61 (алғашқы ресми жарияланған күнiнен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 16.10.2023 № 189 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
 
-> *Ескерту. 15-тармақ жаңа редакцияда - ҚР Бас Прокурорының 04.05.2018 № 61 (алғашқы ресми жарияланған күнiнен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 27.09.2022 № 191 (алғашқы ресми жарияланған күнiнен кейін қолданысқа енгізіледі) бұйрықтарымен.*
+15. Қылмыстық қудалау органдарының тергеу әрекеттері туралы, сондай-ақ кәсіпкерлік қызмет саласындағы өтінішхаттары 72-130-жолдарда көрсетілген.
 
-15-1. 126-жолда Қазақстан Республикасы Қылмыстық-процестік кодексінің (бұдан әрі – ҚР ҚПК) 668-бабы бесінші бөлігінің тәртібінде прокурорға жіберілген мүлікті тәркілеу туралы іс жүргізу бойынша қорытындылар көрсетіледі.
+> *Ескерту. 15-тармақ жаңа редакцияда - ҚР Бас Прокурорының 04.05.2018 № 61 (алғашқы ресми жарияланған күнiнен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 27.09.2022 № 191 (алғашқы ресми жарияланған күнiнен кейін қолданысқа енгізіледі); 16.10.2023 № 189 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
 
-> *Ескерту. Нұсқаулық 15-1-тармақпен толықтырылды - ҚР Бас Прокурорының 15.06.2020 № 76 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); жаңа редакцияда - ҚР Бас Прокурорының 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 27.09.2022 № 191 (алғашқы ресми жарияланған күнiнен кейін қолданысқа енгізіледі) бұйрықтарымен.*
+15-1. 131-жолда Қазақстан Республикасы Қылмыстық-процестік кодексінің (бұдан әрі – ҚР ҚПК) 668-бабы бесінші бөлігінің тәртібінде прокурорға жіберілген мүлікті тәркілеу туралы іс жүргізу бойынша қорытындылар көрсетіледі.
 
-15-2. 127-жолда ҚР ҚПК-нің 200-бабының тәртібінде мемлекеттік органдарға енгізілген ұсынулар, олардың қаралуы, оның ішінде мерзімі бұзылғандары бойынша бөлініп, тәртіптік және әкімшілік жауаптылыққа тартылған адамдардың саны бойынша көрсетіледі.
+> *Ескерту. Нұсқаулық 15-1-тармақпен толықтырылды - ҚР Бас Прокурорының 15.06.2020 № 76 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); жаңа редакцияда - ҚР Бас Прокурорының 15.02.2021 № 17 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); 27.09.2022 № 191 (алғашқы ресми жарияланған күнiнен кейін қолданысқа енгізіледі); 16.10.2023 № 189 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
 
-> *Ескерту. 3-тарау 15-2-тармақпен толықтырылды - ҚР Бас Прокурорының 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); жаңа редакцияда - ҚР Бас Прокурорының 27.09.2022 № 191 (алғашқы ресми жарияланған күнiнен кейін қолданысқа енгізіледі) бұйрықтарымен.*
+15-2. 132-жолда ҚР ҚПК-нің 200-бабының тәртібінде мемлекеттік органдарға енгізілген ұсынулар, олардың қаралуы, оның ішінде мерзімі бұзылғандары бойынша бөлініп, тәртіптік және әкімшілік жауаптылыққа тартылған адамдардың саны бойынша көрсетіледі (133-136-жолдар).
+
+> *Ескерту. 3-тарау 15-2-тармақпен толықтырылды - ҚР Бас Прокурорының 29.03.2022 № 62 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі); жаңа редакцияда - ҚР Бас Прокурорының 27.09.2022 № 191 (алғашқы ресми жарияланған күнiнен кейін қолданысқа енгізіледі); 16.10.2023 № 189 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
 
 *16. Алып тасталды - ҚР Бас Прокурорының 04.05.2018 № 61 (алғашқы ресми жарияланған күнiнен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
