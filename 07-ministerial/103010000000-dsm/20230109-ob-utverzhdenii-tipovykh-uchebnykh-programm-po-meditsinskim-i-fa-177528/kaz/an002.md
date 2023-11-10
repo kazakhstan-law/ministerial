@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/177528/kaz/24.05.2023
+source: https://zan.gov.kz/client/#!/doc/177528/kaz/10.11.2023
 ---
 
 > *Медициналық және фармацевтикалық*  
