@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/136161/kaz/01.07.2023
+source: https://zan.gov.kz/client/#!/doc/136161/kaz/27.11.2023
 ---
 
 ## 1-параграф. Тарифтер қалыптастыру қағидалары
