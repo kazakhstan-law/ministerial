@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97309/rus/28.04.2022
+source: https://zan.gov.kz/client/#!/doc/97309/rus/26.12.2023
 ---
 
 # Об утверждении Правил проведения камерального контроля
