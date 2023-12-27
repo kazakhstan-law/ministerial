@@ -1,5 +1,5 @@
 ---
-version_id: '116165_256697'
+version_id: '116165_680982'
 act_code: '116165'
 language: kaz
 title: Қазақстан Республикасының ұлттық қауіпсіздік органдарын асханалық-асүйлік жабдықпен және ыдыспен жабдықтау нормаларын бекіту туралы
@@ -11,14 +11,20 @@ type_codes:
 approved_by:
 - '108000000000'
 approval_date: 2017-10-16
-version_date: 2017-10-16
+version_date: 2023-12-27
 registry_number: '116165'
-source: https://zan.gov.kz/client/#!/doc/116165/kaz/16.10.2017
+caused_by:
+  code: '190997'
+  title: «Қазақстан Республикасының ұлттық қауіпсіздік органдарын асханалық-асүйлік жабдықпен және ыдыспен жабдықтау нормаларын бекіту туралы» Қазақстан Республикасы Ұлттық қауіпсіздік комитеті Төрағасының 2017 жылғы 16 қазандағы № 95/қе бұйрығына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/190997/kaz
+source: https://zan.gov.kz/client/#!/doc/116165/kaz/27.12.2023
 ---
 
 # Қазақстан Республикасының ұлттық қауіпсіздік органдарын асханалық-асүйлік жабдықпен және ыдыспен жабдықтау нормаларын бекіту туралы
 
-«Қазақстан Республикасының арнаулы мемлекеттік органдары туралы» 2012 жылғы 13 ақпандағы Қазақстан Республикасының Заңы 84-бабының 4-тармағына сәйкес БҰЙЫРАМЫН:
+«Қазақстан Республикасының арнаулы мемлекеттік органдары туралы» Қазақстан Республикасының Заңы 84-бабының 4-тармағына сәйкес БҰЙЫРАМЫН:
+
+> *Ескерту. Кіріспе жаңа редакцияда – ҚР Ұлттық қауіпсіздік комитеті Төрағасының 27.12.2023 № 106/қе (қол қойылған күнінен бастап қолданысқа енгізіледі) бұйрығымен.*
 
 1. Қоса беріліп отырған Қазақстан Республикасының ұлттық қауіпсіздік органдарын асханалық-ас үйлік жабдықпен және ыдыспен жабдықтау нормалары бекітілсін.
 
@@ -44,7054 +50,5763 @@ source: https://zan.gov.kz/client/#!/doc/116165/kaz/16.10.2017
 > *_______________________ Б. Сұлтанов*  
 > *2017 жылғы 19 қазан*
 
-> *Қазақстан Республикасы*  
-> *Ұлттық қауіпсіздік комитеті Төрағасының*  
+> *Қазақстан Республикасы Ұлттық*  
+> *қауіпсіздік комитеті Төрағасының*  
 > *2017 жылғы 16 қазандағы*  
 > *№ 95/қе бұйрығымен*  
 > *бекітілген*
 
 ## Қазақстан Республикасының ұлттық қауіпсіздік органдарын асханалық-ас үйлік жабдықпен және ыдыспен жабдықтау нормалары
 
-1. Қазақстан Республикасы Ұлттық қауіпсіздік органдарының асханаларын асханалық-ас үйлік жабдықпен және ыдыспен жабдықтау нормалары
+> *Ескерту. Нормалары жаңа редакцияда – ҚР Ұлттық қауіпсіздік комитеті Төрағасының 27.12.2023 № 106/қе (қол қойылған күнінен бастап қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
-<td colspan="11">1.1.Асхана ыдыстары мен аспаптары</td>
+<td colspan="105">1-бөлім. Қазақстан Республикасы Ұлттық қауіпсіздік органдарының асханаларын асханалық-ас үйлік жабдықпен және ыдыспен жабдықтау нормалары</td>
 </tr>
 <tr>
-<td>
-р/с
-№
-</td>
-<td colspan="3">Атауы</td>
-<td colspan="3">Өлшем бірлігі</td>
-<td colspan="4">Тамақтанатын 100 адамға заттар саны</td>
+<td colspan="105">1-кіші бөлім. Асхана ыдыстары мен аспаптары</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="3">Шұңғыл фарфор тәрелке</td>
-<td colspan="3">дана</td>
-<td colspan="4">125</td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="3">Шағын фарфор тәрелке</td>
-<td colspan="3">дана</td>
-<td colspan="4">125</td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="3">Десертке арналған фарфор тәрелке</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="3">Бәлішке арналған фарфор тәрелке</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="3">Салатқа арналған бір порциялық фарфор ыдыс</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="3">Майшабаққа арналған фарфор ыдыс</td>
-<td colspan="3">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="3">Май салатын фарфор ыдыс</td>
-<td colspan="3">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="3">Қант салатын фарфор ыдыс</td>
-<td colspan="3">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>9</td>
-<td colspan="3">Шай демдеуге арналған фарфор шайнек</td>
-<td colspan="3">дана</td>
-<td colspan="4">4</td>
-</tr>
-<tr>
-<td>10</td>
-<td colspan="3">Шай ішетін шыны стақан</td>
-<td colspan="3">дана</td>
-<td colspan="4">300</td>
-</tr>
-<tr>
-<td>11</td>
-<td colspan="3">Стақан салғыш</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="3">Шай ішетін фарфор шыныаяқ табақшасымен</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="3">Кофе ішетін фарфор шыныаяқ табақшасымен</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>14</td>
-<td colspan="3">Шырынға арналған шыны стақан</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="3">Тот баспайтын болаттан жасалған ас қасық</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>16</td>
-<td colspan="3">Тот баспайтын болаттан жасалған шай қасық</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>17</td>
-<td colspan="3">Тот баспайтын болаттан жасалған ас құюға арналған қасық</td>
-<td colspan="3">дана</td>
-<td colspan="4">4</td>
-</tr>
-<tr>
-<td>18</td>
-<td colspan="3">Тот баспайтын болаттан жасалған ас шанышқысы</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>19</td>
-<td colspan="3">Тот баспайтын болаттан жасалған ас пышағы</td>
-<td colspan="3">дана</td>
-<td colspan="4">100</td>
-</tr>
-<tr>
-<td>20</td>
-<td colspan="3">Дәмдеуіштерге арналған аспап</td>
-<td colspan="3">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>21</td>
-<td colspan="3">Бір порциялық тұздық салғыш</td>
-<td colspan="3">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>22</td>
-<td colspan="3">Фарфор сүт құятын ыдыс</td>
-<td colspan="3">дана</td>
-<td colspan="4">10</td>
-</tr>
-<tr>
-<td>23</td>
-<td colspan="3">5 литрлік шайнек</td>
-<td colspan="3">дана</td>
-<td colspan="4">10</td>
-</tr>
-<tr>
-<td>24</td>
-<td colspan="3">Шыны графин (құмыра)</td>
-<td colspan="3">дана</td>
-<td colspan="4">12</td>
-</tr>
-<tr>
-<td>25</td>
-<td colspan="3">Табақша</td>
-<td colspan="3">дана</td>
-<td colspan="4">50</td>
-</tr>
-<tr>
-<td>26</td>
-<td colspan="3">Күбіше мен шайнек астына қойылатын тұғыр</td>
-<td colspan="3">дана</td>
-<td colspan="4">20</td>
-</tr>
-<tr>
-<td>27</td>
-<td colspan="3">Майлыққа арналған ваза</td>
-<td colspan="3">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>28</td>
-<td colspan="3">Гүлге арналған ваза</td>
-<td colspan="3">дана</td>
-<td colspan="4">25</td>
-</tr>
-<tr>
-<td>29</td>
-<td colspan="3">Зығырдан тігілген дастарқандық мата</td>
-<td colspan="3">қума метр</td>
-<td colspan="4">120</td>
-</tr>
-<tr>
-<td>30</td>
-<td colspan="3">Полиэтиленді пленка</td>
-<td colspan="3">қума метр</td>
-<td colspan="4">120</td>
-</tr>
-<tr>
-<td>31</td>
-<td colspan="3">Қағаз майлық (тәулігіне)</td>
-<td colspan="3">дана</td>
-<td colspan="4">300</td>
-</tr>
-<tr>
-<td colspan="11">1.2.Ас үйлік ыдыс</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">
-р/с
-№
-</td>
-<td rowspan="2">Атауы</td>
-<td colspan="2" rowspan="2">Өлшем бірлігі</td>
-<td colspan="6">Тамақтанатын адамдар санына байланысты ас үйдегі заттар саны</td>
-</tr>
-<tr>
-<td>50-ге дейін</td>
-<td colspan="2">51–125</td>
-<td colspan="2">126–250</td>
-<td>251–500</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td>8–10 литрлік кастрөл</td>
-<td colspan="2">дана</td>
-<td>4</td>
-<td colspan="2">6</td>
-<td colspan="2">9</td>
-<td>12</td>
-</tr>
-<tr>
-<th colspan="2">33</th>
-<th>20–40 литрлік плитаға қойылатын қазан</th>
-<th colspan="2">дана</th>
-<th>3</th>
-<th colspan="2">5</th>
-<th colspan="2">6</th>
-<th>7</th>
-</tr>
-<tr>
-<th colspan="2">34</th>
-<th>50–60 литрлік плитаға қойылатын қазан</th>
-<th colspan="2">дана</th>
-<th>1</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
-</tr>
-<tr>
-<th colspan="2">35</th>
-<th>10–15 литрлік таба</th>
-<th colspan="2">дана</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td>Дербес аралас ыдыс</td>
-<td colspan="2">дана</td>
-<td>8</td>
-<td colspan="2">12</td>
-<td colspan="2">18</td>
-<td>27</td>
-</tr>
-<tr>
-<th colspan="2">37</th>
-<th>Қақпағы бар эмальданған шелек</th>
-<th colspan="2">дана</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-</tr>
-<tr>
-<th colspan="2">38</th>
-<th>Мырышталған шелек</th>
-<th colspan="2">дана</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-</tr>
-<tr>
-<th colspan="2">39</th>
-<th>Мырышталған леген</th>
-<th colspan="2">дана</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-</tr>
-<tr>
-<th colspan="2">40</th>
-<th>1,5 литрлік ожау</th>
-<th colspan="2">дана</th>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td>0,4 литрлік ожау</td>
-<td colspan="2">дана</td>
-<td>2</td>
-<td colspan="2">2</td>
-<td colspan="2">4</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td>Сүзгі ожау</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<th colspan="2">43</th>
-<th>Кепсер</th>
-<th colspan="2">дана</th>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td>0,5 литрлік шөміш</td>
-<td colspan="2">дана</td>
-<td>2</td>
-<td colspan="2">2</td>
-<td colspan="2">4</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td>0,25 литрлік шөміш</td>
-<td colspan="2">дана</td>
-<td>2</td>
-<td colspan="2">2</td>
-<td colspan="2">4</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td>Таба</td>
-<td colspan="2">дана</td>
-<td>3</td>
-<td colspan="2">4</td>
-<td colspan="2">-</td>
-<td>-</td>
-</tr>
-<tr>
-<td colspan="2">47</td>
-<td>Құймақ пісіретін таба</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">48</td>
-<td>Көкөніс тазалауға арналған пышақ</td>
-<td colspan="2">дана</td>
-<td>6</td>
-<td colspan="2">14</td>
-<td colspan="2">16</td>
-<td>18</td>
-</tr>
-<tr>
-<th colspan="2">49</th>
-<th>Нан турауға арналған пышақ</th>
-<th colspan="2">дана</th>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-</tr>
-<tr>
-<td colspan="2">50</td>
-<td>Ет осуға арналған пышақ</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">51</td>
-<td>Консерві ашқыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">52</td>
-<td>Шапқы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">53</td>
-<td>Өсімдік майын құятын 10–20 литрлік бидон</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-<td>-</td>
-</tr>
-<tr>
-<td colspan="2">54</td>
-<td>Өсімдік майын құюға арналған 25–38 литрлік құты</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td colspan="2">-</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">55</td>
-<td>Сүт құюға арналған 25–38 литрлік құты</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">4</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">56</td>
-<td>Ас қалдықтарына арналған бак</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">57</td>
-<td>Елеуіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">58</td>
-<td>Қалақша</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">59</td>
-<td>Үккіш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">60</td>
-<td>Табаша</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">-</td>
-<td>-</td>
-</tr>
-<tr>
-<td colspan="2">61</td>
-<td>Ет түсіруге арналған шанышқы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">62</td>
-<td>Қаңылтыр таба</td>
-<td colspan="2">дана</td>
-<td>4</td>
-<td colspan="2">6</td>
-<td colspan="2">8</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">63</td>
-<td>Ет жаныштауға арналған шапқы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">64</td>
-<td>Аспаздық қалақша</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">65</td>
-<td>Ажыратуға арналған шанышқы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">66</td>
-<td>Азық-түлікті бөлшектеуге арналған тақтай</td>
-<td colspan="2">дана</td>
-<td>4</td>
-<td colspan="2">6</td>
-<td colspan="2">8</td>
-<td>10</td>
-</tr>
-<tr>
-<th colspan="2">67</th>
-<th>Ағаш қалақша</th>
-<th colspan="2">дана</th>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th>4</th>
-</tr>
-<tr>
-<td colspan="2">68</td>
-<td>Металдан жасалған бұлғауыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<th colspan="2">69</th>
-<th>Ағаш келсап</th>
-<th colspan="2">дана</th>
-<th>1</th>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th>3</th>
-</tr>
-<tr>
-<td colspan="2">70</td>
-<td>Ағаш оқтау</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">71</td>
-<td>Қазан жууға арналған щетка</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">72</td>
-<td>Ет жууға арналған щетка және душ</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="11">1.3.Жабдық</td>
-</tr>
-<tr>
-<td colspan="11">Технологиялық жабдық</td>
-</tr>
-<tr>
-<td colspan="2">73</td>
-<td>Картоп тазалауға арналған машина</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">74</td>
-<td>Көкөніс турауға арналған машина</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>-</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">75</td>
-<td>
-Ет-балық цехтарына арналған әмбебап
-ас үй машинасы
-</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">76</td>
-<td>Пісірілген көкөністі турауға арналған машина</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>-</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">77</td>
-<td>Үккіш машина</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">78</td>
-<td>Механикалық ет тартқыш</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">79</td>
-<td>Қолмен тартылатын ет тартқыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">80</td>
-<td>Механикалық нан турағыш</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">81</td>
-<td>
-140 литрге дейін бір кеспегі бар қамыр
-илейтін машина
-</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">82</td>
-<td>Өнімділігі сағатына 100 литр электр су қайнатқыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">83</td>
-<td>4 конфорлы электр плитасы</td>
-<td colspan="2">дана</td>
-<td>2</td>
-<td colspan="2">3</td>
-<td>4</td>
-<td colspan="2">4</td>
-</tr>
-<tr>
-<th colspan="2">84</th>
-<th>Электр плитасы (үстіне ас пісіретін)</th>
-<th colspan="2">дана</th>
-<th>1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th colspan="2">4</th>
-</tr>
-<tr>
-<td colspan="2">85</td>
-<td>Тамақ пісіретін арнайы 100 литрлік электр қазан</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">86</td>
-<td>Жылжымалы электр мармит</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">6</td>
-<td>6</td>
-<td colspan="2">8</td>
-</tr>
-<tr>
-<td colspan="2">87</td>
-<td>Түбінің ауданы 0,45 ш.м. электр таба</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">88</td>
-<td>
-Аспаздық шкаф немесе қуыруға
-арналған пеш
-</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">89</td>
-<td>Өнімділігі сағатына 700 тәрелке ыдыс жуатын әмбебап машина</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">90</td>
-<td>Бумен пісіретін аппарат</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<th colspan="2">91</th>
-<th>Микротолқынды пеш</th>
-<th colspan="2">дана</th>
-<th>1</th>
-<th colspan="2">1</th>
-<th>2</th>
-<th colspan="2">3</th>
-</tr>
-<tr>
-<td colspan="2">92</td>
-<td>Кофе қайнатқыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">93</td>
-<td>Шырынсыққыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">94</td>
-<td>Ыдысы бар блэндер</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">95</td>
-<td>Электр миксер</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="11">Тоңазытқыш жабдығы</td>
-</tr>
-<tr>
-<td colspan="2">96</td>
-<td>Тоңазытқыш шкаф</td>
-<td colspan="2">дана</td>
-<td>2</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">97</td>
-<td>Тұрмыстық электр тоңазытқыш</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">98</td>
-<td>
-Жартылай фабрикат ет үшін
-тоңазытқыш камера
-</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">99</td>
-<td>Жартылай балық үшін тоңазытқыш камера</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">100</td>
-<td>Сүт-май және гастрономиялық тағам үшін тоңазытқыш камера</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">101</td>
-<td>Көкөніс және жартылай фабрикат көкөніс үшін тоңазытқыш камера</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">102</td>
-<td>
-Төмен температуралы мұздатқыш камера
-(-18С жоғары емес)
-</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="11">Салмақ өлшеу аспаптары</td>
-</tr>
-<tr>
-<td colspan="2">103</td>
-<td>Үстелге қойылатын таразы</td>
-<td colspan="2">дана</td>
-<td>3</td>
-<td colspan="2">5</td>
-<td>7</td>
-<td colspan="2">9</td>
-</tr>
-<tr>
-<td colspan="2">104</td>
-<td>Тауар өлшеуге арналған таразы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="11">Механикалық емес жабдық</td>
-</tr>
-<tr>
-<td colspan="2">105</td>
-<td>Өндірістік үстел</td>
-<td colspan="2">дана</td>
-<td>4</td>
-<td colspan="2">7</td>
-<td>10</td>
-<td colspan="2">12</td>
-</tr>
-<tr>
-<td colspan="2">106</td>
-<td>Жарма тазалауға арналған үстел</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">107</td>
-<td>Картопты қайта тазалауға арналған үстел</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">108</td>
-<td>Ас қалдықтарын жинауға арналған үстел</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">109</td>
-<td>Нан турағышты орнатуға арналған үстел</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">110</td>
-<td>4 орындығымен түскі асқа арналған үстел</td>
-<td colspan="2">дана</td>
-<td>12</td>
-<td colspan="2">31</td>
-<td>62</td>
-<td colspan="2">125</td>
-</tr>
-<tr>
-<td colspan="2">111</td>
-<td>Ас үйлік ыдысты сақтауға арналған сөре</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">112</td>
-<td>Азық-түлікті сақтауға арналған сөре</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">113</td>
-<td>Нанды ұяшыққа сақтауға арналған сөре</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">114</td>
-<td colspan="9">Ыдыс жууға арналған ванна:</td>
-</tr>
-<tr>
-<td>екі секциялы</td>
-<td colspan="2" rowspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>үш секциялы</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">115</td>
-<td>Жылжымалы ванна</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">116</td>
-<td>Плитаға қазан астына қойылатын қосалқы тіреуіш</td>
-<td colspan="2">дана</td>
-<td>3</td>
-<td colspan="2">6</td>
-<td>8</td>
-<td colspan="2">10</td>
-</tr>
-<tr>
-<td colspan="2">117</td>
-<td>Тауар өлшеуге арналған таразы астына, тоңазытқыш шкафтар астына қойылатын тіреуіш</td>
-<td colspan="2">дана</td>
-<td>2</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">118</td>
-<td>Жинайтын мүкәммалға арналған тұғыр</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">119</td>
-<td>Азық-түлікке арналған ыдыс жиынтығы</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">120</td>
-<td>Ет тасуға арналған жәшік</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">121</td>
-<td>Балық тасуға арналған жәшік</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">122</td>
-<td>Көкөніс тасуға арналған жәшік</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">123</td>
-<td>Картоп пен көкөніс сақтауға арналған контейнер</td>
-<td colspan="2">дана</td>
-<td>-</td>
-<td colspan="2">-</td>
-<td>1</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">124</td>
-<td>Таза асхана ыдысын сақтауға және жеткізуге арналған арба</td>
-<td colspan="2">дана</td>
-<td>1</td>
-<td colspan="2">4</td>
-<td>6</td>
-<td colspan="2">10</td>
-</tr>
-<tr>
-<td colspan="2">125</td>
-<td>Дайын тамақты жеткізуге және пайдаланылған ыдысты жинауға арналған арба</td>
-<td colspan="2">дана</td>
-<td>2</td>
-<td colspan="2">4</td>
-<td>6</td>
-<td colspan="2">10</td>
-</tr>
-</table>
-
-2. Қазақстан Республикасының ұлттық қауіпсіздік органдары арнаулы (әскери) оқу орындарының асханаларын асханалық-ас үйлік жабдықпен және ыдыспен жабдықтау нормалары
-
-<table>
-<tr>
-<td colspan="10">2.1.Асхана ыдыстары мен аспаптар</td>
-</tr>
-<tr>
-<td rowspan="2">
-№
-п/п
-</td>
-<td colspan="2" rowspan="2">Атауы</td>
-<td colspan="2" rowspan="2">Өлшем бірлігі</td>
-<td colspan="5">Саны</td>
-</tr>
-<tr>
-<td colspan="3">Тамақтанатын 100 адамға</td>
-<td colspan="2">Өзіне-өзі қызмет көрсету желілері үшін, 1 адамға</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">Шұңғыл фарфор тәрелке</td>
-<td colspan="2">дана</td>
-<td colspan="3">125</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="2">Шағын фарфор тәрелке</td>
-<td colspan="2">дана</td>
-<td colspan="3">125</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="2">Табақша жиынтығы</td>
-<td colspan="2">дана</td>
-<td colspan="3">-</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="2">Шыны, пластмасса немесе фарфор стақан</td>
-<td colspan="2">дана</td>
-<td colspan="3">200</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="2">Бәлішке арналған фарфор тәрелке</td>
-<td colspan="2">дана</td>
-<td colspan="3">100</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="2">Десертке арналған фарфор тәрелке</td>
-<td colspan="2">дана</td>
-<td colspan="3">100</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="2">Май салатын фарфор ыдыс</td>
-<td colspan="2">дана</td>
-<td colspan="3">25</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="2">Қант салатын фарфор ыдыс</td>
-<td colspan="2">дана</td>
-<td colspan="3">25</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>9</td>
-<td colspan="2">Фарфор кружка</td>
-<td colspan="2">дана</td>
-<td colspan="3">100</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>10</td>
-<td colspan="2">Шай демдеуге арналған шайнек</td>
-<td colspan="2">дана</td>
-<td colspan="3">4</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>11</td>
-<td colspan="2">Тот баспайтын болаттан жасалған ас қасық</td>
-<td colspan="2">дана</td>
-<td colspan="3">100</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="2">Тот баспайтын болаттан жасалған шай қасық</td>
-<td colspan="2">дана</td>
-<td colspan="3">100</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="2">Тот баспайтын болаттан жасалған ас құюға арналған қасық</td>
-<td colspan="2">дана</td>
-<td colspan="3">25</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>14</td>
-<td colspan="2">Тот баспайтын болаттан жасалған ас шанышқысы</td>
-<td colspan="2">дана</td>
-<td colspan="3">100</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="2">Тот баспайтын болаттан жасалған ас пышағы</td>
-<td colspan="2">дана</td>
-<td colspan="3">100</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>16</td>
-<td colspan="2">Дәмдеуіштерге арналған аспап</td>
-<td colspan="2">дана</td>
-<td colspan="3">25</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>17</td>
-<td colspan="2">3–4,5 литрлік тот баспайтын болаттан жасалған кастрөл (күбіше)</td>
-<td colspan="2">дана</td>
-<td colspan="3">50</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>18</td>
-<td colspan="2">
-3 л тот баспайтын болаттан
-жасалған шайнек
-</td>
-<td colspan="2">дана</td>
-<td colspan="3">25</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>19</td>
-<td colspan="2">Шыны графин (құмыра)</td>
-<td colspan="2">дана</td>
-<td colspan="3">25</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>20</td>
-<td colspan="2">Алюминийден немесе пластмассадан жасалған табақша</td>
-<td colspan="2">дана</td>
-<td colspan="3">50</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>21</td>
-<td colspan="2">Күбіше мен шайнек астына қойылатын алюминийден немесе пластмассадан жасалған тіреуіш</td>
-<td colspan="2">дана</td>
-<td colspan="3">50</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>22</td>
-<td colspan="2">Гүлге арналған шыны ваза</td>
-<td colspan="2">дана</td>
-<td colspan="3">25</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>23</td>
-<td colspan="2">Майлыққа арналған ваза</td>
-<td colspan="2">дана</td>
-<td colspan="3">25</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>24</td>
-<td colspan="2">Дастархан матасы және полиэтиленді пленка</td>
-<td colspan="2">метр</td>
-<td colspan="3">150</td>
-<td colspan="2">0,6</td>
-</tr>
-<tr>
-<td>25</td>
-<td colspan="2">Қағаз майлық (тәулігіне)</td>
-<td colspan="2">дана</td>
-<td colspan="3">300</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="10">2.2. Ас үйлік аспаптар және ыдыс</td>
-</tr>
-<tr>
-<td rowspan="2">Р/с №</td>
-<td rowspan="2">Атауы</td>
-<td colspan="2" rowspan="2">Өлшем бірлігі</td>
-<td colspan="6">Тамақтанатын адамдардың мынадай санына байланысты асханаға заттар саны</td>
-</tr>
-<tr>
-<td colspan="2">250-ге дейін</td>
-<td>251–500</td>
-<td>501–1000</td>
-<td>1001–1500</td>
-<td>1500-ден астам</td>
-</tr>
-<tr>
-<td>26</td>
-<td>8–10 литрлік кастрөл</td>
-<td colspan="2">дана</td>
-<td colspan="2">8</td>
-<td>10</td>
-<td>12</td>
-<td>14</td>
-<td>16</td>
-</tr>
-<tr>
-<th>27</th>
-<th>
-20–40 литрлік пешке
-қойылатын қазан
-</th>
-<th colspan="2">дана</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-</tr>
-<tr>
-<th>28</th>
-<th>
-50–60 литрлік пешке
-қойылатын қазан
-</th>
-<th colspan="2">дана</th>
-<th colspan="2">5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-</tr>
-<tr>
-<th>29</th>
-<th>10–15 литрлік таба</th>
-<th colspan="2">дана</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-</tr>
-<tr>
-<th>30</th>
-<th>Қақпағы бар эмальданған шелек</th>
-<th colspan="2">дана</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-</tr>
-<tr>
-<th>31</th>
-<th>Шелек</th>
-<th colspan="2">дана</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-</tr>
-<tr>
-<th>32</th>
-<th>Леген</th>
-<th colspan="2">дана</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-</tr>
-<tr>
-<td>33</td>
-<td>1,5 литрлік ожау</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td>6</td>
-<td>8</td>
-</tr>
-<tr>
-<td>34</td>
-<td>0,4 литрлік ожау</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>6</td>
-</tr>
-<tr>
-<th>35</th>
-<th>Сүзгі ожау</th>
-<th colspan="2">дана</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<th>36</th>
-<th>Кепсер</th>
-<th colspan="2">дана</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<th>37</th>
-<th>0,6 литрлік шөміш</th>
-<th colspan="2">дана</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>38</td>
-<td>0,25 литрлік шөміш</td>
-<td colspan="2">дана</td>
-<td colspan="2">4</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td>39</td>
-<td>Таба</td>
-<td colspan="2">дана</td>
-<td colspan="2">6</td>
-<td>8</td>
-<td>10</td>
-<td>12</td>
-<td>14</td>
-</tr>
-<tr>
-<th>40</th>
-<th>Аспаздық арнайы пышақ</th>
-<th colspan="2">жиынтық</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>41</td>
-<td>Көкөніс тазалауға арналған пышақ</td>
-<td colspan="2">дана</td>
-<td colspan="2">10</td>
-<td>14</td>
-<td>16</td>
-<td>18</td>
-<td>20</td>
-</tr>
-<tr>
-<td>42</td>
-<td>Нан турауға арналған пышақ</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td>43</td>
-<td>Консерві ашқыш</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>44</td>
-<td>Шапқы</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>45</td>
-<td>Ет түсіруге арналған шанышқы</td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>46</td>
-<td>Ажыратуға арналған шанышқы</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>47</td>
-<td>
-Өсімдік майын құюға арналған
-10–20 литрлік бидон
-</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>48</td>
-<td>
-Өсімдік майын құюға арналған
-25–38 литрлік құты
-</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>49</td>
-<td>
-Сүт құюға арналған
-25–38 литрлік құты
-</td>
-<td colspan="2">дана</td>
-<td colspan="2">3</td>
-<td>4</td>
-<td>7</td>
-<td>12</td>
-<td>14</td>
-</tr>
-<tr>
-<td>50</td>
-<td>Ас қалдықтарына арналған бак</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td>51</td>
-<td>Қаңылтыр таба</td>
-<td colspan="2">дана</td>
-<td colspan="2">6</td>
-<td>8</td>
-<td>10</td>
-<td>12</td>
-<td>14</td>
-</tr>
-<tr>
-<td>52</td>
-<td>Шай демдеуге арналған ыдыс</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<th>53</th>
-<th>Кондитерлік таба</th>
-<th colspan="2">дана</th>
-<th colspan="2">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>54</td>
-<td>Елеуіш</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td>55</td>
-<td>Қалақша</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>56</td>
-<td>Үккіш</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>57</td>
-<td>Ет жаныштауға арналған шапқы</td>
-<td colspan="2">дана</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>58</td>
-<td>Аспаздық қалақша</td>
-<td colspan="2">дана</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>59</td>
-<td>Табаша</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>60</td>
-<td>Ет шабуға арналған балта</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>61</td>
-<td>Ет шабуға арналған ағаш</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>62</td>
-<td>Азық-түлікті бөлшектеуге арналған тақтай</td>
-<td colspan="2">дана</td>
-<td colspan="2">6</td>
-<td>8</td>
-<td>10</td>
-<td>12</td>
-<td>12</td>
-</tr>
-<tr>
-<th>63</th>
-<th>Ағаш қалақша</th>
-<th colspan="2">дана</th>
-<th colspan="2">3</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>64</td>
-<td>Металдан жасалған бұлғауыш</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<th>65</th>
-<th>Металдан жасалған қазан өлшеуіш</th>
-<th colspan="2">дана</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-</tr>
-<tr>
-<td>66</td>
-<td>Ағаш келсап</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>67</td>
-<td>Ағаш оқтау</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>68</td>
-<td>Қазан жууға арналған щетка</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>69</td>
-<td>Ет жууға арналған щетка және душ</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="10">2.3.Жабдық</td>
-</tr>
-<tr>
-<td colspan="10">Технологиялық жабдық</td>
-</tr>
-<tr>
-<th>70</th>
-<th>Картоп тазалауға арналған машина</th>
-<th colspan="2">дана</th>
-<th colspan="2">1</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td>71</td>
-<td>Көкөніс турауға арналған машина</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>72</td>
-<td>Жалпы мақсаттағы ас үй әмбебап машинасы</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>73</td>
-<td>Пісірілген көкөніс турауға арналған машина</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>74</td>
-<td>Үккіш машина</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>75</td>
-<td>Механикалық ет тартқыш</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>76</td>
-<td>Қолмен тартылатын ет тартқыш</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>77</td>
-<td>Котлет жасауға арналған автомат</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>78</td>
-<td>Механикалық нан турағыш</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>79</td>
-<td>Электр қайнатқыш</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>80</td>
-<td>Қуыруға арналған шкаф немесе қуыруға арналған пеш</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td>81</td>
-<td>Жылжымалы электр мармит</td>
-<td colspan="2">дана</td>
-<td colspan="2">6</td>
-<td>6</td>
-<td>12</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td>82</td>
-<td>4 конфорлы электр плитасы</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>4</td>
-<td>6</td>
-<td>8</td>
-<td>10</td>
-</tr>
-<tr>
-<td rowspan="5">83</td>
-<td>Сыйымдылығы мынадай ас пісіретін арнайы электр қазандар:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>100 литрге дейін</td>
-<td colspan="2" rowspan="4">дана</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>100 литр</td>
-<td colspan="2">4</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>160 литр</td>
-<td colspan="2">1</td>
-<td>5</td>
-<td>4</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td>250 литр</td>
-<td colspan="2">-</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>84</td>
-<td>Суды мөлшерлеуге арналған қондырғы</td>
-<td colspan="2">дана</td>
-<td colspan="2">-</td>
-<td>-</td>
-<td>6</td>
-<td>12</td>
-<td>13</td>
-</tr>
-<tr>
-<th>85</th>
-<th>Түбінің көлемі 0,45 ш.м. дейін электр таба</th>
-<th colspan="2">дана</th>
-<th colspan="2">1</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td>86</td>
-<td>140 литрге дейінгі бір кеспегі бар қамыр илейтін машина</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>87</td>
-<td>Аспаздық шкаф немесе қуыруға арналған пеш</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="3">88</td>
-<td>Өнімділігі мынадай ыдыс жуатын әмбебап машина:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>сағатына700 тәрелкеге дейін</td>
-<td colspan="2" rowspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>сағатына1000 тәрелке</td>
-<td colspan="2">-</td>
-<td>-</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>89</td>
-<td>Карусель тәрізді өзіне-өзі қызмет көрсету желісі</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>90</td>
-<td>Саңылаулары бар жылу шкафы</td>
-<td colspan="2">дана</td>
-<td colspan="2">-</td>
-<td>-</td>
-<td>-</td>
-<td>8</td>
-<td>12</td>
-</tr>
-<tr>
-<td>91</td>
-<td>Ет тушаларын ілуге арналған баған</td>
-<td colspan="2">дана</td>
-<td colspan="2">-</td>
-<td>-</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td rowspan="2">92</td>
-<td>Ыдыс жууға арналған ванна:</td>
-<td colspan="2">дана</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>үш секциялы</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>-</td>
-</tr>
-<tr>
-<th>93</th>
-<th>Жылжымалы ванна</th>
-<th colspan="2">дана</th>
-<th colspan="2">1</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td>94</td>
-<td>Жинайтын мүкәммалға арналған баған</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>95</td>
-<td>Плитаға қазан астына қойылатын қосалқы табақша</td>
-<td colspan="2">дана</td>
-<td colspan="2">6</td>
-<td>8</td>
-<td>10</td>
-<td>12</td>
-<td>14</td>
-</tr>
-<tr>
-<td>96</td>
-<td>Тауар өлшейтін таразы, тоңазытқыш шкаф астына қойылатын тіреуіш</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<th>97</th>
-<th>Азық-түлікке арналған ыдыс жиынтығы</th>
-<th colspan="2">дана</th>
-<th colspan="2">2</th>
-<th>2</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td>98</td>
-<td>Ет тасуға арналған жәшік</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td>99</td>
-<td>Балық тасуға арналған жәшік</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td>100</td>
-<td>Көкөніс тасуға арналған жәшік</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td>4</td>
-<td>6</td>
-</tr>
-<tr>
-<td>101</td>
-<td>Картоп пен көкөніс сақтауға арналған контейнер</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>102</td>
-<td>Тағамды жеткізуге және пайдаланылған ыдысты жинауға арналған арба</td>
-<td colspan="2">дана</td>
-<td colspan="2">3</td>
-<td>4</td>
-<td>8</td>
-<td>10</td>
-<td>12</td>
-</tr>
-<tr>
-<td>103</td>
-<td>Таза асхана ыдысын сақтауға және жеткізуге арналған арба</td>
-<td colspan="2">дана</td>
-<td colspan="2">12</td>
-<td>18</td>
-<td>36</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>104</td>
-<td>Өндірістік үстел</td>
-<td colspan="2">дана</td>
-<td colspan="2">12</td>
-<td>14</td>
-<td>20</td>
-<td>22</td>
-<td>26</td>
-</tr>
-<tr>
-<td>105</td>
-<td>Жарма тазалауға арналған үстел</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>106</td>
-<td>Картопты қайта тазалауға арналған үстел</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>107</td>
-<td>1-ші және 2-ші тағамды беруге арналған жылжымалы үстел</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td>108</td>
-<td>Ас қалдықтарын жинауға арналған үстел</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>109</td>
-<td>Нан турағышты орнатуға арналған үстел</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>110</td>
-<td>Арнайы өндірістік үстел</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td>111</td>
-<td>Ас үйлік ыдысты сақтауға арналған сөре</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<th>112</th>
-<th>Асхана ыдысын сақтауға арналған сөре</th>
-<th colspan="2">дана</th>
-<th colspan="2">3</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>113</td>
-<td>Азық-түлік сақтауға арналған сөре</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td>4</td>
-<td>6</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="10">Тоңазытқыш жабдығы</td>
-</tr>
-<tr>
-<td>114</td>
-<td>Балық сақтауға арналған тоңазытқыш шкаф</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>115</td>
-<td>Ет сақтауға арналған тоңазытқыш шкаф жиналмалы өндірістік агрегатымен</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>116</td>
-<td>Сүт өнімдерін сақтауға арналған тоңазытқыш шкаф</td>
-<td colspan="2">дана</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>117</td>
-<td>
-Көкөніс сақтауға арналған
-тоңазытқыш шкаф жиналмалы өндірістік агрегатымен
-</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>118</td>
-<td>
-Колбаса өнімдерін сақтауға арналған тоңазытқыш шкаф
-(колбаса, ірімшік)
-</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>119</td>
-<td>
-Құс етін сақтауға арналған
-тоңазытқыш шкаф
-</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>120</td>
-<td>
-Консервілі өнімдерді сақтауға
-арналған тоңазытқыш шкаф
-</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="10">Салмақ өлшеу аспаптары</td>
-</tr>
-<tr>
-<td>121</td>
-<td>Үстелге қойылатын электрлі таразы</td>
-<td colspan="2">дана</td>
-<td colspan="2">10</td>
-<td>10</td>
-<td>15</td>
-<td>15</td>
-<td>15</td>
-</tr>
-<tr>
-<td>122</td>
-<td>Тауар өлшеуге арналған таразы</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="10">Механикалық емес жабдық</td>
-</tr>
-<tr>
-<td>123</td>
-<td>
-Есігі кең ашылатын, тот баспайтын болаттан нан сақтауға арналған
-шкаф
-</td>
-<td colspan="2">дана</td>
-<td colspan="2">3</td>
-<td>3</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td>124</td>
-<td>4 орындығымен түскі асқа арналған үстел</td>
-<td colspan="2">дана</td>
-<td colspan="2">125</td>
-<td>125</td>
-<td>250</td>
-<td>375</td>
-<td>625</td>
-</tr>
-</table>
-
-3. Қазақстан Республикасының ұлттық қауіпсіздік органдары арнаулы (әскери) оқу орындарының азық-түлік қоймаларын және тарату қоймаларын асханалық-ас үйлік жабдықпен жабдықтау нормалары
-
-<table>
-<tr>
-<td rowspan="2">
-Р/с
-№
-</td>
-<td rowspan="2">Атауы</td>
-<td rowspan="2">Өлшем бірлігі</td>
-<td rowspan="2">Тарату қоймасына берілетін заттар саны</td>
-<td colspan="6">Тамақтанатын адамдардың мынадай санына байланысты азық-түлік қоймасындағы заттар саны</td>
-</tr>
-<tr>
-<td>40-қа дейін</td>
-<td>41–100</td>
-<td>101–300</td>
-<td>301–500</td>
-<td>501–1000</td>
-<td>1000-нан астам</td>
-</tr>
-<tr>
-<td>1</td>
-<td>
-Өсімдік майына
-арналған болаттан
-жасалған күбі
-</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<th>2</th>
-<th>10–20 литрлік өсімдік майына арналған бидон</th>
-<th>дана</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-</tr>
-<tr>
-<th>3</th>
-<th>
-Қақпағы бар
-эмальданған шелек
-</th>
-<th>дана</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-</tr>
-<tr>
-<th>4</th>
-<th>Мырышталған шелек</th>
-<th>дана</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-</tr>
-<tr>
-<th>5</th>
-<th>
-Мырышталған леген,
-оның ішінде
-қолжуғышқа бір-бірден
-</th>
-<th>дана</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td>6</td>
-<td>
-Ет шабуға арналған
-балта
-</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>7</td>
-<td>
-«Аспаздық үштік»
-пышағы
-</td>
-<td>жиынтық</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Ажыратуға арналған шанышқы</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Металл сүзгі</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Ет шабуға арналған ағаш</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>11</td>
-<td>
-Азық-түлікті
-бөлшектеуге арналған тақтай
-</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>12</td>
-<td>
-Қап тексеретін қуыс
-бұрғы
-</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>13</td>
-<td>
-Ыдыс ашуға арналған
-құрал
-</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>14</td>
-<td>
-Металдан немесе пластмассадан
-жасалған қалақша
-</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Бір шүмекті қолжуғыш</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>16</td>
-<td>
-Өлшеуге арналған
-кружка
-</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Ағаш қалақша</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Термометр</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Психрометр</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Сыпыртқы-щетка</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="10">Тоңазытқыш жабдығы</td>
-</tr>
-<tr>
-<td>21</td>
-<td>
-Тұрмыстық
-тоңазытқыш
-</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Тоңазытқыш шкаф (мұздатқыш камера)</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>23</td>
-<td>
-Көлемі 12 м3
-тоңазытқыш камера
-</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="10">Салмақ өлшеу аспаптары</td>
-</tr>
-<tr>
-<td>24</td>
-<td>
-Үстелге қойылатын
-таразы
-</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Тауар өлшеуге арналған таразы</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="10">Басқа технологиялық жабдық</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Турауға арналған машина</td>
-<td>дана</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>27</td>
-<td>Жүк таситын арба</td>
-<td>дана</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>4</td>
-</tr>
-<tr>
-<td>28</td>
-<td>Өндірістік үстел</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Нанды лотоктарда сақтауға арналған сөре</td>
-<td>дана</td>
-<td>2</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>30</td>
-<td>Картоп пен көкөніс сақтауға арналған контейнер</td>
-<td>дана</td>
-<td>-</td>
-<td>5</td>
-<td>10</td>
-<td>15</td>
-<td>20</td>
-<td>25</td>
-<td>30</td>
-</tr>
-</table>
-
-4. Қазақстан Республикасының ұлттық қауіпсіздік органдары әскери-медициналық мекемелерінің асханаларын асханалық-ас үйлік жабдықпен және ыдыспен жабдықтау нормалары
-
-<table>
-<tr>
-<td colspan="15">4.1.Асхана аспаптар және ыдысы</td>
-</tr>
-<tr>
-<td>Р/с №</td>
-<td colspan="7">Атауы</td>
-<td colspan="4">Өлшем бірлігі</td>
-<td colspan="3">100 кереуетке заттар саны</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="7">Шұңғыл фарфор тәрелке</td>
-<td colspan="4">дана</td>
-<td colspan="3">150</td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="7">Шағын фарфор тәрелке</td>
-<td colspan="4">дана</td>
-<td colspan="3">150</td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="7">Десертке арналған фарфор тәрелке</td>
-<td colspan="4">дана</td>
-<td colspan="3">150</td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="7">Бәлішке арналған фарфор тәрелке</td>
-<td colspan="4">дана</td>
-<td colspan="3">150</td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="7">Салат салатын бір порциялық фарфор тәрелке</td>
-<td colspan="4">дана</td>
-<td colspan="3">150</td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="7">Май салатын фарфор ыдыс</td>
-<td colspan="4">дана</td>
-<td colspan="3">30</td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="7">Қант салатын фарфор ыдыс</td>
-<td colspan="4">дана</td>
-<td colspan="3">30</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="7">Шайға арналған фарфор табақша</td>
-<td colspan="4">дана</td>
-<td colspan="3">200</td>
-</tr>
-<tr>
-<td>9</td>
-<td colspan="7">Шай демдеуге арналған фарфор шайнек</td>
-<td colspan="4">дана</td>
-<td colspan="3">15</td>
-</tr>
-<tr>
-<td>10</td>
-<td colspan="7">Фарфор кружка</td>
-<td colspan="4">дана</td>
-<td colspan="3">200</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="7">Шай ішетін шыны стақан</td>
-<td colspan="4">дана</td>
-<td colspan="3">225</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="7">Шырынға арналған 100–150 грамм шыны стақан</td>
-<td colspan="4">дана</td>
-<td colspan="3">120</td>
-</tr>
-<tr>
-<td>14</td>
-<td colspan="7">Стақан салғыш</td>
-<td colspan="4">дана</td>
-<td colspan="3">120</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="7">Тот баспайтын болаттан жасалған ас қасық</td>
-<td colspan="4">дана</td>
-<td colspan="3">110</td>
-</tr>
-<tr>
-<td>16</td>
-<td colspan="7">Тот баспайтын болаттан жасалған шай қасық</td>
-<td colspan="4">дана</td>
-<td colspan="3">110</td>
-</tr>
-<tr>
-<td>17</td>
-<td colspan="7">Тот баспайтын болаттан жасалған ас құюға арналған қасық</td>
-<td colspan="4">дана</td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td>18</td>
-<td colspan="7">Тот баспайтын болаттан жасалған ас шанышқысы</td>
-<td colspan="4">дана</td>
-<td colspan="3">110</td>
-</tr>
-<tr>
-<td>19</td>
-<td colspan="7">Тот баспайтын болаттан жасалған ас пышағы</td>
-<td colspan="4">дана</td>
-<td colspan="3">110</td>
-</tr>
-<tr>
-<td>20</td>
-<td colspan="7">Дәмдеуіштерге арналған тот баспайтын болаттан жасалған және фарфор аспаптар</td>
-<td colspan="4">дана</td>
-<td colspan="3">30</td>
-</tr>
-<tr>
-<td>21</td>
-<td colspan="7">3 литрлік шайнек</td>
-<td colspan="4">дана</td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td>22</td>
-<td colspan="7">Шыны графин (құмыра)</td>
-<td colspan="4">дана</td>
-<td colspan="3">25</td>
-</tr>
-<tr>
-<td>23</td>
-<td colspan="7">Табақша</td>
-<td colspan="4">дана</td>
-<td colspan="3">4</td>
-</tr>
-<tr>
-<td>24</td>
-<td colspan="7">Күбіше, шайнек астына қоятын шағын тіреуіш</td>
-<td colspan="4">дана</td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td>25</td>
-<td colspan="7">Жеміске арналған шыны ваза</td>
-<td colspan="4">дана</td>
-<td colspan="3">30</td>
-</tr>
-<tr>
-<td>26</td>
-<td colspan="7">Майлыққа арналған шыны ваза</td>
-<td colspan="4">дана</td>
-<td colspan="3">30</td>
-</tr>
-<tr>
-<td>27</td>
-<td colspan="7">Зығырдан тігілген дастархан матасы, метр</td>
-<td colspan="4">дана</td>
-<td colspan="3">120</td>
-</tr>
-<tr>
-<td>28</td>
-<td colspan="7">Полиэтиленді пленка, мерт</td>
-<td colspan="4">дана</td>
-<td colspan="3">120</td>
-</tr>
-<tr>
-<td>29</td>
-<td colspan="7">Қағаз майлық (тәулігіне)</td>
-<td colspan="4">дана</td>
-<td colspan="3">300</td>
-</tr>
-<tr>
-<td>30</td>
-<td colspan="7">Пластмасса ыдыс жиынтығы</td>
-<td colspan="4">жиынтық</td>
-<td colspan="3">200</td>
-</tr>
-<tr>
-<td>31</td>
-<td colspan="7">Шағын фарфор тәрелке</td>
-<td colspan="4">дана</td>
-<td colspan="3">палатаға біреу</td>
-</tr>
-<tr>
-<td>32</td>
-<td colspan="7">Шұңғыл фарфор тәрелке</td>
-<td colspan="4">дана</td>
-<td colspan="3">палатаға біреу</td>
-</tr>
-<tr>
-<td>33</td>
-<td colspan="7">Шыны стақан</td>
-<td colspan="4">дана</td>
-<td colspan="3">100</td>
-</tr>
-<tr>
-<td>34</td>
-<td colspan="7">Шыны графин (құмыра)</td>
-<td colspan="4">дана</td>
-<td colspan="3">палатаға біреу</td>
-</tr>
-<tr>
-<td>35</td>
-<td colspan="7">Жеміске арналған шыны ваза</td>
-<td colspan="4">дана</td>
-<td colspan="3">палатаға біреу</td>
-</tr>
-<tr>
-<td>36</td>
-<td colspan="7">Гүлге арналған шыны ваза</td>
-<td colspan="4">дана</td>
-<td colspan="3">палатаға біреу</td>
-</tr>
-<tr>
-<td>37</td>
-<td colspan="7">Зығырдан тігілген дастархан матасы</td>
-<td colspan="4">қума метр</td>
-<td colspan="3">75</td>
-</tr>
-<tr>
-<td>38</td>
-<td colspan="7">Полиэтиленді пленка</td>
-<td colspan="4">қума метр</td>
-<td colspan="3">75</td>
-</tr>
-<tr>
-<td colspan="15">4.2.Ас үйлік аспаптар және ыдыс</td>
-</tr>
-<tr>
-<td rowspan="2">Р/с №</td>
-<td colspan="4" rowspan="2">Атауы</td>
-<td rowspan="2">Өлшем бірлігі</td>
-<td colspan="9">
-Кереует санына арналған
-заттар саны
+<td colspan="9">Р/с №</td>
+<td colspan="28">Атауы</td>
+<td colspan="23">Өлшем бірлігі</td>
+<td colspan="35">Тамақтанатын 100 адамға заттар саны</td>
+<td colspan="10">
+Пайдалану мерзімі
+(жылдармен)
 </td>
 </tr>
 <tr>
-<td colspan="3">50-ге дейін</td>
-<td>51–100</td>
-<td colspan="3">101–300</td>
-<td>301–500</td>
-<td>501–800</td>
+<td colspan="9">1</td>
+<td colspan="28">Шұңғыл тәрелке</td>
+<td colspan="23">дана</td>
+<td colspan="35">125</td>
+<td colspan="10">5</td>
 </tr>
 <tr>
-<td>39</td>
-<td colspan="4">3–4,5 литрлік кастрөл</td>
-<td>дана</td>
-<td colspan="3">4</td>
-<td>8</td>
-<td colspan="3">12</td>
-<td>14</td>
-<td>20</td>
+<td colspan="9">2</td>
+<td colspan="28">Шағын тәрелке</td>
+<td colspan="23">дана</td>
+<td colspan="35">125</td>
+<td colspan="10">5</td>
 </tr>
 <tr>
-<td>40</td>
-<td colspan="4">8–10 литрлік кастрөл</td>
-<td>дана</td>
-<td colspan="3">6</td>
-<td>12</td>
-<td colspan="3">16</td>
-<td>19</td>
-<td>25</td>
+<td colspan="9">3</td>
+<td colspan="28">Десертке арналған тәрелке</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">2</td>
 </tr>
 <tr>
-<td>41</td>
-<td colspan="4">20–40 литрлік плитаға қойылатын қазан</td>
-<td>дана</td>
-<td colspan="3">4</td>
-<td>8</td>
-<td colspan="3">13</td>
-<td>17</td>
-<td>25</td>
-</tr>
-<tr>
-<td>42</td>
-<td colspan="4">50–60 литрлік плитаға қойылатын қазан</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>3</td>
-<td colspan="3">4</td>
-<td>6</td>
-<td>9</td>
-</tr>
-<tr>
-<td>43</td>
-<td colspan="4">10–15 литрлік таба</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">4</td>
-<td>5</td>
-<td>8</td>
-</tr>
-<tr>
-<td>44</td>
-<td colspan="4">Қақпағы бар эмальданған шелек</td>
-<td>дана</td>
-<td colspan="3">3</td>
-<td>5</td>
-<td colspan="3">7</td>
-<td>8</td>
-<td>10</td>
-</tr>
-<tr>
-<td>45</td>
-<td colspan="4">Мырышталған шелек</td>
-<td>дана</td>
-<td colspan="3">3</td>
-<td>6</td>
-<td colspan="3">8</td>
-<td>10</td>
-<td>12</td>
-</tr>
-<tr>
-<td>46</td>
-<td colspan="4">Леген</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>5</td>
-<td>7</td>
-</tr>
-<tr>
-<td>47</td>
-<td colspan="4">1,5 литрлік ожау</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td>6</td>
-</tr>
-<tr>
-<td>48</td>
-<td colspan="4">0,4 литрлік ожау</td>
-<td>дана</td>
-<td colspan="3">3</td>
-<td>5</td>
-<td colspan="3">8</td>
-<td>9</td>
-<td>12</td>
-</tr>
-<tr>
-<td>49</td>
-<td colspan="4">Сүзгі ожау</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">4</td>
-<td>5</td>
-<td>7</td>
-</tr>
-<tr>
-<td>50</td>
-<td colspan="4">Кепсер</td>
-<td>дана</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td>6</td>
-</tr>
-<tr>
-<td>51</td>
-<td colspan="4">0,6 литрлік шөміш</td>
-<td>дана</td>
-<td colspan="3">3</td>
-<td>5</td>
-<td colspan="3">8</td>
-<td>9</td>
-<td>12</td>
-</tr>
-<tr>
-<td>52</td>
-<td colspan="4">0,25 литрлік шөміш</td>
-<td>дана</td>
-<td colspan="3">3</td>
-<td>5</td>
-<td colspan="3">8</td>
-<td>9</td>
-<td>12</td>
-</tr>
-<tr>
-<td>53</td>
-<td colspan="4">Таба</td>
-<td>дана</td>
-<td colspan="3">4</td>
-<td>8</td>
-<td colspan="3">13</td>
-<td>17</td>
-<td>20</td>
-</tr>
-<tr>
-<td>54</td>
-<td colspan="4">Аспаздық арнайы</td>
-<td>жиынтық</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td>55</td>
-<td colspan="4">Көкөніс тазалауға арналған пышақ</td>
-<td>дана</td>
-<td colspan="3">4</td>
-<td>6</td>
-<td colspan="3">8</td>
-<td>10</td>
-<td>15</td>
-</tr>
-<tr>
-<th>56</th>
-<th colspan="4">Нан турауға арналған пышақ</th>
-<th>дана</th>
-<th colspan="3">1</th>
-<th>2</th>
-<th colspan="3">3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>57</td>
-<td colspan="4">Консерві ашқыш</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>58</td>
-<td colspan="4">Шапқы</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>59</td>
-<td colspan="4">Ет түсіруге арналған шанышқы</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>60</td>
-<td colspan="4">Ажыратуға арналған шанышқы</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>61</td>
-<td colspan="4">
-Өсімдік майын құюға арналған
-10–20 литрлік бидон
-</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td>62</td>
-<td colspan="4">
-Өсімдік майын құюға арналған
-25 – 38 литрлік құты
-</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>63</td>
-<td colspan="4">Сүт құюға арналған 25–38 литрлік құты</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">5</td>
-<td>8</td>
-<td>10</td>
-</tr>
-<tr>
-<th>64</th>
-<th colspan="4">Ас қалдықтарына арналған бак</th>
-<th>дана</th>
-<th colspan="3">1</th>
-<th>2</th>
-<th colspan="3">3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>65</td>
-<td colspan="4">Қаңылтыр таба</td>
-<td>дана</td>
-<td colspan="3">3</td>
-<td>5</td>
-<td colspan="3">10</td>
-<td>12</td>
-<td>15</td>
-</tr>
-<tr>
-<th>66</th>
-<th colspan="4">Кондитерлік таба</th>
-<th>дана</th>
-<th colspan="3">2</th>
-<th>2</th>
-<th colspan="3">3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>67</td>
-<td colspan="4">Кондитерлік қалып</td>
-<td>жиынтық</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>68</td>
-<td colspan="4">Жайпақ ыдыстарға арналған қалып</td>
-<td>дана</td>
-<td colspan="3">60</td>
-<td>120</td>
-<td colspan="3">300</td>
-<td>600</td>
-<td>800</td>
-</tr>
-<tr>
-<td>69</td>
-<td colspan="4">Кондитерлік қысқыш</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>5</td>
-<td>7</td>
-</tr>
-<tr>
-<td>70</td>
-<td colspan="4">Гарнирге арналған қасық</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>5</td>
-<td>7</td>
-</tr>
-<tr>
-<th>71</th>
-<th colspan="4">Сүзгі</th>
-<th>дана</th>
-<th colspan="3">1</th>
-<th>2</th>
-<th colspan="3">2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<th>72</th>
-<th colspan="4">Қалақша</th>
-<th>дана</th>
-<th colspan="3">1</th>
-<th>2</th>
-<th colspan="3">2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<th>73</th>
-<th colspan="4">Үккіш</th>
-<th>дана</th>
-<th colspan="3">2</th>
-<th>2</th>
-<th colspan="3">3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>74</td>
-<td colspan="4">Ет жаныштауға арналған шапқы</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<th>75</th>
-<th colspan="4">Аспаздық қалақша</th>
-<th>дана</th>
-<th colspan="3">1</th>
-<th>2</th>
-<th colspan="3">3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td>76</td>
-<td colspan="4">Шағын таба</td>
-<td>дана</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td>77</td>
-<td colspan="4">Азық-түлікті бөлшектеуге арналған тақтай</td>
-<td>дана</td>
-<td colspan="3">4</td>
-<td>6</td>
-<td colspan="3">8</td>
-<td>10</td>
-<td>12</td>
-</tr>
-<tr>
-<th>78</th>
-<th colspan="4">Ағаштан жасалған араластырғыш</th>
-<th>дана</th>
-<th colspan="3">1</th>
-<th>2</th>
-<th colspan="3">2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td>79</td>
-<td colspan="4">Металдан жасалған қазан өлшеуіш</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>3</td>
-<td colspan="3">4</td>
-<td>6</td>
-<td>9</td>
-</tr>
-<tr>
-<td>80</td>
-<td colspan="4">Металдан жасалған бұлғауыш</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td>81</td>
-<td colspan="4">Ағаш келсап</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>82</td>
-<td colspan="4">Ет шабуға арналған балта</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<th>83</th>
-<th colspan="4">Ет шабуға арналған ағаш</th>
-<th>дана</th>
-<th colspan="3">1</th>
-<th>2</th>
-<th colspan="3">2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td>84</td>
-<td colspan="4">Қазан жууға арналған щетка</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>3</td>
-<td>1</td>
-</tr>
-<tr>
-<td>85</td>
-<td colspan="4">Ет жууға арналған щетка және душ</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="15">4.3.Жабдық</td>
-</tr>
-<tr>
-<td colspan="15">Технологиялық жабдық</td>
-</tr>
-<tr>
-<td colspan="2">86</td>
-<td colspan="3">Картоп тазалауға арналған машина</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">87</td>
-<td colspan="3">Көкөніс турауға арналған машина</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">88</td>
-<td colspan="3">
-Жалпы мақсаттағы ас үйлік әмбебап
-машина
-</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">89</td>
-<td colspan="3">Ет-балық цехтарына арналған ас үйлік әмбебап машина</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">90</td>
-<td colspan="3">Пісірілген көкөніс турауға арналған машина</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">91</td>
-<td colspan="3">Үккіш машина</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">92</td>
-<td colspan="3">Механикалық ет тартқыш</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">93</td>
-<td colspan="3">Қолмен тартатын ет тартқыш</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">94</td>
-<td colspan="3">Котлет жасауға арналған автомат</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">95</td>
-<td colspan="3">Механикалық нан турағыш</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">96</td>
-<td colspan="3">140 литрге дейін бір кеспегі бар қамыр илейтін машина</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">97</td>
-<td colspan="3">Өнімділігі сағатына 100 литр электр су қайнатқыш</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">98</td>
-<td colspan="13">Электр плита</td>
-</tr>
-<tr>
-<td colspan="3">1 конфорлы</td>
-<td rowspan="3">дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">2 конфорлы</td>
-<td colspan="3">1</td>
-<td>-</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<th colspan="3">3-4 конфорлы</th>
-<th colspan="3">-</th>
-<th>1</th>
-<th colspan="3">2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">99</td>
-<td colspan="3">
-Тамақ пісіретін арнайы қазандар
-100 литрге дейін
-</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>2</td>
-<td colspan="3">-</td>
-<td>2</td>
-<td>-</td>
-</tr>
-<tr>
-<td colspan="3">100 литр</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">160 литр</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">250 литр</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">100</td>
-<td colspan="3">Жылжымалы электр мармит</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>4</td>
-<td colspan="3">6</td>
-<td>6</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">101</td>
-<td colspan="3">Электр фритюрница</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">102</td>
-<td colspan="3">Түбінің ауданы мынадай электр табалар:</td>
-<td>дана</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">0,25 ш.м.</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>-</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">0,45 ш.м.</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">103</td>
-<td colspan="3">Қуыруға арналған шкаф немесе қуыруға арналған пеш</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">104</td>
-<td colspan="3">Аспаздық шкаф</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">105</td>
-<td colspan="3">Өнімділігі мынадай ыдыс жууға арналған әмбебап машина:</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">сағатына 700 тәрелке</td>
-<td rowspan="2">дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">сағатына 1000 тәрелке</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">106</td>
-<td colspan="3">Қысқа толқынды пеш</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">107</td>
-<td colspan="3">Термоконтейнер</td>
-<td>дана</td>
-<td colspan="3">8</td>
-<td>16</td>
-<td colspan="3">48</td>
-<td>80</td>
-<td>128</td>
-</tr>
-<tr>
-<td colspan="2">108</td>
-<td colspan="3">Ыдыс жинау желісі, жиынтық</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">109</td>
-<td colspan="3">Электр сүлгі</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>4</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="2">110</td>
-<td colspan="3">Блендер</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">-</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">111</td>
-<td colspan="3">Бумен пісіргіш</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">-</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">112</td>
-<td colspan="3">Шырынсыққыш</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">-</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="15">Тоңазытқыш жабдығы</td>
-</tr>
-<tr>
-<td colspan="2">113</td>
-<td colspan="3">Тоңазытқыш шкаф</td>
-<td>дана</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">114</td>
-<td colspan="3">Тұрмыстық электр тоңазытқыш</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="15">Салмақ өлшеу аспаптары</td>
-</tr>
-<tr>
-<td colspan="2">115</td>
-<td colspan="3">Үстелге қойылатын таразы</td>
-<td>дана</td>
-<td colspan="3">4</td>
-<td>5</td>
-<td colspan="3">7</td>
-<td>9</td>
-<td>11</td>
-</tr>
-<tr>
-<td colspan="2">116</td>
-<td colspan="3">Тауар өлшеуге арналған таразы</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>3</td>
-<td colspan="3">3</td>
-<td>3</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="15">Механикалық емес жабдық</td>
-</tr>
-<tr>
-<td colspan="2">117</td>
-<td colspan="3">Өндірістік үстел</td>
-<td>дана</td>
-<td colspan="3">6</td>
-<td>8</td>
-<td colspan="3">10</td>
-<td>12</td>
-<td>14</td>
-</tr>
-<tr>
-<td colspan="2">118</td>
-<td colspan="3">Жарма тазалауға арналған үстел</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">119</td>
-<td colspan="3">Картоп тазалауға арналған үстел</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">120</td>
-<td colspan="3">Ас қалдықтарын жинауға арналған үстел</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">121</td>
-<td colspan="3">Нан турағышты орнатуға арналған үстел</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">122</td>
-<td colspan="3">Ас үйлік ыдысты сақтауға арналған сөре</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">123</td>
-<td colspan="3">Асхана ыдысын сақтауға арналған сөре</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<th colspan="2">124</th>
-<th colspan="3">Азық-түлік сақтауға арналған сөре</th>
-<th>дана</th>
-<th colspan="3">1</th>
-<th>1</th>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
-</tr>
-<tr>
-<th colspan="2">125</th>
-<th colspan="3">Нанды лотокта сақтауға арналған сөре</th>
-<th>дана</th>
-<th colspan="3">1</th>
-<th>1</th>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
-</tr>
-<tr>
-<td colspan="2">126</td>
-<td colspan="3">
-Нанды тәрелкелерде сақтауға арналған
-шкаф
-</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
-<td colspan="2">127</td>
-<td colspan="3">Ет тушаларын ілуге арналған баған</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">128</td>
-<td colspan="3">Аспаздық мүкәммалға арналған сөре</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">129</td>
-<td colspan="3">
-Қазандарды тиеуге арналған көтергіш
-арба
-</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">-</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">130</td>
-<td colspan="3">Ас қалдықтарына арналған бак</td>
-<td>дана</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>4</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">131</td>
-<td colspan="3">Функционалды ыдыстар</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">60</td>
-<td>90</td>
-<td>110</td>
-</tr>
-<tr>
-<td colspan="2">132</td>
-<td colspan="3">Көкөніс цехы мен ас үй ыдысын жууға арналған ванна</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">133</td>
-<td colspan="3">Ыдыс жууға арналған ванна:</td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">бір секциялы</td>
-<td rowspan="3">дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="3">екі секциялы</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">үш секциялы</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">134</td>
-<td colspan="3">Жылжымалы ванна</td>
-<td>дана</td>
-<td colspan="3">-</td>
-<td>-</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">135</td>
-<td colspan="3">Плитаға қазан астына қойылатын қосалқы тіреуіш</td>
-<td>дана</td>
-<td colspan="3">3</td>
-<td>5</td>
-<td colspan="3">8</td>
-<td>10</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">136</td>
-<td colspan="3">Жинау мүкәммалына арналған тұғыр</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td colspan="3">1</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">137</td>
-<td colspan="3">Тауар өлшейтін таразы, тоңазытқыш шкафтары астына қойылатын тіреуіш</td>
-<td>дана</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">138</td>
-<td colspan="3">Азық-түлікке арналған ыдыс жиынтығы</td>
-<td>дана</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">139</td>
-<td colspan="3">Ет тасуға арналған жәшік</td>
-<td>дана</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">140</td>
-<td colspan="3">Балық тасуға арналған жәшік</td>
-<td>дана</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">141</td>
-<td colspan="3">Көкөніс тасуға арналған жәшік</td>
-<td>дана</td>
-<td colspan="3">2</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>3</td>
-<td>4</td>
-</tr>
-<tr>
-<th colspan="2">142</th>
-<th colspan="3">Картоп және көкөніс сақтауға арналған контейнер</th>
-<th>дана</th>
-<th colspan="3">-</th>
-<th>1</th>
-<th colspan="3">2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td colspan="2">143</td>
-<td colspan="3">Тамақ жеткізуге және пайдаланылған ыдысты жинауға арналған арба</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>3</td>
-<td colspan="3">6</td>
-<td>10</td>
-<td>12</td>
-</tr>
-<tr>
-<td colspan="2">144</td>
-<td colspan="3">Асханалық таза ыдысты сақтауға және жеткізуге арналған арба</td>
-<td>дана</td>
-<td colspan="3">1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">145</td>
-<td colspan="3">4 орындығымен түскі асқа арналған үстел</td>
-<td>дана</td>
-<td colspan="3">12</td>
-<td>25</td>
-<td colspan="3">75</td>
-<td>125</td>
-<td>200</td>
-</tr>
-<tr>
-<td colspan="15">4.4.Госпитальдің медициналық бөлімшесіне</td>
-</tr>
-<tr>
-<td colspan="2">146</td>
-<td colspan="3">6 литрлік кастрөл</td>
-<td>дана</td>
 <td colspan="9">4</td>
+<td colspan="28">Бәлішке арналған тәрелке</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">5</td>
 </tr>
 <tr>
-<td colspan="2">147</td>
-<td colspan="3">20–40 литрлік плитаға қойылатын қазан</td>
-<td>дана</td>
+<td colspan="9">5</td>
+<td colspan="28">Салатқа арналған бір порциялық ыдыс</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">2</td>
+</tr>
+<tr>
+<td colspan="9">6</td>
+<td colspan="28">Майшабаққа арналған ыдыс</td>
+<td colspan="23">дана</td>
+<td colspan="35">25</td>
+<td colspan="10">5</td>
+</tr>
+<tr>
+<td colspan="9">7</td>
+<td colspan="28">Май салатын ыдыс</td>
+<td colspan="23">дана</td>
+<td colspan="35">25</td>
+<td colspan="10">2</td>
+</tr>
+<tr>
+<td colspan="9">8</td>
+<td colspan="28">Қант салатын ыдыс</td>
+<td colspan="23">дана</td>
+<td colspan="35">25</td>
+<td colspan="10">2</td>
+</tr>
+<tr>
+<td colspan="9">9</td>
+<td colspan="28">Шай демдеуге арналған шәйнек</td>
+<td colspan="23">дана</td>
+<td colspan="35">4</td>
+<td colspan="10">3</td>
+</tr>
+<tr>
+<td colspan="9">10</td>
+<td colspan="28">Шай ішетін шыны стақан</td>
+<td colspan="23">дана</td>
+<td colspan="35">300</td>
+<td colspan="10">1</td>
+</tr>
+<tr>
+<td colspan="9">11</td>
+<td colspan="28">Стақан салғыш</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">6</td>
+</tr>
+<tr>
+<td colspan="9">12</td>
+<td colspan="28">Шай ішетін шыныаяқ табақшасымен</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">2</td>
+</tr>
+<tr>
+<td colspan="9">13</td>
+<td colspan="28">Кофе ішетін шыныаяқ табақшасымен</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">2</td>
+</tr>
+<tr>
+<td colspan="9">14</td>
+<td colspan="28">Шырынға арналған шыны стақан</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">1</td>
+</tr>
+<tr>
+<td colspan="9">15</td>
+<td colspan="28">Тот баспайтын болаттан жасалған ас қасық</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">6</td>
+</tr>
+<tr>
+<td colspan="9">16</td>
+<td colspan="28">Тот баспайтын болаттан жасалған шай қасық</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">6</td>
+</tr>
+<tr>
+<td colspan="9">17</td>
+<td colspan="28">Тот баспайтын болаттан жасалған ас құюға арналған қасық</td>
+<td colspan="23">дана</td>
+<td colspan="35">4</td>
+<td colspan="10">6</td>
+</tr>
+<tr>
+<td colspan="9">18</td>
+<td colspan="28">Тот баспайтын болаттан жасалған ас шанышқысы</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">6</td>
+</tr>
+<tr>
+<td colspan="9">19</td>
+<td colspan="28">Тот баспайтын болаттан жасалған ас пышағы</td>
+<td colspan="23">дана</td>
+<td colspan="35">100</td>
+<td colspan="10">5</td>
+</tr>
+<tr>
+<td colspan="9">20</td>
+<td colspan="28">Дәмдеуіштерге арналған аспап</td>
+<td colspan="23">дана</td>
+<td colspan="35">25</td>
+<td colspan="10">4</td>
+</tr>
+<tr>
+<td colspan="9">21</td>
+<td colspan="28">Бір порциялық тұздық салғыш</td>
+<td colspan="23">дана</td>
+<td colspan="35">25</td>
+<td colspan="10">3</td>
+</tr>
+<tr>
+<td colspan="9">22</td>
+<td colspan="28">Сүт құятын ыдыс</td>
+<td colspan="23">дана</td>
+<td colspan="35">10</td>
+<td colspan="10">4</td>
+</tr>
+<tr>
+<td colspan="9">23</td>
+<td colspan="28">5 литрлік шәйнек</td>
+<td colspan="23">дана</td>
+<td colspan="35">10</td>
+<td colspan="10">4</td>
+</tr>
+<tr>
+<td colspan="9">24</td>
+<td colspan="28">Шыны графин (құмыра)</td>
+<td colspan="23">дана</td>
+<td colspan="35">12</td>
+<td colspan="10">2</td>
+</tr>
+<tr>
+<td colspan="9">25</td>
+<td colspan="28">Табақша</td>
+<td colspan="23">дана</td>
+<td colspan="35">50</td>
+<td colspan="10">2</td>
+</tr>
+<tr>
+<td colspan="9">26</td>
+<td colspan="28">Күбіше мен шәйнек астына қойылатын тұғыр</td>
+<td colspan="23">дана</td>
+<td colspan="35">20</td>
+<td colspan="10">4</td>
+</tr>
+<tr>
+<td colspan="9">27</td>
+<td colspan="28">Майлыққа арналған ваза</td>
+<td colspan="23">дана</td>
+<td colspan="35">25</td>
+<td colspan="10">2</td>
+</tr>
+<tr>
+<td colspan="9">28</td>
+<td colspan="28">Гүлге арналған ваза</td>
+<td colspan="23">дана</td>
+<td colspan="35">25</td>
+<td colspan="10">2</td>
+</tr>
+<tr>
+<td colspan="9">29</td>
+<td colspan="28">Зығырдан тігілген дастарқандық мата</td>
+<td colspan="23">қума метр</td>
+<td colspan="35">120</td>
+<td colspan="10">1</td>
+</tr>
+<tr>
+<td colspan="9">30</td>
+<td colspan="28">Полиэтиленді пленка</td>
+<td colspan="23">қума метр</td>
+<td colspan="35">120</td>
+<td colspan="10">1</td>
+</tr>
+<tr>
+<td colspan="9">31</td>
+<td colspan="28">Қағаз майлық (тәулігіне)</td>
+<td colspan="23">дана</td>
+<td colspan="35">300</td>
+<td colspan="10">-</td>
+</tr>
+<tr>
+<td colspan="105">2-кіші бөлім. Асүйлік ыдыс</td>
+</tr>
+<tr>
+<td colspan="9" rowspan="2">Р/с №</td>
+<td colspan="10" rowspan="2">Атауы</td>
+<td colspan="13" rowspan="2">Өлшем бірлігі</td>
+<td colspan="56">Тамақтанатын адамдар санына байланысты ас үйдегі заттар саны</td>
+<td colspan="17" rowspan="2">
+Пайдалану мерзімі
+(жылдармен)
+</td>
+</tr>
+<tr>
+<td colspan="18">50-ге дейін</td>
+<td colspan="10">51–125</td>
+<td colspan="13">126–250</td>
+<td colspan="15">251–500</td>
+</tr>
+<tr>
+<td colspan="9">32</td>
+<td colspan="10">8–10 литрлік кәстрөл</td>
+<td colspan="13">дана</td>
+<td colspan="18">4</td>
+<td colspan="10">6</td>
+<td colspan="13">9</td>
+<td colspan="15">12</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">33</td>
+<td colspan="10">20–40 литрлік плитаға қойылатын қазан</td>
+<td colspan="13">дана</td>
+<td colspan="18">3</td>
+<td colspan="10">5</td>
+<td colspan="13">6</td>
+<td colspan="15">7</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">34</td>
+<td colspan="10">50–60 литрлік плитаға қойылатын қазан</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">4</td>
+<td colspan="13">5</td>
+<td colspan="15">6</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">35</td>
+<td colspan="10">10–15 литрлік таба</td>
+<td colspan="13">дана</td>
+<td colspan="18">2</td>
+<td colspan="10">3</td>
+<td colspan="13">4</td>
+<td colspan="15">5</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">36</td>
+<td colspan="10">Дербес аралас ыдыс</td>
+<td colspan="13">дана</td>
+<td colspan="18">8</td>
+<td colspan="10">12</td>
+<td colspan="13">18</td>
+<td colspan="15">27</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">37</td>
+<td colspan="10">Қақпағы бар эмальданған шелек</td>
+<td colspan="13">дана</td>
+<td colspan="18">2</td>
+<td colspan="10">3</td>
+<td colspan="13">4</td>
+<td colspan="15">5</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">38</td>
+<td colspan="10">Мырышталған шелек</td>
+<td colspan="13">дана</td>
+<td colspan="18">2</td>
+<td colspan="10">3</td>
+<td colspan="13">4</td>
+<td colspan="15">5</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">39</td>
+<td colspan="10">Мырышталған леген</td>
+<td colspan="13">дана</td>
+<td colspan="18">2</td>
+<td colspan="10">3</td>
+<td colspan="13">4</td>
+<td colspan="15">5</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">40</td>
+<td colspan="10">1,5 литрлік ожау</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">3</td>
+<td colspan="15">4</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">41</td>
+<td colspan="10">0,4 литрлік ожау</td>
+<td colspan="13">дана</td>
+<td colspan="18">2</td>
+<td colspan="10">2</td>
+<td colspan="13">4</td>
+<td colspan="15">6</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">42</td>
+<td colspan="10">Сүзгі ожау</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">2</td>
+<td colspan="15">3</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">43</td>
+<td colspan="10">Кепсер</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">3</td>
+<td colspan="15">4</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">44</td>
+<td colspan="10">0,5 литрлік шөміш</td>
+<td colspan="13">дана</td>
+<td colspan="18">2</td>
+<td colspan="10">2</td>
+<td colspan="13">4</td>
+<td colspan="15">6</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">45</td>
+<td colspan="10">0,25 литрлік шөміш</td>
+<td colspan="13">дана</td>
+<td colspan="18">2</td>
+<td colspan="10">2</td>
+<td colspan="13">4</td>
+<td colspan="15">6</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">46</td>
+<td colspan="10">Таба</td>
+<td colspan="13">дана</td>
+<td colspan="18">3</td>
+<td colspan="10">4</td>
+<td colspan="13">-</td>
+<td colspan="15">-</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">47</td>
+<td colspan="10">Құймақ пісіретін таба</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">2</td>
+<td colspan="15">2</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">48</td>
+<td colspan="10">Көкөніс тазалауға арналған пышақ</td>
+<td colspan="13">дана</td>
+<td colspan="18">6</td>
+<td colspan="10">14</td>
+<td colspan="13">16</td>
+<td colspan="15">18</td>
+<td colspan="17">1</td>
+</tr>
+<tr>
+<td colspan="9">49</td>
+<td colspan="10">Нан турауға арналған пышақ</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">3</td>
+<td colspan="15">4</td>
+<td colspan="17">2</td>
+</tr>
+<tr>
+<td colspan="9">50</td>
+<td colspan="10">Ет осуға арналған пышақ</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">2</td>
+<td colspan="15">3</td>
+<td colspan="17">1</td>
+</tr>
+<tr>
+<td colspan="9">51</td>
+<td colspan="10">Консерві ашқыш</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="15">1</td>
+<td colspan="17">2</td>
+</tr>
+<tr>
+<td colspan="9">52</td>
+<td colspan="10">Шапқы</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="15">1</td>
+<td colspan="17">5</td>
+</tr>
+<tr>
+<td colspan="9">53</td>
+<td colspan="10">Ас қалдықтарына арналған бак</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="15">2</td>
+<td colspan="17">2</td>
+</tr>
+<tr>
+<td colspan="9">54</td>
+<td colspan="10">Елеуіш</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">2</td>
+<td colspan="15">2</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">55</td>
+<td colspan="10">Қалақша</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">2</td>
+<td colspan="15">2</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">56</td>
+<td colspan="10">Үккіш</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">2</td>
+<td colspan="15">2</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">57</td>
+<td colspan="10">Табаша</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">-</td>
+<td colspan="15">-</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">58</td>
+<td colspan="10">Ет түсіруге арналған шанышқы</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="15">1</td>
+<td colspan="17">5</td>
+</tr>
+<tr>
+<td colspan="9">59</td>
+<td colspan="10">Қаңылтыр таба</td>
+<td colspan="13">дана</td>
+<td colspan="18">4</td>
+<td colspan="10">6</td>
+<td colspan="13">8</td>
+<td colspan="15">10</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">60</td>
+<td colspan="10">Ет жаныштауға арналған балға</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="15">2</td>
+<td colspan="17">5</td>
+</tr>
+<tr>
+<td colspan="9">61</td>
+<td colspan="10">Аспаздық қалақша</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">2</td>
+<td colspan="15">3</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">62</td>
+<td colspan="10">Ажыратуға арналған шанышқы</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="15">1</td>
+<td colspan="17">4</td>
+</tr>
+<tr>
+<td colspan="9">63</td>
+<td colspan="10">Азық-түлікті бөлшектеуге арналған тақтай</td>
+<td colspan="13">дана</td>
+<td colspan="18">4</td>
+<td colspan="10">6</td>
+<td colspan="13">8</td>
+<td colspan="15">10</td>
+<td colspan="17">2</td>
+</tr>
+<tr>
+<td colspan="9">64</td>
+<td colspan="10">Ағаш қалақша</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">3</td>
+<td colspan="15">4</td>
+<td colspan="17">1</td>
+</tr>
+<tr>
+<td colspan="9">65</td>
+<td colspan="10">Металдан жасалған бұлғауыш</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">2</td>
+<td colspan="15">2</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">66</td>
+<td colspan="10">Келсап</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">2</td>
+<td colspan="15">3</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">67</td>
+<td colspan="10">Ағаш оқтау</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">2</td>
+<td colspan="15">3</td>
+<td colspan="17">3</td>
+</tr>
+<tr>
+<td colspan="9">68</td>
+<td colspan="10">Қазан жууға арналған щетка</td>
+<td colspan="13">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">2</td>
+<td colspan="15">2</td>
+<td colspan="17">1</td>
+</tr>
+<tr>
+<td colspan="9">69</td>
+<td colspan="10">Ет жууға арналған щетка және душ</td>
+<td colspan="13">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="15">1</td>
+<td colspan="17">1</td>
+</tr>
+<tr>
+<td colspan="9">70</td>
+<td colspan="10">Ет кесуге арналған ленталы ара</td>
+<td colspan="13">жиынтық</td>
+<td colspan="18">-</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="15">1</td>
+<td colspan="17">6</td>
+</tr>
+<tr>
+<td colspan="105">3-кіші бөлім. Технологиялық жабдық</td>
+</tr>
+<tr>
+<td colspan="8">71</td>
+<td colspan="10">Картоп тазалауға арналған машина</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">2</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">72</td>
+<td colspan="10">Көкөніс турауға арналған машина</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">-</td>
+<td colspan="13">-</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">73</td>
+<td colspan="10">Ет-балық цехтарына арналған әмбебап асүй машинасы</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">-</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">74</td>
+<td colspan="10">Пісірілген көкөністі турауға арналған машина</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">-</td>
+<td colspan="13">-</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">75</td>
+<td colspan="10">Үккіш машина</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">-</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">76</td>
+<td colspan="10">Механикалық ет тартқыш</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">77</td>
+<td colspan="10">Қолмен тартылатын ет тартқыш</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">6</td>
+</tr>
+<tr>
+<td colspan="8">78</td>
+<td colspan="10">Механикалық нан турағыш</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">-</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">79</td>
+<td colspan="10">140 литрге дейін бір кеспегі бар қамыр илейтін машина</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">-</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">80</td>
+<td colspan="10">Өнімділігі сағатына 100 литр электр су қайнатқыш</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">81</td>
+<td colspan="10">4 конфорлы электр плитасы</td>
+<td colspan="16">дана</td>
+<td colspan="18">2</td>
+<td colspan="10">3</td>
+<td colspan="13">4</td>
+<td colspan="14">4</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">82</td>
+<td colspan="10">Электр плитасы (үстіне ас пісіретін)</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">3</td>
+<td colspan="14">4</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8" rowspan="2">83</td>
+<td colspan="10">Тамақ пісіретін арнайы 100 литрлік электр қазан</td>
+<td colspan="16" rowspan="2">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">-</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="10">100 литрлік</td>
+<td colspan="18">-</td>
+<td colspan="10">1</td>
+<td colspan="13">-</td>
+<td colspan="14">2</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">84</td>
+<td colspan="10">Түбінің ауданы 0,45 ш.м. электр таба</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">2</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">85</td>
+<td colspan="10">Аспаздық шкаф немесе қуыруға арналған пеш</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">-</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">86</td>
+<td colspan="10">Өнімділігі сағатына 700 тәрелке ыдыс жуатын әмбебап машина</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="10">-</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">87</td>
+<td colspan="10">Бумен пісіретін аппарат</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">88</td>
+<td colspan="10">Микротолқынды пеш</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">2</td>
+<td colspan="14">3</td>
+<td colspan="16">5</td>
+</tr>
+<tr>
+<td colspan="8">89</td>
+<td colspan="10">Кофе қайнатқыш</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="16">7</td>
+</tr>
+<tr>
+<td colspan="8">90</td>
+<td colspan="10">Шырынсыққыш</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="16">7</td>
+</tr>
+<tr>
+<td colspan="8">91</td>
+<td colspan="10">Ыдысы бар блэндер</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="16">5</td>
+</tr>
+<tr>
+<td colspan="8">92</td>
+<td colspan="10">Электр миксер</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">5</td>
+</tr>
+<tr>
+<td colspan="105">4-кіші бөлім. Тоңазытқыш жабдығы</td>
+</tr>
+<tr>
+<td colspan="8">93</td>
+<td colspan="11">Тоңазытқыш шкаф</td>
+<td colspan="15">дана</td>
+<td colspan="18">2</td>
+<td colspan="10">3</td>
+<td colspan="13">3</td>
+<td colspan="14">3</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">94</td>
+<td colspan="11">Тұрмыстық электр тоңазытқыш</td>
+<td colspan="15">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">2</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">95</td>
+<td colspan="11">Жартылай фабрикат ет үшін тоңазытқыш камера</td>
+<td colspan="15">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">96</td>
+<td colspan="11">Жартылай балық үшін тоңазытқыш камера</td>
+<td colspan="15">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">97</td>
+<td colspan="11">Сүт-май және гастрономиялық тағам үшін тоңазытқыш камера</td>
+<td colspan="15">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">98</td>
+<td colspan="11">Көкөніс және жартылай фабрикат көкөніс үшін тоңазытқыш камера</td>
+<td colspan="15">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="8">99</td>
+<td colspan="11">Төмен температуралы мұздатқыш камера (-18С жоғары емес)</td>
+<td colspan="15">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="16">8</td>
+</tr>
+<tr>
+<td colspan="105">5-кіші бөлім. Салмақ өлшеу аспаптары</td>
+</tr>
+<tr>
+<td colspan="8">100</td>
+<td colspan="7">Үстелге қойылатын таразы</td>
+<td colspan="19">дана</td>
+<td colspan="18">3</td>
+<td colspan="10">5</td>
+<td colspan="13">7</td>
+<td colspan="14">9</td>
+<td colspan="16">5</td>
+</tr>
+<tr>
+<td colspan="8">101</td>
+<td colspan="7">Тауар өлшеуге арналған таразы</td>
+<td colspan="19">дана</td>
+<td colspan="18">1</td>
+<td colspan="10">3</td>
+<td colspan="13">3</td>
+<td colspan="14">3</td>
+<td colspan="16">5</td>
+</tr>
+<tr>
+<td colspan="105">6-кіші бөлім. Механикалық емес жабдық</td>
+</tr>
+<tr>
+<td colspan="5">102</td>
+<td colspan="10">Өндірістік үстел</td>
+<td colspan="16">дана</td>
+<td colspan="18">4</td>
+<td colspan="15">7</td>
+<td colspan="12">10</td>
+<td colspan="15">12</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">103</td>
+<td colspan="10">Жарма тазалауға арналған үстел</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">104</td>
+<td colspan="10">Картопты қайта тазалауға арналған үстел</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">105</td>
+<td colspan="10">Ас қалдықтарын жинауға арналған үстел</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">106</td>
+<td colspan="10">Нан турағышты орнатуға арналған үстел</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">-</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">107</td>
+<td colspan="10">4 орындығымен түскі асқа арналған үстел</td>
+<td colspan="16">дана</td>
+<td colspan="18">12</td>
+<td colspan="15">31</td>
+<td colspan="12">62</td>
+<td colspan="15">125</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">108</td>
+<td colspan="10">Асүйлік ыдысты сақтауға арналған сөре</td>
+<td colspan="16">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">109</td>
+<td colspan="10">Азық-түлікті сақтауға арналған сөре</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">110</td>
+<td colspan="10">Нанды ұяшыққа сақтауға арналған сөре</td>
+<td colspan="16">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">2</td>
+<td colspan="12">2</td>
+<td colspan="15">3</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5" rowspan="3">111</td>
+<td colspan="100">Ыдыс жууға арналған ванна:</td>
+</tr>
+<tr>
+<td colspan="11">екі секциялы</td>
+<td colspan="15" rowspan="2">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="11">үш секциялы</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">112</td>
+<td colspan="12">Жылжымалы ванна</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">2</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">113</td>
+<td colspan="12">Плитаға қазан астына қойылатын қосалқы тіреуіш</td>
+<td colspan="14">дана</td>
+<td colspan="18">3</td>
+<td colspan="15">6</td>
+<td colspan="12">8</td>
+<td colspan="15">10</td>
+<td colspan="14">2</td>
+</tr>
+<tr>
+<td colspan="5">114</td>
+<td colspan="12">Тауар өлшеуге арналған таразы астына, тоңазытқыш шкафтар астына қойылатын тіреуіш</td>
+<td colspan="14">дана</td>
+<td colspan="18">2</td>
+<td colspan="15">3</td>
+<td colspan="12">3</td>
+<td colspan="15">3</td>
+<td colspan="14">2</td>
+</tr>
+<tr>
+<td colspan="5">115</td>
+<td colspan="12">Жинайтын мүкәммалға арналған тұғыр</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">116</td>
+<td colspan="12">Азық-түлікке арналған ыдыс жиынтығы</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="12">2</td>
+<td colspan="15">2</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">117</td>
+<td colspan="12">Ет тасуға арналған жәшік</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">118</td>
+<td colspan="12">Балық тасуға арналған жәшік</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="12">1</td>
+<td colspan="15">1</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">119</td>
+<td colspan="12">Көкөніс тасуға арналған жәшік</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">2</td>
+<td colspan="12">3</td>
+<td colspan="15">3</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">120</td>
+<td colspan="12">Картоп пен көкөніс сақтауға арналған контейнер</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">-</td>
+<td colspan="12">1</td>
+<td colspan="15">2</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">121</td>
+<td colspan="12">Таза асхана ыдысын сақтауға және жеткізуге арналған арба</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">4</td>
+<td colspan="12">6</td>
+<td colspan="15">10</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="5">122</td>
+<td colspan="12">Дайын тамақты жеткізуге және пайдаланылған ыдысты жинауға арналған арба</td>
+<td colspan="14">дана</td>
+<td colspan="18">2</td>
+<td colspan="15">4</td>
+<td colspan="12">6</td>
+<td colspan="15">10</td>
+<td colspan="14">7</td>
+</tr>
+<tr>
+<td colspan="105">2-бөлім. Қазақстан Республикасының ұлттық қауіпсіздік органдары әскери, арнаулы оқу орындарының асханаларын асханалық-асүйлік жабдықпен және ыдыспен жабдықтау нормалары</td>
+</tr>
+<tr>
+<td colspan="105">1-кіші бөлім. Асхана ыдыстары мен аспаптар</td>
+</tr>
+<tr>
+<td colspan="6" rowspan="2">Р/с №</td>
+<td colspan="16" rowspan="2">Атауы</td>
+<td colspan="13" rowspan="2">Өлшем бірлігі</td>
+<td colspan="61">Саны</td>
+<td colspan="9" rowspan="2">Пайдалану мерзімі (жылдармен)</td>
+</tr>
+<tr>
+<td colspan="31">тамақтанатын 100 адамға</td>
+<td colspan="30">өзіне-өзі қызмет көрсету желілері үшін, 1 адамға</td>
+</tr>
+<tr>
+<td colspan="6">123</td>
+<td colspan="16">Тот баспайтын болаттан жасалған шұңғыл тәрелке</td>
+<td colspan="13">дана</td>
+<td colspan="31">125</td>
+<td colspan="30">1</td>
+<td colspan="9">5</td>
+</tr>
+<tr>
+<td colspan="6">124</td>
+<td colspan="16">Тот баспайтын болаттан жасалған шағын тәрелке</td>
+<td colspan="13">дана</td>
+<td colspan="31">125</td>
+<td colspan="30">1</td>
+<td colspan="9">5</td>
+</tr>
+<tr>
+<td colspan="6">125</td>
+<td colspan="16">Табақша жиынтығы</td>
+<td colspan="13">дана</td>
+<td colspan="31">-</td>
+<td colspan="30">1</td>
 <td colspan="9">2</td>
 </tr>
 <tr>
-<td colspan="2">148</td>
-<td colspan="3">Қақпағы бар эмальданған шелек</td>
-<td>дана</td>
+<td colspan="6">126</td>
+<td colspan="16">Шыны немесе пластмасса стақан</td>
+<td colspan="13">дана</td>
+<td colspan="31">200</td>
+<td colspan="30">2</td>
+<td colspan="9">1</td>
+</tr>
+<tr>
+<td colspan="6">127</td>
+<td colspan="16">Бәлішке арналған тәрелке</td>
+<td colspan="13">дана</td>
+<td colspan="31">100</td>
+<td colspan="30">-</td>
+<td colspan="9">5</td>
+</tr>
+<tr>
+<td colspan="6">128</td>
+<td colspan="16">Десертке арналған тәрелке</td>
+<td colspan="13">дана</td>
+<td colspan="31">100</td>
+<td colspan="30">-</td>
+<td colspan="9">2</td>
+</tr>
+<tr>
+<td colspan="6">129</td>
+<td colspan="16">Май салатын ыдыс</td>
+<td colspan="13">дана</td>
+<td colspan="31">25</td>
+<td colspan="30">-</td>
+<td colspan="9">2</td>
+</tr>
+<tr>
+<td colspan="6">130</td>
+<td colspan="16">Қант салатын ыдыс</td>
+<td colspan="13">дана</td>
+<td colspan="31">25</td>
+<td colspan="30">-</td>
+<td colspan="9">2</td>
+</tr>
+<tr>
+<td colspan="6">131</td>
+<td colspan="16">Тот баспайтын болаттан жасалған кружка</td>
+<td colspan="13">дана</td>
+<td colspan="31">100</td>
+<td colspan="30">-</td>
+<td colspan="9">5</td>
+</tr>
+<tr>
+<td colspan="6">132</td>
+<td colspan="16">Шай демдеуге арналған шайнек</td>
+<td colspan="13">дана</td>
+<td colspan="31">4</td>
+<td colspan="30">-</td>
 <td colspan="9">3</td>
 </tr>
 <tr>
-<td colspan="2">149</td>
-<td colspan="3">Мырышталған шелек</td>
-<td>дана</td>
+<td colspan="6">133</td>
+<td colspan="16">Тот баспайтын болаттан жасалған ас қасық</td>
+<td colspan="13">дана</td>
+<td colspan="31">100</td>
+<td colspan="30">1</td>
+<td colspan="9">5</td>
+</tr>
+<tr>
+<td colspan="6">134</td>
+<td colspan="16">Тот баспайтын болаттан жасалған шай қасық</td>
+<td colspan="13">дана</td>
+<td colspan="31">100</td>
+<td colspan="30">1</td>
+<td colspan="9">5</td>
+</tr>
+<tr>
+<td colspan="6">135</td>
+<td colspan="16">Тот баспайтын болаттан жасалған ас құюға арналған қасық</td>
+<td colspan="13">дана</td>
+<td colspan="31">25</td>
+<td colspan="30">-</td>
+<td colspan="9">5</td>
+</tr>
+<tr>
+<td colspan="6">136</td>
+<td colspan="16">Тот баспайтын болаттан жасалған ас шанышқысы</td>
+<td colspan="13">дана</td>
+<td colspan="31">100</td>
+<td colspan="30">1</td>
+<td colspan="9">5</td>
+</tr>
+<tr>
+<td colspan="6">137</td>
+<td colspan="16">Тот баспайтын болаттан жасалған ас пышағы</td>
+<td colspan="13">дана</td>
+<td colspan="31">100</td>
+<td colspan="30">1</td>
+<td colspan="9">5</td>
+</tr>
+<tr>
+<td colspan="6">138</td>
+<td colspan="16">Дәмдеуіштерге арналған аспап</td>
+<td colspan="13">дана</td>
+<td colspan="31">25</td>
+<td colspan="30">1</td>
+<td colspan="9">4</td>
+</tr>
+<tr>
+<td colspan="6">139</td>
+<td colspan="16">3–4,5 литрлік тот баспайтын болаттан жасалған кастрөл (күбіше)</td>
+<td colspan="13">дана</td>
+<td colspan="31">50</td>
+<td colspan="30">-</td>
+<td colspan="9">4</td>
+</tr>
+<tr>
+<td colspan="6">140</td>
+<td colspan="16">3 л тот баспайтын болаттан жасалған шайнек</td>
+<td colspan="13">дана</td>
+<td colspan="31">25</td>
+<td colspan="30">-</td>
+<td colspan="9">4</td>
+</tr>
+<tr>
+<td colspan="6">141</td>
+<td colspan="16">Шыны графин (құмыра)</td>
+<td colspan="13">дана</td>
+<td colspan="31">25</td>
+<td colspan="30">-</td>
+<td colspan="9">1</td>
+</tr>
+<tr>
+<td colspan="6">142</td>
+<td colspan="16">Алюминийден немесе пластмассадан жасалған табақша</td>
+<td colspan="13">дана</td>
+<td colspan="31">50</td>
+<td colspan="30">1</td>
 <td colspan="9">2</td>
 </tr>
 <tr>
-<td colspan="2">150</td>
-<td colspan="3">Леген</td>
-<td>дана</td>
+<td colspan="6">143</td>
+<td colspan="16">Күбіше мен шәйнек астына қойылатын алюминийден немесе пластмассадан жасалған тіреуіш</td>
+<td colspan="13">дана</td>
+<td colspan="31">50</td>
+<td colspan="30">1</td>
+<td colspan="9">4</td>
+</tr>
+<tr>
+<td colspan="6">144</td>
+<td colspan="16">Гүлге арналған шыны ваза</td>
+<td colspan="13">дана</td>
+<td colspan="31">25</td>
+<td colspan="30">1</td>
 <td colspan="9">2</td>
 </tr>
 <tr>
-<td colspan="2">151</td>
-<td colspan="3">Нан турауға арналған пышақ</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">152</td>
-<td colspan="3">Консерві ашқыш</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">153</td>
-<td colspan="3">0,4 литрлік тот баспайтын болаттан жасалған ожау</td>
-<td>дана</td>
+<td colspan="6">145</td>
+<td colspan="16">Майлыққа арналған ваза</td>
+<td colspan="13">дана</td>
+<td colspan="31">25</td>
+<td colspan="30">1</td>
 <td colspan="9">2</td>
 </tr>
 <tr>
-<td colspan="2">154</td>
-<td colspan="3">0,6 литрлік шөміш</td>
-<td>дана</td>
+<td colspan="6">146</td>
+<td colspan="16">Дастархан матасы және полиэтиленді пленка</td>
+<td colspan="13">метр</td>
+<td colspan="31">150</td>
+<td colspan="30">0,6</td>
 <td colspan="9">1</td>
 </tr>
 <tr>
-<td colspan="2">155</td>
-<td colspan="3">0,25 литрлік шөміш</td>
-<td>дана</td>
-<td colspan="9">1</td>
+<td colspan="6">147</td>
+<td colspan="16">Қағаз майлық (тәулігіне)</td>
+<td colspan="13">дана</td>
+<td colspan="31">300</td>
+<td colspan="30">3</td>
+<td colspan="9">-</td>
 </tr>
 <tr>
-<td colspan="2">156</td>
-<td colspan="3">Табақша</td>
-<td>дана</td>
-<td colspan="9">1</td>
+<td colspan="105">2-кіші бөлім. Асүйлік аспаптар және ыдыс</td>
 </tr>
 <tr>
-<td colspan="2">157</td>
-<td colspan="3">5 литрлік шайнек</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">158</td>
-<td colspan="3">Шай демдеуге арналған фарфор шайнек</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">159</td>
-<td colspan="3">Дербес аралас ыдыс</td>
-<td>дана</td>
-<td colspan="9">10</td>
-</tr>
-<tr>
-<td colspan="2">160</td>
-<td colspan="3">Нанға арналған жәшік</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">161</td>
-<td colspan="3">Үстелге қойылатын таразы</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">162</td>
-<td colspan="3">Сағатына 100 литр дейінгі электр су қайнатқыш</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">163</td>
-<td colspan="3">Тұрмыстық электр тоңазытқыш</td>
-<td>дана</td>
-<td colspan="9">2</td>
-</tr>
-<tr>
-<td colspan="2">164</td>
-<td colspan="3">Тағамды әкелуге және пайдаланылған ыдысты жинауға арналған арба</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">165</td>
-<td colspan="3">Ас қалдықтарына арналған бак</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">166</td>
-<td colspan="3">4 конфорлы тұрмыстық электр плита</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">167</td>
-<td colspan="3">Үш секциялы ыдыс жууға арналған ванна</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">168</td>
-<td colspan="3">Асхана ыдысын сақтауға арналған сөре</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">169</td>
-<td colspan="3">Сүтке арналған 25–38 литрлік құты</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">170</td>
-<td colspan="3">Жылу боксы 20 керуертке</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">171</td>
-<td colspan="3">1-ші тағамға арналған тиісті көлемдегі гастроыдыс 20 керуертке</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">172</td>
-<td colspan="3">2-ші тағамға арналған тиісті көлемдегі гастроыдыс 20 керуертке</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">173</td>
-<td colspan="3">3-ші тағамға арналған тиісті көлемдегі гастроыдыс 20 керуертке</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">174</td>
-<td colspan="3">Салқын жеңіл дәмге арналған тиісті көлемдегі гастроыдыс 20 керуертке</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="2">175</td>
-<td colspan="3">гастрономиялық азық-түлікке арналған тиісті көлемдегі гастроыдыс 20 керуертке</td>
-<td>дана</td>
-<td colspan="9">1</td>
-</tr>
-<tr>
-<td colspan="15">4.5. Жуу заттары</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">
-Р/с
-№
+<td colspan="3" rowspan="2">Р/с №</td>
+<td colspan="10" rowspan="2">Атауы</td>
+<td colspan="16" rowspan="2">Өлшем бірлігі</td>
+<td colspan="69">Тамақтанатын адамдардың мынадай санына байланысты асханаға заттар саны</td>
+<td colspan="7" rowspan="2">
+Пайдалану мерзімі
+(жылдармен)
 </td>
-<td rowspan="2">Жуу құралдарының түрі</td>
-<td rowspan="2">Өлшем бірлігі</td>
-<td colspan="11">Тамақтанатын 100 адамға саны</td>
 </tr>
 <tr>
-<td colspan="3">тәулігіне машинамен жуған кезде</td>
-<td colspan="4">тәулігіне қолмен жуған кезде</td>
+<td colspan="13">250-ге дейін</td>
+<td colspan="13">251–500</td>
+<td colspan="13">501–1000</td>
+<td colspan="16">1001–1500</td>
+<td colspan="14">1500-ден астам</td>
+</tr>
+<tr>
+<td colspan="3">148</td>
+<td colspan="10">8–10 литрлік кастрөл</td>
+<td colspan="16">дана</td>
+<td colspan="13">8</td>
+<td colspan="13">10</td>
+<td colspan="13">12</td>
+<td colspan="16">14</td>
+<td colspan="14">16</td>
+<td colspan="7">4</td>
+</tr>
+<tr>
+<td colspan="3">149</td>
+<td colspan="10">20–40 литрлік пешке қойылатын қазан</td>
+<td colspan="16">дана</td>
+<td colspan="13">4</td>
+<td colspan="13">5</td>
+<td colspan="13">6</td>
+<td colspan="16">7</td>
+<td colspan="14">8</td>
+<td colspan="7">4</td>
+</tr>
+<tr>
+<td colspan="3">150</td>
+<td colspan="10">50–60 литрлік пешке қойылатын қазан</td>
+<td colspan="16">дана</td>
+<td colspan="13">5</td>
+<td colspan="13">6</td>
+<td colspan="13">7</td>
+<td colspan="16">8</td>
+<td colspan="14">9</td>
+<td colspan="7">4</td>
+</tr>
+<tr>
+<td colspan="3">151</td>
+<td colspan="10">10–15 литрлік таба</td>
+<td colspan="16">дана</td>
+<td colspan="13">4</td>
+<td colspan="13">5</td>
+<td colspan="13">6</td>
+<td colspan="16">7</td>
+<td colspan="14">8</td>
+<td colspan="7">4</td>
+</tr>
+<tr>
+<td colspan="3">152</td>
+<td colspan="10">Қақпағы бар эмальданған шелек</td>
+<td colspan="16">дана</td>
+<td colspan="13">4</td>
+<td colspan="13">5</td>
+<td colspan="13">6</td>
+<td colspan="16">7</td>
+<td colspan="14">8</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">153</td>
+<td colspan="10">Шелек</td>
+<td colspan="16">дана</td>
+<td colspan="13">4</td>
+<td colspan="13">5</td>
+<td colspan="13">6</td>
+<td colspan="16">7</td>
+<td colspan="14">8</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">154</td>
+<td colspan="10">Леген</td>
+<td colspan="16">дана</td>
+<td colspan="13">4</td>
+<td colspan="13">5</td>
+<td colspan="13">6</td>
+<td colspan="16">7</td>
+<td colspan="14">8</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">155</td>
+<td colspan="10">1,5 литрлік ожау</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="13">4</td>
+<td colspan="16">6</td>
+<td colspan="14">8</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">156</td>
+<td colspan="10">0,4 литрлік ожау</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="16">4</td>
+<td colspan="14">6</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">157</td>
+<td colspan="10">Сүзгі ожау</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="13">4</td>
+<td colspan="16">5</td>
+<td colspan="14">6</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">158</td>
+<td colspan="10">Кепсер</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="13">3</td>
+<td colspan="16">4</td>
+<td colspan="14">5</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">159</td>
+<td colspan="10">0,6 литрлік шөміш</td>
+<td colspan="16">дана</td>
+<td colspan="13">3</td>
+<td colspan="13">4</td>
+<td colspan="13">4</td>
+<td colspan="16">5</td>
+<td colspan="14">6</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">160</td>
+<td colspan="10">0,25 литрлік шөміш</td>
+<td colspan="16">дана</td>
+<td colspan="13">4</td>
+<td colspan="13">4</td>
+<td colspan="13">5</td>
+<td colspan="16">6</td>
+<td colspan="14">6</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">161</td>
+<td colspan="10">Таба</td>
+<td colspan="16">дана</td>
+<td colspan="13">6</td>
+<td colspan="13">8</td>
+<td colspan="13">10</td>
+<td colspan="16">12</td>
+<td colspan="14">14</td>
+<td colspan="7">4</td>
+</tr>
+<tr>
+<td colspan="3">162</td>
+<td colspan="10">Аспаздық арнайы пышақ</td>
+<td colspan="16">жиынтық</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="13">4</td>
+<td colspan="16">5</td>
+<td colspan="14">6</td>
+<td colspan="7">2</td>
+</tr>
+<tr>
+<td colspan="3">163</td>
+<td colspan="10">Көкөніс тазалауға арналған пышақ</td>
+<td colspan="16">дана</td>
+<td colspan="13">10</td>
+<td colspan="13">14</td>
+<td colspan="13">16</td>
+<td colspan="16">18</td>
+<td colspan="14">20</td>
+<td colspan="7">1</td>
+</tr>
+<tr>
+<td colspan="3">164</td>
+<td colspan="10">Нан турауға арналған пышақ</td>
+<td colspan="16">дана</td>
+<td colspan="13">1</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="16">2</td>
+<td colspan="14">3</td>
+<td colspan="7">2</td>
+</tr>
+<tr>
+<td colspan="3">165</td>
+<td colspan="10">Консерві ашқыш</td>
+<td colspan="16">дана</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="16">1</td>
+<td colspan="14">1</td>
+<td colspan="7">2</td>
+</tr>
+<tr>
+<td colspan="3">166</td>
+<td colspan="10">Шапқы</td>
+<td colspan="16">дана</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="16">1</td>
+<td colspan="14">1</td>
+<td colspan="7">5</td>
+</tr>
+<tr>
+<td colspan="3">167</td>
+<td colspan="10">Ет түсіруге арналған шанышқы</td>
+<td colspan="16"></td>
+<td colspan="13">1</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="16">2</td>
+<td colspan="14">2</td>
+<td colspan="7">5</td>
+</tr>
+<tr>
+<td colspan="3">168</td>
+<td colspan="10">Ажыратуға арналған шанышқы</td>
+<td colspan="16">дана</td>
+<td colspan="13">1</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="16">2</td>
+<td colspan="14">2</td>
+<td colspan="7">5</td>
+</tr>
+<tr>
+<td colspan="3">169</td>
+<td colspan="10">Ас қалдықтарына арналған бак</td>
+<td colspan="16">дана</td>
+<td colspan="13">1</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="16">3</td>
+<td colspan="14">4</td>
+<td colspan="7">2</td>
+</tr>
+<tr>
+<td colspan="3">170</td>
+<td colspan="10">Қаңылтыр таба</td>
+<td colspan="16">дана</td>
+<td colspan="13">6</td>
+<td colspan="13">8</td>
+<td colspan="13">10</td>
+<td colspan="16">12</td>
+<td colspan="14">14</td>
+<td colspan="7">4</td>
+</tr>
+<tr>
+<td colspan="3">171</td>
+<td colspan="10">Шай демдеуге арналған ыдыс</td>
+<td colspan="16">дана</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="13">2</td>
+<td colspan="16">2</td>
+<td colspan="14">3</td>
+<td colspan="7">2</td>
+</tr>
+<tr>
+<td colspan="3">172</td>
+<td colspan="10">Кондитерлік таба</td>
+<td colspan="16">дана</td>
+<td colspan="13">1</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="16">4</td>
+<td colspan="14">5</td>
+<td colspan="7">2</td>
+</tr>
+<tr>
+<td colspan="3">173</td>
+<td colspan="10">Елеуіш</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="16">3</td>
+<td colspan="14">4</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">174</td>
+<td colspan="10">Қалақша</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="13">3</td>
+<td colspan="16">4</td>
+<td colspan="14">4</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">175</td>
+<td colspan="10">Үккіш</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="13">3</td>
+<td colspan="16">4</td>
+<td colspan="14">4</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">176</td>
+<td colspan="10">Ет жаныштауға арналған балта</td>
+<td colspan="16">дана</td>
+<td colspan="13">3</td>
+<td colspan="13">3</td>
+<td colspan="13">3</td>
+<td colspan="16">3</td>
+<td colspan="14">3</td>
+<td colspan="7">5</td>
+</tr>
+<tr>
+<td colspan="3">177</td>
+<td colspan="10">Аспаздық қалақша</td>
+<td colspan="16">дана</td>
+<td colspan="13">3</td>
+<td colspan="13">3</td>
+<td colspan="13">3</td>
+<td colspan="16">4</td>
+<td colspan="14">4</td>
+<td colspan="7">4</td>
+</tr>
+<tr>
+<td colspan="3">178</td>
+<td colspan="10">Табаша</td>
+<td colspan="16">дана</td>
+<td colspan="13">1</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="16">3</td>
+<td colspan="14">3</td>
+<td colspan="7">4</td>
+</tr>
+<tr>
+<td colspan="3">179</td>
+<td colspan="10">Ет кесуге арналған ленталы ара</td>
+<td colspan="16">дана</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="16">1</td>
+<td colspan="14">1</td>
+<td colspan="7">6</td>
+</tr>
+<tr>
+<td colspan="3">180</td>
+<td colspan="10">Азық-түлікті бөлшектеуге арналған тақтай</td>
+<td colspan="16">дана</td>
+<td colspan="13">6</td>
+<td colspan="13">8</td>
+<td colspan="13">10</td>
+<td colspan="16">12</td>
+<td colspan="14">12</td>
+<td colspan="7">2</td>
+</tr>
+<tr>
+<td colspan="3">181</td>
+<td colspan="10">Ағаш қалақша</td>
+<td colspan="16">дана</td>
+<td colspan="13">3</td>
+<td colspan="13">3</td>
+<td colspan="13">4</td>
+<td colspan="16">5</td>
+<td colspan="14">6</td>
+<td colspan="7">1</td>
+</tr>
+<tr>
+<td colspan="3">182</td>
+<td colspan="10">Металдан жасалған бұлғауыш</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="16">3</td>
+<td colspan="14">3</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">183</td>
+<td colspan="10">Металдан жасалған қазан өлшеуіш</td>
+<td colspan="16">дана</td>
+<td colspan="13">4</td>
+<td colspan="13">5</td>
+<td colspan="13">6</td>
+<td colspan="16">7</td>
+<td colspan="14">8</td>
+<td colspan="7">4</td>
+</tr>
+<tr>
+<td colspan="3">184</td>
+<td colspan="10">Ағаш келсап</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="16">3</td>
+<td colspan="14">3</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">185</td>
+<td colspan="10">Ағаш оқтау</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="13">3</td>
+<td colspan="16">4</td>
+<td colspan="14">4</td>
+<td colspan="7">3</td>
+</tr>
+<tr>
+<td colspan="3">186</td>
+<td colspan="10">Қазан жууға арналған щетка</td>
+<td colspan="16">дана</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="16">3</td>
+<td colspan="14">3</td>
+<td colspan="7">1</td>
+</tr>
+<tr>
+<td colspan="3">187</td>
+<td colspan="10">Ет жууға арналған щетка және душ</td>
+<td colspan="16">дана</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="16">1</td>
+<td colspan="14">1</td>
+<td colspan="7">1</td>
+</tr>
+<tr>
+<td colspan="105">3-кіші бөлім.Технологиялық жабдық</td>
+</tr>
+<tr>
+<td>188</td>
+<td colspan="13">Картоп тазалауға арналған машина</td>
+<td colspan="13">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="13">2</td>
+<td colspan="13">3</td>
+<td colspan="17">4</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>189</td>
+<td colspan="13">Көкөніс турауға арналған машина</td>
+<td colspan="13">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>190</td>
+<td colspan="13">Жалпы мақсаттағы ас үй әмбебап машинасы</td>
+<td colspan="13">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>191</td>
+<td colspan="13">Пісірілген көкөніс турауға арналған машина</td>
+<td colspan="13">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="17">2</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>192</td>
+<td colspan="13">Үккіш машина</td>
+<td colspan="13">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="13">2</td>
+<td colspan="17">2</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>193</td>
+<td colspan="13">Механикалық ет тартқыш</td>
+<td colspan="13">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>194</td>
+<td colspan="13">Қолмен тартылатын ет тартқыш</td>
+<td colspan="13">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="5">6</td>
+</tr>
+<tr>
+<td>195</td>
+<td colspan="13">Котлет жасауға арналған автомат</td>
+<td colspan="13">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>196</td>
+<td colspan="13">Механикалық нан турағыш</td>
+<td colspan="13">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="13">2</td>
+<td colspan="17">2</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>197</td>
+<td colspan="13">Электр қайнатқыш</td>
+<td colspan="13">дана</td>
+<td colspan="13">2</td>
+<td colspan="17">2</td>
+<td colspan="13">-</td>
+<td colspan="13">-</td>
+<td colspan="17">-</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>198</td>
+<td colspan="13">Қуыруға арналған шкаф немесе қуыруға арналған пеш</td>
+<td colspan="13">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="13">2</td>
+<td colspan="13">2</td>
+<td colspan="17">3</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>199</td>
+<td colspan="13">Жылжымалы электр мармит</td>
+<td colspan="13">дана</td>
+<td colspan="13">6</td>
+<td colspan="17">6</td>
+<td colspan="13">12</td>
+<td colspan="13">6</td>
+<td colspan="17">6</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td>200</td>
+<td colspan="13">4 конфорлы электр плитасы</td>
+<td colspan="13">дана</td>
+<td colspan="13">2</td>
+<td colspan="17">4</td>
+<td colspan="13">6</td>
+<td colspan="13">8</td>
+<td colspan="17">10</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td rowspan="5">201</td>
+<td colspan="13">Сыйымдылығы мынадай ас пісіретін арнайы электр қазандар:</td>
+<td colspan="13"></td>
+<td colspan="13"></td>
+<td colspan="17"></td>
+<td colspan="13"></td>
+<td colspan="13"></td>
+<td colspan="17"></td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="13">100 литрге дейін</td>
+<td colspan="13" rowspan="4">дана</td>
+<td colspan="13">1</td>
+<td colspan="17">2</td>
+<td colspan="13">-</td>
+<td colspan="13">-</td>
+<td colspan="17">-</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="13">100 литр</td>
+<td colspan="13">4</td>
+<td colspan="17">2</td>
+<td colspan="13">-</td>
+<td colspan="13">-</td>
+<td colspan="17">-</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="13">160 литр</td>
+<td colspan="13">1</td>
+<td colspan="17">5</td>
+<td colspan="13">4</td>
+<td colspan="13">3</td>
+<td colspan="17">4</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="13">250 литр</td>
+<td colspan="13">-</td>
+<td colspan="17">-</td>
+<td colspan="13">1</td>
+<td colspan="13">1</td>
+<td colspan="17">1</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">202</td>
+<td colspan="11">Суды мөлшерлеуге арналған қондырғы</td>
+<td colspan="13">дана</td>
+<td colspan="12">-</td>
+<td colspan="17">-</td>
+<td colspan="13">6</td>
+<td colspan="14">12</td>
+<td colspan="17">13</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">203</td>
+<td colspan="11">Түбінің көлемі 0,45 ш.м. дейін электр таба</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">2</td>
+<td colspan="14">3</td>
+<td colspan="17">4</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">204</td>
+<td colspan="11">140 литрге дейінгі бір кеспегі бар қамыр илейтін машина</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="17">1</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">205</td>
+<td colspan="11">Аспаздық шкаф немесе қуыруға арналған пеш</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="17">1</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="3">206</td>
+<td colspan="11">Өнімділігі мынадай ыдыс жуатын әмбебап машина:</td>
+<td colspan="13" rowspan="3">дана</td>
+<td colspan="12"></td>
+<td colspan="17"></td>
+<td colspan="13"></td>
+<td colspan="14"></td>
+<td colspan="17"></td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="11">сағатына700 тәрелкеге дейін</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="17">1</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="11">сағатына1000 тәрелке</td>
+<td colspan="12">-</td>
+<td colspan="17">-</td>
+<td colspan="13">1</td>
+<td colspan="14">2</td>
+<td colspan="17">2</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">207</td>
+<td colspan="11">Карусель тәрізді өзіне-өзі қызмет көрсету желісі</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">2</td>
+<td colspan="13">-</td>
+<td colspan="14">-</td>
+<td colspan="17">-</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">208</td>
+<td colspan="11">Саңылаулары бар жылу шкафы</td>
+<td colspan="13">дана</td>
+<td colspan="12">-</td>
+<td colspan="17">-</td>
+<td colspan="13">-</td>
+<td colspan="14">8</td>
+<td colspan="17">12</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">209</td>
+<td colspan="11">Ет тушаларын ілуге арналған баған</td>
+<td colspan="13">дана</td>
+<td colspan="12">-</td>
+<td colspan="17">-</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="17">2</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">210</td>
+<td colspan="11">Ыдыс жууға арналған ванна:</td>
+<td colspan="13">дана</td>
+<td colspan="12"></td>
+<td colspan="17"></td>
+<td colspan="13"></td>
+<td colspan="14"></td>
+<td colspan="17"></td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="11">үш секциялы</td>
+<td colspan="13">дана</td>
+<td colspan="12">2</td>
+<td colspan="17">2</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="17">-</td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="3">211</td>
+<td colspan="11">Жылжымалы ванна</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">2</td>
+<td colspan="14">3</td>
+<td colspan="17">4</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">212</td>
+<td colspan="11">Жинайтын мүкәммалға арналған баған</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="17">1</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">213</td>
+<td colspan="11">Плитаға қазан астына қойылатын қосалқы табақша</td>
+<td colspan="13">дана</td>
+<td colspan="12">6</td>
+<td colspan="17">8</td>
+<td colspan="13">10</td>
+<td colspan="14">12</td>
+<td colspan="17">14</td>
+<td colspan="5">2</td>
+</tr>
+<tr>
+<td colspan="3">214</td>
+<td colspan="11">Тауар өлшейтін таразы, тоңазытқыш шкаф астына қойылатын тіреуіш</td>
+<td colspan="13">дана</td>
+<td colspan="12">2</td>
+<td colspan="17">2</td>
+<td colspan="13">4</td>
+<td colspan="14">4</td>
+<td colspan="17">4</td>
+<td colspan="5">2</td>
+</tr>
+<tr>
+<td colspan="3">215</td>
+<td colspan="11">Азық-түлікке арналған ыдыс жиынтығы</td>
+<td colspan="13">дана</td>
+<td colspan="12">2</td>
+<td colspan="17">2</td>
+<td colspan="13">2</td>
+<td colspan="14">3</td>
+<td colspan="17">4</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">216</td>
+<td colspan="11">Ет тасуға арналған жәшік</td>
+<td colspan="13">дана</td>
+<td colspan="12">2</td>
+<td colspan="17">2</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="17">3</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">217</td>
+<td colspan="11">Балық тасуға арналған жәшік</td>
+<td colspan="13">дана</td>
+<td colspan="12">2</td>
+<td colspan="17">2</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="17">3</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">218</td>
+<td colspan="11">Көкөніс тасуға арналған жәшік</td>
+<td colspan="13">дана</td>
+<td colspan="12">2</td>
+<td colspan="17">3</td>
+<td colspan="13">4</td>
+<td colspan="14">4</td>
+<td colspan="17">6</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">219</td>
+<td colspan="11">Картоп пен көкөніс сақтауға арналған контейнер</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">2</td>
+<td colspan="14">3</td>
+<td colspan="17">3</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">220</td>
+<td colspan="11">Тағамды жеткізуге және пайдаланылған ыдысты жинауға арналған арба</td>
+<td colspan="13">дана</td>
+<td colspan="12">3</td>
+<td colspan="17">4</td>
+<td colspan="13">8</td>
+<td colspan="14">10</td>
+<td colspan="17">12</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">221</td>
+<td colspan="11">Таза асхана ыдысын сақтауға және жеткізуге арналған арба</td>
+<td colspan="13">дана</td>
+<td colspan="12">12</td>
+<td colspan="17">18</td>
+<td colspan="13">36</td>
+<td colspan="14">-</td>
+<td colspan="17">-</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">222</td>
+<td colspan="11">Өндірістік үстел</td>
+<td colspan="13">дана</td>
+<td colspan="12">12</td>
+<td colspan="17">14</td>
+<td colspan="13">20</td>
+<td colspan="14">22</td>
+<td colspan="17">26</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">223</td>
+<td colspan="11">Жарма тазалауға арналған үстел</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="17">1</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">224</td>
+<td colspan="11">Картопты қайта тазалауға арналған үстел</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">2</td>
+<td colspan="13">3</td>
+<td colspan="14">3</td>
+<td colspan="17">3</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">225</td>
+<td colspan="11">1-ші және 2-ші тағамды беруге арналған жылжымалы үстел</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">2</td>
+<td colspan="13">3</td>
+<td colspan="14">3</td>
+<td colspan="17">4</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">225</td>
+<td colspan="11">Ас қалдықтарын жинауға арналған үстел</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="17">2</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">227</td>
+<td colspan="11">Нан турағышты орнатуға арналған үстел</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="14">2</td>
+<td colspan="17">2</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">228</td>
+<td colspan="11">Арнайы өндірістік үстел</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">4</td>
+<td colspan="13">5</td>
+<td colspan="14">6</td>
+<td colspan="17">6</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">229</td>
+<td colspan="11">Асүйлік ыдысты сақтауға арналған сөре</td>
+<td colspan="13">дана</td>
+<td colspan="12">2</td>
+<td colspan="17">3</td>
+<td colspan="13">3</td>
+<td colspan="14">4</td>
+<td colspan="17">4</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">230</td>
+<td colspan="11">Асхана ыдысын сақтауға арналған сөре</td>
+<td colspan="13">дана</td>
+<td colspan="12">3</td>
+<td colspan="17">3</td>
+<td colspan="13">4</td>
+<td colspan="14">5</td>
+<td colspan="17">6</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">231</td>
+<td colspan="11">Азық-түлік сақтауға арналған сөре</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">2</td>
+<td colspan="13">4</td>
+<td colspan="14">6</td>
+<td colspan="17">6</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="105">4-кіші бөлім. Тоңазытқыш жабдығы</td>
+</tr>
+<tr>
+<td colspan="3">232</td>
+<td colspan="11">Балық сақтауға арналған тоңазытқыш шкаф</td>
+<td colspan="13">дана</td>
+<td colspan="12">2</td>
+<td colspan="17">2</td>
+<td colspan="13">4</td>
+<td colspan="14">4</td>
+<td colspan="17">4</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">233</td>
+<td colspan="11">Ет сақтауға арналған тоңазытқыш шкаф жиналмалы өндірістік агрегатымен</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="17">2</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">234</td>
+<td colspan="11">Сүт өнімдерін сақтауға арналған тоңазытқыш шкаф</td>
+<td colspan="13">дана</td>
+<td colspan="12">3</td>
+<td colspan="17">3</td>
+<td colspan="13">3</td>
+<td colspan="14">3</td>
+<td colspan="17">3</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">235</td>
+<td colspan="11">Көкөніс сақтауға арналғантоңазытқыш шкаф жиналмалы өндірістік агрегатымен</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="17">2</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">236</td>
+<td colspan="11">Колбаса өнімдерін сақтауға арналған тоңазытқыш шкаф (колбаса, ірімшік)</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="17">2</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">237</td>
+<td colspan="11">Құс етін сақтауға арналған тоңазытқыш шкаф</td>
+<td colspan="13">дана</td>
+<td colspan="12">1</td>
+<td colspan="17">1</td>
+<td colspan="13">1</td>
+<td colspan="14">1</td>
+<td colspan="17">1</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="3">238</td>
+<td colspan="11">Консервілі өнімдерді сақтауға арналған тоңазытқыш шкаф</td>
+<td colspan="13">дана</td>
+<td colspan="12">2</td>
+<td colspan="17">2</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="17">2</td>
+<td colspan="5">8</td>
+</tr>
+<tr>
+<td colspan="105">5-кіші бөлім. Салмақ өлшеу аспаптары</td>
+</tr>
+<tr>
+<td colspan="3">239</td>
+<td colspan="11">Үстелге қойылатын электрлі таразы</td>
+<td colspan="13">дана</td>
+<td colspan="12">10</td>
+<td colspan="17">10</td>
+<td colspan="13">15</td>
+<td colspan="14">15</td>
+<td colspan="17">15</td>
+<td colspan="5">5</td>
+</tr>
+<tr>
+<td colspan="3">240</td>
+<td colspan="11">Тауар өлшеуге арналған таразы</td>
+<td colspan="13">дана</td>
+<td colspan="12">2</td>
+<td colspan="17">2</td>
+<td colspan="13">2</td>
+<td colspan="14">2</td>
+<td colspan="17">2</td>
+<td colspan="5">5</td>
+</tr>
+<tr>
+<td colspan="105">6-кіші бөлім. Механикалық емес жабдық</td>
+</tr>
+<tr>
+<td colspan="3">241</td>
+<td colspan="11">Есігі кең ашылатын, тот баспайтын болаттан нан сақтауға арналған шкаф</td>
+<td colspan="13">дана</td>
+<td colspan="12">3</td>
+<td colspan="17">3</td>
+<td colspan="13">4</td>
+<td colspan="14">4</td>
+<td colspan="17">4</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="3">242</td>
+<td colspan="11">4 орындығымен түскі асқа арналған үстел</td>
+<td colspan="13">дана</td>
+<td colspan="12">125</td>
+<td colspan="17">125</td>
+<td colspan="13">250</td>
+<td colspan="14">375</td>
+<td colspan="17">625</td>
+<td colspan="5">7</td>
+</tr>
+<tr>
+<td colspan="105">3-бөлім. Қазақстан Республикасының ұлттық қауіпсіздік органдары әскери, арнаулы оқу орындарының азық-түлік қоймаларын және тарату қоймаларын асханалық-асүйлік жабдықпен жабдықтау нормалары</td>
+</tr>
+<tr>
+<td colspan="4" rowspan="2">Р/с №</td>
+<td colspan="7" rowspan="2">Атауы</td>
+<td colspan="14" rowspan="2">Өлшем бірлігі</td>
+<td colspan="18" rowspan="2">Тарату қоймасына берілетін заттар саны</td>
+<td colspan="59">Тамақтанатын адамдардың мынадай санына байланысты азық-түлік қоймасындағы заттар саны</td>
+<td colspan="3" rowspan="2">
+Пайдалану мерзімі
+(жылдармен)
+</td>
+</tr>
+<tr>
+<td colspan="15">40-қа дейін</td>
+<td colspan="8">41–100</td>
+<td colspan="11">101–300</td>
+<td colspan="8">301–500</td>
+<td colspan="7">501–1000</td>
+<td colspan="10">1000-нан астам</td>
+</tr>
+<tr>
+<td colspan="105">1-кіші бөлім. Технологиялық жабдық</td>
+</tr>
+<tr>
+<td colspan="4">243</td>
+<td colspan="7">Қақпағы бар эмальданған шелек</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">2</td>
+<td colspan="10">3</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td colspan="4">244</td>
+<td colspan="7">Мырышталған шелек</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">2</td>
+<td colspan="10">3</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td colspan="4">245</td>
+<td colspan="7">Мырышталған леген, оның ішінде қолжуғышқа бір-бірден</td>
+<td colspan="14">дана</td>
+<td colspan="18">2</td>
+<td colspan="15">2</td>
+<td colspan="8">2</td>
+<td colspan="11">2</td>
+<td colspan="8">2</td>
+<td colspan="7">3</td>
+<td colspan="10">4</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td colspan="4">246</td>
+<td colspan="7">Ет кесуге арналған ленталы ара</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">-</td>
+<td colspan="8">-</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">6</td>
+</tr>
+<tr>
+<td colspan="4">247</td>
+<td colspan="7">«Аспаздық үштік» пышағы</td>
+<td colspan="14">жиынтық</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td colspan="4">248</td>
+<td colspan="7">Ажыратуға арналған шанышқы</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td colspan="4">249</td>
+<td colspan="7">Металл сүзгі</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td colspan="4">250</td>
+<td colspan="7">Азық-түлікті бөлшектеуге арналған тақтай</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td colspan="4">251</td>
+<td colspan="7">Қап тексеретін қуыс бұрғы</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td colspan="4">252</td>
+<td colspan="7">Ыдыс ашуға арналған құрал</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td colspan="4">253</td>
+<td colspan="7">Металдан немесе пластмассадан жасалған қалақша</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">2</td>
+<td colspan="10">2</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td colspan="4">254</td>
+<td colspan="7">Бір шүмекті қолжуғыш</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td colspan="4">255</td>
+<td colspan="7">Өлшеуге арналған кружка</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td colspan="4">256</td>
+<td colspan="7">Ағаш қалақша</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">2</td>
+<td colspan="10">2</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td colspan="4">257</td>
+<td colspan="7">Термометр</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td colspan="4">258</td>
+<td colspan="7">Психрометр</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td colspan="4">259</td>
+<td colspan="7">Сыпыртқы-щетка</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td colspan="105">2-кіші бөлім. Тоңазытқыш жабдығы</td>
+</tr>
+<tr>
+<td colspan="4">260</td>
+<td colspan="7">Тұрмыстық тоңазытқыш</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="8">-</td>
+<td colspan="11">-</td>
+<td colspan="8">-</td>
+<td colspan="7">-</td>
+<td colspan="10">-</td>
+<td colspan="3">8</td>
+</tr>
+<tr>
+<td colspan="4">261</td>
+<td colspan="7">Тоңазытқыш шкаф (мұздатқыш камера)</td>
+<td colspan="14">дана</td>
+<td colspan="18">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">8</td>
+</tr>
+<tr>
+<td colspan="4">262</td>
+<td colspan="7">Көлемі 12 м3 тоңазытқыш камера</td>
+<td colspan="14">дана</td>
+<td colspan="18">-</td>
+<td colspan="15">1</td>
+<td colspan="8">2</td>
+<td colspan="11">3</td>
+<td colspan="8">3</td>
+<td colspan="7">4</td>
+<td colspan="10">4</td>
+<td colspan="3">8</td>
+</tr>
+<tr>
+<td colspan="105">3-кіші бөлім. Салмақ өлшеу аспаптары</td>
+</tr>
+<tr>
+<td colspan="4">263</td>
+<td colspan="7">Үстелге қойылатын таразы</td>
+<td colspan="14">дана</td>
+<td colspan="19">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">3</td>
+<td colspan="7">3</td>
+<td colspan="7">3</td>
+<td colspan="10">3</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td colspan="4">264</td>
+<td colspan="7">Тауар өлшеуге арналған таразы</td>
+<td colspan="14">дана</td>
+<td colspan="19">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">2</td>
+<td colspan="7">3</td>
+<td colspan="7">3</td>
+<td colspan="10">4</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td colspan="105">4-кіші бөлім. Басқа технологиялық жабдық</td>
+</tr>
+<tr>
+<td colspan="4">265</td>
+<td colspan="7">Турауға арналған машина</td>
+<td colspan="14">дана</td>
+<td colspan="19">-</td>
+<td colspan="15">-</td>
+<td colspan="8">-</td>
+<td colspan="11">-</td>
+<td colspan="7">-</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">8</td>
+</tr>
+<tr>
+<td colspan="4">266</td>
+<td colspan="7">Жүк таситын арба</td>
+<td colspan="14">дана</td>
+<td colspan="19">-</td>
+<td colspan="15">-</td>
+<td colspan="8">-</td>
+<td colspan="11">1</td>
+<td colspan="7">2</td>
+<td colspan="7">2</td>
+<td colspan="10">4</td>
+<td colspan="3">7</td>
+</tr>
+<tr>
+<td colspan="4">267</td>
+<td colspan="7">Өндірістік үстел</td>
+<td colspan="14">дана</td>
+<td colspan="19">1</td>
+<td colspan="15">1</td>
+<td colspan="8">1</td>
+<td colspan="11">1</td>
+<td colspan="7">1</td>
+<td colspan="7">1</td>
+<td colspan="10">1</td>
+<td colspan="3">7</td>
+</tr>
+<tr>
+<td colspan="4">268</td>
+<td colspan="7">Нанды лотоктарда сақтауға арналған сөре</td>
+<td colspan="14">дана</td>
+<td colspan="19">2</td>
+<td colspan="15">-</td>
+<td colspan="8">-</td>
+<td colspan="11">-</td>
+<td colspan="7">-</td>
+<td colspan="7">-</td>
+<td colspan="10">-</td>
+<td colspan="3">7</td>
+</tr>
+<tr>
+<td colspan="4">269</td>
+<td colspan="7">Картоп пен көкөніс сақтауға арналған контейнер</td>
+<td colspan="14">дана</td>
+<td colspan="19">-</td>
+<td colspan="15">5</td>
+<td colspan="8">10</td>
+<td colspan="11">15</td>
+<td colspan="7">20</td>
+<td colspan="7">25</td>
+<td colspan="10">30</td>
+<td colspan="3">7</td>
+</tr>
+<tr>
+<td colspan="105">4. Қазақстан Республикасының ұлттық қауіпсіздік органдары әскери-медициналық мекемелерінің асханаларын асханалық-асүйлік жабдықпен және ыдыспен жабдықтау нормалары</td>
+</tr>
+<tr>
+<td colspan="105">1-кіші бөлім. Асхана ыдысы мен аспаптары</td>
+</tr>
+<tr>
+<td colspan="7">Р/с №</td>
+<td colspan="21">Атауы</td>
+<td colspan="25">Өлшем бірлігі</td>
+<td colspan="34">100 кереуетке заттар саны</td>
+<td colspan="18">
+Пайдалану мерзімі
+(жылдармен)
+</td>
+</tr>
+<tr>
+<td colspan="7">270</td>
+<td colspan="21">Шұңғыл тәрелке</td>
+<td colspan="25">дана</td>
+<td colspan="34">150</td>
+<td colspan="18">5</td>
+</tr>
+<tr>
+<td colspan="7">271</td>
+<td colspan="21">Шағын тәрелке</td>
+<td colspan="25">дана</td>
+<td colspan="34">150</td>
+<td colspan="18">5</td>
+</tr>
+<tr>
+<td colspan="7">272</td>
+<td colspan="21">Десертке арналған тәрелке</td>
+<td colspan="25">дана</td>
+<td colspan="34">150</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">273</td>
+<td colspan="21">Бәлішке арналған тәрелке</td>
+<td colspan="25">дана</td>
+<td colspan="34">150</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">274</td>
+<td colspan="21">Салат салатын бір порциялық тәрелке</td>
+<td colspan="25">дана</td>
+<td colspan="34">150</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">275</td>
+<td colspan="21">Май салатын ыдыс</td>
+<td colspan="25">дана</td>
+<td colspan="34">30</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">276</td>
+<td colspan="21">Қант салатын ыдыс</td>
+<td colspan="25">дана</td>
+<td colspan="34">30</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">277</td>
+<td colspan="21">Шайға арналған табақша</td>
+<td colspan="25">дана</td>
+<td colspan="34">200</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">278</td>
+<td colspan="21">Шай демдеуге арналған шайнек</td>
+<td colspan="25">дана</td>
+<td colspan="34">15</td>
+<td colspan="18">4</td>
+</tr>
+<tr>
+<td colspan="7">279</td>
+<td colspan="21">Кружка</td>
+<td colspan="25">дана</td>
+<td colspan="34">200</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">280</td>
+<td colspan="21">Шай ішетін шыны стақан</td>
+<td colspan="25">дана</td>
+<td colspan="34">225</td>
+<td colspan="18">1</td>
+</tr>
+<tr>
+<td colspan="7">281</td>
+<td colspan="21">Шырынға арналған 100–150 грамм шыны стақан</td>
+<td colspan="25">дана</td>
+<td colspan="34">120</td>
+<td colspan="18">1</td>
+</tr>
+<tr>
+<td colspan="7">282</td>
+<td colspan="21">Стақан салғыш</td>
+<td colspan="25">дана</td>
+<td colspan="34">120</td>
+<td colspan="18">6</td>
+</tr>
+<tr>
+<td colspan="7">283</td>
+<td colspan="21">Тот баспайтын болаттан жасалған ас қасық</td>
+<td colspan="25">дана</td>
+<td colspan="34">110</td>
+<td colspan="18">5</td>
+</tr>
+<tr>
+<td colspan="7">284</td>
+<td colspan="21">Тот баспайтын болаттан жасалған шай қасық</td>
+<td colspan="25">дана</td>
+<td colspan="34">110</td>
+<td colspan="18">5</td>
+</tr>
+<tr>
+<td colspan="7">285</td>
+<td colspan="21">Тот баспайтын болаттан жасалған ас құюға арналған қасық</td>
+<td colspan="25">дана</td>
+<td colspan="34">10</td>
+<td colspan="18">5</td>
+</tr>
+<tr>
+<td colspan="7">286</td>
+<td colspan="21">Тот баспайтын болаттан жасалған ас шанышқысы</td>
+<td colspan="25">дана</td>
+<td colspan="34">110</td>
+<td colspan="18">5</td>
+</tr>
+<tr>
+<td colspan="7">287</td>
+<td colspan="21">Тот баспайтын болаттан жасалған ас пышағы</td>
+<td colspan="25">дана</td>
+<td colspan="34">110</td>
+<td colspan="18">5</td>
+</tr>
+<tr>
+<td colspan="7">288</td>
+<td colspan="21">Дәмдеуіштерге арналған аспаптар</td>
+<td colspan="25">дана</td>
+<td colspan="34">30</td>
+<td colspan="18">4</td>
+</tr>
+<tr>
+<td colspan="7">289</td>
+<td colspan="21">3 литрлік шайнек</td>
+<td colspan="25">дана</td>
+<td colspan="34">10</td>
+<td colspan="18">4</td>
+</tr>
+<tr>
+<td colspan="7">290</td>
+<td colspan="21">Шыны графин (құмыра)</td>
+<td colspan="25">дана</td>
+<td colspan="34">25</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">291</td>
+<td colspan="21">Табақша</td>
+<td colspan="25">дана</td>
+<td colspan="34">4</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">292</td>
+<td colspan="21">Күбіше, шайнек астына қоятын шағын тіреуіш</td>
+<td colspan="25">дана</td>
+<td colspan="34">10</td>
+<td colspan="18">4</td>
+</tr>
+<tr>
+<td colspan="7">293</td>
+<td colspan="21">Жеміске арналған шыны ваза</td>
+<td colspan="25">дана</td>
+<td colspan="34">30</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">294</td>
+<td colspan="21">Майлыққа арналған шыны ваза</td>
+<td colspan="25">дана</td>
+<td colspan="34">30</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">295</td>
+<td colspan="21">Зығырдан тігілген дастархан матасы, метр</td>
+<td colspan="25">дана</td>
+<td colspan="34">120</td>
+<td colspan="18">1</td>
+</tr>
+<tr>
+<td colspan="7">296</td>
+<td colspan="21">Полиэтиленді пленка, мерт</td>
+<td colspan="25">дана</td>
+<td colspan="34">120</td>
+<td colspan="18">1</td>
+</tr>
+<tr>
+<td colspan="7">297</td>
+<td colspan="21">Қағаз майлық (тәулігіне)</td>
+<td colspan="25">дана</td>
+<td colspan="34">300</td>
+<td colspan="18">-</td>
+</tr>
+<tr>
+<td colspan="7">298</td>
+<td colspan="21">Пластмасса ыдыс жиынтығы</td>
+<td colspan="25">жиынтық</td>
+<td colspan="34">200</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">299</td>
+<td colspan="21">Шағын тәрелке</td>
+<td colspan="25">дана</td>
+<td colspan="34">палатаға біреу</td>
+<td colspan="18">5</td>
+</tr>
+<tr>
+<td colspan="7">300</td>
+<td colspan="21">Шұңғыл тәрелке</td>
+<td colspan="25">дана</td>
+<td colspan="34">палатаға біреу</td>
+<td colspan="18">5</td>
+</tr>
+<tr>
+<td colspan="7">301</td>
+<td colspan="21">Шыны стақан</td>
+<td colspan="25">дана</td>
+<td colspan="34">100</td>
+<td colspan="18">1</td>
+</tr>
+<tr>
+<td colspan="7">302</td>
+<td colspan="21">Шыны графин (құмыра)</td>
+<td colspan="25">дана</td>
+<td colspan="34">палатаға біреу</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">303</td>
+<td colspan="21">Жеміске арналған шыны ваза</td>
+<td colspan="25">дана</td>
+<td colspan="34">палатаға біреу</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">304</td>
+<td colspan="21">Гүлге арналған шыны ваза</td>
+<td colspan="25">дана</td>
+<td colspan="34">палатаға біреу</td>
+<td colspan="18">2</td>
+</tr>
+<tr>
+<td colspan="7">305</td>
+<td colspan="21">Зығырдан тігілген дастархан матасы</td>
+<td colspan="25">қума метр</td>
+<td colspan="34">75</td>
+<td colspan="18">1</td>
+</tr>
+<tr>
+<td colspan="7">306</td>
+<td colspan="21">Полиэтиленді пленка</td>
+<td colspan="25">қума метр</td>
+<td colspan="34">75</td>
+<td colspan="18">1</td>
+</tr>
+<tr>
+<td colspan="105">2-кіші бөлім. Ас үйлік аспаптар және ыдыс</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Р/с №</td>
+<td colspan="10" rowspan="2">Атауы</td>
+<td colspan="14" rowspan="2">Өлшем бірлігі</td>
+<td colspan="56">Кереует санына арналған заттар саны</td>
+<td colspan="23">
+Пайдалану мерзімі
+(жылдармен)
+</td>
+</tr>
+<tr>
+<td colspan="10">50-ге дейін</td>
+<td colspan="11">51–100</td>
+<td colspan="14">101–300</td>
+<td colspan="11">301–500</td>
+<td colspan="9">501–800</td>
+<td colspan="24"></td>
+</tr>
+<tr>
+<td colspan="2">307</td>
+<td colspan="10">3–4,5 литрлік кәстрөл</td>
+<td colspan="14">дана</td>
+<td colspan="10">4</td>
+<td colspan="11">8</td>
+<td colspan="14">12</td>
+<td colspan="11">14</td>
+<td colspan="9">20</td>
+<td colspan="24">4</td>
+</tr>
+<tr>
+<td colspan="2">308</td>
+<td colspan="10">8–10 литрлік кәстрөл</td>
+<td colspan="14">дана</td>
+<td colspan="10">6</td>
+<td colspan="11">12</td>
+<td colspan="14">16</td>
+<td colspan="11">19</td>
+<td colspan="9">25</td>
+<td colspan="24">4</td>
+</tr>
+<tr>
+<td colspan="2">309</td>
+<td colspan="10">20–40 литрлік плитаға қойылатын қазан</td>
+<td colspan="14">дана</td>
+<td colspan="10">4</td>
+<td colspan="11">8</td>
+<td colspan="14">13</td>
+<td colspan="11">17</td>
+<td colspan="9">25</td>
+<td colspan="24">4</td>
+</tr>
+<tr>
+<td colspan="2">310</td>
+<td colspan="10">50–60 литрлік плитаға қойылатын қазан</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">3</td>
+<td colspan="14">4</td>
+<td colspan="11">6</td>
+<td colspan="9">9</td>
+<td colspan="24">4</td>
+</tr>
+<tr>
+<td colspan="2">311</td>
+<td colspan="10">10–15 литрлік таба</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">4</td>
+<td colspan="11">5</td>
+<td colspan="9">8</td>
+<td colspan="24">4</td>
+</tr>
+<tr>
+<td colspan="2">312</td>
+<td colspan="10">Қақпағы бар эмальданған шелек</td>
+<td colspan="14">дана</td>
+<td colspan="10">3</td>
+<td colspan="11">5</td>
+<td colspan="14">7</td>
+<td colspan="11">8</td>
+<td colspan="9">10</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">313</td>
+<td colspan="10">Мырышталған шелек</td>
+<td colspan="14">дана</td>
+<td colspan="10">3</td>
+<td colspan="11">6</td>
+<td colspan="14">8</td>
+<td colspan="11">10</td>
+<td colspan="9">12</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">314</td>
+<td colspan="10">1,5 литрлік ожау</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">3</td>
+<td colspan="11">4</td>
+<td colspan="9">6</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">315</td>
+<td colspan="10">0,4 литрлік ожау</td>
+<td colspan="14">дана</td>
+<td colspan="10">3</td>
+<td colspan="11">5</td>
+<td colspan="14">8</td>
+<td colspan="11">9</td>
+<td colspan="9">12</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">316</td>
+<td colspan="10">Сүзгі ожау</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">4</td>
+<td colspan="11">5</td>
+<td colspan="9">7</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">317</td>
+<td colspan="10">Кепсер</td>
+<td colspan="14">дана</td>
+<td colspan="10">2</td>
+<td colspan="11">2</td>
+<td colspan="14">3</td>
+<td colspan="11">4</td>
+<td colspan="9">6</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">318</td>
+<td colspan="10">0,6 литрлік шөміш</td>
+<td colspan="14">дана</td>
+<td colspan="10">3</td>
+<td colspan="11">5</td>
+<td colspan="14">8</td>
+<td colspan="11">9</td>
+<td colspan="9">12</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">319</td>
+<td colspan="10">0,25 литрлік шөміш</td>
+<td colspan="14">дана</td>
+<td colspan="10">3</td>
+<td colspan="11">5</td>
+<td colspan="14">8</td>
+<td colspan="11">9</td>
+<td colspan="9">12</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">320</td>
+<td colspan="10">Таба</td>
+<td colspan="14">дана</td>
+<td colspan="10">4</td>
+<td colspan="11">8</td>
+<td colspan="14">13</td>
+<td colspan="11">17</td>
+<td colspan="9">20</td>
+<td colspan="24">4</td>
+</tr>
+<tr>
+<td colspan="2">321</td>
+<td colspan="10">Аспаздық арнайы</td>
+<td colspan="14">жиынтық</td>
+<td colspan="10">1</td>
+<td colspan="11">1</td>
+<td colspan="14">2</td>
+<td colspan="11">2</td>
+<td colspan="9">3</td>
+<td colspan="24">2</td>
+</tr>
+<tr>
+<td colspan="2">322</td>
+<td colspan="10">Көкөніс тазалауға арналған пышақ</td>
+<td colspan="14">дана</td>
+<td colspan="10">4</td>
+<td colspan="11">6</td>
+<td colspan="14">8</td>
+<td colspan="11">10</td>
+<td colspan="9">15</td>
+<td colspan="24">1</td>
+</tr>
+<tr>
+<td colspan="2">323</td>
+<td colspan="10">Нан турауға арналған пышақ</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">3</td>
+<td colspan="11">4</td>
+<td colspan="9">5</td>
+<td colspan="24">2</td>
+</tr>
+<tr>
+<td colspan="2">324</td>
+<td colspan="10">Консерві ашқыш</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">-</td>
+<td colspan="11">-</td>
+<td colspan="9">-</td>
+<td colspan="24">2</td>
+</tr>
+<tr>
+<td colspan="2">325</td>
+<td colspan="10">Шапқы</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">1</td>
+<td colspan="24">5</td>
+</tr>
+<tr>
+<td colspan="2">326</td>
+<td colspan="10">Ет түсіруге арналған шанышқы</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">2</td>
+<td colspan="11">2</td>
+<td colspan="9">2</td>
+<td colspan="24">5</td>
+</tr>
+<tr>
+<td colspan="2">327</td>
+<td colspan="10">Ажыратуға арналған шанышқы</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">2</td>
+<td colspan="9">2</td>
+<td colspan="24">5</td>
+</tr>
+<tr>
+<td colspan="2">328</td>
+<td colspan="10">Ас қалдықтарына арналған бак</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">3</td>
+<td colspan="11">4</td>
+<td colspan="9">5</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">329</td>
+<td colspan="10">Қаңылтыр таба</td>
+<td colspan="14">дана</td>
+<td colspan="10">3</td>
+<td colspan="11">5</td>
+<td colspan="14">10</td>
+<td colspan="11">12</td>
+<td colspan="9">15</td>
+<td colspan="24">4</td>
+</tr>
+<tr>
+<td colspan="2">330</td>
+<td colspan="10">Кондитерлік таба</td>
+<td colspan="14">дана</td>
+<td colspan="10">2</td>
+<td colspan="11">2</td>
+<td colspan="14">3</td>
+<td colspan="11">4</td>
+<td colspan="9">5</td>
+<td colspan="24">2</td>
+</tr>
+<tr>
+<td colspan="2">331</td>
+<td colspan="10">Кондитерлік қалып</td>
+<td colspan="14">жиынтық</td>
+<td colspan="10">1</td>
+<td colspan="11">1</td>
+<td colspan="14">2</td>
+<td colspan="11">2</td>
+<td colspan="9">2</td>
+<td colspan="24">2</td>
+</tr>
+<tr>
+<td colspan="2">332</td>
+<td colspan="10">Жайпақ ыдыстарға арналған қалып</td>
+<td colspan="14">дана</td>
+<td colspan="10">60</td>
+<td colspan="11">120</td>
+<td colspan="14">300</td>
+<td colspan="11">600</td>
+<td colspan="9">800</td>
+<td colspan="24">2</td>
+</tr>
+<tr>
+<td colspan="2">333</td>
+<td colspan="10">Кондитерлік қысқыш</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">3</td>
+<td colspan="11">5</td>
+<td colspan="9">7</td>
+<td colspan="24">2</td>
+</tr>
+<tr>
+<td colspan="2">334</td>
+<td colspan="10">Гарнирге арналған қасық</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">3</td>
+<td colspan="11">5</td>
+<td colspan="9">7</td>
+<td colspan="24">5</td>
+</tr>
+<tr>
+<td colspan="2">335</td>
+<td colspan="10">Сүзгі</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">2</td>
+<td colspan="11">3</td>
+<td colspan="9">4</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">336</td>
+<td colspan="10">Қалақша</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">2</td>
+<td colspan="11">3</td>
+<td colspan="9">4</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">337</td>
+<td colspan="10">Үккіш</td>
+<td colspan="14">дана</td>
+<td colspan="10">2</td>
+<td colspan="11">2</td>
+<td colspan="14">3</td>
+<td colspan="11">4</td>
+<td colspan="9">5</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">338</td>
+<td colspan="10">Ет жаныштауға арналған балға</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">2</td>
+<td colspan="9">2</td>
+<td colspan="24">5</td>
+</tr>
+<tr>
+<td colspan="2">339</td>
+<td colspan="10">Аспаздық қалақша</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">3</td>
+<td colspan="11">4</td>
+<td colspan="9">5</td>
+<td colspan="24">4</td>
+</tr>
+<tr>
+<td colspan="2">340</td>
+<td colspan="10">Шағын таба</td>
+<td colspan="14">дана</td>
+<td colspan="10">2</td>
+<td colspan="11">2</td>
+<td colspan="14">2</td>
+<td colspan="11">2</td>
+<td colspan="9">3</td>
+<td colspan="24">4</td>
+</tr>
+<tr>
+<td colspan="2">341</td>
+<td colspan="10">Азық-түлікті бөлшектеуге арналған тақтай</td>
+<td colspan="14">дана</td>
+<td colspan="10">4</td>
+<td colspan="11">6</td>
+<td colspan="14">8</td>
+<td colspan="11">10</td>
+<td colspan="9">12</td>
+<td colspan="24">2</td>
+</tr>
+<tr>
+<td colspan="2">342</td>
+<td colspan="10">Ағаштан жасалған араластырғыш</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">2</td>
+<td colspan="11">3</td>
+<td colspan="9">4</td>
+<td colspan="24">1</td>
+</tr>
+<tr>
+<td colspan="2">343</td>
+<td colspan="10">Металдан жасалған қазан өлшеуіш</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">3</td>
+<td colspan="14">4</td>
+<td colspan="11">6</td>
+<td colspan="9">9</td>
+<td colspan="24">4</td>
+</tr>
+<tr>
+<td colspan="2">344</td>
+<td colspan="10">Металдан жасалған бұлғауыш</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">1</td>
+<td colspan="14">2</td>
+<td colspan="11">2</td>
+<td colspan="9">2</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">345</td>
+<td colspan="10">Келсап</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">2</td>
+<td colspan="11">3</td>
+<td colspan="9">3</td>
+<td colspan="24">3</td>
+</tr>
+<tr>
+<td colspan="2">346</td>
+<td colspan="10">Ет кесуге арналған ленталы ара</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">2</td>
+<td colspan="11">3</td>
+<td colspan="9">3</td>
+<td colspan="24">6</td>
+</tr>
+<tr>
+<td colspan="2">347</td>
+<td colspan="10">Қазан жууға арналған щетка</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">2</td>
+<td colspan="14">2</td>
+<td colspan="11">3</td>
+<td colspan="9">1</td>
+<td colspan="24">1</td>
+</tr>
+<tr>
+<td colspan="2">348</td>
+<td colspan="10">Ет жууға арналған щетка және душ</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">-</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">1</td>
+<td colspan="24">1</td>
+</tr>
+<tr>
+<td colspan="105">3-кіші бөлім. Технологиялық жабдық</td>
+</tr>
+<tr>
+<td colspan="2">349</td>
+<td colspan="10">Картоп тазалауға арналған машина</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">2</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">350</td>
+<td colspan="10">Көкөніс турауға арналған машина</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">1</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">351</td>
+<td colspan="10">Жалпы мақсаттағы ас үйлік әмбебап машина</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">1</td>
+<td colspan="14">2</td>
+<td colspan="11">2</td>
+<td colspan="9">2</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">352</td>
+<td colspan="10">Ет-балық цехтарына арналған ас үйлік әмбебап машина</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">-</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">1</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">353</td>
+<td colspan="10">Пісірілген көкөніс турауға арналған машина</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">1</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">354</td>
+<td colspan="10">Үккіш машина</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">1</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">355</td>
+<td colspan="10">Механикалық ет тартқыш</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">1</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">356</td>
+<td colspan="10">Қолмен тартатын ет тартқыш</td>
+<td colspan="14">дана</td>
+<td colspan="10">1</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">1</td>
+<td colspan="24">6</td>
+</tr>
+<tr>
+<td colspan="2">357</td>
+<td colspan="10">Котлет жасауға арналған автомат</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">-</td>
+<td colspan="14">-</td>
+<td colspan="11">-</td>
+<td colspan="9">1</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">358</td>
+<td colspan="10">Механикалық нан турағыш</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">1</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">359</td>
+<td colspan="10">140 литрге дейін бір кеспегі бар қамыр илейтін машина</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">1</td>
+<td colspan="9">1</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">360</td>
+<td colspan="10">Өнімділігі сағатына 100 литр электр су қайнатқыш</td>
+<td colspan="14">дана</td>
+<td colspan="10">-</td>
+<td colspan="11">1</td>
+<td colspan="14">1</td>
+<td colspan="11">2</td>
+<td colspan="9">2</td>
+<td colspan="24">8</td>
+</tr>
+<tr>
+<td colspan="2">361</td>
+<td colspan="103">Электр плита</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3"></td>
+<td colspan="10">1 конфорлы</td>
+<td colspan="14" rowspan="3">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="10">2 конфорлы</td>
+<td colspan="12">1</td>
+<td colspan="10">-</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="10">3-4 конфорлы</td>
+<td colspan="12">-</td>
+<td colspan="10">1</td>
+<td colspan="15">2</td>
+<td colspan="11">3</td>
+<td colspan="8">4</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">362</td>
+<td colspan="10">Тамақ пісіретін арнайы қазандар 100 литрге дейін</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">2</td>
+<td colspan="15">-</td>
+<td colspan="11">2</td>
+<td colspan="8">-</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="10">100 литр</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">2</td>
+<td colspan="11">2</td>
+<td colspan="8">2</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="10">160 литр</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">2</td>
+<td colspan="11">2</td>
+<td colspan="8">2</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="10">250 литр</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">-</td>
+<td colspan="11">-</td>
+<td colspan="8">2</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">363</td>
+<td colspan="10">Жылжымалы электр мармит</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">4</td>
+<td colspan="15">6</td>
+<td colspan="11">6</td>
+<td colspan="8">12</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">364</td>
+<td colspan="10">Электр фритюрница</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3">365</td>
+<td colspan="10">Түбінің ауданы мынадай электр табалар:</td>
+<td colspan="14">дана</td>
+<td colspan="12"></td>
+<td colspan="10"></td>
+<td colspan="15"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="10">0,25 ш.м.</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">-</td>
+<td colspan="8">1</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="10">0,45 ш.м.</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">1</td>
+<td colspan="11">2</td>
+<td colspan="8">2</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">366</td>
+<td colspan="10">Қуыруға арналған шкаф немесе қуыруға арналған пеш</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">2</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">367</td>
+<td colspan="10">Аспаздық шкаф</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">2</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3">368</td>
+<td colspan="10">Өнімділігі мынадай ыдыс жууға арналған әмбебап машина:</td>
+<td colspan="14"></td>
+<td colspan="12"></td>
+<td colspan="10"></td>
+<td colspan="15"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="10">сағатына 700 тәрелке</td>
+<td colspan="14" rowspan="2">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">1</td>
+<td colspan="15">-</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="10">сағатына 1000 тәрелке</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">369</td>
+<td colspan="10">Қысқа толқынды пеш</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">6</td>
+</tr>
+<tr>
+<td colspan="2">370</td>
+<td colspan="10">Термоконтейнер</td>
+<td colspan="14">дана</td>
+<td colspan="12">8</td>
+<td colspan="10">16</td>
+<td colspan="15">48</td>
+<td colspan="11">80</td>
+<td colspan="8">128</td>
+<td colspan="23">6</td>
+</tr>
+<tr>
+<td colspan="2">371</td>
+<td colspan="10">Ыдыс жинау желісі, жиынтық</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">-</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">372</td>
+<td colspan="10">Электр сүлгі</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">2</td>
+<td colspan="15">2</td>
+<td colspan="11">4</td>
+<td colspan="8">8</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">373</td>
+<td colspan="10">Блендер</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">-</td>
+<td colspan="11">2</td>
+<td colspan="8">3</td>
+<td colspan="23">5</td>
+</tr>
+<tr>
+<td colspan="2">374</td>
+<td colspan="10">Бумен пісіргіш</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">-</td>
+<td colspan="11">2</td>
+<td colspan="8">3</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">375</td>
+<td colspan="10">Шырынсыққыш</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">-</td>
+<td colspan="11">2</td>
+<td colspan="8">3</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="105">4-кіші бөлім. Тоңазытқыш жабдығы</td>
+</tr>
+<tr>
+<td colspan="2">376</td>
+<td colspan="10">Тоңазытқыш шкаф</td>
+<td colspan="14">дана</td>
+<td colspan="12">2</td>
+<td colspan="10">2</td>
+<td colspan="15">3</td>
+<td colspan="11">3</td>
+<td colspan="8">4</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">377</td>
+<td colspan="10">Тұрмыстық электр тоңазытқыш</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">2</td>
+<td colspan="11">2</td>
+<td colspan="8">3</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="105">5-кіші бөлім. Салмақ өлшеу аспаптары</td>
+</tr>
+<tr>
+<td colspan="2">378</td>
+<td colspan="10">Үстелге қойылатын таразы</td>
+<td colspan="14">дана</td>
+<td colspan="12">4</td>
+<td colspan="10">5</td>
+<td colspan="15">7</td>
+<td colspan="11">9</td>
+<td colspan="8">11</td>
+<td colspan="23">5</td>
+</tr>
+<tr>
+<td colspan="2">379</td>
+<td colspan="10">Тауар өлшеуге арналған таразы</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">3</td>
+<td colspan="15">3</td>
+<td colspan="11">3</td>
+<td colspan="8">5</td>
+<td colspan="23">5</td>
+</tr>
+<tr>
+<td colspan="105">6-кіші бөлім. Механикалық емес жабдық</td>
+</tr>
+<tr>
+<td colspan="2">380</td>
+<td colspan="10">Өндірістік үстел</td>
+<td colspan="14">дана</td>
+<td colspan="12">6</td>
+<td colspan="10">8</td>
+<td colspan="15">10</td>
+<td colspan="11">12</td>
+<td colspan="8">14</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">381</td>
+<td colspan="10">Жарма тазалауға арналған үстел</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">382</td>
+<td colspan="10">Картоп тазалауға арналған үстел</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">2</td>
+<td colspan="8">2</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">383</td>
+<td colspan="10">Ас қалдықтарын жинауға арналған үстел</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">2</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">384</td>
+<td colspan="10">Нан турағышты орнатуға арналған үстел</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">385</td>
+<td colspan="10">Асүйлік ыдысты сақтауға арналған сөре</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">2</td>
+<td colspan="15">2</td>
+<td colspan="11">2</td>
+<td colspan="8">3</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">386</td>
+<td colspan="10">Асхана ыдысын сақтауға арналған сөре</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">-</td>
+<td colspan="11">1</td>
+<td colspan="8">2</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">387</td>
+<td colspan="10">Азық-түлік сақтауға арналған сөре</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">2</td>
+<td colspan="8">3</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">388</td>
+<td colspan="10">Нанды лотокта сақтауға арналған сөре</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">2</td>
+<td colspan="8">3</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">389</td>
+<td colspan="10">Нанды тәрелкелерде сақтауға арналған шкаф</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">-</td>
+<td colspan="11">-</td>
+<td colspan="8">-</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">390</td>
+<td colspan="10">Ет тушаларын ілуге арналған баған</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">-</td>
+<td colspan="11">-</td>
+<td colspan="8">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">391</td>
+<td colspan="10">Аспаздық мүкәммалға арналған сөре</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">392</td>
+<td colspan="10">Қазандарды тиеуге арналған көтергіш арба</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">-</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">393</td>
+<td colspan="10">Ас қалдықтарына арналған бак</td>
+<td colspan="14">дана</td>
+<td colspan="12">2</td>
+<td colspan="10">2</td>
+<td colspan="15">2</td>
+<td colspan="11">4</td>
+<td colspan="8">6</td>
+<td colspan="23">2</td>
+</tr>
+<tr>
+<td colspan="2">394</td>
+<td colspan="10">Функционалды ыдыстар</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">60</td>
+<td colspan="11">90</td>
+<td colspan="8">110</td>
+<td colspan="23">2</td>
+</tr>
+<tr>
+<td colspan="2">395</td>
+<td colspan="10">Көкөніс цехы мен ас үй ыдысын жууға арналған ванна</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">3</td>
+<td colspan="8">3</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">396</td>
+<td colspan="10">Ыдыс жууға арналған ванна:</td>
+<td colspan="14"></td>
+<td colspan="12"></td>
+<td colspan="10"></td>
+<td colspan="15"></td>
+<td colspan="11"></td>
+<td colspan="8"></td>
+<td colspan="23"></td>
+</tr>
+<tr>
+<td colspan="10">бір секциялы</td>
+<td colspan="14" rowspan="3">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="10">екі секциялы</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">2</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="10">үш секциялы</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">2</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">397</td>
+<td colspan="10">Жылжымалы ванна</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">-</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">2</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">398</td>
+<td colspan="10">Плитаға қазан астына қойылатын қосалқы тіреуіш</td>
+<td colspan="14">дана</td>
+<td colspan="12">3</td>
+<td colspan="10">5</td>
+<td colspan="15">8</td>
+<td colspan="11">10</td>
+<td colspan="8">12</td>
+<td colspan="23">2</td>
+</tr>
+<tr>
+<td colspan="2">399</td>
+<td colspan="10">Жинау мүкәммалына арналған тұғыр</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">1</td>
+<td colspan="15">1</td>
+<td colspan="11">1</td>
+<td colspan="8">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">400</td>
+<td colspan="10">Тауар өлшейтін таразы, тоңазытқыш шкафтары астына қойылатын тіреуіш</td>
+<td colspan="14">дана</td>
+<td colspan="12">2</td>
+<td colspan="10">2</td>
+<td colspan="15">3</td>
+<td colspan="11">3</td>
+<td colspan="8">4</td>
+<td colspan="23">2</td>
+</tr>
+<tr>
+<td colspan="2">401</td>
+<td colspan="10">Азық-түлікке арналған ыдыс жиынтығы</td>
+<td colspan="14">дана</td>
+<td colspan="12">2</td>
+<td colspan="10">2</td>
+<td colspan="15">2</td>
+<td colspan="11">2</td>
+<td colspan="8">3</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">402</td>
+<td colspan="10">Ет тасуға арналған жәшік</td>
+<td colspan="14">дана</td>
+<td colspan="12">2</td>
+<td colspan="10">2</td>
+<td colspan="15">2</td>
+<td colspan="11">2</td>
+<td colspan="8">2</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">403</td>
+<td colspan="10">Балық тасуға арналған жәшік</td>
+<td colspan="14">дана</td>
+<td colspan="12">2</td>
+<td colspan="10">2</td>
+<td colspan="15">2</td>
+<td colspan="11">2</td>
+<td colspan="8">2</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">404</td>
+<td colspan="10">Көкөніс тасуға арналған жәшік</td>
+<td colspan="14">дана</td>
+<td colspan="12">2</td>
+<td colspan="10">2</td>
+<td colspan="15">3</td>
+<td colspan="11">3</td>
+<td colspan="8">4</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">405</td>
+<td colspan="10">Картоп және көкөніс сақтауға арналған контейнер</td>
+<td colspan="14">дана</td>
+<td colspan="12">-</td>
+<td colspan="10">1</td>
+<td colspan="15">2</td>
+<td colspan="11">3</td>
+<td colspan="8">4</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">406</td>
+<td colspan="10">Тамақ жеткізуге және пайдаланылған ыдысты жинауға арналған арба</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">3</td>
+<td colspan="15">6</td>
+<td colspan="11">10</td>
+<td colspan="8">12</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">407</td>
+<td colspan="10">Асханалық таза ыдысты сақтауға және жеткізуге арналған арба</td>
+<td colspan="14">дана</td>
+<td colspan="12">1</td>
+<td colspan="10">2</td>
+<td colspan="15">3</td>
+<td colspan="11">2</td>
+<td colspan="8">3</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">408</td>
+<td colspan="10">4 орындығымен түскі асқа арналған үстел</td>
+<td colspan="14">дана</td>
+<td colspan="12">12</td>
+<td colspan="10">25</td>
+<td colspan="15">75</td>
+<td colspan="11">125</td>
+<td colspan="8">200</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="105">7-кіші бөлім. Госпитальдің медициналық бөлімшесіне</td>
+</tr>
+<tr>
+<td colspan="2">409</td>
+<td colspan="10">6 литрлік кастрөл</td>
+<td colspan="14">дана</td>
+<td colspan="56">4</td>
+<td colspan="23">4</td>
+</tr>
+<tr>
+<td colspan="2">410</td>
+<td colspan="10">20–40 литрлік плитаға қойылатын қазан</td>
+<td colspan="14">дана</td>
+<td colspan="56">2</td>
+<td colspan="23">4</td>
+</tr>
+<tr>
+<td colspan="2">411</td>
+<td colspan="10">Қақпағы бар эмальданған шелек</td>
+<td colspan="14">дана</td>
+<td colspan="56">3</td>
+<td colspan="23">3</td>
+</tr>
+<tr>
+<td colspan="2">412</td>
+<td colspan="10">Мырышталған шелек</td>
+<td colspan="14">дана</td>
+<td colspan="56">2</td>
+<td colspan="23">3</td>
+</tr>
+<tr>
+<td colspan="2">413</td>
+<td colspan="10">Нан турауға арналған пышақ</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">2</td>
+</tr>
+<tr>
+<td colspan="2">414</td>
+<td colspan="10">Консерві ашқыш</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">2</td>
+</tr>
+<tr>
+<td colspan="2">415</td>
+<td colspan="10">0,4 литрлік тот баспайтын болаттан жасалған ожау</td>
+<td colspan="14">дана</td>
+<td colspan="56">2</td>
+<td colspan="23">3</td>
+</tr>
+<tr>
+<td colspan="2">416</td>
+<td colspan="10">0,6 литрлік шөміш</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">3</td>
+</tr>
+<tr>
+<td colspan="2">417</td>
+<td colspan="10">0,25 литрлік шөміш</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">3</td>
+</tr>
+<tr>
+<td colspan="2">418</td>
+<td colspan="10">Табақша</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">2</td>
+</tr>
+<tr>
+<td colspan="2">419</td>
+<td colspan="10">5 литрлік шайнек</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">4</td>
+</tr>
+<tr>
+<td colspan="2">420</td>
+<td colspan="10">Шай демдеуге арналған шайнек</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">3</td>
+</tr>
+<tr>
+<td colspan="2">421</td>
+<td colspan="10">Дербес аралас ыдыс</td>
+<td colspan="14">дана</td>
+<td colspan="56">10</td>
+<td colspan="23">4</td>
+</tr>
+<tr>
+<td colspan="2">422</td>
+<td colspan="10">Нанға арналған жәшік</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">423</td>
+<td colspan="10">Үстелге қойылатын таразы</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">5</td>
+</tr>
+<tr>
+<td colspan="2">424</td>
+<td colspan="10">Сағатына 100 литр дейінгі электр су қайнатқыш</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">425</td>
+<td colspan="10">Тұрмыстық электр тоңазытқыш</td>
+<td colspan="14">дана</td>
+<td colspan="56">2</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">426</td>
+<td colspan="10">Тағамды әкелуге және пайдаланылған ыдысты жинауға арналған арба</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">427</td>
+<td colspan="10">Ас қалдықтарына арналған бак</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">2</td>
+</tr>
+<tr>
+<td colspan="2">428</td>
+<td colspan="10">4 конфорлы тұрмыстық электр плита</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">8</td>
+</tr>
+<tr>
+<td colspan="2">429</td>
+<td colspan="10">Үш секциялы ыдыс жууға арналған ванна</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">430</td>
+<td colspan="10">Асхана ыдысын сақтауға арналған сөре</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">7</td>
+</tr>
+<tr>
+<td colspan="2">431</td>
+<td colspan="10">Жылу боксы 20 керуертке</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">6</td>
+</tr>
+<tr>
+<td colspan="2">432</td>
+<td colspan="10">1-ші тағамға арналған тиісті көлемдегі гастроыдыс 20 керуертке</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">5</td>
+</tr>
+<tr>
+<td colspan="2">433</td>
+<td colspan="10">2-ші тағамға арналған тиісті көлемдегі гастроыдыс 20 керуертке</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">5</td>
+</tr>
+<tr>
+<td colspan="2">434</td>
+<td colspan="10">3-ші тағамға арналған тиісті көлемдегі гастроыдыс 20 керуертке</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">5</td>
+</tr>
+<tr>
+<td colspan="2">435</td>
+<td colspan="10">Салқын жеңіл дәмге арналған тиісті көлемдегі гастроыдыс 20 керуертке</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">5</td>
+</tr>
+<tr>
+<td colspan="2">436</td>
+<td colspan="10">гастрономиялық азық-түлікке арналған тиісті көлемдегі гастроыдыс 20 керуертке</td>
+<td colspan="14">дана</td>
+<td colspan="56">1</td>
+<td colspan="23">5</td>
+</tr>
+<tr>
+<td colspan="105">8-кіші бөлім. Жуу заттары</td>
+</tr>
+<tr>
+<td colspan="2">Р/с №</td>
+<td colspan="18">Жуу құралдарының түрі</td>
+<td colspan="25">Өлшем бірлігі</td>
+<td colspan="60">Саны тамақтанатын 100 адамға</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="18"></td>
+<td colspan="25"></td>
+<td colspan="35">тәулігіне машинамен жуған кезде</td>
+<td colspan="21">тәулігіне қолмен жуған кезде</td>
 <td colspan="4">айына ыдыс тазалаған кезде</td>
 </tr>
 <tr>
-<td colspan="2">176</td>
-<td>Ұнтақ тәріздес жуу құралдары</td>
-<td>грамм</td>
-<td colspan="3">360</td>
-<td colspan="4">810</td>
+<td colspan="2">437</td>
+<td colspan="18">Ұнтақ тәріздес жуу құралдары</td>
+<td colspan="25">грамм</td>
+<td colspan="35">360</td>
+<td colspan="21">810</td>
 <td colspan="4">-</td>
 </tr>
 <tr>
-<td colspan="2">177</td>
-<td>Сұйық жуу құралы</td>
-<td>грамм</td>
-<td colspan="3">180</td>
-<td colspan="4">540</td>
+<td colspan="2">438</td>
+<td colspan="18">Сұйық жуу құралы</td>
+<td colspan="25">грамм</td>
+<td colspan="35">180</td>
+<td colspan="21">540</td>
 <td colspan="4">-</td>
 </tr>
 <tr>
-<td colspan="2">178</td>
-<td>Тазалайтын құрал</td>
-<td>грамм</td>
-<td colspan="3">-</td>
-<td colspan="4">-</td>
+<td colspan="2">439</td>
+<td colspan="18">Тазалайтын құрал</td>
+<td colspan="25">грамм</td>
+<td colspan="35">-</td>
+<td colspan="21">-</td>
 <td colspan="4">5250</td>
 </tr>
-</table>
-
-5. Шетелдік өкілдерді күтіп алуға арналған орын-жайларды асханалық-ас үйлік жабдықпен және ыдыспен жабдықтау нормалары
-
-<table>
 <tr>
-<td>
-Р/с
-№
+<td colspan="2">440</td>
+<td colspan="18">Залалсыздандыру заттары</td>
+<td colspan="25">рамм/миллилитр</td>
+<td colspan="35">40</td>
+<td colspan="21">40</td>
+<td colspan="4">-</td>
+</tr>
+<tr>
+<td colspan="105">5-бөлім. Шетелдік өкілдерді күтіп алуға арналған орын-жайларды асханалық-ас үйлік жабдықпен және ыдыспен жабдықтау нормалары</td>
+</tr>
+<tr>
+<td colspan="2">Р/с №</td>
+<td colspan="52">Атауы</td>
+<td colspan="25">Өлшем бірлігі</td>
+<td colspan="18">Саны</td>
+<td colspan="8">
+Пайдалану мерзімі
+(жылдармен)
 </td>
-<td>Атауы</td>
-<td>Өлшем бірлігі</td>
-<td>Саны</td>
 </tr>
 <tr>
-<td>1</td>
-<td>6 адамға арналған асханалық сервиз</td>
-<td>жиынтық</td>
-<td>4</td>
+<td colspan="2">441</td>
+<td colspan="52">6 адамға арналған асханалық сервиз</td>
+<td colspan="25">жиынтық</td>
+<td colspan="18">4</td>
+<td colspan="8">4</td>
 </tr>
 <tr>
-<td>2</td>
-<td>6 адамға арналған шай сервизі</td>
-<td>жиынтық</td>
-<td>4</td>
+<td colspan="2">442</td>
+<td colspan="52">6 адамға арналған шай сервизі</td>
+<td colspan="25">жиынтық</td>
+<td colspan="18">4</td>
+<td colspan="8">4</td>
 </tr>
 <tr>
-<td>3</td>
-<td>6 адамға арналған кофе сервизі</td>
-<td>жиынтық</td>
-<td>4</td>
+<td colspan="2">443</td>
+<td colspan="52">6 адамға арналған кофе сервизі</td>
+<td colspan="25">жиынтық</td>
+<td colspan="18">4</td>
+<td colspan="8">4</td>
 </tr>
 <tr>
-<td>4</td>
-<td>Дәмтатым үшін тостақ жиынтығы</td>
-<td>жиынтық</td>
-<td>2</td>
+<td colspan="2">444</td>
+<td colspan="52">Дәмтатым үшін тостақ жиынтығы</td>
+<td colspan="25">жиынтық</td>
+<td colspan="18">2</td>
+<td colspan="8">4</td>
 </tr>
 <tr>
-<td>5</td>
-<td>Мұзға арналған шелек</td>
-<td>дана</td>
-<td>2</td>
+<td colspan="2">445</td>
+<td colspan="52">Мұзға арналған шелек</td>
+<td colspan="25">дана</td>
+<td colspan="18">2</td>
+<td colspan="8">2</td>
 </tr>
 <tr>
-<td>6</td>
-<td>Бір порциялы уылдырық салғыш</td>
-<td>дана</td>
-<td>12</td>
+<td colspan="2">446</td>
+<td colspan="52">Бір порциялы уылдырық салғыш</td>
+<td colspan="25">дана</td>
+<td colspan="18">12</td>
+<td colspan="8">3</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Екі порциялы дәмдеуіш салғыш</td>
-<td>дана</td>
-<td>12</td>
+<td colspan="2">447</td>
+<td colspan="52">Екі порциялы дәмдеуіш салғыш</td>
+<td colspan="25">дана</td>
+<td colspan="18">12</td>
+<td colspan="8">3</td>
 </tr>
 <tr>
-<td>8</td>
-<td>Креманка</td>
-<td>дана</td>
-<td>12</td>
+<td colspan="2">448</td>
+<td colspan="52">Креманка</td>
+<td colspan="25">дана</td>
+<td colspan="18">12</td>
+<td colspan="8">6</td>
 </tr>
 <tr>
-<td>9</td>
-<td>Жеміске арналған шыны ваза</td>
-<td>дана</td>
-<td>6</td>
+<td colspan="2">449</td>
+<td colspan="52">Жеміске арналған шыны ваза</td>
+<td colspan="25">дана</td>
+<td colspan="18">6</td>
+<td colspan="8">2</td>
 </tr>
 <tr>
-<td>10</td>
-<td>Рөмкелер (бокалдар, фужерлер)</td>
-<td>дана</td>
-<td>24</td>
+<td colspan="2">450</td>
+<td colspan="52">Рөмкелер (бокалдар, фужерлер)</td>
+<td colspan="25">дана</td>
+<td colspan="18">24</td>
+<td colspan="8">4</td>
 </tr>
 <tr>
-<td>11</td>
-<td>Арақ-шарап графині</td>
-<td>дана</td>
-<td>6</td>
+<td colspan="2">451</td>
+<td colspan="52">Арақ-шарап графині</td>
+<td colspan="25">дана</td>
+<td colspan="18">6</td>
+<td colspan="8">2</td>
 </tr>
 <tr>
-<td>12</td>
-<td>Гүлге арналған ваза</td>
-<td>дана</td>
-<td>2</td>
+<td colspan="2">452</td>
+<td colspan="52">Гүлге арналған ваза</td>
+<td colspan="25">дана</td>
+<td colspan="18">2</td>
+<td colspan="8">2</td>
 </tr>
 <tr>
-<td>13</td>
-<td>Кәмпит пен тәттіге арналған ваза</td>
-<td>дана</td>
-<td>6</td>
+<td colspan="2">453</td>
+<td colspan="52">Кәмпит пен тәттіге арналған ваза</td>
+<td colspan="25">дана</td>
+<td colspan="18">6</td>
+<td colspan="8">3</td>
 </tr>
 <tr>
-<td>14</td>
-<td>Тортқа арналған ваза-тіреуіш</td>
-<td>дана</td>
-<td>4</td>
+<td colspan="2">454</td>
+<td colspan="52">Тортқа арналған ваза-тіреуіш</td>
+<td colspan="25">дана</td>
+<td colspan="18">4</td>
+<td colspan="8">3</td>
 </tr>
 <tr>
-<td>15</td>
-<td>Қантқа арналған шымшуыр</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Бәлішке арналған шымшуыр</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Мұзға арналған шымшуыр</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Жаңғақ шағуға арналған тістеуік</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Қант шағуға арналған тістеуік</td>
-<td>дана</td>
-<td>10</td>
-</tr>
-<tr>
-<td>20</td>
-<td>
-Кондитерлік, ет және балық тағамдарын салуға арналған
-қалақша жиынтығы
-</td>
-<td>жиынтық</td>
-<td>2</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Штопор</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Тосапқа арналған фарфор ыдыс</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Су құятын шыны графин немесе құмыра</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Шыны стақан</td>
-<td>дана</td>
-<td>16</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Графинге шайғыш</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Графинге табақша</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>27</td>
-<td>Тот баспайтын болаттан жасалған ас пышағы</td>
-<td>дана</td>
-<td>24</td>
-</tr>
-<tr>
-<td>28</td>
-<td>Тот баспайтын болаттан жасалған ас шанышқысы</td>
-<td>дана</td>
-<td>24</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Тот баспайтын болаттан жасалған ас қасық</td>
-<td>дана</td>
-<td>24</td>
-</tr>
-<tr>
-<td>30</td>
-<td>Тот баспайтын болаттан жасалған шай қасық</td>
-<td>дана</td>
-<td>24</td>
-</tr>
-<tr>
-<td>31</td>
-<td>Тот баспайтын болаттан жасалған ас құятын қасық</td>
-<td>дана</td>
-<td>4</td>
-</tr>
-<tr>
-<td>32</td>
-<td>Десертті қасық</td>
-<td>дана</td>
-<td>24</td>
-</tr>
-<tr>
-<td>33</td>
-<td>Нан кесетін пышақ</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>34</td>
-<td>Фарфорлы сүт құйғыш</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>35</td>
-<td>Дәмдеуіштерге арналған аспап</td>
-<td>жиынтық</td>
-<td>6</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Электр самауыр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Тот баспайтын болаттан жасалған 3 литрлік жылтыр шайнек</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>38</td>
-<td>Шай демдеуге арналған фарфор шайнек</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>39</td>
-<td>Кофе құятын металл ыдыс</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>40</td>
-<td>Алюминийден немесе пластмассадан жасалған табақша</td>
-<td>дана</td>
-<td>3</td>
-</tr>
-<tr>
-<td>41</td>
-<td>Тұрмыстық тоңазытқыш</td>
-<td>дана</td>
-<td>2</td>
-</tr>
-<tr>
-<td>42</td>
-<td>4–6 конфоркалы тұрмыстық газ немесе электр плита</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-</table>
-
-6. Жедел кезекшілер бөлмелерін асханалық-ас үйлік жабдықпен және ыдыспен жабдықтау нормалары
-
-<table>
-<tr>
-<td>
-Р/с
-№
-</td>
-<td>Атауы</td>
-<td>Өлшем бірлігі</td>
-<td>Саны</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Термос 2 литр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Әмбебап пышақ</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>
-1,5–2 литрлік үш кастрөлден тұратын тот баспайтын болаттан
-жасалған ыдыс
-</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>6 адамға арналған шай сервизі</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Тот баспайтын болаттан жасалған ас қасық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Тот баспайтын болаттан жасалған ас шанышқысы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Тот баспайтын болаттан жасалған ас пышағы</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Тот баспайтын болаттан жасалған шай қасық</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Шұңғыл фарфор тәрелке</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Шағын фарфор тәрелке</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Десертке арналған фарфор тәрелке</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Бәлішке арналған фарфор тәрелке</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Фарфор қант салғыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Фарфор сүт құйғыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Дәмдеуіштерге арналған аспап</td>
-<td>жиынтық</td>
-<td>1</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Электр самауыр</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Консерві ашқыш</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Нан сақтауға арналған жәшік</td>
-<td>дана</td>
-<td>12</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Ыдыс сақтауға арналған шкаф</td>
-<td>дана</td>
-<td>1</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Үстелге жабатын клеенка, қума метр</td>
-<td>қума метр</td>
-<td>1,5</td>
-</tr>
-</table>
-
-7. Қарауыл орын-жайларын асханалық-ас үйлік жабдықпен және ыдыспен жабдықтау нормалары
-
-<table>
-<tr>
-<td colspan="11">7.1.Асхана аспаптары және ыдыс</td>
-</tr>
-<tr>
-<td rowspan="3">
-Р/с
-№
-</td>
-<td colspan="2" rowspan="3">Атауы</td>
-<td colspan="2" rowspan="3">Өлшем бірлігі</td>
-<td colspan="6">Жеке құрамы мыналармен айналысатын қарауылдар үшін</td>
-</tr>
-<tr>
-<td colspan="3">тамақ дайындайтын</td>
-<td colspan="3">тамақ дайындамайтын</td>
-</tr>
-<tr>
-<td colspan="2">зат саны</td>
-<td>неше адамға</td>
-<td colspan="2">зат саны</td>
-<td>неше адамға</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">Алюминийден, жартылай фарфордан, пластмассадан немесе тот баспайтын болаттан жасалған шұңғыл тостақ</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="2">Алюминийден, жартылай фарфордан, пластмассадан немесе тот баспайтын болаттан жасалған шағын тәрелке</td>
-<td colspan="2">дана</td>
-<td colspan="2">4</td>
-<td>1</td>
-<td colspan="2">4</td>
-<td>1</td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="2">Эмальданған, жартылай фарфордан жасалған кружка, пластмассадан немесе тот баспайтын болаттан жасалған стақан</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>1</td>
-<td colspan="2">2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="2">Шай ішетін шыны стақан</td>
-<td colspan="2">дана</td>
-<td colspan="2">4</td>
-<td>қарауылға</td>
-<td colspan="2">4</td>
-<td>қарауылға</td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="2">Қант салатын фарфор ыдыс</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>қарауылға</td>
-<td colspan="2">1</td>
-<td>қарауылға</td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="2">Алюминийден немесе тот баспайтын болаттан жасалған ас қасық</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="2">Алюминийден немесе тот баспайтын болаттан жасалған шай қасық</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="2">Алюминийден немесе тот баспайтын болаттан жасалған ас құятын қасық</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>қарауылға</td>
-<td colspan="2">2</td>
-<td>қарауылға</td>
-</tr>
-<tr>
-<td>9</td>
-<td colspan="2">Тот баспайтын болаттан немесе алюминийден жасалған ас шанышқысы</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>10</td>
-<td colspan="2">Тот баспайтын болаттан жасалған ас пышақ</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>11</td>
-<td colspan="2">Алюминийден немесе тот баспайтын болаттан жасалған 5 л шайнек</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>10</td>
-<td colspan="2">1</td>
-<td>10</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="2">Шыны графин (құмыра)</td>
-<td colspan="2">дана</td>
-<td colspan="2">2</td>
-<td>қарауылға</td>
-<td colspan="2">2</td>
-<td>қарауылға</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="2">Дәмдеуіштерге арналған алюминийден, жартылай фарфордан немесе тот баспайтын болаттан жасалған аспап</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>4</td>
-<td colspan="2">1</td>
-<td>4</td>
-</tr>
-<tr>
-<td>14</td>
-<td colspan="2">Алюминийден немесе пластмассадан немесе тот баспайтын болаттан жасалған шайнек астына қойылатын тіреуіш</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>10</td>
-<td colspan="2">1</td>
-<td>10</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="2">Үстелге жабатын клеенка, метр</td>
-<td colspan="2">дана</td>
-<td colspan="2">0,6</td>
-<td>бір отыратын орынға</td>
-<td colspan="2">0,6</td>
-<td>бір отыратын орынға</td>
-</tr>
-<tr>
-<td>16</td>
-<td colspan="2">Майлыққа арналған ваза</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>4</td>
-<td colspan="2">1</td>
-<td>4</td>
-</tr>
-<tr>
-<td>17</td>
-<td colspan="2">Қағаз майлық, дана, күніне</td>
-<td colspan="2">дана</td>
-<td colspan="2">1</td>
-<td>1</td>
-<td colspan="2">1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="11">7.2.Ас үйлік аспаптар және ыдыс</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">
-Р/с
-№
-</td>
-<td colspan="2" rowspan="3">Атауы</td>
-<td colspan="2" rowspan="3">Өлшем бірлігі</td>
-<td colspan="5">Саны</td>
-</tr>
-<tr>
-<td colspan="5">Жеке құрамы мыналармен айналысатын қарауылдар үшін</td>
-</tr>
-<tr>
-<td colspan="3">тамақ дайындайтын</td>
-<td colspan="2">тамақ дайындамайтын</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td colspan="2">4,5–6 литрлік кастрөл</td>
-<td colspan="2">дана</td>
-<td colspan="3">2</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td colspan="2">8–10 литрлік кастрөл</td>
-<td colspan="2">дана</td>
-<td colspan="3">2</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td colspan="2">Қақпағы бар эмальданған шелек</td>
-<td colspan="2">дана</td>
-<td colspan="3">2</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td colspan="2">Шелек</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td colspan="2">Леген</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td colspan="2">Кепсер</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td colspan="2">Сүзгі ожау</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td colspan="2">Таба</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td colspan="2">Арнайы аспаздық пышақ</td>
-<td colspan="2">жиынтық</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td colspan="2">Көкөніс тазалауға арналған пышақ</td>
-<td colspan="2">дана</td>
-<td colspan="3">2</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td colspan="2">Нан турауға арналған пышақ</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td colspan="2">Шапқы</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td colspan="2">Су құятын мырышталған бак</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td colspan="2">Қаңылтыр таба</td>
-<td colspan="2">дана</td>
-<td colspan="3">2</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td colspan="2">Металдан жасалған елеуіш</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td colspan="2">Металдан жасалған үккіш</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td colspan="2">Ет жаныштауға арналған шапқы</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td colspan="2">Аспаздық қалақша</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td colspan="2">Шағын таба</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">37</td>
-<td colspan="2">Консерві ашқыш</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">38</td>
-<td colspan="2">Азық-түлікті бөлшектеуге арналған тақтай</td>
-<td colspan="2">дана</td>
-<td colspan="3">2</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">39</td>
-<td colspan="2">Қазан жууға арналған щетка</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">40</td>
-<td colspan="2">ТВН-12 термосы</td>
-<td colspan="2" rowspan="3">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="2">немесе Т-15К термос-жәшігі</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">немесе дербес аралас ыдыс</td>
-<td colspan="3">-</td>
-<td colspan="2">1 адамға 1</td>
-</tr>
-<tr>
-<td colspan="11">7.3.Жабдық</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td colspan="2">Қолмен тартатын ет тартқыш</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td colspan="2">Электр су қайнатқыш</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">43</td>
-<td colspan="2">4 конфорлы электр плита</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td colspan="2">260 дм3 дейін тұрмыстық электр тоңазытқыш</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td colspan="2">Үстелге қойылатын таразы</td>
-<td colspan="2">дана</td>
-<td colspan="3">2</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td colspan="2">Өндірістік үстел</td>
-<td colspan="2">дана</td>
-<td colspan="3">2</td>
-<td colspan="2">-</td>
+<td colspan="2">455</td>
+<td colspan="52">Қантқа арналған шымшуыр</td>
+<td colspan="25">дана</td>
+<td colspan="18">10</td>
+<td colspan="8">2</td>
+</tr>
+<tr>
+<td colspan="2">456</td>
+<td colspan="52">Бәлішке арналған шымшуыр</td>
+<td colspan="25">дана</td>
+<td colspan="18">10</td>
+<td colspan="8">2</td>
 </tr>
 <tr>
 <td colspan="2">47</td>
-<td colspan="2">Ас үйлік ыдысты сақтауға арналған сөре</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">-</td>
+<td colspan="52">Мұзға арналған шымшуыр</td>
+<td colspan="25">дана</td>
+<td colspan="18">10</td>
+<td colspan="8">2</td>
 </tr>
 <tr>
-<td colspan="2">48</td>
-<td colspan="2">Асхана ыдысын сақтауға арналған сөре</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">458</td>
+<td colspan="52">Жаңғақ шағуға арналған тістеуік</td>
+<td colspan="25">дана</td>
+<td colspan="18">10</td>
+<td colspan="8">2</td>
 </tr>
 <tr>
-<td colspan="2">49</td>
-<td colspan="2">Ыдыс жууға арналған үш секциялы ванна</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">459</td>
+<td colspan="52">Қант шағуға арналған тістеуік</td>
+<td colspan="25">дана</td>
+<td colspan="18">10</td>
+<td colspan="8">2</td>
 </tr>
 <tr>
-<td colspan="2">50</td>
-<td colspan="2">4 орындығымен түскі асқа арналған үстел</td>
-<td colspan="2">дана</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">460</td>
+<td colspan="52">Кондитерлік, ет және балық тағамдарын салуға арналған қалақша жиынтығы</td>
+<td colspan="25">жиынтық</td>
+<td colspan="18">2</td>
+<td colspan="8">3</td>
 </tr>
-</table>
-
-8. Асханалық-ас үйлік жабдықтың және ыдыстың пайдалану мерзімдері
-
-<table>
 <tr>
-<td>
-Р/с
-№
+<td colspan="2">461</td>
+<td colspan="52">Штопор</td>
+<td colspan="25">дана</td>
+<td colspan="18">2</td>
+<td colspan="8">3</td>
+</tr>
+<tr>
+<td colspan="2">462</td>
+<td colspan="52">Тосапқа арналған ыдыс</td>
+<td colspan="25">дана</td>
+<td colspan="18">12</td>
+<td colspan="8">2</td>
+</tr>
+<tr>
+<td colspan="2">463</td>
+<td colspan="52">Су құятын шыны графин немесе құмыра</td>
+<td colspan="25">дана</td>
+<td colspan="18">3</td>
+<td colspan="8">2</td>
+</tr>
+<tr>
+<td colspan="2">464</td>
+<td colspan="52">Шыны стақан</td>
+<td colspan="25">дана</td>
+<td colspan="18">16</td>
+<td colspan="8">1</td>
+</tr>
+<tr>
+<td colspan="2">465</td>
+<td colspan="52">Графинге шайғыш</td>
+<td colspan="25">дана</td>
+<td colspan="18">3</td>
+<td colspan="8">2</td>
+</tr>
+<tr>
+<td colspan="2">466</td>
+<td colspan="52">Графинге табақша</td>
+<td colspan="25">дана</td>
+<td colspan="18">2</td>
+<td colspan="8">2</td>
+</tr>
+<tr>
+<td colspan="2">467</td>
+<td colspan="52">Тот баспайтын болаттан жасалған ас пышағы</td>
+<td colspan="25">дана</td>
+<td colspan="18">24</td>
+<td colspan="8">5</td>
+</tr>
+<tr>
+<td colspan="2">468</td>
+<td colspan="52">Тот баспайтын болаттан жасалған ас шанышқысы</td>
+<td colspan="25">дана</td>
+<td colspan="18">24</td>
+<td colspan="8">5</td>
+</tr>
+<tr>
+<td colspan="2">469</td>
+<td colspan="52">Тот баспайтын болаттан жасалған ас қасық</td>
+<td colspan="25">дана</td>
+<td colspan="18">24</td>
+<td colspan="8">5</td>
+</tr>
+<tr>
+<td colspan="2">470</td>
+<td colspan="52">Тот баспайтын болаттан жасалған шай қасық</td>
+<td colspan="25">дана</td>
+<td colspan="18">24</td>
+<td colspan="8">5</td>
+</tr>
+<tr>
+<td colspan="2">471</td>
+<td colspan="52">Тот баспайтын болаттан жасалған ас құятын қасық</td>
+<td colspan="25">дана</td>
+<td colspan="18">4</td>
+<td colspan="8">5</td>
+</tr>
+<tr>
+<td colspan="2">472</td>
+<td colspan="52">Десертті қасық</td>
+<td colspan="25">дана</td>
+<td colspan="18">24</td>
+<td colspan="8">5</td>
+</tr>
+<tr>
+<td colspan="2">473</td>
+<td colspan="52">Нан кесетін пышақ</td>
+<td colspan="25">дана</td>
+<td colspan="18">2</td>
+<td colspan="8">2</td>
+</tr>
+<tr>
+<td colspan="2">474</td>
+<td colspan="52">Сүт құйғыш</td>
+<td colspan="25">дана</td>
+<td colspan="18">2</td>
+<td colspan="8">4</td>
+</tr>
+<tr>
+<td colspan="2">475</td>
+<td colspan="52">Дәмдеуіштерге арналған аспап</td>
+<td colspan="25">жиынтық</td>
+<td colspan="18">6</td>
+<td colspan="8">4</td>
+</tr>
+<tr>
+<td colspan="2">476</td>
+<td colspan="52">Электр самауыр</td>
+<td colspan="25">дана</td>
+<td colspan="18">1</td>
+<td colspan="8">6</td>
+</tr>
+<tr>
+<td colspan="2">477</td>
+<td colspan="52">Тот баспайтын болаттан жасалған 3 литрлік жылтыр шайнек</td>
+<td colspan="25">дана</td>
+<td colspan="18">3</td>
+<td colspan="8">4</td>
+</tr>
+<tr>
+<td colspan="2">478</td>
+<td colspan="52">Шай демдеуге арналған шайнек</td>
+<td colspan="25">дана</td>
+<td colspan="18">3</td>
+<td colspan="8">4</td>
+</tr>
+<tr>
+<td colspan="2">479</td>
+<td colspan="52">Кофе құятын металл ыдыс</td>
+<td colspan="25">дана</td>
+<td colspan="18">3</td>
+<td colspan="8">3</td>
+</tr>
+<tr>
+<td colspan="2">480</td>
+<td colspan="52">Алюминийден немесе пластмассадан жасалған табақша</td>
+<td colspan="25">дана</td>
+<td colspan="18">3</td>
+<td colspan="8">2</td>
+</tr>
+<tr>
+<td colspan="2">481</td>
+<td colspan="52">Тұрмыстық тоңазытқыш</td>
+<td colspan="25">дана</td>
+<td colspan="18">2</td>
+<td colspan="8">8</td>
+</tr>
+<tr>
+<td colspan="2">482</td>
+<td colspan="52">4–6 конфоркалы тұрмыстық газ немесе электр плита</td>
+<td colspan="25">дана</td>
+<td colspan="18">1</td>
+<td colspan="8">8</td>
+</tr>
+<tr>
+<td colspan="105">6-бөлім. Жедел кезекшілер бөлмелерін асханалық-асүйлік жабдықпен және ыдыспен жабдықтау нормалары</td>
+</tr>
+<tr>
+<td colspan="2">Р/с №</td>
+<td colspan="49">Атауы</td>
+<td colspan="20">Өлшем бірлігі</td>
+<td colspan="22">Саны</td>
+<td colspan="12">
+Пайдалану мерзімі
+(жылдармен)
 </td>
-<td>Атауы</td>
-<td>Пайдалану мерзімдері (жыл)</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="2">483</td>
+<td colspan="49">Термос 2 литр</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">4</td>
 </tr>
 <tr>
-<td colspan="3">Асхана ыдысы мен аспаптары</td>
+<td colspan="2">484</td>
+<td colspan="49">Әмбебап пышақ</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">2</td>
 </tr>
 <tr>
-<td rowspan="7">1</td>
-<td>Шұңғыл тостақ:</td>
-<td></td>
+<td colspan="2">485</td>
+<td colspan="49">1,5–2 литрлік үш кастрөлден тұратын тот баспайтын болаттан жасалған ыдыс</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">4</td>
 </tr>
 <tr>
-<td>фарфор</td>
-<td>1,5</td>
+<td colspan="2">486</td>
+<td colspan="49">6 адамға арналған шай сервизі</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">4</td>
 </tr>
 <tr>
-<td>жартылай фарфор</td>
-<td>1</td>
+<td colspan="2">487</td>
+<td colspan="49">Тот баспайтын болаттан жасалған ас қасық</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">5</td>
 </tr>
 <tr>
-<td>пластмасса</td>
-<td>1</td>
+<td colspan="2">488</td>
+<td colspan="49">Тот баспайтын болаттан жасалған ас шанышқысы</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">5</td>
 </tr>
 <tr>
-<td>алюминий</td>
-<td>3</td>
+<td colspan="2">489</td>
+<td colspan="49">Тот баспайтын болаттан жасалған ас пышағы</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">5</td>
 </tr>
 <tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
+<td colspan="2">490</td>
+<td colspan="49">Тот баспайтын болаттан жасалған шай қасық</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">5</td>
 </tr>
 <tr>
-<td>ыстыққа төзімді шыны</td>
-<td>2</td>
+<td colspan="2">491</td>
+<td colspan="49">Шұңғыл тәрелке</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">5</td>
 </tr>
 <tr>
-<td rowspan="7">2</td>
-<td>Шағын тәрелке:</td>
-<td></td>
+<td colspan="2">492</td>
+<td colspan="49">Шағын тәрелке</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">5</td>
 </tr>
 <tr>
-<td>фарфор</td>
-<td>1,5</td>
+<td colspan="2">493</td>
+<td colspan="49">Десертке арналған тәрелке</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">2</td>
 </tr>
 <tr>
-<td>жартылай фарфор</td>
-<td>1</td>
+<td colspan="2">494</td>
+<td colspan="49">Бәлішке арналған тәрелке</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">2</td>
 </tr>
 <tr>
-<td>пластмасса</td>
-<td>1</td>
+<td colspan="2">495</td>
+<td colspan="49">Қант салғыш</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">2</td>
 </tr>
 <tr>
-<td>алюминий</td>
-<td>3</td>
+<td colspan="2">496</td>
+<td colspan="49">Сүт құйғыш</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">4</td>
 </tr>
 <tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
+<td colspan="2">497</td>
+<td colspan="49">Дәмдеуіштерге арналған аспап</td>
+<td colspan="20">жиынтық</td>
+<td colspan="22">1</td>
+<td colspan="12">4</td>
 </tr>
 <tr>
-<td>ыстыққа төзімді шыны</td>
-<td>2</td>
+<td colspan="2">498</td>
+<td colspan="49">Электр самауыр</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">6</td>
 </tr>
 <tr>
-<td rowspan="6">3</td>
-<td>Десертке арналған тәрелке:</td>
-<td></td>
+<td colspan="2">499</td>
+<td colspan="49">Консерві ашқыш</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">2</td>
 </tr>
 <tr>
-<td>фарфор</td>
-<td>1,5</td>
+<td colspan="2">500</td>
+<td colspan="49">Нан сақтауға арналған жәшік</td>
+<td colspan="20">дана</td>
+<td colspan="22">12</td>
+<td colspan="12">7</td>
 </tr>
 <tr>
-<td>жартылай фарфор</td>
-<td>1</td>
+<td colspan="2">501</td>
+<td colspan="49">Ыдыс сақтауға арналған шкаф</td>
+<td colspan="20">дана</td>
+<td colspan="22">1</td>
+<td colspan="12">7</td>
 </tr>
 <tr>
-<td>пластмасса</td>
-<td>1</td>
+<td colspan="2">502</td>
+<td colspan="49">Үстелге жабатын клеенка, қума метр</td>
+<td colspan="20">қума метр</td>
+<td colspan="22">1,5</td>
+<td colspan="12">1</td>
 </tr>
 <tr>
-<td>алюминий</td>
-<td>3</td>
+<td colspan="105">7-бөлім. Қарауыл орын-жайларын асханалық-асүйлік жабдықпен және ыдыспен жабдықтау нормалары</td>
 </tr>
 <tr>
-<td>ыстыққа төзімді шыны</td>
-<td>2</td>
+<td colspan="105">1-кіші бөлім. Асхана аспаптары және ыдыс</td>
 </tr>
 <tr>
-<td rowspan="5">4</td>
-<td>Бәлішке арналған тәрелке:</td>
-<td></td>
+<td colspan="2" rowspan="3">Р/с №</td>
+<td colspan="28" rowspan="3">Атауы</td>
+<td colspan="16" rowspan="3">Өлшем бірлігі</td>
+<td colspan="58">Жеке құрамы мыналармен айналысатын қарауылдар үшін</td>
+<td rowspan="3">
+Пайдалану мерзімі
+(жылдармен)
+</td>
 </tr>
 <tr>
-<td>фарфор</td>
-<td>1,5</td>
+<td colspan="40">тамақ дайындайтын</td>
+<td colspan="18">тамақ дайындамайтын</td>
 </tr>
 <tr>
-<td>жартылай фарфор</td>
-<td>1</td>
+<td colspan="19">зат саны</td>
+<td colspan="21">неше адамға</td>
+<td colspan="8">зат саны</td>
+<td colspan="10">неше адамға</td>
 </tr>
 <tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td>ыстыққа төзімді шыны</td>
-<td>2</td>
-</tr>
-<tr>
-<td rowspan="4">5</td>
-<td>Салатқа арналған ыдыс:</td>
-<td></td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>2</td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="4">6</td>
-<td>Майшабаққа арналған ыдыс:</td>
-<td></td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>4</td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="4">7</td>
-<td>Май салатын ыдыс:</td>
-<td></td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>2</td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="4">8</td>
-<td>Қант салуға арналған ыдыс:</td>
-<td></td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>2</td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="3">9</td>
-<td>Шай демдеуге арналған шайнек:</td>
-<td></td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>3</td>
-</tr>
-<tr>
-<td>жезді-никельденген</td>
+<td colspan="2">503</td>
+<td colspan="28">Шұңғыл тостақ</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">1</td>
+<td colspan="8">1</td>
+<td colspan="10">1</td>
 <td>5</td>
 </tr>
 <tr>
-<td rowspan="4">10</td>
-<td>Шай құятын стақан:</td>
-<td></td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>хрусталь</td>
-<td>4</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="5">11</td>
-<td>Стақан салғыш:</td>
-<td></td>
-</tr>
-<tr>
-<td>әмбебап</td>
-<td>6</td>
-</tr>
-<tr>
-<td>анодтаған алюминий</td>
-<td>4</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td>мельхиор</td>
-<td>7</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Шай және кофе ішетін фарфор кесе</td>
-<td>2</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Шырынға арналған 100-150 грамм шыны стақан</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="5">14</td>
-<td>Ас қасық:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>2</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td>мельхиор</td>
-<td>7</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="5">15</td>
-<td>Шай қасық:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>2</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td>мельхиор</td>
-<td>7</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="5">16</td>
-<td>Ас құятын қасық:</td>
-<td></td>
-</tr>
-<tr>
-<td>штампталған алюминий</td>
-<td>1</td>
-</tr>
-<tr>
-<td>алюминийден құйылып жасалған</td>
-<td>3</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td>мельхиор</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="5">17</td>
-<td>Ас шанышқысы:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>2</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td>мельхиор</td>
-<td>7</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="4">18</td>
-<td>Асханалық және десертке арналған пышақ:</td>
-<td></td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td>мельхиор</td>
-<td>7</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="5">19</td>
-<td>Дәмдеуіштерге арналған аспап:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>2</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td>жартылай фарфор</td>
-<td>1</td>
-</tr>
-<tr>
-<td>тот баспайтын болатпен көмкерілген шыны</td>
-<td>3</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Тұздық құюға арналған фарфор ыдыс (соусник)</td>
-<td>3</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Сүт құюға арналған фарфор ыдыс</td>
-<td>4</td>
-</tr>
-<tr>
-<td rowspan="4">22</td>
-<td>Шайнек:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминийден құйылып жасалған</td>
-<td>4</td>
-</tr>
-<tr>
-<td>жезді-никельденген</td>
+<td colspan="2">504</td>
+<td colspan="28">Шағын тәрелке</td>
+<td colspan="16">дана</td>
+<td colspan="19">4</td>
+<td colspan="21">1</td>
+<td colspan="8">4</td>
+<td colspan="10">1</td>
 <td>5</td>
 </tr>
 <tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Су құятын графин:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>шыны</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>хрусталь</td>
-<td>4</td>
-</tr>
-<tr>
-<td rowspan="5">24</td>
-<td>Асханалық табақша және графин астына қойылатын табақша:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>2</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td>жезді-никельденген</td>
-<td>6</td>
-</tr>
-<tr>
-<td>мельхиор</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="4">25</td>
-<td>Күбіше мен шайнек астына табақша:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>3</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td rowspan="5">26</td>
-<td>Жеміске, гүлге, майлыққа арналған ваза:</td>
-<td></td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>2</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>4</td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>2</td>
-</tr>
-<tr>
-<td>хрусталь</td>
-<td>4</td>
-</tr>
-<tr>
-<td>27</td>
-<td>Зығырдан тігілген дастархан</td>
-<td>3</td>
-</tr>
-<tr>
-<td>28</td>
-<td>Негізі жоқ үстелге жабылатын клеенка (жасанды), полиэтиленді пленка</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Асханалық, шай және кофеге арналған фарфор сервиз</td>
+<td colspan="2">505</td>
+<td colspan="28">Кружка</td>
+<td colspan="16">дана</td>
+<td colspan="19">2</td>
+<td colspan="21">1</td>
+<td colspan="8">2</td>
+<td colspan="10">1</td>
 <td>5</td>
 </tr>
 <tr>
-<td>30</td>
-<td>Мұз салуға арналған шелек</td>
-<td>2</td>
-</tr>
-<tr>
-<td>31</td>
-<td>Бір порциялы уылдырық салғыш</td>
+<td colspan="2">506</td>
+<td colspan="28">Шай ішетін шыны стақан</td>
+<td colspan="16">дана</td>
+<td colspan="19">4</td>
+<td colspan="21">қарауылға</td>
+<td colspan="8">4</td>
+<td colspan="10">қарауылға</td>
 <td>1</td>
 </tr>
 <tr>
-<td rowspan="3">32</td>
-<td>Креманка:</td>
-<td></td>
+<td colspan="2">507</td>
+<td colspan="28">Қант салатын ыдыс</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">қарауылға</td>
+<td colspan="8">1</td>
+<td colspan="10">қарауылға</td>
+<td>2</td>
 </tr>
 <tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td>мельхиор</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="4">33</td>
-<td>Рюмкалар (бокалдар, фужерлер)</td>
-<td></td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>4</td>
-</tr>
-<tr>
-<td>қыры алмазбен көмкерілген</td>
+<td colspan="2">508</td>
+<td colspan="28">Тот баспайтын болаттан жасалған ас қасық</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">1</td>
+<td colspan="8">1</td>
+<td colspan="10">1</td>
 <td>5</td>
 </tr>
 <tr>
-<td>хрусталь</td>
+<td colspan="2">509</td>
+<td colspan="28">Тот баспайтын болаттан жасалған шай қасық</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">1</td>
+<td colspan="8">1</td>
+<td colspan="10">1</td>
 <td>5</td>
 </tr>
 <tr>
-<td rowspan="4">34</td>
-<td>Арақ-шарапқа арналған сервиз:</td>
-<td></td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>4</td>
-</tr>
-<tr>
-<td>қыры алмазбен көмкерілген</td>
+<td colspan="2">510</td>
+<td colspan="28">Тот баспайтын болаттан жасалған ас құятын қасық</td>
+<td colspan="16">дана</td>
+<td colspan="19">2</td>
+<td colspan="21">қарауылға</td>
+<td colspan="8">2</td>
+<td colspan="10">қарауылға</td>
 <td>5</td>
 </tr>
 <tr>
-<td>хрусталь</td>
+<td colspan="2">511</td>
+<td colspan="28">Тот баспайтын болаттан жасалған ас шанышқысы</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">1</td>
+<td colspan="8">1</td>
+<td colspan="10">1</td>
 <td>5</td>
 </tr>
 <tr>
-<td>35</td>
-<td>Кант-кәмпит салатын ваза</td>
-<td>3</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Торт салатын ваза</td>
-<td>3</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Қант, бәліш және мұз салуға арналған қысқыш</td>
-<td>2</td>
-</tr>
-<tr>
-<td>38</td>
-<td>Жаңғақ және қант бөлуге арналған қысқыш</td>
-<td>2</td>
-</tr>
-<tr>
-<td>39</td>
-<td>Штопор</td>
-<td>3</td>
-</tr>
-<tr>
-<td rowspan="3">40</td>
-<td>Тосап салуға арналған ыдыс (табақша):</td>
-<td></td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>2</td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td rowspan="3">41</td>
-<td>Су құятын құмыра:</td>
-<td></td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>2</td>
-</tr>
-<tr>
-<td>хрусталь</td>
-<td>4</td>
-</tr>
-<tr>
-<td rowspan="5">42</td>
-<td>Шайғыш:</td>
-<td></td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>2</td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>жезді-никельденген</td>
-<td>6</td>
-</tr>
-<tr>
-<td>43</td>
-<td>Нан турауға арналған пышақ</td>
-<td>2</td>
-</tr>
-<tr>
-<td rowspan="3">44</td>
-<td>Десертке арналған қасық:</td>
-<td></td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td>мельхиор</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="4">45</td>
-<td>Қыша салғыш:</td>
-<td></td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>2</td>
-</tr>
-<tr>
-<td>шыны (флакон)</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="7">46</td>
-<td>Кружка:</td>
-<td></td>
-</tr>
-<tr>
-<td>эмальданған</td>
-<td>2</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>жартылай фарфор</td>
-<td>1</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>4</td>
-</tr>
-<tr>
-<td>ыстыққа төзімді шыны</td>
-<td>2</td>
-</tr>
-<tr>
-<td>47</td>
-<td>Тот баспайтын болаттан жасалған жинақы табақша</td>
-<td>6</td>
-</tr>
-<tr>
-<td>48</td>
-<td>Негізі бар үстелге жабылатын клеенка</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="4">49</td>
-<td>Табақша:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>3</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td rowspan="3">50</td>
-<td>Асханалық аспап жинағы:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>2</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>4</td>
-</tr>
-<tr>
-<td>51</td>
-<td>Дәмдеуіштерге арналған аспаптар астына қойылатын тот баспайтын болаттан жасалған табақша</td>
+<td colspan="2">512</td>
+<td colspan="28">Тот баспайтын болаттан жасалған ас пышақ</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">1</td>
+<td colspan="8">1</td>
+<td colspan="10">1</td>
 <td>5</td>
 </tr>
 <tr>
-<td rowspan="4">52</td>
-<td>Бұрыш салуға арналған ыдыс:</td>
-<td></td>
-</tr>
-<tr>
-<td>фарфор</td>
-<td>2</td>
-</tr>
-<tr>
-<td>шыны</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>2</td>
-</tr>
-<tr>
-<td>53</td>
-<td>Дербес аралас ыдыс</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td rowspan="3">54</td>
-<td>Екі және үш кастрөлден тұратын ыдыс:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>3</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>6</td>
-</tr>
-<tr>
-<td>55</td>
-<td>Зығырдан тігілген майлық</td>
-<td>3</td>
-</tr>
-<tr>
-<td>56</td>
-<td>Шай ішетін фарфор кесе</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">Ас үйлік ыдыс пен мүкәммал</td>
-</tr>
-<tr>
-<td rowspan="3">57</td>
-<td>2.5-10 литрлік кастрөл:</td>
-<td></td>
-</tr>
-<tr>
-<td>штампталған алюминий</td>
-<td>3</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>5</td>
-</tr>
-<tr>
-<td>58</td>
-<td>Өсімдік майына арналған бидон</td>
+<td colspan="2">513</td>
+<td colspan="28">Тот баспайтын болаттан жасалған 5 л шайнек</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">10</td>
+<td colspan="8">1</td>
+<td colspan="10">10</td>
 <td>4</td>
 </tr>
 <tr>
-<td>59</td>
-<td>Өсімдік майына арналған болаттан жасалған бөшке</td>
-<td>6</td>
-</tr>
-<tr>
-<td>60</td>
-<td>Суға арналған мырышталған бак</td>
-<td>4</td>
-</tr>
-<tr>
-<td rowspan="4">61</td>
-<td>Ас қалдықтарына арналған бак:</td>
-<td></td>
-</tr>
-<tr>
-<td>мырышталған</td>
+<td colspan="2">514</td>
+<td colspan="28">Шыны графин (құмыра)</td>
+<td colspan="16">дана</td>
+<td colspan="19">2</td>
+<td colspan="21">қарауылға</td>
+<td colspan="8">2</td>
+<td colspan="10">қарауылға</td>
 <td>2</td>
 </tr>
 <tr>
-<td>алюминий</td>
-<td>2</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
+<td colspan="2">515</td>
+<td colspan="28">Дәмдеуіштерге арналған аспап</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">4</td>
+<td colspan="8">1</td>
+<td colspan="10">4</td>
 <td>4</td>
 </tr>
 <tr>
-<td>62</td>
-<td>Қақпағы бар эмальданған және мырышталған шелек</td>
-<td>2</td>
-</tr>
-<tr>
-<td>63</td>
-<td>Ет түсіруге арналған шанышқы</td>
-<td>5</td>
-</tr>
-<tr>
-<td>64</td>
-<td>Ажыратуға арналған шанышқы</td>
+<td colspan="2">516</td>
+<td colspan="28">Шайнек астына қойылатын тіреуіш</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">10</td>
+<td colspan="8">1</td>
+<td colspan="10">10</td>
 <td>4</td>
 </tr>
 <tr>
-<td>65</td>
-<td>Металдан жасалған бұлғауыш</td>
-<td>3</td>
-</tr>
-<tr>
-<td>66</td>
-<td>Ағаштан жасалған араластырғыш</td>
+<td colspan="2">517</td>
+<td colspan="28">Үстелге жабатын клеенка, метр</td>
+<td colspan="16">дана</td>
+<td colspan="19">0,6</td>
+<td colspan="21">бір отыратын орынға</td>
+<td colspan="8">0,6</td>
+<td colspan="10">бір отыратын орынға</td>
 <td>1</td>
 </tr>
 <tr>
-<td>67</td>
-<td>Металдан жасалған сүзгі</td>
-<td>3</td>
-</tr>
-<tr>
-<td>68</td>
-<td>Алюминий кепсер (сүзгі)</td>
-<td>3</td>
-</tr>
-<tr>
-<td rowspan="3">69</td>
-<td>Азық-түлікті бөлшектеуге арналған тақтай:</td>
-<td></td>
-</tr>
-<tr>
-<td>ағаш</td>
-<td>1</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td rowspan="3">70</td>
-<td>Плитаға қойылатын қазан:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>3</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>5</td>
-</tr>
-<tr>
-<td>71</td>
-<td>Металдан жасалған қазан өлшегіш</td>
-<td>4</td>
-</tr>
-<tr>
-<td rowspan="3">72</td>
-<td>Консерві ашқыш:</td>
-<td></td>
-</tr>
-<tr>
-<td>қолмен ашатын</td>
+<td colspan="2">518</td>
+<td colspan="28">Майлыққа арналған ваза</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">4</td>
+<td colspan="8">1</td>
+<td colspan="10">4</td>
 <td>2</td>
 </tr>
 <tr>
-<td>механикалық</td>
+<td colspan="2">519</td>
+<td colspan="28">Қағаз майлық, дана, күніне</td>
+<td colspan="16">дана</td>
+<td colspan="19">1</td>
+<td colspan="21">1</td>
+<td colspan="8">1</td>
+<td colspan="10">1</td>
 <td>-</td>
 </tr>
 <tr>
-<td>73</td>
-<td>Етті шабуға арналған ағаш</td>
-<td>1</td>
-</tr>
-<tr>
-<td>74</td>
-<td>Кондитерлік табақша</td>
-<td>2</td>
-</tr>
-<tr>
-<td rowspan="4">75</td>
-<td>Аспаздық қалақша (қатты майлар үшін):</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>2</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>4</td>
-</tr>
-<tr>
-<td>ағаш</td>
-<td>1</td>
-</tr>
-<tr>
-<td>76</td>
-<td>Қаңылтыр таба</td>
-<td>2</td>
-</tr>
-<tr>
-<td>77</td>
-<td>Көкөніс турауға арналған пышақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>78</td>
-<td>Ет бөлшектеуге арналған пышақ</td>
-<td>1</td>
-</tr>
-<tr>
-<td>79</td>
-<td>Арнайы аспаздық пышақ (үш пышақтан тұратын жиынтық)</td>
-<td>2</td>
-</tr>
-<tr>
-<td rowspan="2">80</td>
-<td>Алюминий таба</td>
-<td>3</td>
-</tr>
-<tr>
-<td>тот баспайтын болат таба</td>
-<td>4</td>
-</tr>
-<tr>
-<td>81</td>
-<td>Шойын (алюминий) таба</td>
-<td>4</td>
-</tr>
-<tr>
-<td>82</td>
-<td>Шапқы</td>
-<td>5</td>
-</tr>
-<tr>
-<td>83</td>
-<td>Металдан жасалған елеуіш</td>
-<td>2</td>
-</tr>
-<tr>
-<td>84</td>
-<td>Ағаш оқтау</td>
-<td>2</td>
-</tr>
-<tr>
-<td>85</td>
-<td>Металдан жасалған қалақша</td>
-<td>3</td>
-</tr>
-<tr>
-<td>86</td>
-<td>Шағын таба</td>
-<td>4</td>
-</tr>
-<tr>
-<td>87</td>
-<td>ТВН-12 литр (ТН-36 литр) термосы</td>
-<td>4</td>
-</tr>
-<tr>
-<td>88</td>
-<td>Мырышталған леген</td>
-<td>2</td>
-</tr>
-<tr>
-<td>89</td>
-<td>Ет шабуға арналған балта</td>
-<td>6</td>
-</tr>
-<tr>
-<td rowspan="3">90</td>
-<td>Үккіш:</td>
-<td></td>
-</tr>
-<tr>
-<td>металл</td>
-<td>2</td>
-</tr>
-<tr>
-<td>пластмасса</td>
-<td>1</td>
-</tr>
-<tr>
-<td>91</td>
-<td>Ет жаныштауға арналған шапқы</td>
-<td>5</td>
-</tr>
-<tr>
-<td>92</td>
-<td>Ағаштан жасалған бұлғауыш</td>
-<td>1</td>
-</tr>
-<tr>
-<td>93</td>
-<td>Сүтке, өсімдік майына немесе көкөніске арналған алюминий құты</td>
-<td>4</td>
-</tr>
-<tr>
-<td>94</td>
-<td>Кондитерлік өнімдер мен екінші тағамға арналған қалыптар</td>
-<td>3</td>
-</tr>
-<tr>
-<td rowspan="3">95</td>
-<td>Кепсер:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>2</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>4</td>
-</tr>
-<tr>
-<td rowspan="3">96</td>
-<td>Шөміш:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>2</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>4</td>
-</tr>
-<tr>
-<td>97</td>
-<td>Алюминий ожау</td>
-<td>2</td>
-</tr>
-<tr>
-<td>98</td>
-<td>Қазан жууға арналған щетка</td>
-<td>1</td>
-</tr>
-<tr>
-<td>99</td>
-<td>Ет жууға арналған щетка-душ</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="3">Технологиялық жабдық</td>
-</tr>
-<tr>
-<td>100</td>
-<td>Котлет жасауға арналған автомат</td>
-<td>8</td>
-</tr>
-<tr>
-<td>101</td>
-<td>Барлық типті өзіне-өзі қызмет көрсету желілері</td>
-<td>8</td>
-</tr>
-<tr>
-<td>102</td>
-<td>Тағам жинау желісі</td>
-<td>8</td>
-</tr>
-<tr>
-<td>103</td>
-<td>Картоп тазалауға арналған машина</td>
-<td>8</td>
-</tr>
-<tr>
-<td rowspan="4">104</td>
-<td>Ас үйлік әмбебап машина:</td>
-<td></td>
-</tr>
-<tr>
-<td>жалпы мақсаттағы</td>
-<td>8</td>
-</tr>
-<tr>
-<td>көкөніс цехтары үшін</td>
-<td>8</td>
-</tr>
-<tr>
-<td>ет-балық цехтары үшін</td>
-<td>8</td>
-</tr>
-<tr>
-<td>105</td>
-<td>Көкөніс турауға арналған машина</td>
-<td>8</td>
-</tr>
-<tr>
-<td>106</td>
-<td>Пісірілген көкөністі турауға арналған машина</td>
-<td>8</td>
-</tr>
-<tr>
-<td>107</td>
-<td>Үккіш машина</td>
-<td>8</td>
-</tr>
-<tr>
-<td>108</td>
-<td>Турауға арналған машина</td>
-<td>8</td>
-</tr>
-<tr>
-<td>109</td>
-<td>Ыдыс жуатын машина</td>
-<td>8</td>
-</tr>
-<tr>
-<td>110</td>
-<td>Қамыр илегіш машина</td>
-<td>8</td>
-</tr>
-<tr>
-<td rowspan="3">111</td>
-<td>Мармит:</td>
-<td></td>
-</tr>
-<tr>
-<td>электр</td>
-<td>8</td>
-</tr>
-<tr>
-<td>жылжымалы электр</td>
-<td>8</td>
-</tr>
-<tr>
-<td rowspan="3">112</td>
-<td>Ет тартқыш:</td>
-<td></td>
-</tr>
-<tr>
-<td>механикалық</td>
-<td>8</td>
-</tr>
-<tr>
-<td>қолмен тартатын</td>
-<td>8</td>
-</tr>
-<tr>
-<td>113</td>
-<td>Май бөлгіш</td>
-<td>5</td>
-</tr>
-<tr>
-<td>114</td>
-<td>Электр су қайнатқыш</td>
-<td>8</td>
-</tr>
-<tr>
-<td>115</td>
-<td>Тамақ пісіретін қазан</td>
-<td>8</td>
-</tr>
-<tr>
-<td>116</td>
-<td>Қысқа толқынды пеш</td>
-<td>7</td>
-</tr>
-<tr>
-<td>117</td>
-<td>Электр плита</td>
-<td>8</td>
-</tr>
-<tr>
-<td>118</td>
-<td>Госпитальдерге арналған тарату жабдығы</td>
-<td>8</td>
-</tr>
-<tr>
-<td>119</td>
-<td>Электр таба</td>
-<td>8</td>
-</tr>
-<tr>
-<td>120</td>
-<td>Электр самауыр</td>
-<td>8</td>
-</tr>
-<tr>
-<td>121</td>
-<td>Термоконтейнер</td>
-<td>6</td>
-</tr>
-<tr>
-<td>122</td>
-<td>Су өлшеуге арналған қондырғы</td>
-<td>8</td>
-</tr>
-<tr>
-<td>123</td>
-<td>Электр фритюрница</td>
-<td>8</td>
-</tr>
-<tr>
-<td>124</td>
-<td>Механикалық нан турағыш</td>
-<td>8</td>
-</tr>
-<tr>
-<td>125</td>
-<td>Қуыруға арналған электр шкаф немесе пеш</td>
-<td>8</td>
-</tr>
-<tr>
-<td>126</td>
-<td>Аспаздық шкаф</td>
-<td>8</td>
-</tr>
-<tr>
-<td>127</td>
-<td>Саңылаулары бар жылыту шкафы</td>
-<td>8</td>
-</tr>
-<tr>
-<td>128</td>
-<td>Электр сүлгі</td>
-<td>8</td>
-</tr>
-<tr>
-<td>129</td>
-<td>Бумен пісіретін аппарат</td>
-<td>5</td>
-</tr>
-<tr>
-<td>130</td>
-<td>Кофе қайнатқыш</td>
-<td>7</td>
-</tr>
-<tr>
-<td>131</td>
-<td>Шырынсыққыш</td>
-<td>7</td>
-</tr>
-<tr>
-<td>132</td>
-<td>Блэндер</td>
-<td>5</td>
-</tr>
-<tr>
-<td>133</td>
-<td>Электрлі миксер</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="3">Тоңазытқыш жабдығы</td>
-</tr>
-<tr>
-<td>134</td>
-<td>Тоңазытқыш камерасы</td>
-<td>8</td>
-</tr>
-<tr>
-<td>135</td>
-<td>Тұрмыстық электр тоңазытқыш</td>
-<td>8</td>
-</tr>
-<tr>
-<td>136</td>
-<td>Тоңазытқыш шкаф</td>
-<td>8</td>
-</tr>
-<tr>
-<td>137</td>
-<td>Суытылатын прилавкалар мен витриналар</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="3">Салмақ өлшеу аспаптары</td>
-</tr>
-<tr>
-<td>138</td>
-<td>Үстелге қойылатын таразы (ыдысты және циферблатты)</td>
-<td>5</td>
-</tr>
-<tr>
-<td>139</td>
-<td>Тауар өлшеуге арналған таразы</td>
-<td>5</td>
-</tr>
-<tr>
-<td>140</td>
-<td>Таразыларға әртүрлі салмақтар мен гірлер</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="3">Механикалық емес жабдық</td>
-</tr>
-<tr>
-<td rowspan="3">141</td>
-<td>Ыдыс жууға арналған бір, екі және үш секциялы ванна, оның ішінде екі модульды үш секциялы:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>7</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>7</td>
-</tr>
-<tr>
-<td>142</td>
-<td>Көкөніс цехына және ас үй ыдысын жууға арналған ванна</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="3">143</td>
-<td>Жылжымалы ванна:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>7</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>7</td>
-</tr>
-<tr>
-<td>144</td>
-<td>Функционалды ыдыс</td>
-<td>7</td>
-</tr>
-<tr>
-<td>145</td>
-<td>Картоп сақтауға арналған контейнер</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="3">146</td>
-<td>Азық-түлікке арналған ыдыс жиынтығы:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий</td>
-<td>7</td>
-</tr>
-<tr>
-<td>тот баспайтын болат</td>
-<td>7</td>
-</tr>
-<tr>
-<td>147</td>
-<td>Плитаға қазан астына қойылатын қосалқы тіреуіш</td>
-<td>7</td>
-</tr>
-<tr>
-<td>148</td>
-<td>Тауар өлшеуге арналған таразы мен тоңазытқыш шкаф астына қойылатын тіреуіш</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="4">149</td>
-<td>Сөре:</td>
-<td></td>
-</tr>
-<tr>
-<td>асханалық және ас үй ыдысын сақтауға арналған</td>
-<td>7</td>
-</tr>
-<tr>
-<td>азық-түлікті сақтауға арналған</td>
-<td>7</td>
-</tr>
-<tr>
-<td>нанды лотоктарда сақтауға арналған</td>
-<td>7</td>
-</tr>
-<tr>
-<td>150</td>
-<td>Жылжымалы сөре</td>
-<td>7</td>
-</tr>
-<tr>
-<td>151</td>
-<td>Жылжымалы әмбебап сөре</td>
-<td>7</td>
-</tr>
-<tr>
-<td>152</td>
-<td>Аспаздық мүкәммалға арналған тұғыр</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="3">153</td>
-<td>Өндірістік үстел:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td>тот баспайтын болат қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="3">154</td>
-<td>Жарма тазалауға арналған үстел:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td>тот баспайтын болат қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="3">155</td>
-<td>Картоп тазалауға арналған үстел:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td>тот баспайтын болат қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="3">156</td>
-<td>Ас қалдықтарын жинауға арналған үстел:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td>тот баспайтын болат қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="3">157</td>
-<td>Бірінші және екінші тағамды беруге арналған жылжымалы үстел:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td>тот баспайтын болат қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="3">158</td>
-<td>Ас үйлік ыдысты тазалауға арналған үстел-шкаф:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td>тот баспайтын болат қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="3">159</td>
-<td>Нан турағышты орнатуға арналған үстел:</td>
-<td></td>
-</tr>
-<tr>
-<td>алюминий қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td>тот баспайтын болат қақпағы бар</td>
-<td>7</td>
-</tr>
-<tr>
-<td>160</td>
-<td>Арнайы өндірістік үстел</td>
-<td>7</td>
-</tr>
-<tr>
-<td>161</td>
-<td>Ас үйлік мүкәммалды сақтауға арналған тұғыр</td>
-<td>7</td>
-</tr>
-<tr>
-<td>162</td>
-<td>Ет тушаларын ілуге арналған бағана немесе кронштейн</td>
-<td>7</td>
-</tr>
-<tr>
-<td>163</td>
-<td>Жинау мүкәммалына арналған тұғыр</td>
-<td>7</td>
-</tr>
-<tr>
-<td>164</td>
-<td>
-Тамақ жеткізуге және ыдыс жинауға арналған алюминий немесе
-құрама арба
+<td colspan="105">2-кіші бөлім. Ас үйлік аспаптар және ыдыс</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Р/с №</td>
+<td colspan="21" rowspan="2">Атауы</td>
+<td colspan="18" rowspan="2">Өлшем бірлігі</td>
+<td colspan="58">Саны</td>
+<td colspan="6" rowspan="3">
+Пайдалану мерзімі
+(жылдармен)
 </td>
-<td>7</td>
 </tr>
 <tr>
-<td>165</td>
-<td>Таза асхана ыдысын сақтауға және жеткізуге арналған арба</td>
-<td>7</td>
+<td colspan="58">Жеке құрамы мыналармен айналысатын қарауылдар үшін</td>
 </tr>
 <tr>
-<td>166</td>
-<td>Қазандарды тиеуге арналған көтергіш арба</td>
-<td>7</td>
+<td colspan="2"></td>
+<td colspan="21"></td>
+<td colspan="18"></td>
+<td colspan="33">тамақ дайындайтын</td>
+<td colspan="25">тамақ дайындамайтын</td>
 </tr>
 <tr>
-<td>167</td>
-<td>Тамақ жеткізуге және пайдаланылған ыдысты жинауға арналған арба</td>
-<td>7</td>
+<td colspan="2">520</td>
+<td colspan="21">4,5–6 литрлік кастрөл</td>
+<td colspan="18">дана</td>
+<td colspan="33">2</td>
+<td colspan="25">-</td>
+<td colspan="6">4</td>
 </tr>
 <tr>
-<td>168</td>
-<td>Нанды тостақтарда және қантты қант салатын ыдыстарда сақтауға арналған шкаф</td>
-<td>7</td>
+<td colspan="2">521</td>
+<td colspan="21">8–10 литрлік кастрөл</td>
+<td colspan="18">дана</td>
+<td colspan="33">2</td>
+<td colspan="25"></td>
+<td colspan="6">4</td>
 </tr>
 <tr>
-<td rowspan="3">169</td>
-<td>Ет, балық немесе көкөніс тасуға арналған жәшік:</td>
-<td></td>
+<td colspan="2">522</td>
+<td colspan="21">Қақпағы бар эмальданған шелек</td>
+<td colspan="18">дана</td>
+<td colspan="33">2</td>
+<td colspan="25">2</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td>алюминий</td>
-<td>7</td>
+<td colspan="2">523</td>
+<td colspan="21">Шелек</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td>тот баспайтын болат</td>
-<td>7</td>
+<td colspan="2">524</td>
+<td colspan="21">Леген</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td>170</td>
-<td>Термометр</td>
-<td>8</td>
+<td colspan="2">525</td>
+<td colspan="21">Кепсер</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td>171</td>
-<td>Психрометр</td>
-<td>8</td>
+<td colspan="2">526</td>
+<td colspan="21">Сүзгі ожау</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td>172</td>
-<td>Ыдыс ашуға арналған құрал</td>
-<td>2</td>
+<td colspan="2">527</td>
+<td colspan="21">Таба</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">4</td>
 </tr>
 <tr>
-<td rowspan="3">173</td>
-<td>Бір шүмекті қолжуғыш:</td>
-<td></td>
+<td colspan="2">528</td>
+<td colspan="21">Арнайы аспаздық пышақ</td>
+<td colspan="18">жиынтық</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td>пластмасса</td>
-<td>1,5</td>
+<td colspan="2">529</td>
+<td colspan="21">Көкөніс тазалауға арналған пышақ</td>
+<td colspan="18">дана</td>
+<td colspan="33">2</td>
+<td colspan="25">-</td>
+<td colspan="6">1</td>
 </tr>
 <tr>
-<td>алюминий</td>
-<td>4</td>
+<td colspan="2">530</td>
+<td colspan="21">Нан турауға арналған пышақ</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td>174</td>
-<td>Шаруашылық пышағы</td>
-<td>1</td>
+<td colspan="2">531</td>
+<td colspan="21">Шапқы</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">5</td>
 </tr>
 <tr>
-<td>175</td>
-<td>Мұздатқыш ларь (шкаф)</td>
-<td>8</td>
-</tr>
-</table>
-
-9. Қазақстан Республикасының ұлттық қауіпсіздік органдарын техникалық құралдармен және асханалық жабдықпен жабдықтау нормалары
-
-<table>
-<tr>
-<td>№ р/б</td>
-<td>Атауы</td>
-<td>Өлшем бірлігі</td>
-<td>Кімге тиісті</td>
-<td>Саны</td>
+<td colspan="2">532</td>
+<td colspan="21">Су құятын мырышталған бак</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
-<td colspan="5">Тамақ дайындаудың далалық жабдығы</td>
+<td colspan="2">533</td>
+<td colspan="21">Қаңылтыр таба</td>
+<td colspan="18">дана</td>
+<td colspan="33">2</td>
+<td colspan="25">-</td>
+<td colspan="6">4</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Жылжымалы ас үй – асханалар, көп функциялы ас үйлер, жылжымалы асхана</td>
-<td>жиынтық</td>
-<td>Орталық аппаратқа (тамақтанушылардың саны ас үйдің техникалық сипаттамасына сәйкес)</td>
-<td>1</td>
+<td colspan="2">534</td>
+<td colspan="21">Металдан жасалған елеуіш</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td>2</td>
-<td>Тіркемелі ас үй, жылжымалы асхана</td>
-<td>жиынтық</td>
-<td>Орталық аппаратқа, аумақтық органдарға және ведомстволарға, (тамақтанушылардың саны ас үйдің техникалық сипаттамасына сәйкес)</td>
-<td>1</td>
+<td colspan="2">535</td>
+<td colspan="21">Металдан жасалған үккіш</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">3</td>
 </tr>
 <tr>
-<td>3</td>
-<td>Тасымалданатын ас үйлер (ас үй жиынтығы)</td>
-<td>дана</td>
-<td>Аумақтық органдарға және ведомстволарға, дислокацияланған жерлерінен басқа жақта әрдайым немесе уақытша жүрген топтарды қамтамасыз ету үшін, (тамақтанушылардың саны ас үйдің техникалық сипаттамасына сәйкес)</td>
-<td>1</td>
+<td colspan="2">536</td>
+<td colspan="21">Ет жаныштауға арналған балға</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">5</td>
 </tr>
 <tr>
-<td>4</td>
-<td>Тасымалданатын плиталар</td>
-<td>дана</td>
-<td>Орталық аппаратқа, аумақтық органдарға және ведомстволарға материалды-техникалық бөлімшелерін толықтыру үшін</td>
-<td>2</td>
+<td colspan="2">537</td>
+<td colspan="21">Аспаздық қалақша</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">4</td>
 </tr>
 <tr>
-<td>5</td>
-<td>ТВН-12 термостары</td>
-<td>дана</td>
-<td>
+<td colspan="2">538</td>
+<td colspan="21">Шағын таба</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">4</td>
+</tr>
+<tr>
+<td colspan="2">539</td>
+<td colspan="21">Консерві ашқыш</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td colspan="2">540</td>
+<td colspan="21">Азық-түлікті бөлшектеуге арналған тақтай</td>
+<td colspan="18">дана</td>
+<td colspan="33">2</td>
+<td colspan="25">-</td>
+<td colspan="6">2</td>
+</tr>
+<tr>
+<td colspan="2">541</td>
+<td colspan="21">Қазан жууға арналған щетка</td>
+<td colspan="18">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6">1</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3">542</td>
+<td colspan="21">ТВН-12 термосы</td>
+<td colspan="18" rowspan="3">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">3</td>
+<td colspan="6">5</td>
+</tr>
+<tr>
+<td colspan="21">немесе Т-15К термос-жәшігі</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="21">немесе дербес аралас ыдыс</td>
+<td colspan="33">-</td>
+<td colspan="25">1 адамға 1</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="105">3-кіші бөлім. Жабдық</td>
+</tr>
+<tr>
+<td colspan="2">543</td>
+<td colspan="22">Қолмен тартатын ет тартқыш</td>
+<td colspan="17">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">6</td>
+</tr>
+<tr>
+<td colspan="2">544</td>
+<td colspan="22">Электр су қайнатқыш</td>
+<td colspan="17">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6">8</td>
+</tr>
+<tr>
+<td colspan="2">545</td>
+<td colspan="22">4 конфорлы электр плита</td>
+<td colspan="17">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6">8</td>
+</tr>
+<tr>
+<td colspan="2">546</td>
+<td colspan="22">260 дм3 дейін тұрмыстық электр тоңазытқыш</td>
+<td colspan="17">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6">8</td>
+</tr>
+<tr>
+<td colspan="2">547</td>
+<td colspan="22">Үстелге қойылатын таразы</td>
+<td colspan="17">дана</td>
+<td colspan="33">2</td>
+<td colspan="25">1</td>
+<td colspan="6">5</td>
+</tr>
+<tr>
+<td colspan="2">548</td>
+<td colspan="22">Өндірістік үстел</td>
+<td colspan="17">дана</td>
+<td colspan="33">2</td>
+<td colspan="25">-</td>
+<td colspan="6">7</td>
+</tr>
+<tr>
+<td colspan="2">549</td>
+<td colspan="22">Ас үйлік ыдысты сақтауға арналған сөре</td>
+<td colspan="17">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">-</td>
+<td colspan="6">7</td>
+</tr>
+<tr>
+<td colspan="2">550</td>
+<td colspan="22">Асхана ыдысын сақтауға арналған сөре</td>
+<td colspan="17">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6">7</td>
+</tr>
+<tr>
+<td colspan="2">551</td>
+<td colspan="22">Ыдыс жууға арналған үш секциялы ванна</td>
+<td colspan="17">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6">7</td>
+</tr>
+<tr>
+<td colspan="2">552</td>
+<td colspan="22">4 орындығымен түскі асқа арналған үстел</td>
+<td colspan="17">дана</td>
+<td colspan="33">1</td>
+<td colspan="25">1</td>
+<td colspan="6">7</td>
+</tr>
+<tr>
+<td colspan="105">8-бөлім. Қазақстан Республикасының ұлттық қауіпсіздік органдарын техникалық құралдармен және асханалық жабдықпен жабдықтау нормалары</td>
+</tr>
+<tr>
+<td colspan="2">Р/с №</td>
+<td colspan="19">Атауы</td>
+<td colspan="12">Өлшем бірлігі</td>
+<td colspan="57">Кімге тиесілі</td>
+<td colspan="9">Саны</td>
+<td colspan="6">
+Пайдалану мерзімі
+(жылдармен)
+</td>
+</tr>
+<tr>
+<td colspan="105">1-кіші бөлім. Тамақ дайындаудың далалық жабдығы</td>
+</tr>
+<tr>
+<td colspan="10">553</td>
+<td colspan="11">Жылжымалы ас үй – асханалар, көп функциялы ас үйлер, жылжымалы асхана</td>
+<td colspan="12">жиынтық</td>
+<td colspan="57">Орталық аппаратқа (тамақтанушылардың саны ас үйдің техникалық сипаттамасына сәйкес)</td>
+<td colspan="13">1</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
+<td colspan="10">554</td>
+<td colspan="11">Тіркемелі ас үй, жылжымалы асхана</td>
+<td colspan="12">жиынтық</td>
+<td colspan="57">Орталық аппаратқа, аумақтық органдарға және ведомстволарға, (тамақтанушылардың саны ас үйдің техникалық сипаттамасына сәйкес)</td>
+<td colspan="13">1</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
+<td colspan="10">555</td>
+<td colspan="11">Тасымалданатын ас үйлер (ас үй жиынтығы)</td>
+<td colspan="12">дана</td>
+<td colspan="57">Аумақтық органдарға және ведомстволарға, дислокацияланған жерлерінен басқа жақта әрдайым немесе уақытша жүрген топтарды қамтамасыз ету үшін, (тамақтанушылардың саны ас үйдің техникалық сипаттамасына сәйкес)</td>
+<td colspan="13">1</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
+<td colspan="10">556</td>
+<td colspan="11">Тасымалданатын плиталар</td>
+<td colspan="12">дана</td>
+<td colspan="57">Орталық аппаратқа, аумақтық органдарға және ведомстволарға материалды-техникалық бөлімшелерін толықтыру үшін</td>
+<td colspan="13">2</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
+<td colspan="10">557</td>
+<td colspan="11">ТВН-12 термостары</td>
+<td colspan="12">дана</td>
+<td colspan="57">
 Орталық аппаратқа, аумақтық органдарға және ведомстволарға есептен:
 ас үйді жинақтау үшін:
 1) әр тіркемелі ас үйге
@@ -7100,52 +5815,65 @@ source: https://zan.gov.kz/client/#!/doc/116165/kaz/16.10.2017
 2) әр 75 адамға 500-ден 1000 адамға дейін
 3) әр 100 адамға 1000 адамнан жоғары
 </td>
-<td>
+<td colspan="13">
 6
 2
 1
 1
 1
 </td>
+<td colspan="2">5</td>
 </tr>
 <tr>
-<td>6</td>
-<td>ТН-36 термостары</td>
-<td>дана</td>
-<td>
+<td colspan="10">558</td>
+<td colspan="11">ТН-36 термостары</td>
+<td colspan="12">дана</td>
+<td colspan="57">
 Орталық аппаратқа, аумақтық органдарға және ведомстволарға термостардың саны жеке құрам санының есебінен анықталады:
 1) әр 100 адамға 500 адамға дейін
 2) әр 150 адамға 500-ден 1000 адамға дейін
 3) әр 200 адамға 1000 адамнан жоғары
 </td>
-<td>
+<td colspan="13">
 1
 1
 1
 </td>
+<td colspan="2">5</td>
 </tr>
 <tr>
-<td colspan="5">Азық-түлік пен суды жеткізу құралдары</td>
+<td colspan="105">2-кіші бөлім. Азық-түлік пен суды жеткізу құралдары</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Изотермикалық тіркемелі фургон, (рефрижератор) тіркемелі контейнер рефрижератор, контейнер-рефрижератор</td>
-<td>дана</td>
-<td>Штаттарында тез бұзылатын азықтарды жеткізудің басқа құралдары қарастырылмаған, адам саны 300-ге дейін және одан да көп бөлімшелерге</td>
-<td>1</td>
+<td colspan="10">559</td>
+<td colspan="11">Изотермикалық тіркемелі фургон, (рефрижератор) тіркемелі контейнер рефрижератор, контейнер-рефрижератор</td>
+<td colspan="12">дана</td>
+<td colspan="57">Штаттарында тез бұзылатын азықтарды жеткізудің басқа құралдары қарастырылмаған, адам саны 300-ге дейінгі және одан да көп бөлімшелерге</td>
+<td colspan="13">1</td>
+<td colspan="2">10</td>
 </tr>
 <tr>
-<td>8</td>
-<td>Суға арналған тіркемелі-цистерналар (жылу сақтайтын)</td>
-<td>дана</td>
-<td>Адам саны 300-ге дейін бөлімшелерге</td>
-<td>1</td>
+<td colspan="10">560</td>
+<td colspan="11">Суға арналған тіркемелі-цистерналар (жылу сақтайтын)</td>
+<td colspan="12">дана</td>
+<td colspan="57">Адам саны 300-ге дейінгі бөлімшелерге</td>
+<td colspan="13">1</td>
+<td colspan="2">10</td>
 </tr>
 <tr>
-<td>9</td>
-<td>Суға арналған тасымалы цистерналар</td>
-<td>дана</td>
-<td>Орталық аппаратқа, аумақтық органдарға және өзге де бөлімшелерге әр тіркемелі ас үйге арналған есептен</td>
-<td>1</td>
+<td colspan="10">561</td>
+<td colspan="11">Суға арналған тасымалы цистерналар</td>
+<td colspan="12">дана</td>
+<td colspan="57">Орталық аппаратқа, аумақтық органдарға және өзге де бөлімшелерге әр тіркемелі ас үйге арналған есептен</td>
+<td colspan="13">1</td>
+<td colspan="2">10</td>
 </tr>
 </table>
+
+Ескертпе:
+
+1. Орталық және өңірлік әскери госпитальдерді қамтамасыз ету кезінде жуу заттарымен қамтамасыз ету нормасы 1,5 есе артады.
+
+2. Осы норма бойынша сұйық жуу заттарының нормасы машинамен жуу кезінде 1 литр суға 1 грамм және қолмен жуу кезінде 1 литр суға 2,5 грамм шығыс нормасымен белгіленген. Басқа концентрациядағы жуу заттарын алған кезде оларды беру нормасы көрсетілген концентрацияға байланысты ұлғаяды немесе азаяды.
+
+3. Залалсыздандыру заттары немесе жуу-залалсыздандыру заттары қолдану бойынша нұсқаулыққа сәйкес пайдаланылады.
