@@ -11,11 +11,11 @@ approved_on: 2018-05-25
 approved_by:
 - '103035000000'
 version_date:
-  kaz: 2023-06-15
-  rus: 2023-06-15
+  kaz: 2024-01-01
+  rus: 2024-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/122619/kaz/15.06.2023
-  rus: https://zan.gov.kz/client/#!/doc/122619/rus/15.06.2023
+  kaz: https://zan.gov.kz/client/#!/doc/122619/kaz/01.01.2024
+  rus: https://zan.gov.kz/client/#!/doc/122619/rus/01.01.2024
 caused_by:
   code: '183080'
   requisite: Приказ Министра индустрии и инфраструктурного развития Республики Казахстан от 15 июня 2023 года № 447. Зарегистрирован в Министерстве юстиции Республики Казахстан 19 июня 2023 года № 32838
