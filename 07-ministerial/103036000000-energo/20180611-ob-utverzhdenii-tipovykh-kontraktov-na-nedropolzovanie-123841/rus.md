@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/123841/rus/24.01.2023
+source: https://zan.gov.kz/client/#!/doc/123841/rus/01.01.2024
 ---
 
 # Об утверждении типовых контрактов на недропользование
