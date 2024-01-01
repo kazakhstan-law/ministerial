@@ -1,5 +1,5 @@
 ---
-version_id: '137458_588708'
+version_id: '137458_674532'
 act_code: '137458'
 language: kaz
 title: Тұрмыс деңгейі статистикасы бойынша жалпымемлекеттік статистикалық байқаулардың статистикалық нысандары мен оларды толтыру жөніндегі нұсқаулықтарды бекіту туралы
@@ -10,22 +10,22 @@ type_codes:
 approved_by:
 - '103033003000'
 approval_date: 2019-12-19
-version_date: 2022-08-10
+version_date: 2024-01-01
 registry_number: '137458'
 caused_by:
-  code: '170523'
-  title: «Тұрмыс деңгейі статистикасы бойынша жалпымемлекеттік статистикалық байқаулардың статистикалық нысандары мен оларды толтыру жөніндегі нұсқаулықтарды бекіту туралы» Қазақстан Республикасы Ұлттық экономика министрлігі Статистика комитеті төрағасының 2019 жылғы 19 желтоқсандағы № 14 бұйрығына өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/170523/kaz
-source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
+  code: '183587'
+  title: «Тұрмыс деңгейі статистикасы бойынша жалпымемлекеттік статистикалық байқаулардың статистикалық нысандары мен оларды толтыру жөніндегі нұсқаулықтарды бекіту туралы» Қазақстан Республикасы Ұлттық экономика министрлігінің Статистика комитеті төрағасының 2019 жылғы 19 желтоқсандағы № 14 бұйрығына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/183587/kaz
+source: https://zan.gov.kz/client/#!/doc/137458/kaz/01.01.2024
 ---
 
 # Тұрмыс деңгейі статистикасы бойынша жалпымемлекеттік статистикалық байқаулардың статистикалық нысандары мен оларды толтыру жөніндегі нұсқаулықтарды бекіту туралы
 
 > *Ескерту. 01.01.2020 бастап қолданысқа енгізіледі – осы бұйрықтың 6-тармағымен.*
 
-«Мемлекеттік статистика туралы» Қазақстан Республикасы Заңының 12-бабы 8) тармақшасына және Қазақстан Республикасы Стратегиялық жоспарлау және реформалар агенттігі төрағасының 2020 жылғы 23 қазандағы № 9-нқ бұйрығымен бекітілген Қазақстан Республикасының Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы туралы ереженің 15-тармағы 22) тармақшасына сәйкес, БҰЙЫРАМЫН:
+Қазақстан Республикасы Президентінің 2020 жылғы 5 қазандағы № 427 Жарлығымен бекітілген Қазақстан Республикасының Стратегиялық жоспарлау және реформалар агенттігі туралы ереженің 15-тармағы 36) тармақшасына және Қазақстан Республикасы Стратегиялық жоспарлау және реформалар агенттігі төрағасының 2020 жылғы 23 қазандағы № 9-нқ бұйрығымен бекітілген Қазақстан Республикасы Стратегиялық жоспарлау және реформалар агенттігінің Ұлттық статистика бюросы туралы ереженің 15-тармағы 22) тармақшасына сәйкес БҰЙЫРАМЫН:
 
-> *Ескерту. Кіріспе жаңа редакцияда - ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының 29.10.2021 № 26 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 10.08.2022 № 13 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. Кіріспе жаңа редакцияда - ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының 29.10.2021 № 26 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 10.08.2022 № 13 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының м.а. 29.06.2023 № 3 (01.01.2024 бастап қолданысқа енгізіледі) бұйрықтарымен.*
 
 1. Мыналар:
 
@@ -79,501 +79,2561 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 
 **Н. Айдапкелов**
 
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының м.а. 29.06.2023 № 3 (01.01.2024 бастап қолданысқа енгізіледі) бұйрығымен.*
+
 <table>
 <tr>
-<td colspan="2">
+<td rowspan="3">
 <em>[Image]</em>
 </td>
-<td colspan="9">
-Мемлекеттік статистика органдары құпиялылығына кепілдік береді
-Жалпымемлекеттік статистикалық байқаудың статистикалық нысаны
-</td>
-<td colspan="31">
-Қазақстан Республикасы
-Ұлттық экономика министрлігінің
-Статистика комитеті төрағасының
-2019 жылғы «___» _________
-№ __ бұйрығына 1-қосымша
+<td>Мемлекеттік статистика органдары құпиялылығына кепілдік береді</td>
+<td rowspan="2">
+Қазақстан Республикасы Ұлттық экономика министрлігі Статистика комитеті төрағасының
+2019 жылғы 19 желтоқсандағы
+№14 бұйрығына 1-қосымша
 </td>
 </tr>
 <tr>
-<td colspan="42"></td>
+<td rowspan="2">Жалпымемлекеттік статистикалық байқаудың статистикалық нысаны</td>
 </tr>
 <tr>
-<td colspan="42">Уақытты қолдану күнделігі</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td colspan="2">Индексі</td>
-<td>D 001</td>
-<td colspan="5">бес жылда бір рет</td>
-<td colspan="11">есепті кезең</td>
-<td colspan="14">
-<em>[Image]</em>
-</td>
-<td colspan="9">жыл</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td colspan="42">Сауал салуға 10 және одан жоғары жастағы адамдар қатысады</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td colspan="42">Ұсыну мерзімі – есепті жылдың 10 сәуіріне (қоса алғанда) дейін</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td>1.</td>
-<td colspan="11">Аумақтың (елді мекеннің) атауы</td>
-<td colspan="30">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td>2.</td>
-<td colspan="8">ӘАОЖ бойынша елді мекеннің коды1</td>
-<td colspan="33">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td>3.</td>
-<td colspan="11">Елді мекен типінің коды (1 - қала, 2 - ауыл)</td>
-<td colspan="30">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td>4.</td>
-<td colspan="4">Үй шаруашылығының коды</td>
-<td colspan="37">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td>5.</td>
-<td colspan="10">Үй шаруашылығы мүшесінің реттік нөмірі</td>
-<td colspan="30">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td>6.</td>
-<td colspan="3">Интервьюер коды</td>
-<td colspan="38">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td>7.</td>
-<td colspan="10">Жұмыс күнгі сұхбат жүргізу күні</td>
-<td colspan="7">күні</td>
-<td colspan="6"></td>
-<td colspan="4">
-<em>[Image]</em>
-</td>
-<td colspan="10">айы</td>
-<td colspan="2">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="42"></td>
-</tr>
-<tr>
-<td>8.</td>
-<td colspan="10">Демалыс күнгі сұхбат жүргізу күні</td>
-<td colspan="7">күні</td>
-<td colspan="6"></td>
-<td colspan="4">
-<em>[Image]</em>
-</td>
-<td colspan="10">айы</td>
-<td colspan="3">
-<em>[Image]</em>
-</td>
+<td></td>
 </tr>
 </table>
 
-Ескертпе:
+D 001
 
-1ӘАОЖ – ҚР ҰЖ 11-2009 Әкімшілік-аумақтық объектілер жіктеуіші
+Біржолғы
+
+Ұсыну мерзімі – есепті кезеңнен кейінгі жылдың 10 қаңтары
+
+## Уақытты пайдалану күнделігі (10 және одан жоғары жастағы адамдар үшін)
+
+Есеп беру кезеңі жыл
+
+1. Аумақтың (елді мекеннің) атауы ___________________________________________________________
+
+2. ӘАОЖ1 бойынша елді мекеннің коды
+
+3. Елді мекен типінің коды (1-қала, 2-ауыл)
+
+4. Үй шаруашылығының коды
+
+5. Үй шаруашылығы мүшесінің реттік нөмірі
+
+6. Интервьюер коды
+
+Жұмыс күнгі сұхбат жүргізу күні күні айы
+
+Демалыс күнгі сұхбат жүргізу күні күні айы
+
+Ескерту:
+
+1 ӘАОЖ - Әкімшілік-аумақтық объектілер жіктеуіші ҚР ҰЖ 11-2009
 
 <table>
 <tr>
-<td colspan="15">Біздің әрқайсысымыз өз уақытымызды әртүрлі өткіземіз. Ал Сіз өз уақытыңызды қалай өткізесіз?</td>
-<td colspan="11">Құрметті респондент, Сіз қай жерде болсаңыз да, бұл күнделікті өзіңізбен бірге ұстап жүруге тырысыңыз. Өз іс-әрекеттеріңізді уақытты көрсете отырып (сағаттар/минуттар) аяқтаған кезде немесе басталмас бұрын жазып отыруыңызды өтінеміз!</td>
+<td colspan="30">Біздің әрқайсысымыз өз уақытымызды әртүрлі өткіземіз. Ал Сіз өз уақытыңызды қалай өткізесіз?</td>
+<td colspan="18">Құрметті респондент, Сіз қай жерде болсаңыз да, бұл күнделікті өзіңізбен бірге ұстап жүруге тырысыңыз. Өз іс-әрекеттеріңізді уақытты көрсете отырып (сағаттар/минуттар) аяқтаған кезде немесе басталмас бұрын жазып отыруыңызды өтінеміз!</td>
 </tr>
 <tr>
-<td colspan="26">Аптаның жұмыс күні ______________ күнделіктің 1-ші беті</td>
+<td colspan="43">
+<table>
+<tr>
+<th colspan="25">Аптаның жұмыс күні</th>
+<th colspan="25">Күнделіктің 1-ші беті</th>
+</tr>
+</table>
+</td>
 </tr>
 <tr>
 <td rowspan="2">Уақыт</td>
-<td colspan="7">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="7">2. Дәл осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="12">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="16">2. Дәл осы уақытта Сіз тағы немен айналыстыңыз?</td>
 <td colspan="5">3. Сіз қайда болдыңыз?</td>
-<td colspan="6">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+<td colspan="9">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td colspan="4">Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="8">Кәсіптер түрінің коды2</td>
+<td colspan="3">Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="13">Кәсіптер түрінің коды2</td>
+<td colspan="2">Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="3">Іс-әрекет орны-ның коды2</td>
+<td>Жалғыз</td>
+<td colspan="3">Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td colspan="2">Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>07.00-07.10</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>07.10-07.20</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>07.20-07.30</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>07.30-07.40</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>07.40-07.50</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>07.50-08.00</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>08.00-08.10</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>08.10-08.20</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>08.20-08.30</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>08.30-08.40</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>08.40-08.50</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>08.50-09.00</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09.00-09.10</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09.10-09.20</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09.20-09.30</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09.30-09.40</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09.40-09.50</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09.50-10.00</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="14">
+Ескерту:
+2 Осы жерде және бұдан әрі интервьюер толтырады
+</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="43">
+<table>
+<tr>
+<th>Аптаның жұмыс күні</th>
+<th>Күнделіктің 2-ші беті</th>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Уақыт</td>
+<td colspan="10">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="18">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="5">3. Сіз қайда болдыңыз?</td>
+<td colspan="9">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
 </tr>
 <tr>
 <td colspan="2">Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="5">Кәсіптер түрінің коды2</td>
-<td colspan="2">Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
-<td colspan="5">Кәсіптер түрінің коды2</td>
+<td colspan="8">Кәсіптер түрінің коды2</td>
+<td colspan="4">Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="14">Кәсіптер түрінің коды2</td>
 <td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="4">Іс-әрекет орнының коды2</td>
-<td colspan="2">жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td colspan="2">
-басқа да таныс
-адамдармен
+<td colspan="4">Іс-әрекет орны-ның коды2</td>
+<td>Жалғыз</td>
+<td colspan="3">Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td colspan="2">Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>10.00-10.10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>10.10-10.20</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>10.20-10.30</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>10.30-10.40</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>10.40-10.50</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>10.50-11.00</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>11.00-11.10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>11.10-11.20</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>11.20-11.30</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>11.30-11.40</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>11.40-11.50</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>11.50-12.00</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>12.00-12.10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>12.10-12.20</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>12.20-12.30</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>12.30-12.40</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>12.40-12.50</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>12.50-13.00</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>13.00-13.10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>13.10-13.20</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>13.20-13.30</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>13.30-13.40</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="42">
+<table>
+<tr>
+<th>Аптаның жұмыс күні</th>
+<th>Күнделіктің 3-ші беті</th>
+</tr>
+</table>
 </td>
 </tr>
 <tr>
-<td>07.00-07.10</td>
+<td colspan="2" rowspan="2">Уақыт</td>
+<td colspan="9">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="17">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="6">3. Сіз қайда болдыңыз?</td>
+<td colspan="8">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td colspan="2">Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="7">Кәсіптер түрінің коды2</td>
+<td colspan="6">Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="11">Кәсіптер түрінің коды2</td>
+<td colspan="2">Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="4">Іс-әрекет орны-ның коды2</td>
+<td colspan="3">Жалғыз</td>
+<td>Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td colspan="3">Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td colspan="2">13.40-13.50</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">13.50-14.00</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">14.00-14.10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">14.10-14.20</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">14.20-14.30</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">14.30-14.40</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">14.40-14.50</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">14.50-15.00</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">15.00-15.10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">15.10-15.20</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">15.20-15.30</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">15.30-15.40</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">15.40-15.50</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">15.50-16.00</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">16.00-16.10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">16.10-16.20</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">16.20-16.30</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">16.30-16.40</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">16.40-16.50</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">16.50-17.00</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">17.00-17.10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="2">17.10-17.20</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="17">
+<table>
+<tr>
+<th>Аптаның жұмыс күні</th>
+<th>Күнделіктің 4-ші беті</th>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Уақыт</td>
+<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="3">3. Сіз қайда болдыңыз?</td>
+<td colspan="5">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="2">Іс-әрекет орны-ның коды2</td>
+<td>Жалғыз</td>
+<td>Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td>Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>17.20-17.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17.30-17.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17.40-17.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>17.50-18.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>18.00-18.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>18.10-18.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>18.20-18.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>18.30-18.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>18.40-18.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>18.50-19.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>19.00-19.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>19.10-19.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>19.20-19.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>19.30-19.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>19.40-19.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>19.50-20.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>20.00-20.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>20.10-20.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>20.20-20.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>20.30-20.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>20.40-20.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>20.50-21.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="17">
+<table>
+<tr>
+<td>Аптаның жұмыс күні</td>
+<td>Күнделіктің 5-ші беті</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Уақыт</td>
+<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="4">3. Сіз қайда болдыңыз?</td>
+<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td colspan="2">Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="2">Іс-әрекет орны-ның коды2</td>
+<td>Жалғыз</td>
+<td>Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td colspan="2">Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>21.00-21.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td>21.10-21.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td>21.20-21.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>21.30-21.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>21.40-21.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>21.50-22.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.00-22.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.10-22.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.20-22.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.30-22.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.40-22.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.50-23.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.00-23.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.10-23.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.20-23.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.30-23.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.40-23.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.50-00.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>00.00-00.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>00.10-00.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>00.20-00.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>00.30-00.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="21">
+<table>
+<tr>
+<td>Аптаның жұмыс күні</td>
+<td>Күнделіктің 6-ші беті</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Уақыт</td>
+<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="5">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="4">3. Сіз қайда болдыңыз?</td>
+<td colspan="7">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="4">Кәсіптер түрінің коды2</td>
+<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="3">Іс-әрекет орны-ның коды2</td>
+<td>Жалғыз</td>
+<td colspan="2">Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td colspan="3">Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>00.40-00.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>00.50-01.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>01.00-01.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>07.10-07.20</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>01.10-01.20</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>07.20-07.30</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>07.30-07.40</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>01.20-01.30</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>07.40-07.50</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>07.50-08.00</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>01.30-01.40</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>08.00-08.10</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>08.10-08.20</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>01.40-01.50</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>08.20-08.30</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>08.30-08.40</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>01.50-02.00</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>08.40-08.50</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>08.50-09.00</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>02.00-02.10</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>09.00-09.10</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>09.10-09.20</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>02.10-02.20</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>09.20-09.30</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>09.30-09.40</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>02.20-02.30</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>09.40-09.50</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>09.50-10.00</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>02.30-02.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td>02.40-02.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td>02.50-03.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>03.00-03.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>03.10-03.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>03.20-03.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>03.30-03.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>03.40-03.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>03.50-04.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>04.00-04.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>04.10-04.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -581,1788 +2641,2495 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 </tr>
 </table>
 
-Ескертпе:
-
-2 осы жерде және бұдан әрі интервьюермен толтырылады
-
 <table>
 <tr>
-<td colspan="26">Аптаның жұмыс күні ______________ күнделіктің 2-ші беті</td>
+<td colspan="16">
+<table>
+<tr>
+<td>Аптаның жұмыс күні</td>
+<td>Күнделіктің 7-ші беті</td>
+</tr>
+</table>
+</td>
 </tr>
 <tr>
 <td rowspan="2">Уақыт</td>
-<td colspan="7">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="7">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="3">3. Сіз қайда болдыңыз?</td>
+<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="2">Іс-әрекет орны-ның коды2</td>
+<td>Жалғыз</td>
+<td>Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td>Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>04.20-04.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>04.30-04.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>04.40-04.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>04.50-05.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>05.00-05.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>05.10-05.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>05.20-05.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>05.30-05.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>05.40-05.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>05.50-06.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>06.00-06.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>06.10-06.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>06.20-06.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>06.30-06.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>06.40-06.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>06.50-07.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="17">
+<table>
+<tr>
+<td>Аптаның жұмыс күні</td>
+<td>Күнделіктің 8-ші беті</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Уақыт</td>
+<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="3">3. Сіз қайда болдыңыз?</td>
+<td colspan="5">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="2">Іс-әрекет орны-ның коды2</td>
+<td colspan="2">Жалғыз</td>
+<td>Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td>Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>07.00-07.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>07.10-07.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>07.20-07.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>07.30-07.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>07.40-07.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>07.50-08.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.00-08.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.10-08.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.20-08.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.30-08.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.40-08.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.50-09.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.00-09.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.10-09.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.20-09.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.30-09.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.40-09.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.50-10.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10.00-10.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10.10-10.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10.20-10.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>10.30-10.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="19">
+<table>
+<tr>
+<td>Аптаның жұмыс күні</td>
+<td>Күнделіктің 9-ші беті</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Уақыт</td>
+<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="5">3. Сіз қайда болдыңыз?</td>
+<td colspan="5">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td colspan="2">Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="3">Іс-әрекет орны-ның коды2</td>
+<td>Жалғыз</td>
+<td colspan="2">Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td>Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>10.40-10.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10.50-11.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11.00-11.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11.10-11.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11.20-11.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11.30-11.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11.40-11.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11.50-12.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12.00-12.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12.10-12.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12.20-12.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12.30-12.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12.40-12.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12.50-13.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13.00-13.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13.10-13.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13.20-13.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13.30-13.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13.40-13.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13.50-14.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14.00-14.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14.10-14.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="25">
+<table>
+<tr>
+<td>Аптаның жұмыс күні</td>
+<td>Күнделіктің 10-ші беті</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Уақыт</td>
+<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="5">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
 <td colspan="5">3. Сіз қайда болдыңыз?</td>
 <td colspan="6">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
 </tr>
 <tr>
 <td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="6">Кәсіптер түрінің коды2</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="4">Кәсіптер түрінің коды2</td>
+<td colspan="2">Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="3">Іс-әрекет орны-ның коды2</td>
+<td colspan="2">Жалғыз</td>
+<td colspan="2">Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td>Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>14.20-14.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14.30-14.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14.40-14.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14.50-15.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15.00-15.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15.10-15.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15.20-15.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15.30-15.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15.40-15.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15.50-16.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16.00-16.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16.10-16.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16.20-16.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16.30-16.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16.40-16.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16.50-17.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17.00-17.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17.10-17.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17.20-17.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17.30-17.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17.40-17.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17.50-18.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="16">
+<table>
+<tr>
+<td>Аптаның жұмыс күні</td>
+<td>Күнделіктің 11-ші беті</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Уақыт</td>
+<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="3">3. Сіз қайда болдыңыз?</td>
+<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="2">Іс-әрекет орны-ның коды2</td>
+<td>Жалғыз</td>
+<td>Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td>Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>18.00-18.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18.10-18.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18.20-18.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18.30-18.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18.40-18.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18.50-19.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19.00-19.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19.10-19.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19.20-19.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19.30-19.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19.40-19.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19.50-20.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20.00-20.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20.10-20.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20.20-20.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20.30-20.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20.40-20.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20.50-21.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21.00-21.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21.10-21.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21.20-21.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21.30-21.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="19">
+<table>
+<tr>
+<td>Аптаның жұмыс күні</td>
+<td>Күнделіктің 12-ші беті</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Уақыт</td>
+<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="4">3. Сіз қайда болдыңыз?</td>
+<td colspan="6">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
+<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="3">Іс-әрекет орны-ның коды2</td>
+<td colspan="2">Жалғыз</td>
+<td>Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td colspan="2">Басқа да таныс адам-дармен</td>
+</tr>
+<tr>
+<td>21.40-21.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>21.50-22.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.00-22.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.10-22.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.20-22.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.30-22.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.40-22.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>22.50-23.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.00-23.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.10-23.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.20-23.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.30-23.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.40-23.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>23.50-00.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>00.00-00.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>00.10-00.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>00.20-00.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>00.30-00.40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>00.40-00.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>00.50-01.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>01.00-01.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>01.10-01.20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="21">
+<table>
+<tr>
+<td>Аптаның демалыс күні</td>
+<td>күнделіктің 13-ші беті</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Уақыт</td>
+<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
+<td colspan="7">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
+<td colspan="4">3. Сіз қайда болдыңыз?</td>
+<td colspan="5">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
+</tr>
+<tr>
+<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
+<td colspan="3">Кәсіптер түрінің коды2</td>
 <td colspan="2">Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
 <td colspan="5">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="4">Іс-әрекет орнының коды2</td>
-<td colspan="2">жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td colspan="2">басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>10.00-10.10</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>10.10-10.20</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>10.20-10.30</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>10.30-10.40</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>10.40-10.50</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>10.50-11.00</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>11.00-11.10</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>11.10-11.20</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>11.20-11.30</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>11.30-11.40</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>11.40-11.50</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>11.50-12.00</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>12.00-12.10</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>12.10-12.20</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>12.20-12.30</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>12.30-12.40</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>12.40-12.50</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>12.50-13.00</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>13.00-13.10</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>13.10-13.20</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>13.20-13.30</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>13.30-13.40</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Аптаның жұмыс күні ______________ күнделіктің 3-ші беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>13.40-13.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.50-14.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.00-14.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.10-14.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.20-14.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.30-14.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.40-14.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.50-15.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.00-15.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.10-15.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.20-15.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.30-15.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.40-15.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.50-16.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.00-16.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.10-16.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.20-16.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.30-16.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.40-16.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.50-17.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.00-17.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.10-17.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Аптаның жұмыс күні ______________ күнделіктің 4-ші беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>17.20-17.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.30-17.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.40-17.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.50-18.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.00-18.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.10-18.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.20-18.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.30-18.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.40-18.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.50-19.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.00-19.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.10-19.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.20-19.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.30-19.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.40-19.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.50-20.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.00-20.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.10-20.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.20-20.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.30-20.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.40-20.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.50-21.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Аптаның жұмыс күні ______________ күнделіктің 5-ші беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>21.00-21.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21.10-21.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21.20-21.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21.30-21.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21.40-21.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21.50-22.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.00-22.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.10-22.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.20-22.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.30-22.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.40-22.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.50-23.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.00-23.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.10-23.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.20-23.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.30-23.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.40-23.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.50-00.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.00-00.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.10-00.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.20-00.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.30-00.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Аптаның жұмыс күні ______________ күнделіктің 6-шы беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>00.40-00.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.50-01.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>01.00-01.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>01.10-01.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
+<td colspan="2">Іс-әрекет орны-ның коды2</td>
+<td>Жалғыз</td>
+<td>Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td>Басқа да таныс адам-дармен</td>
 </tr>
 <tr>
 <td>01.20-01.30</td>
@@ -2370,17 +5137,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>01.30-01.40</td>
@@ -2388,17 +5155,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>01.40-01.50</td>
@@ -2406,17 +5173,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>01.50-02.00</td>
@@ -2424,17 +5191,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>02.00-02.10</td>
@@ -2442,17 +5209,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>02.10-02.20</td>
@@ -2460,17 +5227,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>02.20-02.30</td>
@@ -2478,17 +5245,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>02.30-02.40</td>
@@ -2496,17 +5263,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>02.40-02.50</td>
@@ -2514,17 +5281,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>02.50-03.00</td>
@@ -2532,17 +5299,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>03.00-03.10</td>
@@ -2550,17 +5317,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>03.10-03.20</td>
@@ -2568,17 +5335,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>03.20-03.30</td>
@@ -2586,17 +5353,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>03.30-03.40</td>
@@ -2604,17 +5371,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>03.40-03.50</td>
@@ -2622,17 +5389,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>03.50-04.00</td>
@@ -2640,17 +5407,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>04.00-04.10</td>
@@ -2658,17 +5425,17 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>04.10-04.20</td>
@@ -2676,23 +5443,102 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>04.20-04.30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>04.30-04.40</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>04.40-04.50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>04.50-05.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="16">Аптаның жұмыс күні ______________ күнделіктің 7-ші беті</td>
+<td colspan="16">
+<table>
+<tr>
+<td>Аптаның демалыс күні</td>
+<td>Күнделіктің 14-ші беті</td>
+</tr>
+</table>
+</td>
 </tr>
 <tr>
 <td rowspan="2">Уақыт</td>
@@ -2707,83 +5553,11 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 <td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
 <td colspan="3">Кәсіптер түрінің коды2</td>
 <td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>04.20-04.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>04.30-04.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>04.40-04.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>04.50-05.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">Іс-әрекет орны-ның коды2</td>
+<td>Жалғыз</td>
+<td>Сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
+<td>Сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
+<td>Басқа да таныс адам-дармен</td>
 </tr>
 <tr>
 <td>05.00-05.10</td>
@@ -3003,2811 +5777,41 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 </tr>
 </table>
 
-<table>
-<tr>
-<td colspan="16">Аптаның демалыс күні ____________ күнделіктің 8-ші беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>07.00-07.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>07.10-07.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>07.20-07.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>07.30-07.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>07.40-07.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>07.50-08.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>08.00-08.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>08.10-08.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>08.20-08.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>08.30-08.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>08.40-08.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>08.50-09.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>09.00-09.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>09.10-09.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>09.20-09.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>09.30-09.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>09.40-09.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>09.50-10.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10.00-10.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10.10-10.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10.20-10.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10.30-10.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
+## Статистикалық нысанды толтыруға жұмсалған уақытты сағатпен көрсетіңіз (қажеттісін қоршаңыз)
 
 <table>
 <tr>
-<td colspan="16">Аптаның демалыс күні ____________ күнделіктің 9-шы беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>10.40-10.50</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10.50-11.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11.00-11.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11.10-11.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11.20-11.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11.30-11.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11.40-11.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11.50-12.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.00-12.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.10-12.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.20-12.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.30-12.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.40-12.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12.50-13.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.00-13.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.10-13.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.20-13.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.30-13.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.40-13.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.50-14.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.00-14.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.10-14.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Аптаның демалыс күні ____________ күнделіктің 10-шы беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>14.20-14.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.30-14.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.40-14.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.50-15.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.00-15.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.10-15.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.20-15.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.30-15.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.40-15.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.50-16.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.00-16.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.10-16.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.20-16.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.30-16.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.40-16.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.50-17.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.00-17.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.10-17.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.20-17.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.30-17.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.40-17.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.50-18.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Аптаның демалыс күні ____________ күнделіктің 11-ші беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>18.00-18.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.10-18.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.20-18.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.30-18.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.40-18.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18.50-19.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.00-19.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.10-19.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.20-19.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.30-19.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.40-19.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.50-20.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.00-20.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.10-20.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.20-20.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.30-20.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.40-20.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20.50-21.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21.00-21.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21.10-21.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21.20-21.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21.30-21.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Аптаның демалыс күні ____________ күнделіктің 12-ші беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Сіз қатар айналысқан іс-әрекеттерді көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>21.40-21.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>21.50-22.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.00-22.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.10-22.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.20-22.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.30-22.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.40-22.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>22.50-23.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.00-23.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.10-23.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.20-23.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.30-23.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.40-23.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>23.50-00.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.00-00.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.10-00.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.20-00.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.30-00.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.40-00.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>00.50-01.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>01.00-01.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>01.10-01.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Аптаның демалыс күні ____________ күнделіктің 13-ші беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>
-Сіз қатар айналысқан
-іс-әрекеттерді көрсетіңіз
-</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>01.20-01.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>01.30-01.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>01.40-01.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>01.50-02.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>02.00-02.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>02.10-02.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>02.20-02.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>02.30-02.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>02.40-02.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>02.50-03.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>03.00-03.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>03.10-03.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>03.20-03.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>03.30-03.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>03.40-03.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>03.50-04.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>04.00-04.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>04.10-04.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>04.20-04.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>04.30-04.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>04.40-04.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>04.50-05.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Аптаның демалыс күні ____________ күнделіктің 14-ші беті</td>
-</tr>
-<tr>
-<td rowspan="2">Уақыт</td>
-<td colspan="4">1. Осы күні Сіз немен айналыстыңыз?</td>
-<td colspan="4">2. Осы уақытта Сіз тағы немен айналыстыңыз?</td>
-<td colspan="3">3. Сіз қайда болдыңыз?</td>
-<td colspan="4">4. Бұл уақытта Сіз жалғыз болдыңыз ба, әлде өзіңіз танитын біреумен болдыңыз ба?</td>
-</tr>
-<tr>
-<td>Сіз қызметпен бірнеше минут қана айналыссаңыз да, оның барлық түрлерін көрсетіңіз</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>
-Сіз қатар айналысқан
-іс-әрекеттерді көрсетіңіз
-</td>
-<td colspan="3">Кәсіптер түрінің коды2</td>
-<td>Іс-әрекеттің орнын көрсетіңіз, мысалы, үйде, достарыңызда, автобуста және тағы сол сияқты</td>
-<td colspan="2">Іс-әрекет орнының коды2</td>
-<td>жалғыз</td>
-<td>сіздің үй шаруашы-лығыңызда тұратын 10 жасқа дейінгі балалармен</td>
-<td>сіздің үй шаруа-шылығы-ңыздың басқа да мүшелері-мен</td>
-<td>басқа да таныс адамдармен</td>
-</tr>
-<tr>
-<td>05.00-05.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>05.10-05.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>05.20-05.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>05.30-05.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>05.40-05.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>05.50-06.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>06.00-06.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>06.10-06.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>06.20-06.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>06.30-06.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>06.40-06.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>06.50-07.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-## СТАТИСТИКАЛЫҚ НЫСАНДЫ ТОЛТЫРУҒА ЖҰМСАЛҒАН УАҚЫТТЫ КӨРСЕТІҢІЗ, САҒАТПЕН (ҚАЖЕТТІСІН ҚОРШАҢЫЗ)
-
-<table>
-<tr>
-<td>1 сағатқа дейiн</td>
+<td>1 сағатқа дейін</td>
 <td>1-2</td>
 <td>2-4</td>
 <td>4-8</td>
 <td>8-40</td>
 <td>40 сағаттан артық</td>
+<td></td>
 </tr>
 </table>
 
-## Сізге ынтымақтастығыңыз үшін алғыс білдіреміз!
-
 > *Қазақстан Республикасы*  
-> *Ұлттық экономика министрлігінің*  
+> *Ұлттық экономика министрлігі*  
 > *Статистика комитеті төрағасының*  
-> *2019 жылғы «___»____________*  
-> *№___бұйрығына 2-қосымша*
+> *2019 жылғы 19 желтоқсандағы*  
+> *№14 бұйрығына*  
+> *2-қосымша*
 
-## «Уақытты қолдану күнделігі» (индексі D 001, кезеңділігі бес жылда бір рет) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыру жөніндегі нұсқаулық
+## «Уақытты пайдалану күнделігі» жалпымемлекеттік статистикалық байқаудың статистикалық нысанын (индексі D 001, кезеңділігі біржолғы) толтыру бойынша нұсқаулық
 
-1. Осы «Уақытты қолдану күнделігі» (индексі D 001, кезеңділігі бес жылда бір рет) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыру жөніндегі нұсқаулық (бұдан әрі – Нұсқаулық) «Мемлекеттік статистика туралы» Қазақстан Республикасының 2010 жылғы 19 наурыздағы Заңының (бұдан әрі – Заң) 12-бабы 8) тармақшасына сәйкес әзірленді және «Уақытты қолдану күнделігі» (индексі D 001, кезеңділігі бес жылда бір рет) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын (бұдан әрі – Күнделік) толтыруды нақтылайды.
+> *Ескерту. 2-қосымша жаңа редакцияда - ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының м.а. 29.06.2023 № 3 (01.01.2024 бастап қолданысқа енгізіледі) бұйрығымен.*
 
-2. Осы Нұсқаулықта Заңда айқындалған мәндердегі ұғымдар, сондай-ақ мынадай анықтама пайдаланылады:
+1. Осы нұсқаулық «Уақытты пайдалану күнделігі» (индексі D 001, кезеңділігі біржолғы) (бұдан әрі - Күнделік) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыруды нақтылайды.
 
-   супервайзер – үй шаруашылықтарына зерттеу жүргізуді қамтамасыз ететін және интервьюерлердің жұмысына бақылауды жүзеге асыратын аумақтық статистика органының қызметкері.
+2. Осы Нұсқаулықта, келесі анықтамалар қолданылады:
+
+   супервайзер - үй шаруашылықтарына зерттеу жүргізуді қамтамасыз ететін және интервьюерлердің жұмысына бақылауды жүзеге асыратын аумақтық статистика органының қызметкері.
 
 3. Күнделікті 10 және одан жоғары жастағы үй шаруашылығы мүшелері толтырады. Күнделікті толтыру интервьюердің ұсынымдарына және төменде келтірілген әдіснамалық түсініктемелерге сәйкес жүргізіледі.
 
-   Күнделік 2 күн бойы жүргізіледі: аптаның жұмыс күні (дүйсенбі-жұма) және демалыс күні (сенбі және жексенбі). Күнделікті жүргізудің нақты күндерін Үй шаруашылықтарына бару сызбасына сәйкес интервьюер анықтайды және титулдық бетте көрсетіледі. Күнделіктің әрбір бетінде аптаның күні көрсетілуі қажет (дүйсенбі, сейсенбі және тағы сол секілді).
+   Бақылау кезеңі 2024 жылғы қаңтар-желтоқсан болып табылады. Күнделік 2 күн бойы жүргізіледі: жұмыс күні (дүйсенбі – жұма) және демалыс күні (сенбі және жексенбі). Күнделікті жүргізудің нақты күндерін Интервьюерлердің тұрмыс деңгейі бойынша үй шаруашылықтарын іріктемелі зерттеу бойынша жалпымемлекеттік статистикалық байқауларды жүргізу графигіне сәйкес интервьюер анықтайды және титулдық бетте көрсетіледі. Күнделіктің әрбір бетінде аптаның күні көрсетілуі қажет (дүйсенбі, сейсенбі және тағы сол секілді).
 
    Күнделік үй шаруашылықтары мүшелері іс-әрекеттерінің 24 сағат ішінде әртүрлі қызмет түрлерімен айналысқандары туралы жазба жүргізу, басталуы мен аяқталуын белгілеу үшін қызмет атқарады.
 
@@ -5817,7 +5821,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 
    Үй шаруашылығы мүшесінің нөмірі үй шаруашылығы мүшесінің нөмірлеуін сақтай отырып, «Үй шаруашылығы құрамының бақылау карточкасы» (индексі D 008, кезеңділігі жылдық (тоқсан сайынғы нақтылаумен)) жалпымемлекеттік статистикалық байқаудың статистикалық нысанынан қойылады. Үй шаруашылығына уақытша тұруға келген адамдар сауал салуға қосылмайды.
 
-   Күнделікте тәуліктік уақыттың 24 сағаты 10 минуттан 144 интервалға бөлінген және іс-әрекеттің басталуы мен аяқталуының нақты уақыты көрсетіледі.
+   Күнделікте тәуліктік уақыттың 24 сағаты 10 минуттан 144 интервалға бөлінген, мұнда іс-әрекеттің басталуы мен аяқталуының нақты уақыты көрсетіледі.
 
 5. Күнделік келесі сұрақтардан тұрады:
 
@@ -5829,7 +5833,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/kaz/10.08.2022
 
    4) Сіз жалғыз әлде таныс біреумен болдыңыз ба? Егер респондент белгіленген уақытта жалғыз немесе 10 жасқа дейінгі балалармен немесе достардың, әріптестердің, туыстардың біреуімен болса, онда ол тиісті бағанда көрсетіледі.
 
-      Кәсіптердің түрлерін және іс-әрекеттердің орындарын кодтауды интервьюер жүзеге асырады.
+   Кәсіптердің түрлерін және іс-әрекеттердің орындарын кодтауды интервьюер жүзеге асырады.
 
 > *Қазақстан Республикасы Ұлттық*  
 > *экономика министрлігінің*  
@@ -23493,123 +23497,65 @@ ________________
 
     Сауал салуды аяқтаған соң, интервьюер сауал салу барысында қандай да бір бөлімдер немесе сұрақтар қалып кетпегендігіне көз жеткізу үшін статистикалық нысанды тағы да бір рет қарап шығады және респонденттерге ынтымақтастығы және көмегі үшін алғыс білдіреді.
 
-> *Ескерту. 13-қосымша жаңа редакцияда - ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының 29.10.2021 № 26 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. 13-қосымша жаңа редакцияда - ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының 29.10.2021 № 26 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының м.а. 29.06.2023 № 3 (01.01.2024 бастап қолданысқа енгізіледі) бұйрықтарымен.*
 
 <table>
 <tr>
-<td></td>
 <td>
-Мемлекеттік статистика органдары
-құпиялылығына кепілдік береді
-Жалпымемлекеттік статистикалық
-байқаудың статистикалық нысаны
+<em>[Image]</em>
 </td>
-<td>
-<pre>
+<td rowspan="2">
+Мемлекеттік статистика органдары құпиялылығына кепілдік береді
+Жалпымемлекеттік статистикалық байқаудың статистикалық нысаны
+</td>
+<td rowspan="2">
 Қазақстан Республикасы
-Ұлттық экономика министрлігінің
+Ұлттық экономика министрлігі
 Статистика комитеті төрағасының
 2019 жылғы 19 желтоқсандағы
-№ 14 бұйрығына
-13-қосымша
-</pre>
-<pre>
-Приложение 13 к приказу
-Председателя Комитета
-по статистике Министерства
-национальной экономики
-Республики Казахстан
-от 19 декабря 2019 года
-№ 14
-</pre>
+№ 14 бұйрығына 13-қосымша
 </td>
+</tr>
+<tr>
+<td></td>
 </tr>
 </table>
 
 ## Үй шаруашылығы құрамының бақылау карточкасы
 
-<table>
-<tr>
-<td>Индексі</td>
-<td>D 008</td>
-<td>жылдық (тоқсан сайынғы нақтыланумен)</td>
-<td>есепті кезең</td>
-<td></td>
-<td>жыл</td>
-</tr>
-</table>
+Индексі D 008 жылдық (тоқсан сайынғы нақтыланумен) есепті кезең жыл
 
-```
 Респонденттер тобы – үй шаруашылықтары
-Ұсыну мерзімі - есепті кезеңнің 1 ақпанына (қоса алғанда) дейін (есепті кезеңнен кейінгі 20-күніне
-(қоса алғанда) дейін)
-```
 
-<table>
-<tr>
-<td>1. Аумақтың (елді мекеннің) атауы</td>
-<td>________________________________</td>
-</tr>
-<tr>
-<td>2. ӘАОЖ бойынша елді мекеннің коды1</td>
-<td></td>
-</tr>
-<tr>
-<td>3. Елді мекен типінің коды (1 - қала, 2 - ауыл)</td>
-<td></td>
-</tr>
-<tr>
-<td>4. Үй шаруашылығының коды</td>
-<td></td>
-</tr>
-<tr>
-<td>5. Интервьюер коды</td>
-<td></td>
-</tr>
-</table>
+Ұсыну мерзімі - есепті кезеңнің 1 ақпанына (қоса алғанда) дейін (есепті кезеңнен кейінгі 20-күнге (қоса алғанда) дейін)
 
-<table>
-<tr>
-<td>6. Бірінші аралау күні</td>
-<td>күні</td>
-<td></td>
-<td>айы</td>
-<td></td>
-<td>7. Екінші аралау</td>
-<td>күні</td>
-<td></td>
-<td>айы</td>
-<td></td>
-</tr>
-<tr>
-<td>8. Үшінші аралау күні</td>
-<td>күні</td>
-<td></td>
-<td>айы</td>
-<td></td>
-<td>9. Төртінші аралау</td>
-<td>күні</td>
-<td></td>
-<td>айы</td>
-<td></td>
-</tr>
-</table>
+1\. Аумақтың (елді мекеннің) атауы ______________________________________________________
 
-```
+2\. ӘАОЖ бойынша елді мекеннің коды1
+
+3\. Елді мекен типінің коды (1 - қала, 2 - ауыл)
+
+4\. Үй шаруашылығының коды
+
+5\. Интервьюер коды
+
+6\. Бірінші аралау күні күні айы 7. Екінші аралау күніайы
+
+8\. Үшінші аралау күні күні айы 9. Төртінші аралау күні айы
+
 Ескертпе:
 
 ӘАОЖ1- Әкімшілік-аумақтық объектілер жіктеуіші ҚР ҰК 11-2009
-```
 
 <table>
 <tr>
 <td></td>
-<td>Жалпы мәліметтер туралы сұрақтар</td>
+<td colspan="2">Жалпы мәліметтер туралы сұрақтар</td>
 <td colspan="11">Үй шаруашылығы мүшесінің нөмірі</td>
 </tr>
 <tr>
 <td>А</td>
-<td>Б</td>
+<td colspan="2">Б</td>
 <td>1</td>
 <td>2</td>
 <td>3</td>
@@ -23636,12 +23582,14 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2">2</td>
 <td rowspan="2">Үй шаруашылығы иесіне қатынасы</td>
 <td>сөзбен</td>
 <td>үй шарушылығының иесі</td>
+<td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
 <td rowspan="2"></td>
@@ -23670,9 +23618,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>ай</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -23697,10 +23647,12 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2">Бойы (сантиметр)</td>
+<td colspan="2">Бойы (см)</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -23725,6 +23677,7 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -23739,9 +23692,73 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="5">8</td>
+<td>8</td>
+<td colspan="2">
+Дене шынықтыру жаттығуымен, спортпен шұғылдану
+(2, 3, 4-кодтарымен жауап беру кезінде-12-сұраққа көшу )
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2">Бос уақытында өз бетінше дене шынықтыру жаттығуларымен, спортпен шұғылдану орны</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2">Дене шынықтыру жаттығуларының, спортпен шұғылданудың жиілігі (аптасына күндер саны)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="2">Дене шынықтыру жаттығуымен, спортпен шұғылданудың бір сабағының орташа ұзақтығы (минут)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">12</td>
 <td>1 қаңтардағы жағдай бойынша уақытша жоқ (бар)</td>
 <td>жыл</td>
 <td></td>
@@ -23754,10 +23771,12 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">Үй шаруашылығы құрамындағы өзгерістерді атап көрсетуіңізді өтінеміз:</td>
+<td rowspan="4">Үй шаруашылығы құрамындағы өзгерістерді көрсетуіңізді өтінеміз:</td>
 <td>1-тоқсанда</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -23781,9 +23800,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>3-тоқсанда</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -23807,9 +23828,10 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="5">9</td>
+<td rowspan="5">13</td>
 <td colspan="2">1 қаңтардағы жағдай бойынша Сіздің негізгі қызметіңіздің мәртебесі (15 жастағы және одан үлкен адамдар сұралады)</td>
 <td></td>
 <td></td>
@@ -23821,10 +23843,12 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">Сіздің негізгі қызметіңіздің мәртебесіндегі өзгерістерді атап көрсетуіңізді өтінеміз:</td>
+<td rowspan="4">Сіздің негізгі қызметіңіздің мәртебесіндегі өзгерістерді көрсетуіңізді өтінеміз:</td>
 <td>1-тоқсанда</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -23848,6 +23872,7 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>3-тоқсанда</td>
@@ -23861,9 +23886,11 @@ ________________
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>4-тоқсанда</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -23877,9 +23904,7 @@ ________________
 </tr>
 </table>
 
-```
 Сұрақтарға жауап нұсқаларын кодтау:
-```
 
 <table>
 <tr>
@@ -23888,13 +23913,13 @@ ________________
 2 – күйеуі, әйелі
 3 – ұлы, қызы
 4 – әкесі, анасы
-5 – ағасы,інісі, әпкесі,қарындасы,сіңілісі
+5 – ағасы, әпкесі
 6 – атасы, әжесі
 7 – немересі
 8 – басқа деңгейдегі туыстық
 9 – туыс емес (туыстығы жоқ)
 </td>
-<td>
+<td colspan="2">
 6. Отбасылық жағдайы
 1 – ешқашан некеде тұрмаған
 2 – некеде тұр
@@ -23913,14 +23938,32 @@ ________________
 </td>
 </tr>
 <tr>
+<td colspan="2">
+8. Дене шынықтыру жаттығуымен, спортпен шұғылдану
+1-Иә, өз бетінше бос уақытта
+2-иә, білім беру мекемелерінде
+3-иә, кәсіби түрде
+4-жоқ, шұғылданбаймын
+9. Бос уақытында өз бетінше дене шынықтыру жаттығуларымен, спортпен шұғылдану орны
+1-ұйымдастырылған спорт сабақтарына қатысамын (секциялар, жаттығу залдары)
+2- өзім айналысамын
+3- ұйымдастырылған сабақтарға қатысамын және өзім айналысамын
+</td>
+<td colspan="2">
+10. Аптасына дене шынықтырумен, спортпен шұғылдану жиілігі
+1 - _ _ (аптасына күндер)
+8 - жағдайға байланысты
+</td>
+</tr>
+<tr>
 <td>
-8. Құрамның өзгеру статусы
+12. Құрамның өзгеру статусы
 1 – тұрақты кетті
 2 – тұрақты келді
 3 – уақытша кетті
 4 – уақытша келді
 </td>
-<td>
+<td colspan="2">
 Кету (келу) себептері
 1 – туу
 2 – өлім
@@ -23930,13 +23973,14 @@ ________________
 6 – ажырасу
 7 – оқу
 8 – әскердегі қызмет
-9 – өзгелері (ауруханада, бас бостандығынан айыру жерлерінде, басқа мекенжайға көшіп кету және тағы басқа)
+9 – өзгелері (ауруханада, бас бостандығынан айыру
+жерлерінде, басқа мекенжайға көшіп кету және тағы басқа)
 </td>
 <td>
-9. Негізгі қызметтің мәртебесі
-1 – жалданып жұмыс істейтіні (жазбаша түріндегі шарт бойынша немесе ауызша уағдаластық)
-1.1 –жекелеген жеке тұлғаларда жалдану бойынша жұмыс
-2 – жалданбай жұмыс істейтін (өзінің жеке кәсіпорнында жеке кәсіпкерлік қызметімен айналысады)
+13. Негізгі қызметтің мәртебесі
+1 – жалдану бойынша жұмыс істеуші (жазбаша түріндегі шарт бойынша немесе ауызша уағдаластық)
+1.1 – бөлек жеке тұлғаларда жалдану бойынша жұмыс
+2 – жалдану бойынша жұмыс істемеуші (өзінің жеке кәсіпорнында, жеке кәсіпкерлік қызметімен айналысады)
 3 – жұмыс істемейтін және жұмыс іздеуде (жұмыссыз)
 4 – зейнеткер (жұмыс істемейтін зейнеткер)
 5 – оқушы, студент
@@ -23947,9 +23991,7 @@ ________________
 </tr>
 </table>
 
-```
-10. Статистикалық нысанды толтыруға жұмсалған уақытты көрсетіңіз, сағатпен (қажеттiсiн қоршаңыз)
-```
+14. Статистикалық нысанды толтыруға жұмсалған уақытты көрсетіңіз, сағатпен (қажеттiсiн қоршаңыз)
 
 <table>
 <tr>
@@ -23959,52 +24001,51 @@ ________________
 <td>4-8</td>
 <td>8-40</td>
 <td>40 сағаттан артық</td>
+<td></td>
 </tr>
 </table>
 
-## Қазақстан Республикасы Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы атынан Сізге ынтымақтастығыңыз бен көмегіңіз үшін алғыс білдіремін!
+## Қазақстан Республикасы Стратегиялық жоспарлау және реформалар агенттігінің Ұлттық статистикасы бюросы атынан Сізге ынтымақтастығыңыз бен көмегіңіз үшін алғыс білдіремін!
 
 > *Қазақстан Республикасы*  
-> *Ұлттық экономика Министрлігінің*  
-> *Статистика комитеті төрағасының*  
+> *Ұлттық экономика министрлігі Статистика комитеті төрағасының*  
 > *2019 жылғы 19 желтоқсандағы*  
-> *№ 14 бұйрығына 14-қосымша*
+> *№ 14 бұйрығына*  
+> *14-қосымша*
 
-## «Үй шаруашылығы құрамының бақылау карточкасы» (индексі D 008, кезеңділігі жылдық (тоқсан сайынғы нақтыланумен)жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыру жөніндегі нұсқаулық
+## «Үй шаруашылығы құрамының бақылау карточкасы» (индексі D 008, кезеңділігі жылдық (тоқсан сайынғы нақтыланумен) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыру жөніндегі нұсқаулық
 
-> *Ескерту. 14-қосымша жаңа редакцияда - ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының 10.08.2022 № 13 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. 14-қосымша жаңа редакцияда - ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының 10.08.2022 № 13 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); ҚР Стратегиялық жоспарлау және реформалар агенттігі Ұлттық статистика бюросы Басшысының м.а. 29.06.2023 № 3 (01.01.2024 бастап қолданысқа енгізіледі) бұйрықтарымен.*
 
-1. Осы нұсқаулық «Үй шаруашылығы құрамының бақылау карточкасы» (индексі D 008, кезеңділігі жылдық (тоқсан сайынғы нақтыланумен) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын (бұдан әрі – Бақылау карточкасы) толтыруды нақтылайды.
+1. Осы «Үй шаруашылығы құрамының бақылау карточкасы» (индексі D 008, кезеңділігі жылдық (тоқсан сайынғы нақтыланумен) жалпымемлекеттік статистикалық байқаудың статистикалық нысанын толтыру жөніндегі нұсқаулық (бұдан әрі – Нұсқаулық) толтыруды нақтылайды.
 
-2. Осы Нұсқаулықта мынадай анықтама пайдаланылады:
+2. Осы нұсқаулықта келесі анықтама пайдаланылады:
 
    супервайзер – үй шаруашылықтарына зерттеу жүргізуді қамтамасыз ететін және интервьюерлердің жұмысына бақылауды жүзеге асыратын аумақтық статистика органының қызметкері.
 
-3. Осы статистикалық байқау зерттелетін үй шаруашылығының барлық мүшелерінің тізімін құруға және олардың әрқайсысы бойынша әлеуметтік-демографиялық сиппаттамаларды алуға арналған.
+3. Осы статистикалық байқау зерттелетін үй шаруашылығының барлық мүшелерінің тізімін құруға және олардың әрқайсысы бойынша әлеуметтік-демографиялық сипаттамаларды алуға арналған.
 
-   Статистикалық байқауға халықтың тұрмыс деңгейін бағалау бойынша үй шаруашылықтарын іріктеп зерттеуге қатысатын барлық үй шаруашылықтары жатады. Бақылау карточкасын жылдың басында (қантарда) интервьюер толтырады, одан кейін тоқсан сайын тоқсан ішіндегі тиісті өзгерістерді енгізумен нақтылау жүргізіледі.
+   Статистикалық байқауға халықтың тұрмыс деңгейін бағалау бойынша үй шаруашылықтарын іріктеп зерттеуге қатысатын барлық үй шаруашылықтары жатады. Бақылау карточкасын жылдың басында (қаңтарда) интервьюер толтырады, одан кейін тоқсан сайын тоқсан ішіндегі тиісті өзгерістерді енгізумен нақтылау жүргізіледі.
 
    Үй шаруашылығының иесі Бақылау карточкасының респонденті болып табылады.
 
-   Үй шаруашылығының иесі ретінде еңбекке қабілетті жастағы жұмыспен қамтылған үй шаруашылығының мүшесі бола алады. Үй шаруашылығында еңбекке қабілетті жастағы жұмыспен қамтылған адамдар болмаған жағдайда (зейнеткерлердің немесе құрамында зейнеткерлер, мүгедектігі бар тұлғалар,
-
-   студенттер және тағы басқалары бар үй шаруашылықтары) үй шаруашылығының иесін қандай да бір табыс түрі бар үй шаруашылығының мүшелері өз бетінше анықтайды.
+   Үй шаруашылығының иесі ретінде еңбекке қабілетті жастағы жұмыспен қамтылған үй шаруашылығының мүшесі бола алады. Үй шаруашылығында еңбекке қабілетті жастағы жұмыспен қамтылған адамдар болмаған жағдайда (зейнеткерлердің немесе құрамында зейнеткерлер, мүгедектігі бар тұлғалар, студенттер және тағы басқалары бар үй шаруашылықтары) үй шаруашылығының иесін қандай да бір табыс түрі бар үй шаруашылығының мүшелері өз бетінше анықтайды.
 
    Бақылау карточкасын толтыру кезінде интервьюер сұрақтарды мынадай үлгіде қояды: «Әдетте, осы пәтерде (осы үйде) тұратын және Сізге туыстық қатысына немесе қандай да бір себептермен қазіргі уақытта уақытша жоқтығына қарамастан сізбен бірлесіп шаруашылық жүргізіп жатқан адамдарды атаңыз».
 
    Жауаптың тиісті нұсқасы таңдалады. Жауаптың қате коды таңдалған жағдайда, оны сызып тастау және дұрыс жауабын белгілеу қажет (толтыру кезіндегі анықталған қатені интервьюер сызып тастауы және дұрыс жауабын қасына жазуы қажет).
 
-4. Бақылау карточкасыныңтитулдықпарағын интервьюер толтырады. «Аумақтың(елді мекеннің) атауы» 1-тармағында облыстың (қаланың), ауданның (қаланың) және ауылдықелдімекенніңатауыкөрсетіледі.
+4. Бақылау карточкасының титулдық парағын интервьюер толтырады. «Аумақтың (елді мекеннің) атауы» 1-тармағында облыстың (қаланың), ауданның (қаланың) және ауылдық елді мекеннің атауы көрсетіледі.
 
 5. 1-сұрақта үй шаруашылығы мүшесінің 1-нөмірінде үй шаруашылығы иесінің аты жазылады. Бұдан әрі 2, 3, 4, 5, 6, 7, 8, 9, 10 және 11-ші нөмірлерде үй шаруашылығының өзге мүшелерінің аттары жазылады. Егер үй шаруашылықтың құрамында 11 мүшеден көп болса, қосымша бланкілер қолданылады.
 
-6. 2-сұрақта үй шаруашылығының иесі бойынша деректер толтырылмайды. Үй шаруашылығының басқа мүшелері бойынша үй шаруашылығы иесіне қатыстылығы сөзбен жазылады және тиісті код койылады.
+6. 2-сұрақта үй шаруашылығының иесі бойынша деректер толтырылмайды. Үй шаруашылығының басқа мүшелері бойынша үй шаруашылығы иесіне қатыстылығы сөзбен жазылады және тиісті код қойылады.
 
 7. 3-сұрақта үй шаруашылығының әр мүшесінің туған жылы (төрт таңбамен) және айы (екі таңбамен) жазылады. Мысалы, 1972 05 немесе 1956 12.
 
 8. 4-сұрақта жынысы жазылады: ер – 1, әйел – 2.
 
-9. 5-сұрақта респонденттің бойы көрсетіледі (жылдың басына). Бойын дұрыс өлшеу үшін респондент қабырғаға желкесімен, жауырындарымен, бөкселерімен, балтырлары мен өкшелері мен тақалып, қатты жерге жалаңаяқ түзу тұрады. Басты күш салмай түзу ұстайды. Содан кейін қабырғада бас жағынан ең жоғары нүкте белгіленеді, тек содан соң ғана еденнен белгіге дейінгі арақашықтық өлшенеді. 2 (екі) жасқа дейінгі балалардың бойы жатқызылып өлшенеді.
+9. 5-сұрақта респонденттің бойы көрсетіледі (жылдың басына). Бойын дұрыс өлшеу үшін респондент қабырғаға желкесімен, жауырындарымен, бөкселерімен, балтырларымен және өкшелерімен тақалып, қатты жерге жалаң аяқ түзу тұрады. Басты күш салмай түзу ұстайды. Содан кейін қабырғада бас жағынан ең жоғары нүкте белгіленеді, тек содан соң ғана еденнен белгіге дейінгі арақашықтық өлшенеді. 2 (екі) жасқа дейінгі балалардың бойы жатқызылып өлшенеді.
 
 10. 6-сұрақта отбасылық жағдайының кодтарына сәйкес отбасылық жағдайы көрсетіледі. Осы бағанды толтыру кезінде «Неке (ерлі-зайыптылық) және отбасы туралы» 2011 жылғы 26 желтоқсандағы Қазақстан Республикасының Кодексінде белгіленген ерлер мен әйелдер үшін неке жасы – 18 жас екендігі ескеріледі.
 
@@ -24028,13 +24069,47 @@ ________________
 
     ешқандай білім деңгейіне қол жеткізбеген – үй шаруашылығы мүшесінің ешқандай білімі жоқ. Мектеп білімімен қамтылған, бірақ бастауыш (1, 2, 3 және 4-сыныптар) білімді аяктамаған балалар, мектепке дейінгі білімі бар болған жағдайда мектепке дейінгі білімі бар адамдарға жатады, мектепке дейінгі білімі болмаған жағдайда, ешқандай білімі жоқ адамдарға жатқызылады.
 
-12. 8-сұрақта үй шаруашылығының мүшелері бойынша сауал салу кезінде уақытша жоқтарға (мысалы, әскерде жедел қызметтен өтуде, ауруханада, білім алуда) тиісті екі таңбалы кодтар (статусы, себебі) қойылады.
+12. 8-сұрақта үй шаруашылығының үш жастан асқан және одан үлкен әрбір мүшесінің дене шынықтыру жаттығуымен, спортпен шұғылдануының ағымдағы жағдайы туралы ақпарат жазылады.
+
+    Жауаптар келесі шарттарға сәйкес көрсетіледі:
+
+    иә, өз бетінше, бос уақытта - дене шынықтыру жаттығуымен, спортпен шұғылдану:
+
+    - секцияларда, спорт, тренажер залдарында;
+
+    - жалпыға ортақ орындарда ашық ауада (спорт алаңдары, саябақтар) және үй жағдайында мамандандырылған жаттықтырушылардың қатысуынсыз еркін нысанда;
+
+    иә, білім беру мекемелерінде - білім беру мекемелерінде дене шынықтыру сабақтары;
+
+    иә, кәсіби түрде - дене шынықтыру, спортпен кәсіби деңгейде шұғылдану.
+
+13. 9-сұрақта дене шынықтыру жаттығуларымен, спортпен шұғылдану орны көрсетіледі.
+
+    Жауаптар келесі шарттарға сәйкес көрсетіледі:
+
+    мен ұйымдастырылған спорт сабақтарына қатысамын (секциялар, спорт, жаттығу залдары) барамын - дене шынықтыру жаттығуларымен, спортпен шұғылдануға арналған арнайы ұйымдастырылған орындар;
+
+    өзім айналысамын – жалпыға ортақ орындарда (спорт алаңдары, саябақтар) ашық ауада дене шынықтыру жаттығуларымен айналысамын;
+
+    мен ұйымдастырылған сабақтарға қатысамын және өзім айналысамын - дене шынықтыру жаттығуларымен, спортпен айналысу үшін арнайы орындарға бару кезінде және ашық ауада және үй жағдайында өз бетінше айналысу кезінде.
+
+14. 10-сұрақта аптасына дене шынықтыру жаттығуларымен, спортпен шұғылдану жиілігі туралы ақпарат жазылады
+
+    Жауаптар келесі шарттарға сәйкес көрсетіледі:
+
+    Аптасына күндер саны цифрмен көрсетіледі.
+
+    Егер дене шынықтыру жаттығуларымен, спортпен шұғылдану жүйелі сипатқа ие болмаса «8» кодын (ара-тұра) көрсетіңіз.
+
+15. 11-сұрақта дене шынықтыру жаттығуларымен, спортпен айналысудың бір сабағының орташа ұзақтығы туралы ақпарат минутпен жазылады.
+
+16. 12-сұрақта үй шаруашылығының мүшелері бойынша сауал салу кезінде уақытша жоқтарға (мысалы, әскерде жедел қызметтен өтуде, ауруханада, білім алуда) тиісті екі таңбалы кодтар (статусы, себебі) қойылады.
 
     Келесі екі таңбалы кодтар (статусы, себебі) болуы мүмкін:
 
-    уақытша болмау кезінде – 33, 34, 36, 37, 38, 39 кодтары;
+    уақытша болмау кезінде – 33, 34, 36, 37, 38, 39-кодтары;
 
-    уақытша болуы кезінде – 43, 44, 46, 47, 48, 49 кодтары.
+    уақытша болуы кезінде – 43, 44, 46, 47, 48, 49-кодтары.
 
     Егер кейінгі тоқсандарда үй шаруашылығы құрамы өзгерген жағдайда есепті тоқсанға (1 сәуірдегі, 1 шілдедегі, 1 қазандағы, 1 қаңтардағы жағдай бойынша) тиісті белгілер қойылады.
 
@@ -24054,7 +24129,7 @@ ________________
 
     Туу 21-кодты, өлім – 12 кодты қамтиды.
 
-13. 9-сұрақта 15 және одан үлкен жастағы адамдардың, соның ішінде уақытша кеткендер және уақытша келгендердің пікірі сұралады.
+17. 13-сұрақта 15 және одан үлкен жастағы адамдардың, соның ішінде уақытша кеткендер және уақытша келгендердің пікірі сұралады.
 
     Жалдану бойынша жұмыс істеушілер – кәсіпорында (мекемеде, ұйымда) жұмыс істейтін немесе жеке тұлғада жазбаша түріндегі шарт, келісімшарт бойынша немесе кез келген меншік нысанындағы кәсіпорын, мекеме, ұйым әкімшілігімен немесе жеке меншік жалдаушымен жасалған ауызша уағдаластық бойынша жұмыс істейтін және еңбекақы түрінде (ақшалай немесе заттай нысанда) сыйақы алушы.
 
@@ -24068,7 +24143,7 @@ ________________
 
     ауыл шаруашылығы саласында кәсіпкерлік қызметімен айналысатын фермерлер;
 
-    өзінің кәсіпорнында жұмыс істейтін өндірістік кооператив мүшелері – (артелдер) – тауарлар мен көрсетілген қызметтерді өндіретін кооператив, онда өндірісті, инвестициялауды және ұйым мүшелері арасында табыс бөлуді ұйымдастыру мәселерін шешу кезінде әркімнің құқығы кооперативтің басқа да мүшелерімен тең;
+    өзінің кәсіпорнында жұмыс істейтін өндірістік кооператив мүшелері – (артелдер) – тауарлар мен көрсетілген қызметтерді өндіретін кооператив, онда өндірісті, инвестициялауды және ұйым мүшелері арасында табыс бөлуді ұйымдастыру мәселелерін шешу кезінде әркімнің құқығы кооперативтің басқа да мүшелерімен тең;
 
     тұрақты негізде табыс әкелетін (мемлекеттік тіркеуден өткен, сондай-ақ өтпегендер) экономикалық қызметті жүзеге асыратын жеке негізде жұмыс істейтіндер;
 
@@ -24086,6 +24161,6 @@ ________________
 
     Басқа да себептер бойынша жұмыс істемейтін және жұмыс іздемейтін– жоғарыда аталған себептерден басқа өзге себептер бойынша жұмыс іздемейтін және жұмыс істемейтін үй шаруашылығының мүшесі.
 
-14. Бақылау карточкасын интервьюер екі данада толтырады. Бір данасы супервайзерге беріледі, екіншісі интервьюерде қалады. Оған тоқсандық сұхбаттарды жүргізу кезінде үй шаруашылығының құрамында болған барлық өзгерістер (егер олар болған жағдайда) енгізіледі.
+18. Бақылау карточкасын интервьюер екі данада толтырады. Бір данасы супервайзерге беріледі, екіншісі интервьюерде қалады. Оған тоқсандық сұхбаттарды жүргізу кезінде үй шаруашылығының құрамында болған барлық өзгерістер (егер олар болған жағдайда) енгізіледі.
 
-    Сауал салуды аяқтаған соң интервьюер қандай да бір сұрақтар қалып кетпегендігіне көз жеткізу үшін Бақылау карточкасын қайта қарап шығады және үй шаруашылықтарына көмектескендері және ынтымақтастығы үшін алғыс айтады. Интервьюер үй шаруашылығынан тыс жерде Бақылау карточкасын қайта қарап шығады және қандай да бір сәйкессіздік тапса, онда үй шаруашылығына қайта хабарласады (жеке немесе телефонмен) және жетіспейтін ақпаратты анықтайды.
+    Сауал салуды аяқтаған соң интервьюер қандай да бір сұрақтар қалып кетпегеніне көз жеткізу үшін Бақылау карточкасын қайта қарап шығады және үй шаруашылықтарына көмектескендері және ынтымақтастығы үшін алғыс айтады. Интервьюер үй шаруашылығынан тыс жерде Бақылау карточкасын қайта қарап шығады және қандай да бір сәйкессіздік тапса, онда үй шаруашылығына қайта хабарласады (жеке немесе телефонмен) және жетіспейтін ақпаратты анықтайды.

@@ -1,5 +1,5 @@
 ---
-version_id: '137458_588709'
+version_id: '137458_674533'
 act_code: '137458'
 language: rus
 title: Об утверждении статистических форм общегосударственных статистических наблюдений по статистике уровня жизни и инструкций по их заполнению
@@ -10,22 +10,22 @@ type_codes:
 approved_by:
 - '103033003000'
 approval_date: 2019-12-19
-version_date: 2022-08-10
+version_date: 2024-01-01
 registry_number: '137458'
 caused_by:
-  code: '170523'
+  code: '183587'
   title: О внесении изменений в приказ Председателя Комитета по статистике Министерства национальной экономики Республики Казахстан от 19 декабря 2019 года № 14 «Об утверждении статистических форм общегосударственных статистических наблюдений по статистике уровня жизни и инструкций по их заполнению»
-  link: https://zan.gov.kz/client/#!/doc/170523/rus
-source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
+  link: https://zan.gov.kz/client/#!/doc/183587/rus
+source: https://zan.gov.kz/client/#!/doc/137458/rus/01.01.2024
 ---
 
 # Об утверждении статистических форм общегосударственных статистических наблюдений по статистике уровня жизни и инструкций по их заполнению
 
 > *Сноска. Вводится в действие с 01.01.2020 в соответствии с пунктом 6 настоящего приказа.*
 
-В соответствии с подпунктом 8) статьи 12 Закона Республики Казахстан «О государственной статистике» и с подпунктом 22) пункта 15 Положения о Бюро национальной статистики Агентства по стратегическому планированию и реформам Республики Казахстан, утвержденного приказом Председателя Агентства по стратегическому планированию и реформам Республики Казахстан от 23 октября 2020 года № 9-нқ, ПРИКАЗЫВАЮ:
+В соответствии с подпунктом 36) пункта 15 Положения об Агентстве по стратегическому планированию и реформам Республики Казахстан, утвержденного Указом Президента Республики Казахстан от 5 октября 2020 года № 427 и с подпунктом 22) пункта 15 Положения о Бюро национальной статистики Агентства по стратегическому планированию и реформам Республики Казахстан, утвержденного приказом Председателя Агентства по стратегическому планированию и реформам Республики Казахстан от 23 октября 2020 года № 9-нқ, ПРИКАЗЫВАЮ:
 
-> *Сноска. Преамбула в редакции приказов Руководителя Бюро национальной статистики Агентства по стратегическому планированию и реформам РК от 29.10.2021 № 26 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 10.08.2022 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Преамбула в редакции приказов Руководителя Бюро национальной статистики Агентства по стратегическому планированию и реформам РК от 29.10.2021 № 26 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 10.08.2022 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); и.о. Руководителя Бюро национальной статистики Агентства по стратегическому планированию и реформам РК от 29.06.2023 № 3 (вводится в действие с 01.01.2024).*
 
 1. Утвердить:
 
@@ -79,1419 +79,1290 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 
 **Н. Айдапкелов**
 
-<table>
-<tr>
-<td colspan="3">
-<em>[Image]</em>
-</td>
-<td></td>
-<td colspan="12">
-Конфиденциальность гарантируется органами государственной статистики
-Статистическая форма общегосударственного статистического наблюдения
-</td>
-<td></td>
-<td colspan="26">
-Приложение 1 к приказу
-Председателя Комитета
-по статистике Министерства
-национальной экономики
-Республики Казахстан
-от «___» ____________2019 года
-№___
-</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="40"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="40">Дневник использования времени</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">Индекс</td>
-<td></td>
-<td>D 001</td>
-<td colspan="5">один раз в пять лет</td>
-<td colspan="16">отчетный период</td>
-<td colspan="4">
-<em>[Image]</em>
-</td>
-<td colspan="12">год</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="40"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="40">В опросе принимают участие лица в возрасте от 10 лет и старше</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="40">Срок представления – до 10 апреля (включительно) отчетного года</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="40"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">1.</td>
-<td colspan="10">Наименование территории (населенного пункта)</td>
-<td colspan="30">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="40"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">2.</td>
-<td colspan="10">Код населенного пункта по КАТО1</td>
-<td colspan="30">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="40"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">3.</td>
-<td colspan="10">Код типа населенного пункта (1 - город, 2 - село)</td>
-<td></td>
-<td></td>
-<td colspan="9"></td>
-<td colspan="18"></td>
-<td>
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="40"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">4.</td>
-<td colspan="10">Код домашнего хозяйства</td>
-<td colspan="30">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="40"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">5.</td>
-<td colspan="9">Порядковый номер члена домашнего хозяйства</td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="8"></td>
-<td colspan="15"></td>
-<td colspan="2"></td>
-<td>
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="40"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">6.</td>
-<td colspan="4">Код интервьюера</td>
-<td colspan="25"></td>
-<td colspan="15">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="41"></td>
-</tr>
-<tr>
-<td colspan="2">7.</td>
-<td colspan="9">Дата проведения интервью в будний день</td>
-<td></td>
-<td colspan="12"></td>
-<td colspan="3">число</td>
-<td colspan="7">
-<em>[Image]</em>
-</td>
-<td colspan="3">месяц</td>
-<td colspan="5">
-<em>[Image]</em>
-</td>
-</tr>
-<tr>
-<td colspan="41"></td>
-</tr>
-<tr>
-<td colspan="2">8.</td>
-<td colspan="9">Дата проведения интервью в выходной день</td>
-<td></td>
-<td colspan="12"></td>
-<td colspan="3">число</td>
-<td colspan="7">
-<em>[Image]</em>
-</td>
-<td colspan="3">месяц</td>
-<td colspan="5">
-<em>[Image]</em>
-</td>
-</tr>
-</table>
-
-Примечание:
-
-1 КАТО – Классификатор административно-территориальных объектов НК РК 11-2009
+> *Сноска. Приложение 1 в редакции приказа и.о. Руководителя Бюро национальной статистики Агентства по стратегическому планированию и реформам РК от 29.06.2023 № 3 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
-<td colspan="14">Каждый из нас проводит свое время по-разному. А как Вы проводите свое время?</td>
-<td colspan="13">Уважаемый респондент, старайтесь этот дневник держать при себе, где бы Вы не были. Пожалуйста, записывайте ваши действия сразу после завершения или перед началом, указывая при этом время (часы/минуты)!</td>
-</tr>
-<tr>
-<td colspan="27">Будний день недели ______________ 1-ая страница дневника</td>
-</tr>
-<tr>
-<td rowspan="2">Время</td>
-<td colspan="6">1. Чем вы занимались в этот день?</td>
-<td colspan="7">2. Чем Вы еще занимались в это же время?</td>
-<td colspan="6">3. Где Вы находились?</td>
-<td colspan="7">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
-</tr>
-<tr>
-<td>Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
-<td colspan="5">Код вида занятий2</td>
-<td>Укажите действия, которыми Вы занимались параллельно</td>
-<td colspan="6">Код вида занятий2</td>
-<td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="5">Код места действия2</td>
-<td colspan="2">
-один/
-одна
+<td rowspan="3">
+<em>[Image]</em>
 </td>
-<td colspan="2">с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td colspan="2">с другими членами Вашего домашнегохозяйства</td>
-<td>с другими знакомыми лицами</td>
+<td>Конфиденциальность гарантируется органами государственной статистики</td>
+<td rowspan="2">
+<strong>Приложение 1 к приказу Председателя Комитета по статистике Министерства национальной экономики Республики Казахстан от 19 декабря 2019 года № 14</strong>
+</td>
 </tr>
 <tr>
-<td>07.00-07.10</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
+<td rowspan="2">Статистическая форма общегосударственного статистического наблюдения</td>
 </tr>
 <tr>
-<td>07.10-07.20</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>07.20-07.30</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>07.30-07.40</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>07.40-07.50</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>07.50-08.00</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>08.00-08.10</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>08.10-08.20</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>08.20-08.30</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>08.30-08.40</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>08.40-08.50</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>08.50-09.00</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>09.00-09.10</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>09.10-09.20</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>09.20-09.30</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>09.30-09.40</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>09.40-09.50</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>09.50-10.00</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 </tr>
 </table>
 
+D 001
+
+Единовременная
+
+Срок представления – 10 января года, следующего после отчетного периода
+
+## Дневник использования времени (для лиц в возрасте от 10 лет и старше)
+
+## Отчетный период год
+
+1. Наименование территории (населенного пункта)______________________________________________
+
+2. Код населенного пункта по КАТО1
+
+3. Код типа населенного пункта (1 - город, 2 - село)
+
+4. Код домашнего хозяйства
+
+5. Порядковый номер члена домашнего хозяйства
+
+6. Код интервьюера
+
+Дата проведения интервью в будний день число месяц
+
+Дата проведения интервью в выходной день числомесяц
+
 Примечание:
 
-2 здесь и далее заполняется интервьюером
+1 КАТО - Классификатор административно-территориальных объектов НК РК 11-2009
 
 <table>
 <tr>
-<td colspan="27">Будний день недели ______________ 2-ая страница дневника</td>
+<td colspan="22">Каждый из нас проводит свое время по-разному. А как Вы проводите свое время?</td>
+<td colspan="22">Уважаемый респондент, старайтесь этот дневник держать при себе, где бы Вы не были. Пожалуйста, записывайте ваши действия сразу после завершения или перед началом, указывая при этом время (часы/минуты)!</td>
+</tr>
+<tr>
+<th colspan="22">Будний день недели</th>
+<th colspan="22">1-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
-<td colspan="6">1. Чем вы занимались в этот день?</td>
-<td colspan="6">2. Чем Вы еще занимались в это же время?</td>
-<td colspan="6">3. Где Вы находились?</td>
-<td colspan="8">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
+<td colspan="11">1. Чем вы занимались в этот день?</td>
+<td colspan="10">2. Чем Вы еще занимались в это же время?</td>
+<td colspan="12">3. Где Вы находились?</td>
+<td colspan="10">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
 </tr>
 <tr>
 <td colspan="2">Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
-<td colspan="4">Код вида занятий</td>
+<td colspan="9">Код вида занятий2</td>
 <td colspan="2">Укажите действия, которыми Вы занимались параллельно</td>
-<td colspan="4">Код вида занятий</td>
-<td colspan="3">Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="3">Код места действия</td>
-<td colspan="2">
-один/
+<td colspan="8">Код вида занятий2</td>
+<td colspan="5">Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
+<td colspan="7">Код места дейст-вия2</td>
+<td colspan="3">
+Один/
 одна
 </td>
-<td colspan="2">с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td colspan="2">с другими членами Вашего домашнего хозяйства</td>
-<td colspan="2">с другими знакомыми лицами</td>
+<td colspan="3">С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td colspan="2">С другими членами Вашего домашнего хозяйства</td>
+<td colspan="2">С другими знакомыми лицами</td>
 </tr>
 <tr>
-<td>10.00-10.10</td>
+<td>07.00-07.10</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td>07.10-07.20</td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>07.20-07.30</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>07.30-07.40</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>07.40-07.50</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>07.50-08.00</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.00-08.10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.10-08.20</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.20-08.30</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.30-08.40</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.40-08.50</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>08.50-09.00</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.00-09.10</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.10-09.20</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.20-09.30</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.30-09.40</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.40-09.50</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>09.50-10.00</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+Примечание:
+
+2 Здесь и далее заполняется интервьюером
+
+<table>
+<tr>
+<td colspan="22">Будний день недели</td>
+<td colspan="22">2-ая страница дневника</td>
+</tr>
+<tr>
+<th rowspan="2">Время</th>
+<th colspan="11">1. Чем вы занимались в этот день?</th>
+<th colspan="10">2. Чем Вы еще занимались в это же время?</th>
+<th colspan="11">3. Где Вы находились?</th>
+<th colspan="11">4. В это время Вы были одни или с кем-то, кого Вы знаете?</th>
+</tr>
+<tr>
+<td colspan="3">Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
+<td colspan="8">Код вида занятий</td>
+<td colspan="3">Укажите действия, которыми Вы занимались параллельно</td>
+<td colspan="7">Код вида занятий</td>
+<td colspan="5">Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
+<td colspan="6">Код места дейст-вия</td>
+<td colspan="4">
+Один/
+одна
+</td>
+<td colspan="3">С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td colspan="2">С другими членами Вашего домашнего хозяйства</td>
+<td colspan="2">С другими знакомыми лицами</td>
+</tr>
+<tr>
+<td>10.00-10.10</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>10.10-10.20</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>10.20-10.30</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>10.30-10.40</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>10.40-10.50</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>10.50-11.00</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.00-11.10</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.10-11.20</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.20-11.30</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.30-11.40</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.40-11.50</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.50-12.00</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.00-12.10</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.10-12.20</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.20-12.30</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.30-12.40</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.40-12.50</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.50-13.00</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>13.00-13.10</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>13.10-13.20</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>13.20-13.30</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>13.30-13.40</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="22">Будний день недели</td>
+<td colspan="22">3-ая страница дневника</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Время</td>
+<td colspan="11">1. Чем вы занимались в этот день?</td>
+<td colspan="11">2. Чем Вы еще занимались в это же время?</td>
+<td colspan="12">3. Где Вы находились?</td>
+<td colspan="8">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
+</tr>
+<tr>
+<td colspan="3">Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
+<td colspan="8">Код вида занятий</td>
+<td colspan="3">Укажите действия, которыми Вы занимались параллельно</td>
+<td colspan="8">Код вида занятий</td>
+<td colspan="5">Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
+<td colspan="7">Код места дейст-вия</td>
+<td colspan="2">
+Один/
+одна
+</td>
+<td colspan="3">С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td>С другими членами Вашего домашнего хозяйства</td>
+<td colspan="2">С другими знакомыми лицами</td>
+</tr>
+<tr>
+<td colspan="2">13.40-13.50</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">13.50-14.00</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">14.00-14.10</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">14.10-14.20</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">14.20-14.30</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">14.30-14.40</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">14.40-14.50</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">14.50-15.00</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">15.00-15.10</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">15.10-15.20</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">15.20-15.30</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">15.30-15.40</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">15.40-15.50</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">15.50-16.00</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">16.00-16.10</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">16.10-16.20</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">16.20-16.30</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">16.30-16.40</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">16.40-16.50</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">16.50-17.00</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">17.00-17.10</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">17.10-17.20</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="16">Будний день недели ______________ 3-ая страница дневника</td>
+<th colspan="10">Будний день недели</th>
+<th colspan="10">4-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
 <td colspan="4">1. Чем вы занимались в этот день?</td>
-<td colspan="4">2. Чем Вы еще занимались в это же время?</td>
-<td colspan="3">3. Где Вы находились?</td>
-<td colspan="4">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
+<td colspan="5">2. Чем Вы еще занимались в это же время?</td>
+<td colspan="4">3. Где Вы находились?</td>
+<td colspan="6">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
 </tr>
 <tr>
 <td>Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
 <td colspan="3">Код вида занятий</td>
 <td>Укажите действия, которыми Вы занимались параллельно</td>
-<td colspan="3">Код вида занятий</td>
-<td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
+<td colspan="4">Код вида занятий</td>
+<td colspan="2">Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
+<td colspan="2">Код места дейст-вия</td>
 <td>
-один/
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td>с другими знакомыми лицами</td>
-</tr>
-<tr>
-<td>13.40-13.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13.50-14.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.00-14.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.10-14.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.20-14.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.30-14.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.40-14.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14.50-15.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.00-15.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.10-15.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.20-15.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.30-15.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.40-15.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15.50-16.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.00-16.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.10-16.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.20-16.30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.30-16.40</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.40-16.50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.50-17.00</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.00-17.10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17.10-17.20</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Будний день недели ______________ 4-ая страница дневника</td>
-</tr>
-<tr>
-<td rowspan="2">Время</td>
-<td colspan="4">1. Чем вы занимались в этот день?</td>
-<td colspan="4">2. Чем Вы еще занимались в это же время?</td>
-<td colspan="3">3. Где Вы находились?</td>
-<td colspan="4">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
-</tr>
-<tr>
-<td>Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
-<td colspan="3">Код вида занятий</td>
-<td>Укажите действия, которыми Вы занимались параллельно</td>
-<td colspan="3">Код вида занятий</td>
-<td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
-<td>
-один/
-одна
-</td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td>с другими знакомыми лицами</td>
+<td colspan="2">С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td colspan="2">С другими членами Вашего домашнего хозяйства</td>
+<td>С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>17.20-17.30</td>
@@ -1501,14 +1372,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1519,14 +1390,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -1537,15 +1408,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>17.50-18.00</td>
@@ -1555,15 +1426,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>18.00-18.10</td>
@@ -1573,15 +1444,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>18.10-18.20</td>
@@ -1591,15 +1462,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>18.20-18.30</td>
@@ -1609,15 +1480,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>18.30-18.40</td>
@@ -1627,15 +1498,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>18.40-18.50</td>
@@ -1645,15 +1516,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>18.50-19.00</td>
@@ -1663,15 +1534,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>19.00-19.10</td>
@@ -1681,15 +1552,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>19.10-19.20</td>
@@ -1699,15 +1570,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>19.20-19.30</td>
@@ -1717,15 +1588,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>19.30-19.40</td>
@@ -1735,15 +1606,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>19.40-19.50</td>
@@ -1753,15 +1624,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>19.50-20.00</td>
@@ -1771,15 +1642,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>20.00-20.10</td>
@@ -1789,15 +1660,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>20.10-20.20</td>
@@ -1807,15 +1678,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>20.20-20.30</td>
@@ -1825,15 +1696,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>20.30-20.40</td>
@@ -1843,15 +1714,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>20.40-20.50</td>
@@ -1861,15 +1732,15 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>20.50-21.00</td>
@@ -1879,43 +1750,44 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="17">Будний день недели ______________ 5-ая страница дневника</td>
+<th colspan="10">Будний день недели</th>
+<th colspan="10">5-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
 <td colspan="4">1. Чем вы занимались в этот день?</td>
-<td colspan="4">2. Чем Вы еще занимались в это же время?</td>
+<td colspan="5">2. Чем Вы еще занимались в это же время?</td>
 <td colspan="3">3. Где Вы находились?</td>
-<td colspan="5">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
+<td colspan="6">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
 </tr>
 <tr>
 <td>Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
 <td colspan="3">Код вида занятий</td>
 <td>Укажите действия, которыми Вы занимались параллельно</td>
-<td colspan="3">Код вида занятий</td>
+<td colspan="4">Код вида занятий</td>
 <td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
+<td colspan="2">Код места дейст-вия</td>
 <td>
-один/
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td colspan="2">с другими знакомыми лицами</td>
+<td colspan="2">С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td colspan="2">С другими членами Вашего домашнего хозяйства</td>
+<td>С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>21.00-21.10</td>
@@ -1926,14 +1798,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>21.10-21.20</td>
@@ -1944,14 +1816,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>21.20-21.30</td>
@@ -1962,14 +1834,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>21.30-21.40</td>
@@ -1980,14 +1852,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>21.40-21.50</td>
@@ -1998,14 +1870,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>21.50-22.00</td>
@@ -2016,14 +1888,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>22.00-22.10</td>
@@ -2034,14 +1906,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>22.10-22.20</td>
@@ -2052,14 +1924,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>22.20-22.30</td>
@@ -2070,14 +1942,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>22.30-22.40</td>
@@ -2088,14 +1960,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>22.40-22.50</td>
@@ -2106,14 +1978,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>22.50-23.00</td>
@@ -2124,14 +1996,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>23.00-23.10</td>
@@ -2142,14 +2014,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>23.10-23.20</td>
@@ -2160,14 +2032,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>23.20-23.30</td>
@@ -2178,14 +2050,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>23.30-23.40</td>
@@ -2196,14 +2068,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>23.40-23.50</td>
@@ -2214,14 +2086,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>23.50-00.00</td>
@@ -2232,14 +2104,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>00.00-00.10</td>
@@ -2250,14 +2122,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>00.10-00.20</td>
@@ -2268,14 +2140,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>00.20-00.30</td>
@@ -2286,14 +2158,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>00.30-00.40</td>
@@ -2304,42 +2176,43 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="16">Будний день недели ______________ 6-ая страница дневника</td>
+<th colspan="10">Будний день недели</th>
+<th colspan="13">6-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
 <td colspan="4">1. Чем вы занимались в этот день?</td>
-<td colspan="4">2. Чем Вы еще занимались в это же время?</td>
-<td colspan="3">3. Где Вы находились?</td>
-<td colspan="4">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
+<td colspan="5">2. Чем Вы еще занимались в это же время?</td>
+<td colspan="5">3. Где Вы находились?</td>
+<td colspan="8">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
 </tr>
 <tr>
 <td>Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
 <td colspan="3">Код вида занятий</td>
 <td>Укажите действия, которыми Вы занимались параллельно</td>
-<td colspan="3">Код вида занятий</td>
-<td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
-<td>
-один/
+<td colspan="4">Код вида занятий</td>
+<td colspan="3">Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
+<td colspan="2">Код места дейст-вия</td>
+<td colspan="2">
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td>с другими знакомыми лицами</td>
+<td colspan="2">С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td colspan="3">С другими членами Вашего домашнего хозяйства</td>
+<td>С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>00.40-00.50</td>
@@ -2350,13 +2223,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 </tr>
 <tr>
@@ -2368,13 +2241,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2386,13 +2259,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2404,13 +2277,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2422,13 +2295,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2440,13 +2313,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2458,13 +2331,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2476,13 +2349,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2494,13 +2367,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2512,13 +2385,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2530,13 +2403,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2548,13 +2421,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2566,13 +2439,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2584,13 +2457,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2602,13 +2475,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2620,13 +2493,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2638,13 +2511,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2656,13 +2529,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2674,13 +2547,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2692,13 +2565,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2710,13 +2583,13 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
@@ -2728,20 +2601,21 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="16">Будний день недели ______________ 7-ая страница дневника</td>
+<th colspan="10">Будний день недели</th>
+<th colspan="10">7-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
@@ -2756,14 +2630,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td>Укажите действия, которыми Вы занимались параллельно</td>
 <td colspan="3">Код вида занятий</td>
 <td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
+<td colspan="2">Код места дейст-вия</td>
 <td>
-один/
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td>с другими знакомыми лицами</td>
+<td>С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td>С другими членами Вашего домашнего хозяйства</td>
+<td>С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>04.20-04.30</td>
@@ -3057,855 +2931,855 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 
 <table>
 <tr>
-<td colspan="17">Выходной день недели ______________ 8-ая страница дневника</td>
+<th colspan="15">Выходной день недели</th>
+<th colspan="15">8-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
-<td colspan="4">1. Чем вы занимались в этот день?</td>
-<td colspan="4">2. Чем Вы еще занимались в это же время?</td>
-<td colspan="3">3. Где Вы находились?</td>
-<td colspan="5">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
+<td colspan="5">1. Чем вы занимались в этот день?</td>
+<td colspan="7">2. Чем Вы еще занимались в это же время?</td>
+<td colspan="5">3. Где Вы находились?</td>
+<td colspan="8">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
 </tr>
 <tr>
 <td>Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
-<td colspan="3">Код вида занятий</td>
-<td>Укажите действия, которыми Вы занимались параллельно</td>
-<td colspan="3">Код вида занятий</td>
+<td colspan="4">Код вида занятий</td>
+<td colspan="2">Укажите действия, которыми Вы занимались параллельно</td>
+<td colspan="5">Код вида занятий</td>
 <td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
-<td>
-один/
+<td colspan="4">Код места дейст-вия</td>
+<td colspan="3">
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td colspan="2">с другими знакомыми лицами</td>
+<td colspan="2">С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td colspan="2">С другими членами Вашего домашнего хозяйства</td>
+<td>С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>07.00-07.10</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>07.10-07.20</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td>07.20-07.30</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>07.30-07.40</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>07.40-07.50</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>07.50-08.00</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>08.00-08.10</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>08.10-08.20</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>08.20-08.30</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>08.30-08.40</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>08.40-08.50</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>08.50-09.00</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>09.00-09.10</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>09.10-09.20</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>09.20-09.30</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>09.30-09.40</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>09.40-09.50</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>09.50-10.00</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>10.00-10.10</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>10.10-10.20</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>10.20-10.30</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>10.30-10.40</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="17">Выходной день недели ______________ 9-ая страница дневника</td>
+<th colspan="15">Выходной день недели</th>
+<th colspan="15">9-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
-<td colspan="4">1. Чем вы занимались в этот день?</td>
-<td colspan="4">2. Чем Вы еще занимались в это же время?</td>
-<td colspan="3">3. Где Вы находились?</td>
-<td colspan="5">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
+<td colspan="5">1. Чем вы занимались в этот день?</td>
+<td colspan="8">2. Чем Вы еще занимались в это же время?</td>
+<td colspan="6">3. Где Вы находились?</td>
+<td colspan="6">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
 </tr>
 <tr>
 <td>Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
-<td colspan="3">Код вида занятий</td>
+<td colspan="4">Код вида занятий</td>
 <td>Укажите действия, которыми Вы занимались параллельно</td>
-<td colspan="3">Код вида занятий</td>
-<td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
+<td colspan="7">Код вида занятий</td>
+<td colspan="2">Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
+<td colspan="4">Код места дейст-вия</td>
 <td>
-один/
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td colspan="2">с другими знакомыми лицами</td>
+<td>С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td colspan="2">С другими членами Вашего домашнего хозяйства</td>
+<td colspan="2">С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>10.40-10.50</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>10.50-11.00</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.00-11.10</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.10-11.20</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.20-11.30</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.30-11.40</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.40-11.50</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>11.50-12.00</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.00-12.10</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.10-12.20</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.20-12.30</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.30-12.40</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.40-12.50</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>12.50-13.00</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>13.00-13.10</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>13.10-13.20</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>13.20-13.30</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>13.30-13.40</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>13.40-13.50</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>13.50-14.00</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>14.00-14.10</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>14.10-14.20</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="16">Выходной день недели ______________ 10-ая страница дневника</td>
+<th colspan="10">Выходной день недели</th>
+<th colspan="15">10-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
@@ -3920,14 +3794,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td>Укажите действия, которыми Вы занимались параллельно</td>
 <td colspan="3">Код вида занятий</td>
 <td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
+<td colspan="2">Код места дейст-вия</td>
 <td>
-один/
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td>с другими знакомыми лицами</td>
+<td>С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td>С другими членами Вашего домашнего хозяйства</td>
+<td>С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>14.20-14.30</td>
@@ -4329,7 +4203,8 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 
 <table>
 <tr>
-<td colspan="16">Выходной день недели ______________ 11-ая страница дневника</td>
+<th colspan="10">Выходной день недели</th>
+<th colspan="10">11-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
@@ -4344,14 +4219,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td>Укажите действия, которыми Вы занимались параллельно</td>
 <td colspan="3">Код вида занятий</td>
 <td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
+<td colspan="2">Код места дейст-вия</td>
 <td>
-один/
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td>с другими знакомыми лицами</td>
+<td>С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td>С другими членами Вашего домашнего хозяйства</td>
+<td>С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>18.00-18.10</td>
@@ -4753,7 +4628,8 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 
 <table>
 <tr>
-<td colspan="16">Выходной день недели ______________ 12-ая страница дневника</td>
+<th colspan="10">Выходной день недели</th>
+<th colspan="10">12-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
@@ -4768,14 +4644,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td>Укажите действия, которыми Вы занимались параллельно</td>
 <td colspan="3">Код вида занятий</td>
 <td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
+<td colspan="2">Код места дейст-вия</td>
 <td>
-один/
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td>с другими знакомыми лицами</td>
+<td>С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td>С другими членами Вашего домашнего хозяйства</td>
+<td>С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>21.40-21.50</td>
@@ -5177,7 +5053,8 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 
 <table>
 <tr>
-<td colspan="16">Выходной день недели ______________ 13-ая страница дневника</td>
+<th colspan="10">Выходной день недели</th>
+<th colspan="10">13-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
@@ -5192,17 +5069,14 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td>Укажите действия, которыми Вы занимались параллельно</td>
 <td colspan="3">Код вида занятий</td>
 <td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
+<td colspan="2">Код места дейст-вия</td>
 <td>
-один/
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td>
-с другими знакомы
-ми лицами
-</td>
+<td>С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td>Сдругими членами Вашего домашнего хозяйства</td>
+<td>С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>01.20-01.30</td>
@@ -5604,29 +5478,30 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 
 <table>
 <tr>
-<td colspan="17">Выходной день недели ______________ 14-ая страница дневника</td>
+<th colspan="10">Выходной день недели</th>
+<th colspan="10">14-ая страница дневника</th>
 </tr>
 <tr>
 <td rowspan="2">Время</td>
 <td colspan="4">1. Чем вы занимались в этот день?</td>
 <td colspan="4">2. Чем Вы еще занимались в это же время?</td>
-<td colspan="4">3. Где Вы находились?</td>
+<td colspan="3">3. Где Вы находились?</td>
 <td colspan="4">4. В это время Вы были одни или с кем-то, кого Вы знаете?</td>
 </tr>
 <tr>
 <td>Укажите все виды деятельности, даже если Вы ими занимались только несколько минут</td>
 <td colspan="3">Код вида занятий</td>
 <td>Укажите действия, которыми Вы занимались параллельно</td>
-<td colspan="4">Код вида занятий</td>
+<td colspan="3">Код вида занятий</td>
 <td>Укажите место действия, например, дома, у друзей, в автобусе и так далее</td>
-<td colspan="2">Код места действия</td>
+<td colspan="2">Код места дейст-вия</td>
 <td>
-один/
+Один/
 одна
 </td>
-<td>с детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
-<td>с другими членами Вашего домашнего хозяйства</td>
-<td>с другими знакомыми лицами</td>
+<td>С детьми до 10 лет, живущими в Вашем домашнем хозяйстве</td>
+<td>С другими членами Вашего домашнего хозяйства</td>
+<td>С другими знакомыми лицами</td>
 </tr>
 <tr>
 <td>05.00-05.10</td>
@@ -5637,7 +5512,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5655,7 +5530,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5673,7 +5548,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5691,7 +5566,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5709,7 +5584,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5727,7 +5602,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5745,7 +5620,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5763,7 +5638,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5781,7 +5656,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5799,7 +5674,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5817,7 +5692,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5835,7 +5710,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5846,39 +5721,49 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 </tr>
 </table>
 
-## УКАЖИТЕ ВРЕМЯ, ЗАТРАЧЕННОЕ НА ЗАПОЛНЕНИЕ СТАТИСТИЧЕСКОЙ ФОРМЫ, В ЧАСАХ (НУЖНОЕ ОБВЕСТИ)
+## Укажите время, затраченное на заполнение статистической формы, в часах (нужное обвести)
 
 <table>
 <tr>
+<td></td>
 <td>до 1 часа</td>
 <td>1-2</td>
 <td>2-4</td>
 <td>4-8</td>
 <td>8-40</td>
 <td>более 40 часов</td>
+<td></td>
 </tr>
 </table>
 
-## Благодарим Вас за сотрудничество!
-
 > *Приложение 2 к приказу*  
-> *Председателя Комитета по статистике*  
-> *Министерства национальной*  
-> *экономики Республики Казахстан*  
-> *от «___» ____________2019 года*  
-> *№___*
+> *Исполняющий обязанности*  
+> *руководителя Бюро*  
+> *национальной статистики*  
+> *Агентства по стратегическому*  
+> *планированию и реформам*  
+> *Республики Казахстан*  
+> *от 29 июня 2023 года № 3*
 
-## Инструкция по заполнению статистической формы общегосударственного статистического наблюдения «Дневник использования времени» (индекс D 001, периодичность один раз в пять лет)
+> *Приложение 2*  
+> *к приказу Председателя*  
+> *Комитета по статистике*  
+> *Министерства национальной экономики*  
+> *Республики Казахстан*  
+> *от 19 декабря 2019 года*  
+> *№ 14*
 
-1. Настоящая инструкция по заполнению статистической формы общегосударственного статистического наблюдения «Дневник использования времени» (индекс D 001, периодичность один раз в пять лет) (далее – Инструкция) разработана в соответствии с подпунктом 8) статьи 12 Закона Республики Казахстан Казахстан от 19 марта 2010 года «О государственной статистике» (далее – Закон) и детализирует заполнение статистической формы общегосударственного статистического наблюдения «Дневник использования времени» (индекс D 001, периодичность один раз в пять лет) (далее – Дневник).
+## Инструкция по заполнению статистической формы общегосударственного статистического наблюдения «Дневник использования времени» (индекс D 001, периодичность единовременная)
 
-2. В настоящей Инструкции используются понятия в значениях, определенных в Законе, а также следующее определение:
+1. Настоящая инструкция детализирует заполнение статистической формы общегосударственного статистического наблюдения «Дневник использования времени» (индекс D 001, периодичность один раз в пять лет) (далее – Дневник).
+
+2. В настоящей Инструкции используются следующие определения:
 
    супервайзер – сотрудник территориального органа статистики, обеспечивающий проведение обследования домашних хозяйств и осуществляющий контроль работы интервьюеров.
 
 3. Дневник заполняется членами домашнего хозяйства в возрасте от 10 лет и старше. Заполнение Дневника производится в соответствии с рекомендациями интервьюера и нижеприведенными методологическими пояснениями.
 
-   Дневник ведется в течение 2 (двух) дней: будний день (понедельник-пятница) и выходной день (суббота и воскресенье). Конкретные дни ведения Дневника определяются интервьюером в соответствии со Схемой посещения домашних хозяйств и указываются на титульном листе. На каждой странице Дневника указывается день недели (понедельник, вторник и так далее).
+   Периодом наблюдения является январь-декабрь 2024 года. Дневник ведется в течение 2-х дней: будний день (понедельник-пятница) и выходной день (суббота и воскресенье). Конкретные дни ведения Дневника определяются интервьюером в соответствии с Графиком проведения интервьюерами общегосударственных статистических наблюдений по выборочному обследованию домашних хозяйств по уровню жизни и указываются на титульном листе. На каждой странице дневника указывается день недели (понедельник, вторник и так далее).
 
    Дневник служит для ведения членами домашнего хозяйства записей о различных видах деятельности, которыми они занимались в течение 24 часов с отметкой о начале и окончании этих занятий.
 
@@ -5888,7 +5773,7 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 
    Номер члена домашнего хозяйства проставляется из статистической формы общегосударственного статистического наблюдения «Контрольная карточка состава домашнего хозяйства» (индекс D 008, периодичность годовая (с ежеквартальным уточнением), сохраняя нумерацию членов домашнего хозяйства. Лица, временно прибывшие для проживания в домашнее хозяйство, в опрос не включаются.
 
-   В Дневнике 24 часа суточного времени разделены на 144 интервала по 10 минут и указывается фактическое время начала и завершения действия.
+   В Дневнике 24 часа суточного времени подразделены на 144 интервала по 10 минут, здесь указывается фактическое время начала и завершения действия.
 
 5. Дневник состоит из следующих вопросов:
 
@@ -5896,11 +5781,11 @@ source: https://zan.gov.kz/client/#!/doc/137458/rus/10.08.2022
 
    2) чем Вы еще занимались в это же время? Здесь указывается вспомогательная или одновременно осуществляемая респондентом деятельность. Например, человек разговаривает по телефону и одновременно курит. В случае, если для респондента более важным является разговор по телефону, то второстепенным действием является курение;
 
-   3) где Вы находились? В этой графе указывается местонахождение в момент совершения действия (дома, у друзей, у соседей, передвижение на автобусе, передвижение на поезде и так далее);
+   3) где Вы находились? В этой графе указывается местонахождение в момент совершения действия, (дома, у друзей, у соседей, передвижение на автобусе, передвижение на поезде и так далее);
 
    4) были ли Вы одни или с кем-то, кого Вы знаете? Если респондент в указанное время был один, или с детьми до 10 лет, или с кем-то из друзей, коллег, родственников, то это указывается в соответствующем столбце.
 
-      Кодирование видов занятий и места действия осуществляется интервьюером.
+   Кодирование видов занятий и места действия осуществляется интервьюером.
 
 > *Приложение 3 к приказу*  
 > *Председателя Комитета по*  
@@ -23539,115 +23424,57 @@ ________________
 
     В завершение опроса интервьюер еще раз просматривает статистическую форму, не пропущены ли какие-либо разделы или вопросы в ходе проведения опроса и благодарит респондентов за их помощь и сотрудничество.
 
-> *Сноска. Приложение 13 в редакции приказа Руководителя Бюро национальной статистики Агентства по стратегическому планированию и реформам РК от 29.10.2021 № 26 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 13 в редакции приказов Руководителя Бюро национальной статистики Агентства по стратегическому планированию и реформам РК от 29.10.2021 № 26 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); и.о. Руководителя Бюро национальной статистики Агентства по стратегическому планированию и реформам РК от 29.06.2023 № 3 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
-<td rowspan="2"></td>
-<td rowspan="2">
-Конфиденциальность гарантируется органами
-государственной статистики
-Статистическая форма общегосударственного
-статистического наблюдения
-</td>
 <td>
-<pre>
+<em>[Image]</em>
+</td>
+<td rowspan="2">
+Конфиденциальность гарантируется органами государственной статистики
+Статистическая форма общегосударственного статистического наблюдения
+</td>
+<td colspan="2" rowspan="2">
 Приложение 13 к приказу
 Председателя Комитета
 по статистике Министерства
 национальной экономики
 Республики Казахстан
-от 19 декабря 2019 года
-№ 14
-</pre>
-<pre>
-Қазақстан Республикасы
-Ұлттық экономика министрлігінің
-Статистика комитеті төрағасының
-2019 жылғы 19 желтоқсандағы
-№ 14 бұйрығына
-13-қосымша
-</pre>
+от 19 декабря 2019 года № 14
 </td>
 </tr>
 <tr>
 <td></td>
 </tr>
-</table>
-
-## Контрольная карточка состава домашнего хозяйства
-
-<table>
 <tr>
-<td>Индекс</td>
-<td>D 008</td>
-<td>годовая (с ежеквартальным уточнением)</td>
-<td>отчетный период</td>
-<td></td>
-<td>год</td>
+<td colspan="4">Контрольная карточка состава домашнего хозяйства</td>
 </tr>
 </table>
 
-```
+Индекс D 008 годовая (с ежеквартальным уточнением) отчетный период год
+
 Круг респондентов – домашние хозяйства
-Срок представления – до 1 февраля (включительно) отчетного периода (до 20 числа (включительно)
-послеотчетного периода)
-```
 
-<table>
-<tr>
-<td>1. Наименование территории (населенного пункта)</td>
-<td>______________________________________________</td>
-</tr>
-<tr>
-<td>2. Код населенного пункта по КАТО1</td>
-<td></td>
-</tr>
-<tr>
-<td>3. Код типа населенного пункта (1 - город, 2 - село)</td>
-<td></td>
-</tr>
-<tr>
-<td>4. Код домашнего хозяйства</td>
-<td></td>
-</tr>
-<tr>
-<td>5. Код интервьюера</td>
-<td></td>
-</tr>
-</table>
+Срок представления – до 1 февраля (включительно) отчетного периода (до 20 числа (включительно) после отчетного периода)
 
-<table>
-<tr>
-<td>6. Дата первого визита</td>
-<td>число</td>
-<td></td>
-<td>месяц</td>
-<td></td>
-<td>7. Дата второго визита</td>
-<td>число</td>
-<td></td>
-<td>месяц</td>
-<td></td>
-</tr>
-<tr>
-<td>8. Дата третьего визита</td>
-<td>число</td>
-<td></td>
-<td>месяц</td>
-<td></td>
-<td>9. Дата четвертого визита</td>
-<td>число</td>
-<td></td>
-<td>месяц</td>
-<td></td>
-</tr>
-</table>
+1\. Наименование территории (населенного пункта) ________________________________________________
 
-```
+2\. Код населенного пункта по КАТО1
+
+3\. Код типа населенного пункта (1 - город, 2 - село)
+
+4\. Код домашнего хозяйства
+
+5\. Код интервьюера
+
+6\. Дата первого визита число месяц 7. Дата второго визита число месяц
+
+8\. Дата третьего визита число месяц 9. Дата четвертого визита число месяц
+
 Примечание:
- 1КАТО-Классификатор административно-территориальных объектов НК РК 11-2009
-```
+
+1КАТО-Классификатор административно-территориальных объектов НК РК 11-2009
 
 <table>
 <tr>
@@ -23762,7 +23589,7 @@ ________________
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2">Рост (сантиметр)</td>
+<td colspan="2">Рост (см)</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23806,7 +23633,70 @@ ________________
 <td></td>
 </tr>
 <tr>
-<td rowspan="5">8</td>
+<td>8</td>
+<td colspan="2">
+Занятие физическими упражнениями, спортом
+(при ответах с кодами 2, 3, 4 – переход к вопросу 12 )
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2">Место занятия физическими упражнениями, спортом в свободное время, самостоятельно</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2">Частота занятий физических упражнений, спортом (дней в неделю)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="2">Средняя продолжительность одного занятия физическими упражнениями, спортом (минут)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">12</td>
 <td colspan="2">Временно отсутствует (присутствует) по состоянию на 1 января</td>
 <td></td>
 <td></td>
@@ -23878,11 +23768,8 @@ ________________
 <td></td>
 </tr>
 <tr>
-<td rowspan="5">9</td>
-<td colspan="2">
-Статус Вашей основной деятельности (лица в возрасте 15 лет и старше)
-по состоянию на 1 января
-</td>
+<td rowspan="5">13</td>
+<td colspan="2">Статус Вашей основной деятельности (лица в возрасте 15 лет и старше) по состоянию на 1 января</td>
 <td></td>
 <td></td>
 <td></td>
@@ -23954,9 +23841,7 @@ ________________
 </tr>
 </table>
 
-```
 Кодировка вариантов ответов к вопросам:
-```
 
 <table>
 <tr>
@@ -23971,7 +23856,7 @@ ________________
 8 – другая степень родства
 9 – не родственник (нет родства)
 </td>
-<td>
+<td colspan="2">
 6. Семейное положение
 1 – никогда не состоял (а) в браке
 2 – состоит в браке
@@ -23983,21 +23868,40 @@ ________________
 1 – дошкольное воспитание и обучение;
 2 – начальное образование;
 3 – основное среднее образование;
-4 – среднее образование (общее среднее образование, техническое и профессиональное образование);
+4 – среднее образование (общее среднее образование,
+техническое и профессиональное образование);
 5 – высшее образование;
 6 – послевузовское образование;
 7 – не достигнут никакой уровень образования
 </td>
 </tr>
 <tr>
+<td colspan="2">
+8. Занятие физическими упражнениями, спортом
+1 – да, в свободное время, самостоятельно
+2 – да, в образовательных учреждениях
+3 – да, профессионально
+4 – нет, не занимаюсь
+9. Место занятия физическими упражнениями, спортом в свободное время, самостоятельно
+1 - посещаю организованные занятия спортом (секции, тренажерные залы)
+2 - занимаюсь самостоятельно
+3 - посещаю организованные занятия и занимаюсь самостоятельно
+</td>
+<td colspan="2">
+10. Частота занятий физических упражнений, спортом в неделю
+1 - __ (дней в неделю)
+8 - от случая к случаю
+</td>
+</tr>
+<tr>
 <td>
-8. Статус изменения состава
+12. Статус изменения состава
 1 – постоянно выбыл
 2 – постоянно прибыл
 3 – временно выбыл
 4 – временно прибыл
 </td>
-<td>
+<td colspan="2">
 Причины выбытия (прибытия)
 1 – рождение
 2 – смерть
@@ -24007,26 +23911,27 @@ ________________
 6 – развод
 7 – учеба
 8 – служба в армии
-9 – иные (в больницах, в местах заключения, переезд на другое место жительства и так далее)
+9 – иные (в больницах, в местах заключения,
+переезд на другое место жительства и т.д.)
 </td>
 <td>
-9. Статус основной деятельности
+13. Статус основной деятельности
 1 – работающий по найму (по письменному договору или устной договоренности)
 1.1 – работа по найму у отдельных физических лиц
-2 – работающий не по найму (на собственном предприятии, занимающийся индивидуальной предпринимательской деятельностю)
+2 – работающий не по найму (на собственном предприятии,
+занимающийся индивидуальной предпринимательской деятельностю)
 3 – не работающий и ищущий работу (безработный)
 4 – пенсионер (неработающий пенсионер)
 5 – учащийся, студент
-6 – занимающийся домашним хозяйством, уходом за детьми или другими лицами
+6 – занимающийся домашним хозяйством, уходом за детьми или
+другими лицами
 7 – временно или длительно нетрудоспособный
 8 – не работающий и не ищущий работу по другим причинам
 </td>
 </tr>
 </table>
 
-```
-10. Укажите время, затраченное на заполнение статистической формы, в часах (нужное обвести)
-```
+## 14. Укажите время, затраченное на заполнение статистической формы, в часах (нужное обвести)
 
 <table>
 <tr>
@@ -24036,6 +23941,7 @@ ________________
 <td>4-8</td>
 <td>8-40</td>
 <td>более 40 часов</td>
+<td></td>
 </tr>
 </table>
 
@@ -24043,13 +23949,13 @@ ________________
 
 > *Приложение 14 к приказу*  
 > *Председателя Комитета по статистике*  
-> *Министерства национальной экономики*  
-> *Республики Казахстан*  
+> *Министерства национальной*  
+> *экономики Республики Казахстан*  
 > *от 19 декабря 2019 года № 14*
 
-## Инструкция по заполнению статистической формы общегосударственного статистического наблюдения «Контрольная карточка состава домашнего хозяйства» (индекс D008, периодичность годовая(с ежеквартальным уточнением)
+## Инструкция по заполнению статистической формы общегосударственного статистического наблюдения «Контрольная карточка состава домашнего хозяйства» (индекс D 008, периодичность годовая (с ежеквартальным уточнением)
 
-> *Сноска. Приложение 14 в редакции приказа Руководителя Бюро национальной статистики Агентства по стратегическому планированию и реформам РК от 10.08.2022 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 14 в редакции приказов Руководителя Бюро национальной статистики Агентства по стратегическому планированию и реформам РК от 10.08.2022 № 13 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); и.о. Руководителя Бюро национальной статистики Агентства по стратегическому планированию и реформам РК от 29.06.2023 № 3 (вводится в действие с 01.01.2024).*
 
 1. Настоящая инструкция детализирует заполнение статистической формы общегосударственного статистического наблюдения «Контрольная карточка состава домашнего хозяйства» (индекс D 008, периодичность годовая (с ежеквартальным уточнением) (далее – Контрольная карточка).
 
@@ -24103,7 +24009,41 @@ ________________
 
     не достигнут никакой уровень образования – член домашнего хозяйства не имеет никакого образования. Дети, охваченные школьным образованием, но еще не закончившие начальное образование (1, 2, 3 и 4 классы) в случае наличия дошкольного образования относятся к лицам, имеющим дошкольное образование, в случае отсутствия дошкольного образования, относятся к лицам, не имеющим никакого образования.
 
-12. В вопросе 8 по членам домашнего хозяйства на момент опроса временно отсутствующим (например, проходят службу в армии срочники, находится в больнице, получает образование), проставляются соответствующие двухзначные коды (статус, причина).
+12. В вопросе 8 записывается информация о текущем состоянии занятия физическими упражнениями, спортом по каждому члену домашнего хозяйства в возрасте от трех лет и старше.
+
+    Ответы указывается в соответствии со следующими условиями:
+
+    да, в свободное время, самостоятельно – занятие физическими упражнениями, спортом:
+
+    - в секциях, спортивных, тренажерных залах;
+
+    - на открытом воздухе в общедоступных местах (спортивные площадки, парки) и в домашних условиях в произвольной форме без участия специализированных тренеров;
+
+    да, в образовательных учреждениях – занятия по физической культуре в образовательных учреждениях;
+
+    да профессионально – занятие физическими упражнениями, спортом на профессиональном уровне.
+
+13. В вопросе 9 указывается место занятия физическими упражнениями, спортом.
+
+    Ответы указывается в соответствии со следующими условиями:
+
+    посещаю организованные занятия спортом (секции, спортивные, тренажерные залы) – специальные организованные места для занятия физическими упражнениями, спортом;
+
+    занимаюсь самостоятельно – занятия физическими упражнениями, спортом на открытом воздухе в общедоступных местах (спортивные площадки, парки) и в домашних условиях;
+
+    посещаю организованные занятия и занимаюсь самостоятельно – при посещении специальных организованных мест для занятия физическими упражнениями, спортом и самостоятельном занятии на открытом воздухе и в домашних условиях.
+
+14. В вопросе 10 записывается информация о частоте занятий физических упражнений, спортом в неделю
+
+    Ответы указывается в соответствии со следующими условиями:
+
+    Указывается количество дней в неделю в цифрах.
+
+    При условии если занятия физическими упражнениями, спортом носит не систематический характер указывать код «8» (От случая к случаю).
+
+15. В вопросе 11 записывается информация о средней продолжительности одного занятия физическими упражнениями, спортом в минутах.
+
+16. В вопросе 12 по членам домашнего хозяйства на момент опроса временно отсутствующим (например, проходят службу в армии срочники, находится в больнице, получает образование), проставляются соответствующие двухзначные коды (статус, причина).
 
     Возможны следующие двухзначные коды (статус, причина):
 
@@ -24129,7 +24069,7 @@ ________________
 
     Рождение имеет код 21, смерть – 12.
 
-13. В вопросе 9 опрашиваются лица в возрасте 15 лет и старше, в том числе временно выбывшие и временно прибывшие.
+17. В вопросе 13 опрашиваются лица в возрасте 15 лет и старше, в том числе временно выбывшие и временно прибывшие.
 
     Работающий по найму – работающий на предприятии (в учреждении, организации) или у физических лиц по письменному договору, контракту или устному соглашению, заключенному с администрацией предприятия, учреждения, организации любой формы собственности или с частным нанимателем, и получающий вознаграждение в виде оплаты труда (в денежной или натуральной форме).
 
@@ -24161,6 +24101,6 @@ ________________
 
     Не работающий и не ищущий работу по другим причинам – член домашнего хозяйства не работает и не ищет работу по иным причинам, кроме всех вышеуказанных причин.
 
-14. Контрольная карточка заполняется интервьюером в двух экземплярах. Один экземпляр передается супервайзеру, второй остается у интервьюера. В него вносятся все изменения о составе домашнего хозяйства (если они были) во время проведения квартальных интервью.
+18. Контрольная карточка заполняется интервьюером в двух экземплярах. Один экземпляр передается супервайзеру, второй остается у интервьюера. В него вносятся все изменения о составе домашнего хозяйства (если они были) во время проведения квартальных интервью.
 
     По завершении опроса интервьюер повторно просматривает Контрольную карточку и проверяет не пропущены ли какие-либо вопросы и благодарит домашнее хозяйство за их помощь и сотрудничество. За пределами домашнего хозяйства интервьюер повторно просматривает Контрольную карточку и, если все же обнаруживает какие-либо несоответствия, то вновь обращается в домашнее хозяйство (лично или по телефону) и выясняет недостающую информацию.
