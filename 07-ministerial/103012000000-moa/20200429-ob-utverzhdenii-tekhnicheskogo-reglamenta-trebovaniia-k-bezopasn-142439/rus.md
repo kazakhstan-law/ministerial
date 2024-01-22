@@ -14,6 +14,11 @@ approval_date: 2020-04-29
 version_date: 2020-04-29
 registry_number: '142439'
 source: https://zan.gov.kz/client/#!/doc/142439/rus/29.04.2020
+repealed_on: 2024-04-08
+repealed_by:
+  code: '193028'
+  title: Об утверждении технического регламента «Требования к безопасности удобрений»
+  link: https://zan.gov.kz/client/#!/doc/193028/rus
 ---
 
 # Об утверждении технического регламента «Требования к безопасности удобрений»
