@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/148139/rus/19.12.2023
+source: https://zan.gov.kz/client/#!/doc/148139/rus/23.01.2024
 ---
 
 ## Форма № ТБ 082/у «Карта наблюдения за диспансерным контингентом»
