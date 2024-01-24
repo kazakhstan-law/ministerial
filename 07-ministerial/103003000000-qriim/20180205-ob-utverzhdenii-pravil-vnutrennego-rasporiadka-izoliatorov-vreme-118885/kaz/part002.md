@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118885/kaz/01.09.2023
+source: https://zan.gov.kz/client/#!/doc/118885/kaz/24.01.2024
 ---
 
 > *Ішкі істер органдары уақытша*  
