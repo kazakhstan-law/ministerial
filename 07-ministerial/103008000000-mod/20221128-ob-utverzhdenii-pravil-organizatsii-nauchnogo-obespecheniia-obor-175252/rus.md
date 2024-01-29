@@ -1,5 +1,5 @@
 ---
-version_id: '175252_643687'
+version_id: '175252_691632'
 act_code: '175252'
 language: rus
 title: Об утверждении Правил организации научного обеспечения обороны
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103008000000'
 approval_date: 2022-11-28
-version_date: 2022-11-28
+version_date: 2024-01-29
 registry_number: '175252'
-source: https://zan.gov.kz/client/#!/doc/175252/rus/28.11.2022
+caused_by:
+  code: '194719'
+  title: О внесении изменений в некоторые приказы Министра обороны Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/194719/rus
+source: https://zan.gov.kz/client/#!/doc/175252/rus/29.01.2024
 ---
 
 Нормативные правовые акты с пометкой «для служебного пользования» размещаются в Эталонном банке в виде реквизитов.
