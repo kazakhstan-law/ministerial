@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97054/kaz/20.12.2023
+source: https://zan.gov.kz/client/#!/doc/97054/kaz/01.02.2024
 ---
 
 > *Аукциондық құжаттамаға*  
