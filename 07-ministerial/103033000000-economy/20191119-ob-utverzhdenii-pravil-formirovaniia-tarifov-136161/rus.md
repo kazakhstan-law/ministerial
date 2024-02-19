@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/136161/rus/01.02.2024
+source: https://zan.gov.kz/client/#!/doc/136161/rus/19.02.2024
 ---
 
 # Об утверждении Правил формирования тарифов
