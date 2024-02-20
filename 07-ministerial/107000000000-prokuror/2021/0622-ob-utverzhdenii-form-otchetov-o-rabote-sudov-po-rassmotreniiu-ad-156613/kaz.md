@@ -2,9 +2,9 @@
 
 > *Ескерту. 01.07.2021 бастап қолданысқа енгізіледі – осы бұйрықтың 4-тармағымен.*
 
-«Мемлекеттік құқықтық статистика және арнайы есепке алу туралы» Қазақстан Республикасы Заңының 6-бабының 1) тармақшасын басшылыққа ала отырып, БҰЙЫРАМЫН:
+«Мемлекеттік құқықтық статистика және арнайы есепке алу туралы» Қазақстан Республикасы Заңының 6-бабының 1) тармақшасына сәйкес, Қазақстан Республикасы Президентінің 2017 жылғы 13 қазандағы № 563 Жарлығымен бекітілген «Қазақстан Республикасының прокуратура органдарының кейбір мәселелері туралы» Қазақстан Республикасының Бас прокуратурасы туралы ереженің 19-тармағының 37) тармақшасын басшылыққа ала отырып, БҰЙЫРАМЫН:
 
-> *Ескерту. Кіріспе жаңа редакцияда - ҚР Бас Прокурорының 14.06.2022 № 130 (бірінші ресми жарияланған күннен бастап қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. Кіріспе жаңа редакцияда - ҚР Бас Прокурорының 14.06.2022 № 130 (бірінші ресми жарияланған күннен бастап қолданысқа енгізіледі); 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 1. Мыналар:
 
@@ -51,7 +51,7 @@
 > *22 маусымдағы № 92*  
 > *Бұйрықтың 1-қосымшасы*
 
-> *Ескерту. Нысан жаңа редакцияда - ҚР Бас Прокурорының 14.06.2022 № 130 (бірінші ресми жарияланған күннен бастап қолданысқа енгізіледі); өзгерістер енгізілді - ҚР Бас Прокурорының 16.09.2022 № 185 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. Нысан жаңа редакцияда - ҚР Бас Прокурорының 14.06.2022 № 130 (бірінші ресми жарияланған күннен бастап қолданысқа енгізіледі); өзгерістер енгізілді - ҚР Бас Прокурорының 16.09.2022 № 185 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 нысан
 
@@ -1177,26 +1177,39 @@
 <td>48</td>
 <td>49</td>
 </tr>
+<tr>
+<td colspan="6">Мүгедектігі бар адамдардың талап қоюлары бойынша</td>
+<td colspan="6">кәмелетке толмағандардың мүддесіне берілген талап қоюлар бойынша</td>
+<td colspan="5">әйел адамдардың талап қоюлары бойынша</td>
+</tr>
+<tr>
+<td colspan="6">50</td>
+<td colspan="6">51</td>
+<td colspan="6">52</td>
+</tr>
 </table>
 
-нысан
+> *нысан*
 
-№ 5-нысаны «Бірінші сатыдағы соттардың әкімшілік істерді қарауы жөніндегі есеп»
+«Бірінші сатыдағы соттардың әкімшілік істерді қарауы жөніндегі есеп» № 5-нысаны
 
-2-бөлім «Әкімшілік органдарға, лауазымды адамдарға қатысты әкімшілік істердің қозғалысы»
+«Әкімшілік органдарға, лауазымды адамдарға қатысты әкімшілік істердің қозғалысы» 2-бөлім
 
 <table>
 <tr>
-<td colspan="3" rowspan="2">Атауы</td>
+<td colspan="4" rowspan="2">Атауы</td>
 <td rowspan="2"></td>
 <td rowspan="2">Есептік кезеңнің басындағы аяқталмаған істердің қалдығы</td>
 <td rowspan="2">Есептік кезеңде келіп түскен істер</td>
-<td rowspan="2">Жаңадан ашылған мән-жайлар бойынша бастапқы сот актілерінің күші жойылуына байланысты істер бойынша қайта жаңартылған іс жүргізулер</td>
+<td colspan="2" rowspan="2">Жаңадан ашылған мән-жайлар бойынша бастапқы сот актілерінің күші жойылуына байланысты істер бойынша қайта жаңартылған іс жүргізулер</td>
 <td colspan="2">1-3-бағандардан</td>
-<td rowspan="2">Іс (арыз) соттылығы бойынша жіберілді</td>
+<td colspan="2" rowspan="2">Іс (арыз) соттылығы бойынша жіберілді</td>
 <td rowspan="2">Шешім шығарылып қаралды</td>
-<td rowspan="2">Ұйғарым шығарылып қаралды</td>
-<td colspan="4">оның ішінде (7-8 бағандардан)</td>
+<td colspan="2" rowspan="2">Ұйғарым шығарылып қаралды</td>
+<td colspan="4">
+оның ішінде
+7-8-бағандардан
+</td>
 </tr>
 <tr>
 <td>прокурордың талап қоюы бойынша</td>
@@ -1205,458 +1218,458 @@
 <td colspan="2">талап қоюдан бас тарта отырып</td>
 </tr>
 <tr>
-<td colspan="3">А</td>
+<td colspan="4">А</td>
 <td>Б</td>
 <td>1</td>
 <td>2</td>
-<td>3</td>
+<td colspan="2">3</td>
 <td>4</td>
 <td>5</td>
-<td>6</td>
+<td colspan="2">6</td>
 <td>7</td>
-<td>8</td>
+<td colspan="2">8</td>
 <td colspan="2">9</td>
 <td colspan="2">10</td>
 </tr>
 <tr>
-<td colspan="3">БАРЛЫҒЫ</td>
+<td colspan="4">Барлығы</td>
 <td>1</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасы Парламенті Сенатының Аппараты</td>
+<td colspan="4">Қазақстан Республикасы Парламенті Сенатының Аппараты</td>
 <td>2</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасы Парламенті Мәжілісінің Аппараты</td>
+<td colspan="4">Қазақстан Республикасы Парламенті Мәжілісінің Аппараты</td>
 <td>3</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Тұңғыш Президент - Қазақстан Республикасы Елбасының Кеңсесі</td>
+<td colspan="4">Тұңғыш Президент - Қазақстан Республикасы Елбасының Кеңсесі</td>
 <td>4</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасы Президентінің Іс басқармасы</td>
+<td colspan="4">Қазақстан Республикасы Президентінің Іс басқармасы</td>
 <td>5</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасы Премьер-Министрінің Кеңсесі</td>
+<td colspan="4">Қазақстан Республикасы Үкімет Аппараты</td>
 <td>6</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасы Конституциялық Кеңесінің Аппараты</td>
+<td colspan="4">Қазақстан Республикасы Конституциялық Сотының Аппараты</td>
 <td>7</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасы Жоғарғы Сотының жанындағы Соттар қызметін қамтамасыз ету департаменті (Қазақстан Республикасы Жоғарғы Соты аппараты)</td>
+<td colspan="4">Қазақстан Республикасының Сот әкімшілігі</td>
 <td>8</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">оның ішінде</td>
+<td colspan="3">оның ішінде</td>
 <td>аумақтық бөлімшелер</td>
 <td>9</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасы Қауіпсіздік Кеңесінің Аппараты</td>
+<td colspan="4">Қазақстан Республикасы Қауіпсіздік Кеңесінің Аппараты</td>
 <td>10</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Ұлттық банкі</td>
+<td colspan="4">Қазақстан Республикасының Ұлттық банкі</td>
 <td>11</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Орталық сайлау комиссиясының Аппараты</td>
+<td colspan="4">Қазақстан Республикасының Орталық сайлау комиссиясының Аппараты</td>
 <td>12</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасы Жоғарғы сот Кеңесінің Аппараты</td>
+<td colspan="4">Қазақстан Республикасы Жоғарғы сот Кеңесінің Аппараты</td>
 <td>13</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Бас прокуратурасы</td>
+<td colspan="4">Қазақстан Республикасының Бас прокуратурасы</td>
 <td>14</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">оның ішінде</td>
+<td colspan="3">оның ішінде</td>
 <td>аумақтық бөлімшелер</td>
 <td>15</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Ұлттық қауіпсіздік комитеті</td>
+<td colspan="4">Қазақстан Республикасының Ұлттық қауіпсіздік комитеті</td>
 <td>16</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">оның ішінде</td>
+<td colspan="3">оның ішінде</td>
 <td>аумақтық бөлімшелер</td>
 <td>17</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасы Республикалық бюджеттің атқарылуын бақылау жөніндегі есеп комитеті</td>
+<td colspan="4">Қазақстан Республикасы Жоғары аудиторлық палатасы</td>
 <td>18</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасы Президентінің Мемлекеттік Күзет қызметі</td>
+<td colspan="4">Қазақстан Республикасы Президентінің Мемлекеттік Күзет қызметі</td>
 <td>19</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">оның ішінде</td>
+<td colspan="3">оның ішінде</td>
 <td>Айырықша мақсаттағы күштері</td>
 <td>20</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Мемлекеттік қызмет істері агенттігі</td>
+<td colspan="4">Қазақстан Республикасының Мемлекеттік қызмет істері агенттігі</td>
 <td>21</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">оның ішінде</td>
+<td colspan="3">оның ішінде</td>
 <td>аумақтық бөлімшелер</td>
 <td>22</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Сыбайлас жемқорлыққа қарсы іс-қимыл агенттігі (Сыбайлас жемқорлыққа қарсы қызметі)</td>
+<td colspan="4">Қазақстан Республикасының Сыбайлас жемқорлыққа қарсы іс-қимыл агенттігі (Сыбайлас жемқорлыққа қарсы қызметі)</td>
 <td>23</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">оның ішінде</td>
+<td colspan="3">оның ішінде</td>
 <td>аумақтық бөлімшелер</td>
 <td>24</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Қаржы нарығын реттеу және дамыту агенттігі</td>
+<td colspan="4">Қазақстан Республикасының Қаржы нарығын реттеу және дамыту агенттігі</td>
 <td>25</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Стратегиялық жоспарлау және реформалар агенттігі</td>
+<td colspan="4">Қазақстан Республикасының Стратегиялық жоспарлау және реформалар агенттігі</td>
 <td>26</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">оның ішінде</td>
+<td colspan="3">оның ішінде</td>
 <td>Ұлттық статистика бюросы және оның аумақтық бөлімшелері</td>
 <td>27</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Бәсекелестікті қорғау және дамыту агенттігі</td>
+<td colspan="4">Қазақстан Республикасының Бәсекелестікті қорғау және дамыту агенттігі</td>
 <td>28</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Қаржылық мониторинг агенттігі және оның аумақтық бөлімшелері</td>
+<td colspan="4">Қазақстан Республикасының Қаржылық мониторинг агенттігі және оның аумақтық бөлімшелері</td>
 <td>29</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Сыртқы істер министрлігі</td>
+<td colspan="4">Қазақстан Республикасының Сыртқы істер министрлігі</td>
 <td>30</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">оның ішінде</td>
+<td colspan="3" rowspan="3">оның ішінде</td>
 <td>Инвестиция комитеті</td>
 <td>31</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -1665,12 +1678,12 @@
 <td>32</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -1679,629 +1692,627 @@
 <td>33</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Ішкі істер министрлігі</td>
+<td colspan="4">Қазақстан Республикасының Ішкі істер министрлігі</td>
 <td>34</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2" rowspan="5">оның ішінде</td>
-<td>Ұлттық ұланның Бас қолбасшылығы</td>
+<td colspan="2">Ұлттық ұланның Бас қолбасшылығы</td>
 <td>35</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Қылмыстық-атқару жүйесі комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">Қылмыстық-атқару жүйесі комитеті және оның аумақтық бөлімшелері</td>
 <td>36</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Әкімшілік полиция комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">Әкімшілік полиция комитеті және оның аумақтық бөлімшелері</td>
 <td>37</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Көші-қон қызметі комитеті</td>
+<td colspan="2">Көші-қон қызметі комитеті</td>
 <td>38</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>39</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Қорғаныс министрлігі</td>
+<td colspan="4">Қазақстан Республикасының Қорғаныс министрлігі</td>
 <td>40</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">оның ішінде</td>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
-<td>41</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">Қазақстан Республикасының Ақпарат және қоғамдық даму министрлігі</td>
-<td>42</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="6">оның ішінде</td>
-<td>Ақпарат комитеті</td>
-<td>43</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Азаматтық қоғам істері комитеті</td>
-<td>44</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Жастар және отбасы істері комитеті</td>
-<td>45</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Дін істері комитеті</td>
-<td>46</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Этносаралық қатынастарды дамыту комитеті</td>
-<td>47</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
-<td>48</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">Қазақстан Республикасының Ауылшаруашылық министрлігі</td>
-<td>49</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">оның ішінде</td>
-<td>Ветеринариялық бақылау және қадағалау комитеті және оның аумақтық бөлімшелері</td>
-<td>50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Агроөнеркәсіптік кешендегі мемлекеттік инспекция комитеті мен оның аумақтық бөлімшелері</td>
-<td>51</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Жер ресурстарын басқару комитеті</td>
-<td>52</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
-<td>53</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">Қазақстан Республикасының Әділет министрлігі</td>
-<td>54</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">оның ішінде</td>
-<td>аумақтық бөлімшелер</td>
-<td>55</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
-<td>56</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="3">Қазақстан Республикасының оқу-ағарту министрлігі</td>
-<td>57</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>оның ішінде</td>
-<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="3">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td>41</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4">Қазақстан Республикасының Ақпарат және қоғамдық даму министрлігі</td>
+<td>42</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td rowspan="6">оның ішінде</td>
+<td colspan="3">Ақпарат комитеті</td>
+<td>43</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Азаматтық қоғам істері комитеті</td>
+<td>44</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Жастар және отбасы істері комитеті</td>
+<td>45</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Дін істері комитеті</td>
+<td>46</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Этносаралық қатынастарды дамыту комитеті</td>
+<td>47</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td>48</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4">Қазақстан Республикасының Мәдениет және ақпарат министрлігі</td>
+<td>49</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td rowspan="8">оның ішінде</td>
+<td colspan="3">Архив, құжаттама және кітап ісі комитеті және оның аумақтық бөлімшелері</td>
+<td>50</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Мәдениет комитеті және оның аумақтық бөлімшелері</td>
+<td>51</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Ақпарат комитеті және оның аумақтық бөлімшелері</td>
+<td>52</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Азаматтық қоғам істері комитеті және оның аумақтық бөлімшелері</td>
+<td>53</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Жастар және отбасы істері комитеті және оның аумақтық бөлімшелері</td>
+<td>54</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Дін істері комитеті және оның аумақтық бөлімшелері</td>
+<td>55</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Этносаралық қатынастарды дамыту комитеті және оның аумақтық бөлімшелері</td>
+<td>56</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td>57</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4">Қазақстан Республикасының Ауылшаруашылық министрлігі</td>
 <td>58</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Білім және ғылым министрлігі</td>
+<td rowspan="4">оның ішінде</td>
+<td colspan="3">Ветеринариялық бақылау және қадағалау комитеті, оның аумақтық бөлімшелері</td>
 <td>59</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="6">оның ішінде</td>
-<td>Білім және ғылым саласында сапаны қамтамасыз ету комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="3">Агроөнеркәсіптік кешендегі мемлекеттік инспекция комитеті, оның аумақтық бөлімшелері</td>
 <td>60</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Балалардың құқығын қорғау комитеті</td>
+<td colspan="3">Жер ресурстарын басқару комитеті</td>
 <td>61</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Ғылым комитеті</td>
+<td colspan="3">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>62</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Тіл саясаты комитеті</td>
+<td colspan="4">Қазақстан Республикасының Әділет министрлігі</td>
 <td>63</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Мектепке дейінгі және орта білім комитеті</td>
+<td rowspan="2">в том числе</td>
+<td colspan="3">аумақтық бөлімшелер</td>
 <td>64</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="3">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>65</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Денсаулық сақтау министрлігі</td>
+<td colspan="4">Қазақстан Республикасының Оқу-ағарту министрлігі</td>
 <td>66</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">оның ішінде</td>
-<td>Медициналық және фармацевтикалық бақылау комитеті және оның аумақтық бөлімшелері</td>
+<td rowspan="4">оның ішінде</td>
+<td colspan="3">Білім саласында сапаны қамтамасыз ету комитеті және оның аумақтық бөлімшелері</td>
 <td>67</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Санитарлық-эпидемиологиялық бақылау комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="3">Балалардың құқығын қорғау комитеті</td>
 <td>68</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="3">Орта білім комитеті</td>
 <td>69</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Еңбек және халықты әлеуметтік қорғау министрлігі</td>
+<td colspan="3">министрлік, оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>70</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">оның ішінде</td>
-<td>Еңбек, әлеуметтік қорғау және көші-қон комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="4">Қазақстан Республикасының Ғылым және жоғары білім министрлігі</td>
 <td>71</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td rowspan="5">оның ішінде</td>
+<td colspan="3">Ғылым және жоғары білім саласында сапаны қамтамасыз ету комитеті</td>
 <td>72</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Индустрия және инфрақұрылымдық даму министрлігі</td>
+<td colspan="3">Жоғары және жоғары оқу орнынан кейінгі комитеті</td>
 <td>73</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="7">оның ішінде</td>
-<td>Қазынашылық комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="3">Ғылым комитеті</td>
 <td>74</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Автомобиль жолдары комитеті</td>
+<td colspan="3">Тіл саясаты комитеті</td>
 <td>75</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>Азаматтық авиация комитеті</td>
+<td colspan="3">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>76</td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td>Көлік комитеті</td>
+<td colspan="5">Қазақстан Республикасы Білім және ғылым министрлігі</td>
 <td>77</td>
 <td></td>
 <td></td>
@@ -2311,11 +2322,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Құрылыс және тұрғын үй коммуналдық шаруашылық істері комитеті</td>
+<td colspan="3" rowspan="5">оның ішінде</td>
+<td colspan="2">Білім және ғылым саласындағы сапаны қамтамасыз ету комитеті және оның аумақтық бөлімшелері</td>
 <td>78</td>
 <td></td>
 <td></td>
@@ -2325,11 +2337,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Мемлекеттік қорғаныстық тапсырыс комитеті</td>
+<td colspan="2">Ғылым комитеті</td>
 <td>79</td>
 <td></td>
 <td></td>
@@ -2339,11 +2351,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">Балалардың құқығын қорғау комитеті</td>
 <td>80</td>
 <td></td>
 <td></td>
@@ -2353,11 +2365,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Қаржы министрлігі</td>
+<td colspan="2">Мектепке дейінгі және орта білім комитеті</td>
 <td>81</td>
 <td></td>
 <td></td>
@@ -2367,12 +2379,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="5">оның ішінде</td>
-<td>Қазынашылық комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>82</td>
 <td></td>
 <td></td>
@@ -2382,11 +2393,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Ішкі мемлекеттік аудит комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="5">Қазақстан Республикасының Денсаулық сақтау министрлігі</td>
 <td>83</td>
 <td></td>
 <td></td>
@@ -2396,11 +2407,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Мемлекеттік мүлік және жекешелендіру комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="3" rowspan="3">оның ішінде</td>
+<td colspan="2">Медициналық және фармацевтикалық бақылау комитеті және оның аумақтық бөлімшелері</td>
 <td>84</td>
 <td></td>
 <td></td>
@@ -2410,11 +2422,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Мемлекеттік кірістер комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">Санитарлық-эпидемиологиялық бақылау комитеті және оның аумақтық бөлімшелері</td>
 <td>85</td>
 <td></td>
 <td></td>
@@ -2424,11 +2436,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>86</td>
 <td></td>
 <td></td>
@@ -2438,11 +2450,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Мәдениет және спорт министрлігі</td>
+<td colspan="5">Қазақстан Республикасының Еңбек және халықты әлеуметтік қорғау министрлігі</td>
 <td>87</td>
 <td></td>
 <td></td>
@@ -2452,12 +2464,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4">оның ішінде</td>
-<td>Тіл саясаты комитеті</td>
+<td colspan="3" rowspan="2">оның ішінде</td>
+<td colspan="2">Еңбек, әлеуметтік қорғау және көші-қон комитеті және оның аумақтық бөлімшелері</td>
 <td>88</td>
 <td></td>
 <td></td>
@@ -2467,11 +2479,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Спорт және дене шынықтыру істері комитеті</td>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>89</td>
 <td></td>
 <td></td>
@@ -2481,11 +2493,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Туризм индустриясы комитеті</td>
+<td colspan="5">Қазақстан Республикасының Индустрия және инфрақұрылымдық даму министрлігі</td>
 <td>90</td>
 <td></td>
 <td></td>
@@ -2495,11 +2507,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="3" rowspan="7">оның ішінде</td>
+<td colspan="2">Индустриялық даму комитеті және аумақтық бөлімшелері</td>
 <td>91</td>
 <td></td>
 <td></td>
@@ -2509,11 +2522,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Сауда және интеграция министрлігі</td>
+<td colspan="2">Автомобиль жолдары комитеті</td>
 <td>92</td>
 <td></td>
 <td></td>
@@ -2523,12 +2536,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">оның ішінде</td>
-<td>Тұтынушылардың құқықтарын қорғау комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">Азаматтық авиация комитеті</td>
 <td>93</td>
 <td></td>
 <td></td>
@@ -2538,11 +2550,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Техникалық реттеу және метрология комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">Көлік комитеті</td>
 <td>94</td>
 <td></td>
 <td></td>
@@ -2552,11 +2564,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">Құрылыс және тұрғын үй коммуналдық шаруашылық істері комитеті</td>
 <td>95</td>
 <td></td>
 <td></td>
@@ -2566,11 +2578,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Төтенше жағдайлар министрлігі</td>
+<td colspan="2">Мемлекеттік қорғаныстық тапсырыс комитеті</td>
 <td>96</td>
 <td></td>
 <td></td>
@@ -2580,12 +2592,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="6">оның ішінде</td>
-<td>Азаматтық қорғаныс және әскери бөлімдер комитеті</td>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>97</td>
 <td></td>
 <td></td>
@@ -2595,11 +2606,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Өртке қарсы қызмет комитеті</td>
+<td colspan="5">Қазақстан Республикасы Көлік министрлігі</td>
 <td>98</td>
 <td></td>
 <td></td>
@@ -2609,11 +2620,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Өнеркәсіптік қауіпсіздік комитеті</td>
+<td colspan="3" rowspan="5">оның ішінде</td>
+<td colspan="2">Автомобиль көлігі және көліктік бақылау комитеті және оның аумақтық бөлімшелері</td>
 <td>99</td>
 <td></td>
 <td></td>
@@ -2623,11 +2635,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Мемлекеттік материалдық резервтер жөніндегі комитет</td>
+<td colspan="2">Автомобиль жолдары комитеті және оның аумақтық бөлімшелері</td>
 <td>100</td>
 <td></td>
 <td></td>
@@ -2637,11 +2649,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>аумақтық бөлімшелер</td>
+<td colspan="2">Азаматтық авиация комитеті және оның аумақтық бөлімшелері</td>
 <td>101</td>
 <td></td>
 <td></td>
@@ -2651,11 +2663,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">Теміржол көлігі және су көлігі комитеті және оның аумақтық бөлімшелері</td>
 <td>102</td>
 <td></td>
 <td></td>
@@ -2665,11 +2677,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Ұлттық экономика министрлігі</td>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>103</td>
 <td></td>
 <td></td>
@@ -2679,12 +2691,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">оның ішінде</td>
-<td>Табиғи монополияларды реттеу комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="5">Қазақстан Республикасының Қаржы министрлігі</td>
 <td>104</td>
 <td></td>
 <td></td>
@@ -2694,11 +2705,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="3" rowspan="5">оның ішінде</td>
+<td colspan="2">Қазынашылық комитеті және оның аумақтық бөлімшелері</td>
 <td>105</td>
 <td></td>
 <td></td>
@@ -2708,11 +2720,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрлігі</td>
+<td colspan="2">Ішкі мемлекеттік аудит комитеті және оның аумақтық бөлімшелері</td>
 <td>106</td>
 <td></td>
 <td></td>
@@ -2722,12 +2734,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="6">оның ішінде</td>
-<td>Аэроғарыш комитеті</td>
+<td colspan="2">Мемлекеттік мүлік және жекешелендіру комитеті және оның аумақтық бөлімшелері</td>
 <td>107</td>
 <td></td>
 <td></td>
@@ -2737,11 +2748,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Ақпараттық қауіпсіздік комитеті</td>
+<td colspan="2">Мемлекеттік кірістер комитеті және оның аумақтық бөлімшелері</td>
 <td>108</td>
 <td></td>
 <td></td>
@@ -2751,11 +2762,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Телекоммуникациялар комитеті</td>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>109</td>
 <td></td>
 <td></td>
@@ -2765,11 +2776,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Геодезия және картография комитеті</td>
+<td colspan="5">Қазақстан Республикасының Мәдениет және спорт министрлігі</td>
 <td>110</td>
 <td></td>
 <td></td>
@@ -2779,11 +2790,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Мемлекеттік көрсетілетін қызметтер комитеті</td>
+<td colspan="3" rowspan="4">оның ішінде</td>
+<td colspan="2">Тіл саясаты комитеті</td>
 <td>111</td>
 <td></td>
 <td></td>
@@ -2793,11 +2805,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">Спорт және дене шынықтыру істері комитеті</td>
 <td>112</td>
 <td></td>
 <td></td>
@@ -2807,11 +2819,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Экология, геология және табиғи ресурстар министрлігі</td>
+<td colspan="2">Туризм индустриясы комитеті</td>
 <td>113</td>
 <td></td>
 <td></td>
@@ -2821,12 +2833,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="5">оның ішінде</td>
-<td>Геология комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>114</td>
 <td></td>
 <td></td>
@@ -2836,11 +2847,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Орман шаруашылығы және жануарлар дүниесі комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="5">Қазақстан Республикасы Туризм және спорт министрлігі</td>
 <td>115</td>
 <td></td>
 <td></td>
@@ -2850,11 +2861,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Су ресурстары комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="3" rowspan="3">оның ішінде</td>
+<td colspan="2">Спорт және дене шынықтыру істері комитеті және оның аумақтық бөлімшелері</td>
 <td>116</td>
 <td></td>
 <td></td>
@@ -2864,11 +2876,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Экологиялық реттеу және бақылау комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">Туризм индустриясы комитеті және оның аумақтық бөлімшелері</td>
 <td>117</td>
 <td></td>
 <td></td>
@@ -2878,11 +2890,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>118</td>
 <td></td>
 <td></td>
@@ -2892,11 +2904,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Қазақстан Республикасының Энергетика министрлігі</td>
+<td colspan="5">Қазақстан Республикасының Сауда және интеграция министрлігі</td>
 <td>119</td>
 <td></td>
 <td></td>
@@ -2906,12 +2918,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">оның ішінде</td>
-<td>Атомдық және энергетикалық қадағалау комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="3" rowspan="4">оның ішінде</td>
+<td colspan="2">Тұтынушылардың құқықтарын қорғау комитеті және оның аумақтық бөлімшелері</td>
 <td>120</td>
 <td></td>
 <td></td>
@@ -2921,11 +2933,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">Сауда комитеті және оның аумақтық бөлімшелері</td>
 <td>121</td>
 <td></td>
 <td></td>
@@ -2935,11 +2947,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Әкім, әкімнің аппараты</td>
+<td colspan="2">Техникалық реттеу және метрология комитеті және оның аумақтық бөлімшелері</td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -2949,12 +2961,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">оның ішінде</td>
-<td>Әкімдіктер мен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -2964,11 +2975,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Өзге де әкімшілік органдар (өзін-өзі реттейтін ұйымдар)</td>
+<td colspan="5">Қазақстан Республикасының Төтенше жағдайлар министрлігі</td>
 <td>124</td>
 <td></td>
 <td></td>
@@ -2978,12 +2989,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">оның ішінде</td>
-<td>Мемлекеттік мекемелер, республикалық мемлекеттік кәсіпорындар</td>
+<td colspan="3" rowspan="6">оның ішінде</td>
+<td colspan="2">Азаматтық қорғаныс және әскери бөлімдер комитеті</td>
 <td>125</td>
 <td></td>
 <td></td>
@@ -2993,11 +3004,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>коммерциялық ұйымдар</td>
+<td colspan="2">Өртке қарсы қызмет комитеті</td>
 <td>126</td>
 <td></td>
 <td></td>
@@ -3007,11 +3018,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>коммерциялық емес ұйымдар</td>
+<td colspan="2">Өнеркәсіптік қауіпсіздік комитеті</td>
 <td>127</td>
 <td></td>
 <td></td>
@@ -3021,11 +3032,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">Басқалары</td>
+<td colspan="2">Мемлекеттік материалдық резервтер жөніндегі комитет</td>
 <td>128</td>
 <td></td>
 <td></td>
@@ -3035,8 +3046,605 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">аумақтық бөлімшелер</td>
+<td>129</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td>130</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Қазақстан Республикасының Ұлттық экономика министрлігі</td>
+<td>131</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">оның ішінде</td>
+<td colspan="2">Табиғи монополияларды реттеу комитеті және оның аумақтық бөлімшелері</td>
+<td>132</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td>133</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Қазақстан Республикасының Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрлігі</td>
+<td>134</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="6">оның ішінде</td>
+<td colspan="3">Аэроғарыш комитеті</td>
+<td>135</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Ақпараттық қауіпсіздік комитеті</td>
+<td>136</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Телекоммуникациялар комитеті</td>
+<td>137</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Геодезия және картография комитеті</td>
+<td>138</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Мемлекеттік көрсетілетін қызметтер комитеті</td>
+<td>139</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td>140</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Қазақстан Республикасының Экология, геология және табиғи ресурстар министрлігі</td>
+<td>141</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="5">оның ішінде</td>
+<td colspan="3">Геология комитеті және оның аумақтық бөлімшелері</td>
+<td>142</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Орман шаруашылығы және жануарлар дүниесі комитеті және оның аумақтық бөлімшелері</td>
+<td>143</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Су ресурстары комитеті және оның аумақтық бөлімшелері</td>
+<td>144</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Экологиялық реттеу және бақылау комитеті және оның аумақтық бөлімшелері</td>
+<td>145</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td>146</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">Қазақстан Республикасының Су ресурстары және ирригация министрлігі</td>
+<td>147</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">оның ішінде</td>
+<td colspan="3">Су шаруашылығы комитеті</td>
+<td>148</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Қазақстан Республикасының Өнеркәсіп және құрылыс министрлігі</td>
+<td colspan="2">149</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">оның ішінде</td>
+<td colspan="3">Мемлекеттік қорғаныстық тапсырыс комитеті</td>
+<td colspan="2">150</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Құрылыс және тұрғын үй-коммуналдық шаруашылық істері комитеті, оның аумақтық бөлімшелері</td>
+<td colspan="2">151</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Өнеркәсіп комитеті</td>
+<td colspan="2">152</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Геология комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">153</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">министрлік, оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">154</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Қазақстан Республикасының Энергетика министрлігі</td>
+<td colspan="2">155</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">оның ішінде</td>
+<td colspan="3">Атомдық және энергетикалық қадағалау комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">156</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">157</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Қазақстан Республикасы Экология және табиғи ресурстар министрлігі</td>
+<td colspan="2">158</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">оның ішінде</td>
+<td colspan="3">Экологиялық реттеу және бақылау комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">159</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Орман шаруашылығы және жануарлар дүниесі комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">160</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Балық шаруашылығы комитеті және оның аумақтық бөлімшелері</td>
+<td colspan="2">161</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">министрлік пен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">162</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Әкім, әкімнің аппараты</td>
+<td colspan="2">163</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>оның ішінде</td>
+<td colspan="3">әкімдіктер мен оның ведомстволарының басқаруындағы ұйымдар</td>
+<td colspan="2">164</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">«Азаматтарға арналған үкімет» коммерциялық емес акционерлік қоғамы</td>
+<td colspan="2">165</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Өзге де әкімшілік органдар (өзін-өзі реттейтін ұйымдар)</td>
+<td colspan="2">166</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">оның ішінде</td>
+<td colspan="3">Мемлекеттік мекемелер, республикалық мемлекеттік кәсіпорындар</td>
+<td colspan="2">167</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">коммерциялық ұйымдар</td>
+<td colspan="2">168</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">коммерциялық емес ұйымда</td>
+<td colspan="2">169</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Басқалары</td>
+<td colspan="2">170</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
@@ -3045,6 +3653,8 @@
 <table>
 <tr>
 <td colspan="10">7-бағаннан</td>
+<td rowspan="4">Жауапкердің мойындауымен талап қоюы қаралды</td>
+<td rowspan="4">Талап қою кері қайтарылып қаралды</td>
 </tr>
 <tr>
 <td colspan="3">даулау туралы талап қою бойынша</td>
@@ -3078,45 +3688,29 @@
 <td>18</td>
 <td>19</td>
 <td>20</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>21</td>
+<td>22</td>
 </tr>
 </table>
 
-Кестенің жалғасы
+кестенің жалғасы
 
 <table>
 <tr>
-<td rowspan="2">Жауапкердің мойындауымен талап қоюы қаралды</td>
-<td rowspan="2">Талап қою кері қайтарылып қаралды</td>
 <td></td>
 <td colspan="3">оның ішінде</td>
-<td rowspan="2">Аяқталған істердің барлығы (6, 7, 8, 21, 22-бағандардың сомасы)</td>
+<td rowspan="2">Аяқталған істердің барлығы (5, 6, 7, 8, 22-бағандардың сомасы)</td>
 <td rowspan="2">олардың ішінде жазбаша талқылаумен</td>
-<td rowspan="2">оның ішінде ҚР ӘРПК-де белгіленген мерзімдерді бұзып</td>
+<td rowspan="2">оның ішінде ӘРПК-де белгіленген мерзімдерді бұзып</td>
 <td rowspan="2">есептік кезеңнің соңында аяқталмаған істердің қалдығы</td>
-<td>оның ішінде</td>
 </tr>
 <tr>
 <td>талап қоюды қайтарып алуға байланысты</td>
 <td>бітімгершілік келісімін бекітуге байланысты</td>
 <td>медиация тәртібінде дауды реттеу туралы келісімді бекітуге байланысты</td>
 <td>партисипативтік рәсім тәртібінде дауды реттеу туралы келісімді бекітуге байланысты</td>
-<td>тоқтата тұрылды</td>
 </tr>
 <tr>
-<td>21</td>
-<td>22</td>
 <td>23</td>
 <td>24</td>
 <td>25</td>
@@ -3125,20 +3719,6 @@
 <td>28</td>
 <td>29</td>
 <td>30</td>
-<td>31</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -3146,14 +3726,16 @@
 
 <table>
 <tr>
+<td>оның ішінде</td>
 <td rowspan="3">Бір іс жүргізуге біріктірілді</td>
 <td rowspan="3">Прокурордың қатысуы</td>
 <td rowspan="3">Жеке ұйғарымдар шығарылды</td>
-<td rowspan="3">Жеке ұйғарымдар бойынша жауаптар келіп түсті</td>
+<td rowspan="3">жеке ұйғарымдар бойынша жауаптар келіп түсті</td>
 <td rowspan="3">Келтірілген залалдың сот анықтаған мөлшері</td>
 <td colspan="4">Ақшалай өндіріп алу түріндегі процестік мәжбүрлеу шаралары қолданылды</td>
 </tr>
 <tr>
+<td rowspan="2">тоқтата тұрылды</td>
 <td colspan="4">талап қоюшыларға</td>
 </tr>
 <tr>
@@ -3163,6 +3745,7 @@
 <td>заңды тұлғаның өкіліне</td>
 </tr>
 <tr>
+<td>31</td>
 <td>32</td>
 <td>33</td>
 <td>34</td>
@@ -3173,25 +3756,17 @@
 <td>39</td>
 <td>40</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
-Кестенің жалғасы
+кестенің жалғасы
 
 <table>
 <tr>
 <td colspan="8">Ақшалай өндіріп алу түріндегі процестік мәжбүрлеу шаралары қолданылды</td>
-<td rowspan="3">Әкімшілік органдардағы арыз иелерінің арыздарын қарау нәтижелеріне байланысты талап қоюлар бойынша</td>
+<td rowspan="3">әкімшілік органдардағы арыз иелерінің арыздарын қарау нәтижелеріне байланысты талап қоюлар бойынша</td>
+<td rowspan="3">Мүгедектігі бар адамдардың талап қоюлары бойынша</td>
+<td rowspan="3">кәмелетке толмағандардың мүддесіне берілген талап қоюлар бойынша</td>
+<td rowspan="3">әйел адамдардың талап қоюлары бойынша</td>
 </tr>
 <tr>
 <td colspan="4">жауапкерлерге</td>
@@ -3216,17 +3791,9 @@
 <td>47</td>
 <td>48</td>
 <td>49</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>50</td>
+<td>51</td>
+<td>52</td>
 </tr>
 </table>
 
@@ -7273,7 +7840,7 @@
 > *жылғы 22 маусымдағы № 92*  
 > *Бұйрықтың 3-қосымшасы*
 
-> *Ескерту. Нысан жаңа редакцияда - ҚР Бас Прокурорының 14.06.2022 № 130 (бірінші ресми жарияланған күннен бастап қолданысқа енгізіледі); өзгерістер енгізілді - ҚР Бас Прокурорының 16.09.2022 № 185 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. Нысан жаңа редакцияда - ҚР Бас Прокурорының 14.06.2022 № 130 (бірінші ресми жарияланған күннен бастап қолданысқа енгізіледі); өзгерістер енгізілді - ҚР Бас Прокурорының 16.09.2022 № 185 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі); 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 нысан
 
@@ -9106,6 +9673,16 @@
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="10">Мүгедектігі бар адамдардың талап қоюлары бойынша</td>
+<td colspan="10">кәмелетке толмағандардың мүддесіне берілген талап қоюлар бойынша</td>
+<td colspan="12">әйел адамдардың талап қоюлары бойынша</td>
+</tr>
+<tr>
+<td colspan="10">77</td>
+<td colspan="10">78</td>
+<td colspan="12">79</td>
 </tr>
 </table>
 
@@ -13456,17 +14033,25 @@
 
 ### 1-тарау. Жалпы ережелер
 
-1. Осы Қазақстан Республикасы сот органдарының ақпараттық жүйесіне (бұдан әрі – ҚР СО АЖ) электронды ақпараттық есепке алу құжаттарын (бұдан әрі – ЭАЕҚ) енгізу және әкімшілік істерді қарау бойынша соттардың жұмысы туралы есептерді қалыптастыру жөніндегі нұсқаулық ЭАЕҚ енгізудің және олардың негізінде бірінші, апелляциялық және кассациялық сатыдағы соттардың әкімшілік істерді қарауы жөніндегі есептерді қалыптастыруының негізгі ережелерін айқындайды.
+1. Осы Қазақстан Республикасы сот органдарының ақпараттық жүйесіне (бұдан әрі – ҚР СО АЖ) электронды ақпараттық есепке алу құжаттарын (бұдан әрі – ЭАЕҚ) енгізу және әкімшілік істерді қарау бойынша соттардың жұмысы туралы есептерді қалыптастыру жөніндегі нұсқаулық ЭАЕҚ енгізудің және олардың негізінде бірінші, апелляциялық және кассациялық сатыдағы соттардың әкімшілік істерді қарауы жөніндегі есептерді қалыптастыруының негізгі ережелерін айқындайды (бұдан әрі - есептер).
+
+> *Ескерту. 1-тармақ жаңа редакцияда - ҚР Бас Прокурорының 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 ### 2-тарау. ҚР СО АЖ-ға ЭАЕҚ-ны енгізу
 
-2. ЭАЕҚ бірыңғай нысандарын әзірлеуді және енгізуді Қазақстан Республикасы Бас прокуратуратурасының Құқықтық статистика және арнайы есепке алу жөніндегі комитеті (бұдан әрі – Комитет) Қазақстан Республикасы Жоғарғы Сотының жанындағы Соттардың қызметін қамтамасыз ету департаментімен (Қазақстан Республикасы Жоғарғы Сотының аппараты) (бұдан әрі – ҚР ЖС Департаменті) келісе отырып іске асырады.
+2. Қазақстан Республикасы Бас прокуратурасының Құқықтық статистика және арнайы есепке алу жөніндегі комитеті (бұдан әрі – Комитет) ЭАЕҚ біріңғай нысандарын әзірлеуді және енгізуді Қазақстан Республикасының Сот әкімшілігімен (бұдан әрі – Сот әкімшілігі) келісе отырып жүзеге асырады.
 
-3. ҚР ЖС АЖ-ға ЭАЕҚ енгізуді және есепке алуды ҚР ЖС Департаменті және оның облыстардағы, республикалық маңызы бар қалалардағы және астанадағы аумақтық бөлімшелері (бұдан әрі – соттардың кеңселері) жүргізеді.
+> *Ескерту. 2-тармақ жаңа редакцияда - ҚР Бас Прокурорының 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
-4. Бірінші, апелляциялық және кассациялық сатыдағы соттардың қызметі туралы есептерді ҚР СО АЖ ЭАЕҚ-ның деректері негізінде Комитет және оның аумақтық органдары қалыптастырады.
+3. ЭАЕҚ-ны ҚР СО АЖ-ға енгізу есепке алуды Сот әкімшілігі және оның облыстардағы, республикалық маңызы бар қалалардағы және астанадағы аумақтық бөлімшелері (бұдан әрі – соттар кеңсесі) жүргізеді.
 
-5. Әкімшілік істерді қарау жөніндегі соттардың қызметі туралы есептерді қалыптастыру ЭАЕҚ-ның мынадай нысандары негізінде іске асырылады:
+> *Ескерту. 3-тармақ жаңа редакцияда - ҚР Бас Прокурорының 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
+4. Есептерді ҚР СО АЖ ЭАЕҚ-ның деректері негізінде Комитет және оның аумақтық органдары қалыптастырады.
+
+> *Ескерту. 4-тармақ жаңа редакцияда - ҚР Бас Прокурорының 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
+5. Есептерді қалыптастыру ЭАЕҚ-ның мынадай нысандары негізінде іске асырылады:
 
    1) «Бірінші сатыдағы сот қараған әкімшілік іске (талап қою) 1-ЭАЕҚ» (бұдан әрі – 1-ЭАЕҚ);
 
@@ -13474,11 +14059,15 @@
 
    3) «Кассациялық сатыдағы сот қараған әкімшілік іске (талап қою) 3-ЭАЕҚ» (бұдан әрі – 3-ЭАЕҚ).
 
+> *Ескерту. 5-тармақ жаңа редакцияда - ҚР Бас Прокурорының 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
 6. ЭАЕҚ-да сот қараған әкімшілік іс (талап қою) бойынша барлық қажетті деректемелер электрондық толтыруға жатады.
 
 ### 3-тарау. ҚР СО АЖ-да ЭАЕҚ-ға түзетулер енгізу
 
-7. ҚР СО АЖ-ға енгізілген ЭАЕҚ-ның деректемелеріне түзетуді ҚР ЖС Департаментінің аумақтық немесе құрылымдық бөлімшелері өз бастамалары бойынша, Комитет және оның аумақтық органдарының хаты бойынша жүргізеді.
+7. ҚР СО АЖ-да енгізілген ЭАЕҚ-ның деректемелерін түзету Сот әкімшілігінің, соттар кеңсесінің бастамасы бойынша, Комитеттің, оның аумақтық және оларға теңестірілген органдарының (бұдан әрі – аумақтық органдар) хаты бойынша жүргізіледі.
+
+> *Ескерту. 7-тармақ жаңа редакцияда - ҚР Бас Прокурорының 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 8. Сот органы жүргізілген түзету туралы (арыздың (азаматтық істің, материалдың) нөмірін, өзгертілетін деректеменің атауын, бұрынғы және жаңа көрсеткішті көрсете отырып) мәліметтерді түзету жүргізілген күннен бастап дереу жазбаша түрде Комитетке немесе оның аумақтық органына ұсынады, солардың негізінде Комитеттің автоматтандырылған ақпараттық жүйесінде (бұдан әрі – Комитеттің ААЖ) тексеру жүргізіледі.
 
@@ -13656,17 +14245,23 @@
 
 ### 7-тарау. № 5, № 5А, № 5К нысанды есептерді қалыптастыру
 
-47. № 5, № 5А, № 5К нысанды есептерін ҚР СО АЖ көрсеткіштерін есептеу алгоритміне сәйкес 1-ЭАЕҚ, 2-ЭАЕҚ, 3-ЭАЕҚ деректері негізінде Комитет және оның аумақтық органдары қалыптастырады.
+47. Есептер Комитет және оның аумақтық органдары комитеттің ААЖ-да ҚР СО АЖ-да көрсеткіштерін есептеу алгоритміне сәйкес ЭАЕҚ-тен ҚР СО АЖ деректері негізінде қалыптастырылады.
 
-48. № 5, № 5А, № 5К нысанды есептер үдемелі қорытындымен тоқсан сайын құрылады.
+> *Ескерту. 47-тармақ жаңа редакцияда - ҚР Бас Прокурорының 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
-49. № 5, № 5А, № 5К нысанды есептер бойынша тоқсан сайынғы статистикалық деректерді (бұдан әрі – статистикалық кесім) Комитеттің аумақтық органдары есептік кезеңнен кейінгі айдың 6-күні сағат 15:00-де растайды.
+48. Есептер тоқсан сайын өсіп келе жатқан нәтижемен қалыптастырылады.
 
-    Республика бойынша жиынтық есептерді Комитет қол қою үшін Комитет төрағасына есептік кезеңнен кейінгі айдың 8-күні ұсынады.
+> *Ескерту. 48-тармақ жаңа редакцияда - ҚР Бас Прокурорының 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
-    Жиынтық есептер қол қойылғаннан кейін, бірақ есептік кезеңнен кейінгі 10-күннен кешіктірілмей ҚР ЖС Департаментіне жіберіледі.
+49. Комитеттің аумақтық органдары есептер бойынша статистикалық деректерді (бұдан әрі – статистикалық кесім) Астана қаласының уақыты бойынша есепті кезеңнен кейінгі айдың 6-күні сағат 15:00-де расталады.
 
-    Облыстар бойынша жиынтық есептерге Комитеттің аумақтық органдарының бастықтары қол қояды (Комитет статистикалық кесімді бекіткеннен кейін), олар жергілікті жерлерде сақталуын (Комитетке жіберуінсіз) қамтамасыз етеді.
+    Комитет республика бойынша жиынтық есептерді есептік кезеңнен кейінгі айдың 8-күні Комитет төрағасына қол қою үшін ұсынылады.
+
+    Жиынтық есептерге қол қойылғаннан кейін, бірақ есептік кезеңнен кейінгі айдың 10-күнінен кешіктірмей Сот әкімшілігіне жолданады.
+
+    Облыстар, республикалық маңызы бар қалалар және Астана бойынша жиынтық есептерге Комитеттің аумақтық органдарының бастықтары (Комитет статистикалық бөлімді бекіткеннен кейін) қол қояды, олар жергілікті жерлерде олардың сақталуын қамтамасыз етеді (Комитетке жіберілмей).
+
+> *Ескерту. 49-тармақ жаңа редакцияда - ҚР Бас Прокурорының 20.02.2024 № 24 (ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 ### 8-тарау. «Бірінші сатыдағы соттардың әкімшілік істерді қарауы бойынша есеп» №5 нысанды есеп
 
