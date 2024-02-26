@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/93914/rus/11.07.2023
+source: https://zan.gov.kz/client/#!/doc/93914/rus/26.02.2024
 ---
 
 # Об утверждении Ветеринарных (ветеринарно-санитарных) правил
