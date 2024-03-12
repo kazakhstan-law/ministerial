@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/183266/kaz/22.06.2023
+source: https://zan.gov.kz/client/#!/doc/183266/kaz/12.03.2024
 ---
 
 > *Мемлекеттік базалық зейнетақы*  
