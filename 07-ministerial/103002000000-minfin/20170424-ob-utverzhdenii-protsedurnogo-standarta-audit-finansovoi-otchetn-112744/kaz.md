@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/112744/kaz/18.09.2023
+source: https://zan.gov.kz/client/#!/doc/112744/kaz/19.03.2024
 ---
 
 # «Қаржылық есептілік аудиті» рәсімдік стандартын бекіту туралы
