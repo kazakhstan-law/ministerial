@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/119299/kaz/27.12.2023
+source: https://zan.gov.kz/client/#!/doc/119299/kaz/26.03.2024
 ---
 
 # Бақылау-касса машиналарын қолданудың кейбір мәселелері туралы
