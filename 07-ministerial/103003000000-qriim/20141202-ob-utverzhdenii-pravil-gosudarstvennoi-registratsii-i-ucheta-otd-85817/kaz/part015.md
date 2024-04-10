@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85817/kaz/06.11.2023
+source: https://zan.gov.kz/client/#!/doc/85817/kaz/10.04.2024
 ---
 
 > *Механикалық көлік құралдарын*  
