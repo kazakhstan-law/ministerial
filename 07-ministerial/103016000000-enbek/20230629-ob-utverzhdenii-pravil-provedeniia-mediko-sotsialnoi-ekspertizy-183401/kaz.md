@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/183401/kaz/04.03.2024
+source: https://zan.gov.kz/client/#!/doc/183401/kaz/11.04.2024
 ---
 
 # Медициналық-әлеуметтік сараптама жүргізу қағидаларын бекіту туралы
