@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97054/kaz/29.03.2024
+source: https://zan.gov.kz/client/#!/doc/97054/kaz/17.04.2024
 ---
 
 > *Мемлекеттік сатып алуды*  
