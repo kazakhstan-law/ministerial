@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/186518/kaz/25.09.2023
+source: https://zan.gov.kz/client/#!/doc/186518/kaz/19.04.2024
 ---
 
 # Ұлттық ғылыми кеңестер тізбесін және олар туралы ережені бекіту туралы

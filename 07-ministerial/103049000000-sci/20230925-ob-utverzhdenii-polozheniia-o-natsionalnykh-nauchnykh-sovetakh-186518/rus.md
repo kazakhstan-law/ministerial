@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/186518/rus/25.09.2023
+source: https://zan.gov.kz/client/#!/doc/186518/rus/19.04.2024
 ---
 
 # Об утверждении перечня и положения о национальных научных советах
