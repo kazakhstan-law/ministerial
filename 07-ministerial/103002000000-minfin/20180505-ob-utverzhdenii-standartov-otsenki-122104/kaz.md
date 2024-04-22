@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/122104/kaz/23.08.2022
+source: https://zan.gov.kz/client/#!/doc/122104/kaz/22.04.2024
 ---
 
 # Бағалау стандарттарын бекіту туралы

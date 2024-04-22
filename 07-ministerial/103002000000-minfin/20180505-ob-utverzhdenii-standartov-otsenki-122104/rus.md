@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/122104/rus/23.08.2022
+source: https://zan.gov.kz/client/#!/doc/122104/rus/22.04.2024
 ---
 
 # Об утверждении стандартов оценки
