@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/88594/kaz/30.03.2022
+source: https://zan.gov.kz/client/#!/doc/88594/kaz/02.05.2024
 ---
 
 > *Акционері мемлекет болып*  

@@ -1,12 +1,12 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
+source: https://zan.gov.kz/client/#!/doc/89113/rus/02.05.2024
 ---
 
 <table>
 <tr>
 <td colspan="3">20__ год</td>
-<td colspan="3">20__ год</td>
+<td colspan="3">20_год</td>
 <td>20__ год</td>
 <td>20__ год</td>
 </tr>
@@ -23,182 +23,12 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 <tr>
 <td>10</td>
 <td>11</td>
-<td>12=11/ 10*100</td>
+<td>12=11/10*100</td>
 <td>13</td>
 <td>14</td>
-<td>15=14/ 13*100</td>
+<td>15=14/13*100</td>
 <td>16</td>
 <td>17</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -634,13 +464,11 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 
 Примечание:
 
-* к основным консолидированным финансовым показателям деятельности Компании прилагается информация об учетной политике Компании и пояснительная записка с указанием расчетов показателей.
+* аналогичная форма заполняется отдельно по каждой дочерней организации. Формы по дочерним организациям носят исключительно информативный характер и не являются предметом утверждения советом директоров компании.
 
-7.9 прогноз основных неконсолидированных показателей Компании и юридических лиц, акции (доли участия) которых предоставляют право Компании прямо определять решения, принимаемые данными юридическими лицами:
+7.5 консолидированные административные расходы с учетом дочерних организаций, прогноз с обоснованием роста или снижения:
 
-Наименование Компании (дочерней организации) *
-
-форма 21
+форма 17
 
 тысяч тенге
 
@@ -668,277 +496,30 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 <td>Б</td>
 <td>1</td>
 <td>2</td>
-<td>3=2/1*100</td>
+<td>3=(2/1* 100)</td>
 <td>4</td>
 <td>5</td>
-<td>6=5/4*100</td>
+<td>6=(5/4* 100)</td>
 <td>7</td>
 <td>8</td>
-<td>9=8/7*100</td>
+<td>9=(8/7* 100)</td>
+</tr>
+<tr>
+<td></td>
+<td>Административные расходы, всего</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
-<td>Доходы, всего в том числе:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.1</td>
-<td>Доход от реализации продукции и оказания услуг</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.2</td>
-<td>Доход от финансирования</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.2.1</td>
-<td>Доходы по вознаграждениям</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.2.2</td>
-<td>Доходы по дивидендам</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.2.3</td>
-<td>Доходы от финансовой аренды</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.2.4</td>
-<td>Доходы от операций с инвестициями в недвижимость</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.2.5</td>
-<td>Доходы от изменения справедливой стоимости финансовых инструментов</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.2.6</td>
-<td>Прочие доходы от финансирования</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.3</td>
-<td>Прочие доходы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.3.1</td>
-<td>Доходы от выбытия активов</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.3.2</td>
-<td>Доходы от безвозмездно полученных активов</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.3.3</td>
-<td>Доходы от государственных субсидий</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.3.4</td>
-<td>Доходы от восстановления убытка от обесценения</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.3.5</td>
-<td>Доходы от курсовой разницы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.3.6</td>
-<td>Доходы от операционной аренды</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.3.7</td>
-<td>Прочие доходы (доход от начисленных штрафов, пени, неустоек за нарушение условий договоров; страховые случаи; прочие доходы )</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.4.</td>
-<td>Доходы, связанные с прекращаемой деятельностью</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.5</td>
-<td>Доля прибыли организаций, учитываемых по методу долевого участия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.5.1</td>
-<td>Доля прибыли ассоциированных организаций</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1.5.2</td>
-<td>Доля прибыли совместных организаций</td>
+<td>Запасы</td>
 <td></td>
 <td></td>
 <td></td>
@@ -951,254 +532,7 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 </tr>
 <tr>
 <td>2</td>
-<td>Расходы, всего, в том числе:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.1</td>
-<td>Себестоимость реализованной продукции и оказанных услуг</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.2</td>
-<td>Расходы по реализации продукции и оказанию услуг</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.3</td>
-<td>Административные расходы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.4</td>
-<td>Расходы на финансирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.4.1</td>
-<td>Расходы по вознаграждениям</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.4.2</td>
-<td>Расходы на выплату процентов по финансовой аренде</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.4.3</td>
-<td>Расходы от изменения справедливой стоимости финансовых инструментов</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.4.4</td>
-<td>Прочие расходы на финансирование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.5</td>
-<td>Прочие расходы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.5.1</td>
-<td>Расходы по выбытию активов</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.5.2</td>
-<td>Расходы от обесценения активов</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.5.3</td>
-<td>Расходы по курсовой разнице</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.5.4</td>
-<td>Расходы по созданию резерва и списанию безнадежных требований</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.5.6</td>
-<td>Расходы по операционной аренде</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.5.7</td>
-<td>Прочие расходы (штрафы, пени, неустойки за нарушение условий договоров; на возмещение судебных издержек и арбитражных сборов; прочие расходы )</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.6</td>
-<td>Расходы, связанные с прекращаемой деятельностью</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.7</td>
-<td>Доля в убытке организаций, учитываемых методом долевого участия</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.7.1</td>
-<td>Доля в убытке ассоциированных организациях</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2.7.2</td>
-<td>Доля в убытке совместных организациях</td>
+<td>Оплата труда работников</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1211,7 +545,7 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 </tr>
 <tr>
 <td>3</td>
-<td>Доход/убыток до налогообложения</td>
+<td>Отчисления от оплаты труда</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1224,7 +558,7 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 </tr>
 <tr>
 <td>4</td>
-<td>Расходы по корпоративному подоходному налогу</td>
+<td>Амортизация нематериальных активов</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1237,7 +571,7 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 </tr>
 <tr>
 <td>5</td>
-<td>Чистый доход (убыток указывается со знаком минус)</td>
+<td>Износ основных средств</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1250,33 +584,7 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 </tr>
 <tr>
 <td>6</td>
-<td>Активы, в том числе:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6.1</td>
-<td>Долгосрочные активы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6.2</td>
-<td>Краткосрочные активы</td>
+<td>Обслуживание и ремонт основных средств и нематериальных активов</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1289,33 +597,7 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 </tr>
 <tr>
 <td>7</td>
-<td>Обязательства, в том числе:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7.1</td>
-<td>Краткосрочные обязательства</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7.2</td>
-<td>Долгосрочные обязательства</td>
+<td>Расходы по транспортным услугам</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1328,98 +610,7 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 </tr>
 <tr>
 <td>8</td>
-<td>Капитал, в том числе:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8.1</td>
-<td>Уставный капитал</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8.2</td>
-<td>Неоплаченный капитал</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8.3</td>
-<td>Выкупленные собственные долевые инструменты</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8.4</td>
-<td>Эмиссионный доход</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8.5</td>
-<td>Резервы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8.6</td>
-<td>Нераспределенная прибыль (непокрытый убыток)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8.7</td>
-<td>Доля меньшинства</td>
+<td>Расходы по услугам связи</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1432,7 +623,7 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 </tr>
 <tr>
 <td>9</td>
-<td>Рентабельность деятельности, %</td>
+<td>Консультационные расходы</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1445,7 +636,7 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 </tr>
 <tr>
 <td>10</td>
-<td>Денежные средства на начало отчетного периода</td>
+<td>Аудиторские расходы</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1458,7 +649,137 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 </tr>
 <tr>
 <td>11</td>
-<td>Денежные средства на конец отчетного периода</td>
+<td>Информационные услуги</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Командировочные расходы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Представительские расходы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Расходы, связанные с оказанием благотворительной и спонсорской помощи</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Затраты по охране труда и технике безопасности</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Расходы по социальной программе</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Налоги и другие обязательные платежи в бюджет</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Расходы на содержание Совета директоров</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Прочие, в том числе</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19.n</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1470,3 +791,819 @@ source: https://zan.gov.kz/client/#!/doc/89113/rus/30.03.2022
 <td></td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td colspan="3">20__ год</td>
+<td colspan="3">20__ год</td>
+<td>20_ год</td>
+<td>20_ год</td>
+</tr>
+<tr>
+<td>план</td>
+<td>факт</td>
+<td>% отклонения</td>
+<td>план</td>
+<td>факт</td>
+<td>% отклонения</td>
+<td>план</td>
+<td>план</td>
+</tr>
+<tr>
+<td>10</td>
+<td>11</td>
+<td>12=(11/10*100)</td>
+<td>13</td>
+<td>14</td>
+<td>15=(14/13*100)</td>
+<td>16</td>
+<td>17</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+7.6 административные расходы, прогноз с обоснованием роста или снижения:
+
+Наименование Компании (дочерней организации) *
+
+форма 18
+
+тысяч тенге
+
+<table>
+<tr>
+<td rowspan="2">№ п/п</td>
+<td rowspan="2">Наименование показателей</td>
+<td colspan="3">20__ год (предыдущий)</td>
+<td colspan="4">20__ год (текущий)</td>
+<td colspan="3">20__ год</td>
+</tr>
+<tr>
+<td>план</td>
+<td>факт</td>
+<td>% отклонения</td>
+<td>план</td>
+<td>оценка (факт)</td>
+<td>% отклонения</td>
+<td colspan="2">план</td>
+<td>факт</td>
+<td>% отклонения</td>
+</tr>
+<tr>
+<td>А</td>
+<td>Б</td>
+<td>1</td>
+<td>2</td>
+<td>3=(2/1* 100)</td>
+<td>4</td>
+<td>5</td>
+<td>6=(5/4* 100)</td>
+<td colspan="2">7</td>
+<td>8</td>
+<td>9=(8/7* 100)</td>
+</tr>
+<tr>
+<td></td>
+<td>Административные расходы, всего</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Запасы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Оплата труда работников</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Отчисления от оплаты труда</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Амортизация нематериальных активов</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Износ основных средств</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Обслуживание и ремонт основных средств и нематериальных активов</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Расходы по транспортным услугам</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Расходы по услугам связи</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Консультационные расходы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Аудиторские расходы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Информационные услуги</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Командировочные расходы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Представительские расходы</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Расходы, связанные с оказанием благотворительной и спонсорской помощи</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Затраты по охране труда и технике безопасности</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Расходы по социальной программе</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Налоги и другие обязательные платежи в бюджет</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Расходы на содержание Совета директоров</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Прочие, в том числе</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19.1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19.n</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="3">20__ год</td>
+<td colspan="3">20__ год</td>
+<td>20_ год</td>
+<td>20_ год</td>
+</tr>
+<tr>
+<td>план</td>
+<td>факт</td>
+<td>% отклонения</td>
+<td>план</td>
+<td>факт</td>
+<td>% отклонения</td>
+<td>план</td>
+<td>план</td>
+</tr>
+<tr>
+<td>10</td>
+<td>11</td>
+<td>12=(11/10*100)</td>
+<td>13</td>
+<td>14</td>
+<td>15=(14/13*100)</td>
+<td>16</td>
+<td>17</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Примечание:
+
+* аналогичная форма заполняется отдельно по каждой дочерней организации. Формы по дочерним организациям носят исключительно информативный характер и не являются предметом утверждения советом директоров компании.
+
+7.7 расходы по аренде нежилых помещений административно-управленческого персонала:
+
+Наименование Компании (дочерней организации) *
+
+форма 19
