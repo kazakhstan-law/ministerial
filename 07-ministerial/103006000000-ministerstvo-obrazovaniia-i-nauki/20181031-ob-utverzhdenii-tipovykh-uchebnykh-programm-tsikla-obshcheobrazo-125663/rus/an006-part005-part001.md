@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/125663/rus/13.07.2023
+source: https://zan.gov.kz/client/#!/doc/125663/rus/04.05.2024
 ---
 
 ## Литературы: Основная:
