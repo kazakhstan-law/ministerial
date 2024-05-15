@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/122722/kaz/29.11.2023
+source: https://zan.gov.kz/client/#!/doc/122722/kaz/15.05.2024
 ---
 
 > *Мемлекеттік жер қойнауы*  
