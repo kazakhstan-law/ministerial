@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85928/rus/30.04.2024
+source: https://zan.gov.kz/client/#!/doc/85928/rus/08.06.2024
 ---
 
 ## Параграф 21. Порядок реконвертации иностранной валюты
