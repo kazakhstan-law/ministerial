@@ -28,199 +28,1667 @@
 
 **А. Даулбаев**
 
-> *Приложение 1 к приказу*  
-> *Генерального Прокурора*  
+> *Приложение 1*  
+> *к приказу Генерального Прокурора*  
 > *Республики Казахстан*  
-> *от 16 ноября 2015 года № 131*
+> *от 16 декабря 2015 года*  
+> *№ 131*
 
-> *Сноска. Статистический отчет в редакции приказов и.о. Генерального Прокурора РК от 01.08.2019 № 80 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Генерального Прокурора РК от 24.12.2019 № 161 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); и.о. Генерального Прокурора РК от 02.07.2020 № 82 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Генерального Прокурора РК от 27.09.2022 № 191 (вводится в действие после дня его первого официального опубликования).*
+> *Сноска. Статистический отчет в редакции приказов и.о. Генерального Прокурора РК от 01.08.2019 № 80 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Генерального Прокурора РК от 24.12.2019 № 161 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); и.о. Генерального Прокурора РК от 02.07.2020 № 82 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); Генерального Прокурора РК от 27.09.2022 № 191 (вводится в действие после дня его первого официального опубликования); от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
-> *форма*
-
-Отчет «О дорожно-транспортных происшествиях, повлекших гибель или ранение людей»
-
-Таблица 1
+форма
 
 <table>
 <tr>
-<td>Наименование региона</td>
-<td>код региона</td>
-<td>Всего зарегистрировано дорожно-транспортных происшествий (далее - ДТП)</td>
-<td>из них зарегистрировано ДТП прошлого периода, по которым электронный информационный учетный документ (далее - ЭИУД) введен в отчетном периоде</td>
-<td>Количество лиц, пострадавших в результате ДТП</td>
-<td>из них лиц, пострадавших в ДТП прошлых периодов, по которым ЭИУД введен в отчетном периоде</td>
+<th colspan="13">Отчет «О дорожно-транспортных происшествиях, повлекших гибель или ранение людей»</th>
 </tr>
 <tr>
-<td>А</td>
+<th colspan="13">Таблица 1. Сведения о дорожно-транспортных происшествиях (далее - ДТП) по месту совершения, виновнику и виду ДТП</th>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Место совершения, виновник и вид ДТП</td>
+<td rowspan="2">Код строки</td>
+<td rowspan="2">Количествово ДТП</td>
+<td rowspan="2">всего пострадавших лиц</td>
+<td colspan="4">количество раненых</td>
+<td colspan="4">количество погибших</td>
+</tr>
+<tr>
+<td>всего</td>
+<td>мужчин</td>
+<td>женщин</td>
+<td>несовершеннолетних</td>
+<td>всего</td>
+<td>мужчин</td>
+<td>женщин</td>
+<td>несовершеннолетних</td>
+</tr>
+<tr>
+<td colspan="2">А</td>
 <td>Б</td>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
 </tr>
 <tr>
-<td>город Астана</td>
+<td colspan="2">ВСЕГО</td>
 <td>1</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>город Алматы</td>
+<td rowspan="5">Место совершения</td>
+<td>на дорогах международного значения</td>
 <td>2</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>город Шымкент</td>
+<td>на дорогах республиканского значения</td>
 <td>3</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Акмолинская область</td>
+<td>на дорогах областного значения</td>
 <td>4</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Актюбинская область</td>
+<td>на дорогах районного значения</td>
 <td>5</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Алматинская область</td>
+<td>в населенных пунктах</td>
 <td>6</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Атырауская область</td>
+<td></td>
+<td>Водитель легкового транспортного средства (далее - ТС)</td>
 <td>7</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Восточно-Казахстанская область</td>
+<td></td>
+<td>такси (из строки 7)</td>
 <td>8</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Жамбылская область</td>
+<td></td>
+<td>таксопарка (из строки 8)</td>
 <td>9</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Западно-Казахстанская область</td>
+<td></td>
+<td>частные извозчики и такси (из строки 8)</td>
 <td>10</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td>Карагандинская область</td>
+<td rowspan="10">Виновник ДТП</td>
+<td>Водитель автобуса</td>
 <td>11</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Костанайская область</td>
+<td>автобусы осуществляющие пассажирские перевозки (из строки 11)</td>
 <td>12</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Кызылординская область</td>
+<td>Водитель грузового ТС</td>
 <td>13</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Мангистауская область</td>
+<td>Водитель мопедов (в том числе велосипеды с подвесным двигателем, мокики, скутеры)</td>
 <td>14</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Павлодарская область</td>
+<td>Водитель малого электрического ТС (кроме электрических самокатов и мопедов)</td>
 <td>15</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Северо-Казахстанская область</td>
+<td>Водитель электрического самоката</td>
 <td>16</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Туркестанская область</td>
+<td>Велосипедист</td>
 <td>17</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>область Абай</td>
+<td>Водитель иных ТС</td>
 <td>18</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>область Жетісу</td>
+<td>Пешеход</td>
 <td>19</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>область Ұлытау</td>
+<td>Иные</td>
 <td>20</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Всего</td>
+<td rowspan="15">Вид ДТП</td>
+<td>лобовое столкновение</td>
 <td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>боковое столкновение</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>попутное столкновение</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наезд на стоящее транспортное средство</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наезд на препятствие</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наезд на пешехода</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наезд на велосипедиста</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наезд на гужевой транспорт</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наезд на животное</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>опрокидывание</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>падение пассажира</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наезд на водителя электрического самоката</td>
+<td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наезд на водителя малого электрического транспортного средства</td>
+<td>33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>наезд на водителя мопеда</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Иные виды происшествий</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Отчет «О дорожно-транспортных происшествиях, повлекших гибель или ранение людей»</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</table>
+
+Таблица 2. Сведения о факторах, способствовавших ДТП (по месту совершения)
+
+<table>
+<tr>
+<td colspan="2" rowspan="2">Факторы, способствовавшие ДТП</td>
+<td rowspan="2">Код строки</td>
+<td rowspan="2">ВСЕГО</td>
+<td rowspan="2">в состоянии опьянения</td>
+<td rowspan="2">всего пострадавших лиц</td>
+<td colspan="3">на дорогах международного значения</td>
+<td colspan="3">на дорогах республиканского значения</td>
+<td colspan="3">на дорогах областного значения</td>
+</tr>
+<tr>
+<td>всего</td>
+<td>погибло</td>
+<td>ранено</td>
+<td>всего</td>
+<td>погибло</td>
+<td>ранено</td>
+<td>всего</td>
+<td>погибло</td>
+<td>ранено</td>
+</tr>
+<tr>
+<td colspan="2">А</td>
+<td>Б</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+</tr>
+<tr>
+<td rowspan="22">Нарушения правил дорожного движения (далее - ПДД)</td>
+<td>превышение скорости, установленной ПДД или дорожными знаками</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>проезд на запрещающие сигнал светофора или жест регулировщика</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоблюдение требований дорожных знаков или разметки дороги</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>непредставление преимущества пешеходам или иным участникам</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоблюдение правил перевозки пассажиров</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоблюдение правил остановок маршрутных ТС</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоблюдение правил движения в жилых зонах</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>нарушение правил проезда перекрестков или пересечение проезжей части дороги</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоблюдение правил маневрирования</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоблюдение правил расположения ТС на проезжей части дороги</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоблюдение правил встречного разъезда, или обгона</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоблюдение правил остановки или стоянки ТС</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоблюдение правил пользования внешними световыми приборами</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоблюдение правил проезда железнодорожных переездов</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>управление ТС водителем в болезненном или утомленном состоянии</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>управление ТС водителем, находящимся в состоянии опьянения</td>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>нарушение водителями ТС правил безопасности дорожного движения</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>управление ТС с неисправностями, с которыми запрещена их эксплуатация</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>нарушение правил пешеходами и иными участниками дорожного движения</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>нарушение правил прогона скота</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>нарушение требований по дорожным работам, содержанию коммуникаций</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>иные нарушения ПДД</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="15">Косвенные факторы (недостатки дорог)</td>
+<td>скользкое покрытие</td>
+<td>23</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>неровное покрытие, колейность, выбоины</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>неудовлетворительное состояние обочины</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоответствие габарита путепровода ширине дороги</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>несоответствие железнодорожного переезда предъявляемым требованиям</td>
+<td>27</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>отсутствие тротуаров</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>отсутствие пешеходных дорожек</td>
+<td>29</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>отсутствие ограждений на опасных участках</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>недостаточное освещение проезжей части</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>отсутствие ограждения и знака в местах производства работ</td>
+<td>32</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>отсутствие дорожных знаков</td>
+<td>33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>неисправность технических средств организации дорожного движения или плохая их видимость</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>отсутствие дорожной разметки или плохая ее видимость</td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>иные</td>
+<td>36</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>отсутствуют</td>
+<td>37</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+продолжение таблицы,
+
+<table>
+<tr>
+<td colspan="4">на дорогах районного значения</td>
+<td colspan="5">в населенных пунктах</td>
+</tr>
+<tr>
+<td colspan="2">всего</td>
+<td>погибло</td>
+<td>ранено</td>
+<td>всего</td>
+<td>погибло</td>
+<td colspan="3">ранено</td>
+</tr>
+<tr>
+<td colspan="2">13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td colspan="3">18</td>
+</tr>
+<tr>
+<th colspan="15">Отчет «О дорожно-транспортных происшествиях, повлекших гибель или ранение людей»</th>
+<th></th>
+</tr>
+<tr>
+<th colspan="15">Таблица 3. Сведения о факторах, способствовавших ДТП (по виновнику)</th>
+<th></th>
+</tr>
+<tr>
+<td colspan="7" rowspan="2">Факторы, способствовавшие ДТП и вид ДТП</td>
+<td rowspan="2">Код строки</td>
+<td colspan="8">Виновник ДТП</td>
+</tr>
+<tr>
+<td colspan="2">водитель легкового ТС</td>
+<td>водитель такси (из графы 1)</td>
+<td>водитель таксопарка (из графы 2)</td>
+<td>частные извозчики и такси (из графы 2)</td>
+<td>водитель автобуса</td>
+<td>автобусы осуществляющие пассажирские перевозки (из графы 5)</td>
+<td>водитель грузового ТС</td>
+</tr>
+<tr>
+<td colspan="7">А</td>
+<td>Б</td>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<tr>
+<td rowspan="22">Нарушения правил дорожного движения (далее - ПДД)</td>
+<td colspan="6">превышение скорости, установленной ПДД или дорожными знаками</td>
+<td>1</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">проезд на запрещающие сигнал светофора или жест регулировщика</td>
+<td>2</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">несоблюдение требований дорожных знаков или разметки дороги</td>
+<td>3</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">не предоставление преимущества пешеходам или иным участникам</td>
+<td>4</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">несоблюдение правил перевозки пассажиров</td>
+<td>5</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">несоблюдение правил остановок маршрутных ТС</td>
+<td>6</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">несоблюдение правил движения в жилых зонах</td>
+<td>7</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">нарушение правил проезда перекрестков или пересечение проезжей части дороги</td>
+<td>8</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">несоблюдение правил маневрирования</td>
+<td>9</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">несоблюдение правил расположения ТС на проезжей части дороги</td>
+<td>10</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">несоблюдение правил встречного разъезда, или обгона</td>
+<td>11</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">несоблюдение правил остановки или стоянки ТС</td>
+<td>12</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">несоблюдение правил пользования внешними световыми приборами</td>
+<td>13</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">несоблюдение правил проезда железнодорожных переездов</td>
+<td>14</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">управление ТС водителем в болезненном или утомленном состоянии</td>
+<td>15</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">управление ТС водителем, находящимся в состоянии опьянения</td>
+<td>16</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">нарушение водителями ТС правил безопасности дорожного движения</td>
+<td>17</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">управление ТС с неисправностями, с которыми запрещена их эксплуатация</td>
+<td>18</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">нарушение правил пешеходами и иными участниками дорожного движения</td>
+<td>19</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">нарушение правил прогона скота</td>
+<td>20</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">нарушение требований по дорожным работам, содержанию коммуникаций</td>
+<td>21</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">иные нарушения ПДД</td>
+<td>22</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="15">Вид ДТП</td>
+<td colspan="6">лобовое столкновение</td>
+<td>23</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">боковое столкновение</td>
+<td>24</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">попутное столкновение</td>
+<td>25</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">наезд на стоящее транспортное средство</td>
+<td>26</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">наезд на препятствие</td>
+<td>27</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">наезд на пешехода</td>
+<td>28</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">наезд на велосипедиста</td>
+<td>29</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">наезд на гужевой транспорт</td>
+<td>30</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">наезд на животное</td>
+<td>31</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">опрокидывание</td>
+<td>32</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">падение пассажира</td>
+<td>33</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">наезд на водителя электрического самоката</td>
+<td>34</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">наезд на водителя малого электрического ТС</td>
+<td>35</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">наезд на водителя мопеда</td>
+<td>36</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">Иные виды происшествий</td>
+<td>37</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -232,19 +1700,230 @@
 
 <table>
 <tr>
-<td colspan="5">Количество раненых</td>
-<td colspan="4">Количество погибших</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Всего</td>
-<td>Госпитализировано</td>
-<td>Мужчин</td>
-<td>Женщин</td>
-<td>Несовершеннолетних</td>
-<td>Всего</td>
-<td>Мужчин</td>
-<td>Женщин</td>
-<td>Несовершеннолетних</td>
+<td>водитель мопедов (в том числе велосипеды с подвесным двигателем, мокики, скутеры)</td>
+<td>водитель малого электрического ТС (кроме электрических самокатов и мопедов)</td>
+<td>водитель электрического самоката</td>
+<td>Велосипедист</td>
+<td>Водитель иных ТС</td>
+<td>Пешеход</td>
+<td>Иные</td>
+</tr>
+<tr>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="14">Отчет «О дорожно-транспортных происшествиях, повлекших гибель или ранение людей»</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th colspan="8">Таблица 4. Сведения о виновных участниках ДТП</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="2">Виновник ДТП</td>
+<td>Код строки</td>
+<td>всего лиц</td>
+<td>состояние опьянения виновного участника</td>
+<td>ранено пострадавших по вине</td>
+<td>погибло пострадавших по вине</td>
+</tr>
+<tr>
+<td colspan="2">А</td>
+<td>Б</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td rowspan="5">Водитель</td>
+<td>ВСЕГО</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>мужчина</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>женщина</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>скрывшийся с места ДТП</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>иностранец /лицо без гражданства /кандас</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">Пешеход</td>
+<td>ВСЕГО</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>мужчина</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>женщина</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>скрывшийся с места ДТП</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>иностранец /лицо без гражданства /кандас</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">Иные</td>
+<td>ВСЕГО</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>дорожные службы</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>подрядчики, осуществляющие ремонтные и строительные работы</td>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>коммунальные службы</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Хозяин животного</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td colspan="8">по роду деятельности</td>
+</tr>
+<tr>
+<td>военнослужащий</td>
+<td>гос. служащий</td>
+<td>сотрудник правоохранительных и специальных органов</td>
+<td>безработный</td>
+<td>студент</td>
+<td>учащийся школы</td>
+<td>водитель такси</td>
+<td>иные</td>
 </tr>
 <tr>
 <td>5</td>
@@ -255,9 +1934,830 @@
 <td>10</td>
 <td>11</td>
 <td>12</td>
-<td>13</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td colspan="11">по возрасту</td>
+</tr>
+<tr>
+<td colspan="5">несовершеннолетних</td>
+<td rowspan="2">18-20 лет</td>
+<td rowspan="2">21-29 лет</td>
+<td rowspan="2">30-39 лет</td>
+<td rowspan="2">40-49 лет</td>
+<td rowspan="2">50-59 лет</td>
+<td rowspan="2">60 лет и выше</td>
+</tr>
+<tr>
+<td>всего</td>
+<td>0-11 лет</td>
+<td>12-13 лет</td>
+<td>14-15 лет</td>
+<td>16-17 лет</td>
+</tr>
+<tr>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="13">Отчет «О дорожно-транспортных происшествиях, повлекших гибель или ранение людей»</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th colspan="7">Таблица 5. Сведения о пострадавших участниках ДТП</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="2" rowspan="2">Пострадавший в ДТП</td>
+<td rowspan="2">Код строки</td>
+<td rowspan="2">всего лиц</td>
+<td rowspan="2">ранено</td>
+<td rowspan="2">погибло</td>
+<td colspan="8">по роду деятельности</td>
+</tr>
+<tr>
+<td>военнослужащий</td>
+<td>государственный служащий</td>
+<td>сотрудник правоохранительных и специальных органов</td>
+<td>безработный</td>
+<td>студент</td>
+<td>учащийся школы</td>
+<td>водитель такси</td>
+<td>иные</td>
+</tr>
+<tr>
+<td colspan="2">А</td>
+<td>Б</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+</tr>
+<tr>
+<td rowspan="4">Водитель</td>
+<td>ВСЕГО</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>мужчина</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>женщина</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>иностранец /лицо без гражданства /кандас</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Пешеход</td>
+<td>ВСЕГО</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>мужчина</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>женщина</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>иностранец /лицо без гражданства /кандас</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Пассажир</td>
+<td>ВСЕГО</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>мужчина</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>женщина</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>иностранец /лицо без гражданства /кандас</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td colspan="11">по возрасту</td>
+</tr>
+<tr>
+<td colspan="5">несовершеннолетних</td>
+<td rowspan="2">18-20 лет</td>
+<td rowspan="2">21-29 лет</td>
+<td rowspan="2">30-39 лет</td>
+<td rowspan="2">40-49 лет</td>
+<td rowspan="2">50-59 лет</td>
+<td rowspan="2">60 лет и выше</td>
+</tr>
+<tr>
+<td>всего</td>
+<td>0-11 лет</td>
+<td>12-13 лет</td>
+<td>14-15 лет</td>
+<td>16-17 лет</td>
+</tr>
+<tr>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -281,33 +2781,31 @@
 
 ### Глава 1. Общие положения
 
-1. Настоящая Инструкция по формированию отчета «О дорожно-транспортных происшествиях, повлекших гибель или ранение людей» (далее - отчет) детализирует положения по формированию отчета, который содержит показатели аварийности, дорожно-транспортного травматизма и смертности.
+1. Настоящая Инструкция по формированию отчета «О дорожно-транспортных происшествиях, повлекших гибель или ранение людей» (далее – отчет) детализирует положения по формированию отчета, который содержит показатели дорожно-транспортного травматизма и смертности.
+
+> *Сноска. Пункт 1 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 2. В настоящей Инструкции используются следующие понятия:
 
-   1) пешеход – лицо, находящееся вне транспортного средства на дороге и не производящее на ней работы. К пешеходам приравниваются физические лица, передвигающиеся в кресло-колясках для лиц с инвалидностью, ведущие велосипед, электрический самокат, малое электрическое транспортное средство, мопед, мотоцикл, везущие санки, тележку, детскую коляску;
+   1) укрытое от учета дорожно-транспортное происшествие – это дорожно-транспортное происшествие, повлекшее причинение вреда здоровью, смерть человека, по которому, несмотря на наличие оснований, не приняты меры для постановки на учет;
 
-   2) дорожно-транспортное происшествие (далее – ДТП) – событие, возникшее в процессе движения по дороге транспортного средства и с его участием, повлекшее причинение вреда здоровью, смерть человека, повреждение транспортных средств, сооружений, грузов либо иной материальный ущерб;
+   2) пешеход – лицо, находящееся вне транспортного средства на дороге и не производящее на ней работы. К пешеходам приравниваются физические лица, передвигающиеся в кресло-колясках для лиц с инвалидностью, ведущие велосипед, электрический самокат, малое электрическое транспортное средство, мопед, мотоцикл, везущие санки, тележку, детскую коляску;
 
-   3) пассажир – лицо, находящееся на (в) транспортном средстве и не управляющее им;
+   3) дорога – вся полоса отвода земли либо поверхность искусственного сооружения, обустроенная или приспособленная и используемая для движения транспортных средств и пешеходов в порядке, установленном Законом Республики Казахстан «О дорожном движении».
 
-   4) водитель – лицо, управляющее транспортным средством, погонщик, ведущий по дороге скот, стадо, вьючных, упряжных или верховых животных;
+      Дорога включает в себя одну или несколько проезжих частей, а также трамвайные пути, тротуары, обочины и разделительные полосы при их наличии;
 
-   5) транспортное средство (далее – ТС) – устройство, предназначенное для перевозки по дорогам людей, грузов или оборудования, установленного на нем;
+   4) пассажир – лицо, находящееся на (в) транспортном средстве и не управляющее им;
 
-   6) уполномоченный орган – Комитет по правовой статистике и специальным учетам Генеральной прокуратуры Республики Казахстан (далее – КПСиСУ) и его территориальные органы;
+   5) дорожно-транспортное происшествие (далее – ДТП) – событие, возникшее в процессе движения по дороге транспортного средства и с его участием, повлекшее причинение вреда здоровью, смерть человека, повреждение транспортных средств, сооружений, грузов либо иной материальный ущерб;
 
-   7) электронная цифровая подпись Национального удостоверяющего центра (далее – ЭЦП) - набор электронных цифровых символов, созданный средствами электронной цифровой подписи и подтверждающий достоверность электронного документа, его принадлежность и неизменность содержания;
+   6) водитель – лицо, управляющее транспортным средством, погонщик, ведущий по дороге скот, стадо, вьючных, упряжных или верховых животных;
 
-   8) дорога – вся полоса отвода земли либо поверхность искусственного сооружения, обустроенная или приспособленная и используемая для движения транспортных средств и пешеходов в порядке, установленном Законом Республики Казахстан «О дорожном движении». Дорога включает в себя одну или несколько проезжих частей, а также трамвайные пути, тротуары, обочины и разделительные полосы при их наличии;
+   7) транспортное средство (далее – ТС) – устройство, предназначенное для перевозки по дорогам людей, грузов или оборудования, установленного на нем;
 
-   9) легкий вред здоровью – вред здоровью человека, повлекший кратковременное расстройство здоровья (на срок не более двадцати одного дня) или незначительную стойкую утрату общей трудоспособности (менее чем на одну десятую часть);
+   8) электронная цифровая подпись Национального удостоверяющего центра (далее – ЭЦП) – набор электронных цифровых символов, созданный средствами электронной цифровой подписи и подтверждающий достоверность электронного документа, его принадлежность и неизменность содержания.
 
-   10) средней тяжести вред здоровью – вред здоровью человека, не опасный для его жизни, вызвавший длительное расстройство здоровья (на срок более двадцати одного дня) или значительную стойкую утрату общей трудоспособности (менее чем на одну треть);
-
-   11) тяжкий вред здоровью – вред здоровью человека, опасный для его жизни, либо иной вред здоровью, повлекший за собой: потерю зрения, речи, слуха или какого-либо органа; утрату органом его функций; неизгладимое обезображивание лица; расстройство здоровья, соединенное со значительной стойкой утратой общей трудоспособности не менее чем на одну треть; полную утрату профессиональной трудоспособности; прерывание беременности; психическое, поведенческое расстройство (заболевание), в том числе связанное с употреблением психоактивных веществ.
-
-> *Сноска. Пункт 2 в редакции приказа Генерального Прокурора РК от 24.08.2023 № 164 (вводится в действие со дня его первого официального опубликования).*
+> *Сноска. Пункт 2 в редакции приказа Генерального Прокурора РК от 24.08.2023 № 164 (вводится в действие со дня его первого официального опубликования); от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 3. Отчет формируется на основании следующих электронных информационных учетных документов (далее – ЭИУД):
 
@@ -315,23 +2813,29 @@
 
    «Карточка на лицо, раненое или погибшее в дорожно-транспортном происшествии» по форме согласно приложению 2 к настоящей Инструкции (далее – ДТП-2);
 
-   «Карточка учета представлений, внесенных в порядке статьи 200 Уголовно-процессуального кодекса Республики Казахстан (далее-УПК РК)» по форме согласно приложению 3 к настоящей Инструкции (далее – ДТП-3);
+   «Карточка учета представлений, внесенных в порядке статьи 200 Уголовно-процессуального кодекса Республики Казахстан (далее – УПК РК)» по форме согласно приложению 3 к настоящей Инструкции (далее – ДТП-3);
 
-   «Карточка учета решений рассмотренных представлений, внесенных в порядке статьи 200 УПК РК» по форме согласно приложению 4 к настоящей Инструкции (далее – ДТП-4).
+   «Карточка учета решений по рассмотренным представлениям, внесенным в порядке статьи 200 УПК РК» по форме согласно приложению 4 к настоящей Инструкции (далее – ДТП-4).
 
-   ЭИУД вводится только о тех ДТП, в результате которых погибли или были ранены люди.
+   ЭИУД вводится по ДТП, в результате которых погибли или были ранены люди.
 
-   Лицо учитывается, как погибшее в результате ДТП, если оно скончалось от полученных телесных повреждений на месте ДТП или в течение тридцати суток с момента происшествия при наличии документально подтвержденной причинно-следственной связи между наступлением смерти и ДТП.
+   Лицо учитывается, как погибшее в результате ДТП, если оно скончалось от полученных телесных повреждений на месте ДТП или после происшествия при наличии документально подтвержденной причинно-следственной связи между наступлением смерти и ДТП.
 
-   Лицо учитывается, как раненое, если при ДТП оно получило легкой, средней тяжести или тяжкий вред здоровью.
+   Лицо учитывается, как раненое (получившее травму) в результате ДТП, если медицинскими работниками (скорая помощь) на месте ДТП или в медицинской организации ему диагностировано причинение вреда здоровью.
+
+> *Сноска. Пункт 3 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 4. Ввод ЭИУД в Единый реестр досудебных расследований (далее – ЕРДР) обеспечивают подразделения административной полиции органов внутренних дел (далее – подразделения административной полиции).
 
-5. Территориальные органы КПСиСУ осуществляют контроль за полнотой, достоверностью и своевременностью ввода ЭИУД в ЕРДР и проводят проверки по этим вопросам не реже одного раза в полугодие.
+5. Территориальные органы КПСиСУ осуществляют надзор за целостностью, объективностью, достоверностью и достаточностью правовой статистической информации о ДТП, повлекших гибель или ранение людей, и проводят проверки по этому вопросу не реже одного раза в месяц.
+
+> *Сноска. Пункт 5 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 ### Глава 2. Введение ЭИУД
 
-6. Реквизиты ЭИУД для заполнения, за исключением отсутствующих (неизвестных) сведений.
+6. Все реквизиты ЭИУД подлежат заполнению, за исключением тех, где отсутствуют (неизвестны) сведения.
+
+> *Сноска. Пункт 6 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 7. ЭИУД ДТП-1 заполняется на каждое ДТП.
 
@@ -351,9 +2855,11 @@
 
    Реквизит 12 содержит фабулу ДТП с кратким описанием аварийной ситуации, указанием маневрирования ТС и действий участников движения, которые привели к ДТП.
 
-   В реквизите 14 указывается виновный участник ДТП. При заполнении значения (3) «Скрывшийся с места ДТП» допускается указание неполных сведений о данном участнике ДТП и ТС. По установлению обстоятельств ДТП, лица, виновного в его совершении, подразделение административной полиции незамедлительно вносит изменения в ЭИУД ДТП-1, о чем письменно уведомляет территориальные органы КПСиСУ с указанием всех обновленных данных.
+   В реквизите 14 указывается виновный участник ДТП. При заполнении значения (3) «Скрывшийся с места ДТП» допускается указание неполных сведений о данном участнике ДТП и ТС. По установлению обстоятельств ДТП, лица, виновного в его совершении, подразделение административной полиции незамедлительно направляет в территориальный орган КПСиСУ ходатайство о внесении изменений в ЭИУД ДТП-1.
 
    В реквизите 14.1 указывается состояние виновника ДТП, при этом значение (5) «Резкое ухудшение здоровья» заполняется только в отношении водителей транспортных средств, работающих на маршрутах регулярных и нерегулярных перевозок пассажиров, багажа, грузов, в том числе опасных грузов, на которых распространяется требование о предрейсовом и послерейсовом медицинском осмотре.
+
+> *Сноска. Пункт 7 с изменением, внесенным приказом Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 8. ЭИУД ДТП-2 вводится на каждое лицо, раненое или погибшее в ДТП.
 
@@ -361,15 +2867,11 @@
 
    В реквизите 4 указывается порядковый номер ТС, в котором находился пострадавший, согласно нумерации ТС, указанной в реквизите 11 ЭИУД ДТП-1, для пешеходов или иных участников движения проставляется «0».
 
-   В реквизите 5 указывается участник ДТП. Для пешехода указывается (1); для водителей ТС (кроме, категорий А, B1, велосипеда, электрического самоката, малого электрического транспортного средства, воза, мопеда - (2); для пассажиров ТС категорий B, C, кроме B1 (3); для пассажиров ТС категорий D, DE, Tm (трамваев), Tb (троллейбусов) - (4); для водителей и пассажиров ТС категорий А (в том числе А1) и B1 отмечается значение (5); для лиц, передвигавшихся на велосипеде – (6), возе – (7), животном – (8), мопеде (9), электрическом самокате (10), на малом электрическом транспортном средстве (11).
-
    Реквизит 8 содержит сведения о пострадавшем в ДТП, при этом значение (3) «Неизвестное лицо» подлежит заполнению в случае, когда установить личность пострадавшего не представляется возможным.
 
-   При установлении данных о лице, пострадавшем в ДТП, подразделения административной полиции незамедлительно вносят изменения в ЭИУД ДТП-2, о чем письменно уведомляют территориальные органы КПСиСУ с указанием всех обновленных данных.
+   Со дня установления данных о лице, пострадавшем в ДТП, подразделения административной полиции незамедлительно направляют в территориальные органы КПСиСУ ходатайство о внесении изменений в ЭИУД ДТП-2.
 
-   Состояние лица, раненого в ДТП, которому назначено амбулаторное лечение на срок не менее суток, подтверждается документами медицинских учреждений.
-
-> *Сноска. Пункт 8 в редакции приказа Генерального Прокурора РК от 24.08.2023 № 164 (вводится в действие со дня его первого официального опубликования).*
+> *Сноска. Пункт 8 в редакции приказа Генерального Прокурора РК от 24.08.2023 № 164 (вводится в действие со дня его первого официального опубликования); от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 9. ЭУИД ДТП-3 заполняется на каждое ДТП, в отношении которого внесено представление в порядке статьи 200 УПК РК об устранении обстоятельств, способствовавших совершению уголовного правонарушения и других нарушений закона (далее – представление).
 
@@ -435,37 +2937,53 @@
 
     В ЭУИД ДТП-3 и ДТП-4 вкладываются графические копии представлений и в случае получения ответа, графические копии данных ответов. При направлении представления органы уголовного преследования направляют копию в подразделения административной полиции для контроля хода исполнения представления и дальнейшего заполнения результатов их рассмотрения.
 
-11. Подразделения административной полиции вводят ЭИУД ДТП-1 и ДТП-2 в ЕРДР в течение трех суток с момента ДТП, ЭУИД ДТП-3 - органы уголовного преследования в ЕРДР по результатам квалификации ДТП и в течение трех суток после внесения представления. ЭУИД ДТП-4 вводятся подразделениями административной полиции по истечении трех суток по результатам получения ответа на внесенное представление.
+11. Подразделения административной полиции вводят ЭИУД ДТП-1 и ДТП-2 в ЕРДР в течение трех суток с момента ДТП, ЭУИД ДТП-3 – органы уголовного преследования в ЕРДР по результатам квалификации ДТП и в течение трех суток после внесения представления. ЭУИД ДТП-4 вводятся подразделениями административной полиции по истечении трех суток по результатам получения ответа на внесенное представление.
 
-12. Достоверность, полноту и своевременность ввода сведений ЭИУД в ЕРДР обеспечивают должностные лица подразделений административной полиции, органов уголовного преследования согласно принятым им процессуальным решениям по материалам ДТП.
+    В случае непринятия сотрудниками подразделений административной полиции мер по регистрации выявленных укрытых от учета ДТП, ввод по ним ЭИУД ДТП-1 и ДТП-2 в ЕРДР осуществляется территориальными органами КПСиСУ до конца текущего отчетного периода.
 
-13. Подразделения административной полиции ежемесячно к 1 числу месяца, следующего за отчетным, организуют с организациями здравоохранения сверку сведений о раненых и погибших в ДТП, с составлением акта сверки по форме согласно приложению 3 к настоящей Инструкции, который к 2 числу месяца, следующего за отчетным, предоставляется в территориальный орган КПСиСУ.
+> *Сноска. Пункт 11 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
-14. Организации здравоохранения немедленно сообщают письменно или телефонограммой в подразделения административной полиции, а в сельских регионах – в органы внутренних дел:
+12. Достоверность, полноту и своевременность ввода сведений ЭИУД в ЕРДР обеспечивают должностные лица подразделений административной полиции, органов уголовного преследования согласно принятым им процессуальным решениям по материалам ДТП, в соответствии с подпунктом 2) пункта 2 статьи 8 Закона Республики Казахстан «О государственной правовой статистике и специальных учетах».
+
+> *Сноска. Пункт 12 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
+
+13. Подразделения административной полиции ежемесячно к 1 числу месяца, следующего за отчетным периодом, составляют с организациями здравоохранения акт сверки сведений о раненых и погибших в ДТП по форме согласно приложению 5 к настоящей Инструкции и который направляется ко 2 числу месяца, следующего за отчетным, в территориальный орган КПСиСУ.
+
+> *Сноска. Пункт 13 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
+
+14. Организации здравоохранения незамедлительно сообщают телефонной связью по номеру «102» в подразделения административной полиции, а в сельских регионах – в органы внутренних дел:
 
     о раненых в ДТП, обратившихся по месту жительства либо по месту ДТП или доставленных для оказания медицинской помощи, в том числе направленных в другие медицинские организации;
 
-    о лицах, смерть которых наступила в течение тридцати суток с момента ДТП.
+    о лицах, смерть которых наступила в результате ДТП.
 
-### Глава 3. Внесение корректировок в ЭИУД
+> *Сноска. Пункт 14 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
-15. Не допускается внесение изменений в ЭИУД после их подписания ЭЦП подразделениями административной полиции.
+### Глава 3. Редактирование сведений
 
-16. Корректировка реквизитов ЭИУД в ЕРДР производится подразделением административной полиции в течение 24 часов с момента установления новых (неучтенных) ДТП по следующим основаниям:
+> *Сноска. Заголовок главы 3 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
+
+15. Не допускается редактирование сведений в ЭИУД после их подписания ЭЦП подразделениями административной полиции.
+
+> *Сноска. Пункт 15 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
+
+16. Редактирование сведений (изменение и (или) дополнение данных реквизитов ЭИУД, удаление ранее введенного ЭИУД в ЕРДР) производится территориальными органами КПСиСУ на основании ходатайств, направляемых подразделениями административной полиции в течение 24 часов со дня установления новых сведений (неучтенных) о ДТП по следующим основаниям:
 
     по информации территориального органа КПСиСУ по результатам сверок, мониторингов, проверок при подтверждении недостоверности данных;
 
-    в случае, когда раненый перешел в категорию погибших;
+    в случае, когда раненое лицо перешло в категорию погибших лиц;
 
     при выявлении дополнительных пострадавших при сверке с медицинскими организациями;
 
     при установлении лиц, скрывшихся с места ДТП;
 
-    при получении заключения судебно-медицинской экспертизы по определению степени тяжести причиненного вреда здоровью.
+    при получении заключения судебно-медицинской экспертизы по определению степени тяжести причиненного вреда здоровью;
 
-    О внесенных корректировках незамедлительно в письменной форме уведомляется территориальный орган КПСиСУ, который ежемесячно, до 2 числа следующего месяца, проводит проверку обоснованности внесенных в ЕРДР корректировок.
+    при определении виновного лица ДТП.
 
-17. Если корректировки, внесение сведений о новых (неучтенных) ДТП повлекли искажение отчета предыдущих отчетных периодов, территориальный орган КПСиСУ не позднее 24 часов направляет в КПСиСУ рапорт о внесении соответствующих корректировок в отчет.
+> *Сноска. Пункт 16 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
+
+*17. Исключен приказом Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 ### Глава 4. Формирование отчета
 
@@ -481,68 +2999,100 @@
 
     вследствие нарушения правил техники безопасности и эксплуатации ТС (запуск двигателя при включенной передаче, при сцепке-расцепке ТС, механизмов, приспособлений);
 
-    в связи с попыткой покончить жизнь самоубийством или действиями, совершенными в состоянии невменяемости;
+    в связи с попыткой покончить жизнь самоубийством либо умышленным причинением вреда своему здоровью или действиями, совершенными в состоянии невменяемости;
 
     в результате умышленных посягательств на жизнь и здоровье граждан или действий, направленных на причинение имущественного ущерба;
 
     вне дорог;
 
-    по причине внезапного резкого ухудшения здоровья участника дорожного движения, в результате которого он полностью лишился возможности контролировать свои действия (остановка сердца у водителя во время движения транспорта, падение на проезжую часть больного эпилепсией и другие аналогичные случаи), за исключением водителей транспортных средств, работающих на маршрутах регулярных и нерегулярных перевозок пассажиров, багажа, грузов, в том числе опасных грузов, на которых распространяется требование о предрейсовом и послерейсовом медицинском осмотре.
+    по причине внезапного резкого ухудшения здоровья участника дорожного движения, в результате которого он полностью лишился возможности контролировать свои действия (остановка сердца у водителя во время движения транспорта, падение на проезжую часть больного эпилепсией и другие аналогичные случаи), за исключением водителей транспортных средств, работающих на маршрутах регулярных и нерегулярных перевозок пассажиров, багажа, грузов, в том числе опасных грузов, на которых распространяется требование о предрейсовом и послерейсовом медицинском осмотре;
+
+    в результате умышленных действий лица (или группы лиц), направленных на остановку транспортного средства либо воспрепятствование движению транспортного средства;
+
+    на огороженных и охраняемых территориях предприятий, организаций, аэродромов, воинских частей.
+
+> *Сноска. Пункт 19 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 ### Глава 5. Сроки формирования отчета
 
-20. Отчет формируется по дате совершения ДТП, ежемесячно, с нарастающим итогом. Показатели отчета подтверждаются территориальным органом КПСиСУ онлайн в ЕРДР.
+20. Отчет формируется по дате ввода в ЕРДР ЭИУД ДТП-1, ДТП-2, ДТП-3, ДТП-4, ежемесячно, с нарастающим итогом. Показатели отчета подтверждаются территориальным органом КПСиСУ онлайн в ЕРДР и информационной системе «Аналитический центр».
+
+> *Сноска. Пункт 20 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 21. КПСиСУ формирует сводный отчет по республике, который подписывается Председателем КПСиСУ и направляет в Генеральную прокуратуру Республики Казахстан, в министерства внутренних дел и здравоохранения Республики Казахстан к 6 числу месяца, следующего за отчетным периодом.
 
     Если окончание срока приходится на нерабочий (выходной, праздничный) день, то последним днем срока считается первый, следующий за ним рабочий день.
 
 > *Приложение 1*  
-> *к Инструкции по формированию отчета*  
-> *«О дорожно-транспортных происшествиях,*  
-> *повлекших гибель или ранение люде»*
+> *к Инструкции по формированию*  
+> *отчета «О дорожно-транспортных*  
+> *происшествиях, повлекших*  
+> *гибель или ранение людей»*
 
-> *Сноска. Форма с изменениями, внесенными приказом Генерального Прокурора РК от 24.08.2023 № 164 (вводится в действие со дня его первого официального опубликования).*
+> *Сноска. Форма с изменениями, внесенными приказом Генерального Прокурора РК от 24.08.2023 № 164 (вводится в действие со дня его первого официального опубликования); в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 форма
 
-Карточка учета дорожно-транспортного происшествия (ДТП-1)
+## Карточка учета дорожно-транспортного происшествия (ДТП-1)
 
 1. Номер карточки /__/__/__/__/__/__/__/__/__/__/__/__/__/__/
 
    Орган регистрации _____________________________________________.
 
-2. Первоначальная регистрация: Книга учета информации (1); Алфавитный журнал (2); Журнал учета входящей корреспонденции (3); другие источники (4); № ___ «__» _____ 20__ года
+2. Дата поступления карточки в Комитет по правовой статистике и специальным учетам
 
-3. Дата совершения ДТП: «__» _____ 20__ года
+   «__» ________ 20__ года.
 
-4. День недели совершения ДТП: понедельник (1), вторник (2), среда (3), четверг (4), пятница (5), суббота (6), воскресенье (7).
+2.1. Дата корректировки «__» ________ 20____ года.
 
-5. Время совершения ДТП: «_____» часов «_____» минут
+3. Первоначальная регистрация (по справочнику): №_______ от «____» ________ 20__ года.
 
-6. Место совершения ДТП: в населенном пункте (01) наименование населенного пункта _______________, улица _________________; на дороге международного, республиканского значения (2); на дороге областного, районного значения (3); на огороженных и охраняемых территориях (4); на территориях, не предназначенных для сквозного движения (5).
+3.1. Укрытое от учета ДТП.
 
-6.1. Километр, метр, № трассы __________________________________.
+3.2. Выявлено органами (по справочнику).
 
-6.2. Элементы улицы, дороги: мост (путепровод) (01), виадук (02), эстакада (03), зона остановки общественного транспорта (04), регулируемый пешеходный переход (05), нерегулируемый пешеходный переход (06), перекресток регулируемый (07), перекресток нерегулируемый (08), железнодорожный переезд со шлагбаумом (09), железнодорожный переезд без шлагбаума (10), круговое движение (11).
+3.3. Выявлено в результате (по справочнику).
 
-7. Дорожные условия: поверхность - мокрая (01), заснеженная (02), обледеневшая (03), ремонт дорог (04), сухая (05), загрязненная (06), свежеуложенная (07), поверхностная обработка (в том числе противогололедным материалом) (08);
+3.4. Орган, укрывший ДТП (по справочнику).
 
-   освещенность: день (09), сумерки (10), ночь (11);
+4. Дата совершения ДТП: «__» _____ 20__ года.
 
-   в темное время наружное освещение: включено (12), не включено (13), отсутствует (14).
+4.1. День недели совершения ДТП: (по справочнику).
 
-7.1. Зафиксированные недостатки улично-дорожной сети: скользкое покрытие (01); неровное покрытие (02), колейность (03), выбоины (04), неудовлетворительное состояние обочины (05), несоответствие габарита путепровода ширине дороги (06), несоответствие железно-дорожного переезда предъявляемым требованиям (07), деревья (08), опоры светильников (в случаях наезда, ограничения видимости) (09), отсутствие тротуаров (10), отсутствие пешеходных дорожек (11), отсутствие ограждений на опасных участках (12), недостаточное освещение проезжей части (13), отсутствуют ограждения и сигнализации в местах производства работ (14), отсутствие дорожных знаков, либо неправильное их применение (15), неисправность технических средств организации дорожного движения, или плохая их видимость (16), отсутствие дорожной разметки, или плохая ее видимость (17), иные условия (18), отсутствуют (19).
+5. Время суток совершения ДТП: «_____» часов «_____» минут.
 
-7.2. Погодные условия: ясно (1), пасмурно (2), туман (3), дождь (4), снег (5).
+6. Место совершения ДТП (по справочнику).
 
-7.3. Общее число полос движения на дороге: ____
+   Район совершения ДТП (гарнизон): (по справочнику).
 
-7.4. Ограничение скорости на участке: ____
+   Населенный пункт отметить на карте, улица _________________.
 
-8. Вид ДТП: лобовое столкновение (1), боковое столкновение (2), попутное столкновение (3), падение пассажира (4), опрокидывание (5), наезд на стоящее транспортное средство (далее – ТС) (6), наезд на препятствие (7), наезд на пешехода (8), наезд на велосипедиста (9), наезд на гужевой транспорт (10), наезд на животное (11), иные виды происшествий (12), наезд на водителя мопеда (13), наезд на электрического самоката (14), малого электрического транспортного средства (15);
+6.1. Индекс трассы (по справочнику):
 
-9. Нарушение Правил дорожного движения (далее - ПДД): превышение скорости, установленной ПДД или дорожными знаками (01); проезд на запрещающий сигнал светофора или на запрещающий жест регулировщика (02); несоблюдение требований, предписанных дорожными знаками или разметкой проезжей части дороги (03); непредоставление преимущества в движении пешеходам или иным участникам дорожного движения (04); несоблюдение правил перевозки пассажиров (05); перевозки грузов (06); остановок маршрутных ТС (07), движения в жилых зонах (08), буксировки транспортных средств (09); другие грубые нарушения ПДД (10); нарушение правил проезда перекрестков или пересечение проезжей части дороги (11); маневрирования (12); расположения ТС на проезжей части дороги (13); встречного разъезда, или обгона (14); остановки или стоянки ТС (15); непредоставление преимущества в движении транспортному средству оперативных и специальных служб с включенными специальными световыми и звуковыми сигналами (16); пользования внешними световыми приборами (17); применения аварийной сигнализации (18); нарушение участником дорожного движения ПДД, повлекшее создание аварийной обстановки (19); проезда железнодорожных переездов (20); несоблюдение дистанции (21); управление ТС водителем в болезненном или утомленном состоянии, ставящем под угрозу безопасность дорожного движения (22); управление ТС водителем, находящимся в состоянии алкогольного, наркотического и (или) токсикоманического опьянения (23); нарушение водителями ТС установленных правил обеспечения безопасности дорожного движения (24); невыполнение водителем обязанностей в связи с ДТП (25); управление ТС с неисправностями, с которыми запрещена их эксплуатация (26); нарушение правил движения пешеходами и иными участниками дорожного движения (27).
+Наименование дороги (выходит автоматически при выборе индекса трассы).
+
+Километр, метр трассы __________________________________.
+
+7. Дорожные условия, которые могут быть связаны с ДТП:
+
+```
+            -вид дорожного покрытия (по справочнику);
+            -освещенность (по справочнику);
+            -наружное освещение (по справочнику);
+            -элементы улицы, дороги (по справочнику).
+```
+
+7.1. Зафиксированные недостатки: (по справочнику).
+
+7.2. Погодные условия: (по справочнику).
+
+7.3. Общее число полос движения на дороге: (по справочнику).
+
+7.4. Ограничение скорости на участке: (по справочнику).
+
+8. Вид ДТП: (по справочнику).
+
+9. Нарушение правил дорожного движения: (по справочнику).
 
 10. Количество ТС, участвовавших в ДТП: _______________________.
 
@@ -550,14 +3100,19 @@
 
 <table>
 <tr>
-<td>№ ТС п/п</td>
+<td>
+№
+ТС п/п
+</td>
 <td>Категория ТС</td>
 <td>Расположение рулевого управления правое\ левое</td>
 <td>Государственный регистрационный №</td>
-<td>№ кузова</td>
+<td>№ кузова (WIN-код)</td>
 <td>Марка, модель ТС</td>
+<td>Описание ТС</td>
+<td>Страна регистрации ТС</td>
 <td>Год выпуска</td>
-<td>Фамилия, имя, отчество (при его наличии) (далее - Ф.И.О.) водителя</td>
+<td>Фамилия, имя, отчество (при его наличии) водителя</td>
 <td>Возраст водителя</td>
 <td>Право управления данной категорией ТС (имеет \ не имеет \ лишен водительских прав)</td>
 <td>№ водительского удостоверения, дата выдачи</td>
@@ -570,6 +3125,8 @@
 <td></td>
 <td></td>
 <td></td>
+<td>по справочнику:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -581,64 +3138,101 @@
 </tr>
 </table>
 
-12. Фабула ДТП: _____________________________________________
+12. Фабула ДТП: ______________________________________________________
 
-    ____________________________________________________________.
+    _____________________________________________________________________
 
 13. Количество: раненых ______, погибших ______.
 
-13-1. Время вызова медицинских служб _________.
+13.1. Дата/время вызова медицинских служб _________.
 
-13-2. Время прибытия медицинских служб _______.
+13.2. Дата/время прибытия: _____________.
 
-14. Виновный участник ДТП: водитель (1), пешеход (2), скрывшийся с места ДТП (3), несовершеннолетний (4), иностранец/лицо без гражданства (5), дорожные службы (6), подрядчики, осуществляющие ремонтные и строительные работы (7), коммунальные службы (8), велосипедист (9), водитель мопеда (10), водитель электрического самоката (11), водитель малого электрического транспортного средства (12);
+14. Виновный участник ДТП (по справочнику):
 
-14.1. Состояние виновника ДТП: отсутствие признаков опьянения, трезвый (1); алкогольное опьянение (2); наркотическое опьянение (3); токсикоманическое опьянение (4); резкое ухудшение здоровья (5); время непрерывного нахождения в пути (6).
+14.1. Состояние виновника ДТП (по справочнику):
 
-14.2. Ф.И.О. (при его наличии) виновного пешехода ________________________________________________________________
+14.2. Сведения о виновном участнике ДТП:
 
-14.3. Дата рождения ____________, возраст на момент ДТП ____, индивидуальный идентификационный номер (далее – ИИН), пол, виновного водителя, пешехода: ___/___/___/___/___/___/___/___/___/___/___/___/.
+Индивидуальный идентификационный номер (ИИН): /_/_/_/_/_/_/_/_/_/_/_/_/
 
-15. Ф.И.О. (при его наличии), должность сотрудника подразделения административной полиции, заполнившего карточку
+Фамилия___________________________
 
-    ________________________________________________________________.
+Имя_______________________________
 
-16. Решение, принятое по данному ДТП: номер протокола по делу об административном правонарушении __________________________ либо ЕРДР __________________________, пункт, часть, статья закона
+Отчество (при его наличии) __________________________
+
+Дата рождения______________________,
+
+Возраст на момент совершения ДТП (по справочнику):
+
+Пол: (по справочнику):
+
+Гражданство (по справочнику):
+
+14.3. Социальный статус: (по справочнику);
+
+14.4. Наименование службы такси: (по справочнику);
+
+15. Фамилия, инициалы, должность сотрудника, заполнившего карточку (по справочнику).
+
+16. Решение, принятое по данному ДТП:
+
+    Номер административного протокола_________________________________
+
+    Квалификация (часть, статья Кодекса Республики Казахстан «Об административных правонарушениях») (по справочнику);
+
+    Номер ЕРДР _____________________________________________
+
+    Квалификация (часть, статья Уголовного Кодекса Республики Казахстан): (по справочнику).
+
+    Прочие отметки: __________________________________________________________________
+
+    _________________________________________________________________________________
 
 > *Приложение 2*  
-> *к Инструкции по формированию отчета*  
-> *«О дорожно-транспортных происшествиях,*  
-> *повлекших гибель или ранение людей»*
+> *к Инструкции по формированию*  
+> *отчета «О дорожно-транспортных*  
+> *происшествиях, повлекших*  
+> *гибель или ранение людей»*
 
-> *Сноска. Форма с изменением, внесенным приказом Генерального Прокурора РК от 24.08.2023 № 164 (вводится в действие со дня его первого официального опубликования).*
+> *Сноска. Форма с изменением, внесенным приказом Генерального Прокурора РК от 24.08.2023 № 164 (вводится в действие со дня его первого официального опубликования); в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
 Форма
 
 ## Карточка на лицо, раненое или погибшее в дорожно-транспортном происшествии (ДТП-2)
 
-1. Номер карточки /__/__/__/__/__/__/__/__/__/__/__/__/__/__/
+1\. Номер карточки /__/__/__/__/__/__/__/__/__/__/__/__/__/__/
 
-2. Дата и время суток совершения ДТП «___» __________ 20__ года «___» час. «___» минут.
+2\. Дата поступления карточки «___» __________ 20__ года
 
-3. День недели совершения ДТП: понедельник (1), вторник (2), среда (3), четверг (4), пятница (5), суббота (6), воскресенье (7).
+3\. Дата/время совершения ДТП «___» __________ 20__ года «___» часов «___» минут.
 
-4. Порядковый номер (далее – ТС), в котором находился пострадавший (согласно нумерации ТС, указанной в пункте 11 ЭИУД ДТП-1, для пешеходов или иных участников движения проставляется «0»): «___».
+3.1 День недели совершения ДТП (по справочнику):
 
-5. Участник ДТП: пешеход (1); водитель ТС (кроме, категорий А, B1, велосипеда, электрического самоката, малого электрического транспортного средства, воза, мопеда (2); пассажир ТС категорий B, C, кроме B1 (3); пассажир ТС категорий D, DE, Tm, Tb (4); лицо, передвигавшееся на ТС категорий А, B1 (5); велосипеде (6); возе (7); животном (8); мопеде (9); электрическом самокате (10), малом электрическом транспортном средстве (11).
+4\. Порядковый номер транспортного средства (далее – ТС), в котором находился пострадавший (согласно нумерации ТС, указанной в пункте 11 ЭИУД ДТП-1, для пешеходов или иных участников движения проставляется «0»): «___».
 
-6. Ремень безопасности\шлем: пристегнут (1), одет (2), не пристегнут (3), не одет (4), не определено (5), не предусмотрено (6).
+5\. Участник ДТП (по справочнику):
 
-7. Наличие детского удерживающего устройства: есть (1), нет (2), при этом, ремень детского удерживающего устройства: пристегнут (3), не пристегнут (4); не определено (5); не предусмотрено (6).
+5.1 Виновный участник ДТП: (по справочнику):
 
-8 Наличие подушек безопасности: есть (1), нет (2), при этом, подушки безопасности: сработали (3), не сработали (4).
+7\. Ремень безопасности/шлем (по справочнику):
 
-9. Местонахождение пассажира в ТС: место не определено (1), на переднем сиденье (2), на левых задних сиденьях (3), на правых задних сиденьях (4), в средней части задних сидений (5), коляска (6), стоя (7).
+7.1 Детское удерживающее устройство (по справочнику):
 
-10. Сведения о пострадавшем в ДТП: ранено (1), погибло (2), в том числе неизвестное лицо (3).
+Ремень на детском устройстве (по справочнику):
 
-11. Смерть наступила: на месте ДТП (1), по дороге в больницу (2), в больнице (3), иное (4).
+7.2 Местонахождение пассажира в ТС (по справочнику):
 
-12. Ф.И.О. (при его наличии) пострадавшего в ДТП:
+7.3 Подушки безопасности в ТС (по справочнику):
+
+8\. Сведения о пострадавшем в ДТП (по справочнику):
+
+8.1 Смерть наступила (по справочнику):
+
+8.2 Индивидуальный идентификационный номер (ИИН) /_/_/_/_/_/_/_/_/_/_/_/_/
+
+9\. Пострадавший (-ая) в ДТП:
 
 <table>
 <tr>
@@ -653,32 +3247,41 @@
 </tr>
 </table>
 
-13. Пол: мужской (1), женский (2).
+10\. Пол (по справочнику):
 
-14. Дата рождения «___» ___________ 20__ года и ИИН пострадавшего в ДТП ___/___/___/___/___/___/___/___/___/___/___/___/
+11\. Дата рождения «___» _____________ года
 
-15. Гражданство: гражданин Республики Казахстан (1), иностранец (3), лицо без гражданства (4).
+12\. Гражданство (по справочнику):
 
-16. Возраст: до 6 лет (1), 7-12 лет (2), 13-17 лет (3), 18-20 лет (4), 21-29 лет (5), 30-39 лет (6), 40-49 лет (7), 50-59 лет (8), 60 лет и старше (9).
+13\. Возраст на момент ДТП: (по справочнику);
 
-17. Социальный статус: военнослужащий (1), пенсионер (2), рабочий (3), государственный служащий (4), сотрудник правоохранительных органов (5), безработный (6), студент (7), иные (8), школьник (9), сотрудник специальных органов (10), лицо с инвалидностью (11).
+13.1. Социальный статус (по справочнику);
 
-18. Ф.И.О. (при его наличии), должность сотрудника подразделения административной полиции, заполнившего карточку _______________________________________________
+15. Фамилия, инициалы сотрудника, заполнившего карточку: ________________________
 
-19. Наименование медицинской организации __________________________________
+16. Должность сотрудника, заполнившего карточку: (по справочнику);
 
-20. Дата поступления/обращения пострадавшего в медицинскую организацию «__» _________ 20__ года.
+17. Наименование медицинской организации ___________________________
 
-21. Причиненный здоровью вред: легкий (1), средней тяжести (2), тяжкий (3), не определен (4).
+18. Дата поступления пострадавшего в медицинскую организацию
 
-22. Объем оказанной медицинской помощи: оказана первая медицинская помощь (1), госпитализирован (2), отказ от госпитализации (3), отказ от медицинской помощи (4).
+    «___» _________ 20__ года.
+
+18.1. Причиненный здоровью вред (по справочнику):
+
+18.2. Объем оказанной медицинской помощи (по справочнику):
+
+Прочие отметки: ________________________________________________________
 
 > *Приложение 3*  
-> *к Инструкции по формированию отчета*  
-> *«О дорожно-транспортных происшествиях,*  
-> *повлекших гибель или ранение людей»*
+> *к Инструкции по формированию*  
+> *отчета «О дорожно-транспортных*  
+> *происшествиях, повлекших*  
+> *гибель или ранение людей»*
 
-> *форма*
+> *Сноска. Приложение 3 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
+
+форма
 
 ## Карточка учета представлений, внесенных в порядке статьи 200 Уголовно-процессуального кодекса Республики Казахстан (ДТП-3)
 
@@ -690,101 +3293,127 @@
 
 4. Дата внесения представления «___» __________ 20__ года.
 
-5. Исходящий номер представления __________________________________________
+5. Исходящий номер представления _____________________________________________
 
-6. Наименование организации куда внесено представление _______________________
+6. Наименование организации куда внесено представление _________________________
 
-   __________________________________________________________________________
+   _____________________________________________________________________________
 
-7. Форма собственности организации куда внесено представление _________________
+7. Форма собственности организации, куда внесено представление ____________________
 
-8. Номер уголовного дела при производстве которого внесено представление __________________________
+   _____________________________________________________________________________
+
+8. Номер уголовного дела, при производстве которого внесено представление ____________
 
 9. Квалификация Уголовного кодекса Республики Казахстан ________ пункт, часть, статья.
 
 10. Меры, изложенные в представлении: (признаки мер).
 
-11. Ф.И.О. (при его наличии) сотрудника подразделения органов внутренних дел, подписавшего представление __________________________________________________
+11. Фамилия, инициалы сотрудника подразделения органов внутренних дел,
 
-12. Должность сотрудника подразделения органов внутренних дел, подписавшего представление________________________________________________________________
+    подписавшего представление ____________________________________________________
 
-13. Ф.И.О. (при его наличии) сотрудника подразделения органов внутренних дел, заполнившего карточку _________________________________________________________
+12. Должность сотрудника подразделения органов внутренних дел, подписавшего
+
+    представление _________________________________________________________________
+
+13. Фамилия, инициалы сотрудника подразделения органов внутренних дел, заполнившего
+
+    карточку _____________________________________________________________________
 
 14. Должность сотрудника подразделения органов внутренних дел, заполнившего карточку
 
+    Дата поступления карточки «___» __________ 20__ года
+
+    Дата корректировки «___» __________ 20__ года
+
+    Прочие отметки: _______________________________________________________________
+
+    Вложения:
+
 > *Приложение 4*  
 > *к Инструкции по формированию отчета*  
-> *«О дорожно-транспортных происшествиях,*  
-> *повлекших гибель или ранение людей»*
+> *«О дорожно-транспортных*  
+> *происшествиях, повлекших*  
+> *гибель или ранение людей»*
 
-> *форма*
+> *Сноска. Приложение 4 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
 
-## Карточка учета решений рассмотренных представлений, внесенных в порядке статьи 200 Уголовно-процессуального кодекса Республики Казахстан (ДТП-4)
+форма
 
-1. Номер карточки /__/__/__/__/__/__/__/__/__/__/__/__/__/__/.
+## Карточка учета решений по рассмотренным представлениям, внесенным в порядке статьи 200 Уголовно-процессуального кодекса Республики Казахстан (ДТП-4)
 
-2. Орган регистрации _____________________________________________.
+1. Номер карточки /__/__/__/__/__/__/__/__/__/__/__/__/__/__/
+
+2. Орган регистрации _____________________________________________
 
 3. Дата и время совершения ДТП «___» __________ 20__ года «___» часов «___» минут
 
 4. Дата внесения представления «___» __________ 20__ года.
 
-5. Исходящий номер представления ___________________________________________
+5. Исходящий номер представления __________________________________
 
-6. Наименование организации, куда внесено представление _______________________
+6. Наименование организации, куда внесено представление ___________________________
 
-   __________________________________________________________________________
+7. Форма собственности организации, куда внесено представление ____________________
 
-7. Форма собственности организации, куда внесено представление _________________
+8. Номер уголовного дела, при производстве которого внесено представление ___________
 
-   _____________________________________________________________________________
-
-8. Номер уголовного дела, при производстве которого внесено представление _______
-
-   ____________________________________________________________________________
-
-9. Квалификация Уголовного кодекса Республики Казахстан ________ пункт, часть, статья.
+9. Квалификация Уголовного кодекса Республики Казахстан ________ пункт, часть, статья
 
 10. Меры, изложенные в представлении: (признаки мер).
 
-11. Фамилия, имя, отчество (при его наличии) должность сотрудника подразделения органов внутренних дел (далее-ОВД), подписавшего представление ___________________
+11. Фамилия, инициалы, должность сотрудника подразделения органов внутренних дел,
+
+    подписавшего представление ___________________________________________________
 
     _____________________________________________________________________________
 
-12. Решение, принятое по данному представлению: рассмотрено (1), оставлено без рассмотрения (2), удовлетворено частично (3).
+12. Решение, принятое по данному представлению (по справочнику):
 
-13. Основание оставления представления без рассмотрения _______________________
+13. Основание оставления представления без рассмотрения __________________________
 
-    __________________________________________________________________________
+14. Дата получения ответа на представление «___» __________ 20__ года
 
-14. Дата получения ответа на представление «___» __________ 20__ года.
+15. Исходящий номер ответа на представление ______________________________________
 
-15. Исходящий номер ответа на представление __________________________________
+16. Принятые меры по результатам рассмотрения представления _______________________
 
-16. Принятые меры по результатам рассмотрения представления __________________________________.
+    _____________________________________________________________________________
 
-17. Фамилия, имя, отчество (при его наличии) руководителя, подписавшего ответ на представление ________________________________________________________________
+17. Фамилия, инициалы руководителя органов внутренних дел, подписавшего ответ на представление _________________________________________________________________
 
-18. Должность руководителя, подписавшего ответ на представление ________________
+18. Должность руководителя органов внутренних дел, подписавшего ответ на представление ________________________________________________________________
 
-19. Фамилия, имя, отчество (при его наличии) сотрудника подразделения ОВД, заполнившего карточку _________________________________________________________
+19. Фамилия, инициалы сотрудника подразделения органов внутренних дел, заполнившего карточку ____________________________________________________________________
 
-20. Должность сотрудника подразделения ОВД, заполнившего карточку ____________
+20. Должность сотрудника подразделения органов внутренних дел, заполнившего карточку _____________________________________________________________________________
 
-> *Приложение 5*  
-> *к Инструкции по формированию отчета*  
-> *«О дорожно-транспортных происшествиях,*  
-> *повлекших гибель или ранение людей»*
+    Дата поступления карточки «___» __________ 20__ года
 
-> *форма*
+    Дата корректировки «___» __________ 20__ года
 
-## Акт сверки сведений о раненых и погибших в ДТП от «__» ________ 20___ года № ____ с «__» ___________ по «__» _____________ (период сверки)
+    Прочие отметки: _______________________________________________________________
+
+    Вложения:
+
+> *Приложение 5 к Инструкции*  
+> *по формированию отчета*  
+> *«О дорожно-транспортных*  
+> *происшествиях, повлекших гибель*  
+> *или ранение людей»*
+
+> *Сноска. Приложение 5 в редакции приказа Генерального Прокурора РК от 12.06.2024 № 75 (вводится в действие после дня его первого официального опубликования).*
+
+форма
+
+## Акт сверки сведений о раненых и погибших в ДТП от «___» ________ 20___ года № ____ с «___» ___________ по «___» _____________ (период сверки)
 
 <table>
 <tr>
 <td>№ п/п</td>
 <td>Дата поступления (обращения) в медицинскую организацию</td>
-<td>Ф.И.О. (при его наличии), год рождения, ИИН пострадавшего</td>
+<td>Фамилия, инициалы, год рождения, ИИН пострадавшего</td>
 <td>Место жительства, контактные телефоны</td>
 <td>Дата, место совершения краткая фабула ДТП</td>
 <td>Характер травм, степень тяжести травмы</td>
@@ -811,10 +3440,12 @@
 </tr>
 </table>
 
-Представитель медицинской организации _________________ место для печати (Ф.И.О. (при его наличии),
-
-должность, наименование медицинской организации, адрес, контактные телефоны, подпись)
-
-Должностное лицо подразделения административной полиции ___________________________________________________ место для печати
-
-(Ф.И.О. (при его наличии) должность, наименование подразделения административной полиции, адрес, контактные телефоны, подпись)
+```
+Представитель медицинской организации _________________________________________
+______________________________________________________________________ место для печати
+(Фамилия, инициалы, должность, наименование медицинской организации, адрес, контактные телефоны, подпись)
+Должностное лицо подразделения административной полиции _____________________
+______________________________________________________________________ место для печати
+(Фамилия, инициалы, должность, наименование подразделения административной полиции, адрес, контактные
+телефоны, подпись)
+```
