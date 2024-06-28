@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/93464/kaz/06.03.2024
+source: https://zan.gov.kz/client/#!/doc/93464/kaz/28.06.2024
 ---
 
 # Мемлекеттік орман қоры учаскелерiнде ағаш кесу қағидаларын бекіту туралы
