@@ -1,5 +1,5 @@
 ---
-version_id: '183868_641360'
+version_id: '183868_714121'
 act_code: '183868'
 language: kaz
 title: Нарықтық бағалар туралы ресми танылған ақпарат көздерінің тізбесін бекіту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103002000000'
 approval_date: 2023-07-12
-version_date: 2023-07-12
+version_date: 2024-07-24
 registry_number: '183868'
-source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
+caused_by:
+  code: '199103'
+  title: «Нарықтық бағалар туралы ресми танылған ақпарат көздерінің тізбесін бекіту туралы» Қазақстан Республикасы Премьер-Министрінің орынбасары – Қаржы министрінің 2023 жылғы 12 шілдедегі № 757 бұйрығына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/199103/kaz
+source: https://zan.gov.kz/client/#!/doc/183868/kaz
 ---
 
 # Нарықтық бағалар туралы ресми танылған ақпарат көздерінің тізбесін бекіту туралы
@@ -45,6 +49,8 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 
 ## Нарықтық бағалар туралы ресми танылған ақпарат көздерінің тізбесі
 
+> *Ескерту. Тізбеге өзгеріс енгізілді - ҚР Қаржы министрінің 24.07.2024 № 480 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
 <table>
 <tr>
 <td>№</td>
@@ -71,8 +77,8 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 <td>2</td>
 <td>European Market Scan Basic Service, Asia-Pacific/Arab Gulf Marketskan</td>
 <td>S&amp;P Global Inc. (S&amp;P Global Commodity Insights), Америка Құрама Штаттары</td>
-<td>Шикі мұнай өнімдері, мұнай өнімдері</td>
-<td>2709 00 100, 2710</td>
+<td>Мұнай өнімдері</td>
+<td>2710</td>
 </tr>
 <tr>
 <td>3</td>
@@ -114,33 +120,72 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 </tr>
 <tr>
 <td rowspan="13">8</td>
-<td rowspan="13">EIKON</td>
-<td rowspan="13">Refinitiv, Ұлыбритания</td>
+<td rowspan="13">
+EIKON,
+Workspace
+</td>
+<td rowspan="13">
+Refinitiv/London
+Stock Exchange
+Group (LSEG),
+Ұлыбритания
+</td>
 <td>Мұнай</td>
 <td>2709 00 900</td>
 </tr>
 <tr>
-<td>Шикі мұнай өнімдері, мұнай өнімдері</td>
-<td>2709 00 100, 2710</td>
+<td>Мұнай өнімдері</td>
+<td>2710</td>
 </tr>
 <tr>
 <td>Табиғи газ</td>
 <td>2711 21 000 0</td>
 </tr>
 <tr>
-<td>Мұнай өнімдерін тасымалдау жөніндегі қызметтер</td>
+<td>
+Мұнай өнімдерін
+тасымалдау жөніндегі
+қызметтер
+</td>
 <td>-</td>
 </tr>
 <tr>
-<td>Бағалы металдар</td>
-<td>7106 10 000 0, 7106 91 000, 7106 91 000 9, 7106 92 000 0, 7108 11 000 0, 7108 12 000, 7108 13 100 0 - 7108 20 000</td>
+<td>
+Бағалы
+металдар
+</td>
+<td>
+7106 10 000 0,
+7106 91 000,
+7106 91 000 9,
+7106 92 000 0,
+7108 11 000 0,
+7108 12 000,
+7108 13 100 0
+- 7108 20 000
+</td>
 </tr>
 <tr>
 <td>Түсті металдар</td>
-<td>7402 00 000 0, 7403 11 000 0 – 7403 29 000 0, 7801 10 000 0 – 7801 99 900 0, 7901 11 000 0 – 7901 20 000 0, 8103, 8104, 8108</td>
+<td>
+7402 00 000 0,
+7403 11 000 0 –
+7403 29 000 0,
+7601 10 000 0
+7801 10 000 0 –
+7801 99 900 0,
+7901 11 000 0 –
+7901 20 000 0,
+8103,
+8104,
+8108
+</td>
 </tr>
 <tr>
-<td>Өзге де бағалы емес металдар</td>
+<td>
+Өзге де бағалы
+емес металдар
+</td>
 <td>8112</td>
 </tr>
 <tr>
@@ -153,7 +198,11 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 </tr>
 <tr>
 <td>Ферроқорытпалар</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209, 7210,
+7225
+</td>
 </tr>
 <tr>
 <td>Титан</td>
@@ -169,8 +218,21 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 </tr>
 <tr>
 <td>9</td>
-<td>Лондондағы бағалы металдар нарығы қауымдастығының (LBMA) ресми сайты www.​lbma.​org.​uk, Fastmarkets MB (Metal Bulletin)</td>
-<td>Fastmarkets MB (Metal Bulletin), компаниясы Euromoney компаниялар тобына тиесілі, Ұлыбритания</td>
+<td>
+Лондондағы бағалы металдар
+нарығы қауымдастығының
+(LBMA) ресми сайты www.lbma.org.uk,
+Fastmarkets MB
+(Metal Bulletin)
+</td>
+<td>
+Fastmarkets MB
+(Metal Bulletin),
+компаниясы
+Euromoney компаниялар
+тобына тиесілі,
+Ұлыбритания
+</td>
 <td>Бағалы металдар</td>
 <td>
 7106 10 000 0,
@@ -190,13 +252,31 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 </tr>
 <tr>
 <td rowspan="16"></td>
-<td rowspan="3">Лондон металл аулау биржасының (LME) ресми сайты www.​lme.​com, Fastmarkets MB (Metal Bulletin)</td>
-<td rowspan="3">Fastmarkets MB (Metal Bulletin), компаниясы Euromoney компаниялар тобына тиесілі, Ұлыбритания</td>
+<td rowspan="3">
+Лондон металл
+аулау
+биржасының
+(LME) ресми
+сайты
+www.lme.com,
+Fastmarkets MB
+(Metal Bulletin)
+</td>
+<td rowspan="3">
+Fastmarkets MB
+(Metal Bulletin),
+компаниясы
+Euromoney
+компаниялар
+тобына тиесілі,
+Ұлыбритания
+</td>
 <td>Түсті металдар</td>
 <td>
 7402 00 000 0,
 7403 11 000 0 –
 7403 29 000 0,
+7601 10 000 0,
 7801 10 000 0 –
 7801 99 900 0,
 7901 11 000 0 –
@@ -223,7 +303,13 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 </tr>
 <tr>
 <td rowspan="5">«Metal Bulletin» журналы</td>
-<td rowspan="5">Fastmarkets MB (Metal Bulletin), компаниясы Euromoney компаниялар тобына тиесілі, Ұлыбритания</td>
+<td rowspan="5">
+Fastmarkets MB
+(Metal Bulletin),
+компаниясы Euromoney
+компаниялар тобына тиесілі,
+Ұлыбритания
+</td>
 <td>Алюминий оксиді</td>
 <td>2818 20 000 0</td>
 </tr>
@@ -233,7 +319,11 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 </tr>
 <tr>
 <td>Ферроқорытпалар</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209,7210,
+7225
+</td>
 </tr>
 <tr>
 <td>Титан</td>
@@ -247,8 +337,17 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 </td>
 </tr>
 <tr>
-<td rowspan="6">Fastmarkets MB (Metal Bulletin)</td>
-<td rowspan="6">Fastmarkets MB (Metal Bulletin), компаниясы Euromoney компаниялар тобына тиесілі, Ұлыбритания</td>
+<td rowspan="6">
+Fastmarkets MB
+(Metal Bulletin)
+</td>
+<td rowspan="6">
+Fastmarkets MB
+(Metal Bulletin),
+компаниясы Euromoney
+компаниялар тобына тиесілі,
+Ұлыбритания
+</td>
 <td>Селен</td>
 <td>2804900000</td>
 </tr>
@@ -258,11 +357,11 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 </tr>
 <tr>
 <td>Кадмий</td>
-<td>8107200000</td>
+<td>8112690001</td>
 </tr>
 <tr>
 <td>Висмут</td>
-<td>8106001000</td>
+<td>8106900000</td>
 </tr>
 <tr>
 <td>Теллурид</td>
@@ -273,10 +372,24 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 <td>2841908500</td>
 </tr>
 <tr>
-<td rowspan="2">«Fastmarkets, Ores and alloys prices &amp; news» журналы</td>
-<td rowspan="2">Fastmarkets MB (Metal Bulletin), компаниясы Euromoney компаниялар тобына тиесілі, Ұлыбритания</td>
+<td rowspan="2">
+«Fastmarkets,
+Ores and alloys prices &amp;
+news»журналы
+</td>
+<td rowspan="2">
+Fastmarkets MB
+(Metal Bulletin),
+компаниясы Euromoney
+компаниялар тобына тиесілі,
+Ұлыбритания
+</td>
 <td>Ферроқорытпалар</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209, 7210,
+7225
+</td>
 </tr>
 <tr>
 <td>Кен және концентраттар</td>
@@ -287,33 +400,77 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 </tr>
 <tr>
 <td rowspan="2">10.</td>
-<td rowspan="2">Argus Ferrous Markets, Argus Non-Ferrous Markets, Argus Scrap Markets</td>
-<td rowspan="2">Argus Media Limited, Ұлыбритания</td>
+<td rowspan="2">
+Argus Ferrous Markets,
+Argus Non-Ferrous Markets,
+Argus Scrap Markets
+</td>
+<td rowspan="2">
+Argus Media Limited,
+Ұлыбритания
+</td>
 <td>Сирек кездесетін металдар</td>
-<td>2841, 8112, 7110</td>
+<td>
+2841, 8112,
+7110
+</td>
 </tr>
 <tr>
 <td>Ферроқорытпалар</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209,7210,
+7225
+</td>
 </tr>
 <tr>
 <td rowspan="4">11</td>
-<td rowspan="4">«Металлургический бюллетень» журналы, www.​met​alto​rg.​ru сайтына рұқсат</td>
-<td rowspan="4">«Мегасофт» жауапкершілігі шектеулі серіктестік, Ресей</td>
+<td rowspan="4">
+«Металлургический
+бюллетень» журналы,
+www.metaltorg.ru сайтына рұқсат
+</td>
+<td rowspan="4">
+«Мегасофт» жауапкершілігі
+шектеулі серіктестік,
+Ресей
+</td>
 <td>Түсті металдар</td>
-<td>7402 00 000 0, 7403 11 000 0 – 7403 29 000 0, 7801 10 000 0 – 7801 99 900 0, 7901 11 000 0 – 7901 20 000 0, 8103, 8104, 8108</td>
+<td>
+7402 00 000 0,
+7403 11 000 0 –
+7403 29 000 0,
+7601 10 000 0,
+7801 10 000 0 –
+7801 99 900 0,
+7901 11 000 0 –
+7901 20 000 0,
+8103,
+8104,
+8108
+</td>
 </tr>
 <tr>
 <td>Қара металдар</td>
-<td>7204, 7205, 7214-7217</td>
+<td>
+7204, 7205,
+7214-7217
+</td>
 </tr>
 <tr>
 <td>Кен және концентраттар</td>
-<td>2601, 2610 00 000 0</td>
+<td>
+2601,
+2610 00 000 0
+</td>
 </tr>
 <tr>
 <td>Ферроқорытпалар</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209, 7210,
+7225
+</td>
 </tr>
 <tr>
 <td>12</td>
@@ -416,32 +573,44 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 </tr>
 <tr>
 <td>Ферроқорытпалар</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209, 7210,
+7225
+</td>
 </tr>
 <tr>
-<td>25</td>
-<td>CRU Bauxite $ Alumina Monitor</td>
+<td rowspan="2">25</td>
+<td rowspan="2">CRU Bauxite $ Alumina Monitor</td>
 <td rowspan="5">CRU International Limited, Ұлыбритания</td>
 <td>Алюминий оксиді</td>
 <td>2818 20 000 0</td>
 </tr>
 <tr>
-<td rowspan="2">26</td>
-<td rowspan="2">CRU Bulk Ferroalloys Monitor</td>
 <td>Ферроқорытпалар</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209, 7210,
+7225
+</td>
 </tr>
 <tr>
+<td rowspan="2">26</td>
+<td rowspan="2">CRU Bulk Ferroalloys Monitor</td>
 <td>Марганец кені</td>
 <td>2602 00 000 0</td>
 </tr>
 <tr>
-<td rowspan="2">27</td>
-<td rowspan="2">CRU Chrome Monitor</td>
 <td>Ферроқорытпалар</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209, 7210,
+7225
+</td>
 </tr>
 <tr>
+<td>27</td>
+<td>CRU Chrome Monitor</td>
 <td>Хром кені</td>
 <td>2610 00 000 0</td>
 </tr>
@@ -462,14 +631,14 @@ source: https://zan.gov.kz/client/#!/doc/183868/kaz/12.07.2023
 <tr>
 <td>Argus European Products</td>
 <td>Argus Media Limited, Ұлыбритания</td>
-<td>Шикі мұнай өнімдері, мұнай өнімдері</td>
-<td>2709 00 100, 2710</td>
+<td>Мұнай өнімдері</td>
+<td>2710</td>
 </tr>
 <tr>
 <td>Argus Asia Pacific Products</td>
 <td>Argus Media Limited, Ұлыбритания</td>
-<td>Шикі мұнай өнімдері, мұнай өнімдері</td>
-<td>2709 00 100, 2710</td>
+<td>Мұнай өнімдері</td>
+<td>2710</td>
 </tr>
 <tr>
 <td>Argus International LPG</td>
