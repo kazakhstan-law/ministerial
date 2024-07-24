@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
+source: https://zan.gov.kz/client/#!/doc/183868/rus/24.07.2024
 ---
 
 # Об утверждении Перечня официально признанных источников информации о рыночных ценах
@@ -31,6 +31,8 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 
 ## Перечень официально признанных источников информации о рыночных ценах
 
+> *Сноска. Перечень с изменениями, внесенными приказом Министра финансов РК от 24.07.2024 № 480 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td>№</td>
@@ -57,8 +59,8 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 <td>2</td>
 <td>European Market Scan Basic Service, Asia-Pacific/Arab Gulf Marketskan</td>
 <td>S&amp;P Global Inc. (S&amp;P Global Commodity Insights), Соединённые Штаты Америки</td>
-<td>Нефтепродукты сырые, нефтепродукты</td>
-<td>2709 00 100, 2710</td>
+<td>Нефтепродукты</td>
+<td>2710</td>
 </tr>
 <tr>
 <td>3</td>
@@ -100,26 +102,45 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 </tr>
 <tr>
 <td rowspan="13">8</td>
-<td rowspan="13">EIKON</td>
-<td rowspan="13">Refinitiv, Великобритания</td>
+<td rowspan="13">
+EIKON,
+Workspace
+</td>
+<td rowspan="13">
+Refinitiv/LondonStock
+ExchangeGroup(LSEG),
+Великобритания
+</td>
 <td>Нефть</td>
 <td>2709 00 900</td>
 </tr>
 <tr>
-<td>Нефтепродукты сырые, нефтепродукты</td>
-<td>2709 00 100, 2710</td>
+<td>Нефтепродукты</td>
+<td>2710</td>
 </tr>
 <tr>
 <td>Природный газ</td>
 <td>2711 21 000 0</td>
 </tr>
 <tr>
-<td>Услуги по транспортировке нефтепродуктов</td>
-<td>-</td>
+<td>
+Услуги по транспортировке
+нефтепродуктов
+</td>
+<td>–</td>
 </tr>
 <tr>
 <td>Драгоценные металлы</td>
-<td>7106 10 000 0, 7106 91 000, 7106 91 000 9, 7106 92 000 0, 7108 11 000 0, 7108 12 000, 7108 13 100 0 – 7108 20 000</td>
+<td>
+7106 10 000 0,
+7106 91 000,
+7106 91 000 9,
+7106 92 000 0,
+7108 11 000 0,
+7108 12 000,
+7108 13 100 0 –
+7108 20 000
+</td>
 </tr>
 <tr>
 <td>Цветные металлы</td>
@@ -127,8 +148,11 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 7402 00 000 0,
 7403 11 000 0 –
 7403 29 000 0,
-7801 10 000 0 – 7801 99 900 0,
-7901 11 000 0 – 7901 20 000 0,
+7601 10 000 0,
+7801 10 000 0 –
+7801 99 900 0,
+7901 11 000 0 –
+7901 20 000 0,
 8103,
 8104,
 8108
@@ -148,7 +172,10 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 </tr>
 <tr>
 <td>Ферросплавы</td>
-<td>7202</td>
+<td>
+7202, 7208, 7209,
+7210, 7225
+</td>
 </tr>
 <tr>
 <td>Титан</td>
@@ -160,12 +187,25 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 </tr>
 <tr>
 <td>Финансовые услуги</td>
-<td>-</td>
+<td>–</td>
 </tr>
 <tr>
-<td>9</td>
-<td>Официальный сайт Лондонской ассоциации рынка драгоценных металлов (LBMA) www.​lbma.​org.​uk, Fastmarkets MB (Metal Bulletin)</td>
-<td>Fastmarkets MB (Metal Bulletin), компания принадлежащая Группе компаний Euromoney, Великобритания</td>
+<td rowspan="17">9</td>
+<td>
+Официальный сайт
+Лондонской ассоциации
+рынка драгоценных металлов
+(LBMA)www.lbma.org.uk,
+FastmarketsMB
+(Metal Bulletin)
+</td>
+<td>
+Fastmarkets MB
+(Metal Bulletin),
+компания принадлежащая
+Группе компаний Euromoney,
+Великобритания
+</td>
 <td>Драгоценные металлы</td>
 <td>
 7106 10 000 0,
@@ -184,14 +224,28 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 </td>
 </tr>
 <tr>
-<td rowspan="16"></td>
-<td rowspan="3">Официальный сайт Лондонской биржи металлов (LME) www.​lme.​com, Fastmarkets MB (Metal Bulletin)</td>
-<td rowspan="3">Fastmarkets MB (Metal Bulletin), компания принадлежащая Группе компаний Euromoney, Великобритания</td>
+<td rowspan="3">
+Официальный сайт
+Лондонской биржи металлов
+(LME)www.lme.com,
+Fastmarkets MB
+(Metal Bulletin)
+</td>
+<td rowspan="3">
+Fastmarkets MB
+(Metal Bulletin),
+компания
+принадлежащая
+Группе
+компаний Euromoney,
+Великобритания
+</td>
 <td>Цветные металлы</td>
 <td>
 7402 00 000 0,
 7403 11 000 0 –
 7403 29 000 0,
+7601 10 000 0,
 7801 10 000 0 –
 7801 99 900 0,
 7901 11 000 0 –
@@ -217,10 +271,16 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 </td>
 </tr>
 <tr>
-<td rowspan="5">Журнал «Metal Bulletin»</td>
-<td rowspan="5">Fastmarkets MB (Metal Bulletin), компания принадлежащая Группе компаний Euromoney, Великобритания</td>
+<td rowspan="4">Журнал «Metal Bulletin»</td>
+<td rowspan="4">
+Fastmarkets MB
+(Metal Bulletin),
+компания
+принадлежащая
+Группе компаний
+</td>
 <td>Оксид алюминия</td>
-<td>2818 20 000 0</td>
+<td>2818200000</td>
 </tr>
 <tr>
 <td>Уран</td>
@@ -228,22 +288,40 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 </tr>
 <tr>
 <td>Ферросплавы</td>
-<td>7202</td>
+<td>
+7202, 7208, 7209,
+7210, 7225
+</td>
 </tr>
 <tr>
 <td>Титан</td>
 <td>8108</td>
 </tr>
 <tr>
+<td></td>
+<td>
+Euromoney,
+Великобритания
+</td>
 <td>Черные металлы</td>
 <td>
-7204, 7205,
+7204,7205,
 7214-7217
 </td>
 </tr>
 <tr>
-<td rowspan="6">Fastmarkets MB (Metal Bulletin)</td>
-<td rowspan="6">Fastmarkets MB (Metal Bulletin), компания принадлежащая Группе компаний Euromoney, Великобритания</td>
+<td rowspan="6">
+Fastmarkets MB
+(Metal Bulletin)
+</td>
+<td rowspan="6">
+Fastmarkets MB
+(Metal Bulletin),
+компания принадлежащая
+Группе компаний
+Euromoney,
+Великобритания
+</td>
 <td>Селен</td>
 <td>2804900000</td>
 </tr>
@@ -253,11 +331,11 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 </tr>
 <tr>
 <td>Кадмий</td>
-<td>8107200000</td>
+<td>8112690001</td>
 </tr>
 <tr>
 <td>Висмут</td>
-<td>8106001000</td>
+<td>8106900000</td>
 </tr>
 <tr>
 <td>Теллурид</td>
@@ -268,10 +346,23 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 <td>2841908500</td>
 </tr>
 <tr>
-<td rowspan="2">Журнал «Fastmarkets, Ores and alloys prices &amp; news»</td>
-<td rowspan="2">Fastmarkets MB (Metal Bulletin), компания принадлежащая Группе компаний Euromoney, Великобритания</td>
+<td rowspan="2">
+Журнал «Fastmarkets, Ores
+and alloys prices &amp; news»
+</td>
+<td rowspan="2">
+Fastmarkets MB
+(Metal Bulletin),
+компания принадлежащая
+Группе компаний Euromoney,
+Великобритания
+</td>
 <td>Ферросплавы</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209, 7210,
+7225
+</td>
 </tr>
 <tr>
 <td>Руды и концентраты</td>
@@ -282,33 +373,81 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 </tr>
 <tr>
 <td rowspan="2">10</td>
-<td rowspan="2">Argus Ferrous Markets, Argus Non-Ferrous Markets, Argus Scrap Markets</td>
-<td rowspan="2">Argus Media Limited, Великобритания</td>
+<td rowspan="2">
+Argus Ferrous Markets,
+Argus Non-Ferrous Markets,
+Argus Scrap Markets
+</td>
+<td rowspan="2">
+Argus Media
+Limited,
+Великобритания
+</td>
 <td>Редкоземельные металлы</td>
-<td>2841, 8112, 7110</td>
+<td>
+2841, 8112,
+7110
+</td>
 </tr>
 <tr>
 <td>Ферросплавы</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209, 7210,
+7225
+</td>
 </tr>
 <tr>
-<td rowspan="4">11</td>
-<td rowspan="4">Журнал «Металлургический бюллетень», доступ к сайту www.​met​alto​rg.​ru</td>
-<td rowspan="4">Общество с ограниченной ответственностью «Мегасофт», Россия</td>
+<td rowspan="2">11</td>
+<td rowspan="2">
+Журнал «Металлургический
+бюллетень», доступ к сайту
+www.metaltorg.ru
+</td>
+<td rowspan="2">
+Общество с ограниченной
+ответственностью «Мегасофт»,
+Россия
+</td>
 <td>Цветные металлы</td>
-<td>7402 00 000 0, 7403 11 000 0 – 7403 29 000 0, 7801 10 000 0 – 7801 99 900 0, 7901 11 000 0 – 7901 20 000 0, 8103, 8104, 8108</td>
+<td>
+7402 00 000 0,
+7403 11 000 0 –
+7403 29 000 0,
+7601 10 000 0,
+7801 10 000 0 –
+7801 99 900 0,
+7901 11 000 0 –
+7901 20 000 0,
+8103,
+8104,
+8108
+</td>
 </tr>
 <tr>
 <td>Черные металлы</td>
-<td>7204, 7205, 7214-7217</td>
+<td>
+7204, 7205,
+7214-7217
+</td>
 </tr>
 <tr>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
 <td>Руды и концентраты</td>
-<td>2601, 2610 00 000 0</td>
+<td>
+2601,
+2610 00 000 0
+</td>
 </tr>
 <tr>
 <td>Ферросплавы</td>
-<td>7202</td>
+<td>
+7202, 7208,
+7209, 7210,
+7225
+</td>
 </tr>
 <tr>
 <td>12</td>
@@ -406,25 +545,43 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 <td rowspan="2">24</td>
 <td rowspan="2">The TEX Report</td>
 <td rowspan="2">The TEX Report Ltd, Япония</td>
-<td>Руды и концентраты</td>
+<td>
+Руды и
+концентраты
+</td>
 <td>2601</td>
 </tr>
 <tr>
 <td>Ферросплавы</td>
-<td>7202</td>
+<td>
+7202, 7208, 7209,
+7210, 7225
+</td>
 </tr>
 <tr>
 <td>25</td>
-<td>CRU Bauxite &amp; Alumina Monitor</td>
-<td rowspan="5">CRU International Limited, Великобритания</td>
+<td>
+CRU Bauxite &amp;
+Alumina Monitor
+</td>
+<td rowspan="5">
+CRU International
+Limited, Великобритания
+</td>
 <td>Оксид алюминия</td>
 <td>2818 20 000 0</td>
 </tr>
 <tr>
 <td rowspan="2">26</td>
-<td rowspan="2">CRU Bulk Ferroalloys Monitor</td>
+<td rowspan="2">
+CRU Bulk Ferroalloys
+Monitor
+</td>
 <td>Ферросплавы</td>
-<td>7202</td>
+<td>
+7202, 7208, 7209,
+7210, 7225
+</td>
 </tr>
 <tr>
 <td>Марганцевая руда</td>
@@ -434,7 +591,10 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 <td rowspan="2">27</td>
 <td rowspan="2">CRU Chrome Monitor</td>
 <td>Ферросплавы</td>
-<td>7202</td>
+<td>
+7202, 7208, 7209,
+7210, 7225
+</td>
 </tr>
 <tr>
 <td>Хромовая руда</td>
@@ -457,20 +617,23 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 <tr>
 <td>Argus European Products</td>
 <td>Argus Media Limited, Великобритания</td>
-<td>Нефтепродукты сырые, нефтепродукты</td>
-<td>2709 00 100, 2710</td>
+<td>Нефтепродукты</td>
+<td>2710</td>
 </tr>
 <tr>
 <td>Argus Asia Pacific Products</td>
 <td>Argus Media Limited, Великобритания</td>
-<td>Нефтепродукты сырые, нефтепродукты</td>
-<td>2709 00 100, 2710</td>
+<td>Нефтепродукты</td>
+<td>2710</td>
 </tr>
 <tr>
 <td>Argus International LPG</td>
 <td>Argus Media Limited, Великобритания</td>
 <td>Сжиженный газ</td>
-<td>2711 11 000 0 – 2711 19 000 0</td>
+<td>
+2711 11 000 0 –
+2711 19 000 0
+</td>
 </tr>
 <tr>
 <td>Argus Coal Daily International</td>
@@ -488,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 <td>Argus Freight</td>
 <td>Argus Media Limited, Великобритания</td>
 <td>Услуги по морской транспортировке</td>
-<td>-</td>
+<td>–</td>
 </tr>
 <tr>
 <td>Argus China Petroleum</td>
@@ -512,7 +675,10 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 <td>Argus Сжиженный газ и конденсат</td>
 <td>Argus Media Limited, Великобритания</td>
 <td>Сжиженный газ</td>
-<td>2711 11 000 0 – 2711 19 000 0</td>
+<td>
+2711 11 000 0 –
+2711 19 000 0
+</td>
 </tr>
 <tr>
 <td rowspan="2">Argus Russian Coal</td>
@@ -527,7 +693,7 @@ source: https://zan.gov.kz/client/#!/doc/183868/rus/12.07.2023
 <td>Argus Нефтетранспорт</td>
 <td>Argus Media Limited, Великобритания</td>
 <td>Транспортные и сопутствующие издержки при экспорте нефти и нефтепродуктов</td>
-<td>-</td>
+<td>–</td>
 </tr>
 </table>
 
