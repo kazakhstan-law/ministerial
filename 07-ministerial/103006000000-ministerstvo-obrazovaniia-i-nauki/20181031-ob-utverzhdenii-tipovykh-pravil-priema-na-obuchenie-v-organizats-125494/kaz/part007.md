@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/125494/kaz/03.05.2024
+source: https://zan.gov.kz/client/#!/doc/125494/kaz/26.07.2024
 ---
 
 > *Жоғары білімнің білім беру*  
