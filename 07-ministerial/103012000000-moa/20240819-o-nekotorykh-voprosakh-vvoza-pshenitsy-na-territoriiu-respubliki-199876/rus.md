@@ -13,6 +13,11 @@ approval_date: 2024-08-19
 version_date: 2024-08-19
 registry_number: '199876'
 source: https://zan.gov.kz/client/#!/doc/199876/rus/19.08.2024
+repealed_on: 2024-12-31
+repealed_by:
+  code: '199876'
+  title: О некоторых вопросах ввоза пшеницы на территорию Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/199876/rus
 ---
 
 # О некоторых вопросах ввоза пшеницы на территорию Республики Казахстан

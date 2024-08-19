@@ -13,6 +13,11 @@ approval_date: 2024-08-19
 version_date: 2024-08-19
 registry_number: '199876'
 source: https://zan.gov.kz/client/#!/doc/199876/kaz/19.08.2024
+repealed_on: 2024-12-31
+repealed_by:
+  code: '199876'
+  title: Қазақстан Республикасының аумағына бидай әкелудің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/199876/kaz
 ---
 
 # Қазақстан Республикасының аумағына бидай әкелудің кейбір мәселелері туралы
