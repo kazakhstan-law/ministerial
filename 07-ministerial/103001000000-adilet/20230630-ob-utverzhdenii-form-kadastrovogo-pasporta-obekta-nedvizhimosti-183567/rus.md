@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/183567/rus/30.06.2023
+source: https://zan.gov.kz/client/#!/doc/183567/rus/20.08.2024
 ---
 
 # «Об утверждении форм кадастрового паспорта объекта недвижимости»
