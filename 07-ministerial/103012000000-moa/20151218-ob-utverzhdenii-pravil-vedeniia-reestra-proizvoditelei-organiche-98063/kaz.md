@@ -14,6 +14,11 @@ approval_date: 2015-12-18
 version_date: 2015-12-18
 registry_number: '98063'
 source: https://zan.gov.kz/client/#!/doc/98063/kaz/18.12.2015
+repealed_on: 2024-12-12
+repealed_by:
+  code: '199986'
+  title: Қазақстан Республикасы Ауыл шаруашылығы министрінің кейбір бұйрықтарының күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/199986/kaz
 ---
 
 # Органикалық өнім өндірушілердің тізілімін жүргізу қағидаларын бекіту туралы
