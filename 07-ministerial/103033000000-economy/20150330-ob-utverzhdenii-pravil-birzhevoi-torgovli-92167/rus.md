@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/92167/rus/06.12.2023
+source: https://zan.gov.kz/client/#!/doc/92167/rus/29.08.2024
 ---
 
 # Об утверждении Правил биржевой торговли
