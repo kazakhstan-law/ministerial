@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/182858/rus/20.07.2023
+source: https://zan.gov.kz/client/#!/doc/182858/rus/29.08.2024
 ---
 
 # Об утверждении Контрольного списка специфических товаров
