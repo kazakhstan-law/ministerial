@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/71486/rus/28.01.2020
+source: https://zan.gov.kz/client/#!/doc/71486/rus/06.09.2024
 ---
 
 # Об утверждении Инструкции проведения лесоустройства
