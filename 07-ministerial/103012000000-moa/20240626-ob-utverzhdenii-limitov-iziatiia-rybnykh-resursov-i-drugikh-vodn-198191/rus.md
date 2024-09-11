@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
+source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 ---
 
 # Об утверждении лимитов изъятия рыбных ресурсов и других водных животных с 1 июля 2024 года по 1 июля 2025 года
@@ -31,6 +31,8 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 > *№*
 
 ## Лимиты изъятия рыбных ресурсов и других водных животных с 1 июля 2024 года по 1 июля 2025 года
+
+> *Сноска. Лимиты с изменениями, внесенными приказом и.о. Министра сельского хозяйства РК от 11.09.2024 № 312 (вводится в действие после дня его первого официального опубликования).*
 
 ### Глава 1. Рыбохозяйственные водоемы международного и республиканского значения
 
@@ -4365,7 +4367,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td rowspan="2">№</td>
 <td rowspan="2">Водоемы</td>
 <td rowspan="2">Всего, тонн</td>
-<td colspan="12">Виды рыб и других водных животных</td>
+<td colspan="13">Виды рыб и других водных животных</td>
 </tr>
 <tr>
 <td>карась</td>
@@ -4377,9 +4379,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>плотва</td>
 <td>линь</td>
 <td>язь</td>
+<td>судак</td>
 <td>рак</td>
 <td>гаммарус</td>
-<td>Цисты артемии</td>
+<td>цисты артемии</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4397,9 +4400,46 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>13</td>
 <td>14</td>
 <td>15</td>
+<td>16</td>
 </tr>
 <tr>
 <td>1</td>
+<td>Верхне-Тобольское водохранилище</td>
+<td>281</td>
+<td></td>
+<td>25</td>
+<td>10</td>
+<td>10</td>
+<td>33</td>
+<td>73</td>
+<td>68</td>
+<td></td>
+<td></td>
+<td>62</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Каратомарское водохранилище</td>
+<td>192</td>
+<td></td>
+<td>18</td>
+<td>18</td>
+<td>6</td>
+<td>31</td>
+<td>52</td>
+<td>33</td>
+<td></td>
+<td></td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
 <td>Озеро Тентексор (Тыныксор)</td>
 <td>72</td>
 <td></td>
@@ -4413,10 +4453,11 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>72</td>
 </tr>
 <tr>
-<td>2</td>
+<td>4</td>
 <td>Озеро Карасор</td>
 <td>56</td>
 <td></td>
@@ -4430,10 +4471,11 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>56</td>
 </tr>
 <tr>
-<td>3</td>
+<td>5</td>
 <td>Река Улы-Жиланчик</td>
 <td>54,5</td>
 <td>0,5</td>
@@ -4448,9 +4490,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>6</td>
 <td>Озеро Сарыоба</td>
 <td>40,5</td>
 <td>9,5</td>
@@ -4465,9 +4508,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>7</td>
 <td>Озеро Карасор</td>
 <td>31</td>
 <td></td>
@@ -4481,10 +4525,11 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>31</td>
 </tr>
 <tr>
-<td>6</td>
+<td>8</td>
 <td>урочище Карасор</td>
 <td>28</td>
 <td></td>
@@ -4498,10 +4543,11 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>28</td>
 </tr>
 <tr>
-<td>7</td>
+<td>9</td>
 <td>Озеро Тузколь</td>
 <td>23</td>
 <td></td>
@@ -4515,10 +4561,11 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>23</td>
 </tr>
 <tr>
-<td>8</td>
+<td>10</td>
 <td>Озеро Бидаик (Солдатское)</td>
 <td>22,5</td>
 <td>5</td>
@@ -4533,9 +4580,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>11</td>
 <td>Озеро Речное</td>
 <td>22</td>
 <td>4</td>
@@ -4550,9 +4598,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>12</td>
 <td>Водохранилище Желкуарское</td>
 <td>20</td>
 <td>2</td>
@@ -4567,9 +4616,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>13</td>
 <td>Озеро Жаман</td>
 <td>12,1</td>
 <td>4</td>
@@ -4584,9 +4634,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>14</td>
 <td>Озеро Койбагар</td>
 <td>11</td>
 <td>6</td>
@@ -4601,9 +4652,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>15</td>
 <td>Озеро Сарыколь</td>
 <td>8,5</td>
 <td>6</td>
@@ -4618,9 +4670,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>16</td>
 <td>Кызыл-Жарское водохранилище</td>
 <td>8,2</td>
 <td>1</td>
@@ -4632,12 +4685,13 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td>2</td>
 <td></td>
+<td></td>
 <td>0,2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>17</td>
 <td>водохранилище Акжар</td>
 <td>7</td>
 <td>0,5</td>
@@ -4649,12 +4703,13 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>18</td>
 <td>Озеро Жаркаин</td>
 <td>6,3</td>
 <td>3</td>
@@ -4669,9 +4724,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>19</td>
 <td>Озеро Каракамыс</td>
 <td>6</td>
 <td>6</td>
@@ -4686,9 +4742,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>20</td>
 <td>река Карасу</td>
 <td>5,5</td>
 <td>1</td>
@@ -4700,12 +4757,13 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td>0,5</td>
 <td></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>21</td>
 <td>Озеро Алаколь (Мокрое)</td>
 <td>5,5</td>
 <td>3,5</td>
@@ -4720,9 +4778,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>20</td>
+<td>22</td>
 <td>Озеро Саз</td>
 <td>5</td>
 <td></td>
@@ -4736,10 +4795,11 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>5</td>
 </tr>
 <tr>
-<td>21</td>
+<td>23</td>
 <td>участок реки Торгай (Акиин)</td>
 <td>5</td>
 <td>0,5</td>
@@ -4754,9 +4814,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>24</td>
 <td>Озеро Айнаколь</td>
 <td>5</td>
 <td>0,5</td>
@@ -4771,9 +4832,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>25</td>
 <td>участок реки Убаган</td>
 <td>5</td>
 <td>3</td>
@@ -4788,9 +4850,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>26</td>
 <td>Озеро Мазарево</td>
 <td>4,4</td>
 <td>1,6</td>
@@ -4805,12 +4868,14 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>25</td>
+<td>27</td>
 <td>Озеро Прудок</td>
 <td>4,2</td>
 <td>0,2</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4824,7 +4889,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 </tr>
 <tr>
-<td>26</td>
+<td>28</td>
 <td>Озеро Бикень</td>
 <td>3,2</td>
 <td>0,3</td>
@@ -4836,12 +4901,13 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td>0,3</td>
 <td></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>29</td>
 <td>Озеро Мурзаколь</td>
 <td>3</td>
 <td>1</td>
@@ -4856,9 +4922,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>28</td>
+<td>30</td>
 <td>Озеро Сулуколь</td>
 <td>3</td>
 <td>1</td>
@@ -4873,9 +4940,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>31</td>
 <td>Озеро Колесниково</td>
 <td>3</td>
 <td>3</td>
@@ -4890,9 +4958,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>30</td>
+<td>32</td>
 <td>Озеро Валерьяновская балка</td>
 <td>3</td>
 <td>1</td>
@@ -4904,12 +4973,13 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>31</td>
+<td>33</td>
 <td>Озеро Улыколь</td>
 <td>3</td>
 <td>3</td>
@@ -4924,9 +4994,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>32</td>
+<td>34</td>
 <td>Озеро Коняево</td>
 <td>3</td>
 <td></td>
@@ -4941,9 +5012,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>33</td>
+<td>35</td>
 <td>Прочие**</td>
 <td>107,36</td>
 <td>72,5</td>
@@ -4955,23 +5027,25 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>3,9</td>
 <td>2,8</td>
 <td>0,4</td>
+<td></td>
 <td>0,65</td>
 <td>0,3</td>
 <td></td>
 </tr>
 <tr>
-<td>34</td>
+<td>36</td>
 <td>Итого*</td>
-<td>596,76</td>
-<td>139,66</td>
-<td>3,9</td>
-<td>66,55</td>
-<td>1,7</td>
-<td>61,2</td>
-<td>46,3</td>
-<td>33</td>
+<td>1069,7</td>
+<td>139,6</td>
+<td>46,9</td>
+<td>94,55</td>
+<td>17,7</td>
+<td>125,2</td>
+<td>171,3</td>
+<td>134</td>
 <td>12,4</td>
 <td>0,9</td>
+<td>96</td>
 <td>11,85</td>
 <td>4,3</td>
 <td>215</td>
@@ -5655,6 +5729,22 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 </tr>
 <tr>
 <td>1</td>
+<td>Озеро Карасор</td>
+<td>78</td>
+<td>78</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
 <td>озеро Туз ( район Аккулы)</td>
 <td>98</td>
 <td></td>
@@ -5670,7 +5760,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>98</td>
 </tr>
 <tr>
-<td>2</td>
+<td>3</td>
 <td>озеро Сейтень</td>
 <td>92</td>
 <td></td>
@@ -5686,7 +5776,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>92</td>
 </tr>
 <tr>
-<td>3</td>
+<td>4</td>
 <td>озеро Калатуз</td>
 <td>91</td>
 <td></td>
@@ -5702,7 +5792,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>91</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td>озеро Шарбакты</td>
 <td>89,202</td>
 <td></td>
@@ -5718,7 +5808,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>89,202</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td>озеро Кабантакыр</td>
 <td>78</td>
 <td></td>
@@ -5734,7 +5824,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>78</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td>озеро Калча</td>
 <td>67</td>
 <td></td>
@@ -5750,7 +5840,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>67</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td>озеро Борли</td>
 <td>61</td>
 <td></td>
@@ -5766,7 +5856,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>61</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td>озеро Туз (Баянаул)</td>
 <td>61</td>
 <td></td>
@@ -5782,7 +5872,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>61</td>
 </tr>
 <tr>
-<td>9</td>
+<td>10</td>
 <td>водохранилище ГРЭС-2, участок 2</td>
 <td>53,181</td>
 <td>5,788</td>
@@ -5798,7 +5888,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>11</td>
 <td>озеро Бура</td>
 <td>41</td>
 <td></td>
@@ -5814,7 +5904,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>41</td>
 </tr>
 <tr>
-<td>11</td>
+<td>12</td>
 <td>озеро Карасук</td>
 <td>40</td>
 <td></td>
@@ -5830,7 +5920,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>40</td>
 </tr>
 <tr>
-<td>12</td>
+<td>13</td>
 <td>озеро Клаксор</td>
 <td>38</td>
 <td></td>
@@ -5846,7 +5936,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>38</td>
 </tr>
 <tr>
-<td>13</td>
+<td>14</td>
 <td>озеро Балказы</td>
 <td>33</td>
 <td></td>
@@ -5862,7 +5952,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>33</td>
 </tr>
 <tr>
-<td>14</td>
+<td>15</td>
 <td>озеро Ащытакыр</td>
 <td>21</td>
 <td></td>
@@ -5878,7 +5968,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>21</td>
 </tr>
 <tr>
-<td>15</td>
+<td>16</td>
 <td>озеро Шиганак</td>
 <td>17,718</td>
 <td>4,391</td>
@@ -5894,7 +5984,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>17</td>
 <td>озеро Коссерин</td>
 <td>13</td>
 <td></td>
@@ -5910,7 +6000,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>13</td>
 </tr>
 <tr>
-<td>17</td>
+<td>18</td>
 <td>озеро Казы</td>
 <td>13</td>
 <td></td>
@@ -5926,7 +6016,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>13</td>
 </tr>
 <tr>
-<td>18</td>
+<td>19</td>
 <td>озеро Бастуз</td>
 <td>12</td>
 <td></td>
@@ -5942,7 +6032,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>12</td>
 </tr>
 <tr>
-<td>19</td>
+<td>20</td>
 <td>озеро Аксор</td>
 <td>12</td>
 <td></td>
@@ -5958,7 +6048,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>12</td>
 </tr>
 <tr>
-<td>20</td>
+<td>21</td>
 <td>озеро Кортколь</td>
 <td>10</td>
 <td></td>
@@ -5974,7 +6064,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>10</td>
 </tr>
 <tr>
-<td>21</td>
+<td>22</td>
 <td>озеро Каной</td>
 <td>8</td>
 <td></td>
@@ -5990,7 +6080,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>8</td>
 </tr>
 <tr>
-<td>22</td>
+<td>23</td>
 <td>озеро Айдарша</td>
 <td>8</td>
 <td></td>
@@ -6006,7 +6096,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>8</td>
 </tr>
 <tr>
-<td>23</td>
+<td>24</td>
 <td>озеро Кызылтуз</td>
 <td>8</td>
 <td></td>
@@ -6022,7 +6112,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>8</td>
 </tr>
 <tr>
-<td>24</td>
+<td>25</td>
 <td>озеро Тобылгысор</td>
 <td>7,01</td>
 <td></td>
@@ -6038,7 +6128,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>7,01</td>
 </tr>
 <tr>
-<td>25</td>
+<td>26</td>
 <td>озеро Мыншункыр</td>
 <td>6</td>
 <td></td>
@@ -6054,7 +6144,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>6</td>
 </tr>
 <tr>
-<td>26</td>
+<td>27</td>
 <td>озеро Ащиколь</td>
 <td>5,8</td>
 <td>1,1</td>
@@ -6070,7 +6160,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>28</td>
 <td>озеро Жамантуз (Актогайский район)</td>
 <td>5</td>
 <td></td>
@@ -6086,7 +6176,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>5</td>
 </tr>
 <tr>
-<td>28</td>
+<td>29</td>
 <td>озеро Кутаяк-сор</td>
 <td>4,7</td>
 <td>0,1</td>
@@ -6102,7 +6192,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>30</td>
 <td>озеро Алкамерген</td>
 <td>4</td>
 <td></td>
@@ -6118,7 +6208,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>4</td>
 </tr>
 <tr>
-<td>30</td>
+<td>31</td>
 <td>озеро Щучье</td>
 <td>3,062</td>
 <td>0,049</td>
@@ -6134,7 +6224,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 </tr>
 <tr>
-<td>31</td>
+<td>32</td>
 <td>водохранилище ГРЭС-1, уч. 2</td>
 <td>10,029</td>
 <td>0,860</td>
@@ -6150,7 +6240,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td></td>
 </tr>
 <tr>
-<td>32</td>
+<td>33</td>
 <td>Прочие**</td>
 <td>21,629</td>
 <td>1,583</td>
@@ -6166,10 +6256,10 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td>4</td>
 </tr>
 <tr>
-<td>33</td>
+<td>34</td>
 <td>Итого*</td>
-<td>1032,331</td>
-<td>13,871</td>
+<td>1110,331</td>
+<td>91,871</td>
 <td>17,109</td>
 <td>2,530</td>
 <td>0,02</td>
@@ -6190,53 +6280,634 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/26.06.2024
 <td rowspan="2">№</td>
 <td rowspan="2">Водоемы</td>
 <td rowspan="2">Всего, тонн</td>
-<td colspan="2">Виды рыб и других водных животных</td>
+<td colspan="10">Виды рыб и водных животных</td>
 </tr>
 <tr>
-<td>карась</td>
+<td>Карась</td>
+<td>Лещ</td>
+<td>карп</td>
+<td>сиговые</td>
+<td>щука</td>
+<td>окунь</td>
+<td>плотва</td>
+<td>линь</td>
+<td>гаммарус</td>
 <td>Цисты артемии</td>
 </tr>
 <tr>
 <td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td>1</td>
-<td>озероАйдарбек</td>
-<td>2</td>
-<td>2</td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>озеро Тулубай</td>
-<td>17,2</td>
-<td>17,2</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>озеро Сафонково</td>
-<td>0,28</td>
-<td>0,28</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
 <td>озеро Киши-карой</td>
-<td>42,40</td>
+<td>42,4</td>
 <td></td>
-<td>42,40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>42,4</td>
+</tr>
+<tr>
+<td>2</td>
+<td>озеро Шаглы-Тенгиз</td>
+<td>40,3</td>
+<td>36</td>
+<td>1,3</td>
+<td></td>
+<td></td>
+<td>1,5</td>
+<td>1,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>озеро Улыколь</td>
+<td>35</td>
+<td>12</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td>7</td>
+<td>6</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>озеро Соленое</td>
+<td>34,25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>34,25</td>
 </tr>
 <tr>
 <td>5</td>
+<td>озеро Пасынки</td>
+<td>28,46</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>28,46</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Пойма реки Ишим (Кызылжарский район) № 1</td>
+<td>21</td>
+<td>15</td>
+<td>1,5</td>
+<td></td>
+<td></td>
+<td>1,5</td>
+<td>1,5</td>
+<td>1,5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>озеро Калмакколь</td>
+<td>12,5</td>
+<td>12,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Пойма реки Ишим (Кызылжарский район) № 2</td>
+<td>10,25</td>
+<td>4,4</td>
+<td>1,46</td>
+<td></td>
+<td></td>
+<td>1,17</td>
+<td>1,66</td>
+<td>1,56</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>озеро Салкынколь</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>озеро Жалтыр</td>
+<td>9,3</td>
+<td>9,3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>озеро Калдарь</td>
+<td>7</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Озеро Коржанкуль Малый</td>
+<td>3</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>озеро Жетыколь</td>
+<td>5,1</td>
+<td>5,1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>озеро Плоское (Домашнее)</td>
+<td>6</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>озеро Биесойган</td>
+<td>6</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>озеро Лебеденок</td>
+<td>5,7</td>
+<td>5,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>озеро Жалтырь (Есильский)</td>
+<td>5</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>озеро Жалтырь (Аккайынский)</td>
+<td>5</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>озеро Жарколь</td>
+<td>4,9</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>1,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>озеро Рыбное (Воскресеновка)</td>
+<td>4,2</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0,2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>озеро Долгое Большое</td>
+<td>4</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>озеро Никульское</td>
+<td>4</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>озеро Чалково</td>
+<td>3,9</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>1,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>озеро Башкирское</td>
+<td>3,6</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>2,6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>озеро Беленок</td>
+<td>3,6</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>1,6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>озеро Утиное</td>
+<td>3,5</td>
+<td>2</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>0,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>озеро Кривое (Жамбылский)</td>
+<td>3,1</td>
+<td>2,5</td>
+<td></td>
+<td></td>
+<td>0,6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td>озеро Косколь Малый</td>
+<td>3,1</td>
+<td>2,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0,6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td>озеро Шубное</td>
+<td>3</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td>озеро Моховое</td>
+<td>4</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td>озеро Новое</td>
+<td>3</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td>озеро Окунево</td>
+<td>3</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0,5</td>
+<td>0,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td>озеро Аксуат</td>
+<td>3</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td>озеро Половинное</td>
+<td>3</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td>озеро Придворное</td>
+<td>3</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
+<td>Озеро Чебачки</td>
+<td>3</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td>Озеро Айдарбек</td>
+<td>2</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td>Озеро Тулубай</td>
+<td>17,2</td>
+<td>17,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td>Озеро Сафонково</td>
+<td>0,28</td>
+<td>0,28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td>Прочие водоемы**</td>
+<td>155</td>
+<td>134,4</td>
+<td>0</td>
+<td>4,2</td>
+<td>4,4</td>
+<td>4,2</td>
+<td>3,7</td>
+<td>1,75</td>
+<td>0,7</td>
+<td>1,65</td>
+<td></td>
+</tr>
+<tr>
+<td>41</td>
 <td>Итого*</td>
-<td>61,88</td>
-<td>19,48</td>
-<td>42,40</td>
+<td>523,64</td>
+<td>343,88</td>
+<td>4,26</td>
+<td>9,2</td>
+<td>14</td>
+<td>17,47</td>
+<td>16,36</td>
+<td>10,81</td>
+<td>0,9</td>
+<td>1,65</td>
+<td>105,11</td>
 </tr>
 </table>
 
