@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127938/rus/14.08.2023
+source: https://zan.gov.kz/client/#!/doc/127938/rus/17.09.2024
 ---
 
 # Об утверждении перечня информационных инструментов
