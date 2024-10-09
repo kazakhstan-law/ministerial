@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/97054/rus/08.10.2024
+repealed_on: 2025-01-01
+repealed_by:
+  code: '201522'
+  title: Об утверждении Правил осуществления государственных закупок
+  link: https://zan.gov.kz/client/#!/doc/201522/rus
 ---
 
 # Об утверждении Правил осуществления государственных закупок
