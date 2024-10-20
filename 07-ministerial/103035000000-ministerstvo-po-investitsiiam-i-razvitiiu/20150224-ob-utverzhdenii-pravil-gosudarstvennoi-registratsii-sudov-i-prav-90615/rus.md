@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90615/rus/07.08.2023
+source: https://zan.gov.kz/client/#!/doc/90615/rus/20.10.2024
 ---
 
 # Об утверждении Правил государственной регистрации судов и прав на них
