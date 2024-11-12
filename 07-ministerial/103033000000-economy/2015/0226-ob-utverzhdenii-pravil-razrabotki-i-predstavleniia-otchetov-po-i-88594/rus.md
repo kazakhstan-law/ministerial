@@ -425,6 +425,8 @@
 
 ## Формы и перечень показателей отчета по исполнению планов мероприятий национальных управляющих холдингов, национальных холдингов, национальных компаний, акционером которых является государство
 
+> *Сноска. Приложение 2 с изменениями, внесенными приказом и.о. Министра национальной экономики РК от 12.11.2024 № 101 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 1. Общие сведения о национальном управляющем холдинге (национальном холдинге, национальной компании с участием государства в уставном капитале) (далее – Компания):
 
 1.1. информация о создании Компании:
@@ -721,373 +723,541 @@
 
 2. Цели и задачи, в том числе ключевые показатели эффективности деятельности Компании и юридических лиц, акции (доли участия) которых предоставляют право Компании определять решения, принимаемые данными юридическими лицами, за отчетный период:
 
-форма 3
+> *Форма 3*
 
 <table>
 <tr>
-<td colspan="7">Документ первого уровня Системы государственного планирования</td>
-<td colspan="10">Документ второго уровня Системы государственного планирования</td>
-<td colspan="6">Цели Плана развития Компании</td>
-<td colspan="2">Задачи Плана развития Компании</td>
-<td colspan="4">Ключевые показатели (КП) Плана развития Компании (количественные или качественные)</td>
-<td colspan="3">Единица измерения</td>
-<td>Методика расчета</td>
+<td colspan="4">
+Документы целеполагания
+(Видение «Казахстан – 2050», Стратегия достижения углеродной нейтральности Республики Казахстан до 2060 года)
+</td>
+<td colspan="5">
+Документы
+Системы государственного планирования
+(Национальный план развития Республики Казахстан, Стратегия национальной безопасности Республики Казахстан)
+</td>
+<td colspan="4">
+Документы Системы государственного планирования
+(планы развития государственных органов, планы развития областей, городов республиканского значения, столицы)
+</td>
+<td colspan="2">Иные документы, не входящие в Систему государственного планирования (концепции, национальные проекты, государственные программы, доктрины (стратегии), комплексные планы, Национальный инфраструктурный план)</td>
 </tr>
 <tr>
-<td colspan="7"></td>
-<td colspan="10"></td>
-<td colspan="16" rowspan="3"></td>
-</tr>
-<tr>
-<td>Наименование документа</td>
-<td colspan="2">приоритет</td>
-<td colspan="2">задача</td>
-<td colspan="2">инициатива/целевой индикатор</td>
-<td colspan="2">Наименование документа</td>
-<td colspan="2">Цель</td>
-<td colspan="2">Задача</td>
-<td colspan="2">Целевой индикатор</td>
-<td colspan="2">Показатель результатов**</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>
+Наи
+мено
+ва
+ние
+доку
+мен
+та
+</td>
+<td>
+При
+ори
+тет
+</td>
+<td>Задача</td>
+<td>
+Инициа
+тива/
+/целе
+вой
+инди
+катор**
+</td>
+<td>
+Наи
+мено
+ва
+ние
+доку
+мен
+та
+</td>
+<td>Це ль</td>
+<td>Основ ные прин ципы/ нап равле ния</td>
+<td>При ори тет/ цель/ зада ча</td>
+<td>Ключевые национальные индикаторы**</td>
+<td>
+Наи
+мено
+ва
+ние
+доку
+мен
+та
+</td>
+<td>Нап рав ления</td>
+<td>Це ли/ зада чи/ ре сур сы</td>
+<td>Целе вые инди каторы /пока затели резуль татов**</td>
+<td>
+Наи
+мено
+ва
+ние
+доку
+мен
+та
+</td>
+<td>Мероприятия/ индикаторы**</td>
 </tr>
 <tr>
 <td>А</td>
-<td colspan="2">Б</td>
-<td colspan="2">В</td>
-<td colspan="2">Г</td>
-<td colspan="2">Д</td>
-<td colspan="2">Е</td>
-<td colspan="2">Ж</td>
-<td colspan="2">З</td>
-<td colspan="2">И</td>
-<td colspan="6">К</td>
-<td colspan="2">Л</td>
+<td>Б</td>
+<td>В</td>
+<td>Г</td>
+<td>Д</td>
+<td>Е</td>
+<td>Ж</td>
+<td>З</td>
+<td>И</td>
+<td>К</td>
+<td>Л</td>
 <td>М</td>
-<td colspan="3">Н</td>
-<td colspan="4">О</td>
+<td>Н</td>
+<td>О</td>
+<td>П</td>
 </tr>
 <tr>
-<td colspan="33">Направление 1</td>
+<td colspan="15">Направление 1</td>
 </tr>
 <tr>
 <td rowspan="8"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="8"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6" rowspan="4">Цель 1</td>
-<td colspan="2" rowspan="2">Задача 1</td>
-<td>КП 1</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="8"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>КП n</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2">Задача n</td>
-<td>КП 1</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>КП n</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6" rowspan="4">Цель n</td>
-<td colspan="2" rowspan="2">Задача 1</td>
-<td>КП 1</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>КП n</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2">Задача n</td>
-<td>КП 1</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>КП n</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="33">Направление n</td>
+<td colspan="15">Направление n</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="8"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="8"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5" rowspan="4">Цель 1</td>
-<td colspan="2" rowspan="2">Задача 1</td>
-<td>КП 1</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td rowspan="8"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="8"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>КП n</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2">Задача n</td>
-<td>КП 1</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>КП n</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5" rowspan="4">Цель n</td>
-<td colspan="2" rowspan="2">Задача 1</td>
-<td>КП 1</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>КП n</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2">Задача n</td>
-<td>КП 1</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>КП n</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-продолжение таблицы
+Продолжение таблицы
 
 <table>
 <tr>
-<td colspan="5">Значение ключевых показателей*</td>
+<td rowspan="3">Цели Плана развития Компании</td>
+<td rowspan="3">Задачи Плана развития Компании</td>
+<td rowspan="3">Ключевые показатели (КП) Плана развития Компании (количественные или качественные)</td>
+<td rowspan="3">
+Единица
+измерения
+</td>
+<td rowspan="3">
+Методика
+расчета
+</td>
+<td colspan="7">
+Значение ключевых
+показателей*
+</td>
 </tr>
 <tr>
-<td colspan="5">20__ год</td>
+<td colspan="7">20__ год</td>
 </tr>
 <tr>
-<td>план</td>
-<td>корректировка 1</td>
+<td colspan="2">план</td>
+<td colspan="2">корректировка 1</td>
 <td>корректировка n</td>
 <td>факт</td>
 <td>% выполнения</td>
 </tr>
 <tr>
-<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Р</td>
+<td>С</td>
+<td>Т</td>
+<td>У</td>
+<td colspan="2">Ф</td>
+<td colspan="2">1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="5">Направление 1</td>
+<td colspan="12">Направление 1</td>
 </tr>
 <tr>
+<td rowspan="4">Цель 1</td>
+<td rowspan="2">Задача 1</td>
+<td>КП 1</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>КП n</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td rowspan="2">Задача n</td>
+<td>КП 1</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">Направление n</td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>КП n</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td rowspan="4">Цель n</td>
+<td rowspan="2">Задача 1</td>
+<td>КП 1</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>КП n</td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Задача n</td>
+<td>КП 1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КП n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="12">Направление n</td>
+</tr>
+<tr>
+<td rowspan="4">Цель 1</td>
+<td rowspan="2">Задача 1</td>
+<td>КП 1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КП n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Задача n</td>
+<td>КП 1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КП n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Цель n</td>
+<td rowspan="2">Задача 1</td>
+<td>КП 1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КП n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Задача n</td>
+<td>КП 1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>КП n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1099,7 +1269,7 @@
 
 * значение ключевых показателей Плана мероприятий определяется путем обеспечения взаимоувязки и сопоставления финансовых, экономических и производственных показателей Компании и ее дочерних организаций.
 
-** в отчете по исполнению плана отражаются причины недостижения показателей результатов.
+** в отчете по исполнению плана отражаются причины недостижения показателей.
 
 3. Мероприятия по реализации Плана мероприятий за отчетный период, с учетом стратегических направлений деятельности, указанных в Плана развития Компании, в том числе по:
 
@@ -1207,31 +1377,92 @@
 
 4.1. в соответствии с бюджетным законодательством Республики Казахстан поступления из республиканского бюджета:
 
-форма 6
-
-тысяч тенге
+Форма 6
 
 <table>
 <tr>
 <td rowspan="2">№ п/п</td>
-<td colspan="4">Документ первого уровня Системы государственного планирования</td>
-<td colspan="5">Документ второго уровня Системы государственного планирования</td>
-<td rowspan="2">Наименование Компании или ее дочерней организации</td>
-<td rowspan="2">Функциональная группа</td>
-<td rowspan="2">Администратор бюджетной программы</td>
-<td rowspan="2">Наименование бюджетной программы</td>
-<td rowspan="2">Целевое назначение</td>
+<td colspan="4">
+Документы целеполагания
+(Видение «Казахстан – 2050», Стратегия достижения углеродной нейтральности Республики Казахстан до 2060 года)
+</td>
+<td colspan="5">
+Документы
+Системы государственного планирования
+(Национальный план развития Республики Казахстан, Стратегия национальной безопасности Республики Казахстан)
+</td>
+<td colspan="4">
+Документы Системы государственного планирования
+(планы развития государственных органов, планы развития областей, городов республиканского значения, столицы)
+</td>
+<td colspan="2">Иные документы, не входящие в Систему государственного планирования (концепции, национальные проекты, государственные программы, доктрины (стратегии), комплексные планы, Национальный инфраструктурный план)</td>
 </tr>
 <tr>
-<td>Наименование документа</td>
-<td>приоритет</td>
-<td>задача</td>
-<td>инициатива/целевой индикатор</td>
-<td>Наименование документа</td>
-<td>Цель</td>
-<td>Задача</td>
-<td>Целевой индикатор</td>
-<td>Показатель результатов*</td>
+<td>
+Наи
+мено
+вание
+доку
+мен
+т
+</td>
+<td>
+При
+ори
+тет
+</td>
+<td>
+За
+да
+ча
+</td>
+<td>
+Ини
+циа
+ти
+ва/
+/целе
+вой
+ин
+ди
+ка
+тор*
+</td>
+<td>
+Наи
+мено
+ва
+ние
+доку
+мен
+та
+</td>
+<td>Це ль</td>
+<td>Основ ные прин ципы/ нап равле ния</td>
+<td>При ори тет/ цель/ зада ча</td>
+<td>Ключевые национальные индикаторы*</td>
+<td>
+Наи
+мено
+ва
+ние
+доку
+мен
+та
+</td>
+<td>Нап рав ления</td>
+<td>Це ли/ зада чи/ ре сур сы</td>
+<td>Целе вые инди каторы /пока затели резуль татов*</td>
+<td>
+Наи
+мено
+ва
+ние
+доку
+мен
+та
+</td>
+<td>Мероприятия/ индикаторы*</td>
 </tr>
 <tr>
 <td>А</td>
@@ -1249,9 +1480,11 @@
 <td>Н</td>
 <td>О</td>
 <td>П</td>
+<td>Р</td>
 </tr>
 <tr>
 <td>1.</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1283,6 +1516,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1295,7 +1529,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td>Итого:</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1303,12 +1538,51 @@
 </tr>
 </table>
 
-продолжение таблицы
+Продолжение таблицы
 
 <table>
 <tr>
-<td colspan="5">20__год</td>
-<td rowspan="2">Примечание</td>
+<td rowspan="2">
+Наи
+мено
+вание Ком
+пании
+или ее дочер
+ней орга
+ни
+зации
+</td>
+<td rowspan="2">
+Функ
+цио
+наль
+ная группа
+</td>
+<td rowspan="2">
+Админи
+стратор бюджет
+ной прог
+раммы
+</td>
+<td rowspan="2">
+Наи
+мено
+вание бюджет
+ной прог
+раммы
+</td>
+<td rowspan="2">
+Целе
+вое назна
+че
+ние
+</td>
+<td colspan="5">20__ год</td>
+<td rowspan="2">
+При
+меча
+ние
+</td>
 </tr>
 <tr>
 <td>план</td>
@@ -1318,6 +1592,11 @@
 <td>% выполнения</td>
 </tr>
 <tr>
+<td>С</td>
+<td>Т</td>
+<td>У</td>
+<td>Ф</td>
+<td>Х</td>
 <td>1</td>
 <td>2</td>
 <td>3</td>
@@ -1332,6 +1611,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1340,8 +1624,18 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td>Итого:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1700,27 +1994,84 @@
 
 инвестиции, в том числе приобретение пакетов акций (долей участия); вклады в уставной капитал и прочие инвестиции:
 
-форма 9
+Форма 9
 
 <table>
 <tr>
-<td rowspan="2">№ п/п</td>
-<td colspan="4">Документ первого уровня Системы государственного планирования</td>
-<td colspan="5">Документ второго уровня Системы государственного планирования</td>
-<td rowspan="2">Наименование проектов</td>
-<td rowspan="2">Дата начала освоения проекта</td>
-<td rowspan="2">Планируемая дата ввода в эксплуатацию</td>
+<td rowspan="2">
+№
+п/п
+</td>
+<td colspan="4">
+Документы целеполагания
+(Видение «Казахстан – 2050», Стратегия достижения углеродной нейтральности Республики Казахстан до 2060 года)
+</td>
+<td colspan="5">
+Документы
+Системы государственного планирования
+(Национальный план развития Республики Казахстан, Стратегия национальной безопасности Республики Казахстан)
+</td>
+<td colspan="4">
+Документы Системы государственного планирования
+(планы развития государственных органов, планы развития областей, городов республиканского значения, столицы)
+</td>
 </tr>
 <tr>
-<td>Наименование документа</td>
-<td>приоритет</td>
-<td>задача</td>
-<td>инициатива/целевой индикатор</td>
-<td>Наименование документа</td>
-<td>Цель</td>
-<td>Задача</td>
-<td>Целевой индикатор</td>
-<td>Показатель результатов**</td>
+<td>
+Наи
+мено
+вание
+доку
+мен
+та
+</td>
+<td>
+При
+ори
+тет
+</td>
+<td>
+За
+да
+ча
+</td>
+<td>
+Ини
+циа
+ти
+ва/
+/целе
+вой
+ин
+ди
+ка
+тор*
+</td>
+<td>
+Наи
+мено
+ва
+ние
+доку
+мен
+та
+</td>
+<td>Це ль</td>
+<td>Основ ные прин ципы/ нап равле ния</td>
+<td>При ори тет/ цель/ зада ча</td>
+<td>Ключевые национальные индикаторы*</td>
+<td>
+Наи
+мено
+ва
+ние
+доку
+мен
+та
+</td>
+<td>Нап рав ления</td>
+<td>Це ли/ зада чи/ ре сур сы</td>
+<td>Целе вые инди каторы /пока затели резуль татов*</td>
 </tr>
 <tr>
 <td>А</td>
@@ -1736,9 +2087,10 @@
 <td>Л</td>
 <td>М</td>
 <td>Н</td>
+<td>О</td>
 </tr>
 <tr>
-<td>1.</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1748,7 +2100,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td>Капитальные вложения всего, в том числе:</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1763,7 +2116,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td>инвестиционные проекты, всего</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1778,7 +2132,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td>капитальные вложения в новые проекты</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1793,11 +2148,13 @@
 <td></td>
 <td></td>
 <td></td>
-<td>капитальные вложения в существующие проекты</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>…</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1826,6 +2183,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>1.2</td>
@@ -1838,7 +2196,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td>приобретение основных средств</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1853,11 +2212,13 @@
 <td></td>
 <td></td>
 <td></td>
-<td>приобретение нематериальных активов</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>…</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1886,9 +2247,10 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>2.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1898,7 +2260,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td>Инвестиции, всего</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1913,7 +2276,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td>приобретение пакетов акций (долей участия)</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1928,11 +2292,13 @@
 <td></td>
 <td></td>
 <td></td>
-<td>вклады в уставный капитал</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>…</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1961,6 +2327,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1971,6 +2338,149 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td colspan="2">Иные документы, не входящие в Систему государственного планирования (концепции, национальные проекты, государственные программы, доктрины (стратегии), комплексные планы, Национальный инфраструктурный план)</td>
+<td rowspan="2">Наименование проектов</td>
+<td rowspan="2">Дата начала освоения проекта</td>
+<td rowspan="2">Планируемая дата ввода в эксплуатацию</td>
+</tr>
+<tr>
+<td>
+Наи
+мено
+ва
+ние
+доку
+мен
+та
+</td>
+<td>Мероприятия/ индикаторы*</td>
+</tr>
+<tr>
+<td>П</td>
+<td>Р</td>
+<td>С</td>
+<td>Т</td>
+<td>У</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Капитальные вложения всего, в том числе:</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>инвестиционные проекты, всего</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>капитальные вложения в новые проекты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>капитальные вложения в существующие проекты</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>приобретение основных средств</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>приобретение нематериальных активов</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Инвестиции, всего</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>приобретение пакетов акций (долей участия)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>вклады в уставный капитал</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td>Итого</td>
@@ -1983,34 +2493,141 @@
 
 <table>
 <tr>
-<td colspan="11">Стоимость проекта, тысяч тенге</td>
+<td rowspan="6">Всего</td>
+<td colspan="15">Стоимость проекта, тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="5">всего</td>
-<td colspan="10">в том числе:</td>
+<td colspan="15">в том числе:</td>
 </tr>
 <tr>
-<td colspan="10">освоено за отчетный период</td>
+<td colspan="15">освоено за отчетный период</td>
 </tr>
 <tr>
-<td colspan="5">план</td>
-<td colspan="5">корректировка 1</td>
+<td colspan="5">План</td>
+<td colspan="5">Корректировка 1</td>
+<td colspan="5">Корректировка n</td>
 </tr>
 <tr>
 <td rowspan="2">всего</td>
-<td colspan="4">в том числе за счет источников финансирования</td>
+<td colspan="4">
+В том числе
+за счет
+финансирования
+</td>
+<td rowspan="2">
+в
+с
+е
+г
+о
+</td>
+<td colspan="4">
+в том числе
+за счет финансирования
+</td>
 <td rowspan="2">всего</td>
-<td colspan="4">в том числе за счет источников финансирования</td>
+<td colspan="4">
+В том числе
+за счет
+финансирования
+</td>
 </tr>
 <tr>
-<td>собственные</td>
-<td>заемные</td>
-<td>бюджетные</td>
-<td>Национальный фонд</td>
-<td>собственные</td>
-<td>заемные</td>
-<td>бюджетные</td>
-<td>Национальный фонд</td>
+<td>
+соб
+ств
+ен
+ные
+</td>
+<td>
+З
+а
+е
+м
+н
+ы
+е
+</td>
+<td>
+б
+ю
+д
+ж
+е
+т
+н
+ы
+е
+</td>
+<td>
+На
+цио
+наль
+ный
+фонд
+</td>
+<td>
+собст
+венны
+</td>
+<td>
+З
+а
+е
+м
+н
+ы
+е
+</td>
+<td>
+б
+ю
+д
+ж
+е
+т
+н
+ы
+е
+</td>
+<td>
+Национа
+льный
+фонд
+</td>
+<td>
+соб
+ств
+ен
+ные
+</td>
+<td>
+З
+а
+е
+м
+н
+ы
+е
+</td>
+<td>
+б
+ю
+д
+ж
+е
+т
+н
+ы
+е
+</td>
+<td>
+На
+цио
+наль
+ный
+фонд
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2024,6 +2641,11 @@
 <td>9</td>
 <td>10</td>
 <td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
 </tr>
 <tr>
 <td></td>
@@ -2031,27 +2653,6 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2076,14 +2677,6 @@
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2096,14 +2689,6 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2128,14 +2713,6 @@
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2148,14 +2725,6 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2180,14 +2749,6 @@
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2200,14 +2761,6 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2232,14 +2785,6 @@
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2258,8 +2803,126 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2274,49 +2937,107 @@
 </tr>
 </table>
 
+Продолжение таблицы
+
 <table>
 <tr>
-<td colspan="15">Стоимость проекта, тысяч тенге</td>
+<td colspan="10">Стоимость проекта, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="15">в том числе:</td>
+<td colspan="10">в том числе:</td>
 </tr>
 <tr>
-<td colspan="15">освоено за отчетный период</td>
+<td colspan="10">освоено за отчетный период</td>
 </tr>
 <tr>
-<td colspan="5">корректировка n</td>
-<td colspan="5">факт</td>
+<td colspan="5">Факт</td>
 <td colspan="5">% выполнения</td>
 </tr>
 <tr>
-<td rowspan="2">всего</td>
-<td colspan="4">в том числе за счет источников финансирования</td>
-<td rowspan="2">всего</td>
-<td colspan="4">в том числе за счет источников финансирования</td>
-<td rowspan="2">всего</td>
-<td colspan="4">в том числе за счет источников финансирования</td>
+<td rowspan="2">
+в
+с
+е
+г
+о
+</td>
+<td colspan="4">
+в том числе
+за счет финансирования
+</td>
+<td rowspan="2">
+в
+с
+е
+г
+о
+</td>
+<td colspan="4">
+в том числе
+за счет финансирования
+</td>
 </tr>
 <tr>
-<td>собственные</td>
-<td>заемные</td>
-<td>бюджетные</td>
-<td>Национальный фонд</td>
-<td>собственные</td>
-<td>заемные</td>
-<td>бюджетные</td>
-<td>Национальный фонд</td>
-<td>собственные</td>
-<td>заемные</td>
-<td>бюджетные</td>
-<td>Национальный фонд</td>
+<td>
+собст
+венные
+</td>
+<td>
+З
+а
+е
+м
+н
+ы
+е
+</td>
+<td>
+б
+ю
+д
+ж
+е
+т
+н
+ы
+е
+</td>
+<td>
+Национа
+льный
+фонд
+</td>
+<td>
+собст
+венные
+</td>
+<td>
+З
+а
+е
+м
+н
+ы
+е
+</td>
+<td>
+б
+ю
+д
+ж
+е
+т
+н
+ы
+е
+</td>
+<td>
+Национа
+льный
+фонд
+</td>
 </tr>
 <tr>
-<td>12</td>
-<td>13</td>
-<td>14</td>
-<td>15</td>
-<td>16</td>
 <td>17</td>
 <td>18</td>
 <td>19</td>
@@ -2339,35 +3060,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2390,35 +3084,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2441,35 +3108,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2492,35 +3132,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2543,35 +3156,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2594,6 +3180,13 @@
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2606,6 +3199,37 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -2618,6 +3242,10 @@
 <td></td>
 </tr>
 </table>
+
+Примечание:
+
+* в отчете по исполнению плана отражаются причины недостижения показателей.
 
 6. Финансовая устойчивость Компании и юридических лиц, акции (доли участия) которых предоставляют право Компании определять решения, принимаемые данными юридическими лицами:
 

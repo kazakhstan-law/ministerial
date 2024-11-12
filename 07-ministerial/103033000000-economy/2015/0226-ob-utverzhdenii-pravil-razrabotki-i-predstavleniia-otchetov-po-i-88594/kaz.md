@@ -431,6 +431,8 @@ n тапсырма
 
 ## Акционері мемлекет болып табылатын ұлттық басқарушы холдингтердің, ұлттық холдингтердің, ұлттық компаниялардың іс-шаралар жоспарларының орындалуы жөніндегі есеп көрсеткіштерінің нысандары мен тізбесі
 
+> *Ескерту. 2-қосымшаға өзгеріс енгізілді – ҚР Ұлттық экономика министрінің м.а. 12.11.2024 № 101 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
 1. Ұлттық басқарушы холдинг (ұлттық холдинг, жарғылық капиталына мемлекет қатысатын ұлттық компания) (бұдан әрі – Компания) туралы жалпы мәліметтер:
 
 1.1. Компанияны құру туралы ақпарат:
@@ -731,292 +733,297 @@ n тапсырма
 
 <table>
 <tr>
-<td colspan="7">Мемлекеттік жоспарлау жүйесінің бірінші деңгейдегі құжаты</td>
-<td colspan="10">Мемлекеттік жоспарлау жүйесінің екінші деңгейдегі құжаты</td>
-<td colspan="5">Компанияның даму жоспарының мақсаттары</td>
-<td colspan="2">Компанияның даму жоспарының міндеттері</td>
-<td colspan="4">Компанияның Даму жоспарының түйінді көрсеткіштері (КП) (сандық немесе сапалық)</td>
-<td colspan="3">Өлшем бірлігі</td>
-<td>Есептеу әдістемесі</td>
-</tr>
-<tr>
-<td colspan="7"></td>
-<td colspan="12"></td>
-<td></td>
-<td></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4">
+Мақсат қою құжаттары
+(«Қазақстан-2050»
+пайымы, Қазақстан Республикасының көміртегі бейтараптығына қол жеткізуінің 2060 жылға дейінгі стратегиясы)
+</td>
+<td colspan="5">
+Мемлекеттік жоспарлау жүйесінің
+құжаттары
+(Қазақстан Республикасының ұлттық даму жоспары, Қазақстан Республикасының Ұлттық қауіпсіздік стратегиясы)
+</td>
+<td colspan="4">
+Мемлекеттік жоспарлау жүйесінің
+құжаттары
+(мемлекеттік органдардың даму жоспарлары, облыстардың, республикалық маңызы бар қалалардың, астананың даму жоспарлары)
+</td>
 </tr>
 <tr>
 <td>Құжаттың атауы</td>
-<td colspan="2">басымдық</td>
-<td colspan="2">міндет</td>
-<td colspan="2">бастама / нысаналы индикатор</td>
-<td colspan="2">Құжаттың атауы</td>
-<td colspan="2">Мақсаты</td>
-<td colspan="2">Міндет</td>
-<td colspan="2">Нысаналы индикатор</td>
-<td colspan="2">Нәтижелер көрсеткіші**</td>
-<td colspan="6"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="5"></td>
+<td>Басымдық</td>
+<td>Тапсырма</td>
+<td>Бастама / нысаналы индикатор**</td>
+<td>Құжаттың атауы</td>
+<td>Мақсаты</td>
+<td>Негізгі принциптер / бағыттар</td>
+<td>Басымдық / мақсат / міндет</td>
+<td>Негізгі ұлттық индикаторлар**</td>
+<td>Құжаттың атауы</td>
+<td>Бағыттар</td>
+<td>Мақсаттар / міндеттер / ресурстар</td>
+<td>Нысаналы индикаторлар /нәтижелер көрсеткіштері**</td>
 </tr>
 <tr>
 <td>А</td>
-<td colspan="2">Б</td>
-<td colspan="2">В</td>
-<td colspan="2">Г</td>
-<td colspan="2">Д</td>
-<td colspan="2">Е</td>
-<td colspan="2">Ж</td>
-<td colspan="2">З</td>
-<td colspan="2">И</td>
-<td colspan="6">К</td>
-<td colspan="2">Л</td>
+<td>Б</td>
+<td>В</td>
+<td>Г</td>
+<td>Д</td>
+<td>Е</td>
+<td>Ж</td>
+<td>З</td>
+<td>И</td>
+<td>К</td>
+<td>Л</td>
 <td>М</td>
-<td colspan="3">Н</td>
-<td colspan="3">О</td>
+<td>Н</td>
 </tr>
 <tr>
-<td colspan="32">1-бағыт</td>
+<td colspan="13">1 Бағыт</td>
 </tr>
 <tr>
 <td rowspan="8"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="8"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6" rowspan="4">1-мақсат</td>
-<td colspan="2" rowspan="2">1-міндет</td>
-<td>1-ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="8"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>n -ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2">n тапсырма</td>
-<td>1-ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>n -ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6" rowspan="4">n мақсаты</td>
-<td colspan="2" rowspan="2">1-міндет</td>
-<td>1-ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>n -ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2">n тапсырма</td>
-<td>1-ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>n -ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="32">n бағыты</td>
+<td colspan="13">n Бағыты</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="8"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="8"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5" rowspan="4">1 мақсат</td>
-<td colspan="2" rowspan="2">1-міндет</td>
-<td>1-ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td rowspan="8"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="8"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>n -ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2">n тапсырма</td>
-<td>1-ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>n -ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="4"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5" rowspan="4">n мақсаты</td>
-<td colspan="2" rowspan="2">1-міндет</td>
-<td>1-ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="4"></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>n -ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="2">n тапсырма</td>
-<td>1-ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td rowspan="2"></td>
+<td></td>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>n -ТК</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-кестенің жалғасы
+Кестенің жалғасы
 
 <table>
 <tr>
-<td colspan="5">Негізгі көрсеткіштердің мәні*</td>
+<td colspan="2" rowspan="3">
+Мемлекеттік жоспарлау жүйесіне
+кірмейтін өзге де құжаттар (тұжырымдамалар, ұлттық жобалар, мемлекеттік бағдарламалар, доктриналар (стратегиялар), кешенді жоспарлар, Ұлттық инфрақұрылымдық жоспар)
+</td>
+<td rowspan="3">Компанияның даму жоспарының мақсаттары</td>
+<td rowspan="3">Компанияның даму жоспарының міндеттері</td>
+<td rowspan="3">Компанияның даму жоспарының негізгі көрсеткіштері (КП) (сандық немесе сапалық)</td>
+<td rowspan="3">Өлшем бірлігі</td>
+<td rowspan="3">Есептеу әдістемесі</td>
+<td colspan="7">Негізгі көрсеткіштердің мәні*</td>
 </tr>
 <tr>
-<td colspan="5">20 _ _ жыл</td>
+<td colspan="7">20__ жыл</td>
 </tr>
 <tr>
-<td>жоспары</td>
-<td>түзету 1</td>
+<td colspan="2">жоспар</td>
+<td colspan="2">түзету 1</td>
 <td>түзету n</td>
 <td>факт</td>
-<td>% орындалу</td>
+<td>орындау %</td>
 </tr>
 <tr>
-<td>1</td>
+<td>Құжаттың атауы</td>
+<td>Іс-шаралар / индикаторлар**</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>О</td>
+<td>П</td>
+<td>Р</td>
+<td>С</td>
+<td>Т</td>
+<td>У</td>
+<td colspan="2">Ф</td>
+<td colspan="2">1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="5">1-бағыт</td>
+<td colspan="14">1 Бағыт</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td rowspan="4">1 мақсат</td>
+<td rowspan="2">1 міндет</td>
+<td>ТК 1</td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1025,19 +1032,10 @@ n тапсырма
 <tr>
 <td></td>
 <td></td>
+<td>ТК n</td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1046,22 +1044,11 @@ n тапсырма
 <tr>
 <td></td>
 <td></td>
+<td rowspan="2">n міндет</td>
+<td>ТК 1</td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">n бағыты</td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1070,19 +1057,10 @@ n тапсырма
 <tr>
 <td></td>
 <td></td>
+<td>ТК n</td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1091,19 +1069,12 @@ n тапсырма
 <tr>
 <td></td>
 <td></td>
+<td rowspan="4">n мақсат</td>
+<td rowspan="2">1 міндет</td>
+<td>ТК 1</td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1111,6 +1082,141 @@ n тапсырма
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td>ТК n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td rowspan="2">n міндет</td>
+<td>ТК 1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>ТК n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="14">n Бағыты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td rowspan="4">1 мақсат</td>
+<td rowspan="2">1 міндет</td>
+<td>ТК 1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>ТК n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td rowspan="2">n міндет</td>
+<td>ТК 1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>ТК n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td rowspan="4">n мақсат</td>
+<td rowspan="2">1 міндет</td>
+<td>ТК 1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>ТК n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td rowspan="2">n міндет</td>
+<td>ТК 1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>ТК n</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1118,11 +1224,11 @@ n тапсырма
 </tr>
 </table>
 
-Ескертпе:
+Ескерту:
 
-* Іс-шаралар жоспарының түйінді көрсеткіштерінің мәні Компанияның және оның еншілес ұйымдарының қаржылық, экономикалық және өндірістік көрсеткіштерін өзара байланыстыруды қамтамасыз ету және салыстыру арқылы айқындалады.
+* іс-шаралар жоспарының негізгі көрсеткіштерінің мәні Компанияның және оның еншілес ұйымдарының қаржылық, экономикалық және өндірістік көрсеткіштерін өзара байланыстыруды және салыстыруды қамтамасыз ету жолымен айқындалады.
 
-** жоспарды орындау бойынша есепте нәтижелер көрсеткіштеріне қол жеткізбеу себептері көрсетіледі.
+** жоспардың орындалуы бойынша есепте көрсеткіштерге қол жеткізбеу себептері көрсетіледі.
 
 3. Компанияның даму жоспарында көрсетілген қызметтің стратегиялық бағыттарын ескере отырып, есепті кезеңдегі іс-шаралар жоспарын іске асыру жөніндегі іс-шаралар, оның ішінде:
 
@@ -1230,31 +1336,41 @@ n тапсырма
 
 4.1. Қазақстан Республикасының бюджет заңнамасына сәйкес республикалық бюджеттен түсетін түсімдер:
 
-6-нысан
-
-мың теңге
+6 нысан
 
 <table>
 <tr>
-<td rowspan="2">№ р/с</td>
-<td colspan="4">Мемлекеттік жоспарлау жүйесінің бірінші деңгейдегі құжаты</td>
-<td colspan="5">Мемлекеттік жоспарлау жүйесінің екінші деңгейдегі құжаты</td>
-<td rowspan="2">Компанияның немесе оның еншілес ұйымының атауы</td>
-<td rowspan="2">Функционалдық топ</td>
-<td rowspan="2">Бюджеттік бағдарламаның әкімшісі</td>
-<td rowspan="2">Бюджеттік бағдарламаның атауы</td>
-<td rowspan="2">Нысаналы мақсаты</td>
+<td rowspan="2">№ п/п</td>
+<td colspan="4">
+Мақсат қою құжаттары
+(«Қазақстан-2050»
+пайымы, Қазақстан Республикасының көміртегі бейтараптығына қол жеткізуінің 2060 жылға дейінгі стратегиясы)
+</td>
+<td colspan="5">
+Мемлекеттік жоспарлау жүйесінің
+құжаттары
+(Қазақстан Республикасының ұлттық даму жоспары, Қазақстан Республикасының Ұлттық қауіпсіздік стратегиясы)
+</td>
+<td colspan="4">
+Мемлекеттік жоспарлау жүйесінің
+құжаттары
+(мемлекеттік органдардың даму жоспарлары, облыстардың, республикалық маңызы бар қалалардың, астананың даму жоспарлары)
+</td>
 </tr>
 <tr>
 <td>Құжаттың атауы</td>
-<td>басымдық</td>
-<td>міндет</td>
-<td>бастама / нысаналы индикатор</td>
+<td>Басымдық</td>
+<td>Тапсырма</td>
+<td>Бастама / нысаналы индикатор*</td>
 <td>Құжаттың атауы</td>
 <td>Мақсаты</td>
-<td>Міндет</td>
-<td>Нысаналы индикатор</td>
-<td>Нәтижелер көрсеткіші*</td>
+<td>Негізгі принциптер / бағыттар</td>
+<td>Басымдық / мақсат / міндет</td>
+<td>Негізгі ұлттық индикаторлар*</td>
+<td>Құжаттың атауы</td>
+<td>Бағыттар</td>
+<td>Мақсаттар / міндеттер / ресурстар</td>
+<td>Нысаналы индикаторлар /нәтижелер көрсеткіштері*</td>
 </tr>
 <tr>
 <td>А</td>
@@ -1271,11 +1387,9 @@ n тапсырма
 <td>М</td>
 <td>Н</td>
 <td>О</td>
-<td>П</td>
 </tr>
 <tr>
 <td>1.</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1305,7 +1419,6 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1318,7 +1431,6 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td>Жиыны:</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1326,21 +1438,39 @@ n тапсырма
 </tr>
 </table>
 
-кестенің жалғасы
+Кестенің жалғасы
 
 <table>
 <tr>
-<td colspan="5">20 _ _ жыл</td>
+<td colspan="2">
+Мемлекеттік жоспарлау жүйесіне
+кірмейтін өзге де құжаттар (тұжырымдамалар, ұлттық жобалар, мемлекеттік бағдарламалар, доктриналар (стратегиялар), кешенді жоспарлар, Ұлттық инфрақұрылымдық жоспар)
+</td>
+<td rowspan="2">Компанияның немесе оның еншілес ұйымының атауы</td>
+<td rowspan="2">Функционалдық топ</td>
+<td rowspan="2">Бюджеттік бағдарламаның әкімшісі</td>
+<td rowspan="2">Бюджеттік бағдарламаның атауы</td>
+<td rowspan="2">Нысаналы мақсаты</td>
+<td colspan="5">20__ жыл</td>
 <td rowspan="2">Ескертпе</td>
 </tr>
 <tr>
+<td>Құжаттың атауы</td>
+<td>Іс-шаралар / индикаторлар*</td>
 <td>жоспары</td>
-<td>1-түзету</td>
-<td>n түзету</td>
+<td>түзету 1</td>
+<td>түзету n</td>
 <td>факт</td>
-<td>% орындалу</td>
+<td>орындалу %</td>
 </tr>
 <tr>
+<td>П</td>
+<td>Р</td>
+<td>С</td>
+<td>Т</td>
+<td>У</td>
+<td>Ф</td>
+<td>Х</td>
 <td>1</td>
 <td>2</td>
 <td>3</td>
@@ -1355,6 +1485,13 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1363,8 +1500,22 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>Жиыны:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1376,7 +1527,7 @@ n тапсырма
 
 Ескертпе:
 
-* жоспарды орындау бойынша есепте нәтижелер көрсеткіштеріне қол жеткізбеу себептері көрсетіледі.
+* іс-шаралар жоспарында нәтижелер көрсеткіштеріне қол жеткізбеу себептері көрсетіледі.
 
 4.2. Компанияның Іс-шаралар жоспары көрсеткіштерінің тізбесінде көрсетілген Қазақстан Республикасының салық заңнамасына сәйкес салықтарды және бюджетке төленетін басқа да міндетті төлемдерді төлеу* (жанама салықтарды қоспағанда) :
 
@@ -1727,23 +1878,40 @@ n тапсырма
 
 <table>
 <tr>
-<td rowspan="2">№ р/с</td>
-<td colspan="4">Мемлекеттік жоспарлау жүйесінің бірінші деңгейдегі құжаты</td>
-<td colspan="5">Мемлекеттік жоспарлау жүйесінің екінші деңгейдегі құжаты</td>
-<td rowspan="2">Жобалардың атауы</td>
-<td rowspan="2">Жобаны игерудің басталу күні</td>
-<td rowspan="2">Пайдалануға берудің жоспарланған күні</td>
+<td rowspan="2">
+№
+п/п
+</td>
+<td colspan="4">
+Мақсат қою құжаттары
+(«Қазақстан-2050»
+пайымы, Қазақстан Республикасының көміртегі бейтараптығына қол жеткізуінің 2060 жылға дейінгі стратегиясы)
+</td>
+<td colspan="5">
+Мемлекеттік жоспарлау жүйесінің
+құжаттары
+(Қазақстан Республикасының ұлттық даму жоспары, Қазақстан Республикасының Ұлттық қауіпсіздік стратегиясы)
+</td>
+<td colspan="4">
+Мемлекеттік жоспарлау жүйесінің
+құжаттары
+(мемлекеттік органдардың даму жоспарлары, облыстардың, республикалық маңызы бар қалалардың, астананың даму жоспарлары)
+</td>
 </tr>
 <tr>
 <td>Құжаттың атауы</td>
-<td>басымдық</td>
-<td>міндет</td>
-<td>бастама / нысаналы индикатор</td>
+<td>Басымдық</td>
+<td>Тапсырма</td>
+<td>Бастама / нысаналы индикатор*</td>
 <td>Құжаттың атауы</td>
 <td>Мақсаты</td>
-<td>Міндет</td>
-<td>Нысаналы индикатор</td>
-<td>Нәтижелер көрсеткіші**</td>
+<td>Негізгі принциптер / бағыттар</td>
+<td>Басымдық / мақсат / міндет</td>
+<td>Негізгі ұлттық индикаторлар*</td>
+<td>Құжаттың атауы</td>
+<td>Бағыттар</td>
+<td>Мақсаттар / міндеттер / ресурстар</td>
+<td>Нысаналы индикаторлар /нәтижелер көрсеткіштері*</td>
 </tr>
 <tr>
 <td>А</td>
@@ -1759,9 +1927,10 @@ n тапсырма
 <td>Л</td>
 <td>М</td>
 <td>Н</td>
+<td>О</td>
 </tr>
 <tr>
-<td>1.</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1771,7 +1940,8 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td>Күрделі салымдар барлығы, оның ішінде:</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1786,7 +1956,8 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td>инвестициялық жобалар, барлығы</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1801,7 +1972,8 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td>жаңа жобаларға күрделі салымдар</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1816,11 +1988,13 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td>қолданыстағы жобаларға күрделі салымдар</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>…</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1849,6 +2023,7 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>1.2</td>
@@ -1861,7 +2036,8 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td>негізгі құралдарды сатып алу</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1876,11 +2052,13 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td>материалдық емес активтерді сатып алу</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>…</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1909,9 +2087,10 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>2.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1921,7 +2100,8 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td>Инвестициялар, барлығы</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1936,7 +2116,8 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td>акциялар пакеттерін (қатысу үлестерін) сатып алу</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1951,11 +2132,13 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
-<td>жарғылық капиталға салымдар</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>…</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1984,6 +2167,7 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1994,6 +2178,144 @@ n тапсырма
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="2">
+Мемлекеттік жоспарлау жүйесіне
+кірмейтін өзге де құжаттар (тұжырымдамалар, ұлттық жобалар, мемлекеттік бағдарламалар, доктриналар (стратегиялар), кешенді жоспарлар, Ұлттық инфрақұрылымдық жоспар)
+</td>
+<td rowspan="2">Жобалардың атауы</td>
+<td rowspan="2">Жобаны игерудің басталу күні</td>
+<td rowspan="2">Пайдалануға берудің жоспарланған күні</td>
+</tr>
+<tr>
+<td>Құжаттың атауы</td>
+<td>Іс-шаралар / индикаторлар*</td>
+</tr>
+<tr>
+<td>П</td>
+<td>Р</td>
+<td>С</td>
+<td>Т</td>
+<td>У</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Барлығы күрделі салымдар, оның ішінде:</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>инвестициялық жобалар, барлығы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>жаңа жобаларға күрделі салымдар</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>қолданыстағы жобаларға күрделі салымдар</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>негізгі құралдарды сатып алу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>материалдық емес активтерді сатып алу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Инвестициялар, барлығы</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>акциялар пакеттерін (қатысу үлестерін) сатып алу</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>жарғылық капиталға салымдар</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td>Жиыны</td>
@@ -2006,32 +2328,32 @@ n тапсырма
 
 <table>
 <tr>
-<td colspan="11">Жобаның құны, мың теңге</td>
+<td rowspan="6">Барлығы</td>
+<td colspan="10">Жобаның құны, мың теңге</td>
 </tr>
 <tr>
-<td rowspan="5">барлығы</td>
 <td colspan="10">оның ішінде:</td>
 </tr>
 <tr>
-<td colspan="10">есепті кезеңде игерілгені</td>
+<td colspan="10">есепті кезеңде игерілді</td>
 </tr>
 <tr>
-<td colspan="5">жоспары</td>
-<td colspan="5">1-түзету</td>
+<td colspan="5">Жоспар</td>
+<td colspan="5">Түзету 1</td>
 </tr>
 <tr>
+<td rowspan="2">Барлығы</td>
+<td colspan="4">Оның ішінде қаржыландыру есебінен</td>
 <td rowspan="2">барлығы</td>
-<td colspan="4">оның ішінде қаржыландыру көздері есебінен</td>
-<td rowspan="2">барлығы</td>
-<td colspan="4">оның ішінде қаржыландыру көздері есебінен</td>
+<td colspan="4">Оның ішінде қаржыландыру есебінен</td>
 </tr>
 <tr>
 <td>меншікті</td>
-<td>қарыз</td>
+<td>Қарыз</td>
 <td>бюджеттік</td>
 <td>Ұлттық қор</td>
 <td>меншікті</td>
-<td>қарыз</td>
+<td>Қарыз</td>
 <td>бюджеттік</td>
 <td>Ұлттық қор</td>
 </tr>
@@ -2256,46 +2578,9 @@ n тапсырма
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
+
+Кестенің жалғасы
 
 <table>
 <tr>
@@ -2305,32 +2590,32 @@ n тапсырма
 <td colspan="15">оның ішінде:</td>
 </tr>
 <tr>
-<td colspan="15">есепті кезеңде игерілгені</td>
+<td colspan="15">есепті кезеңде игерілді</td>
 </tr>
 <tr>
-<td colspan="5">n түзету</td>
-<td colspan="5">факт</td>
+<td colspan="5">Түзету n</td>
+<td colspan="5">Факт</td>
 <td colspan="5">орындалу %</td>
 </tr>
 <tr>
 <td rowspan="2">барлығы</td>
-<td colspan="4">оның ішінде қаржыландыру көздері есебінен</td>
+<td colspan="4">Оның ішінде қаржыландыру есебінен</td>
 <td rowspan="2">барлығы</td>
-<td colspan="4">оның ішінде қаржыландыру көздері есебінен</td>
+<td colspan="4">Оның ішінде қаржыландыру есебінен</td>
 <td rowspan="2">барлығы</td>
-<td colspan="4">оның ішінде қаржыландыру көздері есебінен</td>
+<td colspan="4">Оның ішінде қаржыландыру есебінен</td>
 </tr>
 <tr>
 <td>меншікті</td>
-<td>қарыз</td>
+<td>Қарыз</td>
 <td>бюджеттік</td>
 <td>Ұлттық қор</td>
 <td>меншікті</td>
-<td>қарыз</td>
+<td>Қарыз</td>
 <td>бюджеттік</td>
 <td>Ұлттық қор</td>
 <td>меншікті</td>
-<td>қарыз</td>
+<td>Қарыз</td>
 <td>бюджеттік</td>
 <td>Ұлттық қор</td>
 </tr>
@@ -2623,24 +2908,11 @@ n тапсырма
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
+
+Ескерту:
+
+* жоспардың орындалуы бойынша есепте көрсеткіштерге қол жеткізбеу себептері көрсетіледі.
 
 6. Компанияның және акциялары (қатысу үлестері) компанияға заңды тұлғалар қабылдайтын шешімдерді айқындау құқығын беретін осы заңды тұлғалардың қаржылық тұрақтылығы:
 
