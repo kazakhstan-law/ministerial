@@ -1,0 +1,17 @@
+act_code: '203153'
+requisite: Приказ Министра труда и социальной защиты населения Республики Казахстан от 21 ноября 2024 года № 436
+title:
+  rus: О переносе дня отдыха в 2025 году
+  kaz: 2025 жылы демалыс күнін ауыстыру туралы
+form: ПРИК
+type_codes:
+- ПРИК
+approved_on: 2024-11-21
+approved_by:
+- '103016000000'
+version_date:
+  kaz: 2024-11-21
+  rus: 2024-11-21
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/203153/kaz/21.11.2024
+  rus: https://zan.gov.kz/client/#!/doc/203153/rus/21.11.2024
