@@ -1,5 +1,5 @@
 ---
-version_id: '198191_719717'
+version_id: '198191_730459'
 act_code: '198191'
 language: rus
 title: Об утверждении лимитов изъятия рыбных ресурсов и других водных животных с 1 июля 2024 года по 1 июля 2025 года
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103012000000'
 approval_date: 2024-06-26
-version_date: 2024-09-11
+version_date: 2024-11-21
 registry_number: '198191'
 caused_by:
-  code: '200612'
+  code: '203087'
   title: О внесении изменений в приказ Министра сельского хозяйства Республики Казахстан от 26 июня 2024 года № 223 «Об утверждении лимитов изъятия рыбных ресурсов и других водных животных с 1 июля 2024 года по 1 июля 2025 года»
-  link: https://zan.gov.kz/client/#!/doc/200612/rus
-source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
+  link: https://zan.gov.kz/client/#!/doc/203087/rus
+source: https://zan.gov.kz/client/#!/doc/198191/rus/21.11.2024
 ---
 
 # Об утверждении лимитов изъятия рыбных ресурсов и других водных животных с 1 июля 2024 года по 1 июля 2025 года
@@ -49,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 
 ## Лимиты изъятия рыбных ресурсов и других водных животных с 1 июля 2024 года по 1 июля 2025 года
 
-> *Сноска. Лимиты с изменениями, внесенными приказом и.о. Министра сельского хозяйства РК от 11.09.2024 № 312 (вводится в действие после дня его первого официального опубликования).*
+> *Сноска. Лимиты с изменениями, внесенными приказами и.о. Министра сельского хозяйства РК от 11.09.2024 № 312 (вводится в действие после дня его первого официального опубликования); от 21.11.2024 № 381 (вводится в действие после дня его первого официального опубликования).*
 
 ### Глава 1. Рыбохозяйственные водоемы международного и республиканского значения
 
@@ -1486,36 +1486,30 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <tr>
 <td>№</td>
 <td>Виды рыб и других водных животных</td>
-<td>
-в пределах
-Актюбинской области, тонн
-</td>
-<td>
-в пределах
-Кызылординской области, тонн
-</td>
+<td>в пределах Актюбинской области, тонн</td>
+<td>в пределах Кызылординской области, тонн</td>
 <td>Всего, тонн</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Цисты артемии</td>
-<td>290,32</td>
+<td>639,71</td>
 <td>40,02</td>
-<td>40,02</td>
+<td>679,73</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Итого*</td>
-<td>290,32</td>
+<td>639,71</td>
 <td>40,02</td>
-<td>40,02</td>
+<td>679,73</td>
 </tr>
 </table>
 
@@ -3361,7 +3355,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <td rowspan="2">№</td>
 <td rowspan="2">Водоемы</td>
 <td rowspan="2">Всего, тонн</td>
-<td colspan="5">Виды рыб и других водных животных</td>
+<td colspan="14">Виды рыб и других водных животных</td>
 </tr>
 <tr>
 <td>карась</td>
@@ -3369,196 +3363,6 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <td>карп (сазан)</td>
 <td>змееголов</td>
 <td>щука</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Сенгирбай-2</td>
-<td>0,609</td>
-<td>0,147</td>
-<td></td>
-<td>0,153</td>
-<td>0,197</td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Сенгирбай-3</td>
-<td>1,585</td>
-<td>0,326</td>
-<td></td>
-<td>0,349</td>
-<td>0,318</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Майбулак</td>
-<td>1,627</td>
-<td>0,902</td>
-<td></td>
-<td>0,725</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Киши Акколь</td>
-<td>2,448</td>
-<td>2,107</td>
-<td></td>
-<td>0,341</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Болатбек</td>
-<td>1,650</td>
-<td>0,343</td>
-<td></td>
-<td>0,388</td>
-<td>0,401</td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Карасу</td>
-<td>0,612</td>
-<td>0,167</td>
-<td></td>
-<td>0,163</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Бекнур</td>
-<td>0,542</td>
-<td></td>
-<td></td>
-<td>0,301</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Багара-2</td>
-<td>1,034</td>
-<td>0,203</td>
-<td></td>
-<td>0,168</td>
-<td>0,078</td>
-<td>0,314</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Сенгирбай-1</td>
-<td>3,087</td>
-<td>0,477</td>
-<td></td>
-<td>0,476</td>
-<td>0,464</td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Каскад Кайнар</td>
-<td>0,631</td>
-<td>0,106</td>
-<td></td>
-<td>0,232</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>Каскад Коктем</td>
-<td>0,835</td>
-<td></td>
-<td>0,167</td>
-<td>0,132</td>
-<td>0,198</td>
-<td></td>
-</tr>
-<tr>
-<td>12</td>
-<td>Воинское</td>
-<td>1,872</td>
-<td>0,287</td>
-<td></td>
-<td>0,567</td>
-<td>0,396</td>
-<td></td>
-</tr>
-<tr>
-<td>13</td>
-<td>Каракайнар</td>
-<td>0,961</td>
-<td>0,198</td>
-<td></td>
-<td>0,397</td>
-<td>0,366</td>
-<td></td>
-</tr>
-<tr>
-<td>14</td>
-<td>Караколь</td>
-<td>5,540</td>
-<td></td>
-<td></td>
-<td>1,662</td>
-<td>1,242</td>
-<td>1,337</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Киши Камкалы</td>
-<td>5,785</td>
-<td></td>
-<td>0,783</td>
-<td>1,321</td>
-<td>1,541</td>
-<td>1,113</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Шаповаловка-2</td>
-<td>7,886</td>
-<td>0,862</td>
-<td></td>
-<td>1,197</td>
-<td>0,907</td>
-<td>0,842</td>
-</tr>
-<tr>
-<td></td>
-<td>Итого*</td>
-<td>36,704</td>
-<td>6,125</td>
-<td>0,950</td>
-<td>8,572</td>
-<td>6,108</td>
-<td>3,606</td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td colspan="9">Виды рыб и других водных животных</td>
-</tr>
-<tr>
 <td>вобла</td>
 <td>плотва</td>
 <td>красноперка</td>
@@ -3566,54 +3370,361 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <td>окунь</td>
 <td>рак</td>
 <td>толстолобик</td>
-<td>Цисты артемии</td>
+<td>Сом</td>
 <td>Белый амур</td>
 </tr>
 <tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Сенгирбай-2</td>
+<td>0, 609</td>
+<td>0, 147</td>
+<td></td>
+<td>0, 153</td>
+<td>0, 197</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 112</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Сенгирбай-3</td>
+<td>1, 585</td>
+<td>0, 326</td>
+<td></td>
+<td>0, 349</td>
+<td>0, 318</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 236</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 189</td>
+<td></td>
+<td>0, 167</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Майбулак</td>
+<td>1, 627</td>
+<td>0, 902</td>
+<td></td>
+<td>0, 725</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Киши Акколь</td>
+<td>2, 448</td>
+<td>2, 107</td>
+<td></td>
+<td>0, 341</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Болатбек</td>
+<td>1, 650</td>
+<td>0, 343</td>
+<td></td>
+<td>0, 388</td>
+<td>0, 401</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 303</td>
+<td></td>
+<td>0, 215</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Карасу</td>
+<td>0, 612</td>
+<td>0, 167</td>
+<td></td>
+<td>0, 163</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 160</td>
+<td></td>
+<td>0, 122</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Бекнур</td>
+<td>0, 542</td>
+<td></td>
+<td></td>
+<td>0, 301</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 096</td>
+<td></td>
+<td>0, 145</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Багара-2</td>
+<td>1, 034</td>
+<td>0, 203</td>
+<td></td>
+<td>0, 168</td>
+<td>0, 078</td>
+<td>0, 314</td>
+<td></td>
+<td>0, 107</td>
+<td></td>
+<td></td>
+<td>0, 104</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 060</td>
+</tr>
+<tr>
 <td>9</td>
+<td>Сенгирбай-1</td>
+<td>3, 087</td>
+<td>0, 477</td>
+<td></td>
+<td>0, 476</td>
+<td>0, 464</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1, 066</td>
+<td>0, 392</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 212</td>
+</tr>
+<tr>
 <td>10</td>
+<td>Каскад Кайнар</td>
+<td>0, 631</td>
+<td>0, 106</td>
+<td></td>
+<td>0, 232</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 116</td>
+<td></td>
+<td>0, 177</td>
+</tr>
+<tr>
 <td>11</td>
+<td>Каскад Коктем</td>
+<td>0, 835</td>
+<td></td>
+<td>0, 167</td>
+<td>0, 132</td>
+<td>0, 198</td>
+<td></td>
+<td>0, 078</td>
+<td></td>
+<td></td>
+<td>0, 260</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>12</td>
+<td>Воинское</td>
+<td>1, 872</td>
+<td>0, 287</td>
+<td></td>
+<td>0, 567</td>
+<td>0, 396</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 622</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>13</td>
+<td>Каракайнар</td>
+<td>0, 961</td>
+<td>0, 198</td>
+<td></td>
+<td>0, 397</td>
+<td>0, 366</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>14</td>
+<td>Караколь</td>
+<td>
+5,
+540
+</td>
+<td></td>
+<td></td>
+<td>1, 662</td>
+<td>1, 242</td>
+<td>1, 337</td>
+<td></td>
+<td></td>
+<td>1, 299</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>15</td>
+<td>Киши Камкалы</td>
+<td>5, 785</td>
+<td></td>
+<td>0, 783</td>
+<td>1, 321</td>
+<td>1, 541</td>
+<td>1, 113</td>
+<td></td>
+<td></td>
+<td>1, 027</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>16</td>
+<td>Шаповаловка-2</td>
+<td>7, 886</td>
+<td>0, 862</td>
+<td></td>
+<td>1, 197</td>
+<td>0, 907</td>
+<td>0, 842</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2, 458</td>
+<td></td>
+<td>1, 620</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>17</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>0,112</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>0,236</td>
-<td></td>
-<td></td>
-<td></td>
-<td>0,189</td>
-<td></td>
-<td>0,167</td>
-</tr>
-<tr>
+<td>Тасоткель</td>
+<td>229, 67</td>
+<td>33, 27</td>
+<td>12, 2</td>
+<td>33, 2</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td>149, 2</td>
 <td></td>
 <td></td>
 <td></td>
+<td>1, 8</td>
 <td></td>
 </tr>
 <tr>
+<td>18</td>
+<td>Корейское</td>
+<td>0, 642</td>
+<td></td>
+<td></td>
+<td>0, 345</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3622,97 +3733,19 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <td></td>
 <td></td>
 <td></td>
+<td>0, 121</td>
 <td></td>
+<td>0, 176</td>
 </tr>
 <tr>
+<td>19</td>
+<td>Каскад Актобе</td>
+<td>0, 546</td>
+<td>0, 193</td>
+<td></td>
+<td>0, 353</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>0,303</td>
-<td></td>
-<td>0,215</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>0,160</td>
-<td></td>
-<td>0,122</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>0,096</td>
-<td></td>
-<td>0,145</td>
-</tr>
-<tr>
-<td></td>
-<td>0,107</td>
-<td></td>
-<td></td>
-<td>0,104</td>
-<td></td>
-<td></td>
-<td></td>
-<td>0,060</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1,066</td>
-<td>0,392</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>0,212</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>0,116</td>
-<td></td>
-<td>0,177</td>
-</tr>
-<tr>
-<td>0,078</td>
-<td></td>
-<td></td>
-<td>0,260</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>0,622</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -3724,9 +3757,36 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <td></td>
 </tr>
 <tr>
+<td>20</td>
+<td>Сарыбалдак</td>
+<td>6, 286</td>
+<td>0, 570</td>
+<td>0. 282</td>
+<td>2, 785</td>
+<td>0, 739</td>
 <td></td>
 <td></td>
-<td>1,299</td>
+<td></td>
+<td>0, 518</td>
+<td>0, 715</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0, 677</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Юбилейное</td>
+<td>3, 715</td>
+<td>0, 522</td>
+<td>0, 392</td>
+<td>1, 301</td>
+<td>0, 593</td>
+<td></td>
+<td>0, 485</td>
+<td></td>
+<td>0, 422</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3736,36 +3796,22 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>1,027</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>2,458</td>
-<td></td>
-<td>1,620</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>0,078</td>
-<td>0,107</td>
-<td>3,740</td>
-<td>3,732</td>
-<td>0,104</td>
-<td>1,620</td>
-<td>0,864</td>
-<td></td>
-<td>1,098</td>
+<td>Итого*</td>
+<td>277, 563</td>
+<td>40, 68</td>
+<td>13, 824</td>
+<td>46, 556</td>
+<td>7, 44</td>
+<td>3, 606</td>
+<td>0, 563</td>
+<td>0, 107</td>
+<td>4, 68</td>
+<td>153, 647</td>
+<td>0, 104</td>
+<td>1, 620</td>
+<td>0, 985</td>
+<td>1, 8</td>
+<td>1, 951</td>
 </tr>
 </table>
 
@@ -4402,22 +4448,22 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <td>цисты артемии</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td>13</td>
-<td>14</td>
-<td>15</td>
-<td>16</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
 </tr>
 <tr>
 <td>1</td>
@@ -4512,14 +4558,14 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <tr>
 <td>6</td>
 <td>Озеро Сарыоба</td>
-<td>40,5</td>
+<td>120, 5</td>
 <td>9,5</td>
 <td></td>
 <td></td>
 <td></td>
-<td>10</td>
-<td>10</td>
-<td>11</td>
+<td>20</td>
+<td>30</td>
+<td>61</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4584,15 +4630,15 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <tr>
 <td>10</td>
 <td>Озеро Бидаик (Солдатское)</td>
-<td>22,5</td>
+<td>42, 5</td>
 <td>5</td>
 <td></td>
 <td></td>
 <td></td>
-<td>6</td>
-<td>5,5</td>
-<td>5,5</td>
-<td>0,5</td>
+<td>11</td>
+<td>10, 5</td>
+<td>15, 5</td>
+<td>0, 5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4638,7 +4684,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <tr>
 <td>13</td>
 <td>Озеро Жаман</td>
-<td>12,1</td>
+<td>12, 1</td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -4764,7 +4810,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <tr>
 <td>20</td>
 <td>река Карасу</td>
-<td>5,5</td>
+<td>5, 5</td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -4782,12 +4828,12 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <tr>
 <td>21</td>
 <td>Озеро Алаколь (Мокрое)</td>
-<td>5,5</td>
+<td>5, 5</td>
 <td>3,5</td>
 <td></td>
 <td></td>
 <td></td>
-<td>0,8</td>
+<td>0, 8</td>
 <td>0,5</td>
 <td>0,5</td>
 <td>0,2</td>
@@ -4872,7 +4918,7 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 <tr>
 <td>26</td>
 <td>Озеро Мазарево</td>
-<td>4,4</td>
+<td>4, 4</td>
 <td>1,6</td>
 <td></td>
 <td>0,8</td>
@@ -5033,38 +5079,56 @@ source: https://zan.gov.kz/client/#!/doc/198191/rus/11.09.2024
 </tr>
 <tr>
 <td>35</td>
-<td>Прочие**</td>
-<td>107,36</td>
-<td>72,5</td>
-<td>0,9</td>
-<td>9,75</td>
-<td>1,7</td>
-<td>8,5</td>
-<td>5,9</td>
-<td>3,9</td>
-<td>2,8</td>
-<td>0,4</td>
+<td>Озеро Талы</td>
+<td>50</td>
 <td></td>
-<td>0,65</td>
-<td>0,3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+<td>10</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>36</td>
+<td>Прочие**</td>
+<td>107, 36</td>
+<td>72, 5</td>
+<td>0, 9</td>
+<td>9, 75</td>
+<td>1,7</td>
+<td>8, 5</td>
+<td>5,9</td>
+<td>3, 9</td>
+<td>2, 8</td>
+<td>0, 4</td>
+<td></td>
+<td>0, 65</td>
+<td>0, 3</td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
 <td>Итого*</td>
-<td>1069,7</td>
-<td>139,6</td>
-<td>46,9</td>
-<td>94,55</td>
-<td>17,7</td>
-<td>125,2</td>
-<td>171,3</td>
-<td>134</td>
-<td>12,4</td>
-<td>0,9</td>
+<td>1219, 76</td>
+<td>139, 6</td>
+<td>46, 9</td>
+<td>94, 55</td>
+<td>17, 7</td>
+<td>150, 2</td>
+<td>206, 3</td>
+<td>224</td>
+<td>12, 4</td>
+<td>0, 9</td>
 <td>96</td>
-<td>11,85</td>
-<td>4,3</td>
+<td>11, 85</td>
+<td>4, 3</td>
 <td>215</td>
 </tr>
 </table>
