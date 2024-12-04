@@ -14,6 +14,11 @@ approval_date: 2022-12-15
 version_date: 2022-12-15
 registry_number: '175653'
 source: https://zan.gov.kz/client/#!/doc/175653/kaz/15.12.2022
+repealed_on: 2025-01-01
+repealed_by:
+  code: '203713'
+  title: Ірі салық төлеушілер мониторингіне жататын салық төлеушілердің тізбесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/203713/kaz
 ---
 
 # Ірі салық төлеушілер мониторингіне жататын салық төлеушілердің тізбесін бекіту туралы
