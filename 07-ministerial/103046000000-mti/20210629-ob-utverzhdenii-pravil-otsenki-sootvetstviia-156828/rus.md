@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/156828/rus/21.06.2024
+source: https://zan.gov.kz/client/#!/doc/156828/rus/14.12.2024
 ---
 
 # Об утверждении Правил оценки соответствия
