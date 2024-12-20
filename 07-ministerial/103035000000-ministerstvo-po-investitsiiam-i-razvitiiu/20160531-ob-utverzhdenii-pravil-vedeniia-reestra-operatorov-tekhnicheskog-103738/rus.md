@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/103738/rus/03.07.2023
+repealed_on: 2025-04-05
+repealed_by:
+  code: '204590'
+  title: О признании утратившими силу некоторых приказов
+  link: https://zan.gov.kz/client/#!/doc/204590/rus
 ---
 
 # Об утверждении Правил ведения реестра операторов технического осмотра

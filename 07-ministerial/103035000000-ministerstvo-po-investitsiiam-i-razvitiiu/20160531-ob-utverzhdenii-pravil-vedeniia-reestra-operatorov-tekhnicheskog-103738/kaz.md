@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/103738/kaz/03.07.2023
+repealed_on: 2025-04-05
+repealed_by:
+  code: '204590'
+  title: Кейбір бұйрықтардың күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/204590/kaz
 ---
 
 # Техникалық қарап-тексеру операторларының тiзiлiмiн жүргiзу қағидаларын бекiту туралы
