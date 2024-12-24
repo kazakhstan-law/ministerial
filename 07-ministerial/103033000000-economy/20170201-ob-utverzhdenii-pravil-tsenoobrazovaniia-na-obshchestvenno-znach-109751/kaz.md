@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/109751/kaz/04.08.2023
+source: https://zan.gov.kz/client/#!/doc/109751/kaz/24.12.2024
 ---
 
 # Қоғамдық маңызы бар нарықтарда баға белгілеу қағидаларын бекіту туралы
