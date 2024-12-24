@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90300/kaz/24.05.2023
+source: https://zan.gov.kz/client/#!/doc/90300/kaz/24.12.2024
 ---
 
 # Ауыл шаруашылығы жануарларын бірдейлендіру қағидаларын бекіту туралы

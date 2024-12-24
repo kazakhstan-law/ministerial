@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/90300/rus/24.05.2023
+source: https://zan.gov.kz/client/#!/doc/90300/rus/24.12.2024
 ---
 
 # Об утверждении Правил идентификации сельскохозяйственных животных
