@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/136161/kaz/30.09.2024
+source: https://zan.gov.kz/client/#!/doc/136161/kaz/31.12.2024
 ---
 
 ## 2-бөлім. Тарифтік реттеудің ынталандыру әдісін ескере отырып, тарифті қалыптастыру тетігі
