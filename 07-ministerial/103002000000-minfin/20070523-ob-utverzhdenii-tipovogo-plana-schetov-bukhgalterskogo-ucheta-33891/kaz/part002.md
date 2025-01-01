@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/33891/kaz/03.07.2019
+source: https://zan.gov.kz/client/#!/doc/33891/kaz/01.01.2025
 ---
 
 > *Бухгалтерлік есеп шоттарының үлгілік жоспарына*  
