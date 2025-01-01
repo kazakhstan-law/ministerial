@@ -11,11 +11,11 @@ approved_on: 2021-08-05
 approved_by:
 - '103010000000'
 version_date:
-  kaz: 2024-09-05
-  rus: 2024-09-05
+  kaz: 2025-01-01
+  rus: 2025-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/158068/kaz/05.09.2024
-  rus: https://zan.gov.kz/client/#!/doc/158068/rus/05.09.2024
+  kaz: https://zan.gov.kz/client/#!/doc/158068/kaz/01.01.2025
+  rus: https://zan.gov.kz/client/#!/doc/158068/rus/01.01.2025
 caused_by:
   code: '200420'
   requisite: Приказ Министра здравоохранения Республики Казахстан от 5 сентября 2024 года № 71. Зарегистрирован в Министерстве юстиции Республики Казахстан 6 сентября 2024 года № 35038
