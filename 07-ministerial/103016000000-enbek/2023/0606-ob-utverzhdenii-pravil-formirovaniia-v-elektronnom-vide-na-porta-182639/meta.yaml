@@ -11,8 +11,15 @@ approved_on: 2023-06-06
 approved_by:
 - '103016000000'
 version_date:
-  kaz: 2023-06-06
-  rus: 2023-06-06
+  kaz: 2025-01-01
+  rus: 2025-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/182639/kaz/06.06.2023
-  rus: https://zan.gov.kz/client/#!/doc/182639/rus/06.06.2023
+  kaz: https://zan.gov.kz/client/#!/doc/182639/kaz/01.01.2025
+  rus: https://zan.gov.kz/client/#!/doc/182639/rus/01.01.2025
+caused_by:
+  code: '197695'
+  requisite: Приказ Министра труда и социальной защиты населения Республики Казахстан от 14 июня 2024 года № 193. Зарегистрирован в Министерстве юстиции Республики Казахстан 15 июня 2024 года № 34502
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/197695/rus
