@@ -11,11 +11,11 @@ approved_on: 2017-06-29
 approved_by:
 - '103035000000'
 version_date:
-  kaz: 2024-01-23
-  rus: 2024-01-23
+  kaz: 2025-01-01
+  rus: 2025-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/114598/kaz/23.01.2024
-  rus: https://zan.gov.kz/client/#!/doc/114598/rus/23.01.2024
+  kaz: https://zan.gov.kz/client/#!/doc/114598/kaz/01.01.2025
+  rus: https://zan.gov.kz/client/#!/doc/114598/rus/01.01.2025
 caused_by:
   code: '192870'
   requisite: Приказ Министра транспорта Республики Казахстан от 23 января 2024 года № 36. Зарегистрирован в Министерстве юстиции Республики Казахстан 25 января 2024 года № 33931
