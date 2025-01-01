@@ -11,11 +11,11 @@ approved_on: 2015-03-30
 approved_by:
 - '103033000000'
 version_date:
-  kaz: 2024-08-29
-  rus: 2024-08-29
+  kaz: 2025-01-01
+  rus: 2025-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/92167/kaz/29.08.2024
-  rus: https://zan.gov.kz/client/#!/doc/92167/rus/29.08.2024
+  kaz: https://zan.gov.kz/client/#!/doc/92167/kaz/01.01.2025
+  rus: https://zan.gov.kz/client/#!/doc/92167/rus/01.01.2025
 caused_by:
   code: '200217'
   requisite: Приказ Министра торговли и интеграции Республики Казахстан от 29 августа 2024 года № 317-НҚ. Зарегистрирован в Министерстве юстиции Республики Казахстан 29 августа 2024 года № 35012
