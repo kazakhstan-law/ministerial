@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/150384/rus/27.08.2024
+source: https://zan.gov.kz/client/#!/doc/150384/rus/01.01.2025
 ---
 
 0901 Из общего числа сделано посещений сельскими жителями 1___1___.
