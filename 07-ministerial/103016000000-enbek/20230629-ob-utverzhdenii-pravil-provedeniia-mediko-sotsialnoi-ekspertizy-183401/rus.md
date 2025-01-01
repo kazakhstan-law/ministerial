@@ -1,5 +1,5 @@
 ---
-version_id: '183401_695633'
+version_id: '183401_758454'
 act_code: '183401'
 language: rus
 title: Об утверждении Правил проведения медико-социальной экспертизы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103016000000'
 approval_date: 2023-06-29
-version_date: 2024-04-11
+version_date: 2025-01-01
 registry_number: '183401'
 caused_by:
-  code: '195548'
-  title: О внесении изменений и дополнений в некоторые приказы Министерства труда и социальной защиты населения Республики Казахстан
-  link: https://zan.gov.kz/client/#!/doc/195548/rus
-source: https://zan.gov.kz/client/#!/doc/183401/rus/11.04.2024
+  code: '183401'
+  title: Об утверждении Правил проведения медико-социальной экспертизы
+  link: https://zan.gov.kz/client/#!/doc/183401/rus
+source: https://zan.gov.kz/client/#!/doc/183401/rus/01.01.2025
 ---
 
 # Об утверждении Правил проведения медико-социальной экспертизы

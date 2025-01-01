@@ -1,5 +1,5 @@
 ---
-version_id: '183401_695632'
+version_id: '183401_758453'
 act_code: '183401'
 language: kaz
 title: Медициналық-әлеуметтік сараптама жүргізу қағидаларын бекіту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103016000000'
 approval_date: 2023-06-29
-version_date: 2024-04-11
+version_date: 2025-01-01
 registry_number: '183401'
 caused_by:
-  code: '195548'
-  title: Қазақстан Республикасы Еңбек және халықты әлеуметтік қорғау министрлігінің кейбiр бұйрықтарына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/195548/kaz
-source: https://zan.gov.kz/client/#!/doc/183401/kaz/11.04.2024
+  code: '183401'
+  title: Медициналық-әлеуметтік сараптама жүргізу қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/183401/kaz
+source: https://zan.gov.kz/client/#!/doc/183401/kaz/01.01.2025
 ---
 
 # Медициналық-әлеуметтік сараптама жүргізу қағидаларын бекіту туралы
