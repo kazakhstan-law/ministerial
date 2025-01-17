@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/90007/rus/03.01.2023
+source: https://zan.gov.kz/client/#!/doc/90007/rus/17.01.2025
 ---
 
 ## Параграф 5. Защита блоков генератор–трансформатор
