@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/166428/kaz/30.11.2022
+source: https://zan.gov.kz/client/#!/doc/166428/kaz/24.01.2025
 ---
 
 > *Амбулаториялық жағдайда*  
