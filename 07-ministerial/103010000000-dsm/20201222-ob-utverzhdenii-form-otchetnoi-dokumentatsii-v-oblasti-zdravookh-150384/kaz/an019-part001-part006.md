@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/150384/kaz/01.01.2025
+source: https://zan.gov.kz/client/#!/doc/150384/kaz/11.02.2025
 ---
 
 Қалпына келтіру емі және медициналы оңалту үшін төсектер бейіндері
