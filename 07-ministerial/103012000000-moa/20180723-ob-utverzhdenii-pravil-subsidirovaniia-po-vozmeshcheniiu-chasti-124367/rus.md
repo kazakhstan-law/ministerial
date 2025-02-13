@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/124367/rus/15.05.2024
+source: https://zan.gov.kz/client/#!/doc/124367/rus/13.02.2025
 ---
 
 # Об утверждении Правил субсидирования по возмещению части расходов, понесенных субъектом агропромышленного комплекса, при инвестиционных вложениях
@@ -75,6 +75,6 @@ source: https://zan.gov.kz/client/#!/doc/124367/rus/15.05.2024
 | [`an002-part001-t004`](rus/an002-part001-t004.md) | таблица 4 |
 | [`an002-part001-t005`](rus/an002-part001-t005.md) | таблица 5 |
 | [`an002-part001-t006`](rus/an002-part001-t006.md) | таблица 6 |
-| [`an002-part001-part011`](rus/an002-part001-part011.md) | an002-part001-part011 |
+| [`an002-part001-t007`](rus/an002-part001-t007.md) | таблица 7 |
 | [`an002-part001-part013`](rus/an002-part001-part013.md) | an002-part001-part013 |
 | [`an004`](rus/an004.md) | Заявка на инвестиционное субсидирование |
