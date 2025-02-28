@@ -11,8 +11,15 @@ approved_on: 2024-04-03
 approved_by:
 - '103049000000'
 version_date:
-  kaz: 2024-04-03
-  rus: 2024-04-03
+  kaz: 2025-02-28
+  rus: 2025-02-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/195300/kaz/03.04.2024
-  rus: https://zan.gov.kz/client/#!/doc/195300/rus/03.04.2024
+  kaz: https://zan.gov.kz/client/#!/doc/195300/kaz/28.02.2025
+  rus: https://zan.gov.kz/client/#!/doc/195300/rus/28.02.2025
+caused_by:
+  code: '207912'
+  requisite: Приказ Министра науки и высшего образования Республики Казахстан от 28 февраля 2025 года № 87. Зарегистрирован в Министерстве юстиции Республики Казахстан 11 марта 2025 года № 35803
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/207912/rus
