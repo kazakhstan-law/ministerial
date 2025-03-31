@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/125959/kaz/01.12.2024
+source: https://zan.gov.kz/client/#!/doc/125959/kaz/31.03.2025
 ---
 
 > *Дәрілік заттар мен және*  
