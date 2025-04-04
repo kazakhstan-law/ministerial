@@ -14,6 +14,11 @@ approval_date: 2015-03-17
 version_date: 2017-01-01
 registry_number: '89605'
 source: https://zan.gov.kz/client/#!/doc/89605/kaz/01.01.2017
+repealed_on: 2025-07-01
+repealed_by:
+  code: '208944'
+  title: Қазақстан Республикасы Энергетика министрінің кейбір бұйрықтарының күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/208944/kaz
 ---
 
 # Жылу энергиясын жіберуді және жеткізгішін есепке алу қағидаларын бекіту туралы
