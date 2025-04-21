@@ -14,6 +14,11 @@ approval_date: 2025-04-21
 version_date: 2025-04-21
 registry_number: '209348'
 source: https://zan.gov.kz/client/#!/doc/209348/kaz/21.04.2025
+repealed_on: 2025-12-31
+repealed_by:
+  code: '209348'
+  title: 2025 қаржы жылына арналған бюджеттік өтінімді жасау және ұсыну қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/209348/kaz
 ---
 
 # 2025 қаржы жылына арналған бюджеттік өтінімді жасау және ұсыну қағидаларын бекіту туралы
