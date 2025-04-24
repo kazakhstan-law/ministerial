@@ -1,0 +1,17 @@
+act_code: '209431'
+requisite: Приказ Министра финансов Республики Казахстан от 24 апреля 2025 года № 191
+title:
+  rus: Об утверждении Учетной политики
+  kaz: Есепке алу саясатын бекіту туралы
+form: ПРИК
+type_codes:
+- ПРИК
+approved_on: 2025-04-24
+approved_by:
+- '103002000000'
+version_date:
+  kaz: 2025-04-24
+  rus: 2025-04-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/209431/kaz/24.04.2025
+  rus: https://zan.gov.kz/client/#!/doc/209431/rus/24.04.2025
