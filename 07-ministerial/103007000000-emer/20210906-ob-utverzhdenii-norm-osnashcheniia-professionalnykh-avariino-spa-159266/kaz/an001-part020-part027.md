@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/159266/kaz/06.09.2021
+source: https://zan.gov.kz/client/#!/doc/159266/kaz/14.05.2025
 ---
 
 ## № 3.5 норма Дәрілік заттар мен медициналық бұйымдармен қамтамасыз ету
@@ -1167,280 +1167,167 @@ source: https://zan.gov.kz/client/#!/doc/159266/kaz/06.09.2021
 </tr>
 </table>
 
-## № 3.6 норма Киім жабдығымен қамтамасыз ету
+## Құтқарушыларды киім-кешекпен қамтамасыз етудің № 3.6 нормасы
 
 <table>
 <tr>
-<td>Р/с №</td>
-<td>Атауы</td>
-<td>Өлшем бірлігі</td>
-<td>Бір адамға құралдар саны</td>
 <td>
-Қызмет мерзімі
-(жыл)
+№
+р/с
 </td>
+<td colspan="2">Норма атауы</td>
+<td colspan="2">1 адамға өлшем бірлікті сандық түрде есептегенде</td>
+<td>Кию мерзімі</td>
+<td colspan="2">Ескертпе</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<td colspan="9">Киім-кешек</td>
 </tr>
 <tr>
-<td colspan="5">Киім-кешек: Жазғы киім</td>
+<td>1.</td>
+<td colspan="3">Обаға қарсы костюм</td>
+<td>1 жиын.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
-<td>Далалық фуражка (кепи)</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
+<td>2.</td>
+<td colspan="3">Медициналық халат</td>
+<td>1 дана.</td>
+<td colspan="2">1 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>2</td>
-<td>Футболка</td>
-<td>дана</td>
-<td>2</td>
-<td>1</td>
+<td>3.</td>
+<td colspan="3">Хирургиялық костюм</td>
+<td>2 дана.</td>
+<td colspan="2">1 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>3</td>
-<td>Сыдырмалы күртеше</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
+<td>4.</td>
+<td colspan="3">Сигналдық кеудеше</td>
+<td>1 дана.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>4</td>
-<td>Қысқа жеңді көйлек</td>
-<td>дана</td>
-<td>2</td>
-<td>1</td>
+<td>5.</td>
+<td colspan="3">Резіңке етік</td>
+<td>1 жұп.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>5</td>
-<td>Ұзын жеңді көйлек</td>
-<td>дана</td>
-<td>2</td>
-<td>1</td>
+<td>6.</td>
+<td colspan="3">Плащ-жамылғы</td>
+<td>1 дана.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>6</td>
-<td>Тік тігісті шалбар</td>
-<td>дана</td>
-<td>2</td>
-<td>1</td>
+<td colspan="9">Арнайы күнделікті киім формасы</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Комбинезон</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
+<td>7.</td>
+<td colspan="3">Жазғы арнайы киім нысаны</td>
+<td>1 жиын.</td>
+<td colspan="2">2 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>8</td>
-<td>Ілгегі бар ені 5 см. белбеу</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
+<td>8.</td>
+<td colspan="3">Қысқы арнайы киім нысаны</td>
+<td>1 жиын.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>9</td>
-<td>Қара түсті туқұтыи</td>
-<td>бір жұп</td>
-<td>1</td>
-<td>2</td>
+<td>9.</td>
+<td colspan="3">Бір түсті футболка</td>
+<td>4 дана.</td>
+<td colspan="2">2 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>10</td>
-<td>Қара түсті шұлықтар</td>
-<td>бір жұп</td>
-<td>6</td>
-<td>1</td>
+<td>10.</td>
+<td colspan="3">Қонышытөмен жазғы аяқ киім</td>
+<td>1 жұп.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>11</td>
-<td>Плащ-жамылғы</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
+<td>11.</td>
+<td colspan="3">Қонышы биік жазғы аяқ киім</td>
+<td>1 жұп.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>12</td>
-<td>Резеңке етік</td>
-<td>жұп</td>
-<td>1</td>
-<td>2</td>
+<td>12.</td>
+<td colspan="3">Қысқы аяқ-киім</td>
+<td>1 жұп.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>13</td>
-<td>Қара түсті ұзын берці бар бәтеңке</td>
-<td>жұп</td>
-<td>1</td>
-<td>2</td>
+<td>13.</td>
+<td colspan="3">Жазғы бас киім</td>
+<td>1 дана.</td>
+<td colspan="2">2 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>14</td>
-<td>Қысқа бас киім</td>
-<td>дана</td>
-<td>1</td>
-<td>3</td>
+<td>14.</td>
+<td colspan="3">Қысқы бас киім</td>
+<td>1 дана.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>15</td>
-<td>Ағытылатын күләпарасы мен тері қарғысы бар сыдырма ілгекті жылытылған күртеше (ұзартылған – тізеден сәл жоғары)</td>
-<td>дана</td>
-<td>1</td>
-<td>3</td>
+<td>15.</td>
+<td colspan="3">Балаклава</td>
+<td>1 дана.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>16</td>
-<td>Тік тігісті жылытылған шалбар</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
+<td colspan="9">Құрал-жабдықтар мен іш киімдер</td>
 </tr>
 <tr>
-<td>17</td>
-<td>Жылытылған комбинезон</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
+<td>16.</td>
+<td colspan="3">Нессесері бар сөмке (рюкзак)</td>
+<td>1 жиын.</td>
+<td colspan="2">10 лет</td>
+<td></td>
 </tr>
 <tr>
-<td>18</td>
-<td>Жүннен тоқылған жемпір мойны жабық</td>
-<td>дана</td>
-<td>1</td>
-<td>3</td>
+<td>17.</td>
+<td colspan="3">Жылы іш киім</td>
+<td>1 жиын.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>19</td>
-<td>Былғары жылытылған жартылай етік немесе ұзын берці бар жылытылған бәтеңке қара түсті</td>
-<td>бір жұп</td>
-<td>1</td>
-<td>2</td>
+<td>18.</td>
+<td colspan="3">Оқшауланған жылы іш киім</td>
+<td>1 жиын.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>20</td>
-<td>Жүннен тоқылған қолғап немесе теріден жасаған қолғап, қара түсті</td>
-<td>жұп</td>
-<td>2</td>
-<td>1</td>
+<td>19.</td>
+<td colspan="3">Мамықтан жасалған шұлық</td>
+<td>2 жұп</td>
+<td colspan="2">1 жыл</td>
+<td></td>
 </tr>
 <tr>
-<td>21</td>
-<td>Медициналық халат</td>
-<td>дана</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Хирургиялық костюм</td>
-<td>дана</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Химияға қарсы қорғайныш костюм</td>
-<td>жиынтық</td>
-<td>1</td>
-<td>10</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Обаға қарсы костюм</td>
-<td>жиынтық</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Қысқы құтқарушы комбинезоны</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Жазғы құтқарушы комбинезоны</td>
-<td>дана</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>27</td>
-<td>Ұйықтайтын қап</td>
-<td>дана</td>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<td>28</td>
-<td>Ұйықтайтын қапқа арналған астар</td>
-<td>дана</td>
-<td>2</td>
-<td>5</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Су өткізбейтін плащ-жамылғы</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>30</td>
-<td>Көлемі 50 л арнайы жабдыққа арналған тасымалдау қабы</td>
-<td>дана</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>31</td>
-<td>Аккумуляторлар жиынтығы бар маңдай шамы</td>
-<td>дана</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>32</td>
-<td>Металдан жасалған құтыяжка</td>
-<td>дана</td>
-<td>1</td>
-<td>7</td>
-</tr>
-<tr>
-<td>33</td>
-<td>Жеке жиынтықтағы газ жылытқышы</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>34</td>
-<td>Газ жанарғысына арналған кішкене баллон</td>
-<td>дана</td>
-<td>1</td>
-<td>пайдаланылатын ретінде</td>
-</tr>
-<tr>
-<td>35</td>
-<td>Масдан қорғаныш</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Психологқа арналған көкірекше</td>
-<td>дана</td>
-<td>16</td>
-<td>5</td>
+<td>20.</td>
+<td colspan="3">Жылы қолғап</td>
+<td>1 жұп.</td>
+<td colspan="2">3 жыл</td>
+<td></td>
 </tr>
 </table>
 
@@ -3100,143 +2987,267 @@ source: https://zan.gov.kz/client/#!/doc/159266/kaz/06.09.2021
 </tr>
 </table>
 
-## № 4.5 норма Тіршілікті қамтамасыз ету және киім-кешекпен жабдықтау
+## Құтқарушыларды киім-кешекпен қамтамасыз етудің № 4.5 Нормасы
 
 <table>
 <tr>
 <td rowspan="2">№ р/с</td>
-<td rowspan="2">Атауы</td>
-<td rowspan="2">Бір. өлш</td>
-<td colspan="3">Заттың саны</td>
-<td rowspan="2">Қызмет мерзімі (жыл)</td>
+<td colspan="2" rowspan="2">Атауы</td>
+<td colspan="2" rowspan="2">Бір. өлш.</td>
+<td colspan="8">Заттың саны</td>
+<td>Қызмет мерзімі (жыл)</td>
 </tr>
 <tr>
-<td>Орталық аппарат</td>
-<td>Филиалдар (пайдалану-техникалық басқару, пайдалану басқармасы)</td>
-<td>Бір данааттық бірлікке</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-</tr>
-<tr>
-<td colspan="7">Тіршілікті қамтамасыз ету жабдықтары</td>
+<td colspan="2">Орталық аппарат</td>
+<td colspan="3">Филиалдар (пайдалану-техникалық басқару, пайдалану басқармасы)</td>
+<td colspan="2">Бір данааттық бірлікке</td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>1</td>
-<td>40 орынды шатыр</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>-</td>
-<td>5</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td colspan="2">6</td>
+<td colspan="3">8</td>
 </tr>
 <tr>
-<td>2</td>
-<td>20 орынды шатыр</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
-<td>-</td>
-<td>5</td>
+<td colspan="14">Тіршілікті қамтамасыз ету жабдықтары</td>
 </tr>
 <tr>
-<td>3</td>
-<td>10 орынды шатыр</td>
-<td>дана</td>
-<td>1</td>
-<td>2</td>
-<td>-</td>
-<td>5</td>
+<td>1.</td>
+<td colspan="2">40-орынды шатыр</td>
+<td colspan="2">дана.</td>
+<td colspan="2">-</td>
+<td colspan="3">1</td>
+<td colspan="2">-</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
-<td>4</td>
-<td>4 орынды шатыр</td>
-<td>дана</td>
-<td>2</td>
-<td>5</td>
-<td>-</td>
-<td>5</td>
+<td>2.</td>
+<td colspan="2">20- орынды шатыр</td>
+<td colspan="2">дана.</td>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="2">-</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
-<td>5</td>
-<td>Ұйықтайтын қаптар</td>
-<td>дана</td>
-<td>10</td>
-<td>30</td>
-<td>-</td>
-<td>3</td>
+<td>3.</td>
+<td colspan="2">10- орынды шатыр</td>
+<td colspan="2">дана.</td>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="2">-</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
-<td>6</td>
-<td>Далалық ас үй</td>
-<td>дана</td>
-<td>-</td>
-<td>1</td>
-<td>-</td>
-<td>5</td>
+<td>4.</td>
+<td colspan="2">4- орынды шатыр</td>
+<td colspan="2">дана.</td>
+<td colspan="2">2</td>
+<td colspan="3">5</td>
+<td colspan="2">-</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
-<td colspan="7">Киім-жабдығымен қамтамасыз ету</td>
+<td>5.</td>
+<td colspan="2">Ұйықтайтын қаптар</td>
+<td colspan="2">дана.</td>
+<td colspan="2">10</td>
+<td colspan="3">30</td>
+<td colspan="2">-</td>
+<td colspan="3">3</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Жазғы арнайы нысанды киім</td>
-<td>жиынтық</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>2</td>
+<td>6.</td>
+<td colspan="2">Далалық ас үй</td>
+<td colspan="2">дана.</td>
+<td colspan="2">-</td>
+<td colspan="3">1</td>
+<td colspan="2">-</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
-<td>8</td>
-<td>Қысқы арнайы нысанды киім</td>
-<td>жиынтық</td>
-<td>-</td>
-<td>-</td>
-<td>1</td>
-<td>3</td>
+<td colspan="14">Киім-кешек</td>
 </tr>
 <tr>
-<td>9</td>
-<td>Резеңке етік</td>
-<td>жұп</td>
-<td>-</td>
-<td>-</td>
-<td>1*</td>
-<td>3</td>
+<td>7.</td>
+<td colspan="2">Қысқы қарда жүретін жабдық</td>
+<td colspan="2">жиын</td>
+<td colspan="2">-</td>
+<td colspan="3">-</td>
+<td colspan="2">1</td>
+<td colspan="3">7</td>
 </tr>
 <tr>
-<td>10</td>
-<td>Плащ-жамылғы</td>
-<td>дана</td>
-<td>-</td>
-<td>-</td>
-<td>1*</td>
-<td>3</td>
+<td>8.</td>
+<td colspan="2">Альпинистік етік</td>
+<td colspan="2">жиын</td>
+<td colspan="2">-</td>
+<td colspan="3">-</td>
+<td colspan="2">1</td>
+<td colspan="3">3</td>
 </tr>
 <tr>
-<td>11</td>
-<td>Қысқы қарда жүруге арналған киім жабдықтары</td>
-<td>дана</td>
-<td>-</td>
-<td>-</td>
-<td>1**</td>
-<td>7</td>
+<td>9.</td>
+<td colspan="2">Резіңке етік</td>
+<td colspan="2">жұп</td>
+<td colspan="2">-</td>
+<td colspan="3">-</td>
+<td colspan="2">1</td>
+<td colspan="3">3</td>
 </tr>
 <tr>
-<td>12</td>
-<td>Қалқымалы компенсатор (жилет)</td>
-<td>дана</td>
-<td>-</td>
-<td>-</td>
-<td>1*</td>
-<td>6</td>
+<td>10.</td>
+<td colspan="2">Плащ-жамылғы</td>
+<td colspan="2">дана.</td>
+<td colspan="2">-</td>
+<td colspan="3">-</td>
+<td colspan="2">1</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td>11.</td>
+<td colspan="2">Қалқымалы Компенсатор (көкірекшелер)</td>
+<td colspan="2">дана.</td>
+<td colspan="2">-</td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="3">6</td>
+</tr>
+<tr>
+<td colspan="14">Арнайы күнделікті киім формасы</td>
+</tr>
+<tr>
+<td>12.</td>
+<td colspan="2">Жазғы арнайы киім нысаны</td>
+<td colspan="2">жиын.</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">2</td>
+</tr>
+<tr>
+<td>13.</td>
+<td colspan="2">Қысқы арнайы киім нысаны</td>
+<td colspan="2">жиын.</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">3</td>
+</tr>
+<tr>
+<td>14.</td>
+<td colspan="2">Бір түсті футболка</td>
+<td colspan="2">жұп.</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">4</td>
+<td colspan="4">2</td>
+</tr>
+<tr>
+<td>15.</td>
+<td colspan="2">Қонышытөмен жазғы аяқ киім</td>
+<td colspan="2">жұп</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">3</td>
+</tr>
+<tr>
+<td>16.</td>
+<td colspan="2">Қонышы биік жазғы аяқ киім</td>
+<td colspan="2">жұп</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">3</td>
+</tr>
+<tr>
+<td>17.</td>
+<td colspan="2">Қысқы аяқ-киім</td>
+<td colspan="2">пара</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">3</td>
+</tr>
+<tr>
+<td>18.</td>
+<td colspan="2">Жазғы бас киім</td>
+<td colspan="2">дана.</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">2</td>
+</tr>
+<tr>
+<td>19.</td>
+<td colspan="2">Қысқы бас киім</td>
+<td colspan="2">дана.</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">3</td>
+</tr>
+<tr>
+<td>20.</td>
+<td colspan="2">Балаклава</td>
+<td colspan="2">дана.</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">3</td>
+</tr>
+<tr>
+<td colspan="14">Құрал-жабдықтар мен іш киімдер</td>
+</tr>
+<tr>
+<td>21.</td>
+<td colspan="2">Жылы іш киім</td>
+<td colspan="2">жиын.</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">3</td>
+</tr>
+<tr>
+<td>22.</td>
+<td colspan="2">Оқшауланған жылы іш киім</td>
+<td colspan="2">жиын.</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">3</td>
+</tr>
+<tr>
+<td>23.</td>
+<td colspan="2">Мамықтан жасалған шұлық</td>
+<td colspan="2">жұп</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">2</td>
+<td colspan="4">1</td>
+</tr>
+<tr>
+<td>24.</td>
+<td colspan="2">Нессесері бар сөмке (рюкзак)</td>
+<td colspan="2">жиын.</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">10</td>
+</tr>
+<tr>
+<td>25.</td>
+<td colspan="2">Жылы қолғап</td>
+<td colspan="2">жұп</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="4">3</td>
 </tr>
 </table>
 

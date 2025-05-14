@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/159266/kaz/06.09.2021
+source: https://zan.gov.kz/client/#!/doc/159266/kaz/14.05.2025
 ---
 
 > *Мемлекеттік өртке қарсы қызмет*  
