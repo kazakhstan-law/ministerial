@@ -1,5 +1,5 @@
 ---
-version_id: '159266_542980'
+version_id: '159266_759584'
 act_code: '159266'
 language: rus
 title: Об утверждении норм оснащения профессиональных аварийно-спасательных служб и обеспечения кинологических служб
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103007000000'
 approval_date: 2021-09-06
-version_date: 2021-09-06
+version_date: 2025-05-14
 registry_number: '159266'
-source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
+caused_by:
+  code: '210238'
+  title: О внесении изменений в приказ Министра по чрезвычайным ситуациям Республики Казахстан от 6 сентября 2021 года № 429 «Об утверждении норм оснащения профессиональных аварийно-спасательных служб и обеспечения кинологических служб»
+  link: https://zan.gov.kz/client/#!/doc/210238/rus
+source: https://zan.gov.kz/client/#!/doc/159266/rus/14.05.2025
 ---
 
 # Об утверждении норм оснащения профессиональных аварийно-спасательных служб и обеспечения кинологических служб
@@ -48,6 +52,8 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 > *№ 429*
 
 ## Нормы оснащения профессиональных аварийно-спасательных служб и обеспечения кинологических служб
+
+> *Сноска. Нормы с изменениями, внесенными приказом Министра по чрезвычайным ситуациям РК от 14.05.2025 № 187 (вводится в действие со дня его подписания и подлежит официальному опубликованию).*
 
 ## Норма № 1 Оснащение подразделений государственной противопожарной службы
 
@@ -4296,539 +4302,401 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 </tr>
 </table>
 
-### Норма № 1.4.7 Обеспечение экипировкой оперативно-спасательных отрядов
+### Норма № 1.4.7 Норма обеспечения обмундированием спасателей
 
 <table>
 <tr>
-<td>№ п/п</td>
-<td>Наименование</td>
-<td>Ед.изм.</td>
-<td>Количество предметов на одного человека</td>
-<td>Срок носки (год)</td>
+<td colspan="2">№ п/п</td>
+<td colspan="2">Наименование норм</td>
+<td colspan="2">Единица измерения в количественном выражении на 1 человека</td>
+<td colspan="2">Срок носки (год)</td>
+<td colspan="2">Примечание</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<td colspan="10">Обмундирование</td>
 </tr>
 <tr>
-<td colspan="5">Обмундирование</td>
+<td colspan="2">1.</td>
+<td colspan="2">Штормовая ветрозащитная одежда</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>1.</td>
-<td>Рубашка с длинным рукавом хлопчатобумажная</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">2.</td>
+<td colspan="2">Комбинезон спасателя зимний</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>2.</td>
-<td>Рубашка с коротким рукавом хлопчатобумажная</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">3.</td>
+<td colspan="2">Комбинезон спасателя летний</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Специальная форма одежды спасателя, летняя</td>
-<td>компл</td>
-<td>2</td>
-<td>1</td>
+<td colspan="2">4.</td>
+<td colspan="2">Свитер шерстяной с высоким воротом</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Специальная форма одежды спасателя, зимняя</td>
-<td>компл</td>
-<td>1</td>
-<td>3</td>
+<td colspan="2">5.</td>
+<td colspan="2">Куртка пуховая</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Костюм рабочий хлопчатобумажный</td>
-<td>компл</td>
-<td>2</td>
-<td>1</td>
+<td colspan="2">6.</td>
+<td colspan="2">Жилет пуховой</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Костюм утепленный, ветрозащитный (высотный-зимний)</td>
-<td>компл</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">7.</td>
+<td colspan="2">Костюм спортивный, тренировочный</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Специальная форма одежды спасателя, парадная</td>
-<td>компл</td>
-<td>1</td>
-<td>3</td>
+<td colspan="2">8.</td>
+<td colspan="2">Сапоги резиновые</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">4 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Штормовая ветрозащитная одежда (куртка, брюки-самосбросы)</td>
-<td>компл</td>
-<td>1</td>
-<td>3</td>
+<td colspan="2">9.</td>
+<td colspan="2">Обувь под летний комбинезон</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Комбинезон рабочий хлопчатобумажный (рабочий)</td>
-<td>шт</td>
-<td>2</td>
-<td>1</td>
+<td colspan="2">10.</td>
+<td colspan="2">Обувь под зимний комбинезон</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>10.</td>
-<td>Комбинезон спасателя зимний</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">11.</td>
+<td colspan="2">Унты</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Комбинезон спасателя летний</td>
-<td>шт</td>
-<td>2</td>
-<td>1</td>
+<td colspan="2">12.</td>
+<td colspan="2">Плащ-накидка</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">4 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Головной убор летний (кепка)</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
+<td colspan="10">Специальное обмундирование</td>
 </tr>
 <tr>
-<td>13.</td>
-<td>Белье нательное, х/б</td>
-<td>компл</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">13.</td>
+<td colspan="2">Наколенники и налокотники амортизационные</td>
+<td colspan="2">2 комп.</td>
+<td colspan="2">1 год</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>14.</td>
-<td>Ботинки с высоким берцем летние</td>
-<td>пара</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">14.</td>
+<td colspan="2">Жилет разгрузочный</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>15.</td>
-<td>Ботинки с высоким берцем зимние</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">15.</td>
+<td colspan="2">Легкий защитный костюм типа «Л-1»</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">6 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>16.</td>
-<td>Бахилы утепленные</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">16.</td>
+<td colspan="2">Ботинки альпинистские</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>17.</td>
-<td>Бахилы защитные</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">17.</td>
+<td colspan="2">Туфли скальные</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>18.</td>
-<td>Белье нательное, шерстяное</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">18.</td>
+<td colspan="2">Кроссовки трекинговые, повышенной прочности</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>19.</td>
-<td>Перчатки рабочие шерстяные</td>
-<td>пара</td>
-<td>5</td>
-<td>1</td>
+<td colspan="2">19.</td>
+<td colspan="2">Перчатки горные</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>20.</td>
-<td>Рукавицы рабочие брезентовые</td>
-<td>пара</td>
-<td>10</td>
-<td>1</td>
+<td colspan="2">20.</td>
+<td colspan="2">Перчатки горные усиленные для страховки</td>
+<td colspan="2">5 пар</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>21.</td>
-<td>Рукавицы рабочие шерстяные</td>
-<td>пара</td>
-<td>10</td>
-<td>1</td>
+<td colspan="2">21.</td>
+<td colspan="2">Перчатки диэлектрические латексные</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">5 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>22.</td>
-<td>Рукавицы пуховые</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">22.</td>
+<td colspan="2">Костюм для работы на льду</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">6 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>23.</td>
-<td>Свитер шерстяной с высоким воротом</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
+<td colspan="2">23.</td>
+<td colspan="2">Костюм для работы в купальный период</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>24.</td>
-<td>Подшлемник</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">24.</td>
+<td colspan="2">Цельный водонепроницаемый комбинезон с капюшоном и ботами</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">6 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>25.</td>
-<td>Маска ветрозащитная</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td colspan="10">Специальная повседневная форма одежды</td>
 </tr>
 <tr>
-<td>26.</td>
-<td>Жилет пуховой</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
+<td colspan="2">25.</td>
+<td colspan="2">Летняя специальная повседневная форма одежда</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>27.</td>
-<td>Костюм спортивный, тренировочный</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">26.</td>
+<td colspan="2">Зимняя специальная повседневная одежда</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>28.</td>
-<td>Куртка пуховая</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
+<td colspan="2">27.</td>
+<td colspan="2">Футболка однотонного цвета</td>
+<td colspan="2">4 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>29.</td>
-<td>Свитер шерстяной полувер</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
+<td colspan="2">28.</td>
+<td colspan="2">Обувь летняя с низкими берцами</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>30.</td>
-<td>Термо белье</td>
-<td>компл</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">29.</td>
+<td colspan="2">Обувь летняя с высокими берцами</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>31.</td>
-<td>Футболка с коротким рукавом</td>
-<td>шт</td>
-<td>2</td>
-<td>1</td>
+<td colspan="2">30.</td>
+<td colspan="2">Обувь зимняя</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>32.</td>
-<td>Головной убор зимний (шапка шерстяная, шапка ушанка)</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">31.</td>
+<td colspan="2">Головной убор летний</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>33.</td>
-<td>Сапоги резиновые</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">32.</td>
+<td colspan="2">Головной убор зимний</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>34.</td>
-<td>Туфли форменные, черные</td>
-<td>пара</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">33.</td>
+<td colspan="2">Балаклава</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>35.</td>
-<td>Перчатки рабочие кожаные</td>
-<td>пара</td>
-<td>5</td>
-<td>1</td>
+<td colspan="10">Аксессуары, снаряжение и белье</td>
 </tr>
 <tr>
-<td>36.</td>
-<td>Перчатки рабочие х/б</td>
-<td>пара</td>
-<td>30</td>
-<td>1</td>
+<td colspan="10"></td>
 </tr>
 <tr>
-<td>37.</td>
-<td>Куртка и брюки спасателя летние</td>
-<td>компл.</td>
-<td>2</td>
-<td>2</td>
+<td colspan="2">34.</td>
+<td colspan="2">Спальный мешок (t -10 -30)</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">5 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>38.</td>
-<td>Куртка и брюки спасателя зимние (утепленные)</td>
-<td>компл.</td>
-<td>2</td>
-<td>3</td>
+<td colspan="2">35.</td>
+<td colspan="2">Спальный мешок (t -+5 -5)</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">5 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>39.</td>
-<td>Куртка и брюки спасателя демисезонные</td>
-<td>компл.</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">36.</td>
+<td colspan="2">Транспортировочный мешок для бивуачного снаряжения</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>40.</td>
-<td>Унты</td>
-<td>пара</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">37.</td>
+<td colspan="2">Рюкзак малогабаритный</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>41.</td>
-<td>Шапочка спортивная шерстяная</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">38.</td>
+<td colspan="2">Рюкзак экспедиционный</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">5 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>42.</td>
-<td>Шорты</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">39.</td>
+<td colspan="2">Перчатки черного цвета</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>43.</td>
-<td>Сандали</td>
-<td>пара</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">40.</td>
+<td colspan="2">Перчатки рабочие шерстяные</td>
+<td colspan="2">5 пар</td>
+<td colspan="2">1 год</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>44.</td>
-<td>Бейсболка</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">41.</td>
+<td colspan="2">Перчатки рабочие х/б</td>
+<td colspan="2">30 пар</td>
+<td colspan="2">1 год</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>45.</td>
-<td>Полусапожки кожаные утепленные черного цвета</td>
-<td>пара</td>
-<td>1</td>
-<td>3</td>
+<td colspan="2">42.</td>
+<td colspan="2">Перчатки резиновые, медицинские</td>
+<td colspan="2">500 пар</td>
+<td colspan="2">по мере использования</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="5">Специальное обмундирование</td>
+<td colspan="2">43.</td>
+<td colspan="2">Рукавицы рабочие брезентовые</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>46.</td>
-<td>Наколенники и налокотники амортизационные</td>
-<td>компл.</td>
-<td>2</td>
-<td>1</td>
+<td colspan="2">44.</td>
+<td colspan="2">Рукавицы пуховые</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">4 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>47.</td>
-<td>Перчатки резиновые, медицинские</td>
-<td>пара</td>
-<td>500</td>
-<td>по мере использования</td>
+<td colspan="2">45.</td>
+<td colspan="2">Термобелье</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>48.</td>
-<td>Жилет разгрузочный</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">46.</td>
+<td colspan="2">Термобелье утепленное</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>49.</td>
-<td>Накомарник</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">47.</td>
+<td colspan="2">Термоноски</td>
+<td colspan="2">2 пары</td>
+<td colspan="2">1 год</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>50.</td>
-<td>Коврик полиуретановый</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
+<td colspan="2">48.</td>
+<td colspan="2">Бахилы утепленные</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">4 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>51.</td>
-<td>Спальный мешок (t -10 -30)</td>
-<td>шт</td>
-<td>1</td>
-<td>5</td>
+<td colspan="2">49.</td>
+<td colspan="2">Бахилы защитные</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">4 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>52.</td>
-<td>Спальный мешок (t -+5 -5)</td>
-<td>шт</td>
-<td>1</td>
-<td>5</td>
+<td colspan="2">50.</td>
+<td colspan="2">Подшлемник</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">1 год</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>53.</td>
-<td>Плащ-накидка водонепроницаемая</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td colspan="2">51.</td>
+<td colspan="2">Накомарник</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>54.</td>
-<td>Транспортировочный мешок для бивуачного снаряжения</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
+<td colspan="2">52.</td>
+<td colspan="2">Маска ветрозащитная</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>55.</td>
-<td>Фляжка для воды</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>56.</td>
-<td>Гермобаул</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>57.</td>
-<td>Рюкзак малогабаритный</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>58.</td>
-<td>Рюкзак экспедиционный</td>
-<td>шт</td>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<td>59.</td>
-<td>Аптечка медицинская индивидуальная</td>
-<td>компл</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>60.</td>
-<td>Плащ-накидка</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>61.</td>
-<td>Противогаз изолирующий с панорамной маской</td>
-<td>шт</td>
-<td>1</td>
-<td>6</td>
-</tr>
-<tr>
-<td>62.</td>
-<td>Легкий защитный костюм типа &quot;Л-1&quot;</td>
-<td>компл</td>
-<td>1</td>
-<td>6</td>
-</tr>
-<tr>
-<td>63.</td>
-<td>Ботинки трекинговые</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>64.</td>
-<td>Ботинки высокогорные, пластиковые с вкладышем</td>
-<td>пара</td>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<td>65.</td>
-<td>Туфли скальные</td>
-<td>пара</td>
-<td>3</td>
-<td>1</td>
-</tr>
-<tr>
-<td>66.</td>
-<td>Кроссовки трекинковые, повышенной прочности</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>67.</td>
-<td>Ботинки высотные под кошки</td>
-<td>пара</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>68.</td>
-<td>Перчатки горные, полэртэкс</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>69.</td>
-<td>Перчатки горные усиленные для страховки</td>
-<td>пара</td>
-<td>5</td>
-<td>3</td>
-</tr>
-<tr>
-<td>70.</td>
-<td>Перчатки диэлектрические латексные</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>71.</td>
-<td>Очки защитные</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>72.</td>
-<td>Костюм для работы на льду</td>
-<td>компл</td>
-<td>1</td>
-<td>6</td>
-</tr>
-<tr>
-<td>73.</td>
-<td>Цельный водонепроницаемый комбинезон с капюшоном и ботами</td>
-<td>компл</td>
-<td>1</td>
-<td>6</td>
+<td colspan="2">53.</td>
+<td colspan="2">Сумка (рюкзак) с несессером</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">10 лет</td>
+<td colspan="2"></td>
 </tr>
 </table>
 
@@ -11732,539 +11600,401 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 </tr>
 </table>
 
-### Норма № 2.4 Обеспечение экипировкой
+### Норма № 2.4 Обеспечение обмундированием спасателей
 
 <table>
 <tr>
-<td>№ п/п</td>
-<td colspan="5">Наименование</td>
-<td colspan="3">Ед.изм.</td>
-<td colspan="3">Количество предметов на одного человека</td>
+<td colspan="2">№ п/п</td>
+<td colspan="2">Наименование норм</td>
+<td colspan="2">Единица измерения в количественном выражении на 1 человека</td>
 <td colspan="2">Срок носки (год)</td>
+<td colspan="2">Примечание</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="5">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td colspan="2">5</td>
+<td colspan="10">Обмундирование</td>
 </tr>
 <tr>
-<td colspan="14">Обмундирование</td>
+<td colspan="2">1.</td>
+<td colspan="2">Штормовая ветрозащитная одежда</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>1.</td>
-<td colspan="5">Рубашка с длинным рукавом хлопчатобумажная</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">2.</td>
+<td colspan="2">Комбинезон спасателя зимний</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>2.</td>
-<td colspan="5">Рубашка с коротким рукавом хлопчатобумажная</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">3.</td>
+<td colspan="2">Комбинезон спасателя летний</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>3.</td>
-<td colspan="5">Специальная форма одежды спасателя, летняя</td>
-<td colspan="3">компл</td>
-<td colspan="3">2</td>
-<td colspan="2">1</td>
+<td colspan="2">4.</td>
+<td colspan="2">Свитер шерстяной с высоким воротом</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>4.</td>
-<td colspan="5">Специальная форма одежды спасателя, зимняя</td>
-<td colspan="3">компл</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">5.</td>
+<td colspan="2">Куртка пуховая</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>5.</td>
-<td colspan="5">Костюм рабочий хлопчатобумажный</td>
-<td colspan="3">компл</td>
-<td colspan="3">2</td>
-<td colspan="2">1</td>
+<td colspan="2">6.</td>
+<td colspan="2">Жилет пуховой</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>6.</td>
-<td colspan="5">Костюм утепленный, ветрозащитный (высотный-зимний)</td>
-<td colspan="3">компл</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">7.</td>
+<td colspan="2">Костюм спортивный, тренировочный</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>7.</td>
-<td colspan="5">Специальная форма одежды спасателя, парадная</td>
-<td colspan="3">компл</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">8.</td>
+<td colspan="2">Сапоги резиновые</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">4 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>8.</td>
-<td colspan="5">Штормовая ветрозащитная одежда (куртка, брюки-самосбросы)</td>
-<td colspan="3">компл</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">9.</td>
+<td colspan="2">Обувь под летний комбинезон</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>9.</td>
-<td colspan="5">Комбинезон рабочий хлопчатобумажный (рабочий)</td>
-<td colspan="3">шт</td>
-<td colspan="3">2</td>
-<td colspan="2">1</td>
+<td colspan="2">10.</td>
+<td colspan="2">Обувь под зимний комбинезон</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>10.</td>
-<td colspan="5">Комбинезон спасателя зимний</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">11.</td>
+<td colspan="2">Унты</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>11.</td>
-<td colspan="5">Комбинезон спасателя летний</td>
-<td colspan="3">шт</td>
-<td colspan="3">2</td>
-<td colspan="2">1</td>
+<td colspan="2">12.</td>
+<td colspan="2">Плащ-накидка</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">4 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>12.</td>
-<td colspan="5">Головной убор летний (кепка, берет)</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="10">Специальное обмундирование</td>
 </tr>
 <tr>
-<td>13.</td>
-<td colspan="5">Белье нательное, х/б</td>
-<td colspan="3">компл</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">13.</td>
+<td colspan="2">Наколенники и налокотники амортизационные</td>
+<td colspan="2">2 комп.</td>
+<td colspan="2">1 год</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>14.</td>
-<td colspan="5">Ботинки с высоким берцем летние</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">14.</td>
+<td colspan="2">Жилет разгрузочный</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>15.</td>
-<td colspan="5">Ботинки с высоким берцем зимние</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">15.</td>
+<td colspan="2">Легкий защитный костюм типа «Л-1»</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">6 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>16.</td>
-<td colspan="5">Бахилы утепленные</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">16.</td>
+<td colspan="2">Ботинки альпинистские</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>17.</td>
-<td colspan="5">Бахилы защитные</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">17.</td>
+<td colspan="2">Туфли скальные</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>18.</td>
-<td colspan="5">Белье нательное, шерстяное</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">18.</td>
+<td colspan="2">Кроссовки трекинговые, повышенной прочности</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>19.</td>
-<td colspan="5">Перчатки рабочие шерстяные</td>
-<td colspan="3">пара</td>
-<td colspan="3">5</td>
-<td colspan="2">1</td>
+<td colspan="2">19.</td>
+<td colspan="2">Перчатки горные</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>20.</td>
-<td colspan="5">Рукавицы рабочие брезентовые</td>
-<td colspan="3">пара</td>
-<td colspan="3">10</td>
-<td colspan="2">1</td>
+<td colspan="2">20.</td>
+<td colspan="2">Перчатки горные усиленные для страховки</td>
+<td colspan="2">5 пар</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>21.</td>
-<td colspan="5">Рукавицы рабочие шерстяные</td>
-<td colspan="3">пара</td>
-<td colspan="3">10</td>
-<td colspan="2">1</td>
+<td colspan="2">21.</td>
+<td colspan="2">Перчатки диэлектрические латексные</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">5 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>22.</td>
-<td colspan="5">Рукавицы пуховые</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">22.</td>
+<td colspan="2">Костюм для работы на льду</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">6 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>23.</td>
-<td colspan="5">Свитер шерстяной с высоким воротом</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">23.</td>
+<td colspan="2">Костюм для работы в купальный период</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>24.</td>
-<td colspan="5">Подшлемник</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">24.</td>
+<td colspan="2">Цельный водонепроницаемый комбинезон с капюшоном и ботами</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">6 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>25.</td>
-<td colspan="5">Маска ветрозащитная</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="10">Специальная повседневная форма одежды</td>
 </tr>
 <tr>
-<td>26.</td>
-<td colspan="5">Жилет пуховой</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">25.</td>
+<td colspan="2">Летняя специальная повседневная форма одежда</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>27.</td>
-<td colspan="5">Костюм спортивный, тренировочный</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">26.</td>
+<td colspan="2">Зимняя специальная повседневная одежда</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>28.</td>
-<td colspan="5">Куртка пуховая</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">27.</td>
+<td colspan="2">Футболка однотонного цвета</td>
+<td colspan="2">4 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>29.</td>
-<td colspan="5">Свитер шерстяной полувер</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">28.</td>
+<td colspan="2">Обувь летняя с низкими берцами</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>30.</td>
-<td colspan="5">Термо белье</td>
-<td colspan="3">компл</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">29.</td>
+<td colspan="2">Обувь летняя с высокими берцами</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>31.</td>
-<td colspan="5">Футболка с коротким рукавом</td>
-<td colspan="3">шт</td>
-<td colspan="3">2</td>
-<td colspan="2">1</td>
+<td colspan="2">30.</td>
+<td colspan="2">Обувь зимняя</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>32.</td>
-<td colspan="5">Головной убор зимний (шапка шерстяная, шапка ушанка)</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">31.</td>
+<td colspan="2">Головной убор летний</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>33.</td>
-<td colspan="5">Сапоги резиновые</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">32.</td>
+<td colspan="2">Головной убор зимний</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>34.</td>
-<td colspan="5">Туфли форменные, черные</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">33.</td>
+<td colspan="2">Балаклава</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>35.</td>
-<td colspan="5">Перчатки рабочие кожаные</td>
-<td colspan="3">пара</td>
-<td colspan="3">5</td>
-<td colspan="2">1</td>
+<td colspan="10">Аксессуары, снаряжение и белье</td>
 </tr>
 <tr>
-<td>36.</td>
-<td colspan="5">Перчатки рабочие х/б</td>
-<td colspan="3">пара</td>
-<td colspan="3">30</td>
-<td colspan="2">1</td>
+<td colspan="10"></td>
 </tr>
 <tr>
-<td>37.</td>
-<td colspan="5">Куртка и брюки спасателя летние</td>
-<td colspan="3">компл.</td>
-<td colspan="3">2</td>
-<td colspan="2">2</td>
+<td colspan="2">34.</td>
+<td colspan="2">Спальный мешок (t -10 -30)</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">5 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>38.</td>
-<td colspan="5">Куртка и брюки спасателя зимние (утепленные)</td>
-<td colspan="3">компл.</td>
-<td colspan="3">2</td>
-<td colspan="2">3</td>
+<td colspan="2">35.</td>
+<td colspan="2">Спальный мешок (t -+5 -5)</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">5 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>39.</td>
-<td colspan="5">Куртка и брюки спасателя демисезонные</td>
-<td colspan="3">компл.</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">36.</td>
+<td colspan="2">Транспортировочный мешок для бивуачного снаряжения</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>40.</td>
-<td colspan="5">Унты</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">37.</td>
+<td colspan="2">Рюкзак малогабаритный</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>41.</td>
-<td colspan="5">Шапочка спортивная шерстяная</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">38.</td>
+<td colspan="2">Рюкзак экспедиционный</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">5 лет</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>42.</td>
-<td colspan="5">Шорты</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">39.</td>
+<td colspan="2">Перчатки черного цвета</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>43.</td>
-<td colspan="5">Сандали</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">40.</td>
+<td colspan="2">Перчатки рабочие шерстяные</td>
+<td colspan="2">5 пар</td>
+<td colspan="2">1 год</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>44.</td>
-<td colspan="5">Бейсболка</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">41.</td>
+<td colspan="2">Перчатки рабочие х/б</td>
+<td colspan="2">30 пар</td>
+<td colspan="2">1 год</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>45.</td>
-<td colspan="5">Полусапожки кожаные утепленные черного цвета</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="14">Специальное обмундирование</td>
-</tr>
-<tr>
-<td>46.</td>
-<td colspan="5">Наколенники и налокотники амортизационные</td>
-<td colspan="3">компл.</td>
-<td colspan="3">2</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>47.</td>
-<td colspan="5">Перчатки резиновые, медицинские</td>
-<td colspan="3">пара</td>
-<td colspan="3">500</td>
+<td colspan="2">42.</td>
+<td colspan="2">Перчатки резиновые, медицинские</td>
+<td colspan="2">500 пар</td>
 <td colspan="2">по мере использования</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>48.</td>
-<td colspan="5">Жилет разгрузочный</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">43.</td>
+<td colspan="2">Рукавицы рабочие брезентовые</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>49.</td>
-<td colspan="5">Накомарник</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">44.</td>
+<td colspan="2">Рукавицы пуховые</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">4 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>50.</td>
-<td colspan="5">Коврик полиуретановый</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
+<td colspan="2">45.</td>
+<td colspan="2">Термобелье</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>51.</td>
-<td colspan="5">Спальный мешок (t -10 -30)</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">5</td>
+<td colspan="2">46.</td>
+<td colspan="2">Термобелье утепленное</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>52.</td>
-<td colspan="5">Спальный мешок (t -+5 -5)</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">5</td>
+<td colspan="2">47.</td>
+<td colspan="2">Термоноски</td>
+<td colspan="2">2 пары</td>
+<td colspan="2">1 год</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>53.</td>
-<td colspan="5">Плащ-накидка водонепроницаемая</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
+<td colspan="2">48.</td>
+<td colspan="2">Бахилы утепленные</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">4 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>54.</td>
-<td colspan="5">Транспортировочный мешок для бивуачного снаряжения</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">49.</td>
+<td colspan="2">Бахилы защитные</td>
+<td colspan="2">1 пара</td>
+<td colspan="2">4 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>55.</td>
-<td colspan="5">Фляжка для воды</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">50.</td>
+<td colspan="2">Подшлемник</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">1 год</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>56.</td>
-<td colspan="5">Гермобаул</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">51.</td>
+<td colspan="2">Накомарник</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">2 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>57.</td>
-<td colspan="5">Рюкзак малогабаритный</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
+<td colspan="2">52.</td>
+<td colspan="2">Маска ветрозащитная</td>
+<td colspan="2">1 шт.</td>
+<td colspan="2">3 года</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>58.</td>
-<td colspan="5">Рюкзак экспедиционный</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">5</td>
-</tr>
-<tr>
-<td>59.</td>
-<td colspan="5">Аптечка медицинская индивидуальная</td>
-<td colspan="3">компл</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>60.</td>
-<td colspan="5">Плащ-накидка</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td>61.</td>
-<td colspan="5">Противогаз изолирующий с панорамной маской</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">6</td>
-</tr>
-<tr>
-<td>62.</td>
-<td colspan="5">Легкий защитный костюм типа &quot;Л-1&quot;</td>
-<td colspan="3">компл</td>
-<td colspan="3">1</td>
-<td colspan="2">6</td>
-</tr>
-<tr>
-<td>63.</td>
-<td colspan="5">Ботинки трекинговые</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td>64.</td>
-<td colspan="5">Ботинки высокогорные, пластиковые с вкладышем</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">5</td>
-</tr>
-<tr>
-<td>65.</td>
-<td colspan="5">Туфли скальные</td>
-<td colspan="3">пара</td>
-<td colspan="3">3</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>66.</td>
-<td colspan="5">Кроссовки трекинковые, повышенной прочности</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td>67.</td>
-<td colspan="5">Ботинки высотные под кошки</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td>68.</td>
-<td colspan="5">Перчатки горные, полэртэкс</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td>69.</td>
-<td colspan="5">Перчатки горные усиленные для страховки</td>
-<td colspan="3">пара</td>
-<td colspan="3">5</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td>70.</td>
-<td colspan="5">Перчатки диэлектрические латексные</td>
-<td colspan="3">пара</td>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td>71.</td>
-<td colspan="5">Очки защитные</td>
-<td colspan="3">шт</td>
-<td colspan="3">1</td>
-<td colspan="2">1</td>
-</tr>
-<tr>
-<td>72.</td>
-<td colspan="5">Костюм для работы на льду</td>
-<td colspan="3">компл</td>
-<td colspan="3">1</td>
-<td colspan="2">6</td>
-</tr>
-<tr>
-<td>73.</td>
-<td colspan="5">Цельный водонепроницаемый комбинезон с капюшоном и ботами</td>
-<td colspan="3">компл</td>
-<td colspan="3">1</td>
-<td colspan="2">6</td>
+<td colspan="2">53.</td>
+<td colspan="2">Сумка (рюкзак) с несессером</td>
+<td colspan="2">1 комп.</td>
+<td colspan="2">10 лет</td>
+<td colspan="2"></td>
 </tr>
 </table>
 
@@ -19230,277 +18960,164 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 </tr>
 </table>
 
-### Норма № 3.6 Обеспечение экипировкой
+### Норма 3.6 Обеспечение обмундированием и снаряжением
 
 <table>
 <tr>
-<td>№ п/п</td>
-<td>Наименование</td>
-<td>Единица измерения</td>
-<td>Количество предметов на одного человека</td>
-<td>Сроки носки (год)</td>
+<td></td>
+<td>Наименование норм</td>
+<td colspan="2">Единица измерения в количественном выражении на 1 человека</td>
+<td>Срок носки (год)</td>
+<td colspan="2">Примечание</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<td colspan="7">Обмундирование</td>
 </tr>
 <tr>
-<td colspan="5">Обмундирование: Летняя одежда</td>
+<td>1.</td>
+<td colspan="2">Костюм противочумный</td>
+<td>1 комп.</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
-<td>Фуражка полевая (кепи)</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
+<td>2.</td>
+<td colspan="2">Халат медицинский</td>
+<td>1 шт.</td>
+<td colspan="2">1 год</td>
+<td></td>
 </tr>
 <tr>
-<td>2</td>
-<td>Футболка</td>
-<td>шт</td>
-<td>2</td>
-<td>1</td>
+<td>3.</td>
+<td colspan="2">Хирургический костюм</td>
+<td>2 шт.</td>
+<td colspan="2">1 год</td>
+<td></td>
 </tr>
 <tr>
-<td>3</td>
-<td>Куртка на молнии</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td>4.</td>
+<td colspan="2">Жилет сигнальный</td>
+<td>1 шт.</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>4</td>
-<td>Рубашка с короткими рукавами</td>
-<td>шт</td>
-<td>2</td>
-<td>1</td>
+<td>5.</td>
+<td colspan="2">Сапоги резиновые</td>
+<td>1 пара</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>5</td>
-<td>Рубашка с длинными рукавами</td>
-<td>шт</td>
-<td>2</td>
-<td>1</td>
+<td>6.</td>
+<td colspan="2">Плащ-накидка</td>
+<td>1 шт.</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>6</td>
-<td>Брюки прямого покроя</td>
-<td>шт</td>
-<td>2</td>
-<td>1</td>
+<td colspan="7">Специальная повседневная форма одежды</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Комбинезон</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td>7.</td>
+<td colspan="2">Летняя специальная повседневная форма одежда</td>
+<td>1 комп.</td>
+<td colspan="2">2 года</td>
+<td></td>
 </tr>
 <tr>
-<td>8</td>
-<td>Ремень шириной 5 см. с застежкой</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td>8.</td>
+<td colspan="2">Зимняя специальная повседневная одежда</td>
+<td>1 комп.</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>9</td>
-<td>Туфли черного цвета</td>
-<td>пара</td>
-<td>1</td>
-<td>1</td>
+<td>9.</td>
+<td colspan="2">Футболка однотонного цвета</td>
+<td>4 шт.</td>
+<td colspan="2">2 года</td>
+<td></td>
 </tr>
 <tr>
-<td>10</td>
-<td>Носки черного цвета</td>
-<td>пара</td>
-<td>6</td>
-<td>1</td>
+<td>10.</td>
+<td colspan="2">Обувь летняя с низкими берцами</td>
+<td>1 пара</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>11</td>
-<td>Плащ-накидка</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td>11.</td>
+<td colspan="2">Обувь летняя с высокими берцами</td>
+<td>1 пара</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>12</td>
-<td>Сапоги резиновые</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
+<td>12.</td>
+<td colspan="2">Обувь зимняя</td>
+<td>1 пара</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>13</td>
-<td>Ботинки с высокими берцами черного цвета</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
+<td>13.</td>
+<td colspan="2">Головной убор летний</td>
+<td>1 шт.</td>
+<td colspan="2">2 года</td>
+<td></td>
 </tr>
 <tr>
-<td>14</td>
-<td>Шапка зимняя</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
+<td>14.</td>
+<td colspan="2">Головной убор зимний</td>
+<td>1 шт.</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>15</td>
-<td>Утепленная куртка на молнии с отстегивающимся капюшоном и меховым воротником (удлиненная - чуть выше колен)</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
+<td>15.</td>
+<td colspan="2">Балаклава</td>
+<td>1 шт.</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>16</td>
-<td>Утепленные брюки прямого покроя</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td colspan="7">Снаряжение и белье</td>
 </tr>
 <tr>
-<td>17</td>
-<td>Комбинезон утепленный</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
+<td>16.</td>
+<td colspan="2">Сумка (рюкзак) с несессером</td>
+<td>1 комп.</td>
+<td colspan="2">10 лет</td>
+<td></td>
 </tr>
 <tr>
-<td>18</td>
-<td>Свитер шерстяной с закрытой горловиной</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
+<td>17.</td>
+<td colspan="2">Термобелье</td>
+<td>1 комп.</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>19</td>
-<td>Полусапожки хромовые утепленные или ботинки с высокими берцами утепленные черного цвета</td>
-<td>пара</td>
-<td>1</td>
-<td>2</td>
+<td>18.</td>
+<td colspan="2">Термобелье утепленное</td>
+<td>1 комп.</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 <tr>
-<td>20</td>
-<td>Перчатки шерстяные или кожаные черного цвета</td>
-<td>пара</td>
-<td>2</td>
-<td>1</td>
+<td>19.</td>
+<td colspan="2">Термоноски</td>
+<td>2 пары</td>
+<td colspan="2">1 год</td>
+<td></td>
 </tr>
 <tr>
-<td>21</td>
-<td>Халат медицинский</td>
-<td>шт</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Хирургический костюм</td>
-<td>шт</td>
-<td>2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Костюм защитный противохимический</td>
-<td>компл</td>
-<td>1</td>
-<td>10</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Костюм противочумный</td>
-<td>компл</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Комбинезон спасателя зимний</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Комбинезон спасателя летний</td>
-<td>шт</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>27</td>
-<td>Спальный мешок</td>
-<td>шт</td>
-<td>1</td>
-<td>5</td>
-</tr>
-<tr>
-<td>28</td>
-<td>Вкладыш для спального мешка</td>
-<td>шт</td>
-<td>2</td>
-<td>5</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Плащ-накидка водонепроницаемая</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>30</td>
-<td>Транспортировочный мешок для специального снаряжения объемом 50 л</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>31</td>
-<td>Фонарь налобный с комплектом аккумуляторов</td>
-<td>шт</td>
-<td>1</td>
-<td>3</td>
-</tr>
-<tr>
-<td>32</td>
-<td>Фляжка металлическая</td>
-<td>шт</td>
-<td>1</td>
-<td>7</td>
-</tr>
-<tr>
-<td>33</td>
-<td>Газовая горелка, индивидуальная в комплекте</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>34</td>
-<td>Баллончик для газовой горелки</td>
-<td>шт</td>
-<td>1</td>
-<td>по мере использования</td>
-</tr>
-<tr>
-<td>35</td>
-<td>Накомарник</td>
-<td>шт</td>
-<td>1</td>
-<td>2</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Жилет для психолога</td>
-<td>шт</td>
-<td>16</td>
-<td>5</td>
+<td>20.</td>
+<td colspan="2">Перчатки утепленные</td>
+<td>1 пара</td>
+<td colspan="2">3 года</td>
+<td></td>
 </tr>
 </table>
 
@@ -21169,7 +20786,7 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 </tr>
 </table>
 
-### Норма № 4.5 Снаряжение жизнеобеспечения и экипировкой
+### Норма № 4.5 Обеспечение обмундированием и снаряжением
 
 <table>
 <tr>
@@ -21198,7 +20815,7 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 <td colspan="7">Снаряжение жизнеобеспечения</td>
 </tr>
 <tr>
-<td>1</td>
+<td>1.</td>
 <td>Палатка 40-местная</td>
 <td>шт.</td>
 <td>-</td>
@@ -21207,7 +20824,7 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 <td>5</td>
 </tr>
 <tr>
-<td>2</td>
+<td>2.</td>
 <td>Палатка 20-местная</td>
 <td>шт.</td>
 <td>1</td>
@@ -21216,7 +20833,7 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 <td>5</td>
 </tr>
 <tr>
-<td>3</td>
+<td>3.</td>
 <td>Палатка 10-местная</td>
 <td>шт.</td>
 <td>1</td>
@@ -21225,7 +20842,7 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 <td>5</td>
 </tr>
 <tr>
-<td>4</td>
+<td>4.</td>
 <td>Палатка 4-местная</td>
 <td>шт.</td>
 <td>2</td>
@@ -21234,7 +20851,7 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 <td>5</td>
 </tr>
 <tr>
-<td>5</td>
+<td>5.</td>
 <td>Спальные мешки</td>
 <td>шт.</td>
 <td>10</td>
@@ -21243,7 +20860,7 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 <td>3</td>
 </tr>
 <tr>
-<td>6</td>
+<td>6.</td>
 <td>Кухня полевая</td>
 <td>шт.</td>
 <td>-</td>
@@ -21252,20 +20869,20 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 <td>5</td>
 </tr>
 <tr>
-<td colspan="7">Обеспечение экипировкой</td>
+<td colspan="7">Обмундирование</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Летняя специальная форменная одежда</td>
+<td>7.</td>
+<td>Зимняя снегоходная экипировка</td>
 <td>компл</td>
 <td>-</td>
 <td>-</td>
 <td>1</td>
-<td>2</td>
+<td>7</td>
 </tr>
 <tr>
-<td>8</td>
-<td>Зимняя специальная форменная одежда</td>
+<td>8.</td>
+<td>Ботинки альпинистские</td>
 <td>компл</td>
 <td>-</td>
 <td>-</td>
@@ -21273,40 +20890,163 @@ source: https://zan.gov.kz/client/#!/doc/159266/rus/06.09.2021
 <td>3</td>
 </tr>
 <tr>
-<td>9</td>
+<td>9.</td>
 <td>Сапоги резиновые</td>
 <td>пара</td>
 <td>-</td>
 <td>-</td>
-<td>1*</td>
+<td>1</td>
 <td>3</td>
 </tr>
 <tr>
-<td>10</td>
+<td>10.</td>
 <td>Плащ-накидка</td>
 <td>шт.</td>
 <td>-</td>
 <td>-</td>
-<td>1*</td>
+<td>1</td>
 <td>3</td>
 </tr>
 <tr>
-<td>11</td>
-<td>Зимняя снегоходная экипировка</td>
-<td>шт.</td>
-<td></td>
-<td></td>
-<td>1*</td>
-<td>7</td>
-</tr>
-<tr>
-<td>12</td>
+<td>11.</td>
 <td>Компенсатор (жилеты) плавучести</td>
 <td>шт.</td>
 <td>-</td>
 <td></td>
-<td>1*</td>
+<td>1</td>
 <td>6</td>
+</tr>
+<tr>
+<td colspan="7">Специальная повседневная форма одежды</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Летняя специальная повседневная форма одежда</td>
+<td>комп.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Зимняя специальная повседневная одежда</td>
+<td>комп.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Футболка однотонного цвета</td>
+<td>шт.</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>Обувь летняя с низкими берцами</td>
+<td>пара</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>Обувь летняя с высокими берцами</td>
+<td>пара</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Обувь зимняя</td>
+<td>пара</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Головной убор летний</td>
+<td>шт.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2">2</td>
+</tr>
+<tr>
+<td>29.</td>
+<td>Головной убор зимний</td>
+<td>шт.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Балаклава</td>
+<td>шт.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td colspan="7">Снаряжение и белье</td>
+</tr>
+<tr>
+<td>21.</td>
+<td>Термобелье</td>
+<td>комп.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>22.</td>
+<td>Термобелье утепленное</td>
+<td>комп.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>23.</td>
+<td>Термоноски</td>
+<td>пары</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24.</td>
+<td>Сумка (рюкзак) с несессером</td>
+<td>комп.</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>10</td>
+</tr>
+<tr>
+<td>25.</td>
+<td>Перчатки утепленные</td>
+<td>пара</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>3</td>
 </tr>
 </table>
 
