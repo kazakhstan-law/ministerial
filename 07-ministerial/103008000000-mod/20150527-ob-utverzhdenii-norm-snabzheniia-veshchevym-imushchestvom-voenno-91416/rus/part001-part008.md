@@ -1,0 +1,5284 @@
+---
+part_of: ../rus.md
+source: https://zan.gov.kz/client/#!/doc/91416/rus/21.05.2025
+---
+
+## Норма № 9 снабжения специальным имуществом, гражданской одеждой, бельем, обувью, амуницией, альпинистким (горным) снаряженим военнослужащих частей и подразделений специального назначения
+
+<table>
+<tr>
+<th rowspan="3">№ п/п</th>
+<th rowspan="3">Наименование</th>
+<th rowspan="3">Единица измерения</th>
+<th colspan="2" rowspan="3">Кол-во предм-в на 1 чел.</th>
+<th colspan="5" rowspan="2">Военнослужащие частей и подразделений СпН ССО</th>
+<th colspan="4" rowspan="2">Военнослужащие Центра горной подготовки</th>
+<th colspan="3" rowspan="2">Военнослужащие Центра парашютной подготовки</th>
+<th colspan="6">Десантно-штурмовые войска</th>
+<th colspan="6">воинские части и подразделения войсковой разведки</th>
+<th colspan="6">горно-егерские и горно-стрелковые части и подразделения</th>
+<th colspan="6">части и подразделения специального назначения ВМС</th>
+<th colspan="6">Части и подразделения органа военной разведки МО РК</th>
+</tr>
+<tr>
+<th colspan="3">Военнослужащие основных подразделений СпН</th>
+<th colspan="3">Военнослужащие подразделений СпН</th>
+<th colspan="3">Военнослужащие основных подразделений СпН</th>
+<th colspan="3">Военнослужащие подразделений СпН</th>
+<th colspan="3">Военнослужащие основных подразделений СпН</th>
+<th colspan="3">Военнослужащие подразделений СпН</th>
+<th colspan="3">Военнослужащие основных подразделений СпН</th>
+<th colspan="3">Военнослужащие подразделений СпН</th>
+<th colspan="3">Военнослужащие частей и подразделений СпН</th>
+<th colspan="3">Военнослужащие оперативных частей и подразделений</th>
+</tr>
+<tr>
+<th colspan="42">Сроки носки (в годах)</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th colspan="2">4</th>
+<th colspan="42">5</th>
+</tr>
+<tr>
+<td colspan="47">Глава 1. Специальное имущество (личного пользования)</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Панама</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Бейсболка</td>
+<td>шт.</td>
+<td colspan="2">2</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Шапка-маска летняя (балаклава летняя)</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Противопыльный шарф-платок</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Балаклава зимняя</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Шапка зимняя и шарф-труба (снуд)</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Костюм полевой</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Костюм боевой летний</td>
+<td>к-т</td>
+<td colspan="2">2</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Костюм ветровлагозащитный</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Костюм полевой зимний</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Костюм боевой зимний</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Перчатки летние</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Перчатки зимние</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Перчатки горные</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Перчатки для спуска по фаллу</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Ремень поясной</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Накидка маскировочная</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Костюм маскировочный зимний</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Костюм маскировочный летний для снайперов</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">3</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Костюм маскировочный зимний для снайперов</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">3</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td colspan="47">Глава 2. Белье (личного пользования)</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Футболка оливкового цвета</td>
+<td>шт.</td>
+<td colspan="2">2</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Белье летнее компрессионное</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Термобелье демисезонное</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Термобелье зимнее</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Термоноски летние</td>
+<td>пар</td>
+<td colspan="2">3</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Термоноски зимние</td>
+<td>пар</td>
+<td colspan="2">3</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td colspan="47">Глава 3. Обувь (личного пользования)</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Ботинки летние</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Ботинки демисезонные</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">3</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Ботинки зимние</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Ботинки для прыжков с парашютом</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Туфли скальные</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Гамаши на ботинки</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">6</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Бахилы на ботинки</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">6</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Снегоступы</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="3">4</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">6</td>
+</tr>
+<tr>
+<td colspan="47">Глава 4. Амуниция (инвентарное имущество*)</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Поясная разгрузочная система скрытого ношения</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">5</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Модульная бронеразгрузочная система с комплектом бронепластин и бронеэлементов</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="11">
+по гарантии завода изготовителя
+(не менее 5 лет)
+</td>
+<td colspan="6">
+по гарантии завода изготовителя
+(не менее 5 лет)
+</td>
+<td colspan="6">
+по гарантии завода изготовителя
+(не менее 5 лет)
+</td>
+<td colspan="6">
+по гарантии завода изготовителя
+(не менее 5 лет)
+</td>
+<td colspan="6">
+по гарантии завода изготовителя
+(не менее 5 лет)
+</td>
+<td colspan="7">
+по гарантии завода изготовителя
+(не менее 5 лет)
+</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Ременно-плечевая система</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Наушники с активным шумоподавлением</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">5</td>
+<td colspan="4">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Рюкзак рейдовый</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Рюкзак десантный</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Рюкзак экспедиционный</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Гермомешок</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Сумка транспортировочная</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">5</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Спальный мешок (зима-лето)</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Коврик теплоизоляционный (каримат)</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+<td colspan="3">3</td>
+<td colspan="3">5</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Сидушка теплоизоляционная</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+<td colspan="3">4</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Палатка универсальная 2-х местная</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">5</td>
+<td colspan="4">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">5</td>
+<td colspan="3">7</td>
+</tr>
+<tr>
+<td colspan="47">5. Альпинистское и горное снаряжение</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Репшнур (веревка капроновая диаметром 5 мм)</td>
+<td>м</td>
+<td colspan="2">300</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Репшнур (веревка капроновая диаметром 2,5 мм)</td>
+<td>м</td>
+<td colspan="2">500</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>50</td>
+<td>Репшнур основной (веревка капроновая диаметром 10-12 мм)</td>
+<td>м</td>
+<td colspan="2">300</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>51</td>
+<td>Репшнур вспомогательный (веревка капроновая диаметром 6-8 мм)</td>
+<td>м</td>
+<td colspan="2">500</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>52</td>
+<td>Шнур лавинный</td>
+<td>м</td>
+<td colspan="2">30</td>
+<td colspan="5">4</td>
+<td colspan="4">4</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">4</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>53</td>
+<td>Амортизатор для страховки</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Зажим металлический</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>55</td>
+<td>Восьмёрка металлическая</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>56</td>
+<td>Карабин с муфтой</td>
+<td>шт.</td>
+<td colspan="2">100</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>57</td>
+<td>Кошка 10-ти зубовая универсальная</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>58</td>
+<td>Ледоруб</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>59</td>
+<td>Молоток альпинистский универсальный</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>60</td>
+<td>Лопата лавинная</td>
+<td>шт.</td>
+<td colspan="2">5</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>61</td>
+<td>Пояс альпинистский универсальный (обвязка)</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>62</td>
+<td>Спасательные носилки (подвесная система)</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>63</td>
+<td>Шлем (каска) альпиниста</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">7</td>
+<td colspan="4">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>64</td>
+<td>Спусковое страховочное устройство</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">7</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>65</td>
+<td>Закладка</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>66</td>
+<td>Блок «жумар»</td>
+<td>шт.</td>
+<td colspan="2">20</td>
+<td colspan="5">3</td>
+<td colspan="4">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>67</td>
+<td>Блок – ролики</td>
+<td>шт.</td>
+<td colspan="2">10</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>68</td>
+<td>Крючки скальные</td>
+<td>шт.</td>
+<td colspan="2">100</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>69</td>
+<td>Крючки ледовые</td>
+<td>шт.</td>
+<td colspan="2">100</td>
+<td colspan="5">1</td>
+<td colspan="4">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+<td colspan="3">1</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>70</td>
+<td>Карабин с кейлоком</td>
+<td>шт.</td>
+<td colspan="2">10</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>71</td>
+<td>Карабин «восьмерка»</td>
+<td>шт.</td>
+<td colspan="2">20</td>
+<td colspan="5">2</td>
+<td colspan="4">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td colspan="47">Глава 6. Специальное имущество для подготовки и совершения прыжков (инвентарное имущество)</td>
+</tr>
+<tr>
+<td>72</td>
+<td>Комбинезон для полетов в аэродинамическом комплексе</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>73</td>
+<td>Комбинезон специальный для парашютных прыжков</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>74</td>
+<td>Комбинезон для групповой парашютной акробатики</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>75</td>
+<td>Комбинезон для купольной парашютной акробатики</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>76</td>
+<td>Комбинезон для парашютных прыжков на точность приземления</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>77</td>
+<td>Комбинезон облегающий для индивидуальной парашютной акробатики</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>78</td>
+<td>Комбинезон для воздушной видеосъемки</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>79</td>
+<td>Шлем защитный специальных парашютных прыжков (тактический)</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>80</td>
+<td>Шлем защитный воздушной видеосъемки</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>81</td>
+<td>Шлем защитный для групповой парашютной акробатики</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>82</td>
+<td>Шлем защитный для индивидуальной парашютной акробатики</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>83</td>
+<td>Шлем защитный для купольной парашютной акробатики</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>84</td>
+<td>Шлем защитный для учебно-тренировочных парашютных прыжков и полетов в аэродинамическом комплексе</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>85</td>
+<td>Очки защитные парашютные</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">3</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>86</td>
+<td>Перчатки парашютные (летние)</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>87</td>
+<td>Перчатки парашютные (зимние)</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">2</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>88</td>
+<td>Пояс (жилет) догрузочный для выравнивания парашютистов по весу</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">5</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td colspan="47">Глава 7. Гражданская одежда (личного пользования)</td>
+</tr>
+<tr>
+<td>89</td>
+<td>Головной убор летний</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>90</td>
+<td>Головной убор зимний</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>91</td>
+<td>Головной убор демисезонный</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>92</td>
+<td>Пальто</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td>93</td>
+<td>Куртка (плащ) демисезонная</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>94</td>
+<td>Куртка утепленная (свободный стиль)</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>95</td>
+<td>Костюм летний классический</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>96</td>
+<td>Костюм зимний классический</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td>97</td>
+<td>Брюки летние (свободный стиль)</td>
+<td>шт.</td>
+<td colspan="2">2</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>98</td>
+<td>Брюки зимние (свободный стиль)</td>
+<td>шт.</td>
+<td colspan="2">2</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>99</td>
+<td>Рубашка с длинными рукавами</td>
+<td>шт.</td>
+<td colspan="2">2</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>100</td>
+<td>Рубашка с короткими рукавами</td>
+<td>шт.</td>
+<td colspan="2">2</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>101</td>
+<td>Галстук</td>
+<td>шт.</td>
+<td colspan="2">2</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+<td colspan="3">1</td>
+</tr>
+<tr>
+<td>102</td>
+<td>Ремень</td>
+<td>шт.</td>
+<td colspan="2">2</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>103</td>
+<td>Кашне</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>104</td>
+<td>Костюм спортивный</td>
+<td>к-т</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>105</td>
+<td>Обувь летняя (свободный стиль)</td>
+<td>пар</td>
+<td colspan="2">2</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>106</td>
+<td>Обувь зимняя (свободный стиль)</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>107</td>
+<td>Обувь демисезонная (свободный стиль)</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>108</td>
+<td>Сумка-кофр</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+</tr>
+<tr>
+<td>109</td>
+<td>Сумка плечевая</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>110</td>
+<td>Сумка поясная</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">2</td>
+</tr>
+<tr>
+<td>111</td>
+<td>Очки (свободный стиль)</td>
+<td>шт.</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">4</td>
+<td colspan="3">3</td>
+</tr>
+<tr>
+<td>112</td>
+<td>Перчатки (свободный стиль)</td>
+<td>пар</td>
+<td colspan="2">1</td>
+<td colspan="5">-</td>
+<td colspan="4">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">-</td>
+<td colspan="3">2</td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<th>Военнослужащие проходящие воинскую службу на должностях по перечню утвержденному МО РК</th>
+<th>Военнослужащие оперативного реагирования военной полиции</th>
+<th>Военнослужащие частей и подразделений привлекаемых для выполнения задач в рамках выполнения международных обязательств (кроме военнослужащих частей и подразделении указанных в данной норме снабжения)</th>
+<th>Сроки предельного хранения на складах (в годах)</th>
+<th>
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<td colspan="3">Сроки носки (в годах)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="3">5</th>
+<th>6</th>
+<th>7</th>
+</tr>
+<tr>
+<td colspan="5">Глава 1. Специальное имущество (личного пользования)</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>2</td>
+<td>2</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>4</td>
+<td>4</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>4</td>
+<td>4</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>10</td>
+<td>1, 8</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1, 9</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>2</td>
+<td>2</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>9</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>3</td>
+<td>10</td>
+<td>2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>3</td>
+<td>10</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="5">Глава 2. Белье (личного пользования)</td>
+</tr>
+<tr>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td colspan="5">Глава 3. Обувь (личного пользования)</td>
+</tr>
+<tr>
+<td>-</td>
+<td>2</td>
+<td>2</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>3</td>
+<td>3</td>
+<td>10</td>
+<td>9</td>
+</tr>
+<tr>
+<td>-</td>
+<td>2</td>
+<td>2</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>4</td>
+<td>4</td>
+<td>9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>4</td>
+<td>4</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td colspan="5">Глава 4. Амуниция (инвентарное имущество*)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>
+по гарантии завода изготовителя
+(не менее 5 лет)
+</td>
+<td>
+по гарантии завода изготовителя
+(не менее 5 лет)
+</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>5</td>
+<td>5</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>11</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>6</td>
+</tr>
+<tr>
+<td colspan="5">5. Альпинистское и горное снаряжение</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>5</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>5</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>5</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>5</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>5</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td colspan="5">Глава 6. Специальное имущество для подготовки и совершения прыжков (инвентарное имущество)</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5, 7</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5, 7</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5, 7</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5, 7</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5, 7</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="5">Глава 7. Гражданская одежда (личного пользования)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>1</td>
+</tr>
+</table>
+
+Примечание:
+
+Для своевременного обеспечения войск по планам снабжения на центральных базах и складах, необходимо содержать переходящий запас вещевого имущества в размере 50 процентов от годовой потребности.
+
+В воинских частях и учреждениях для подгонки и выравнивания ростовки необходимо содержать неснижаемый запас готовых предметов обмундирования и обуви в размере 10 процентов от годовой (разовой) потребности в этих предметах.
+
+Цвет (расцветка) обмундирования и специального имущества определяется в зависимости от специфики выполнения задач.
+
+Участников военных парадов в соответствии с ПП РК (в соответствии с замыслом проводимового мероприятия) по указанию заместителя Министра допускается дополнительно обеспечивать предметами специальной формы одежды, обуви, белья и амуниции. Вместе с тем, для проведения данных мероприятии допускается закупать специальную форму одежды, обувь, бельё и амуницию неустановленного образца и непредусмотренного нормами снабжения.
+
+Военнослужащие Центра горной подготовки и Центра парашютной подготовки не обеспечиваются по нормам снабжения ССО.
+
+Рядовой и сержантский состав по призыву не обеспечиваются по данной норме снабжения.
+
+При замене фасона и расцветки предметов военной формы одежды, в рамках поэтапного перехода на новые образцы, допускается выдача военослужащим ранее действующих предметов вещевого имущества.
+
+Нашиваемые знаки отличия и знаки различия идут в комплекте с предметами военной формы одежды.
+
+1\. Приобретение и обеспечение гражданской одеждой (личного пользования) осуществляется органом военной разведки МО РК. Также органом военной разведки МО РК дополнительно допускается приобретение и обеспечение специальным имуществом (личного пользования) и альпинистским (горным) снаряжением.
+
+2\. Планирование, приобретение и обеспечение альпинистским (горным) снаряжением осуществляется органами военного управления соответствующих воинских частей и подразделении непостредственно занимающимся горной подготовкой.
+
+3\. Выдается для снайперов частей и подразделений специального назначения.
+
+4\. Альпинисткое и горное снаряжение выдаются военнослужащим непостредственно занимающимся горной подготовкой. При этом, групповое горное снаряжение отпускается из расчета на 3-5 человек.
+
+5\. Выдается только военнослужащим Центра парашютной подготовки и спортивным парашютным командам ВС РК.
+
+6\. Выдается на 2 человека 1 палатка.
+
+7\. Дополнительно выдается переменному составу центра парашютной подготовки.
+
+8\. Военнослужащие не получающие костюмы боевые летние, обеспечиваются двумя комплектами костюмов полевых на один год.
+
+9\. Разрешается выдавать военнослужащим отряда военной полиции по обеспечению режима и безопасности «МО РК».
+
+## Норма № 10 снабжения специальной одеждой лиц, заступающих на боевое дежурство, суточный наряд, летный состав авиации, наземных авиационных специалистов, курсантов летного и инжинерно-технического состава военных авиационных учебных заведений (инвентарное имущество)
+
+<table>
+<tr>
+<th rowspan="2">№п/п</th>
+<th rowspan="2">Наименование</th>
+<th rowspan="2">Единица измерения</th>
+<th rowspan="2">кол-во предм-в на 1 чел.</th>
+<th>военнослужащие несущие боевое дежурство</th>
+<th>Военнослужащие заступающие в наряд по организации контрольно-пропускного режима Сил специальных операции и на режимных объектах по перечню утвержденному Министром обороны</th>
+<th>Летный состав авиаций</th>
+<th>Наземные авиационные специалисты</th>
+<th>Курсанты военных авиационных учебных заведений лётчиков (штурманов)</th>
+<th>Курсанты военных авиационных учебных заведений инженерно-технического состава</th>
+<th rowspan="2">
+Сроки предельного хранения на складах
+(в годах)
+</th>
+<th rowspan="2">
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<th colspan="6">Сроки носки (в годах)</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th colspan="6">5</th>
+<th>6</th>
+<th>7</th>
+</tr>
+<tr>
+<td colspan="12">Глава 1. Обмундирование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Костюм специальный с головным убором</td>
+<td>комп.</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>2</td>
+<td>10</td>
+<td>1, 6, 8, 9, 10, 11</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Костюм специальный зимний с головным убором</td>
+<td>комп.</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+<td>2</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>10</td>
+<td>1, 10, 11</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Комбинезон закрытый</td>
+<td>комп.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Костюм летный с головным убором</td>
+<td>комп.</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>2</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>-</td>
+<td>10</td>
+<td>6, 8</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Костюм летный зимний с головным убором</td>
+<td>комп.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>3</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Костюм специальный демисезонный</td>
+<td>комп.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>2</td>
+<td>3</td>
+<td>на срок обучения</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Куртка летная кожаная</td>
+<td>комп.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Свитер специальный</td>
+<td>комп.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>3</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Куртка летная ветрозащитная</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Фуражка представительская</td>
+<td>комп.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>7, 8</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Шапка-ушанка представительская</td>
+<td>комп.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>7, 8</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Китель и брюки представительские</td>
+<td>комп.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>7, 8</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Куртка зимняя представительская</td>
+<td>комп.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>7, 8</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Жилет технический</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>3</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="12">Глава 2.Обувь</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Полуботинки</td>
+<td>пар</td>
+<td>1</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>11</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Ботинки полетные</td>
+<td>пар</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Ботинки полетные облегченные</td>
+<td>пар</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>2</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>-</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Ботинки полетные зимние</td>
+<td>пар</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>3</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>-</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Туфли технические</td>
+<td>пар</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Ботинки зимние на меху</td>
+<td>пар</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Унты</td>
+<td>пар</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>5</td>
+<td>5</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Сандалеты</td>
+<td>пар</td>
+<td>1</td>
+<td>2</td>
+<td>-</td>
+<td>2</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>8, 10</td>
+</tr>
+<tr>
+<td colspan="12">Глава 3.Белье</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Рубашка представительская</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>7, 8</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Галстук представительский</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>7, 8</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Кашне представительский</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>7, 8</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Халат</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>5</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>2, 3, 8</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Подшлемник</td>
+<td>шт.</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>-</td>
+<td>11</td>
+<td>4, 8</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Белье летнее</td>
+<td>шт.</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>12</td>
+<td>8</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Белье нательное (шелковое)</td>
+<td>шт.</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>-</td>
+<td>10</td>
+<td>2, 8</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Белье зимнее</td>
+<td>шт.</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>-</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Носки шерстяные</td>
+<td>шт.</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Носки полушерстяные</td>
+<td>шт.</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Перчатки летные комбинированные</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>2</td>
+<td>-</td>
+<td>на срок обучения</td>
+<td>-</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Перчатки на меху</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>2</td>
+<td>2</td>
+<td>на срок обучения</td>
+<td>на срок обучения</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td colspan="12">Глава 4.Амуниция</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Очки летные</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>-</td>
+</tr>
+</table>
+
+Примечание:
+
+Для своевременного обеспечения войск по планам снабжения на центральных базах и складах, необходимо содержать переходящий запас вещевого имущества в размере 50 процентов от годовой потребности.
+
+В воинских частях и учреждениях для подгонки и выравнивания ростовки необходимо содержать неснижаемый запас готовых предметов обмундирования и обуви в размере 10 процентов от годовой (разовой) потребности в этих предметах.
+
+При замене фасона и расцветки предметов военной формы одежды, в рамках поэтапного перехода на новые образцы, допускается выдача военослужащим ранее действующих предметов вещевого имущества.
+
+При проведении военных парадов в соответствии с замыслом военного парада военнослужащим принимающие участие в данном мероприятии допольнительно выдаются: предметы специальной формы одежды, обуви, белья и амуниции. Для проведения военных парадов, торжественных мероприятий, международных переговоров и встреч иностранных делегаций, допускается закупать военную форму одежды и знаки различия не установленного образца не предусмотренного нормами снабжения.
+
+Допускается производить досрочную выдачу предметов вещевого имущества курсантам, кадетам военных учебных заведений на основании справки антропометрического обмера (в случае изменений антропометрических данных при которых не представляется возможность одевать ранее полученное обмундирование или обувь), произведенного в военно-медицинском (медицинском) подразделении (госпитале, лазарете) данного гарнизона где находится воинская часть (учреждение), а при отсутствии в данном гарнизоне, прикрепленном военно-медицинском (медицинском) подразделений и приказа командира (начальника) воинской части (учреждения).
+
+Летно-техническое обмундирование (инвентарное имущество) по данной норме выдается военнослужащим лётного состава авиации, наземным авиационным специалистам по обслуживанию авиационной техники и обеспечению полётов, курсантам военных авиационных учебных заведений, согласно перечня утвержденному приказом Главнокомандующего СВО. Обеспечение летным обмундированием (инвентарное имущество) производится СВО. При увольнении в запас или отставке допускается по их желанию и ходатайству командира части оставлять в собственность независимо от срока носки предметы личного обмундирования за плату по розничным ценам с учетом износа, но не менее 25 процентов стоимости этих новых предметов.
+
+Нашиваемые знаки отличия и знаки различия идут в комплекте в соответствии с перечнем фурнитуры, входящей в комплект предметов военной формы одежды.
+
+1\. Приобретение и обеспечение специальным имуществом для военнослужащих ССО и органа военной разведки МО РК заступающих в наряд по организации контрольно-пропускного режима на режимных объектах по перечню утвержденному Министром осуществляется ССО и органом военной разведки МО РК.
+
+2\. Белье нательное шелковое и халат выдаются только летному составу, получающему высотно-компенсирующие костюмы СВО.
+
+3\. Выдается только инженерно-техническому составу, обслуживающему точные приборы и аппаратуру СВО.
+
+4\. Выдается авиационно-бортовым техникам воздушных судов СВО.
+
+5\. Выдается личному составу по обслуживанию авиационной техники и обеспечению полётов для обеспечения безопасности полетов.
+
+6\. Курсантам с 5 летним обучением костюм специальный с головным убором, костюм лётный с головным убором, выдаются по 2 (комплекта, пары соответственно) на срок обучения.
+
+7\. Выдается только экипажам воздушных судов военно-транспортной и армейской авиации, совершающим полеты в зарубежье. Вместе с тем, военнослужащим-женщинам вместо фуражки выдается шляпа представительская, вместо галстука галстук женский представительский.
+
+8\. Костюм летный с головным убором, костюм специальный с головным убором, свитер специальный, ботинки полётные, ботинки полётные облегчённые, ботинки полётные зимние, туфли технические, ботинки зимние на меху, сандалеты, подшлемник, белье летнее, бельё нательное (шёлковое), бельё зимнее, носки шерстяные, носки полушерстяные, перчатки лётные комбинированные, перчатки на меху, халат (хлопчатобумажный), а также омундирование, обувь и белье летного состава в совершающих полеты в зарубежье по истечению сроков носки переходят в личную собственность, кроме имущества выдаваемого курсантам.
+
+9\. Наземным авиационным специалистам костюм специальный с головным убором выдается 2 комплекта на 1 год.
+
+10\. Летному составу ациации и наземным авиационным специалистам дополнительно не обеспечиваются предметами вещевого имущества несущих боевое дежурство.
+
+11\. Предметы обмундирования и обуви военнослужащих заступающих в наряд по организации контрольно-пропускного режима ССО и на режимных объектах по перечню утвержденному Министром не является инвентарным имуществом.
+
+## Норма № 11 снабжения палатками воинских частей и учреждений (инвентарное имущество)
+
+<table>
+<tr>
+<th rowspan="2">
+№
+п/п
+</th>
+<th rowspan="2">Предназначение</th>
+<th colspan="4">Наименование палаток и количество (комплект)</th>
+<th rowspan="2">Сроки предельного хранения на складах (в годах)</th>
+<th rowspan="2">
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<th>40-местные</th>
+<th>20-местные</th>
+<th>лагерные</th>
+<th>подсобного назначения</th>
+</tr>
+<tr>
+<td rowspan="3">1</td>
+<td>Для размещения военнослужащих:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>офицеров, военнослужащих-женщин и офицеров запаса, привлекаемых на сборы (на 10 чел.)</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>военнослужащих по контракту, курсантов, кадетов (уланов), воспитанников военных учебных заведении, рядового и сержантского состава по призыву, рядового и сержантского состава запаса и студентов, привлекаемых на сборы (на 40 чел.)</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Штаб батальона (дивизиона)</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Караульное помещение бригады</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Дежурный по батальону (дивизиону)</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Медицинский пункт батальона (дивизиона)</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Гигиенический пункт батальона (дивизиона)</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Комната информационно воспитательной работы батальона (дивизиона)</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Комната бытового обслуживания батальона (дивизиона)</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Кладовая для личных вещей военнослужащих и имущества роты</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Комната для просушки обмундирования и обуви роты</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Для полевой бани</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Продовольственный пункт (батальона, дивизиона и роты материального обеспечения)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>столовая для приема пищи офицерами, офицерами запаса, привлекаемыми на сборы</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>столовая для приема пищи военнослужащими по контракту</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>столовая для приема пищи курсантами, кадетами (уланами) и воспитанниками военных учебных заведении рядового и сержантского состава запаса и студентами, привлекаемыми на сборы</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>подсобные помещения</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>для хранения продовольствия</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>комната дежурного по столовой</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>комната отдыха поваров</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Для развертывания медицинских отрядов, полевых госпиталей, лазаретов и других медицинских подразделений в полевых условиях:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>приемное отделение</td>
+<td>-</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>физио-лечебный блок</td>
+<td>2</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>блок анестезиологии и реанимации</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>операционный блок</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>терапевтический блок</td>
+<td>4</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>хирургический блок</td>
+<td>4</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>инфекционный блок</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>туберкулезный блок</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>лаборатории</td>
+<td>-</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>аптека</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>1</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Для развертывания пунктов приема личного состава:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>отделение явки и приема команд</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>отделение распределения офицеров и военнослужащих по контракту</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>отделение распределения рядового и сержантского состава</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>изолятор</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>отделение медосмотра</td>
+<td>-</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>комната отдыха администрации</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>отделение экипировки и санитарной обработки офицеров и военнослужащих по контракту</td>
+<td>2</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>отделение экипировки и санитарной обработки рядового и сержантского состава</td>
+<td>3</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>отделение оформления вещевых аттестатов и отправки личных вещей</td>
+<td>-</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Для развертывания пункта приема техники:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>отделение сбора прибывающей техники</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>отделение приема и распределения</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>пункт выдачи противогазов</td>
+<td>-</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>комната отдыха администрации</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Для поисково-спасательной службы</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Для подвижного маловысотного взвода войск ПВО</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Для хранения и ремонта парашютов</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>8</td>
+<td>10</td>
+<td></td>
+</tr>
+</table>
+
+Примечания:
+
+По данной норме обеспечиваются воинские части (подразделения) при размещении в полевых условиях:
+
+в процессе боевой подготовки (на период полевых учений и выходов, лагерных сборов, длительных маршей с суточным отдыхом, занятия по боевой подготовке);
+
+при выполнении задач по ликвидации последствий катастроф и стихийных бедствий, чрезвычайного положения, в зонах вооруженных конфликтов;
+
+в иных чрезвычайных ситуациях, а также при выполнении других задач, связанных с отрывом войск от пунктов постоянной дислокации;
+
+при проведении ремонта казарменно-жилищного фонда.
+
+Вместо 40-местной палатки допускается выдавать 2 комплекта 20-местных палаток и соответственно наоборот, вместо лагерной палатки и палатку подсобного назначения и соответсвенно наоборот.
+
+При размещении военнослужащих авиационных частей на полевом аэродроме обеспечиваются палатками:
+
+столовая для приема пищи военнослужащими по летному пайку – 1 палатка 40-местная;
+
+столовая для приема пищи военнослужащими по инженерно-техническому пайку – 1 палатка 40-местная;
+
+столовая для приема пищи военнослужащими по общевойсковому пайку – 1 палатка 40-местная;
+
+комната для хозяйственных работ столовой – 1 палатка подсобного назначения;
+
+комната для перелетающего летного состава – 1 палатка 20-местная;
+
+комната дежурных экипажей – 1 палатка лагерная;
+
+комната дежурного по аэродромно-техническому обеспечению – 1 палатка лагерная;
+
+класс подготовки летного состава – 1 палатка 20-местная;
+
+комната поисково-спасательной службы – 1 палатка 20-местная.
+
+Обеспечение остальных элементов полевого лагеря для авиационных частей (обеспечение палатками) производится как для воинских частей Сухопутных войск.
+
+Допускается приобретать и обеспечивать воинские части палатками надувными.
+
+При проведении военных парадов в соответствии с замыслом военного парада допольнительно выдаются палатки разных типов. Для проведения военных парадов, торжественных мероприятий, международных переговоров и встреч иностранных делегаций, допускается закупать палатки не установленного образца не предусмотренного нормами снабжения. В комплект палатки дополнительно входит один комплект внутреннего намета (отбеливателя).
+
+Для приема официальных делегаций в полевых условиях допускается приобретать палаточный комплекс. Состав палаточного комплекса и дизайнерское оформление могут изменяться в зависимости проводимых мероприятий.
+
+Срок эксплуатации палаток 18 месяцев фактической эксплуатации. Палатки, срок эксплуатации которых истек, но годные к дальнейшему использованию, с учета не списываются и находятся в эксплуатации до полного их износа. Данные о фактической эксплуатации ведутся в паспорте (формуляре) палатки.
+
+Допускается размещать офицеров, военнослужащих-женщин в 40-местной палатке 20 человек в один ярус.
+
+Вместо одной палатки 40-местной допускается выдавать две палатки 20-местные, вместо одной лагерной допускается выдавать одну палатку подсобного назначения и соответственно наоборот.
+
+## Норма № 12 снабжения воинских частей и учреждений Боевыми Знаменами и вымпелами Министра и начальника Генерального штаба
+
+<table>
+<tr>
+<th>№п/п</th>
+<th>Наименование</th>
+<th>Единица измерения</th>
+<th>Количество предметов</th>
+<th>Срок носки (эксплуатаций)</th>
+<th>Сроки предельного хранения на складах (в годах)</th>
+<th>
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+</tr>
+<tr>
+<td rowspan="5">1</td>
+<td>Боевое Знамя в комплекте:</td>
+<td>компл.</td>
+<td>1</td>
+<td>-</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>полотнище</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>древко</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>10 лет</td>
+<td>-</td>
+</tr>
+<tr>
+<td>фигурный наконечник</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>шнур с двумя кистями</td>
+<td>шт.</td>
+<td>1</td>
+<td>-</td>
+<td>10 лет</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Штандарт Министра</td>
+<td>компл.</td>
+<td>1</td>
+<td>10 лет</td>
+<td>10 лет</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Штандарт Первого заместителя Министра обороны Республики Казахстан - Начальника Генерального штаба ВС РК</td>
+<td>компл.</td>
+<td>1</td>
+<td>10 лет</td>
+<td>10 лет</td>
+<td>-</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Переходящий вымпел Министра</td>
+<td>компл.</td>
+<td>1</td>
+<td>10 лет</td>
+<td>10 лет</td>
+<td>-</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Переходящий вымпел Первого заместителя Министра обороны Республики Казахстан - Начальника Генерального штаба ВС РК</td>
+<td>компл.</td>
+<td>1</td>
+<td>10 лет</td>
+<td>10 лет</td>
+<td>-</td>
+</tr>
+</table>
+
+## Норма № 13 снабжения ветошью воинских частей и учреждений
+
+<table>
+<tr>
+<th rowspan="2">№п/п</th>
+<th rowspan="2">Наименование</th>
+<th colspan="4">При эксплуатации</th>
+<th colspan="2">При хранении</th>
+<th rowspan="2">Регламентное обслуживание</th>
+<th rowspan="2">Сроки предельного хранения на складах (в годах)</th>
+<th rowspan="2">
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<th>Ежедневное обслуживание (ЕО)</th>
+<th>Техническое обслуживание (ТО-1)</th>
+<th>Техническое обслуживание (ТО-2)</th>
+<th>Сезонное обслуживание (СО)</th>
+<th>Кратковременное</th>
+<th>Длительное</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th colspan="7">3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td rowspan="3">1</td>
+<td>Автомобильная техника:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>колесная</td>
+<td>0,5</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>гусеничная</td>
+<td>0,5</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td rowspan="3">2</td>
+<td>Бронетанковая техника:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>колесная</td>
+<td>1</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>3</td>
+<td>3</td>
+<td>5</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>гусеничная</td>
+<td>1</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>4</td>
+<td>4</td>
+<td>7</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Стрелковое оружие</td>
+<td>0,1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Ракетно-артиллерийское вооружение</td>
+<td>0,5</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Летательные аппараты</td>
+<td>1</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>4</td>
+<td>4</td>
+<td>7</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Возушные суда</td>
+<td>1,5</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>6</td>
+<td>6</td>
+<td>10</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</table>
+
+Примечание:
+
+Снабжение ветошью производится на 1 единицу автомобильной (бронетанковой) техники, стрелкового оружия и ракетно-артиллерийского вооружения, летательных аппаратов и воздушных судов в килограммах.
+
+Для снабжения допускается использовать ветошь, полученную от распорки вещевого имущества или других материальных средств.
+
+## Норма №14 снабжения туалетными принадлежностями
+
+<table>
+<tr>
+<th rowspan="2">№п/п</th>
+<th rowspan="2">Наименование материальных средств</th>
+<th rowspan="2">Единица измерения</th>
+<th colspan="7">Обеспечиваемые контингенты</th>
+<th rowspan="2">Сроки предельного хранения на складах (в годах)</th>
+<th rowspan="2">
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<td>Рядовой и сержантский составы по призыву, курсанты, кадеты (уланы), воспитанники военных учебных заведений</td>
+<td>Военнообязанные, призванные на сборы и военнослужащие несущие службу в резерве</td>
+<td>Повара, хлебопеки и подсобные рабочие столовых</td>
+<td>Военнослужащие по контракту и офицеры по призыву, имеющие право на питание</td>
+<td>Военнослужащие по контракту и офицеры по призыву, при несении боевого дежурства</td>
+<td>Медицинские работники военно-медицинских (медицинских) и ветеринарных подразделений подразделений</td>
+<td>
+Механики, мотористы, водители, трактористы, экипажи танков и самоходных артиллерийских установок, экипажи пусковых установок и радиолокационных станций, работники мастерских и складов, дезинфекторы, инструктора и вожатые служебных собак, слесаря, кузнецы, вулканизаторщики, лаборанты, грузчики, повозочные, шорники, токари, аккумуляторщики, саперы, маляры, наборщики типографий, печатники, кочегары, истопники, дизелисты, специалисты инженерно-технического состава
+и инженерно-аэродромной службы, машинисты, трюмные, электрики, торпедисты, мотористы, минеры и водолазы.
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Мыло туалетное твердое</td>
+<td>грамм, на 1 месяц</td>
+<td>400</td>
+<td>400</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>1, 2, 8</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Бумага туалетная</td>
+<td>рулон, на 1 месяц</td>
+<td>2</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>3, 8</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Паста зубная</td>
+<td>тюбик, на 1 месяц</td>
+<td>1</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>4, 8</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Мыло хозяйственное твердое</td>
+<td>грамм на 1 месяц</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>100</td>
+<td>по гарантии завода изготовителя</td>
+<td>5, 6, 7</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Станок бритвенный</td>
+<td>штук, на 1 месяц</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>-</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Щетка зубная</td>
+<td>штук, на 6 месяцев</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>-</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Пояс банный (мочалка)</td>
+<td>штук, на 6 месяцев</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>-</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Сумка для туалетных принадлежностей</td>
+<td>штук</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>9</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Футляр для щетки зубной</td>
+<td>штук</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>9</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Футляр для мыла туалетного (мыльница)</td>
+<td>штук</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>9</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Книпсер для ногтей</td>
+<td>штук</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>9</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Зеркало карманное</td>
+<td>штук</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>9</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Расческа</td>
+<td>штук</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>9</td>
+</tr>
+</table>
+
+Примечание:
+
+Для своевременного обеспечения войск необходимо содержать переходящий запас на центральных базах и складах – до 50 процентов, а в воинских частях – до 30 процентов от годовой потребности.
+
+1\. Номинальная масса одного куска мыла туалетного твердого – 100 грамм.
+
+2\. При отсутствии мыла туалетного твердого допускается заменять его мылом хозяйственным твердым.
+
+3\. Длина одного рулона туалетной бумаги – не менее 50 метров.
+
+4\. Объем одного тюбика пасты зубной – не менее 90 грамм.
+
+5\. При отсутствии мыла хозяйственного твердого допускается заменять его мылом туалетным твердым.
+
+6\. Выдается в места общего пользования.
+
+7\. Выдается военнослужащим по контракту и офицерам по призыву.
+
+8\. Военнослужащим несущим службу в резерве средства гигиены выдаются только на период сборов сроком более 20 суток.
+
+9\. Курсантам, кадетам (уланам) и воспитанникам военных учебных заведений сумка для туалетных принадлежностей, футляр для щетки зубной, футляр для мыла туалетного (мыльница), книпсер для ногтей, зеркало карманное и расческа выдаются по 1 штуке на 1 год, а рядовому и сержантскому составу на срок службы.
+
+## Норма №15 снабжения моющими средствами для стирки имущества вещевой службы
+
+<table>
+<tr>
+<th rowspan="2">№ п/п</th>
+<th rowspan="2">Наименование</th>
+<th colspan="2">Вещевое имущество</th>
+<th rowspan="2">Сроки предельного хранения на складах (в годах)</th>
+<th rowspan="2">
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<th>постельное белье (наволочка, простынь, пододеяльник, полотенце), внутренние наметы палаток</th>
+<th>футболка, трусы, нательное и теплое белье, полевое обмундирование, специальная одежда, санитарно-хозяйственное имущество</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Стиральный порошок, грамм (на 1 кг сухого белья)</td>
+<td>50</td>
+<td>50</td>
+<td>по гарантии завода изготовителя</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Отбеливатель, грамм (на 1 кг сухого белья)</td>
+<td>20</td>
+<td>0</td>
+<td>по гарантии завода изготовителя</td>
+<td>-</td>
+</tr>
+</table>
+
+Примечание:
+
+Для своевременного обеспечения войск необходимо содержать переходящий запас на центральных базах и складах – до 50 процентов, а в воинских частях – до 30 процентов от годовой потребности.
+
+При стирке вещевого имущества в стиральных бытовых машинах моющие средства отпускаются по данной норме снабжения.
+
+Объем стирки вещевого имущества на один месяц составляет (данные для проведения расчетов, при стирке белья используется фактическая масса сухого вещевого имущества):
+
+1\. На одного рядового или сержантского состава по призыву, курсанта, кадета (улана) и воспитанника военного учебного заведения (рабочая форма одежды, постельное и нательное белье):
+
+1) в летнее время – 8 кг;
+
+2) в зимнее время – 10 кг.
+
+2. На одного рядового или сержантского состава по призыву, курсанта, кадета (улана) и воспитанника военного учебного заведения (летнее полевое или боевое обмундирование):
+
+   1) в летнее время – 3 кг;
+
+   2) в зимнее время – 1,5 кг.
+
+3\. На одну военно-медицинскую (медицинскую) койку госпиталя, лазарета, подразделения – 17 кг.
+
+4\. На одного медицинского работника – 1 кг.
+
+5\. На одного специалиста – 2 кг.
+
+6\. На одного военнослужащего по контракту и офицеру по призыву, при выдаче ему постельного белья – 4 кг.
+
+7\. Стирка внутренних наметов палаток осуществляется по мере их загрязнения.
+
+## Норма №16 снабжения кремом обувным и хозяйственными принадлежностями
+
+<table>
+<tr>
+<th rowspan="2">№п/п</th>
+<th rowspan="2">Наименование материальных средств</th>
+<th rowspan="2">Единица измерения</th>
+<th colspan="3">Обеспечиваемые контингенты</th>
+<th rowspan="2">Сроки предельного хранения на складах (в годах)</th>
+<th rowspan="2">
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<th>Рядовой и сержантский составы по призыву</th>
+<th>Курсанты, кадеты (уланы) и воспитанники военных учебных заведений</th>
+<th>Военнообязанные, призванные на сборы и военнослужащие несущие службу в резерве</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Крем обувной</td>
+<td>милилитр на 1 месяц</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>по гарантии завода изготовителя</td>
+<td>3, 4</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Нитки белого цвета</td>
+<td>катушка</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>по гарантии завода изготовителя</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Сумка для обувных принадлежностей</td>
+<td>штук</td>
+<td>на срок службы</td>
+<td>2</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Набор хозяйственный</td>
+<td>комплект</td>
+<td>на срок службы</td>
+<td>1</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Нитки защитного цвета</td>
+<td>катушка</td>
+<td>на срок службы</td>
+<td>1</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>1, 2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Нитки черного цвета</td>
+<td>катушка</td>
+<td>на срок службы</td>
+<td>1</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>1, 2</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Щетка одежная</td>
+<td>штук</td>
+<td>на срок службы</td>
+<td>1</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Щетка обувная</td>
+<td>штук</td>
+<td>на срок службы</td>
+<td>на срок обучения</td>
+<td>-</td>
+<td>по гарантии завода изготовителя</td>
+<td>2</td>
+</tr>
+</table>
+
+Примечание:
+
+Для своевременного обеспечения войск необходимо содержать переходящий запас на центральных базах и складах – до 50 процентов, а в воинских частях – до 30 процентов от годовой потребности.
+
+1\. Длина ниток в одной катушке – не менее 200 метров. Рядовому и сержантскому составу по призыву, курсантам, кадетам (уланам) и воспитанникам военных учебных заведении нитки белого цвета выдаются одна катушка на шесть месяцев.
+
+2\. Курсантам, кадетам (уланам) и воспитанникам военных учебных заведений набор хозяйственный, щетка обувная, нитки защитного и черного цветов выдаются по 1 штуке на 1 год, а рядовому и сержантскому составу по призыву на срок службы. Курсантам, кадетам (уланам) и воспитанникам военных учебных заведений сумка для обувных принадлежностей выдаются на срок обучения. Щетка одежная выдается на 1 роту по 8 штук на 2 года.
+
+3\. Военнослужащим, несущим службу в резерве, крем обувной выдается только на период сборов сроком более 20 суток.
+
+4\. Крем обувной выдается для обуви черного цвета.
+
+## Норма №17 снабжения прачечным и вспомогательным оборудованием для стирки имущества вещевой службы
+
+<table>
+<tr>
+<th rowspan="2">№ п/п</th>
+<th rowspan="2">Наименование оборудования</th>
+<th rowspan="2">Единица измерения</th>
+<th colspan="5">Максимальный месячный объем стирки белья (кг)</th>
+<th rowspan="2">Сроки предельного хранения на складах (в годах)</th>
+<th rowspan="2">Срок эксплуатации в годах</th>
+<th rowspan="2">
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<td>до 5 000</td>
+<td>от 5 001 до 10 000</td>
+<td>от 10 001 до 15 000</td>
+<td>от 15 001 до 20 000</td>
+<td>свыше 20 000</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Машина стиральная (стирально-отжимная) с загрузкой белья от 25 до 30 кг</td>
+<td>компл</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Машина стиральная (стирально-отжимная) с загрузкой белья свыше 50 кг</td>
+<td>компл</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Центрифуга прачечная с загрузкой белья от 25 до 30 кг</td>
+<td>компл</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>10 лет</td>
+<td>5 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Центрифуга прачечная с загрузкой белья свыше 50 кг</td>
+<td>компл</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>10 лет</td>
+<td>5 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Машина сушильная (барабан) с загрузкой белья от 25 до 30 кг</td>
+<td>компл</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Машина сушильная (барабан) с загрузкой белья свыше 50 кг</td>
+<td>компл</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Гладильный каток (каландр)</td>
+<td>компл</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Дезинфекционная камера</td>
+<td>компл</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>-</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Тележка для сухого белья</td>
+<td>шт.</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Тележка для мокрого белья</td>
+<td>шт.</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Швейная машина</td>
+<td>компл.</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Ванна для замачивания белья</td>
+<td>шт.</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Утюг электрический</td>
+<td>шт.</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>10 лет</td>
+<td>3 года</td>
+<td>1</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Весы напольные</td>
+<td>шт.</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>10 лет</td>
+<td>7 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Таз банный</td>
+<td>шт.</td>
+<td colspan="5">На каждое посадочное место в бане по 1 шт.</td>
+<td>10 лет</td>
+<td>1 год</td>
+<td>1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Коврик резиновый</td>
+<td>шт.</td>
+<td colspan="5">На каждое посадочное место и душевую сетку в бане по 1 шт.</td>
+<td>10 лет</td>
+<td>5 лет</td>
+<td>1</td>
+</tr>
+</table>
+
+Примечание:
+
+1\. Для своевременного обеспечения войск на центральных базах и складах, необходимо содержать переходящий запас в размере до 10 процентов от годовой потребности.
+
+## Норма №18 снабжения техническими средствами вещевой службы
+
+<table>
+<tr>
+<th>№ п/п</th>
+<th>
+Наименование
+технических средств
+</th>
+<th>Единица измерения</th>
+<th>Количество</th>
+<th>Срок эксплуатации в годах</th>
+<th>Сроки предельного хранения на складах (в годах)</th>
+<th>
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Полевая баня</td>
+<td>ед.</td>
+<td>1</td>
+<td>в соответствии с данными завода-изготовителя</td>
+<td>20 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Полевая прачечная</td>
+<td>ед.</td>
+<td>1</td>
+<td>в соответствии с данными завода-изготовителя</td>
+<td>20 лет</td>
+<td>2</td>
+</tr>
+</table>
+
+Примечания:
+
+1\. Выдается воинским частям и учреждениям тактического звена. Допускается выдача и эксплуатация дезинфекционно-душевой установки вместо полевой бани.
+
+2\. Выдается воинским частям материального обеспечения и военным госпиталям.
+
+## Норма №19 снабжения оборудованием и инструментом для бытового обслуживания
+
+<table>
+<tr>
+<th>№ п/п</th>
+<th>Наименование оборудование и инструмента</th>
+<th>Единица измерения</th>
+<th>Количество</th>
+<th>Срок эксплуатации в годах</th>
+<th>
+Сроки предельного хранения на складах
+(в годах)
+</th>
+<th>
+№ примечания, применяемого
+при выдаче данного предмета
+</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Утюг электрический</td>
+<td>шт.</td>
+<td>4</td>
+<td>3 года</td>
+<td>10 лет</td>
+<td>1, 4</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Доска гладильная</td>
+<td>шт.</td>
+<td>4</td>
+<td>3 года</td>
+<td>10 лет</td>
+<td>1, 4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Машинка для стрижки волос (электрическая)</td>
+<td>шт.</td>
+<td>2</td>
+<td>7 лет</td>
+<td>10 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Машинка для стрижки волос (механическая)</td>
+<td>шт.</td>
+<td>1</td>
+<td>7 лет</td>
+<td>10 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Ножницы парикмахерские</td>
+<td>шт.</td>
+<td>2</td>
+<td>7 лет</td>
+<td>10 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Накидка парикмахерская для стрижки волос</td>
+<td>шт.</td>
+<td>2</td>
+<td>2 года</td>
+<td>10 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Фартук парикмахера</td>
+<td>шт.</td>
+<td>2</td>
+<td>2 года</td>
+<td>10 лет</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Машина стиральная емкостью до 12 кг</td>
+<td>шт.</td>
+<td>2</td>
+<td>5 лет</td>
+<td>10 лет</td>
+<td>2, 3, 4</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Машина сушильная емкостью от 12 кг</td>
+<td>шт.</td>
+<td>1</td>
+<td>5 лет</td>
+<td>10 лет</td>
+<td>2, 3</td>
+</tr>
+<tr>
+<td colspan="7">
+Примечание:
+Для своевременного обеспечения войск на центральных базах и складах, необходимо содержать переходящий запас в размере до 30 процентов от годовой потребности.
+1. Выдаются для укомплектования комнат бытового обслуживания.
+2. Выдаются для стирки обмундирования личным составом и устанавливаются в специально отведенном месте в подразделении.
+3. Для отделений госпиталей, лазаретов и медицинских подразделений воинских частей и учреждений, а также для подразделений военнослужащих по контракту и офицеров по призыву, при размещении их в казармах учебных центров, выдается по 1 штуке стиральной и сушильной машин.
+4. Также выдаются для обеспечения переменного состава, обучающегося в Национальном университете обороны по 1 штуке на одну комнату проживания.
+</td>
+</tr>
+</table>
