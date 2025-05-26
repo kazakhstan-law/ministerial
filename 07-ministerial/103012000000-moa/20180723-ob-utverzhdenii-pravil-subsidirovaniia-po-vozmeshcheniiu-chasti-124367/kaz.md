@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/124367/kaz/13.02.2025
+source: https://zan.gov.kz/client/#!/doc/124367/kaz/26.05.2025
 ---
 
 # Инвестициялық салымдар кезінде агроөнеркәсіптік кешен субъектісі шеккен шығыстардың бір бөлігін өтеу бойынша субсидиялау қағидаларын бекіту туралы
@@ -72,9 +72,8 @@ source: https://zan.gov.kz/client/#!/doc/124367/kaz/13.02.2025
 | [`an002-part001-t002`](kaz/an002-part001-t002.md) | таблица 2 |
 | [`an002-part001-part003`](kaz/an002-part001-part003.md) | an002-part001-part003 |
 | [`an002-part001-t003`](kaz/an002-part001-t003.md) | таблица 3 |
+| [`an002-part001-part005`](kaz/an002-part001-part005.md) | an002-part001-part005 |
 | [`an002-part001-t004`](kaz/an002-part001-t004.md) | таблица 4 |
 | [`an002-part001-t005`](kaz/an002-part001-t005.md) | таблица 5 |
-| [`an002-part001-t006`](kaz/an002-part001-t006.md) | таблица 6 |
-| [`an002-part001-part011`](kaz/an002-part001-part011.md) | an002-part001-part011 |
-| [`an002-part001-part013`](kaz/an002-part001-part013.md) | an002-part001-part013 |
+| [`an002-part001-part009`](kaz/an002-part001-part009.md) | an002-part001-part009 |
 | [`an004`](kaz/an004.md) | Инвестициялық субсидиялауға арналған өтінім |
