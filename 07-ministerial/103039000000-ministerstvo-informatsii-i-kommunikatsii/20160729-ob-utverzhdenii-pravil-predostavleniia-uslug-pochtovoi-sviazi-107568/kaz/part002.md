@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/107568/kaz/28.12.2022
+source: https://zan.gov.kz/client/#!/doc/107568/kaz/28.05.2025
 ---
 
 > *Пошта байланысы қызметтерін*  
