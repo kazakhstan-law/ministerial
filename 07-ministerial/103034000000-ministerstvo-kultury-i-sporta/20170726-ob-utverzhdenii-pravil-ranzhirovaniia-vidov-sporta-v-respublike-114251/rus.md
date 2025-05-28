@@ -17,6 +17,11 @@ caused_by:
   title: О внесении изменений в некоторые приказы в сфере физической культуры и спорта
   link: https://zan.gov.kz/client/#!/doc/125068/rus
 source: https://zan.gov.kz/client/#!/doc/114251/rus/19.09.2018
+repealed_on: 2025-06-16
+repealed_by:
+  code: '210821'
+  title: О признании утратившими силу некоторых приказов
+  link: https://zan.gov.kz/client/#!/doc/210821/rus
 ---
 
 # Об утверждении Правил ранжирования видов спорта в Республике Казахстан

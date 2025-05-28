@@ -17,6 +17,11 @@ caused_by:
   title: Дене шынықтыру және спорт саласындағы кейбір бұйрықтарға өзгерістер енгізу туралы
   link: https://zan.gov.kz/client/#!/doc/125068/kaz
 source: https://zan.gov.kz/client/#!/doc/114251/kaz/19.09.2018
+repealed_on: 2025-06-16
+repealed_by:
+  code: '210821'
+  title: Кейбір бұйрықтардың күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/210821/kaz
 ---
 
 # Қазақстан Республикасында спорт түрлерін саралау қағидаларын бекіту туралы
