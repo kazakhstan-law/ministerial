@@ -14,6 +14,11 @@ approval_date: 2025-05-30
 version_date: 2025-05-30
 registry_number: '210952'
 source: https://zan.gov.kz/client/#!/doc/210952/rus/30.05.2025
+repealed_on: 2026-01-01
+repealed_by:
+  code: '210952'
+  title: Об утверждении Правил исполнения бюджета и его кассового обслуживания на 2025 финансовый год
+  link: https://zan.gov.kz/client/#!/doc/210952/rus
 ---
 
 # Об утверждении Правил исполнения бюджета и его кассового обслуживания на 2025 финансовый год
