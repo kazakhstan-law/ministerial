@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/80876/kaz/04.01.2024
+source: https://zan.gov.kz/client/#!/doc/80876/kaz/30.05.2025
 ---
 
 ## № 48 жаттығу «Спорттық нысанда 100 метрге жүзу»

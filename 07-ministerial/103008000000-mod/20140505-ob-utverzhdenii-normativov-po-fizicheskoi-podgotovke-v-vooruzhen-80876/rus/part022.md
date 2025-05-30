@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/80876/rus/04.01.2024
+source: https://zan.gov.kz/client/#!/doc/80876/rus/30.05.2025
 ---
 
 ## Упражнение № 35 «Челночный бег 10х10 метров»
