@@ -1,5 +1,5 @@
 ---
-version_id: '179146_655147'
+version_id: '179146_765453'
 act_code: '179146'
 language: kaz
 title: Өсімдіктер дүниесінің гендік қорымен жұмыс істеу қағидаларын бекіту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103047000000'
 approval_date: 2023-03-10
-version_date: 2023-03-10
+version_date: 2025-06-05
 registry_number: '179146'
-source: https://zan.gov.kz/client/#!/doc/179146/kaz/10.03.2023
+caused_by:
+  code: '211109'
+  title: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/211109/kaz
+source: https://zan.gov.kz/client/#!/doc/179146/kaz
 ---
 
 # Өсімдіктер дүниесінің гендік қорымен жұмыс істеу қағидаларын бекіту туралы
@@ -123,28 +127,32 @@ source: https://zan.gov.kz/client/#!/doc/179146/kaz/10.03.2023
 
 > *Өсімдіктер әлемінің*  
 > *генофондымен жұмыс*  
-> *істеу Қағидаларына*  
+> *істеу қағидаларына*  
 > *қосымша*
+
+> *Ескерту. Қосымша жаңа редакцияда - ҚР Экология және табиғи ресурстар министрінің 05.06.2025 № 151 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 Нысан
 
 <table>
 <tr>
-<td>Нагойский протокол регулирования доступа к генетическим ресурсам и совместного использования на справедливой и равной основе выгод от их применения к Конвенции о биологическом разнообразии</td>
-<td colspan="2"></td>
-<td colspan="7">Nagoya Protocol on access to genetic resources and the fair and equitable sharing of benefits arising from their application to the Convention on biological diversity</td>
+<td colspan="4">Нагойский протокол регулирования доступа к генетическим ресурсам и совместного использования на справедливой и равной основе выгод от их применения к Конвенции о биологическом разнообразии</td>
+<td colspan="3">
+<em>[Image]</em>
+</td>
+<td colspan="3">Nagoya Protocol on access to genetic resources and the fair and equitable sharing of benefits arising from their application to the Convention on biological diversity</td>
 </tr>
 <tr>
-<td rowspan="4">
-Қазақстан Республикасы экология, геология және табиғи ресурстар министрлігі
-Министерство экологии, геологии и природных ресурсов Республики Казахстан
-Ministry of ecology, Geology and natural resources of the Republic of Kazakhstan
+<td colspan="4" rowspan="4">
+Қазақстан Республикасының экология және табиғи ресурстар министрлігі
+Министерство экологии и природных ресурсов Республики Казахстан
+Ministry of ecology and natural resources of the Republic of Kazakhstan
 </td>
-<td colspan="2">
+<td colspan="3">
 Экспорт
 Export
 </td>
-<td colspan="7" rowspan="4">
+<td colspan="3" rowspan="4">
 Қазақстан Республикасындағы Ұлттық үйлестіру орталығы
 Национальный координационный центр в Республике Казахстан
 National focal point in Republic of Kazakhstan
@@ -152,56 +160,52 @@ National focal point in Republic of Kazakhstan
 Ministry House,
 Mangelik el 8,
 Astana city,
-Republic of Kazakhstan
-Tel.: (+7172) 74______ Fax:
-<table>
-<tr>
-<td>(+7172) 74_______</td>
-<td></td>
-</tr>
-</table>
+Republic of
+Kazakhstan
+Tel.: (+7172)
+74______ Fax:(+7172) 74_______
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="3">
 Импорт
 Import
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="3">
 Реэкспорт
 Reexport
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="3">
 Прочие
 Other
 </td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">
+<td colspan="7" rowspan="2">
 Экспортер / Реэкспортер:
 Exporter / Re-exporter:
 </td>
-<td colspan="7">
+<td colspan="3">
 Разрешение №:
 Permit №:
 </td>
 </tr>
 <tr>
-<td colspan="7">
+<td colspan="3">
 Действительно до:
 Validuntil:
 </td>
 </tr>
 <tr>
-<td colspan="3">
+<td colspan="7">
 Импортер:
 Importer:
 </td>
-<td colspan="7">
+<td colspan="3">
 Особые условия:
 Special conditions:
 </td>
@@ -215,7 +219,7 @@ Live Animal Regulations
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Русское и латинское название
 генетического ресурса
 Russian and Latin name genetic resource
@@ -229,33 +233,35 @@ including
 identifying marks
 or numbers
 </td>
-<td>
+<td colspan="3">
 Приложение
 Appendix
 </td>
-<td colspan="3">
+<td>
 Источник
 Sourcе
 </td>
-<td colspan="3">
+<td colspan="2">
 Цель
 Purposе
 </td>
 <td>
-Количество экземпляров или вес
-Quantity: number of specimens or weight
+Количество
+экземпляров или вес
+Quantity: number of
+specimens or weight
 </td>
 </tr>
 <tr>
-<td rowspan="2">А</td>
+<td colspan="2" rowspan="2">А</td>
 <td rowspan="2"></td>
+<td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">
+<td colspan="5">
 Страна происхождения
 Country of origin
 </td>
@@ -266,15 +272,15 @@ Permit № and date
 </td>
 </tr>
 <tr>
-<td rowspan="2">В</td>
+<td colspan="2" rowspan="2">B</td>
 <td rowspan="2"></td>
+<td colspan="3"></td>
 <td></td>
-<td colspan="4"></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">
+<td colspan="5">
 Страна происхождения
 Country of origin
 </td>
@@ -313,15 +319,17 @@ ___________________________
 </tr>
 <tr>
 <td>Название образца</td>
-<td colspan="3">Количество</td>
-<td colspan="6" rowspan="3"></td>
+<td colspan="2">Количество</td>
+<td colspan="7"></td>
 </tr>
 <tr>
-<td>А</td>
-<td colspan="3"></td>
+<td>A</td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 </tr>
 <tr>
-<td>В</td>
-<td colspan="3"></td>
+<td>B</td>
+<td colspan="2"></td>
+<td colspan="7"></td>
 </tr>
 </table>
