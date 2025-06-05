@@ -106,28 +106,31 @@
 
 > *Приложение*  
 > *к Правилам обращения*  
-> *с генофондом растительного*  
-> *мира*
+> *с генофондом растительного мира*
+
+> *Сноска. Приложение в редакции приказа Министра экологии и природных ресурсов РК от 05.06.2025 № 151 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 Форма
 
 <table>
 <tr>
-<td>Нагойский протокол регулирования доступа к генетическим ресурсам и совместного использования на справедливой и равной основе выгод от их применения к Конвенции о биологическом разнообразии</td>
-<td colspan="4"></td>
-<td colspan="5">Nagoya Protocol on access to genetic resources and the fair and equitable sharing of benefits arising from their application to the Convention on biological diversity</td>
+<td colspan="4">Нагойский протокол регулирования доступа к генетическим ресурсам и совместного использования на справедливой и равной основе выгод от их применения к Конвенции о биологическом разнообразии</td>
+<td colspan="3">
+<em>[Image]</em>
+</td>
+<td colspan="3">Nagoya Protocol on access to genetic resources and the fair and equitable sharing of benefits arising from their application to the Convention on biological diversity</td>
 </tr>
 <tr>
-<td rowspan="4">
-Қазақстан Республикасының экология, геология және табиғи ресурстар министрлігі
-Министерство экологии, геологии и природных ресурсов Республики Казахстан
-Ministry of ecology, Geology and natural resources of the Republic of Kazakhstan
+<td colspan="4" rowspan="4">
+Қазақстан Республикасының экология және табиғи ресурстар министрлігі
+Министерство экологии и природных ресурсов Республики Казахстан
+Ministry of ecology and natural resources of the Republic of Kazakhstan
 </td>
-<td colspan="4">
+<td colspan="3">
 Экспорт
 Export
 </td>
-<td colspan="5" rowspan="4">
+<td colspan="3" rowspan="4">
 Қазақстан Республикасындағы Ұлттық үйлестіру орталығы
 Национальный координационный центр в Республике Казахстан
 National focal point in Republic of Kazakhstan
@@ -138,54 +141,49 @@ Astana city,
 Republic of
 Kazakhstan
 Tel.: (+7172)
-<table>
-<tr>
-<td>74______ Fax:(+7172) 74_______</td>
-<td></td>
-</tr>
-</table>
+74______ Fax:(+7172) 74_______
 </td>
 </tr>
 <tr>
-<td colspan="4">
+<td colspan="3">
 Импорт
 Import
 </td>
 </tr>
 <tr>
-<td colspan="4">
+<td colspan="3">
 Реэкспорт
 Reexport
 </td>
 </tr>
 <tr>
-<td colspan="4">
+<td colspan="3">
 Прочие
 Other
 </td>
 </tr>
 <tr>
-<td colspan="5" rowspan="2">
+<td colspan="7" rowspan="2">
 Экспортер / Реэкспортер:
 Exporter / Re-exporter:
 </td>
-<td colspan="5">
+<td colspan="3">
 Разрешение №:
 Permit №:
 </td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 Действительно до:
 Validuntil:
 </td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="7">
 Импортер:
 Importer:
 </td>
-<td colspan="5">
+<td colspan="3">
 Особые условия:
 Special conditions:
 </td>
@@ -199,7 +197,7 @@ Live Animal Regulations
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 Русское и латинское название
 генетического ресурса
 Russian and Latin name genetic resource
@@ -221,7 +219,7 @@ Appendix
 Источник
 Sourcе
 </td>
-<td colspan="3">
+<td colspan="2">
 Цель
 Purposе
 </td>
@@ -233,15 +231,15 @@ specimens or weight
 </td>
 </tr>
 <tr>
-<td rowspan="2">А</td>
+<td colspan="2" rowspan="2">А</td>
 <td rowspan="2"></td>
 <td colspan="3"></td>
 <td></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">
+<td colspan="5">
 Страна происхождения
 Country of origin
 </td>
@@ -252,15 +250,15 @@ Permit № and date
 </td>
 </tr>
 <tr>
-<td rowspan="2">В</td>
+<td colspan="2" rowspan="2">B</td>
 <td rowspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="6">
+<td colspan="5">
 Страна происхождения
 Country of origin
 </td>
@@ -280,8 +278,8 @@ ___________________________________________
 </td>
 </tr>
 <tr>
-<td colspan="4">Подтверждение экспорта / реэкспорта</td>
-<td colspan="6">
+<td colspan="5">Подтверждение экспорта / реэкспорта</td>
+<td colspan="5">
 Заполняется в пункте
 пересечения таможенной
 границы Республики Казахстан
@@ -300,14 +298,16 @@ ___________________________
 <tr>
 <td>Название образца</td>
 <td colspan="2">Количество</td>
-<td colspan="7" rowspan="3"></td>
+<td colspan="7"></td>
 </tr>
 <tr>
-<td>А</td>
+<td>A</td>
 <td colspan="2"></td>
+<td colspan="7"></td>
 </tr>
 <tr>
-<td>В</td>
+<td>B</td>
 <td colspan="2"></td>
+<td colspan="7"></td>
 </tr>
 </table>
