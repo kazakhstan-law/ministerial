@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/149739/kaz/25.12.2024
+source: https://zan.gov.kz/client/#!/doc/149739/kaz/24.06.2025
 ---
 
 > *Тегін медициналық көмектің кепілдік*  
