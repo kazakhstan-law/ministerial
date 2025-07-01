@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/136161/kaz/30.06.2025
+source: https://zan.gov.kz/client/#!/doc/136161/kaz/01.07.2025
 ---
 
 ## 1-кіші бөлім. Жалпы ережелер
