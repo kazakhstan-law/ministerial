@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/112421/kaz/01.04.2025
+source: https://zan.gov.kz/client/#!/doc/112421/kaz/03.07.2025
 ---
 
 # Ұлттық бірыңғай тестілеуді өткізу қағидаларын бекіту туралы
