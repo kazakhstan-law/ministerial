@@ -1,5 +1,5 @@
 ---
-version_id: '199040_711925'
+version_id: '199040_775849'
 act_code: '199040'
 language: rus
 title: Об утверждении норм и нормативов в области охраны, воспроизводства и использования рыбных ресурсов и других водных животных
@@ -11,14 +11,20 @@ type_codes:
 approved_by:
 - '103012000000'
 approval_date: 2024-07-24
-version_date: 2024-07-24
+version_date: 2025-07-08
 registry_number: '199040'
-source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
+caused_by:
+  code: '212346'
+  title: О внесении изменений в приказ Министра сельского хозяйства Республики Казахстан от 24 июля 2024 года № 257 «Об утверждении норм и нормативов в области охраны, воспроизводства и использования рыбных ресурсов и других водных животных»
+  link: https://zan.gov.kz/client/#!/doc/212346/rus
+source: https://zan.gov.kz/client/#!/doc/199040/rus
 ---
 
 # Об утверждении норм и нормативов в области охраны, воспроизводства и использования рыбных ресурсов и других водных животных
 
-В соответствии с Законом Республики Казахстан «Об охране, воспроизводстве и использовании животного мира» и подпунктом 508-52) пункта 15 Положения о Министерстве сельского хозяйства Республики Казахстан, утвержденного постановлением Правительства Республики Казахстан от 6 апреля 2005 года № 310, ПРИКАЗЫВАЮ:
+В соответствии с подпунктом 5) статьи 9-1 Закона Республики Казахстан «Об охране, воспроизводстве и использовании животного мира» ПРИКАЗЫВАЮ:
+
+> *Сноска. Преамбула в редакции приказа Министра сельского хозяйства РК от 08.07.2025 № 216 (вводится в действие после дня его первого официального опубликования).*
 
 1. Утвердить прилагаемые нормы и нормативы в области охраны, воспроизводства и использования рыбных ресурсов и других водных животных.
 
@@ -59,19 +65,21 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 > *Республики Казахстан*
 
 > *Утверждены приказом*  
-> *Министр сельского хозяйства*  
+> *Министра сельского хозяйства*  
 > *Республики Казахстан*  
 > *от 24 июля 2024 года*  
 > *№ 257*
 
 ## Нормы и нормативы в области охраны, воспроизводства и использования рыбных ресурсов и других водных животных
 
+> *Сноска. Нормы и нормативы – в редакции приказа Министра сельского хозяйства РК от 08.07.2025 № 216 (вводится в действие после дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td rowspan="2">№</td>
 <td rowspan="2">Нормируемые показатели</td>
 <td rowspan="2">Химический символ</td>
-<td colspan="2" rowspan="2">Единица измерения</td>
+<td rowspan="2">Единица измерения</td>
 <td colspan="2">
 Нормы и нормативы в области охраны, воспроизводства и использования рыбных ресурсов и других водных животных
 (качество вод поверхностных водных объектов или их частей рыбохозяйственного значения)
@@ -91,7 +99,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>1</td>
 <td>Рыбохозяйственные водоемы международного и республиканского значения</td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>
 Река Ертис, водохранилища Буктырма,
 Усть-Каменогорское,
@@ -103,13 +111,13 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 </td>
 </tr>
 <tr>
-<td colspan="7">Условия кислородного режима</td>
+<td colspan="6">Условия кислородного режима</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Температура</td>
 <td>Tводы</td>
-<td colspan="2">0C</td>
+<td>0C</td>
 <td>Летом 20-280С</td>
 <td>Зимой 5-80С</td>
 </tr>
@@ -117,7 +125,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>3</td>
 <td>Растворенный кислород</td>
 <td>О2</td>
-<td colspan="2">мг О2/л</td>
+<td>мг О2/л</td>
 <td>≥4</td>
 <td>≥4</td>
 </tr>
@@ -125,7 +133,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>4</td>
 <td>Насыщение кислородом</td>
 <td>О2</td>
-<td colspan="2">% насыщения О2/л</td>
+<td>% насыщения О2/л</td>
 <td>≥80%</td>
 <td>≥60%</td>
 </tr>
@@ -133,7 +141,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>5</td>
 <td>Биохимическое потребление кислорода (5 суток)</td>
 <td>БПК5</td>
-<td colspan="2">мг О2/л</td>
+<td>мг О2/л</td>
 <td>2,1</td>
 <td>3,0</td>
 </tr>
@@ -141,7 +149,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>6</td>
 <td>Биохимическое потребление кислорода (полное)</td>
 <td>БПКполн</td>
-<td colspan="2">мг О2/л</td>
+<td>мг О2/л</td>
 <td>3,0</td>
 <td>6,0</td>
 </tr>
@@ -149,7 +157,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>7</td>
 <td>Химическое потребление кислорода (перманганатное)</td>
 <td>ХПК (перм)</td>
-<td colspan="2">мг О2/л</td>
+<td>мг О2/л</td>
 <td>7,0</td>
 <td>15,0</td>
 </tr>
@@ -157,7 +165,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>8</td>
 <td>Химическое потребление кислорода (бихроматное)</td>
 <td>ХПК (бихр)</td>
-<td colspan="2">мг О2/л</td>
+<td>мг О2/л</td>
 <td>15,0</td>
 <td>30,0</td>
 </tr>
@@ -165,18 +173,18 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>9</td>
 <td>рН</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>6,5-8,5</td>
 <td>6,0-9,0</td>
 </tr>
 <tr>
-<td colspan="7">Органолептические параметры</td>
+<td colspan="6">Органолептические параметры</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Запах</td>
 <td>-</td>
-<td colspan="2">балл</td>
+<td>балл</td>
 <td>2,0</td>
 <td>2,0</td>
 </tr>
@@ -184,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>11</td>
 <td>Цветность</td>
 <td>-</td>
-<td colspan="2">градус</td>
+<td>градус</td>
 <td>20</td>
 <td>30</td>
 </tr>
@@ -192,7 +200,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>12</td>
 <td>Прозрачность</td>
 <td>-</td>
-<td colspan="2">см</td>
+<td>см</td>
 <td>20</td>
 <td>3-10</td>
 </tr>
@@ -200,14 +208,12 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>13</td>
 <td>Взвешенные вещества</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>Сфон.+ 0,75</td>
 <td>Сфон.+ 1,0</td>
 </tr>
 <tr>
-<td colspan="3">Минерализация</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="6">Минерализация</td>
 </tr>
 <tr>
 <td>14</td>
@@ -218,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 Соленость
 </td>
 <td>Минобщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>1000</td>
 <td>1300</td>
 </tr>
@@ -226,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>15</td>
 <td>Удельная электропроводность</td>
 <td></td>
-<td colspan="2">мкСм/см</td>
+<td>мкСм/см</td>
 <td>500</td>
 <td>1000</td>
 </tr>
@@ -234,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>16</td>
 <td>Окислительно восстановительный потенциал2</td>
 <td>ОВП1</td>
-<td colspan="2">Eh, мВ</td>
+<td>Eh, мВ</td>
 <td>500</td>
 <td>600</td>
 </tr>
@@ -242,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>17</td>
 <td>Сульфаты</td>
 <td>SO42-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>100</td>
 <td>500</td>
 </tr>
@@ -250,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>18</td>
 <td>Хлориды</td>
 <td>Cl-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>350</td>
 <td>350</td>
 </tr>
@@ -258,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>19</td>
 <td>Кальций</td>
 <td>Ca2+</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>180</td>
 <td>170</td>
 </tr>
@@ -266,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>20</td>
 <td>Магний</td>
 <td>Mg2+</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>20,0</td>
 <td>60,0</td>
 </tr>
@@ -274,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>21</td>
 <td>Натрий</td>
 <td>Na+</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>200,0</td>
 <td>200,0</td>
 </tr>
@@ -282,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>22</td>
 <td>Калий</td>
 <td>K+</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>50,0</td>
 <td>50,0</td>
 </tr>
@@ -290,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>23</td>
 <td>Щелочность2</td>
 <td>HCO3-</td>
-<td colspan="2">мг CaCO3/л</td>
+<td>мг CaCO3/л</td>
 <td>40,0-&lt;50,0</td>
 <td>50,0-&lt;100,0</td>
 </tr>
@@ -298,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>24</td>
 <td>Жесткость3</td>
 <td>-</td>
-<td colspan="2">мг-экв/л</td>
+<td>мг-экв/л</td>
 <td>6</td>
 <td>9</td>
 </tr>
@@ -306,19 +312,18 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>25</td>
 <td>Двуокись углерода</td>
 <td>CO2</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,4</td>
 <td>1,0</td>
 </tr>
 <tr>
-<td colspan="4">Биогенные вещества</td>
-<td colspan="3"></td>
+<td colspan="6">Биогенные вещества</td>
 </tr>
 <tr>
 <td>26</td>
 <td>Общий азот</td>
 <td>Nобщ</td>
-<td colspan="2">мг N/л</td>
+<td>мг N/л</td>
 <td>4,0</td>
 <td>8,0</td>
 </tr>
@@ -326,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>27</td>
 <td>Нитрат ион</td>
 <td>NO3-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>40,0</td>
 <td>45,0</td>
 </tr>
@@ -334,7 +339,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>28</td>
 <td>Нитрит ион</td>
 <td>NO2-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>3,3</td>
 <td>3,3</td>
 </tr>
@@ -342,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>29</td>
 <td>Аммоний ион</td>
 <td>NH4+</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,5</td>
 <td>1,0</td>
 </tr>
@@ -350,14 +355,14 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="2">30</td>
 <td>Аммиак</td>
 <td>NH3·nH2O</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,05</td>
 <td>0,10</td>
 </tr>
 <tr>
 <td>Аммиак по азоту</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>2,0</td>
 <td>2,0</td>
 </tr>
@@ -365,7 +370,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>31</td>
 <td>Фосфор общий</td>
 <td>Робщ</td>
-<td colspan="2">мг Р/л</td>
+<td>мг Р/л</td>
 <td>0,2</td>
 <td>0,4</td>
 </tr>
@@ -373,15 +378,15 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>32</td>
 <td>Фосфаты</td>
 <td>РО43-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,4</td>
-<td>0,7</td>
+<td>0,7 (3,5) **</td>
 </tr>
 <tr>
 <td>33</td>
 <td>Фосфор треххлористый</td>
 <td>PCl3</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,01</td>
 <td>0,25</td>
 </tr>
@@ -389,7 +394,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>34</td>
 <td>Бор</td>
 <td>В</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,5</td>
 <td>0,7</td>
 </tr>
@@ -397,19 +402,19 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>35</td>
 <td>Кремний</td>
 <td>Si</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>10,0</td>
 <td>12,0</td>
 </tr>
 <tr>
 <td colspan="4">Металлы</td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>36</td>
 <td>Алюминий</td>
 <td>Al</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,04</td>
 <td>0,50</td>
 </tr>
@@ -417,7 +422,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>37</td>
 <td>Бериллий</td>
 <td>Ве</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,0002</td>
 <td>0,0002</td>
 </tr>
@@ -425,21 +430,21 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="3">38</td>
 <td>Железо общее</td>
 <td>Feобщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,1</td>
 <td>0,3</td>
 </tr>
 <tr>
 <td>Железо (2+)</td>
 <td>Fe2+</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,005</td>
 <td>0,01</td>
 </tr>
 <tr>
 <td>Железо (3+)</td>
 <td>Fe3+</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,01</td>
 <td>0,02</td>
 </tr>
@@ -447,7 +452,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>39</td>
 <td>Марганец (2+)</td>
 <td>Mn2+</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,01</td>
 <td>0,10</td>
 </tr>
@@ -455,14 +460,14 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="2">40</td>
 <td>Кадмий общий</td>
 <td>Cdобщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,005</td>
 <td>0,025</td>
 </tr>
 <tr>
 <td>Кадмий растворенный</td>
 <td>Cdраст</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,001</td>
 <td>0,005</td>
 </tr>
@@ -470,14 +475,14 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="2">41</td>
 <td>Свинец общий</td>
 <td>Pbобщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,60</td>
 <td>0,60</td>
 </tr>
 <tr>
 <td>Свинец растворенный</td>
 <td>Pbраст</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,03</td>
 <td>0,03</td>
 </tr>
@@ -485,14 +490,14 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="2">42</td>
 <td>Ртуть общая</td>
 <td>Hgобщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,0005</td>
 <td>0,001</td>
 </tr>
 <tr>
 <td>Ртуть растворенная</td>
 <td>Hgраст</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,0001</td>
 <td>0,0002</td>
 </tr>
@@ -500,14 +505,14 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="2">43</td>
 <td>Никель общий</td>
 <td>Niобщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,025</td>
 <td>0,05</td>
 </tr>
 <tr>
 <td>Никель растворенный</td>
 <td>Niраст</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,020</td>
 <td>0,04</td>
 </tr>
@@ -515,14 +520,14 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="2">44</td>
 <td>Медь общая</td>
 <td>Cuобщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,002</td>
 <td>2,0</td>
 </tr>
 <tr>
 <td>Медь растворенная</td>
 <td>Cuраст</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,001</td>
 <td>1,0</td>
 </tr>
@@ -530,14 +535,14 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="2">45</td>
 <td>Цинк общий</td>
 <td>Znобщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,04</td>
 <td>0,04</td>
 </tr>
 <tr>
 <td>Цинк растворенный</td>
 <td>Znраст</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,01</td>
 <td>0,01</td>
 </tr>
@@ -545,14 +550,14 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="2">46</td>
 <td>Кобальт общий</td>
 <td>Coобщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,01</td>
 <td>0,1</td>
 </tr>
 <tr>
 <td>Кобальт растворенный</td>
 <td>Coраст</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,005</td>
 <td>0,05</td>
 </tr>
@@ -560,14 +565,14 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="2">47</td>
 <td>Молибден общий</td>
 <td>Мообщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,002</td>
 <td>0,0040</td>
 </tr>
 <tr>
 <td>Молибден растворенный</td>
 <td>Мораст</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,001</td>
 <td>0,0020</td>
 </tr>
@@ -575,33 +580,33 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="3">48</td>
 <td>Хром общий</td>
 <td>Сrобщ</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,1</td>
 <td>0,55</td>
 </tr>
 <tr>
 <td>Хром (3+)</td>
 <td>Сr3+</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,07</td>
 <td>0,15</td>
 </tr>
 <tr>
 <td>Хром (6+)</td>
 <td>Сr6+</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,02</td>
 <td>0,05</td>
 </tr>
 <tr>
 <td colspan="4">Органические вещества</td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>49</td>
 <td>Фенолы (летучие)</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,001</td>
 <td>0,001</td>
 </tr>
@@ -609,7 +614,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>50</td>
 <td>Фенолы</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,001</td>
 <td>0,005</td>
 </tr>
@@ -617,7 +622,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>51</td>
 <td>Нефтепродукты</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,05</td>
 <td>0,10</td>
 </tr>
@@ -625,7 +630,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>52</td>
 <td>Нефть и нефтепродукты в растворенном и эмульсированном состоянии</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,05</td>
 <td>0,10</td>
 </tr>
@@ -633,7 +638,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>53</td>
 <td>СПАВ, ПАВ, АСПАВ</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,1</td>
 <td>0,5</td>
 </tr>
@@ -641,7 +646,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>54</td>
 <td>Фториды</td>
 <td>F-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,75</td>
 <td>1,5</td>
 </tr>
@@ -649,7 +654,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>55</td>
 <td>Сероводород</td>
 <td>H2S</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,003</td>
 <td>0,003</td>
 </tr>
@@ -657,18 +662,18 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>56</td>
 <td>ПАУ и их метаболиты (по бенз(а)пирену)4</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,00001</td>
 <td>0,00001</td>
 </tr>
 <tr>
-<td colspan="7">Ядовитые вещества</td>
+<td colspan="6">Ядовитые вещества</td>
 </tr>
 <tr>
 <td>57</td>
 <td>Цианиды</td>
 <td>CN-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,035</td>
 <td>0,035</td>
 </tr>
@@ -676,14 +681,14 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="2">58</td>
 <td>Мышьяк общий</td>
 <td>As</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,05</td>
 <td>0,08</td>
 </tr>
 <tr>
 <td>Мышьяк растворенный</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>0,002</td>
 <td>0,04</td>
 </tr>
@@ -691,18 +696,18 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>59</td>
 <td>Роданиды</td>
 <td>SCN-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,10</td>
 <td>0,10</td>
 </tr>
 <tr>
-<td colspan="7">Пестициды</td>
+<td colspan="6">Пестициды</td>
 </tr>
 <tr>
 <td>60</td>
 <td>гамма-ГХЦГ (линдан)</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,00001</td>
 <td>0,0001</td>
 </tr>
@@ -710,7 +715,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>61</td>
 <td>1, 2, 3, 4, 5, 6 Гексахлорцикло-гексан5</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,00001</td>
 <td>0,00001</td>
 </tr>
@@ -718,26 +723,25 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>62</td>
 <td>ДДТ (сумма изомеров)6</td>
 <td>-</td>
-<td colspan="2">мг/л</td>
+<td>мг/л</td>
 <td>0,000050</td>
 <td>0,000065</td>
 </tr>
 <tr>
-<td colspan="5">Гидробиологические параметры</td>
-<td colspan="2"></td>
+<td colspan="6">Гидробиологические параметры</td>
 </tr>
 <tr>
 <td rowspan="2">63</td>
 <td>По фитопланктон, зоопланктону, перифитону</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>1,00</td>
 <td>1,51</td>
 </tr>
 <tr>
 <td>Индекс сапробности по Палтле и Букку (в модификации Сладечека)</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>1,50</td>
 <td>2,50</td>
 </tr>
@@ -745,7 +749,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td rowspan="3">64</td>
 <td>По зообентосу:</td>
 <td rowspan="2">-</td>
-<td colspan="2" rowspan="2">%</td>
+<td rowspan="2">%</td>
 <td rowspan="2">21-35</td>
 <td rowspan="2">36-50</td>
 </tr>
@@ -755,18 +759,18 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <tr>
 <td>биотический индекс по Вудивиссу</td>
 <td>-</td>
-<td colspan="2">баллы</td>
+<td>баллы</td>
 <td>7-9</td>
 <td>5-6</td>
 </tr>
 <tr>
-<td colspan="7">Микробиологические параметры</td>
+<td colspan="6">Микробиологические параметры</td>
 </tr>
 <tr>
 <td>65</td>
 <td>Лактозоположительные кишечные палочки</td>
 <td>ЛКА</td>
-<td colspan="2">в дм3</td>
+<td>в дм3</td>
 <td>1000</td>
 <td>1000</td>
 </tr>
@@ -774,7 +778,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>66</td>
 <td>Коли-фаги</td>
 <td>-</td>
-<td colspan="2">бляшкообразующие единицы</td>
+<td>бляшкообразующие единицы</td>
 <td>отсутствуют</td>
 <td>&lt;100</td>
 </tr>
@@ -782,7 +786,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>67</td>
 <td>Возбудители заболеваний</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>отсутствуют</td>
 <td>отсутствуют</td>
 </tr>
@@ -790,7 +794,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>68</td>
 <td>Общее количество бактерий</td>
 <td>-</td>
-<td colspan="2">106 кл/см3, кл/мл</td>
+<td>106 кл/см3, кл/мл</td>
 <td>0,5-1,0</td>
 <td>1,1-3,0</td>
 </tr>
@@ -798,7 +802,7 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>69</td>
 <td>Количество сапрофитных бактерий</td>
 <td>-</td>
-<td colspan="2">
+<td>
 103 кл/см3
 кл/мл
 </td>
@@ -809,13 +813,17 @@ source: https://zan.gov.kz/client/#!/doc/199040/rus/24.07.2024
 <td>70</td>
 <td>Отношение общего количества бактерий к количеству сапрофитных бактерий</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>&gt;103</td>
 <td>103-102</td>
 </tr>
 </table>
 
-Примечание: * характеристика классов водопользования определяется согласно приказу Председателя Комитета по водным ресурсам Министерства сельского хозяйства Республики Казахстан от 9 ноября 2016 года № 151 «Об утверждении единой системы классификации качества воды в водных объектах» (зарегистрирован в Реестре государственной регистрации нормативных правовых актов № 14513).
+Примечание:
+
+* характеристика классов водопользования определяется согласно приказу Председателя Комитета по водным ресурсам Министерства сельского хозяйства Республики Казахстан от 9 ноября 2016 года № 151 «Об утверждении единой системы классификации качества воды в водных объектах» (зарегистрирован в Реестре государственной регистрации нормативных правовых актов № 14513);
+
+** для показателей поверхностных вод в пределах города Астана.
 
 Основные сокращения:
 
