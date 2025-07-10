@@ -11,8 +11,15 @@ approved_on: 2021-06-24
 approved_by:
 - '103047000000'
 version_date:
-  kaz: 2021-06-24
-  rus: 2021-06-24
+  kaz: 2025-07-10
+  rus: 2025-07-10
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/156701/kaz/24.06.2021
-  rus: https://zan.gov.kz/client/#!/doc/156701/rus/24.06.2021
+  kaz: https://zan.gov.kz/client/#!/doc/156701/kaz/10.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/156701/rus/10.07.2025
+caused_by:
+  code: '212300'
+  requisite: Приказ Министра экологии и природных ресурсов Республики Казахстан от 10 июля 2025 года № 183. Зарегистрирован в Министерстве юстиции Республики Казахстан 11 июля 2025 года № 36434
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/212300/rus
