@@ -10,8 +10,15 @@ approved_on: 2025-05-14
 approved_by:
 - '103049000000'
 version_date:
-  kaz: 2025-05-14
-  rus: 2025-05-14
+  kaz: 2025-07-14
+  rus: 2025-07-14
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/212385/kaz/14.05.2025
-  rus: https://zan.gov.kz/client/#!/doc/212385/rus/14.05.2025
+  kaz: https://zan.gov.kz/client/#!/doc/212385/kaz/14.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/212385/rus/14.07.2025
+caused_by:
+  code: '213009'
+  requisite: Приказ Министра науки и высшего образования Республики Казахстан от 14 июля 2025 года № 374
+  title:
+    rus: О внесении изменений в некоторые приказы Министра науки и высшего образования Республики Казахстан
+    kaz: Қазақстан Республикасы Ғылым және жоғары білім министрінің кейбір бұйрықтарына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/213009/rus
