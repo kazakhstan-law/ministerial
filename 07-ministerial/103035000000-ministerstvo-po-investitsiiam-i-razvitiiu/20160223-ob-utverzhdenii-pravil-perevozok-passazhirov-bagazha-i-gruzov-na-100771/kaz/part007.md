@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/100771/kaz/30.12.2022
+source: https://zan.gov.kz/client/#!/doc/100771/kaz/16.07.2025
 ---
 
 > *Ішкі су көлігінде жүктерді*  

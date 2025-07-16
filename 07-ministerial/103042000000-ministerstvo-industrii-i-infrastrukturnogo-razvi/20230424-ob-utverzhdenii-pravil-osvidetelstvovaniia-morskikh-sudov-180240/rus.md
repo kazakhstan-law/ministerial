@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/180240/rus/24.04.2023
+source: https://zan.gov.kz/client/#!/doc/180240/rus/16.07.2025
 ---
 
 # Об утверждении Правил освидетельствования морских судов

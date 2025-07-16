@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59712/rus/26.01.2022
+source: https://zan.gov.kz/client/#!/doc/59712/rus/16.07.2025
 ---
 
 # Об утверждении Правил классификации и постройки морских судов

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/59239/kaz/04.01.2023
+source: https://zan.gov.kz/client/#!/doc/59239/kaz/16.07.2025
 ---
 
 > *Ішкі және аралас «өзен-теңіз»*  

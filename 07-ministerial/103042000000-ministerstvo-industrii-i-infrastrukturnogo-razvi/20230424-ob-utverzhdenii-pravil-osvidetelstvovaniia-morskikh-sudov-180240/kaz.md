@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/180240/kaz/24.04.2023
+source: https://zan.gov.kz/client/#!/doc/180240/kaz/16.07.2025
 ---
 
 # Теңіз кемелерін куәландыру қағидаларын бекіту туралы

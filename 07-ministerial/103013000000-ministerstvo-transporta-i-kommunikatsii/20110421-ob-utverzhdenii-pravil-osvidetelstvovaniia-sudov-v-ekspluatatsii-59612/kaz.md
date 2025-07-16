@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59612/kaz/31.08.2017
+source: https://zan.gov.kz/client/#!/doc/59612/kaz/16.07.2025
 ---
 
 # Пайдаланылатын кемелерді куәландыру қағидасын бекіту туралы
