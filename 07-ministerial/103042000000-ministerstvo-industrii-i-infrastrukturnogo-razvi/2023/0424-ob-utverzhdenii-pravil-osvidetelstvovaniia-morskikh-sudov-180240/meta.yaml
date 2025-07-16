@@ -11,8 +11,15 @@ approved_on: 2023-04-24
 approved_by:
 - '103042000000'
 version_date:
-  kaz: 2023-04-24
-  rus: 2023-04-24
+  kaz: 2025-07-16
+  rus: 2025-07-16
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/180240/kaz/24.04.2023
-  rus: https://zan.gov.kz/client/#!/doc/180240/rus/24.04.2023
+  kaz: https://zan.gov.kz/client/#!/doc/180240/kaz/16.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/180240/rus/16.07.2025
+caused_by:
+  code: '212479'
+  requisite: Приказ Министра транспорта Республики Казахстан от 16 июля 2025 года № 218. Зарегистрирован в Министерстве юстиции Республики Казахстан 17 июля 2025 года № 36461
+  title:
+    rus: О внесении изменений и дополнений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/212479/rus
