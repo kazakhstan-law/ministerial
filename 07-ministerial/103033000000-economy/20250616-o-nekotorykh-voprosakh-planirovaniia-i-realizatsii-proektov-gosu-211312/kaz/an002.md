@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/211312/kaz/16.06.2025
+source: https://zan.gov.kz/client/#!/doc/211312/kaz/31.07.2025
 ---
 
 > *Мемлекеттік-жекешелік әріптестік*  
