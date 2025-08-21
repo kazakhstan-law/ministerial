@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/55508/rus/21.02.2025
+source: https://zan.gov.kz/client/#!/doc/55508/rus/21.08.2025
 ---
 
 # Об утверждении Правил организации скрининга
