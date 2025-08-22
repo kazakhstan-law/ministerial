@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/211659/kaz/26.06.2025
+source: https://zan.gov.kz/client/#!/doc/211659/kaz/22.08.2025
 ---
 
 # Бюджеттік кредиттеудің кейбір мәселелері туралы
