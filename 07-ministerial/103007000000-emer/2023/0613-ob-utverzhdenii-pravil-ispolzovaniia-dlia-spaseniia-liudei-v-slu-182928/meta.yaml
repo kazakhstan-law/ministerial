@@ -11,8 +11,15 @@ approved_on: 2023-06-13
 approved_by:
 - '103007000000'
 version_date:
-  kaz: 2023-06-13
-  rus: 2023-06-13
+  kaz: 2025-08-27
+  rus: 2025-08-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/182928/kaz/13.06.2023
-  rus: https://zan.gov.kz/client/#!/doc/182928/rus/13.06.2023
+  kaz: https://zan.gov.kz/client/#!/doc/182928/kaz/27.08.2025
+  rus: https://zan.gov.kz/client/#!/doc/182928/rus/27.08.2025
+caused_by:
+  code: '213649'
+  requisite: Приказ Министра по чрезвычайным ситуациям Республики Казахстан от 27 августа 2025 года № 362. Зарегистрирован в Министерстве юстиции Республики Казахстан 27 августа 2025 года № 36698
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/213649/rus
