@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/143154/kaz/03.06.2025
+source: https://zan.gov.kz/client/#!/doc/143154/kaz/29.08.2025
 ---
 
 ## Нашар көретін білім алушыларға арналған үлкейтілген қаріпті оқу-әдістемелік кешендер

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/143154/rus/03.06.2025
+source: https://zan.gov.kz/client/#!/doc/143154/rus/29.08.2025
 ---
 
 <table>
@@ -2399,13 +2399,13 @@ Grade 7.
 </tr>
 <tr>
 <td>30.</td>
-<td>Дүниежүзi тарихы. Оқулық</td>
+<td>Дүниежүзі тарихы. Оқулық</td>
 <td>
 Н. Алдабек,
 К. Мақашева,
-Қ. Байзақова
+Қ. Байзакова
 </td>
-<td>2018</td>
+<td>2024</td>
 <td>Мектеп</td>
 </tr>
 <tr>
