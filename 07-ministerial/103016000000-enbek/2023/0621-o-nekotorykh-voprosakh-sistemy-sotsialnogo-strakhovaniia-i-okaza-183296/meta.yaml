@@ -10,11 +10,11 @@ approved_on: 2023-06-21
 approved_by:
 - '103016000000'
 version_date:
-  kaz: 2025-01-23
-  rus: 2025-01-23
+  kaz: 2025-09-01
+  rus: 2025-09-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/183296/kaz/23.01.2025
-  rus: https://zan.gov.kz/client/#!/doc/183296/rus/23.01.2025
+  kaz: https://zan.gov.kz/client/#!/doc/183296/kaz/01.09.2025
+  rus: https://zan.gov.kz/client/#!/doc/183296/rus/01.09.2025
 caused_by:
   code: '206786'
   requisite: Приказ Министра труда и социальной защиты населения Республики Казахстан от 23 января 2025 года № 20. Зарегистрирован в Министерстве юстиции Республики Казахстан 27 января 2025 года № 35674
