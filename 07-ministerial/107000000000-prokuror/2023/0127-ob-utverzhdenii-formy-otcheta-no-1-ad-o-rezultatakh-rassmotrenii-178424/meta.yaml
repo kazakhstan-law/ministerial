@@ -10,11 +10,11 @@ approved_on: 2023-01-27
 approved_by:
 - '107000000000'
 version_date:
-  kaz: 2025-07-01
-  rus: 2025-07-01
+  kaz: 2025-09-01
+  rus: 2025-09-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/178424/kaz/01.07.2025
-  rus: https://zan.gov.kz/client/#!/doc/178424/rus/01.07.2025
+  kaz: https://zan.gov.kz/client/#!/doc/178424/kaz/01.09.2025
+  rus: https://zan.gov.kz/client/#!/doc/178424/rus/01.09.2025
 caused_by:
   code: '211340'
   requisite: Приказ Генерального Прокурора Республики Казахстан от 17 июня 2025 года № 76. Зарегистрирован в Министерстве юстиции Республики Казахстан 18 июня 2025 года № 36297
