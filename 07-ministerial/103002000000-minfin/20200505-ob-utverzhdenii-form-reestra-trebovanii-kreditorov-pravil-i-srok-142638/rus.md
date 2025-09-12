@@ -1,5 +1,5 @@
 ---
-version_id: '142638_623398'
+version_id: '142638_782814'
 act_code: '142638'
 language: rus
 title: Об утверждении форм реестра требований кредиторов, Правил и сроков его формирования временным администратором и временным управляющим
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103002000000'
 approval_date: 2020-05-05
-version_date: 2023-02-28
+version_date: 2025-09-12
 registry_number: '142638'
 caused_by:
-  code: '179217'
+  code: '214282'
   title: О внесении изменений в приказ Первого заместителя Премьер-Министра Республики Казахстан – Министра финансов Республики Казахстан от 5 мая 2020 года № 456 «Об утверждении форм реестра требований кредиторов, Правил и сроков его формирования временным администратором и временным управляющим»
-  link: https://zan.gov.kz/client/#!/doc/179217/rus
-source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
+  link: https://zan.gov.kz/client/#!/doc/214282/rus
+source: https://zan.gov.kz/client/#!/doc/142638/rus
 ---
 
 # Об утверждении форм реестра требований кредиторов, Правил и сроков его формирования временным администратором и временным управляющим
@@ -54,32 +54,34 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 
 **А. Смаилов**
 
-> *Приложение 1*  
-> *к приказу Первого Заместитея*  
-> *Премьер-Министра Республики*  
-> *Казахстан-Министра финансов*  
+> *Приложение 1 к приказу*  
+> *Первого Заместителя*  
+> *Премьер-Министра*  
 > *Республики Казахстан*  
-> *от 5 мая 2020 года*  
-> *№ 456*
+> *– Министра финансов*  
+> *Республики Казахстан*  
+> *от 5 мая 2020 года № 456*
 
 > *форма*
 
-> *«___» ________202__ года № ___*  
+> *от 5 мая 2020 года № 456*  
 > *(дата формирования реестра*  
-> *требований кредиторов) № ___*
-
-> *«___» ________202__ года № ___*  
+> *требований кредиторов) № ___*  
+> *«___» ______202__ года № ___*  
 > *(дата размещения реестра*  
 > *требований кредиторов*  
 > *на интернет-ресурсе)*
 
-## Реестр требований кредиторов в реабилитационной процедуре _______________________________________________________ (наименование/фамилия, имя и отчество (если оно указано в документе, удостоверяющем личность), ИИН/БИН реабилитируемого должника)
+## Реестр требований кредиторов в реабилитационной процедуре __________________________________________________________________ (наименование/фамилия, имя и отчество (если оно указано в документе, удостоверяющем личность), ИИН/БИН реабилитируемого должника)
+
+> *Сноска. Приложение 1 в редакции приказа Министра финансов РК от 12.09.2025 № 493 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <td>№</td>
 <td>Очередь, фамилия, имя и отчество (если оно указано в документе, удостоверяющем личность)/ наименование кредитора</td>
 <td>(ИИН/БИН) кредитора</td>
+<td>(ИИН/БИН) кредитора - нерезидента</td>
 <td>Сумма предъявленных требований (тенге)</td>
 <td>Документы, подтверждающие обоснованность принятого администратором решения (наименование, дата, номер), дата возникновения задолженности</td>
 <td>Признанные требования</td>
@@ -95,10 +97,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td>6</td>
 <td>7</td>
 <td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Первая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -115,6 +119,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -125,10 +130,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -145,6 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -155,10 +163,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -175,6 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -185,10 +196,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -205,6 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -215,10 +229,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -235,6 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -245,10 +262,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -265,6 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -275,10 +295,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -295,6 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -305,10 +328,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -325,10 +350,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Вторая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -345,6 +372,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -355,10 +383,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -375,6 +405,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -385,10 +416,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -405,10 +438,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Третья очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -425,6 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -435,10 +471,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -455,6 +493,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -465,10 +504,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -485,6 +526,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -495,10 +537,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -515,10 +559,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Четвертая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -535,6 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -545,10 +592,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -568,6 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -578,10 +628,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -598,6 +650,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -608,10 +661,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -628,10 +683,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Пятая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -648,6 +705,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -658,10 +716,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -678,6 +738,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -688,10 +749,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -708,6 +771,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -718,10 +782,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -738,10 +804,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Шестая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -758,10 +826,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -778,10 +848,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого по реестру:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -798,10 +870,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -818,49 +892,51 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </table>
 
 ```
-          __________________________________________ ___________
-              (фамилия, имя и отчество (если оно указано в документе,       (подпись)
-              удостоверяющем личность)) временного администратора
+________________________________________________           ___________
+(фамилия, имя и отчество (если оно указано в документе,           (подпись)
 ```
+
+удостоверяющем личность)) временного администратора
 
 Примечание: расшифровка аббревиатуры:
 
-ИИН индивидуальный идентификационный номер;
+ИИН - индивидуальный идентификационный номер;
 
 БИН - бизнес-идентификационный номер.
 
-> *Приложение 2*  
-> *к приказу Первого Заместитея*  
-> *Премьер-Министра Республики*  
-> *Казахстан-Министра финансов*  
+> *Приложение 2 к приказу*  
+> *Первого Заместителя*  
+> *Премьер-Министра*  
 > *Республики Казахстан*  
-> *от 5 мая 2020 года*  
-> *№ 456*
+> *– Министра финансов*  
+> *Республики Казахстан*  
+> *от 5 мая 2020 года № 456*
 
 > *форма*
 
-> *«___» ________202__ года № ___*  
+> *«___» ______202__ года № ___*  
 > *(дата формирования реестра*  
-> *требований кредиторов) № ___*
+> *требований кредиторов) № ___*  
+> *«___» ______202__ года № ___*  
+> *(дата размещения реестра*  
+> *требований кредиторов*  
+> *на интернет-ресурсе)*
 
-> *«___» ________202__ года № ___*  
-> *(дата размещения реестра требований*  
-> *кредиторов на интернет-ресурсе)*
+## Реестр требований кредиторов в процедуре банкротства ________________________________________________________________ (наименование/фамилия, имя и отчество (если оно указано в документе, удостоверяющем личность), ИИН/БИН ликвидируемого должника)
 
-## Реестр требований кредиторов в процедуре банкротства _______________________________________________________ (наименование/фамилия, имя и отчество (если оно указано в документе, удостоверяющем личность), ИИН/БИН ликвидируемого должника)
+> *Сноска. Приложение 2 в редакции приказа Министра финансов РК от 12.09.2025 № 493 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>
-№
-п/п
-</td>
+<td>№</td>
 <td>Очередь, фамилия, имя и отчество (если оно указано в документе, удостоверяющем личность)/ наименование кредитора</td>
 <td>(ИИН/БИН) кредитора</td>
+<td>(ИИН/БИН) кредитора - нерезидента</td>
 <td>Сумма предъявленных требований (тенге)</td>
 <td>Документы, подтверждающие Обоснованность принятого администратором решения (наименование, дата, номер), дата возникновения задолженности</td>
 <td>Признанные требования</td>
@@ -876,10 +952,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td>6</td>
 <td>7</td>
 <td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Первая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -896,6 +974,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -906,10 +985,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -926,6 +1007,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -936,10 +1018,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -956,6 +1040,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -966,10 +1051,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -986,6 +1073,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -996,10 +1084,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1016,6 +1106,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1026,10 +1117,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1046,6 +1139,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1056,10 +1150,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1076,6 +1172,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1086,10 +1183,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1106,10 +1205,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Вторая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1126,6 +1227,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1136,10 +1238,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1156,6 +1260,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1166,10 +1271,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1186,10 +1293,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>...</td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1200,6 +1309,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1216,10 +1326,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Третья очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1236,6 +1348,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1246,10 +1359,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1266,6 +1381,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1276,10 +1392,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1299,10 +1417,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1319,6 +1439,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1329,10 +1450,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Четвертая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1349,6 +1472,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1359,10 +1483,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1379,6 +1505,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1389,10 +1516,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1409,6 +1538,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1419,10 +1549,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1439,6 +1571,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1449,10 +1582,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1469,10 +1604,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1489,6 +1626,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1499,10 +1637,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Пятая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1519,6 +1659,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1529,10 +1670,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1549,6 +1692,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1559,10 +1703,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1579,10 +1725,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1599,6 +1747,7 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1609,10 +1758,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Шестая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1629,10 +1780,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1649,10 +1802,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого по реестру:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1669,10 +1824,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1689,49 +1846,51 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </table>
 
 ```
-          ____________________________________________ __________
-                 (фамилия, имя и отчество (если оно указано в документе,        (подпись)
-                   удостоверяющем личность)) временного управляющего
+_________________________________________________         __________
+(фамилия, имя и отчество (если оно указано в документе,           (подпись)
 ```
+
+удостоверяющем личность)) временного управляющего
 
 Примечание: расшифровка аббревиатуры:
 
-ИИН индивидуальный идентификационный номер;
+ИИН - индивидуальный идентификационный номер;
 
-БИН – бизнес-идентификационный номер.
+БИН - бизнес-идентификационный номер.
 
-> *Приложение 3*  
-> *к приказу Первого Заместитея*  
-> *Премьер-Министра Республики*  
-> *Казахстан-Министра финансов*  
+> *Приложение 3 к приказу*  
+> *Первого Заместителя*  
+> *Премьер-Министра*  
 > *Республики Казахстан*  
-> *от 5 мая 2020 года*  
-> *№ 456*
+> *– Министра финансов*  
+> *Республики Казахстан*  
+> *от 5 мая 2020 года № 456*
 
 > *форма*
 
-> *«___» ________202__ года № ___*  
+> *«___»_______202__ года № ___*  
 > *(дата формирования реестра*  
-> *требований кредиторов) № ___*
+> *требований кредиторов) № ___*  
+> *«___» ______202__ года № ___*  
+> *(дата размещения реестра*  
+> *требований кредиторов*  
+> *на интернет-ресурсе)*
 
-> *«___» ________202__ года № ___*  
-> *(дата размещения реестра требований*  
-> *кредиторов на интернет-ресурсе)*
+## Реестр требований кредиторов хлебоприемных предприятий в реабилитационной процедуре и процедуре банкротства __________________________________________________________________ (наименование/фамилия, имя и отчество (если оно указано в документе, удостоверяющем личность), ИИН/БИН ликвидируемого должника)
 
-## Реестр требований кредиторов хлебоприемных предприятий в реабилитационной процедуре и процедуре банкротства _______________________________________________________ (наименование/фамилия, имя и отчество (если оно указано в документе, удостоверяющем личность), ИИН/БИН ликвидируемого должника)
+> *Сноска. Приложение 3 в редакции приказа Министра финансов РК от 12.09.2025 № 493 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>
-№
-п/п
-</td>
+<td>№</td>
 <td>Очередь, фамилия, имя и отчество (если оно указано в документе, удостоверяющем личность)/ Наименование кредитора</td>
 <td>(ИИН/БИН) кредитора</td>
+<td>(ИИН/БИН) кредитора - нерезидента</td>
 <td>Сумма предъявленных требований (тенге)</td>
 <td>Документы, подтверждающие Обоснованность принятого администратором решения (наименование, дата, номер), дата возникновения задолженности</td>
 <td>Признанные требования</td>
@@ -1747,10 +1906,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td>6</td>
 <td>7</td>
 <td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Первая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1767,10 +1928,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1787,10 +1950,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Вторая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1807,10 +1972,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1827,10 +1994,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Третья очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1847,10 +2016,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1867,10 +2038,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Четвертая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1887,10 +2060,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1907,10 +2082,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Пятая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1927,10 +2104,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1947,10 +2126,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Шестая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1967,10 +2148,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1987,10 +2170,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Седьмая очередь</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2007,10 +2192,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2027,10 +2214,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Итого по реестру:</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2047,10 +2236,12 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>...</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2067,20 +2258,22 @@ source: https://zan.gov.kz/client/#!/doc/142638/rus/28.02.2023
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </table>
 
 ```
-          _____________________________________________ _________
-                 (фамилия, имя и отчество (если оно указано в документе,         (подпись)
-                            удостоверяющем личность)) администратора
+________________________________________________           __________
+(фамилия, имя и отчество (если оно указано в документе,           (подпись)
 ```
+
+удостоверяющем личность)) администратора
 
 Примечание: расшифровка аббревиатуры:
 
-ИИН индивидуальный идентификационный номер;
+ИИН - индивидуальный идентификационный номер;
 
-БИН – бизнес-идентификационный номер.
+БИН - бизнес-идентификационный номер.
 
 > *Приложение 4*  
 > *к приказу Первого Заместитея*  
