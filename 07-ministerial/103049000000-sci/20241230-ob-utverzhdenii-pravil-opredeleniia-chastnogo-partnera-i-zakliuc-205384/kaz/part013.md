@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205384/kaz/30.12.2024
+source: https://zan.gov.kz/client/#!/doc/205384/kaz/18.09.2025
 ---
 
 > *Мемлекеттік-жекешелік*  
