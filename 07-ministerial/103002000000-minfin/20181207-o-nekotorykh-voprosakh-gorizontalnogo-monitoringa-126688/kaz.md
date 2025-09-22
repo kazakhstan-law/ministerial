@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/126688/kaz/23.10.2023
+repealed_on: 2026-01-01
+repealed_by:
+  code: '214554'
+  title: Деңгейлес мониторингтің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/214554/kaz
 ---
 
 # Деңгейлес мониторингтің кейбір мәселелері туралы

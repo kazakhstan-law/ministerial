@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/126688/rus/23.10.2023
+repealed_on: 2026-01-01
+repealed_by:
+  code: '214554'
+  title: О некоторых вопросах горизонтального мониторинга
+  link: https://zan.gov.kz/client/#!/doc/214554/rus
 ---
 
 # О некоторых вопросах горизонтального мониторинга
