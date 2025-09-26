@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/91963/rus/29.07.2025
+source: https://zan.gov.kz/client/#!/doc/91963/rus/26.09.2025
 ---
 
 # Об утверждении Правил внутренней торговли
