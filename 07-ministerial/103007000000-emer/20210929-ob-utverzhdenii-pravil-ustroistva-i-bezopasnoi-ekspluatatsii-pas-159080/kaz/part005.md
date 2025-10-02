@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/159080/kaz/14.07.2023
+source: https://zan.gov.kz/client/#!/doc/159080/kaz/02.10.2025
 ---
 
 > *Жолаушылар аспалы арқан жолдарын орнату және қауіпсіз пайдалану қағидаларына*  

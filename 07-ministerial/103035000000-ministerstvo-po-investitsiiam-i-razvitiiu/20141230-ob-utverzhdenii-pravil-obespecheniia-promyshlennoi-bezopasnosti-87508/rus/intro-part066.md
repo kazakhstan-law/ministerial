@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/87508/rus/09.01.2025
+source: https://zan.gov.kz/client/#!/doc/87508/rus/02.10.2025
 ---
 
 ## Параграф 13. Паспорт и маркировка

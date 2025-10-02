@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/87902/kaz/14.07.2023
+source: https://zan.gov.kz/client/#!/doc/87902/kaz/02.10.2025
 ---
 
 ## 3. Аварияны жою жоспарының сызбалық бөлімі

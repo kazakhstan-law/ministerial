@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/87902/rus/14.07.2023
+source: https://zan.gov.kz/client/#!/doc/87902/rus/02.10.2025
 ---
 
 ## Параграф 1. Предупреждение взрывов сульфидной пыли
