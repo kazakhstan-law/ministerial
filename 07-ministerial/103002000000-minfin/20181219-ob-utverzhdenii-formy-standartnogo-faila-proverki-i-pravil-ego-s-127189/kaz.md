@@ -14,6 +14,11 @@ approval_date: 2018-12-19
 version_date: 2018-12-19
 registry_number: '127189'
 source: https://zan.gov.kz/client/#!/doc/127189/kaz/19.12.2018
+repealed_on: 2026-01-01
+repealed_by:
+  code: '215182'
+  title: Тексерудің стандартты файлға қойылатын талаптарды, оны жасау және ұсыну қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/215182/kaz
 ---
 
 # Стандартты тексеру файлының нысанын және оны жасау қағидаларын бекіту туралы

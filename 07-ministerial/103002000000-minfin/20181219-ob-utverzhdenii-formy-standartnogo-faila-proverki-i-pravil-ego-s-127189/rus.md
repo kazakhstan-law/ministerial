@@ -14,6 +14,11 @@ approval_date: 2018-12-19
 version_date: 2018-12-19
 registry_number: '127189'
 source: https://zan.gov.kz/client/#!/doc/127189/rus/19.12.2018
+repealed_on: 2026-01-01
+repealed_by:
+  code: '215182'
+  title: Об утверждении требований к стандартному файлу проверки, правила его составления и предоставления
+  link: https://zan.gov.kz/client/#!/doc/215182/rus
 ---
 
 # Об утверждении формы стандартного файла проверки и правил его составления
