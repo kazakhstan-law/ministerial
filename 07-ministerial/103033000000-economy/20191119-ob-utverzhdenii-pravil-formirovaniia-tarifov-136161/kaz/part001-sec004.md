@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/136161/kaz/28.08.2025
+source: https://zan.gov.kz/client/#!/doc/136161/kaz/03.10.2025
 ---
 
 ## 4-бөлім. Индекстеу әдісін қолдануды ескере отырып тарифті есептеу тетігі
