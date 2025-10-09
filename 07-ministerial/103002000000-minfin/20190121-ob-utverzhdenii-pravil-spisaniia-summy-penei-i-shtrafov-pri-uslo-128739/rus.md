@@ -14,6 +14,11 @@ approval_date: 2019-01-21
 version_date: 2019-01-21
 registry_number: '128739'
 source: https://zan.gov.kz/client/#!/doc/128739/rus/21.01.2019
+repealed_on: 2026-01-01
+repealed_by:
+  code: '215545'
+  title: О признании утратившими силу некоторых приказов Министерства финансов Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/215545/rus
 ---
 
 # Об утверждении Правил списания суммы пеней и штрафов при условии уплаты суммы недоимки
