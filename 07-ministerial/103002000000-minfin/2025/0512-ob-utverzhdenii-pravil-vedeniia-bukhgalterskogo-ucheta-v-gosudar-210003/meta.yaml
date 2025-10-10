@@ -11,8 +11,15 @@ approved_on: 2025-05-12
 approved_by:
 - '103002000000'
 version_date:
-  kaz: 2025-05-12
-  rus: 2025-05-12
+  kaz: 2025-10-10
+  rus: 2025-10-10
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/210003/kaz/12.05.2025
-  rus: https://zan.gov.kz/client/#!/doc/210003/rus/12.05.2025
+  kaz: https://zan.gov.kz/client/#!/doc/210003/kaz/10.10.2025
+  rus: https://zan.gov.kz/client/#!/doc/210003/rus/10.10.2025
+caused_by:
+  code: '215555'
+  requisite: Приказ и.о. Министра финансов Республики Казахстан от 10 октября 2025 года № 589
+  title:
+    rus: О внесении изменений и дополнения в некоторые приказы Министра финансов Республики Казахстан
+    kaz: Қазақстан Республикасы Қаржы министрінің кейбір бұйрықтарына өзгерістер мен толықтыру енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/215555/rus
