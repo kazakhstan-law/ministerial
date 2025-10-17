@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/126377/kaz/12.11.2018
+repealed_on: 2026-01-01
+repealed_by:
+  code: '215756'
+  title: Аймаққа бөлу коэффициентін есептеу әдістемесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/215756/kaz
 ---
 
 # Аймаққа бөлу коэффициентін есептеу әдістемесін бекіту туралы
