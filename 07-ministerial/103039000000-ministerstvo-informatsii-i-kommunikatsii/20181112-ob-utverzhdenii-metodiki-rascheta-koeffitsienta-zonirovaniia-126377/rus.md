@@ -14,6 +14,11 @@ approval_date: 2018-11-12
 version_date: 2018-11-12
 registry_number: '126377'
 source: https://zan.gov.kz/client/#!/doc/126377/rus/12.11.2018
+repealed_on: 2026-01-01
+repealed_by:
+  code: '215756'
+  title: Об утверждении Методики расчета коэффициента зонирования
+  link: https://zan.gov.kz/client/#!/doc/215756/rus
 ---
 
 # Об утверждении Методики расчета коэффициента зонирования
