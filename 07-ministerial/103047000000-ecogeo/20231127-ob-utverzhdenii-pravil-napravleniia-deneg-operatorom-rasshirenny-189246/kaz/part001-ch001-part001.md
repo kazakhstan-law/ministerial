@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/189246/kaz/11.07.2025
+source: https://zan.gov.kz/client/#!/doc/189246/kaz/21.10.2025
 ---
 
 ## 2-параграф. Қалдықтарды жинау, сұрыптау және тасымалдау үшін төлемдер тәртібі
