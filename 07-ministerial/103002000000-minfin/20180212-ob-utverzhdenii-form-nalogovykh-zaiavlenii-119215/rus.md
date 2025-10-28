@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/119215/rus/22.11.2023
+repealed_on: 2026-01-01
+repealed_by:
+  code: '216214'
+  title: О некоторых вопросах, связанных с налоговой регистрацией налогоплательщиков
+  link: https://zan.gov.kz/client/#!/doc/216214/rus
 ---
 
 # Об утверждении форм налоговых заявлений
