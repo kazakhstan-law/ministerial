@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/189820/rus/28.07.2025
+source: https://zan.gov.kz/client/#!/doc/189820/rus/19.11.2025
 ---
 
 # Об утверждении Правил предоставления жилищной помощи
