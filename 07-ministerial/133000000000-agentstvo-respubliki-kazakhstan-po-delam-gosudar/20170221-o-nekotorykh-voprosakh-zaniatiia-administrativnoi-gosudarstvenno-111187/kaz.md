@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/111187/kaz/16.09.2025
+source: https://zan.gov.kz/client/#!/doc/111187/kaz/20.11.2025
 ---
 
 # Мемлекеттік әкімшілік лауазымға орналасудың кейбір мәселелері туралы
