@@ -1,5 +1,5 @@
 ---
-version_id: '212066_785050'
+version_id: '212066_791974'
 act_code: '212066'
 language: rus
 title: Об утверждении лимитов изъятия рыбных ресурсов и других водных животных с 1 июля 2025 года по 1 июля 2026 года
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103012000000'
 approval_date: 2025-07-02
-version_date: 2025-10-20
+version_date: 2025-11-26
 registry_number: '212066'
 caused_by:
-  code: '216118'
+  code: '217686'
   title: О внесении изменений в приказ Министра сельского хозяйства Республики Казахстан от 2 июля 2025 года № 212 «Об утверждении лимитов изъятия рыбных ресурсов и других водных животных с 1 июля 2025 года по 1 июля 2026 года»
-  link: https://zan.gov.kz/client/#!/doc/216118/rus
-source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
+  link: https://zan.gov.kz/client/#!/doc/217686/rus
+source: https://zan.gov.kz/client/#!/doc/212066/rus
 ---
 
 # Об утверждении лимитов изъятия рыбных ресурсов и других водных животных с 1 июля 2025 года по 1 июля 2026 года
@@ -46,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 
 ## Лимиты изъятия рыбных ресурсов и других водных животных с 1 июля 2025 года по 1 июля 2026 года
 
-> *Сноска. Приложение с изменениями, внесенными приказом Министра сельского хозяйства РК от 20.10.2025 № 380 (вводится в действие после дня его первого официального опубликования).*
+> *Сноска. Приложение с изменениями, внесенными приказом Министра сельского хозяйства РК от 20.10.2025 № 380 (вводится в действие после дня его первого официального опубликования); от 26.11.2025 № 437 (вводится в действие после дня его первого официального опубликования).*
 
 Глава 1. Рыбохозяйственные водоемы международного и республиканского значения
 
@@ -7356,7 +7356,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>1</td>
 <td>озеро Жетыколь</td>
 <td>5,1</td>
-<td>5,1</td>
+<td>5,10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7384,13 +7384,13 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td>53,7</td>
+<td>53,70</td>
 </tr>
 <tr>
 <td>3</td>
 <td>озеро Долгое Большое</td>
 <td>4</td>
-<td>4</td>
+<td>4,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7407,7 +7407,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>4</td>
 <td>озеро Жалтыр</td>
 <td>9,3</td>
-<td>9,3</td>
+<td>9,30</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7424,7 +7424,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>5</td>
 <td>озеро Жалтырь</td>
 <td>5</td>
-<td>5</td>
+<td>5,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7441,10 +7441,10 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>6</td>
 <td>озеро Теренколь</td>
 <td>5</td>
-<td>2</td>
+<td>2,00</td>
 <td></td>
-<td>1</td>
-<td>2</td>
+<td>1,00</td>
+<td>2,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7458,24 +7458,24 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>7</td>
 <td>озеро Шаглы-Тенгиз</td>
 <td>126,3</td>
-<td>120</td>
-<td>1,3</td>
+<td>120,0</td>
+<td>1,30</td>
 <td></td>
 <td></td>
-<td>1,5</td>
-<td>1,5</td>
+<td>1,50</td>
+<td>1,50</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2</td>
+<td>2,00</td>
 <td></td>
 </tr>
 <tr>
 <td>8</td>
 <td>озеро Жалтырь</td>
 <td>5</td>
-<td>5</td>
+<td>5,0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7492,10 +7492,10 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>9</td>
 <td>озеро Калдарь</td>
 <td>16,5</td>
-<td>15</td>
+<td>15,00</td>
 <td></td>
 <td></td>
-<td>1,5</td>
+<td>1,50</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7509,12 +7509,12 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>10</td>
 <td>озеро Коржанкуль Малый</td>
 <td>3</td>
-<td>2</td>
+<td>2,00</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>1</td>
+<td>1,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7526,10 +7526,10 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>11</td>
 <td>озеро Башкирское</td>
 <td>6</td>
-<td>1</td>
+<td>1,00</td>
 <td></td>
 <td></td>
-<td>5</td>
+<td>5,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7554,7 +7554,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td>28,5</td>
+<td>28,50</td>
 </tr>
 <tr>
 <td>13</td>
@@ -7571,7 +7571,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td></td>
 <td></td>
 <td></td>
-<td>34,4</td>
+<td>34,40</td>
 </tr>
 <tr>
 <td>14</td>
@@ -7679,15 +7679,15 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>20</td>
 <td>Пойма реки Ишим (Кызылжарский район) № 1</td>
 <td>21</td>
-<td>15</td>
-<td>1,5</td>
+<td>15,00</td>
+<td>1,50</td>
 <td></td>
 <td></td>
-<td>1,5</td>
-<td>1,5</td>
+<td>1,50</td>
+<td>1,50</td>
 <td></td>
 <td></td>
-<td>1,5</td>
+<td>1,50</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7696,7 +7696,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>21</td>
 <td>Пойма реки Ишим (Кызылжарский район) № 2</td>
 <td>10,25</td>
-<td>4,4</td>
+<td>4,40</td>
 <td>1,46</td>
 <td></td>
 <td></td>
@@ -7717,7 +7717,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td></td>
 <td>0,05</td>
 <td></td>
-<td>0,2</td>
+<td>0,20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7730,10 +7730,10 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>23</td>
 <td>озеро Беленок</td>
 <td>3,6</td>
-<td>2</td>
+<td>2,00</td>
 <td></td>
 <td></td>
-<td>1,6</td>
+<td>1,60</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7747,10 +7747,10 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>24</td>
 <td>озеро Жарколь</td>
 <td>4,9</td>
-<td>3</td>
+<td>3,00</td>
 <td></td>
 <td></td>
-<td>1,9</td>
+<td>1,90</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7764,12 +7764,12 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>25</td>
 <td>озеро Окунево</td>
 <td>3</td>
-<td>2</td>
+<td>2,00</td>
 <td></td>
 <td></td>
 <td></td>
-<td>0,5</td>
-<td>0,5</td>
+<td>0,50</td>
+<td>0,50</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7781,13 +7781,13 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>26</td>
 <td>озеро Рыбное (Воскресеновка)</td>
 <td>4,2</td>
-<td>4</td>
+<td>4,00</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>0,2</td>
+<td>0,20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7798,7 +7798,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>27</td>
 <td>озеро Биесоган</td>
 <td>6</td>
-<td>6</td>
+<td>6,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7815,7 +7815,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>28</td>
 <td>озеро Калмакколь</td>
 <td>12,5</td>
-<td>12,5</td>
+<td>12,50</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7832,7 +7832,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>29</td>
 <td>озеро Салкынколь</td>
 <td>10</td>
-<td>10</td>
+<td>10,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7849,15 +7849,15 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>30</td>
 <td>озеро Улыколь</td>
 <td>35</td>
-<td>12</td>
+<td>12,00</td>
 <td></td>
-<td>4</td>
+<td>4,00</td>
 <td></td>
-<td>7</td>
-<td>6</td>
+<td>7,00</td>
+<td>6,00</td>
 <td></td>
 <td></td>
-<td>6</td>
+<td>6,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7866,12 +7866,12 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>31</td>
 <td>озеро Карасор</td>
 <td>12,9</td>
-<td>7,3</td>
+<td>7,30</td>
 <td></td>
 <td></td>
-<td>2,6</td>
+<td>2,60</td>
 <td></td>
-<td>3</td>
+<td>3,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7883,10 +7883,10 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>32</td>
 <td>озеро Аксуат</td>
 <td>3,4</td>
-<td>3</td>
+<td>3,00</td>
 <td></td>
 <td></td>
-<td>0,4</td>
+<td>0,40</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7900,7 +7900,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>33</td>
 <td>озеро Половинное</td>
 <td>3</td>
-<td>3</td>
+<td>3,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7917,7 +7917,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>34</td>
 <td>озеро Придворное</td>
 <td>3</td>
-<td>3</td>
+<td>3,00</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7934,11 +7934,11 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>35</td>
 <td>озеро Косколь Малый</td>
 <td>3,1</td>
-<td>2,5</td>
+<td>2,50</td>
 <td></td>
 <td></td>
 <td></td>
-<td>0,6</td>
+<td>0,60</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7949,25 +7949,93 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 </tr>
 <tr>
 <td>36</td>
+<td>озеро Калибек и притоки</td>
+<td>143,22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>143,22</td>
+</tr>
+<tr>
+<td>37</td>
+<td>озеро Становое</td>
+<td>41,6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>41,6</td>
+</tr>
+<tr>
+<td>38</td>
+<td>озеро Теке</td>
+<td>269,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>269,5</td>
+</tr>
+<tr>
+<td>39</td>
+<td>озеро Минкесер</td>
+<td>16,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>16,7</td>
+</tr>
+<tr>
+<td>40</td>
 <td>Прочие водоемы**</td>
 <td>156,7</td>
 <td>136,3</td>
-<td></td>
+<td>0</td>
 <td>4,2</td>
 <td>3,3</td>
 <td>4,2</td>
 <td>3,3</td>
 <td>0,7</td>
-<td></td>
+<td>0</td>
 <td>2,75</td>
-<td></td>
+<td>0</td>
 <td>1,95</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>Итого*</td>
-<td>623,63</td>
+<td>1094,65</td>
 <td>420,93</td>
 <td>4,26</td>
 <td>10,25</td>
@@ -7979,7 +8047,7 @@ source: https://zan.gov.kz/client/#!/doc/212066/rus/20.10.2025
 <td>11,81</td>
 <td></td>
 <td>3,95</td>
-<td>116,6</td>
+<td>587,62</td>
 </tr>
 </table>
 
