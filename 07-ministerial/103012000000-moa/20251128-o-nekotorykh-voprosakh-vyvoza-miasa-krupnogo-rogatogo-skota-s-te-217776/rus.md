@@ -13,6 +13,11 @@ approval_date: 2025-11-28
 version_date: 2025-11-28
 registry_number: '217776'
 source: https://zan.gov.kz/client/#!/doc/217776/rus/28.11.2025
+repealed_on: 2025-12-31
+repealed_by:
+  code: '217776'
+  title: О некоторых вопросах вывоза мяса крупного-рогатого скота с территории Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/217776/rus
 ---
 
 # О некоторых вопросах вывоза мяса крупного-рогатого скота с территории Республики Казахстан
