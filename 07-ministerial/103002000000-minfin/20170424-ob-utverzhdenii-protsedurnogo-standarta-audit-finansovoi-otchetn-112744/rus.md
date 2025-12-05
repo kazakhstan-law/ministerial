@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/112744/rus/07.10.2024
+source: https://zan.gov.kz/client/#!/doc/112744/rus/05.12.2025
 ---
 
 # Об утверждении процедурного стандарта «Аудит финансовой отчетности»
