@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/182702/kaz/23.01.2025
+source: https://zan.gov.kz/client/#!/doc/182702/kaz/08.12.2025
 ---
 
 *XXI сынып кодтары тек екіұдай кодтау үшін нақтылайтын диагноз болған кезде ғана пайдаланады
