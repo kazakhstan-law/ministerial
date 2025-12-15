@@ -11,8 +11,15 @@ approved_on: 2024-10-09
 approved_by:
 - '103014000000'
 version_date:
-  kaz: 2024-10-09
-  rus: 2024-10-09
+  kaz: 2025-12-15
+  rus: 2025-12-15
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/201524/kaz/09.10.2024
-  rus: https://zan.gov.kz/client/#!/doc/201524/rus/09.10.2024
+  kaz: https://zan.gov.kz/client/#!/doc/201524/kaz/15.12.2025
+  rus: https://zan.gov.kz/client/#!/doc/201524/rus/15.12.2025
+caused_by:
+  code: '219072'
+  requisite: Приказ и.о. Министра туризма и спорта Республики Казахстан от 15 декабря 2025 года № 246. Зарегистрирован в Министерстве юстиции Республики Казахстан 19 декабря 2025 года № 37612
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/219072/rus
