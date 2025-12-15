@@ -1,5 +1,5 @@
 ---
-version_id: '85622_408854'
+version_id: '85622_794196'
 act_code: '85622'
 language: kaz
 title: Ауыл шаруашылығы өнімінің және оны өңдеуден алынған өнімдердің табиғи кему, кебу, азаю, бұзылу нормаларын бекіту туралы
@@ -10,18 +10,20 @@ type_codes:
 approved_by:
 - '103012000000'
 approval_date: 2014-11-27
-version_date: 2019-05-29
+version_date: 2025-12-15
 registry_number: '85622'
 caused_by:
-  code: '132201'
-  title: «Ауыл шаруашылығы өнімінің және оны өңдеуден алынған өнімдердің табиғи кему, кебу, азаю, бұзылу нормаларын бекіту туралы» Қазақстан Республикасы Ауыл шаруашылығы министрінің 2014 жылғы 27 қарашадағы № 3-4/617 бұйрығына өзгерістер мен толықтыру енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/132201/kaz
-source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
+  code: '218812'
+  title: «Ауыл шаруашылығы өнімінің және оны өңдеуден алынған өнімдердің табиғи кему, кебу, азаю, бұзылу нормаларын бекіту туралы» Қазақстан Республикасы Ауыл шаруашылығы министрінің 2014 жылғы 27 қарашадағы № 3-4/617 бұйрығына өзгерістер енгізу туралы»
+  link: https://zan.gov.kz/client/#!/doc/218812/kaz
+source: https://zan.gov.kz/client/#!/doc/85622/kaz
 ---
 
 # Ауыл шаруашылығы өнімінің және оны өңдеуден алынған өнімдердің табиғи кему, кебу, азаю, бұзылу нормаларын бекіту туралы
 
-«Агроөнеркәсіптік кешенді және ауылдық аумақтарды дамытуды мемлекеттік реттеу туралы» 2005 жылғы 8 шілдедегі Қазақстан Республикасының Заңының 6-бабының 1-тармағының 26) тармақшасына сәйкес БҰЙЫРАМЫН:
+«Агроөнеркәсіптік кешенді және ауылдық аумақтарды дамытуды мемлекеттік реттеу туралы» Қазақстан Республикасының Заңының 6-бабының 1-тармағының 26) тармақшасына сәйкес БҰЙЫРАМЫН:
+
+> *Ескерту. Кіріспе жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің м.а. 15.12.2025 № 467 (алғашқы ресми жарияланған күнінен кейiн қолданысқа енгiзiледi) бұйрығымен.*
 
 1. Осы бұрыққа қосымшаға сәйкес ауыл шаруашылық өнімінің және оны қайта өңдеуден алынған өнімдердің табиғи кему, кебу, азаю, бұзылу нормалары бекітілсін.
 
@@ -6578,9 +6580,9 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 </table>
 
-## 49-бөлім. Әр түрлі мерзімде пісетін асханалық тамыржемістілер, картоп, жемісті және жасыл көкөніс дақылдар массаларын сақтау кезіндегі табиғи кему, кебу, азаю, бұзылу нормалары
+### 49-бөлім. Әр түрлі мерзімде пісетін асханалық тамыржемістілер, картоп, жемісті және жасыл көкөніс дақылдар массаларын сақтау кезіндегі табиғи кему, кебу, азаю, бұзылу нормалары
 
-> *Ескерту. 49-бөлім жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің 29.05.2019 № 216 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. 49-бөлім жаңа редакцияда - ҚР Ауыл шаруашылығы министрінің 29.05.2019 № 216 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); ҚР Ауыл шаруашылығы министрінің м.а. 15.12.2025 № 467 (алғашқы ресми жарияланған күнінен кейiн қолданысқа енгiзiледi) бұйрықтарымен.*
 
 <table>
 <tr>
@@ -6597,11 +6599,11 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <tr>
 <td>күз</td>
 <td>қыс</td>
-<td>көктем</td>
+<td>көк тем</td>
 <td>жаз</td>
 <td colspan="2">күз</td>
 <td colspan="2">қыс</td>
-<td>көктем</td>
+<td>көк тем</td>
 <td>жаз</td>
 <td>күз</td>
 <td>қыс</td>
@@ -6616,7 +6618,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td>ерте піскен</td>
-<td colspan="3" rowspan="4">жасанды салқындатумен</td>
+<td colspan="3" rowspan="4">жасанды салқын- датумен</td>
 <td colspan="2">жәшіктер, торлы қаптар</td>
 <td>1,1</td>
 <td>0,8</td>
@@ -6665,7 +6667,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td>жас</td>
-<td colspan="2">жәшіктер, полиэтилен үлбірден жасалған пакеттер</td>
+<td colspan="2">
+жәшіктер, полиэти
+лен үлбірден жасалған пакеттер
+</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6681,7 +6686,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td>ерте піскен</td>
-<td colspan="3" rowspan="3">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="3">жасанды салқын датусыз</td>
 <td colspan="2">жәшіктер, торлы қаптар</td>
 <td>2,2</td>
 <td>1,1</td>
@@ -6733,7 +6738,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td>ерте піскен</td>
-<td colspan="3" rowspan="4">жасанды салқындатумен</td>
+<td colspan="3" rowspan="4">жасанды салқын датумен</td>
 <td colspan="2">жәшіктер, торлы қаптар</td>
 <td>1,1</td>
 <td>0,8</td>
@@ -6798,7 +6803,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td>ерте піскен</td>
-<td colspan="3" rowspan="4">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="4">жасанды салқын датусыз</td>
 <td colspan="2">жәшіктер, торлы қаптар</td>
 <td>2,2</td>
 <td>1,1</td>
@@ -6960,7 +6965,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="2">ерте піскен</td>
-<td colspan="3" rowspan="6">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="6">жасанды салқын датусыз</td>
 <td colspan="2">жәшіктер</td>
 <td>1,3</td>
 <td>0,7</td>
@@ -7057,7 +7062,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="3">ерте піскен</td>
-<td colspan="3" rowspan="7">жасанды салқындатумен</td>
+<td colspan="3" rowspan="7">жасанды салқын датумен</td>
 <td colspan="2">жәшіктер,</td>
 <td rowspan="2">1,0</td>
 <td rowspan="2">0,7</td>
@@ -7157,7 +7162,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td>ерте піскен</td>
-<td colspan="3" rowspan="5">жасанды салқындатумен</td>
+<td colspan="3" rowspan="5">жасанды салқын датумен</td>
 <td colspan="2">жәшіктер, торлы қаптар</td>
 <td>1,3</td>
 <td>0,8</td>
@@ -7237,7 +7242,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td>ерте піскен</td>
-<td colspan="3" rowspan="5">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="5">жасанды салқын датусыз</td>
 <td colspan="2">жәшіктер, торлы қаптар</td>
 <td>2,2</td>
 <td>1,0</td>
@@ -7323,9 +7328,15 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td colspan="20">Қызанақ</td>
 </tr>
 <tr>
-<td rowspan="3">ашық топырақтағы</td>
-<td colspan="3">жасанды салқындатумен</td>
-<td colspan="2">полиэтилен астарлы және астарсыз жәшіктер</td>
+<td rowspan="3">
+ашық топырақ
+тағы
+</td>
+<td colspan="3">жасанды салқын датумен</td>
+<td colspan="2">
+полиэти
+лен астарлы және астарсыз жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -7340,7 +7351,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>0,9</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз (пісудің сүттену дәрежесіндегі жемістер үшін)</td>
+<td colspan="3" rowspan="2">
+жасанды салқын датусыз (пісудің сүттену дәрежесінде
+гі жемістер үшін)
+</td>
 <td colspan="2">жәшіктер</td>
 <td></td>
 <td></td>
@@ -7356,7 +7370,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>2,1</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -7375,8 +7392,14 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="3">көктемгі-жазғы</td>
-<td colspan="3">жасанды салқындатумен</td>
-<td colspan="2">полиэтилен астарлы және астарсыз жәшіктер</td>
+<td colspan="3">
+жасанды салқындату
+мен
+</td>
+<td colspan="2">
+полиэти
+лен астарлы және астарсыз жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2">0,4</td>
@@ -7391,7 +7414,11 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз (пісудің сүттену дәрежесіндегі жемістер үшін)</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз (пісудің сүттену дәрежесінде
+гі жемістер үшін)
+</td>
 <td colspan="2">жәшіктер</td>
 <td></td>
 <td></td>
@@ -7407,7 +7434,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2">0,5</td>
@@ -7423,8 +7453,14 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="3">жазғы-күзгі</td>
-<td colspan="3">жасанды салқындатумен</td>
-<td colspan="2">полиэтилен астарлы және астарсыз жәшіктер</td>
+<td colspan="3">
+жасанды салқындату
+мен
+</td>
+<td colspan="2">
+полиэти
+лен астарлы және астарсыз жәшіктер
+</td>
 <td>0,8</td>
 <td></td>
 <td colspan="2"></td>
@@ -7439,7 +7475,11 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>1,0</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз (пісудің сүттені дәрежесіндегі жемістер үшін)</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз (пісудің сүттені дәрежесінде
+гі жемістер үшін)
+</td>
 <td colspan="2">жәшіктер</td>
 <td>1,5</td>
 <td></td>
@@ -7455,7 +7495,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>1,9</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td>1,3</td>
 <td></td>
 <td colspan="2"></td>
@@ -7471,8 +7514,14 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="3">қысқы-көктемгі</td>
-<td colspan="3">жасанды салқындатумен</td>
-<td colspan="2">полиэтилен астарлы және астарсыз жәшіктер</td>
+<td colspan="3">
+жасанды салқындату
+мен
+</td>
+<td colspan="2">
+полиэти
+лен астарлы және астарсыз жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2">0,6</td>
@@ -7487,7 +7536,11 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз (пісудің сүттені дәрежесіндегі жемістер үшін)</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз (пісудің сүттені дәрежесінде
+гі жемістер үшін)
+</td>
 <td colspan="2">жәшіктер</td>
 <td></td>
 <td></td>
@@ -7503,7 +7556,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2">0,9</td>
@@ -7518,9 +7574,18 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td rowspan="3">ұзартылған</td>
-<td colspan="3">жасанды салқындатумен</td>
-<td colspan="2">полиэтилен астарлы және астарсыз жәшіктер</td>
+<td rowspan="3">
+ұзартыл
+ған
+</td>
+<td colspan="3">
+жасанды салқындату
+мен
+</td>
+<td colspan="2">
+полиэти
+лен астарлы және астарсыз жәшіктер
+</td>
 <td>1,1</td>
 <td>0,9</td>
 <td colspan="2">0,8</td>
@@ -7535,7 +7600,11 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз (пісудің сүттену дәрежесіндегі жемістер үшін)</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз (пісудің сүттену дәрежесінде
+гі жемістер үшін)
+</td>
 <td colspan="2">жәшіктер</td>
 <td>1,3</td>
 <td>1,1</td>
@@ -7551,7 +7620,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td>1,2</td>
 <td>1,0</td>
 <td colspan="2">0,9</td>
@@ -7569,8 +7641,14 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td colspan="20">Қияр</td>
 </tr>
 <tr>
-<td rowspan="4">ашық топырақтағы</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td rowspan="4">
+ашық топырақ
+тағы
+</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+мен
+</td>
 <td colspan="2">жәшіктер</td>
 <td></td>
 <td></td>
@@ -7601,7 +7679,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>1,0</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз
+</td>
 <td colspan="2">жәшіктер</td>
 <td></td>
 <td></td>
@@ -7636,7 +7717,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="4">көктемгі-жазғы</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+мен
+</td>
 <td colspan="2">жәшіктер</td>
 <td></td>
 <td></td>
@@ -7667,7 +7751,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз
+</td>
 <td colspan="2">жәшіктер</td>
 <td></td>
 <td></td>
@@ -7699,7 +7786,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="4">жазғы-күзгі</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+мен
+</td>
 <td colspan="2">жәшіктер</td>
 <td>0,7</td>
 <td></td>
@@ -7730,7 +7820,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>1,0</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз
+</td>
 <td colspan="2">жәшіктер</td>
 <td>1,5</td>
 <td></td>
@@ -7762,7 +7855,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="4">қысқы-көктемгі</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+мен
+</td>
 <td colspan="2">жәшіктер</td>
 <td></td>
 <td>0,7</td>
@@ -7793,7 +7889,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз
+</td>
 <td colspan="2">жәшіктер</td>
 <td></td>
 <td>1,0</td>
@@ -7824,8 +7923,14 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td rowspan="4">ұзартылған</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td rowspan="4">
+ұзартыл
+ған
+</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+мен
+</td>
 <td colspan="2">жәшіктер</td>
 <td>0,9</td>
 <td>0,7</td>
@@ -7856,7 +7961,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз
+</td>
 <td colspan="2">жәшіктер</td>
 <td>1,7</td>
 <td>1,0</td>
@@ -7890,8 +7998,14 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td colspan="20">Тәтті бұрыш</td>
 </tr>
 <tr>
-<td rowspan="4">ашық топырақтағы</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td rowspan="4">
+ашық топырақ
+тағы
+</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+мен
+</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td></td>
 <td></td>
@@ -7907,7 +8021,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>0,9</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -7938,7 +8055,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>2,1</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -7957,7 +8077,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="4">көктемгі-жазғы</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+мен
+</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td></td>
 <td></td>
@@ -7973,7 +8096,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2">0,4</td>
@@ -7988,7 +8114,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз
+</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td></td>
 <td></td>
@@ -8004,7 +8133,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2">0,5</td>
@@ -8020,7 +8152,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="4">жазғы-күзгі</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+мен
+</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td>1,0</td>
 <td></td>
@@ -8036,7 +8171,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>0,9</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td>0,9</td>
 <td></td>
 <td colspan="2"></td>
@@ -8051,7 +8189,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>1,0</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз
+</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td>1,6</td>
 <td></td>
@@ -8067,7 +8208,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>2,3</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td>1,2</td>
 <td></td>
 <td colspan="2"></td>
@@ -8083,7 +8227,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="4">қысқы-көктемгі</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+мен
+</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td></td>
 <td></td>
@@ -8099,7 +8246,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2">0,7</td>
@@ -8114,7 +8264,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">
+жасанды салқындату
+сыз
+</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td></td>
 <td></td>
@@ -8130,7 +8283,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2">0,8</td>
@@ -8145,8 +8301,11 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td rowspan="4">ұзартылған</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td rowspan="4">
+ұзартыл
+ған
+</td>
+<td colspan="3" rowspan="2">жасанды салқын датумен</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td>1,1</td>
 <td>0,7</td>
@@ -8162,7 +8321,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td>1,0</td>
 <td>0,7</td>
 <td colspan="2">0,7</td>
@@ -8177,7 +8339,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">жасанды салқын датусыз</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td>1,7</td>
 <td>0,8</td>
@@ -8193,7 +8355,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td>1,3</td>
 <td>0,8</td>
 <td colspan="2">0,8</td>
@@ -8211,8 +8376,11 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td colspan="20">Баялды</td>
 </tr>
 <tr>
-<td rowspan="4">ашық топырақтағы</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td rowspan="4">
+ашық топырақ
+тағы
+</td>
+<td colspan="3" rowspan="2">жасанды салқын датумен</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td></td>
 <td></td>
@@ -8228,7 +8396,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>0,9</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -8243,7 +8414,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>0,8</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">жасанды салқын датусыз</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td></td>
 <td></td>
@@ -8259,7 +8430,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>2,1</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -8278,7 +8452,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="4">көктемгі-жазғы</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td colspan="3" rowspan="2">жасанды салқын датумен</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td></td>
 <td></td>
@@ -8294,7 +8468,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2">0,4</td>
@@ -8309,7 +8486,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">жасанды салқын датусыз</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td></td>
 <td></td>
@@ -8325,7 +8502,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td></td>
 <td></td>
 <td colspan="2">0,5</td>
@@ -8341,7 +8521,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="4">жазғы-күзгі</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td colspan="3" rowspan="2">жасанды салқын датумен</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td>1,0</td>
 <td></td>
@@ -8357,7 +8537,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>0,9</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td>0,9</td>
 <td></td>
 <td colspan="2"></td>
@@ -8372,7 +8555,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>1,0</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">жасанды салқын датусыз</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td>1,6</td>
 <td></td>
@@ -8388,7 +8571,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>2,3</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td>1,2</td>
 <td></td>
 <td colspan="2"></td>
@@ -8404,7 +8590,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td rowspan="4">ұзартылған</td>
-<td colspan="3" rowspan="2">жасанды салқындатумен</td>
+<td colspan="3" rowspan="2">жасанды салқын датумен</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td>1,1</td>
 <td>0,7</td>
@@ -8420,7 +8606,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td>1,0</td>
 <td>0,7</td>
 <td colspan="2">0,7</td>
@@ -8435,7 +8624,7 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">жасанды салқындатусыз</td>
+<td colspan="3" rowspan="2">жасанды салқын датусыз</td>
 <td colspan="2">жәшіктер және торлы қаптар</td>
 <td>1,7</td>
 <td>0,8</td>
@@ -8451,7 +8640,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td></td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэти
+лен астарлы жәшіктер
+</td>
 <td>1,3</td>
 <td>0,8</td>
 <td colspan="2">0,8</td>
@@ -8470,8 +8662,11 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 </tr>
 <tr>
 <td colspan="3" rowspan="6">Салат, аскөк, ақжелкен, насыбайгүл, балдыркөк, сүйментамыр, қымыздық, эстрагон, чабер, салатқа арналған қыша, кресс салат, кориандр, жасыл пияз</td>
-<td colspan="2" rowspan="3">жасанды салқындатумен</td>
-<td colspan="2">Жәшіктер</td>
+<td colspan="2" rowspan="3">жасанды салқын датумен</td>
+<td colspan="2">
+Жәшік
+тер
+</td>
 <td>1,5</td>
 <td>0,8</td>
 <td>0,9</td>
@@ -8486,7 +8681,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>1,2</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэтилен астарлы жәшік
+тер
+</td>
 <td>1,4</td>
 <td>0,7</td>
 <td>0,8</td>
@@ -8516,8 +8714,11 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>1,6</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">жасанды салқындатусыз</td>
-<td colspan="2">жәшіктер</td>
+<td colspan="2" rowspan="3">жасанды салқын датусыз</td>
+<td colspan="2">
+жәшік
+тер
+</td>
 <td>2,2</td>
 <td>1,1</td>
 <td>1,3</td>
@@ -8532,7 +8733,10 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>2,8</td>
 </tr>
 <tr>
-<td colspan="2">полиэтилен астарлы жәшіктер</td>
+<td colspan="2">
+полиэтилен астарлы жәшік
+тер
+</td>
 <td>2,0</td>
 <td>0,9</td>
 <td>1,1</td>
@@ -8560,6 +8764,213 @@ source: https://zan.gov.kz/client/#!/doc/85622/kaz/29.05.2019
 <td>1,2</td>
 <td>1,3</td>
 <td>2,4</td>
+</tr>
+<tr>
+<td colspan="20">Әр түрлі мерзімде пісетін картоп</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">Сорттың пісу тобы</td>
+<td colspan="2" rowspan="2">Қойма түрі</td>
+<td colspan="2" rowspan="2">Сақтау тәсілі</td>
+<td colspan="2">Сақтау режимі</td>
+<td colspan="10">Сақтау айлары</td>
+<td rowspan="2">
+Табиғи кемудің барлық шығын-
+дары, %
+</td>
+</tr>
+<tr>
+<td>Градус темпера-турасы</td>
+<td>
+Ауаның салыс-
+тырмалы ылғалды-лығы, %
+</td>
+<td>IX</td>
+<td>X</td>
+<td colspan="2">XI</td>
+<td>XII</td>
+<td>I</td>
+<td>II</td>
+<td>III</td>
+<td>IV</td>
+<td>V</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="4">ерте және орташа ерте</td>
+<td colspan="2">суық камера</td>
+<td colspan="2">торда</td>
+<td rowspan="2">2-4</td>
+<td>80-85</td>
+<td>1,2</td>
+<td>0,8</td>
+<td colspan="2">0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,5</td>
+<td>0,5</td>
+<td>0,8</td>
+<td>1,2</td>
+<td>6,2</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3">қойма</td>
+<td colspan="2" rowspan="3">үймеде</td>
+<td>90-95</td>
+<td>1,1</td>
+<td>0,8</td>
+<td colspan="2">0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,8</td>
+<td>1,1</td>
+<td>5,8</td>
+</tr>
+<tr>
+<td rowspan="2">2-4</td>
+<td>80-85</td>
+<td>1,4</td>
+<td>1,1</td>
+<td colspan="2">0,6</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,5</td>
+<td>0,9</td>
+<td>1,4</td>
+<td>7,2</td>
+</tr>
+<tr>
+<td>90-95</td>
+<td>1,2</td>
+<td>1</td>
+<td colspan="2">0,5</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,5</td>
+<td>0,8</td>
+<td>1,4</td>
+<td>6,6</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="4">орташа піскендер</td>
+<td colspan="2" rowspan="2">суық камера</td>
+<td colspan="2" rowspan="2">торда</td>
+<td rowspan="2">2-4</td>
+<td>80-85</td>
+<td>1,2</td>
+<td>0,8</td>
+<td colspan="2">0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,7</td>
+<td>0,9</td>
+<td>1,2</td>
+<td>6,6</td>
+</tr>
+<tr>
+<td>90-95</td>
+<td>1,3</td>
+<td>0,8</td>
+<td colspan="2">0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,5</td>
+<td>0,9</td>
+<td>1,1</td>
+<td>6</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">қойма</td>
+<td colspan="2" rowspan="2">үймеде</td>
+<td rowspan="2">2-4</td>
+<td>80-85</td>
+<td>1,4</td>
+<td>1,2</td>
+<td colspan="2">0,6</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,7</td>
+<td>1</td>
+<td>1,4</td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>90-95</td>
+<td>1,3</td>
+<td>1,1</td>
+<td colspan="2">0,5</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,6</td>
+<td>0,9</td>
+<td>1,4</td>
+<td>7</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="4">орташа кеш</td>
+<td colspan="2" rowspan="2">суық камера</td>
+<td colspan="2" rowspan="2">торда</td>
+<td rowspan="2">2-4</td>
+<td>80-85</td>
+<td>1,4</td>
+<td>0,9</td>
+<td colspan="2">0,4</td>
+<td>0,4</td>
+<td>0,5</td>
+<td>0,6</td>
+<td>0,7</td>
+<td>0,8</td>
+<td>1,2</td>
+<td>6,9</td>
+</tr>
+<tr>
+<td>90-95</td>
+<td>1,3</td>
+<td>0,9</td>
+<td colspan="2">0,4</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,6</td>
+<td>0,6</td>
+<td>0,7</td>
+<td>1,2</td>
+<td>6,5</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">қойма</td>
+<td colspan="2" rowspan="2">үймеде</td>
+<td rowspan="2">2-4</td>
+<td>80-85</td>
+<td>1,4</td>
+<td>1,3</td>
+<td colspan="2">0,6</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,6</td>
+<td>0,8</td>
+<td>0,9</td>
+<td>1,4</td>
+<td>7,8</td>
+</tr>
+<tr>
+<td>90-95</td>
+<td>1,3</td>
+<td>1,3</td>
+<td colspan="2">0,6</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,5</td>
+<td>0,5</td>
+<td>0,8</td>
+<td>1,4</td>
+<td>7,1</td>
 </tr>
 </table>
 
