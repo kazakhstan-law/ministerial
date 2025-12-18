@@ -16,3 +16,11 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/203713/kaz/04.12.2024
   rus: https://zan.gov.kz/client/#!/doc/203713/rus/04.12.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '219333'
+  requisite: Приказ Министра финансов Республики Казахстан от 18 декабря 2025 года № 786
+  title:
+    rus: Об утверждении Перечня участников мониторинга крупных налогоплательщиков
+    kaz: Ірі салық төлеушілер мониторингіне қатысушылардың тізбесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/219333/rus
