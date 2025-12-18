@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/158123/rus/27.03.2024
+source: https://zan.gov.kz/client/#!/doc/158123/rus/18.12.2025
 ---
 
 # Об утверждении Правил оказания первичной медико-санитарной помощи
