@@ -14,6 +14,11 @@ approval_date: 2024-12-04
 version_date: 2024-12-04
 registry_number: '203713'
 source: https://zan.gov.kz/client/#!/doc/203713/kaz/04.12.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '219333'
+  title: Ірі салық төлеушілер мониторингіне қатысушылардың тізбесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/219333/kaz
 ---
 
 # Ірі салық төлеушілер мониторингіне жататын салық төлеушілердің тізбесін бекіту туралы

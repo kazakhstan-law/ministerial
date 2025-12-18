@@ -14,6 +14,11 @@ approval_date: 2024-12-04
 version_date: 2024-12-04
 registry_number: '203713'
 source: https://zan.gov.kz/client/#!/doc/203713/rus/04.12.2024
+repealed_on: 2026-01-01
+repealed_by:
+  code: '219333'
+  title: Об утверждении Перечня участников мониторинга крупных налогоплательщиков
+  link: https://zan.gov.kz/client/#!/doc/219333/rus
 ---
 
 # Об утверждении Перечня налогоплательщиков, подлежащих мониторингу крупных налогоплательщиков
