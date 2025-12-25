@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/84707/rus/22.09.2025
+source: https://zan.gov.kz/client/#!/doc/84707/rus/25.12.2025
 ---
 
 # Об утверждении нормативных правовых актов в области ветеринарии

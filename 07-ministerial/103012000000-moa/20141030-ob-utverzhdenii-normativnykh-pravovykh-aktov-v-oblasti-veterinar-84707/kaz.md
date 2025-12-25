@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/84707/kaz/22.09.2025
+source: https://zan.gov.kz/client/#!/doc/84707/kaz/25.12.2025
 ---
 
 # Ветеринария саласындағы нормативтік құқықтық актілерді бекіту туралы
