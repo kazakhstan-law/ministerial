@@ -10,15 +10,15 @@ approved_on: 2025-05-15
 approved_by:
 - '103002000000'
 version_date:
-  kaz: 2025-08-20
-  rus: 2025-08-20
+  kaz: 2025-12-26
+  rus: 2025-12-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/210313/kaz/20.08.2025
-  rus: https://zan.gov.kz/client/#!/doc/210313/rus/20.08.2025
+  kaz: https://zan.gov.kz/client/#!/doc/210313/kaz/26.12.2025
+  rus: https://zan.gov.kz/client/#!/doc/210313/rus/26.12.2025
 caused_by:
-  code: '213445'
-  requisite: Приказ Министра финансов Республики Казахстан от 20 августа 2025 года № 452
+  code: '221154'
+  requisite: Приказ Министра финансов Республики Казахстан от 26 декабря 2025 года № 808
   title:
     rus: О внесении изменений в некоторые приказы исполняющего обязанности Министра финансов Республики Казахстан
     kaz: Қазақстан Республикасы Қаржы министрінің міндетін атқарушының кейбір бұйрықтарына өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/213445/rus
+  link: https://zan.gov.kz/client/#!/doc/221154/rus
