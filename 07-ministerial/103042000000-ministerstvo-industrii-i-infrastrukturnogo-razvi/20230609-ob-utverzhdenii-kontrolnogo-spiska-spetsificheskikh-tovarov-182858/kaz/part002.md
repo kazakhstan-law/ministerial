@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/182858/kaz/25.06.2025
+source: https://zan.gov.kz/client/#!/doc/182858/kaz/29.12.2025
 ---
 
 (*) Жақшалардағы сандар кесте соңынан келетін Ескертпелерге қатысты.
