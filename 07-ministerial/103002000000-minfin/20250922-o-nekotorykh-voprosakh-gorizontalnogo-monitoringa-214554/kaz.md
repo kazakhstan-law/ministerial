@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/214554/kaz/22.09.2025
+source: https://zan.gov.kz/client/#!/doc/214554/kaz/30.12.2025
 ---
 
 # Деңгейлес мониторингтің кейбір мәселелері туралы

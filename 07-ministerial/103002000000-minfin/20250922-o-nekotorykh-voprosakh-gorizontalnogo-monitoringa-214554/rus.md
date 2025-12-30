@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/214554/rus/22.09.2025
+source: https://zan.gov.kz/client/#!/doc/214554/rus/30.12.2025
 ---
 
 # О некоторых вопросах горизонтального мониторинга
