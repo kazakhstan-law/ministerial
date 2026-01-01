@@ -11,11 +11,11 @@ approved_on: 2015-03-30
 approved_by:
 - '103012000000'
 version_date:
-  kaz: 2025-10-07
-  rus: 2025-10-07
+  kaz: 2026-01-01
+  rus: 2026-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/92591/kaz/07.10.2025
-  rus: https://zan.gov.kz/client/#!/doc/92591/rus/07.10.2025
+  kaz: https://zan.gov.kz/client/#!/doc/92591/kaz/01.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/92591/rus/01.01.2026
 caused_by:
   code: '215418'
   requisite: Приказ и.о. Министра сельского хозяйства Республики Казахстан от 7 октября 2025 года № 357. Зарегистрирован в Министерстве юстиции Республики Казахстан 8 октября 2025 года № 37093
