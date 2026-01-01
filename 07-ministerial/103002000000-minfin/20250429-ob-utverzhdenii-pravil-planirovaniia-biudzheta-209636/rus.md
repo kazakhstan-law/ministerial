@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/209636/rus/02.09.2025
+source: https://zan.gov.kz/client/#!/doc/209636/rus/01.01.2026
 ---
 
 # Об утверждении Правил планирования бюджета
