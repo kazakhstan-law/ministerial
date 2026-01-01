@@ -11,11 +11,11 @@ approved_on: 2020-11-30
 approved_by:
 - '103010000000'
 version_date:
-  kaz: 2025-10-31
-  rus: 2025-10-31
+  kaz: 2026-01-01
+  rus: 2026-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/149246/kaz/31.10.2025
-  rus: https://zan.gov.kz/client/#!/doc/149246/rus/31.10.2025
+  kaz: https://zan.gov.kz/client/#!/doc/149246/kaz/01.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/149246/rus/01.01.2026
 caused_by:
   code: '216318'
   requisite: Приказ Министра здравоохранения Республики Казахстан от 31 октября 2025 года № 128. Зарегистрирован в Министерстве юстиции Республики Казахстан 31 октября 2025 года № 37297
