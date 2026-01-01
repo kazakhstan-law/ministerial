@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/201522/kaz/04.12.2025
+source: https://zan.gov.kz/client/#!/doc/201522/kaz/01.01.2026
 ---
 
 # Мемлекеттік сатып алуды жүзеге асыру қағидаларын бекіту туралы
