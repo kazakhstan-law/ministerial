@@ -11,11 +11,11 @@ approved_on: 2014-12-30
 approved_by:
 - '103035000000'
 version_date:
-  kaz: 2025-10-02
-  rus: 2025-10-02
+  kaz: 2026-01-01
+  rus: 2026-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/87028/kaz/02.10.2025
-  rus: https://zan.gov.kz/client/#!/doc/87028/rus/02.10.2025
+  kaz: https://zan.gov.kz/client/#!/doc/87028/kaz/01.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/87028/rus/01.01.2026
 caused_by:
   code: '215183'
   requisite: Приказ Министра по чрезвычайным ситуациям Республики Казахстан от 2 октября 2025 года № 434. Зарегистрирован в Министерстве юстиции Республики Казахстан 3 октября 2025 года № 37056
