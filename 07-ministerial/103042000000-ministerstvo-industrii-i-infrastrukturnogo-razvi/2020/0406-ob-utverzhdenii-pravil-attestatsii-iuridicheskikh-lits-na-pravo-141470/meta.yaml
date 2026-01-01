@@ -11,11 +11,11 @@ approved_on: 2020-04-06
 approved_by:
 - '103042000000'
 version_date:
-  kaz: 2025-12-03
-  rus: 2025-12-03
+  kaz: 2026-01-01
+  rus: 2026-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/141470/kaz/03.12.2025
-  rus: https://zan.gov.kz/client/#!/doc/141470/rus/03.12.2025
+  kaz: https://zan.gov.kz/client/#!/doc/141470/kaz/01.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/141470/rus/01.01.2026
 caused_by:
   code: '215053'
   requisite: Приказ Министра по чрезвычайным ситуациям Республики Казахстан от 30 сентября 2025 года № 429. Зарегистрирован в Министерстве юстиции Республики Казахстан 1 октября 2025 года № 37008
