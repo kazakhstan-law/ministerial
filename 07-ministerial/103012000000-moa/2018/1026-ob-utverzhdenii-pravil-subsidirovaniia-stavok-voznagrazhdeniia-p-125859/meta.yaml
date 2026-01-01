@@ -11,11 +11,11 @@ approved_on: 2018-10-26
 approved_by:
 - '103012000000'
 version_date:
-  kaz: 2025-10-02
-  rus: 2025-10-02
+  kaz: 2026-01-01
+  rus: 2026-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/125859/kaz/02.10.2025
-  rus: https://zan.gov.kz/client/#!/doc/125859/rus/02.10.2025
+  kaz: https://zan.gov.kz/client/#!/doc/125859/kaz/01.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/125859/rus/01.01.2026
 caused_by:
   code: '215170'
   requisite: Приказ Министра сельского хозяйства Республики Казахстан от 2 октября 2025 года № 349. Зарегистрирован в Министерстве юстиции Республики Казахстан 3 октября 2025 года № 37049
