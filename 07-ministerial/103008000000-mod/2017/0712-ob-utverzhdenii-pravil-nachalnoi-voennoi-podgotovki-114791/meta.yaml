@@ -11,11 +11,11 @@ approved_on: 2017-07-12
 approved_by:
 - '103008000000'
 version_date:
-  kaz: 2025-11-04
-  rus: 2025-11-04
+  kaz: 2026-01-01
+  rus: 2026-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/114791/kaz/04.11.2025
-  rus: https://zan.gov.kz/client/#!/doc/114791/rus/04.11.2025
+  kaz: https://zan.gov.kz/client/#!/doc/114791/kaz/01.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/114791/rus/01.01.2026
 caused_by:
   code: '216515'
   requisite: Приказ Министра обороны Республики Казахстан от 4 ноября 2025 года № 1540. Зарегистрирован в Министерстве юстиции Республики Казахстан 4 ноября 2025 года № 37345
