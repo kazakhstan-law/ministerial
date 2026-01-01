@@ -1,5 +1,5 @@
 ---
-version_id: '206581_770748'
+version_id: '206581_832427'
 act_code: '206581'
 language: rus
 title: Об утверждении Правил мониторинга состояния теплоэнергетики
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103036000000'
 approval_date: 2025-01-15
-version_date: 2025-07-02
+version_date: 2026-01-01
 registry_number: '206581'
 caused_by:
-  code: '212043'
-  title: О внесении изменений в некоторые приказы Министерства энергетики Республики Казахстан
-  link: https://zan.gov.kz/client/#!/doc/212043/rus
-source: https://zan.gov.kz/client/#!/doc/206581/rus/02.07.2025
+  code: '206581'
+  title: Об утверждении Правил мониторинга состояния теплоэнергетики
+  link: https://zan.gov.kz/client/#!/doc/206581/rus
+source: https://zan.gov.kz/client/#!/doc/206581/rus/01.01.2026
 ---
 
 # Об утверждении Правил мониторинга состояния теплоэнергетики

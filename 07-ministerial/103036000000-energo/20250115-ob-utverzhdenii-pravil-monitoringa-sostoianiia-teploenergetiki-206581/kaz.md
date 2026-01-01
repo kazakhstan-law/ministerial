@@ -1,5 +1,5 @@
 ---
-version_id: '206581_770747'
+version_id: '206581_832426'
 act_code: '206581'
 language: kaz
 title: Жылу энергетикасының жай-күйін мониторингтеу қағидаларын бекіту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103036000000'
 approval_date: 2025-01-15
-version_date: 2025-07-02
+version_date: 2026-01-01
 registry_number: '206581'
 caused_by:
-  code: '212043'
-  title: Қазақстан Республикасы Энергетика министрлігінің кейбір бұйрықтарына өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/212043/kaz
-source: https://zan.gov.kz/client/#!/doc/206581/kaz/02.07.2025
+  code: '206581'
+  title: Жылу энергетикасының жай-күйін мониторингтеу қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/206581/kaz
+source: https://zan.gov.kz/client/#!/doc/206581/kaz/01.01.2026
 ---
 
 # Жылу энергетикасының жай-күйін мониторингтеу қағидаларын бекіту туралы
