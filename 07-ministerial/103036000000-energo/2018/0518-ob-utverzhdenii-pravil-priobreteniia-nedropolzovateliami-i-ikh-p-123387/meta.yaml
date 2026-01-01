@@ -11,11 +11,11 @@ approved_on: 2018-05-18
 approved_by:
 - '103036000000'
 version_date:
-  kaz: 2025-12-31
-  rus: 2025-12-31
+  kaz: 2026-01-01
+  rus: 2026-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/123387/kaz/31.12.2025
-  rus: https://zan.gov.kz/client/#!/doc/123387/rus/31.12.2025
+  kaz: https://zan.gov.kz/client/#!/doc/123387/kaz/01.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/123387/rus/01.01.2026
 caused_by:
   code: '213852'
   requisite: Приказ и.о. Министра энергетики Республики Казахстан от 2 сентября 2025 года № 337-н/қ. Зарегистрирован в Министерстве юстиции Республики Казахстан 3 сентября 2025 года № 36778
