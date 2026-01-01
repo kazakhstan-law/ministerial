@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/99865/kaz/30.04.2025
+source: https://zan.gov.kz/client/#!/doc/99865/kaz/01.01.2026
 ---
 
 ## Бастауыш білім беру ұйымдарын жабдықтармен және жиһазбен жарақтандыру нормалары
