@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/112058/rus/13.10.2025
+source: https://zan.gov.kz/client/#!/doc/112058/rus/13.01.2026
 ---
 
 # Об утверждении Правил воинского учета военнообязанных и призывников
