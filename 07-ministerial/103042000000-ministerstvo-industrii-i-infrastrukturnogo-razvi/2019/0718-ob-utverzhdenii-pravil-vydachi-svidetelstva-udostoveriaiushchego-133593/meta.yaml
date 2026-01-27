@@ -11,8 +11,15 @@ approved_on: 2019-07-18
 approved_by:
 - '103042000000'
 version_date:
-  kaz: 2019-07-18
-  rus: 2019-07-18
+  kaz: 2026-01-27
+  rus: 2026-01-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/133593/kaz/18.07.2019
-  rus: https://zan.gov.kz/client/#!/doc/133593/rus/18.07.2019
+  kaz: https://zan.gov.kz/client/#!/doc/133593/kaz/27.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/133593/rus/27.01.2026
+caused_by:
+  code: '221670'
+  requisite: Приказ Министра промышленности и строительства Республики Казахстан от 27 января 2026 года № 25. Зарегистрирован в Министерстве юстиции Республики Казахстан 29 января 2026 года № 37903
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/221670/rus
