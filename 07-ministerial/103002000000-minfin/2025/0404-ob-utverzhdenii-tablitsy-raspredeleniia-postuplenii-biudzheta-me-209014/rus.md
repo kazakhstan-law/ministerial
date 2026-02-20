@@ -32,7 +32,7 @@
 
 ## Таблица распределения поступлений бюджета между уровнями бюджетов, контрольными счетами наличности Национального фонда Республики Казахстан, внебюджетных фондов, формируемых за счет неналоговых платежей, и бюджетами государств – членов Евразийского экономического союза
 
-> *Сноска. Приложение с изменением, внесенным приказом Министра финансов Республики Казахстан от 09.12.2025 № 761 (вводится в действие с 01.01.2026).*
+> *Сноска. Приложение с изменением, внесенным приказом Министра финансов Республики Казахстан от 09.12.2025 № 761 (вводится в действие с 01.01.2026); от 20.02.2026 № 118 (вводится в действие с 20.02.2026).*
 
 <table>
 <tr>
@@ -2986,7 +2986,7 @@
 <td></td>
 </tr>
 <tr>
-<td>Прочие штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из местного бюджета</td>
+<td>Прочие штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
@@ -3068,7 +3068,7 @@
 <td>19</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3083,7 +3083,7 @@
 <td>20</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3098,7 +3098,7 @@
 <td>21</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3113,7 +3113,7 @@
 <td>22</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3128,7 +3128,7 @@
 <td>25</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3143,7 +3143,7 @@
 <td>27</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3158,7 +3158,7 @@
 <td>29</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3173,7 +3173,7 @@
 <td>32</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3188,7 +3188,7 @@
 <td>33</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3218,7 +3218,7 @@
 <td>43</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3233,7 +3233,7 @@
 <td>45</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3248,7 +3248,7 @@
 <td>47</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3263,7 +3263,7 @@
 <td>51</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3308,7 +3308,7 @@
 <td>57</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3323,7 +3323,7 @@
 <td>60</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3338,7 +3338,7 @@
 <td>62</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3368,7 +3368,7 @@
 <td>64</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3398,7 +3398,7 @@
 <td>69</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3443,7 +3443,7 @@
 <td>72</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3458,7 +3458,7 @@
 <td>73</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3473,7 +3473,7 @@
 <td>74</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3488,7 +3488,7 @@
 <td>75</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3503,7 +3503,7 @@
 <td>76</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3518,7 +3518,7 @@
 <td>77</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3548,7 +3548,7 @@
 <td>79</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3563,7 +3563,7 @@
 <td>80</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3578,7 +3578,7 @@
 <td>81</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3593,7 +3593,7 @@
 <td>82</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3608,7 +3608,7 @@
 <td>83</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
