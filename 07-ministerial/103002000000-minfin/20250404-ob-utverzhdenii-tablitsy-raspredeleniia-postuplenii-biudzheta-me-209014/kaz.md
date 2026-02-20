@@ -1,5 +1,5 @@
 ---
-version_id: '209014_809016'
+version_id: '209014_812795'
 act_code: '209014'
 language: kaz
 title: Бюджет түсімдерін бюджеттердің деңгейлері, Қазақстан Республикасы Ұлттық қорының, салықтық емес төлемдер есебінен қалыптастырылатын бюджеттен тыс қорлардың қолма-қол ақшаны бақылау шоттары және Еуразиялық экономикалық одаққа мүше мемлекеттердің бюджеттері арасында бөлу кестесі
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103002000000'
 approval_date: 2025-04-04
-version_date: 2026-01-01
+version_date: 2026-02-20
 registry_number: '209014'
 caused_by:
-  code: '218761'
-  title: Қазақстан Республикасы Қаржы министрінің «Қазақстан Республикасының Бірыңғай бюджеттік сыныптамасының кейбір мәселелері» 2025 жылғы 4 сәуірдегі № 151 және «Бюджет түсімдерін бюджеттердің деңгейлері, Қазақстан Республикасы Ұлттық қорының, салықтық емес төлемдер есебінен қалыптастырылатын бюджеттен тыс қорлардың қолма-қол ақшаны бақылау шоттары және Еуразиялық экономикалық одаққа мүше мемлекеттердің бюджеттері арасында бөлу кестесі» 2025 жылғы 4 сәуірдегі № 152 бұйрықтарына өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/218761/kaz
-source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
+  code: '222334'
+  title: Қазақстан Республикасы Қаржы министрінің «Қазақстан Республикасының Бірыңғай бюджеттік сыныптамасының кейбір мәселелері» 2025 жылғы 4 сәуірдегі № 151 және «Бюджет түсімдерін бюджеттердің деңгейлері, Қазақстан Республикасы Ұлттық қорының, салықтық емес төлемдер есебінен қалыптастырылатын бюджеттен тыс қорлардың қолма-қол ақшаны бақылау шоттары және Еуразиялық экономикалық одаққа мүше мемлекеттердің бюджеттері арасында бөлу кестесі» 2025 жылғы 4 сәуірдегі № 152 бұйрықтарына өзгерістер және толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/222334/kaz
+source: https://zan.gov.kz/client/#!/doc/209014/kaz
 ---
 
 # Бюджет түсімдерін бюджеттердің деңгейлері, Қазақстан Республикасы Ұлттық қорының, салықтық емес төлемдер есебінен қалыптастырылатын бюджеттен тыс қорлардың қолма-қол ақшаны бақылау шоттары және Еуразиялық экономикалық одаққа мүше мемлекеттердің бюджеттері арасында бөлу кестесі
@@ -47,7 +47,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 
 ## Бюджет түсімдерін бюджеттердің деңгейлері, Қазақстан Республикасы Ұлттық қорының, салықтық емес төлемдер есебінен қалыптастырылатын бюджеттен тыс қорлардың қолма-қол ақшаны бақылау шоттары және Еуразиялық экономикалық одаққа мүше мемлекеттердің бюджеттері арасында бөлу кестесі
 
-> *Ескерту. Қосымшаға өзгеріс енгізілді - ҚР Қаржы министрінің 17.12.2025 № 785 (қол қойылған күнінен бастап күшіне енеді); 09.12.2025 № 761 (01.01.2026 бастап қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. Қосымшаға өзгеріс енгізілді - ҚР Қаржы министрінің 17.12.2025 № 785 (қол қойылған күнінен бастап күшіне енеді); 09.12.2025 № 761 (01.01.2026 бастап қолданысқа енгізіледі); 20.02.2026 № 118 (20.02.2026 бастап қолданысқа енгізіледі) бұйрықтарымен.*
 
 <table>
 <tr>
@@ -3001,7 +3001,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td></td>
 </tr>
 <tr>
-<td>Жергілікті бюджеттен қаржыландырылатын мемлекеттік мекемелермен алынатын өзге де айыппұлдар, өсімпұлдар, санкциялар</td>
+<td>Мемлекеттік мекемелермен алынатын өзге де айыппұлдар, өсімпұлдар, санкциялар</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
@@ -3083,7 +3083,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>19</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3098,7 +3098,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>20</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3113,7 +3113,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>21</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3128,7 +3128,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>22</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3143,7 +3143,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>25</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3158,7 +3158,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>27</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3173,7 +3173,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>29</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3188,7 +3188,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>32</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3203,7 +3203,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>33</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3233,7 +3233,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>43</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3248,7 +3248,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>45</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3263,7 +3263,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>47</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3278,7 +3278,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>51</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3323,7 +3323,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>57</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3338,7 +3338,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>60</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3353,7 +3353,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>62</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3361,14 +3361,14 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td></td>
 </tr>
 <tr>
-<td>Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, Қазақстан Республикасы Мемлекеттік қызмет істері агенттігі, республикалық бюджеттен қаржыландырылатын оның аумақтық бөлімшелері салатын әкімшілік айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
+<td>Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, Қазақстан Республикасы Қаржы министрлігінің Мемлекеттік кірістер комитеті, республикалық бюджеттен қаржыландырылатын оның аумақтық бөлімшелері салатын әкiмшiлiк айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
 <td>2</td>
 <td>04</td>
 <td>1</td>
 <td>63</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3383,7 +3383,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>64</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3413,7 +3413,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>69</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3458,7 +3458,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>72</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3473,7 +3473,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>73</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3488,7 +3488,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>74</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3503,7 +3503,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>75</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3518,7 +3518,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>76</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3533,7 +3533,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>77</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3563,7 +3563,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>79</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3578,7 +3578,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>80</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3593,7 +3593,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>81</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3608,7 +3608,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>82</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
@@ -3623,7 +3623,7 @@ source: https://zan.gov.kz/client/#!/doc/209014/kaz/01.01.2026
 <td>83</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
+<td colspan="2">100</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
