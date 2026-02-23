@@ -166,11 +166,11 @@
 
    8) энергия беруші ұйымдармен коммерциялық есепке алудың бірыңғай өлшемін сақтау, электр желілерінің теңгерімді тиесілігі шекарасында коммерциялық есепке алудың жүйелік оператордың автоматтандырылған коммерциялық есепке алу жүйесімен үйлесімдігі мәселелерін келіседі.
 
-9. Ұлттық электр желісін пайдалану бойынша көрсетілетін қызмет электр энергиясының көтерме сауда нарығының субъектілері болып табылатын энергия беруші ұйымдар, энергиямен жабдықтаушы ұйымдар, тұтынушылар және цифрлық майнерлер Заңның 13-бабы 7-2-тармағына сәйкес электр энергиясын бірыңғай сатып алушыдан электр энергиясын сатып алған кезде және электр энергиясының теңгерімдеуші нарығының есеп айырысу орталығымен, оның ішінде теңгерім провайдерлері арқылы теңгерімдеуші электр энергиясын және теріс теңгерімсіздіктерді сатып алу-сату операцияларын жүзеге асырған кезде көрсетіледі.
+9. Ұлттық электр желісін пайдалану бойынша көрсетілетін қызмет электр энергиясының көтерме сауда нарығының субъектілері болып табылатын энергия беруші ұйымдар, энергиямен жабдықтаушы ұйымдар, тұтынушылар, оның ішінде инвестициялық тарифті алушылар, үкіметаралық тарифті алушылар және цифрлық майнерлер Заңның 13-бабы 7-2-тармағына сәйкес электр энергиясын бірыңғай сатып алушыдан электр энергиясын сатып алған кезде және электр энергиясының теңгерімдеуші нарығының есеп айырысу орталығымен, оның ішінде теңгерім провайдерлері арқылы теңгерімдеуші электр энергиясын және теріс теңгерімсіздіктерді сатып алу-сату операцияларын жүзеге асырған кезде көрсетіледі.
 
    Ұлттық электр желісін пайдалану бойынша көрсетілетін қызмет осы Қағидалардың 6-тармағы 4) тармақшасында көрсетілген электр энергиясының көтерме сауда нарығының басқа субъектілерін қоспағанда, осы Қағидалардың 6-тармағында көрсетілген электр энергиясының көтерме сауда нарығы субъектілеріне олар электр энергиясын бірыңғай сатып алушыдан электр энергиясын сатып алған кезде және электр энергиясының теңгерімдеуші нарығының есеп айырысу орталығымен теңгерімдеуші электр энергиясын және теріс теңгерімсіздіктерді сатып алу-сату операцияларын жүзеге асырған кезде көрсетілмейді.
 
-> *Ескерту. 9-тармақ жаңа редакцияда - ҚР Энергетика министрінің 25.11.2024 № 412 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+> *Ескерту. 9-тармақ жаңа редакцияда - ҚР Энергетика министрінің 25.11.2024 № 412 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 23.02.2026 № 87-н/қ (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 10\. Ұлттық электр желісін пайдалану жөніндегі жүйелік оператордың қызметіне ақы төлеуді осы Қағидалардың 9-тармағында көрсетілген көтерме сауда нарығының субъектілері электр энергиясының бірыңғай сатып алушысынан және электр энергиясының теңгерімдеуші нарығының есеп айырысу орталығынан, оның ішінде теңгерім провайдерлері арқылы электр энергиясының осы көтерме сауда нарығының субъектісінің есеп айырысу кезеңінің (күнтізбелік айдың) қорытындылары бойынша алынған электр энергиясының жиынтық нақты көлемі үшін жүргізеді.
 
@@ -370,6 +370,20 @@
 
 36. Есептік кезеңнің нәтижелері бойынша жүйелік оператор осы Қағидаларға қосымшада ұсынылған нысан бойынша Қазақстан Республикасының көтерме сауда нарығында электр энергиясын генерация-тұтынудың нақты теңгерімін қалыптастырады. Электр энергиясын генерация-тұтынудың нақты теңгерімі облыстардың әкімшілік бөлінісіне, электр энергетикасының белгілі бір объектілерінің белгілі бір әкімшілік не қаржы ұйымдарына заңды тиесілігіне қарамастан энергия тораптары бөлінісінде қалыптастырылады. Көтерме сауда нарығы субъектілерімен өндіріс, беру, тұтыну көлемдерін салыстыру актілерінің көшірмелері, энергия беруші компаниялардың, оның ішінде өңірлік электр желілік компаниялардың электр энергиясын қабылдау-босатудың жиынтық нақты теңгерімдері, шекара маңындағы энергия жүйелерімен салыстыру актілерінің көшірмелері нақты теңгерімді жасау үшін есепті ақпарат болып табылады. Көтерме сауда нарығының субъектілері есепті ақпаратты жүйелік операторға есепті айдан кейінгі айдың 10-күніне дейін жібереді.
 
+    Бекітілген нақты теңгерім деректері заңды күшіне енген сот актісі негізінде немесе барлық мүдделі тараптар келіскен электр энергиясының көтерме сауда нарығы субъектісінің жолданымы негізінде есеп айырысу кезеңіндегі нақты теңгерім бекітілген сәттен бастап жалпы талап қою мерзімінің өтуі шегінде түзетіледі.
+
+    Егер мынадай құжаттар ұсынылған жағдайда:
+
+    1) электр энергиясының көтерме сауда нарығының өтініш білдірген субъектісінің атына электр энергиясын беру желілері бойынша жүзеге асырылатын энергия беруші (энергия өндіруші) ұйымдар жүйелік операторға осы түзетуді көрсете отырып, өз желілері бойынша түзетілген теңгерімді ұсынса;
+
+    2) электр энергиясын өндіру-тұтыну көлемі өзгертілген электр энергиясының көтерме сауда нарығының субъектілері және электр энергиясының теңгерімдеуші нарығының есеп айырысу орталығы Қазақстан Республикасының заңнамасына сәйкес уәкілетті өкілдер қол қойған осындай түзетуді жүргізуге келісім хаттарын ұсынса, жолданымды барлық мүдделі тараптар келіскен болып есептеледі.
+
+       Бекітілген нақты теңгерімі берілген және есепті кезеңде тұтынылған электр энергиясының нақты көлеміне әсер етпейтін грамматикалық немесе арифметикалық қателер анықталған жағдайда жүйелік оператор көрсетілген қателерді өз бетінше түзетеді.
+
+       Жүйелік оператор түзетулер және (немесе) бекітілген нақты теңгерімдегі қателерді түзету жүргізілген сәттен бастап 5 (бес) жұмыс күні ішінде енгізілген түзетулер және (немесе) түзетулерді көрсете отырып, барлық мүдделі тараптарды жазбаша хабардар етеді. Бұл хабарлама бекітілген нақты теңгерімнің ажырамас бөлігі болып табылады.
+
+> *Ескерту. 36-тармақ жаңа редакцияда - ҚР Энергетика министрінің 23.02.2026 № 87-н/қ (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
 37. Бірыңғай сатып алушымен және (немесе) энергия өндіруші ұйыммен (-дармен) осы тұтынушымен адамдар топтарының тізіліміне енгізілген тұлғалар тобына, сондай-ақ жаңартылатын энергия көздерін пайдаланатын энергия өндіруші ұйымдармен жасалған шарттар шеңберінде электр энергиясының көтерме сауда нарығы субъектісінің электр энергиясын сатып алу (сату) көлемі энергия көздері түзетулерді ескере отырып, мәлімделген көлемге теңестіріледі.
 
     Электр энергиясын генерация-тұтынудың нақты шамаларының жоспарлыдан ауытқуы электр энергиясының теңгерімдеуші нарығында реттеледі.
@@ -451,13 +465,13 @@
 > *Жүйелік оператордың қызмет*  
 > *көрсету, жүйелік және қосалқы*  
 > *көрсетілетін қызметтер нарығын*  
-> *ұйымдастыру және оның жұмыс*  
-> *істеу қағидаларына*  
+> *ұйымдастыру және оның*  
+> *жұмыс істеу қағидаларына*  
 > *қосымша*
 
-> *Ескерту. Қосымша жаңа редакцияда - ҚР Энергетика министрінің 25.11.2024 № 412 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+Қазақстан Республикасының электр энергиясының көтерме және теңгерімдеуші нарықтарындағы электр энергиясын өндіру-тұтынудың нақты теңгерімі
 
-## Қазақстан Республикасының электр энергиясының көтерме және теңгерімдеуші нарықтарындағы электр энергиясын өндіру-тұтынудың нақты теңгерімі
+> *Ескерту. Қосымша жаңа редакцияда - ҚР Энергетика министрінің 25.11.2024 № 412 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 23.02.2026 № 87-н/қ (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) бұйрықтарымен.*
 
 20___жылғы ______________
 
@@ -467,2401 +481,2132 @@
 
 <table>
 <tr>
-<td colspan="4"></td>
+<td></td>
 <td>Мәлімделген жеткізілім</td>
 <td>Нақты жеткізілім</td>
 <td>Өтінімнен ауытқу</td>
 <td>Өтінімнен ауытқу %</td>
 </tr>
 <tr>
-<td colspan="4">Электр энергиясын жүйеге жалпы жіберу</td>
+<td>Электр энергиясын жүйеге жалпы жіберу</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Солтүстік Қазақстан (дәстүрлі энергия көздері)</td>
+<td>Солтүстік Қазақстан (дәстүрлі энергия көздері)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Оңтүстік Қазақстан (дәстүрлі энергия көздері)</td>
+<td>Оңтүстік Қазақстан (дәстүрлі энергия көздері)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">ЖЭК пайдаланатын энергия өндіруші ұйымдар (Солтүстік + Оңтүстік)</td>
+<td>ЖЭК пайдаланатын энергия өндіруші ұйымдар (Солтүстік + Оңтүстік)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Батыс Қазақстан (дәстүрлі энергия көздері)</td>
+<td>Батыс Қазақстан (дәстүрлі энергия көздері)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">ЖЭК пайдаланатын энергия өндіруші ұйымдар (Батыс)</td>
+<td>ЖЭК пайдаланатын энергия өндіруші ұйымдар (Батыс)</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td>Электр энергиясын жеткізу Солтүстік Қазақстан – Ресей Федерациясы</td>
+<td colspan="4">20___жылғы___________</td>
 </tr>
 </table>
-
-Электр энергиясын жеткізу Солтүстік Қазақстан – Ресей Федерациясы
-
-20___жылғы___________
 
 (кВтсағ )
 
 <table>
 <tr>
-<td colspan="9">(Қазақстанға қатысты белгі, бірінші болып кімге сату жүзеге асырылатыны көрсетіледі)</td>
-<td colspan="3">Мәлімделген жеткізілім</td>
-<td colspan="2">Нақты жеткізілім</td>
-<td colspan="3">Өтінімнен ауытқу</td>
-<td>Өтінімнен ауытқу %</td>
+<td colspan="4">(Қазақстанға қатысты белгі, бірінші болып кімге сату жүзеге асырылатыны көрсетіледі)</td>
+<td colspan="4">Мәлімделген жеткізілім</td>
+<td>Нақты жеткізілім</td>
+<td>Өтінімнен ауытқу</td>
+<td colspan="4">Өтінімнен ауытқу %</td>
 </tr>
 <tr>
-<td colspan="7">Солтүстік Қазақстан-Ресей сальдо-ағыны</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Солтүстік Қазақстан-Ресей сальдо-ағыны</td>
 <td></td>
-</tr>
-<tr>
-<td colspan="7">соның ішінде Солтүстік Қазақстанның экспорты барлығы:</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="14">Солтүстік Қазақстанның импорты барлығы:</td>
+<td colspan="3">оның ішінде Солтүстік Қазақстанның экспорты барлығы:</td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="14">Электр энергиясын жеткізу Батыс Қазақстан – Ресей Федерациясы</td>
-<td colspan="4">20___жылғы_____________</td>
+<td colspan="9">Солтүстік Қазақстанның импорты барлығы:</td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>(кВтсағ )</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">Мәлімделген жеткізілім</td>
-<td colspan="2">Нақты жеткізілім</td>
-<td colspan="3">Өтінімнен ауытқу</td>
-<td>Өтінімнен ауытқу %</td>
-</tr>
-<tr>
-<td colspan="7">(Қазақстанға қатысты белгі, бірінші болып кімге сату жүзеге асырылатыны көрсетіледі)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3" rowspan="2"></td>
-<td colspan="2" rowspan="2"></td>
-<td colspan="3" rowspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="9">Электр энергиясын жеткізу Батыс Қазақстан – Ресей Федерациясы</td>
+<td colspan="5">20___жылғы_____________</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4">(кВтсағ )</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Мәлімделген жеткізілім</td>
+<td>Нақты жеткізілім</td>
+<td>Өтінімнен ауытқу</td>
+<td colspan="4">Өтінімнен ауытқу %</td>
+</tr>
+<tr>
+<td colspan="3">(Қазақстанға қатысты белгі, бірінші болып кімге сату жүзеге асырылатыны көрсетіледі)</td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4" rowspan="2"></td>
 <td rowspan="2"></td>
+<td rowspan="2"></td>
+<td colspan="4" rowspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Батыс Қазақстан – Ресей сальдо-ағыны</td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">Батыс Қазақстан – Ресей сальдо-ағыны</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">
-соның ішінде Батыс Қазақстанның экспорты
+<td colspan="3">
+оның ішінде Батыс Қазақстанның экспорты
 барлығы:
 </td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="3">
 Батыс Қазақстанның импорты
 барлығы:
 </td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="7">Орталық Азия БЭЖ-іне электр энергиясын жеткізу</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="3">Орталық Азия БЭЖ-іне электр энергиясын жеткізу</td>
+<td></td>
 <td colspan="5">20___жылғы_____________</td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4">( кВтсағ )</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4" rowspan="4">Мәлімделген жеткізілім</td>
+<td rowspan="4">Нақты жеткізілім</td>
+<td rowspan="4">Өтінімнен ауытқу</td>
+<td colspan="4" rowspan="4">Өтінімнен ауытқу %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>( кВтсағ )</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3" rowspan="4">Мәлімделген жеткізілім</td>
-<td colspan="2" rowspan="4">Нақты жеткізілім</td>
-<td colspan="3" rowspan="4">Өтінімнен ауытқу</td>
-<td rowspan="4">Өтінімнен ауытқу %</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="5">
-Орталық Азия БЭЖ-іне сальдо-ағын
+Орталық Азия БЭЖ-іне сальдо-ағыны
 барлығы:
+оның ішінде Қазақстан экспорты барлығы:
 </td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="3">соның ішінде Қазақстан экспорты барлығы:</td>
+<td colspan="3">Қазақстан импорты барлығы:</td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="7">Қазақстан импорты барлығы:</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="14">Қазақстан Республикасының тұтынушыларына электр энергиясын жеткізу</td>
-<td colspan="4">20___жылғы_____________</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>( кВтсағ )</td>
-</tr>
-<tr>
-<td colspan="9"></td>
-<td>Мәлімделген жеткізілім</td>
-<td colspan="4">Жасыл электр энергиясының үлесі кВтсағ</td>
-<td colspan="2">Жасыл электр энергиясының үлесі %</td>
-<td colspan="2">Нақты жеткізілім</td>
-</tr>
-<tr>
-<td colspan="9">Тұтынушыларға электр энергиясын жиынтық жеткізу:</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">соның ішінде Солтүстік аймақтың тұтынушыларына жеткізу</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">соның ішінде Павлодар энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Шығыс Қазақстан энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Абай энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Қарағанды энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Ұлытау энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Қостанай энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Ақмола энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Көкшетау энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Солтүстік Қазақстан энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Ақтөбе энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Оңтүстік аймақтың тұтынушыларына жеткізу</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">соның ішінде Жамбыл энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Қызылорда энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Түркістан энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Алматы энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Жетісу энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Батыс аймақтың тұтынушыларына жеткізу</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="7">соның ішінде Батыс Қазақстан энергия торабы</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Атырау энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Маңғыстау энергия торабы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="14">Қазақстан Республикасының энергия тораптары бойынша тұтынушыларға электр энергиясын жеткізу</td>
-<td colspan="4">20___жылғы__________</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>( кВтсағ )</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="8">Бекітілген тәуліктік график, соның ішінде</td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="9">Қазақстан Республикасының тұтынушыларына электр энергиясын жеткізу</td>
+<td colspan="5">20___жылғы_____________</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4">( кВтсағ )</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4">Мәлімделген жеткізілім</td>
+<td>Жасыл электр энергиясының үлесі кВтсағ</td>
+<td>Жасыл электр энергиясының үлесі %</td>
+<td colspan="4">Нақты жеткізілім</td>
+</tr>
+<tr>
+<td colspan="4">Тұтынушыларға электр энергиясын жиынтық жеткізу:</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">оның ішінде Солтүстік аймақтың тұтынушыларына жеткізу</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">оның ішінде Павлодар энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Шығыс Қазақстан энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Абай энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Қарағанды энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Ұлытау энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Қостанай энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Ақмола энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Көкшетау энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Солтүстік Қазақстан энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Ақтөбе энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Оңтүстік аймақтың тұтынушыларына жеткізу</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">оның ішінде Жамбыл энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Қызылорда энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Түркістан энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Алматы энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Жетісу энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Батыс аймақтың тұтынушыларына жеткізу</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="3">оның ішінде Батыс Қазақстан энергия торабы</td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Атырау энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Маңғыстау энергия торабы</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="9">Қазақстан Республикасының энергия тораптары бойынша тұтынушыларға электр энергиясын жеткізу</td>
+<td colspan="5">20___жылғы__________</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4">( кВтсағ )</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Тұтынушылар</td>
-<td colspan="2">БСН</td>
-<td colspan="4">Теңгерім провайдері</td>
-<td colspan="2">Өнім беруші</td>
-<td colspan="3">Мәлімделген жеткізілім</td>
-<td colspan="2">Жасыл электр энергиясының үлесі</td>
-<td colspan="3">Жасыл электр энергиясының үлесі, %</td>
+<td>БСН</td>
+<td>Теңгерім провайдері</td>
+<td>Өнім беруші</td>
+<td colspan="4">Мәлімделген жеткізілім</td>
 <td>Нақты жеткізілім</td>
+<td>Өтінімнен ауытқу</td>
+<td colspan="4">Өтінімнен ауытқу %</td>
 </tr>
 <tr>
-<td colspan="7">Павлодар энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Павлодар энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>соның ішінде</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>оның ішінде</td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>оң теңгерімсіздік</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>теріс теңгерімсіздік</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>соның ішінде</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>оның ішінде</td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>оң теңгерімсіздік</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>теріс теңгерімсіздік</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>……..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Шығыс Қазақстан энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Шығыс Қазақстан энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>соның ішінде</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>оның ішінде</td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>оң теңгерімсіздік</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>теріс теңгерімсіздік</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>соның ішінде</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>оның ішінде</td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>оң теңгерімсіздік</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>теріс теңгерімсіздік</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>……..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Абай энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Абай энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Қарағанды энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Қарағанды энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Ұлытау энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Ұлытау энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Қостанай энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Қостанай энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Ақмола энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Ақмола энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Көкшетау энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Көкшетау энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Солтүстік Қазақстан энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Солтүстік Қазақстан энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Алматы энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Алматы энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Жетісу энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Жетісу энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Жамбыл энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Жамбыл энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Түркістан энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Түркістан энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Қызылорда энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Қызылорда энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Ақтөбе энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Ақтөбе энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Батыс Қазақстан энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Батыс Қазақстан энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Атырау энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Атырау энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Маңғыстау энергия торабы</td>
-<td colspan="2">барлығы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Маңғыстау энергия торабы</td>
+<td>барлығы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…….</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Электр станцияларының электр энергиясын жеткізу</td>
+<td colspan="4">Электр станцияларының электр энергиясын жеткізуі</td>
 <td colspan="5"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="6">соның ішінде</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3" rowspan="2">Нақты жеткізілім</td>
-<td colspan="2" rowspan="2">Мәлімделген жеткізілім</td>
-<td colspan="3" rowspan="2">оң теңгерімсіздік</td>
-<td rowspan="2">теріс теңгерімсіздік</td>
+<td colspan="6">оның ішінде</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4" rowspan="2">Мәлімделген жеткізілім</td>
+<td rowspan="2">Нақты жеткізілім</td>
+<td rowspan="2">Өтінімнен ауытқу</td>
+<td colspan="4" rowspan="2">Өтінімнен ауытқу %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Желіге босату 1-станция</td>
 <td colspan="4"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Желіге босату 1-станция</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">Электр энергиясын жеткізу</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Электр энергиясын жеткізу</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">оның ішінде 1-тұтынушы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">соның ішінде 1-тұтынушы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">2-тұтынушы</td>
+<td colspan="4"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="9">2-тұтынушы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Желіге босату 2-станция</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">Желіге босату 2-станция</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Электр энергиясын жеткізу</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">Электр энергиясын жеткізу</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">соның ішінде 1-тұтынушы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">оның ішінде 1-тұтынушы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">2-тұтынушы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">2-тұтынушы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Желіге босату N-станция</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">Желіге босату N-станция</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Электр энергиясын жеткізу</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">Электр энергиясын жеткізу</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">соның ішінде 1-тұтынушы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">оның ішінде 1-тұтынушы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">2-тұтынушы</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">2-тұтынушы</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="14">&quot;KEGOC&quot; АҚ электр энергиясын жеткізу</td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3" rowspan="2">Мәлімделген жеткізілім</td>
-<td colspan="2" rowspan="2">Нақты жеткізілім</td>
-<td colspan="3" rowspan="2">Өтінімнен ауытқу</td>
-<td rowspan="2">Өтінімнен ауытқу %</td>
 </tr>
 <tr>
+<td colspan="9">«KEGOC» АҚ электр энергиясын жеткізу</td>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="7">&quot;KEGOC&quot; АҚ электр энергиясын сатып алу</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4" rowspan="2">Мәлімделген жеткізілім</td>
+<td rowspan="2">Нақты жеткізілім</td>
+<td rowspan="2">Өтінімнен ауытқу</td>
+<td colspan="4" rowspan="2">Өтінімнен ауытқу %</td>
 </tr>
 <tr>
-<td colspan="4">Бірыңғай сатып алушыдан</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">&quot;ИНТЕР РАО&quot; ЖАҚ-дан (Мыңкөл, Уәлиханов)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">«KEGOC» АҚ электр энергиясын сатып алу</td>
 <td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">&quot;ИНТЕР РАО&quot; ЖАҚ-дан (теңгерімдеуші нарық)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="2">Бірыңғай сатып алушыдан</td>
 <td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="4">ЭТН Есеп айырысу орталығынан</td>
+<td colspan="3">«ИНТЕР РАО» ЖАҚ-дан (Мыңкөл, Уәлиханов)</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">
-соның ішінде &quot;ИНТЕР РАО&quot; ЖАҚ үшін
+<td colspan="3">«ИНТЕР РАО» ЖАҚ-дан (теңгерімдеуші нарық)</td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="2">ЭЭТН Есеп айырысу орталығынан</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="3">
+оның ішінде «ИНТЕР РАО» ЖАҚ үшін
 ...
 </td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">&quot;KEGOC&quot; АҚ теңгерімдеуші электр энергиясын сатып алу</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">«KEGOC» АҚ теңгерімдеуші электр энергиясын сатып алу</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="9">Шығындарды өтеу үшін &quot;KEGOC&quot; АҚ электр энергиясын жеткізу</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="4">«KEGOC» АҚ электр энергиясын жеткізу</td>
+<td colspan="4"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="4">Шығындарды өтеу үшін</td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Солтүстік ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Шығыс ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Орталық ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Сарыбай ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Ақмола ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Алматы ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Оңтүстік ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Ақтөбе ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Батыс ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Шаруашылық қажеттіліктер</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>соның ішінде Солтүстік ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>оның ішінде Солтүстік ЖЭТ</td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Шығыс ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Орталық ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Сарыбай ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Ақмола ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Алматы ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Оңтүстік ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Ақтөбе ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Батыс ЖЭТ</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td>&quot;ИНТЕР РАО&quot; ЖАҚ үшін (теңгерімдеуші нарық)</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="2">ЭТН есеп айырысу орталығы үшін</td>
 <td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="2">соның ішінде &quot;ИНТЕР РАО&quot; ЖАҚ үшін</td>
 <td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="7">&quot;KEGOC&quot; АҚ теріс теңгерімсіздіктерін сату</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>«ИНТЕР РАО» ЖАҚ үшін (теңгерімдеуші нарық)</td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="13">&quot;Қаржы-есеп айырысу орталығы&quot; ЖШС электр энергиясын жеткізу (Бірыңғай сатып алушы)</td>
+<td>ЭЭТН есеп айырысу орталығы үшін</td>
 <td></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3" rowspan="4">Бекітілген тәуліктік график</td>
-<td colspan="2" rowspan="4">жасыл электр энергиясының үлесі</td>
-<td colspan="3" rowspan="4">
-жасыл электр энергиясының үлесі
-%
-</td>
-<td></td>
 </tr>
 <tr>
+<td>оның ішінде «ИНТЕР РАО» ЖАҚ үшін</td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td></td>
 </tr>
 <tr>
+<td colspan="3">«KEGOC» АҚ теріс теңгерімсіздіктерін сату</td>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Қазақстанның энергия көздерінен электр энергиясын сатып алу барлығы</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Дәстүрлі энергия көздерінен электр энергиясын сатып алу (Солтүстік)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="11">«Қаржы-есеп айырысу орталығы» ЖШС электр энергиясын жеткізу (Бірыңғай сатып алушы)</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Мәлімделген жеткізілім</td>
+<td>Нақты жеткізілім</td>
+<td>Өтінімнен ауытқу</td>
+<td colspan="4">Өтінімнен ауытқу %</td>
+</tr>
+<tr>
+<td colspan="3">Қазақстанның энергия көздерінен электр энергиясын сатып алу барлығы</td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="3">Дәстүрлі энергия көздерінен электр энергиясын сатып алу (Солтүстік)</td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…………..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>N станциясы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">ЖЭК объектілерінен электр энергиясын сатып алу (Солтүстік)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">ЖЭК объектілерінен электр энергиясын сатып алу (Солтүстік)</td>
 <td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…………..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>N станциясы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Дәстүрлі энергия көздерінен электр энергиясын сатып алу (Оңтүстік)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Дәстүрлі энергия көздерінен электр энергиясын сатып алу (Оңтүстік)</td>
 <td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…………..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>N станциясы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>ЖЭК объектілерінен электр энергиясын сатып алу (Оңтүстік)</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…………..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>N станциясы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Дәстүрлі энергия көздерінен электр энергиясын сатып алу (Солтүстік)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Дәстүрлі энергия көздерінен электр энергиясын сатып алу (Солтүстік)</td>
 <td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…………..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>N станциясы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td colspan="5">ЖЭК объектілерінен электр энергиясын сатып алу (Батыс)</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-станция</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>…………..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>N станциясы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>Импорт сатып алу</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td>ЭТН Есеп айырысу орталығы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="7">Қазақстан тұтынушыларына электр энергиясын жеткізу барлығы</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Тұтынушыларға электр энергиясын жеткізу (Солтүстік)</td>
 <td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>ЭЭТН Есеп айырысу орталығы</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="3">Қазақстан тұтынушыларына электр энергиясын жеткізу барлығы</td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>Тұтынушыларға электр энергиясын жеткізу (Солтүстік)</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>……………..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>N тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Тұтынушыларға электр энергиясын жеткізу (Оңтүстік)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Тұтынушыларға электр энергиясын жеткізу (Оңтүстік)</td>
 <td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>……………..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>N тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td colspan="7">Тұтынушыларға электр энергиясын жеткізу (Батыс)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3">Тұтынушыларға электр энергиясын жеткізу (Батыс)</td>
 <td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>1-тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>2-тұтынушы</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>……………..</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>N тұтынушы</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td>ЭТН Есеп айырысу орталығы</td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
+<td>ЭЭТН Есеп айырысу орталығы</td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="17">Теңгерімдеуші нарықтың есеп айырысу орталығының электр энергиясын жеткізуі</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>( кВтсағ )</td>
-</tr>
-<tr>
-<td colspan="9"></td>
-<td colspan="2">Нақты жеткізілім</td>
-<td colspan="4">Мәлімделген жеткізілім</td>
-<td colspan="2">Теңгерімдеуші электр энергиясын сатып алу</td>
-<td>Теріс теңгерімсіздіктерді сату</td>
-</tr>
-<tr>
-<td colspan="9">Оң теңгерімсіздіктерді сатып алу</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="9">Солтүстік аймақ тұтынушылары</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="3">соның ішінде 1-теңгерім провайдері</td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 <tr>
-<td colspan="3">2-теңгерім провайдері</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td colspan="3">…………..</td>
+<td></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">N теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Оңтүстік аймақтың тұтынушылары</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">соның ішінде 1-теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">2-теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">………………</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Батыс аймақтың тұтынушылары</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">соның ішінде 1-теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">2-теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">………………</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">N теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Теріс теңгерімсіздіктерді сату</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Солтүстік аймақ тұтынушылары</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">соның ішінде 1-теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">2-теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">………………</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">N теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Оңтүстік аймақтың тұтынушылары</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">соның ішінде 1-теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">2-теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">………………</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">N теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">Батыс аймақтың тұтынушылары</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">соның ішінде 1-теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">2-теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">………………</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9">N теңгерім провайдері</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 </table>
