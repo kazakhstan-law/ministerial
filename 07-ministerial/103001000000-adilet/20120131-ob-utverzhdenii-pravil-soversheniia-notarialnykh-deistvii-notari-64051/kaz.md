@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/64051/kaz/09.02.2026
+source: https://zan.gov.kz/client/#!/doc/64051/kaz/26.02.2026
 ---
 
 # Нотариустардың нотариаттық іс-әрекет жасау ережесін бекіту туралы
