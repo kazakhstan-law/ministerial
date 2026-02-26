@@ -10,8 +10,15 @@ approved_on: 2025-09-27
 approved_by:
 - '103001000000'
 version_date:
-  kaz: 2025-09-27
-  rus: 2025-09-27
+  kaz: 2026-02-26
+  rus: 2026-02-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/214799/kaz/27.09.2025
-  rus: https://zan.gov.kz/client/#!/doc/214799/rus/27.09.2025
+  kaz: https://zan.gov.kz/client/#!/doc/214799/kaz/26.02.2026
+  rus: https://zan.gov.kz/client/#!/doc/214799/rus/26.02.2026
+caused_by:
+  code: '222572'
+  requisite: Приказ и.о. Министра юстиции Республики Казахстан от 26 февраля 2026 года № 195. Зарегистрирован в Министерстве юстиции Республики Казахстан 26 февраля 2026 года № 38051
+  title:
+    rus: О внесении изменений и дополнений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/222572/rus
