@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/211659/rus/01.01.2026
+source: https://zan.gov.kz/client/#!/doc/211659/rus/03.03.2026
 ---
 
 # О некоторых вопросах бюджетного кредитования
