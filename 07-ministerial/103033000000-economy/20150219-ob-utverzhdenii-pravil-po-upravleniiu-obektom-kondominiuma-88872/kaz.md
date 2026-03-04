@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/88872/kaz/14.10.2025
+source: https://zan.gov.kz/client/#!/doc/88872/kaz/04.03.2026
 ---
 
 # Кондоминиум объектісін басқару жөніндегі қағидаларды бекіту туралы
