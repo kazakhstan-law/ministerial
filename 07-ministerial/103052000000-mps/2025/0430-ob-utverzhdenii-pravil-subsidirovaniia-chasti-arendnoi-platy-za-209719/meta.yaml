@@ -11,8 +11,15 @@ approved_on: 2025-04-30
 approved_by:
 - '103052000000'
 version_date:
-  kaz: 2025-04-30
-  rus: 2025-04-30
+  kaz: 2026-03-12
+  rus: 2026-03-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/209719/kaz/30.04.2025
-  rus: https://zan.gov.kz/client/#!/doc/209719/rus/30.04.2025
+  kaz: https://zan.gov.kz/client/#!/doc/209719/kaz/12.03.2026
+  rus: https://zan.gov.kz/client/#!/doc/209719/rus/12.03.2026
+caused_by:
+  code: '222740'
+  requisite: Приказ и.о. Министра промышленности и строительства Республики Казахстан от 26 февраля 2026 года № 76. Зарегистрирован в Министерстве юстиции Республики Казахстан 3 марта 2026 года № 38089
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/222740/rus
