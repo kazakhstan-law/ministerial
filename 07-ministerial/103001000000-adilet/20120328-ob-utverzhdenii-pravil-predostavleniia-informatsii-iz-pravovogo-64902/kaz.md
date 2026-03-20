@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/64902/kaz/30.06.2025
+source: https://zan.gov.kz/client/#!/doc/64902/kaz/20.03.2026
 ---
 
 # Құқықтық кадастрдан ақпарат ұсыну қағидаларын бекіту туралы
