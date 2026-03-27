@@ -1,1658 +1,3116 @@
 ↑ [Редакцияның толық мәтіні](../kaz.md)
 
 > *Медициналық және фармацевтикалық*  
-> *мамандықтар бойынша техникалық және*  
-> *кәсіптік білімнің білім берудің*  
-> *үлгілік оқу бағдарламасына*  
+> *мамандықтар бойынша техникалық*  
+> *және кәсіптік білім берудің үлгілік*  
+> *оқу бағдарламасына*  
 > *10-қосымша*
 
-## 09140100 – «Лабораториялық диагностика» мамандығы бойынша үлгілік оқу бағдарламасының құрылымы Біліктілігі: 4S09140101– «Медициналық зертханашы» Оқыту түрі: күндізгі
+> *Ескерту. 10-қосымша жаңа редакцияда - ҚР Денсаулық сақтау министрінің 27.03.2026 № 38 (алғаш ресми жарияланған күнінен кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
+Үлгілік оқу бағдарламасының құрылымы
+
+Мамандығы: 09140100 – «Лабораториялық диагностика»
+
+Біліктілігі: 4S09140101– «Медициналық зертханашы»
+
+Оқыту түрі: күндізгі
 
 <table>
 <tr>
-<td rowspan="3">Циклдар мен пәндердің атауы</td>
-<td colspan="2" rowspan="3">Бақылау түрі</td>
-<td colspan="2" rowspan="3">Барлығы (сағат/ кредиттер)</td>
-<td colspan="5">Оқу уақытының көлемі (сағат), оның ішінде:</td>
+<td rowspan="3">Индекс</td>
+<td rowspan="3">Пән атауы</td>
+<td colspan="3">Бақылау түрі</td>
+<td colspan="4">Оқу уақытының көлемі</td>
+<td rowspan="3">Педагогпен студенттің өзіндік жұмысы</td>
+<td rowspan="3">Студенттің өзіндік жұмысы</td>
+<td rowspan="3">Оқу практикасы</td>
+<td rowspan="3">Өндірістік практика</td>
+<td rowspan="3">Дипломалды практика</td>
+<td rowspan="3">Семестрлерге бөлінуі</td>
 </tr>
 <tr>
-<td colspan="2">Теориялық оқыту</td>
-<td colspan="3">Практикалық оқыту</td>
+<td rowspan="2">Емтихан</td>
+<td rowspan="2">Сараланған сынақ</td>
+<td rowspan="2">Сынақ</td>
+<td rowspan="2">Барлығы, кредит</td>
+<td rowspan="2">Барлығы, сағат</td>
+<td colspan="2">Оның ішінде</td>
 </tr>
 <tr>
-<td colspan="2">аудиториялық сабақтар</td>
-<td colspan="3">Оқу практикасы(симуляция)</td>
+<td>Теориялық</td>
+<td>Зертханалық- практикалық/симуляция</td>
 </tr>
 <tr>
-<td colspan="10">1-семестр</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="4">Жалпы білім беретін оқыту -1</td>
-<td>720/30</td>
-<td colspan="3">720</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Математика</td>
-<td colspan="2">Емтихан</td>
-<td>120/5</td>
-<td colspan="3">120</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Қазақ (орыс) тілі</td>
-<td colspan="2">Емтихан</td>
-<td>96/4</td>
-<td colspan="3">96</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Қазақстан тарихы</td>
-<td colspan="2">Емтихан</td>
-<td>96/4</td>
-<td colspan="3">96</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Дене тәрбиесі</td>
-<td colspan="2">Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="3">72</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Химия</td>
-<td colspan="2">Емтихан</td>
-<td>144/6</td>
-<td colspan="3">144</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Физика</td>
-<td colspan="2">Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="3">72</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">География</td>
-<td colspan="2">Сынақ</td>
-<td>48/2</td>
-<td colspan="3">48</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Графика және жобалау</td>
-<td colspan="2">Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="3">72</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="10">2-семестр</td>
-</tr>
-<tr>
-<td colspan="4">Жалпы білім беретін оқыту -2</td>
-<td colspan="2">720/30</td>
-<td colspan="3">720</td>
+<td>ЖБП 00</td>
+<td>Жалпы білім беру пәндері</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Информатика</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">96/4</td>
-<td colspan="3">96</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Қазақ әдебиеті (орыс әдебиеті)</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">96/4</td>
-<td colspan="3">96</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Шет тілі</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">120/5</td>
-<td colspan="3">120</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Биология</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">144/6</td>
-<td colspan="3">144</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Дене тәрбиесі</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">48/2</td>
-<td colspan="3">48</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Орыс тілі және әдебиеті (Қазақ тілі және әдебиеті)</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">120/5</td>
-<td colspan="3">120</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Алғашқы әскери және технологиялық дайындық</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">96/4</td>
-<td colspan="3">96</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="10">3-семестр</td>
-</tr>
-<tr>
-<td colspan="4">Кәсіби қызметтің жалпы негіздері</td>
-<td colspan="2">720/30</td>
-<td colspan="3">552</td>
-<td>168</td>
-</tr>
-<tr>
-<td colspan="2">Кәсіби қазақ (орыс) тілі</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">72</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Кәсіби шет тілі</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">72</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Қазақстан тарихы</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">72</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Дене тәрбиесі</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">48/2</td>
-<td colspan="3">48</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Философия негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">24/1</td>
-<td colspan="3">24</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Политология және социология негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">24/1</td>
-<td colspan="3">24</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Құқық және экономика негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">24/1</td>
-<td colspan="3">24</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Медициналық биофизика</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">24/1</td>
-<td colspan="3">24</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Психология негіздері және коммуникативтік дағдылар</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Медициналық биология, генетика</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Латын тілі</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">48 /2</td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Химия</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Таңдау компоненті</td>
-<td colspan="2"></td>
-<td colspan="2">24/1</td>
-<td colspan="3"></td>
-<td>24</td>
-</tr>
-<tr>
-<td colspan="2">Аралық аттестаттау</td>
-<td colspan="2"></td>
-<td colspan="2">72/3</td>
-<td colspan="3">72</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="10">4-семестр</td>
-</tr>
-<tr>
-<td colspan="4">Кәсіби қызметтің медициналық негіздері</td>
-<td colspan="2">720/30</td>
-<td colspan="3">314</td>
-<td>406</td>
-</tr>
-<tr>
-<td colspan="2">Дене тәрбиесі</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">48/2</td>
-<td colspan="3">48</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Анатомия және физиология</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">120/5</td>
-<td colspan="3">50</td>
-<td>70</td>
-</tr>
-<tr>
-<td colspan="2">Патологиялық анатомия және физиология</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">72 /3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Фармакология негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">48 /2</td>
-<td colspan="3">24</td>
-<td>24</td>
-</tr>
-<tr>
-<td colspan="2">Гистологиялық зерттеулердің негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">48 /2</td>
-<td colspan="3">24</td>
-<td>24</td>
-</tr>
-<tr>
-<td colspan="2">Аналитикалық химия</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Электрондық денсаулық сақтау</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">48 /2</td>
-<td colspan="3">24</td>
-<td>24</td>
-</tr>
-<tr>
-<td colspan="2">Медициналық паразитология негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">48/2</td>
-<td colspan="3">24</td>
-<td>24</td>
-</tr>
-<tr>
-<td colspan="2">Зертханалық жұмыс техникасы</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72 /3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Таңдау компоненті</td>
-<td colspan="2"></td>
-<td colspan="2">24/1</td>
-<td colspan="3"></td>
-<td>24</td>
-</tr>
-<tr>
-<td colspan="2">Аралық аттестаттау</td>
-<td colspan="2"></td>
-<td colspan="2">48/2</td>
-<td colspan="3">48</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Өндірістік практика: «Зертханалық жұмыс техникасы»</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">72/3</td>
-<td colspan="3"></td>
-<td>72</td>
-</tr>
-<tr>
-<td colspan="10">5-семестр</td>
-</tr>
-<tr>
-<td colspan="4">Клиникалық медицина негіздері</td>
-<td colspan="2">720/30</td>
-<td colspan="3">266</td>
-<td>454</td>
-</tr>
-<tr>
-<td colspan="2">Дене тәрбиесі</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">48/2</td>
-<td colspan="3">48</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Биоматериалдарды жинау техникасы</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">24/1</td>
-<td colspan="3"></td>
-<td>24</td>
-</tr>
-<tr>
-<td colspan="2">Ішкі аурулар негіздері</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Хирургиялық аурулар негіздері</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Балалар ауруларының негіздері</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Акушерлік және гинекология негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">72 /3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Мейіргер ісінің негіздері</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">120/5</td>
-<td colspan="3">50</td>
-<td>70</td>
-</tr>
-<tr>
-<td colspan="2">Таңдау компоненті</td>
-<td colspan="2"></td>
-<td colspan="2">24/1</td>
-<td colspan="3">24</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Аралық аттестаттау</td>
-<td colspan="2"></td>
-<td colspan="2">48/2</td>
-<td colspan="3">48</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">
-Өндірістік практика:
-«Клиникалық медицина негіздері»
+<td rowspan="2">ЖБП 01</td>
+<td>Қазақ тілі-оқыту қазақ тілінде жүргізілетін топтар үшін</td>
+<td rowspan="2">2</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2">5</td>
+<td rowspan="2">120</td>
+<td rowspan="2">
+1)54
+2)30
 </td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">168 /7</td>
-<td colspan="3"></td>
-<td>168</td>
-</tr>
-<tr>
-<td colspan="10">6-семестр</td>
-</tr>
-<tr>
-<td colspan="4">Эпидемиология және инфекциялық аурулар курсымен зертханалық зерттеулер негіздері</td>
-<td colspan="2">720/30</td>
-<td colspan="3">260</td>
-<td>460</td>
-</tr>
-<tr>
-<td colspan="2">Дене тәрбиесі</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">48/2</td>
-<td colspan="3">48</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Эпидемиология негіздері</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Инфекциялық аурулар</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Гигиена негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Микробиология негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Биохимия негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Клиникалық зертханалық зерттеулер негіздері</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">Таңдау компоненті</td>
-<td colspan="2"></td>
-<td colspan="2">48/2</td>
-<td colspan="3">20</td>
-<td>28</td>
-</tr>
-<tr>
-<td colspan="2">Аралық аттестаттау</td>
-<td colspan="2"></td>
-<td colspan="2">48/2</td>
-<td colspan="3">48</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">
-Өндірістік практика:
-«Медициналық зертханашы көмекшісі»
+<td rowspan="2"></td>
+<td rowspan="2">
+1) 6
+2) 6
 </td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">144/6</td>
-<td colspan="3"></td>
-<td>144</td>
+<td rowspan="2">
+1)12
+2)12
+</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2">
+1)72
+2)48
+</td>
 </tr>
 <tr>
-<td colspan="10">7-семестр</td>
+<td>Орыс тілі -оқыту орыс тілінде жүргізілетін топтар үшін</td>
 </tr>
 <tr>
-<td colspan="4">Зертханалық медицина - 1</td>
-<td colspan="2">720/30</td>
-<td colspan="3">168</td>
-<td>552</td>
+<td rowspan="2">ЖБП 02</td>
+<td>Қазақ әдебиеті- оқыту қазақ тілінде жүргізілетін топтар үшін</td>
+<td rowspan="2"></td>
+<td rowspan="2">2</td>
+<td rowspan="2"></td>
+<td rowspan="2">5</td>
+<td rowspan="2">120</td>
+<td rowspan="2">
+1)30
+2)54
+</td>
+<td rowspan="2"></td>
+<td rowspan="2">
+1) 6
+2) 6
+</td>
+<td rowspan="2">
+1)12
+2)12
+</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2">
+1) 48
+2) 72
+</td>
 </tr>
 <tr>
-<td colspan="2">Биохимиялық зерттеу техникасы бар биохимия</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">120/5</td>
-<td colspan="3">24</td>
-<td>96</td>
+<td>Орыс әдебиеті- оқыту орыс тілінде жүргізілетін топтар үшін</td>
 </tr>
 <tr>
-<td colspan="2">Микробиологиялық зерттеу техникасы бар микробиология</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">120/5</td>
-<td colspan="3">24</td>
-<td>96</td>
+<td rowspan="2">ЖБП 03</td>
+<td>Қазақ тілі және әдебиеті- оқыту орыс тілінде жүргізілетін топтар үшін</td>
+<td rowspan="2">2</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2">5</td>
+<td rowspan="2">120</td>
+<td rowspan="2">
+1)54
+2)30
+</td>
+<td rowspan="2"></td>
+<td rowspan="2">
+1) 6
+2) 6
+</td>
+<td rowspan="2">
+1)12
+2)12
+</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="2">
+1)72
+2)48
+</td>
 </tr>
 <tr>
-<td colspan="2">Клиникалық зертханалық зерттеу әдістері</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">120/5</td>
-<td colspan="3">24</td>
-<td>96</td>
+<td>Орыс тілі және әдебиеті - оқыту қазақ тілінде жүргізілетін топтар үшін</td>
 </tr>
 <tr>
-<td colspan="2">Гигиеналық зерттеу техникасы бар гигиена</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">120/5</td>
-<td colspan="3">24</td>
-<td>96</td>
-</tr>
-<tr>
-<td colspan="2">Таңдау компоненті</td>
-<td colspan="2"></td>
-<td colspan="2">48/2</td>
-<td colspan="3">24</td>
-<td>24</td>
-</tr>
-<tr>
-<td colspan="2">Аралық аттестаттау</td>
-<td colspan="2"></td>
-<td colspan="2">48/2</td>
-<td colspan="3">48</td>
+<td>ЖБП 04</td>
+<td>Шет тілі</td>
 <td></td>
+<td>2</td>
+<td></td>
+<td>5</td>
+<td>120</td>
+<td>2)84</td>
+<td></td>
+<td>2)12</td>
+<td>2)24</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2) 120</td>
 </tr>
 <tr>
-<td colspan="2">Өндірістік практика: «Медициналық зертханашы»</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">144/6</td>
-<td colspan="3"></td>
+<td>ЖБП 05</td>
+<td>Математика</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>6</td>
 <td>144</td>
+<td>
+1) 54
+2) 54
+</td>
+<td></td>
+<td>
+1) 6
+2) 6
+</td>
+<td>
+1)12
+2)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+1) 72
+2) 72
+</td>
 </tr>
 <tr>
-<td colspan="10">8-семестр</td>
+<td>ЖБП 06</td>
+<td>Информатика</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>4</td>
+<td>96</td>
+<td>1) 60</td>
+<td></td>
+<td>1)12</td>
+<td>1)24</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1) 96</td>
 </tr>
 <tr>
-<td colspan="4">Зертханалық медицина - 2</td>
-<td colspan="2">720 /30</td>
-<td colspan="3">168</td>
-<td>552</td>
+<td>ЖБП 07</td>
+<td>Қазақстан тарихы</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>120</td>
+<td>
+1)30
+2)54
+</td>
+<td></td>
+<td>
+1) 6
+2) 6
+</td>
+<td>
+1)12
+2)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+1) 48
+2) 72
+</td>
 </tr>
 <tr>
-<td colspan="2">Биохимиялық зерттеу техникасы бар биохимия</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
+<td>ЖБП 08</td>
+<td>Дене шынықтыру</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>6</td>
+<td>144</td>
+<td>
+1) 54
+2) 54
+</td>
+<td></td>
+<td>
+1) 6
+2) 6
+</td>
+<td>
+1)12
+2)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+1) 72
+2) 72
+</td>
 </tr>
 <tr>
-<td colspan="2">Микробиологиялық зерттеу техникасы бар микробиология</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
+<td>ЖБП 09</td>
+<td>Алғашқы әскери және технологиялық дайындық</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>5</td>
+<td>120</td>
+<td>
+1)54
+2)30
+</td>
+<td></td>
+<td>
+1) 6
+2) 6
+</td>
+<td>
+1)12
+2)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+1)72
+2)48
+</td>
 </tr>
 <tr>
-<td colspan="2">Клиникалық зертханалық зерттеу әдістері</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
+<td>ЖБП 10</td>
+<td>Физика</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>5</td>
+<td>120</td>
+<td>
+1)30
+2)54
+</td>
+<td></td>
+<td>
+1) 6
+2) 6
+</td>
+<td>
+1)12
+2)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+1) 48
+2) 72
+</td>
 </tr>
 <tr>
-<td colspan="2">Гигиеналық зерттеу техникасымен гигиена</td>
-<td colspan="2">Емтихан</td>
-<td colspan="2">72/3</td>
-<td colspan="3">24</td>
-<td>48</td>
+<td>ЖБП 11</td>
+<td>Химия</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>5</td>
+<td>120</td>
+<td>
+1)30
+2)54
+</td>
+<td></td>
+<td>
+1) 6
+2) 6
+</td>
+<td>
+1)12
+2)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+1) 48
+2) 72
+</td>
 </tr>
 <tr>
-<td colspan="2">Дипломалды практика: «Медициналық зертханашы»</td>
-<td colspan="2">Сараланған сынақ</td>
-<td colspan="2">360/15</td>
-<td colspan="3"></td>
+<td>ЖБП 12</td>
+<td>Биология</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>120</td>
+<td>
+1)54
+2)30
+</td>
+<td></td>
+<td>
+1) 6
+2) 6
+</td>
+<td>
+1)12
+2)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+1)72
+2)48
+</td>
+</tr>
+<tr>
+<td>ЖБП 13</td>
+<td>География</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>4</td>
+<td>96</td>
+<td>
+1)30
+2)30
+</td>
+<td></td>
+<td>
+1) 6
+2) 6
+</td>
+<td>
+1)12
+2)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+1)48
+2)48
+</td>
+</tr>
+<tr>
+<td>ЖБП 14</td>
+<td>Графика және жобалау</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>4</td>
+<td>96</td>
+<td>
+1)30
+2)30
+</td>
+<td></td>
+<td>
+1) 6
+2) 6
+</td>
+<td>
+1)12
+2)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+1)48
+2)48
+</td>
+</tr>
+<tr>
+<td>ЖБП 15</td>
+<td>Дүниежүзілік тарихы</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>5</td>
+<td>120</td>
+<td>
+1)54
+2)30
+</td>
+<td></td>
+<td>
+1) 6
+2) 6
+</td>
+<td>
+1)12
+2)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+1)72
+2)48
+</td>
+</tr>
+<tr>
+<td>ЖБП 16</td>
+<td>Жаһандық құзыреттілік</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td>24</td>
+<td>1)24</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1)24</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td>5</td>
+<td>11</td>
+<td></td>
+<td>75</td>
+<td>1800</td>
+<td>1260</td>
+<td></td>
+<td>180</td>
 <td>360</td>
-</tr>
-<tr>
-<td colspan="4">Қорытынды аттестаттау</td>
-<td colspan="2">72/3</td>
-<td colspan="3">72</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Жалпы білім беретін пәндерді қоспағанда</td>
-<td colspan="2">4320/180</td>
-<td colspan="3">1728</td>
-<td>2592</td>
-</tr>
-<tr>
-<td colspan="4">Жалпы білім беретін пәндермен барлығы</td>
-<td colspan="2">5760/240</td>
-<td colspan="3">3168</td>
-<td>2592</td>
-</tr>
-<tr>
-<td colspan="4">Факультативтер (аптасына 4 сағаттан артық емес)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>ЖГП 00</td>
+<td>Жалпы гуманитарлық пәндер</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td colspan="4">Консультациялар (жылына 100 сағаттан артық емес)</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>ЖГП 01</td>
+<td>Дене шынықтыру</td>
+<td>6</td>
+<td>3,4,5</td>
+<td>7,8</td>
+<td>10</td>
+<td>240</td>
+<td>
+3) 30
+4)30
+5)28
+6)30
+7)24
+8)24
+</td>
+<td></td>
+<td>
+3) 6
+4)6
+5)8
+6)6
+</td>
+<td>
+3)12
+4)12
+5)12
+6)12
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+3) 48
+4)48
+5)48
+6)48
+7)24
+8)24
+</td>
+</tr>
+<tr>
+<td>ЖГП 02</td>
+<td>Қазақстан тарихы</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>3)36</td>
+<td></td>
+<td>3)12</td>
+<td>3)24</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3) 72</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>13</td>
+<td>312</td>
+<td>202</td>
+<td></td>
+<td>38</td>
+<td>72</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ӘЭП
+00
+</td>
+<td>Әлеуметтік – экономикалық пәндер</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ӘЭП 01</td>
+<td>Философия және мәдениеттану негіздері</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>1</td>
+<td>24</td>
+<td>3)12</td>
+<td></td>
+<td>3)6</td>
+<td>3)6</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3)24</td>
+</tr>
+<tr>
+<td>ӘЭП 02</td>
+<td>Саясаттану және әлеуметтану негіздері</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td>1</td>
+<td>24</td>
+<td>4)12</td>
+<td></td>
+<td>4)6</td>
+<td>4)6</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4)24</td>
+</tr>
+<tr>
+<td>ӘЭП 03</td>
+<td>Құқық, экономика және кәсіпкерлік қызмет негіздері</td>
+<td></td>
+<td>6</td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>6)48</td>
+<td></td>
+<td>6)12</td>
+<td>6)12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>6)72</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>5</td>
+<td>120</td>
+<td>72</td>
+<td></td>
+<td>24</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+ЖКП
+00
+</td>
+<td>Жалпы кәсіптік пәндер</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ЖКП 01</td>
+<td>Кәсіби шет тілі</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>3)54</td>
+<td></td>
+<td>3)6</td>
+<td>3)12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3)72</td>
+</tr>
+<tr>
+<td>ЖКП 02</td>
+<td>Латын тілі негіздері медициналық терминологиямен</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>2</td>
+<td>48</td>
+<td>3)30</td>
+<td></td>
+<td>3)6</td>
+<td>3)12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3) 48</td>
+</tr>
+<tr>
+<td>ЖКП 03</td>
+<td>Жалпы гигиена</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>3)54</td>
+<td></td>
+<td>3)6</td>
+<td>3)12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3) 72</td>
+</tr>
+<tr>
+<td>ЖКП 04</td>
+<td>Медициналық биология және медициналық генетика негіздері</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>4</td>
+<td>96</td>
+<td>3)18</td>
+<td>3)42</td>
+<td>3)12</td>
+<td>3)24</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3)96</td>
+</tr>
+<tr>
+<td>ЖКП 05</td>
+<td>Медициналық биофизика</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>2</td>
+<td>48</td>
+<td>3)30</td>
+<td></td>
+<td>3)6</td>
+<td>3)12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3) 48</td>
+</tr>
+<tr>
+<td>ЖКП 06</td>
+<td>Химия</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>96</td>
+<td>3)24</td>
+<td>3)48</td>
+<td>3)12</td>
+<td>3)12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3)96</td>
+</tr>
+<tr>
+<td>ЖКП 07</td>
+<td>Анатомия және физиология</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>96</td>
+<td>3)12</td>
+<td>3)40</td>
+<td>3)14</td>
+<td>3)30</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3)96</td>
+</tr>
+<tr>
+<td>ЖКП 08</td>
+<td>Патологиялық анатомия және физиология негіздері</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>4)10</td>
+<td>4)30</td>
+<td>4)8</td>
+<td>4)24</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4)72</td>
+</tr>
+<tr>
+<td>ЖКП 09</td>
+<td>Психология негіздері және коммуникативтік дағдылар</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>2</td>
+<td>48</td>
+<td>3)10</td>
+<td>3)18</td>
+<td>3)8</td>
+<td>3)12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3)48</td>
+</tr>
+<tr>
+<td>ЖКП 10</td>
+<td>Аналитикалық химия</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>96</td>
+<td>4)18</td>
+<td>4)54</td>
+<td>4)12</td>
+<td>4)12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4)96</td>
+</tr>
+<tr>
+<td>ЖКП 11</td>
+<td>Гистология</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>4)10</td>
+<td>4)30</td>
+<td>4)8</td>
+<td>4)24</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4)72</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td>5</td>
+<td>6</td>
+<td></td>
+<td>34</td>
+<td>816</td>
+<td>270</td>
+<td>262</td>
+<td>98</td>
+<td>186</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АП 00</td>
+<td>Арнайы пәндер</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>АП 01</td>
+<td>Кәсіби қызметіндегі ақпараттық – коммуникациялық және цифрлық технологиялар</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>4)6</td>
+<td>4)6</td>
+<td>3)6</td>
+<td>3)12</td>
+<td>4)42</td>
+<td></td>
+<td></td>
+<td>4)42</td>
+</tr>
+<tr>
+<td>АП 02</td>
+<td>Фармакология негіздері</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td>2</td>
+<td>48</td>
+<td>4)6</td>
+<td>4)24</td>
+<td>4)6</td>
+<td>6)12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4) 48</td>
+</tr>
+<tr>
+<td>АП 03</td>
+<td>Зертханалық жұмыс техникасы</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>96</td>
+<td>3)12</td>
+<td>3)12</td>
+<td>3)8</td>
+<td>3)24</td>
+<td>3)40</td>
+<td></td>
+<td></td>
+<td>3)96</td>
+</tr>
+<tr>
+<td>АП 04</td>
+<td>Микробиология, вирусология микробиологиялық зерттеу техникасымен</td>
+<td>
+
+6
+8
+</td>
+<td>
+5
+7
+</td>
+<td>4</td>
+<td>21</td>
+<td>504</td>
+<td>
+4) 12
+5)12
+6)12
+7) 12
+8) 12
+</td>
+<td>
+4)12
+5)12
+6)12
+7)12
+8) 6
+</td>
+<td>
+4) 6
+5)18
+6)12
+7)12
+8) 6
+</td>
+<td>
+4)6
+5)24
+6)24
+7)24
+8)48
+</td>
+<td>
+4)60
+5)54
+6)36
+7)36
+8)24
+</td>
+<td></td>
+<td></td>
+<td>
+4) 96
+5)120
+6)96
+7) 96
+8) 96
+</td>
+</tr>
+<tr>
+<td>АП 05</td>
+<td>Кәсіби қызметіндегі инфекциялық бақылау</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>4)10</td>
+<td>4)6</td>
+<td>4)8</td>
+<td>4)24</td>
+<td>4)24</td>
+<td></td>
+<td></td>
+<td>4)72</td>
+</tr>
+<tr>
+<td>АП 06</td>
+<td>Медициналық паразитология негіздері</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>4)10</td>
+<td>4)30</td>
+<td>4)8</td>
+<td>4)24</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4)72</td>
+</tr>
+<tr>
+<td>АП 07</td>
+<td>Мейіргерлік технологиялар</td>
+<td>5</td>
+<td>4</td>
+<td></td>
+<td>7</td>
+<td>168</td>
+<td>
+4)12
+5)10
+</td>
+<td>
+4)12
+5)12
+</td>
+<td>
+4)6
+5)16
+</td>
+<td>
+4)12
+5)24
+</td>
+<td>
+4)30
+5)34
+</td>
+<td></td>
+<td></td>
+<td>
+4)72
+5)96
+</td>
+</tr>
+<tr>
+<td>АП 08</td>
+<td>Эпидемиология негіздерімен жұқпалы аурулар</td>
+<td>6</td>
+<td>5</td>
+<td></td>
+<td>6</td>
+<td>144</td>
+<td>
+5)12
+6)8
+</td>
+<td>
+5)12
+6)6
+</td>
+<td>
+5)10
+6)4
+</td>
+<td>
+5)24
+6)12
+</td>
+<td>
+5)38
+6)18
+</td>
+<td></td>
+<td></td>
+<td>
+5)96
+6)48
+</td>
+</tr>
+<tr>
+<td>АП 09</td>
+<td>Клиникалық-биохимиялық зерттеу әдістерімен биологиялық химия</td>
+<td>
+6
+8
+</td>
+<td>
+5
+7
+</td>
+<td></td>
+<td>20</td>
+<td>480</td>
+<td>
+5)12
+6)12
+7)12
+8) 12
+</td>
+<td>
+5)12
+6)12
+7)12
+8)6
+</td>
+<td>
+5)18
+6)18
+7)6
+8) 6
+</td>
+<td>
+5)36
+6)36
+7)36
+8)48
+</td>
+<td>
+5)42
+6)42
+7)78
+8)24
+</td>
+<td></td>
+<td></td>
+<td>
+5)120
+6)120
+7)144
+8) 96
+</td>
+</tr>
+<tr>
+<td>АП 10</td>
+<td>Гигиеналық зерттеу техникасымен гигиена</td>
+<td>
+6
+8
+</td>
+<td>
+5
+7
+</td>
+<td></td>
+<td>19</td>
+<td>432</td>
+<td>
+5)12
+6)12
+7)12
+8) 12
+</td>
+<td>
+5)12
+6)12
+7)12
+8)6
+</td>
+<td>
+5)18
+6)18
+7)6
+8) 6
+</td>
+<td>
+5)36
+6)36
+7)24
+8)36
+</td>
+<td>
+5)42
+6)42
+7)42
+8)36
+</td>
+<td></td>
+<td></td>
+<td>
+5)120
+6)120
+7)96
+8) 96
+</td>
+</tr>
+<tr>
+<td>АП 11</td>
+<td>Клиникалық зертханалық зерттеу әдістері</td>
+<td>
+6
+8
+</td>
+<td>
+5
+7
+</td>
+<td></td>
+<td>20</td>
+<td>480</td>
+<td>
+5)12
+6)12
+7)12
+8) 12
+</td>
+<td>
+5)12
+6)12
+7)12
+8)6
+</td>
+<td>
+5)18
+6)20
+7)6
+8) 6
+</td>
+<td>
+5)36
+6)36
+7)36
+8)36
+</td>
+<td>
+5)42
+6)40
+7)78
+8)36
+</td>
+<td></td>
+<td></td>
+<td>
+5)120
+6)120
+7)144
+8) 96
+</td>
+</tr>
+<tr>
+<td>АП 12</td>
+<td>Терапия негіздері</td>
+<td></td>
+<td>7</td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>7)12</td>
+<td></td>
+<td>7)6</td>
+<td>7)24</td>
+<td>7)30</td>
+<td></td>
+<td></td>
+<td>7)72</td>
+</tr>
+<tr>
+<td>АП 13</td>
+<td>Хирургия негіздері</td>
+<td></td>
+<td>7</td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>7)12</td>
+<td></td>
+<td>7)6</td>
+<td>7)24</td>
+<td>7)30</td>
+<td></td>
+<td></td>
+<td>7)72</td>
+</tr>
+<tr>
+<td>АП 14</td>
+<td>Педиатрия негіздері</td>
+<td></td>
+<td>7</td>
+<td></td>
+<td>2</td>
+<td>48</td>
+<td>7)8</td>
+<td></td>
+<td>7)4</td>
+<td>7)12</td>
+<td>7)24</td>
+<td></td>
+<td></td>
+<td>7)48</td>
+</tr>
+<tr>
+<td>АП 15</td>
+<td>Акушерия және гинекология негіздері</td>
+<td></td>
+<td>7</td>
+<td></td>
+<td>2</td>
+<td>48</td>
+<td>7)8</td>
+<td></td>
+<td>7)4</td>
+<td>7)12</td>
+<td>7)24</td>
+<td></td>
+<td></td>
+<td>7)48</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td>17</td>
+<td>13</td>
+<td></td>
+<td>118</td>
+<td>2808</td>
+<td>330</td>
+<td>300</td>
+<td>292</td>
+<td>798</td>
+<td>1088</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ӨП 00</td>
+<td>Өндірістік практика</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ӨП 01</td>
+<td>Зертханалық жұмыс техникасы</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>2</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3)48</td>
+<td></td>
+<td>3)48</td>
+</tr>
+<tr>
+<td>ӨП 02</td>
+<td>Медициналық зертханашының көмекшісі</td>
+<td></td>
+<td>
+4
+5
+</td>
+<td></td>
+<td>9</td>
+<td>216</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+4)120
+5)96
+</td>
+<td></td>
+<td>
+4)120
+5)96
+</td>
+</tr>
+<tr>
+<td>ӨП 03</td>
+<td>Мейіргерлік технологиялар</td>
+<td></td>
+<td>5</td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5)72</td>
+<td></td>
+<td>5)72</td>
+</tr>
+<tr>
+<td>ӨП 04</td>
+<td>Медициналық зертханашы</td>
+<td></td>
+<td>
+6
+7
+</td>
+<td></td>
+<td>15</td>
+<td>360</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+6)192
+7)168
+</td>
+<td></td>
+<td>
+6)192
+7)168
+</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td></td>
+<td>6</td>
+<td></td>
+<td>29</td>
+<td>696</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>696</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ДАП 00</td>
+<td>Дипломалды практика</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ДАП 01</td>
+<td>Медициналық зертханашы</td>
+<td></td>
+<td>8</td>
+<td></td>
+<td>15</td>
+<td>360</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>8)360</td>
+<td>8)360</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>15</td>
+<td>360</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>360</td>
+<td></td>
+</tr>
+<tr>
+<td>АА</td>
+<td>Аралық аттестация</td>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>216</td>
+<td>
+3)48
+4)24
+5)24
+6) 72
+8)48
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+3)48
+4)24
+5)24
+6) 72
+8)48
+</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>216</td>
+<td>216</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ҚА</td>
+<td>Қорытынды аттестация</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>72</td>
+<td>8)72</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>8)72</td>
+</tr>
+<tr>
+<td colspan="2">
+
+Міндетті оқыту көлемі
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Негізгі орта білім беру базасында</td>
+<td>24</td>
+<td>48</td>
+<td>3</td>
+<td>300</td>
+<td>7200</td>
+<td>2422</td>
+<td>562</td>
+<td>632</td>
+<td>1440</td>
+<td>1088</td>
+<td>696</td>
+<td>360</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">
+
+Жалпы орта білім беру базасында
+</td>
+<td>19</td>
+<td>37</td>
+<td>1</td>
+<td>225</td>
+<td>5400</td>
+<td>1162</td>
+<td>562</td>
+<td>452</td>
+<td>1080</td>
+<td>1088</td>
+<td>696</td>
+<td>360</td>
+<td></td>
+</tr>
+<tr>
+<td>Ф 00</td>
+<td>
+Факультативтер
+(аптасына 4 сағаттан аспайды)
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>К 00</td>
+<td>Консультациялар (жылына 100 сағаттан аспайды)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </table>
 
 > *Медициналық және фармацевтикалық*  
-> *мамандықтар бойынша техникалық және*  
-> *кәсіптік білімнің білім берудің*  
-> *үлгілік оқу бағдарламасына*  
+> *мамандықтар бойынша техникалық*  
+> *және кәсіптік білім берудің үлгілік*  
+> *оқу бағдарламасына*  
 > *11-қосымша*
 
-## 09140200 – «Медициналық оптика» мамандығы бойынша үлгілік оқу бағдарламасының құрылымы Біліктілігі: 4S09140201 «Медициналық оптика» Оқыту түрі: күндізгі
+> *Ескерту. 11-қосымша жаңа редакцияда - ҚР Денсаулық сақтау министрінің 27.03.2026 № 38 (алғаш ресми жарияланған күнінен кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
+
+Үлгілік оқу бағдарламасының құрылымы
+
+Мамандығы: 09140200 – «Медициналық оптика»
+
+Біліктілігі: 4S09140201– «Медициналық оптик»
+
+Оқыту түрі: күндізгі
 
 <table>
 <tr>
-<td rowspan="3">Циклдармен пәндердің атауы</td>
-<td rowspan="3">Бақылау нысаны</td>
-<td rowspan="3">Барлығы (сағат/кредиттер)</td>
-<td colspan="3">Оқу уақытының көлемі (сағат), оның ішінде:</td>
+<td rowspan="3">Индекс</td>
+<td rowspan="3">Пән атауы</td>
+<td colspan="6">Бақылау түрі</td>
+<td colspan="8">Оқу уақытының көлемі</td>
+<td colspan="2" rowspan="3">Педагогпен студенттің өзіндік жұмысы</td>
+<td colspan="2" rowspan="3">Студенттің өзіндік жұмысы</td>
+<td colspan="2" rowspan="3">Оқу практикасы</td>
+<td colspan="2" rowspan="3">Өндірістік практика</td>
+<td colspan="2" rowspan="3">Дипломалды практика</td>
+<td colspan="2" rowspan="3">Семестрлерге бөлінуі</td>
 </tr>
 <tr>
-<td colspan="2">Теориялық оқыту</td>
-<td>Практикалық оқыту</td>
+<td colspan="2" rowspan="2">Емтихан</td>
+<td colspan="2" rowspan="2">Сараланған сынақ</td>
+<td colspan="2" rowspan="2">Сынақ</td>
+<td colspan="2" rowspan="2">Барлығы, кредит</td>
+<td colspan="2" rowspan="2">Барлығы, сағат</td>
+<td colspan="4">Оның ішінде</td>
 </tr>
 <tr>
-<td colspan="2">Аудиториялық сабақтар</td>
-<td>Оқу практикасы (симуляция)</td>
+<td colspan="2">Теориялық</td>
+<td colspan="2">Зертханалық- практикалық/симуляция</td>
 </tr>
 <tr>
-<td colspan="6">1-семестр</td>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td colspan="2">6</td>
+<td colspan="2">7</td>
+<td colspan="2">8</td>
+<td colspan="2">9</td>
+<td colspan="2">10</td>
+<td colspan="2">11</td>
+<td colspan="2">12</td>
+<td colspan="2">13</td>
+<td colspan="2">14</td>
+<td colspan="2">15</td>
 </tr>
 <tr>
-<td colspan="2">Жалпы білім беретін оқыту - 1</td>
-<td>720/30</td>
-<td colspan="2">720</td>
-<td></td>
+<td>ЖБП 00</td>
+<td>Жалпы білім беру пәндері</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td>Математика</td>
-<td>Емтихан</td>
-<td>120/5</td>
-<td colspan="2">120</td>
-<td></td>
-</tr>
-<tr>
-<td>Қазақ (орыс) тілі</td>
-<td>Емтихан</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
-<td>Қазақстан тарихы</td>
-<td>Емтихан</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
-<td>Дене тәрбиесі</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Химия</td>
-<td>Емтихан</td>
-<td>144/6</td>
-<td colspan="2">144</td>
-<td></td>
-</tr>
-<tr>
-<td>Физика</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>География</td>
-<td>Сынақ</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td>Графика және жобалау</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="6">2-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Жалпы білім беретін оқыту - 2</td>
-<td>720/30</td>
-<td colspan="2">720</td>
-<td></td>
-</tr>
-<tr>
-<td>Информатика</td>
-<td>Сараланған сынақ</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
-<td>Қазақ әдебиеті (Орыс әдебиеті)</td>
-<td>Емтихан</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
-<td>Шет тілі</td>
-<td>Сараланған сынақ</td>
-<td>120/5</td>
-<td colspan="2">120</td>
-<td></td>
-</tr>
-<tr>
-<td>Биология</td>
-<td>Емтихан</td>
-<td>144/6</td>
-<td colspan="2">144</td>
-<td></td>
-</tr>
-<tr>
-<td>Дене тәрбиесі</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td>Орыс тілі мен әдебиеті (Қазақ тілі мен әдебиеті)</td>
-<td>Емтихан</td>
-<td>120/5</td>
-<td colspan="2">120</td>
-<td></td>
-</tr>
-<tr>
-<td>Алғашқы әскери және технологиялық дайындық</td>
-<td>Сараланған сынақ</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="6">3-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Жалпы кәсіптік оқыту - 1</td>
-<td>720/30</td>
-<td colspan="2">540</td>
-<td>180</td>
-</tr>
-<tr>
-<td>Кәсіби қазақ (орыс) тілі</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Кәсіби шет тілі</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Дене тәрбиесі</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td>Ақпараттық технологиялар</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td>Әлеуметтану және саясаттану</td>
-<td>Сараланған сынақ</td>
-<td>24/1</td>
-<td colspan="2">24</td>
-<td></td>
-</tr>
-<tr>
-<td>Философия және мәдениеттану негіздері</td>
-<td>Сараланған сынақ</td>
-<td>24/1</td>
-<td colspan="2">24</td>
-<td></td>
-</tr>
-<tr>
-<td>Кәсіби қызметті құқықтық қамтамасыз ету және денсаулық сақтау саласындағы экономика негіздері</td>
-<td>Сараланған сынақ</td>
-<td>24/1</td>
-<td colspan="2">24</td>
-<td></td>
-</tr>
-<tr>
-<td>Анатомия және физиология</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">54</td>
-<td>18</td>
-</tr>
-<tr>
-<td>Клиникалық патология</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">38</td>
-<td>34</td>
-</tr>
-<tr>
-<td>Инженерлік графика</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="2">44</td>
-<td>28</td>
-</tr>
-<tr>
-<td>Электротехника және электроника негіздері</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="2">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td>Оптикалық жүйелердің теориясы мен есебі</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">20</td>
-<td>52</td>
-</tr>
-<tr>
-<td>Аралық аттестаттау</td>
-<td></td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="6">4-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Кәсіби қызметтің медициналық негіздері</td>
-<td>720/30</td>
-<td colspan="2">418</td>
-<td>302</td>
-</tr>
-<tr>
-<td>Қазақстан тарихы</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Дене тәрбиесі</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td>Офтальмологиялық аспаптар</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">24</td>
-<td>48</td>
-</tr>
-<tr>
-<td>Офтальмологиялық диагностика</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">20</td>
-<td>52</td>
-</tr>
-<tr>
-<td>Физиологиялық оптика</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">60</td>
-<td>12</td>
-</tr>
-<tr>
-<td>Көруді оптикалық түзету</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">22</td>
-<td>50</td>
-</tr>
-<tr>
-<td>Клиникалық офтальмология</td>
-<td>Емтихан</td>
-<td>120/5</td>
-<td colspan="2">100</td>
-<td>20</td>
-</tr>
-<tr>
-<td>Аралық аттестаттау</td>
-<td></td>
-<td colspan="2">72/3</td>
-<td>72</td>
-<td></td>
+<td rowspan="2">ЖБП 01</td>
+<td>Қазақ тілі-оқыту қазақ тілінде жүргізілетін топтар үшін</td>
+<td colspan="2" rowspan="2">2</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">5</td>
+<td colspan="2" rowspan="2">120</td>
+<td colspan="2" rowspan="2">
+1)54
+2)30
+</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2" rowspan="2">
+1)12
+2)12
+</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">
+1)72
+2)48
+</td>
 </tr>
 <tr>
 <td>
-Өндірістік оқыту:
-«Офтальмологиялық диагностика»
-«Офтальмологиялық аппараттар»
+
+Орыс тілі -оқыту орыс тілінде жүргізілетін топтар үшін
 </td>
-<td>Сараланған сынақ</td>
-<td colspan="2">120/5</td>
-<td></td>
-<td>120</td>
 </tr>
 <tr>
-<td colspan="6">5-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Оптикалық техника негіздері</td>
-<td colspan="2">720/30</td>
-<td>174</td>
-<td>546</td>
-</tr>
-<tr>
-<td>Контактілі интраокулярлы линзаларды жасау технологиясы</td>
-<td>Емтихан</td>
-<td colspan="2">120/5</td>
-<td>42</td>
-<td>78</td>
-</tr>
-<tr>
-<td>Көзілдірік жасау және жөндеу технологиясы</td>
-<td>Емтихан</td>
-<td colspan="2">120/5</td>
-<td>42</td>
-<td>78</td>
-</tr>
-<tr>
-<td>Көзілдірік және көруді күрделі түзету құралдарын жасау технологиясы</td>
-<td>Емтихан</td>
-<td colspan="2">144/6</td>
-<td>42</td>
-<td>102</td>
-</tr>
-<tr>
-<td>Аралық аттестаттау</td>
-<td></td>
-<td colspan="2">48/2</td>
-<td>48</td>
-<td></td>
-</tr>
-<tr>
-<td>
-Өндірістік практика:
-«Байланысты (контактілі) интраокулярлы линзаларды өндіру технологиясы»
-«Көзілдірік жасау және жөндеу технологиясы»
-«Көзілдірік және көруді күрделі түзету құралдарын жасау технологиясы»
+<td rowspan="2">ЖБП 02</td>
+<td>Қазақ әдебиеті - оқыту қазақ тілінде жүргізілетін топтар үшін</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">2</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">5</td>
+<td colspan="2" rowspan="2">120</td>
+<td colspan="2" rowspan="2">
+1)30
+2)54
 </td>
-<td>Сараланған сынақ</td>
-<td colspan="2">288/12</td>
-<td></td>
-<td>288</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2" rowspan="2">
+1)12
+2)12
+</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">
+1) 48
+2) 72
+</td>
 </tr>
 <tr>
-<td colspan="6">6-семестр</td>
+<td>Орыс әдебиеті- оқыту орыс тілінде жүргізілетін топтар үшін</td>
 </tr>
 <tr>
-<td colspan="2">Линзалар мен оправаларды жасау технологиясы</td>
-<td colspan="2">720/30</td>
-<td>260</td>
-<td>460</td>
+<td rowspan="2">ЖБП 03</td>
+<td>Қазақ тілі және әдебиеті- оқыту орыс тілінде жүргізілетін топтар үшін</td>
+<td colspan="2" rowspan="2">2</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">5</td>
+<td colspan="2" rowspan="2">120</td>
+<td colspan="2" rowspan="2">
+1)54
+2)30
+</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2" rowspan="2">
+1)12
+2)12
+</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">
+1)72
+2)48
+</td>
 </tr>
 <tr>
-<td>Линзалар мен оправаларды дайындау технологиясы</td>
-<td>Емтихан</td>
-<td colspan="2">168/7</td>
-<td>72</td>
-<td>96</td>
+<td>Орыс тілі және әдебиеті - оқыту қазақ тілінде жүргізілетін топтар үшін</td>
 </tr>
 <tr>
-<td>Линзалар мен оправаларды жасаудың заманауи технологиялары</td>
-<td>Емтихан</td>
-<td colspan="2">96/4</td>
-<td>48</td>
-<td>48</td>
-</tr>
-<tr>
-<td>Көзілдіріктер көруді күрделі түзету құралдарын жасаудың заманауи технологиялары</td>
-<td>Емтихан</td>
-<td colspan="2">96/4</td>
-<td>20</td>
-<td>76</td>
-</tr>
-<tr>
-<td>Таңдау компоненті</td>
-<td></td>
-<td colspan="2">48/2</td>
-<td>48</td>
-<td></td>
-</tr>
-<tr>
-<td>Дипломалды практика</td>
-<td>Сараланған сынақ</td>
-<td colspan="2">240/10</td>
-<td></td>
-<td>240</td>
-</tr>
-<tr>
-<td>Қорытынды аттестаттау</td>
-<td></td>
-<td colspan="2">72/3</td>
-<td>72</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Жалпы білім беретін пәндерді қоспағанда</td>
-<td colspan="2">2880/120</td>
-<td>1392</td>
-<td>1488</td>
-</tr>
-<tr>
-<td colspan="2">Жалпы білім беретін пәндермен барлығы</td>
-<td colspan="2">4320/180</td>
-<td>2832</td>
-<td>1488</td>
-</tr>
-<tr>
-<td colspan="2">Факультативтер (аптасына 4 сағаттан аспайды)</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">Консультациялар (жылына 100 сағаттан аспайды)</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-> *Медициналық және фармацевтикалық*  
-> *мамандықтар бойынша техникалық және*  
-> *кәсіптік білімнің білім берудің*  
-> *үлгілік оқу бағдарламасына*  
-> *12- қосымша*
-
-## 09140200 – «Медициналық оптика» мамандығы бойынша үлгілік оқу бағдарламасының құрылымы Біліктілігі: 4S09140202 – «Оптикометрист» Оқыту түрі: күндізгі
-
-<table>
-<tr>
-<td rowspan="3">Циклдар мен пәндердің атауы</td>
-<td rowspan="3">Бақылау нысаны</td>
-<td rowspan="3">Барлығы(сағат/кредиттер)</td>
-<td colspan="3">Оқу уақытының көлемі(сағат)оның ішінде:</td>
-</tr>
-<tr>
-<td colspan="2">Теориялық оқыту</td>
-<td>Практикалық оқыту</td>
-</tr>
-<tr>
-<td colspan="2">Аудиториялық сабақтар</td>
-<td>Оқу практикасы ( Симуляциялар)</td>
-</tr>
-<tr>
-<td colspan="6">1-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Жалпы білім беретін оқыту - 1</td>
-<td>720/30</td>
-<td colspan="2">720</td>
-<td></td>
-</tr>
-<tr>
-<td>Математика</td>
-<td>Емтихан</td>
-<td>120/5</td>
-<td colspan="2">120</td>
-<td></td>
-</tr>
-<tr>
-<td>Қазақ (орыс) тілі</td>
-<td>Емтихан</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
-<td>Қазақстан тарихы</td>
-<td>Емтихан</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
-<td>Дене тәрбиесі</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Химия</td>
-<td>Емтихан</td>
-<td>144/6</td>
-<td colspan="2">144</td>
-<td></td>
-</tr>
-<tr>
-<td>Физика</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>География</td>
-<td>Сынақ</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td>Графика және жобалау</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="6">2-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Жалпы білім беретін оқыту - 2</td>
-<td>720/30</td>
-<td colspan="2">720</td>
-<td></td>
-</tr>
-<tr>
-<td>Информатика</td>
-<td>Сараланған сынақ</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
-<td>Қазақ (Орыс) әдебиеті</td>
-<td>Емтихан</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
+<td>ЖБП 04</td>
 <td>Шет тілі</td>
-<td>Сараланған сынақ</td>
-<td>120/5</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
 <td colspan="2">120</td>
-<td></td>
+<td colspan="2">2)84</td>
+<td colspan="2"></td>
+<td colspan="2">2)12</td>
+<td colspan="2">2)24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2) 120</td>
 </tr>
 <tr>
-<td>Биология</td>
-<td>Емтихан</td>
-<td>144/6</td>
+<td>ЖБП 05</td>
+<td>Математика</td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
 <td colspan="2">144</td>
-<td></td>
-</tr>
-<tr>
-<td>Дене тәрбиесі</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td>Орыс тілі мен әдебиеті (Қазақ тілі мен әдебиеті)</td>
-<td>Емтихан</td>
-<td>120/5</td>
-<td colspan="2">120</td>
-<td></td>
-</tr>
-<tr>
-<td>Алғашқы әскери және технологиялық дайындық</td>
-<td>Сараланған сынақ</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="6">3-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Жалпы кәсіптік оқыту</td>
-<td>720/30</td>
-<td colspan="2">492</td>
-<td>228</td>
-</tr>
-<tr>
-<td>Кәсіби қазақ (орыс) тілі</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Кәсіби шет тілі</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Дене тәрбиесі</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td>Әлеуметтану және саясаттану</td>
-<td>Сараланған сынақ</td>
-<td>96/4</td>
-<td colspan="2">96</td>
-<td></td>
-</tr>
-<tr>
-<td>Ұйым экономикасы</td>
-<td>Сараланған сынақ</td>
-<td>24/1</td>
-<td colspan="2">24</td>
-<td></td>
-</tr>
-<tr>
-<td>Кәсіби қызметті құқықтық қамтамасыз ету</td>
-<td>Сараланған сынақ</td>
-<td>24/1</td>
-<td colspan="2">24</td>
-<td></td>
-</tr>
-<tr>
-<td>Анатомия, физиология және патология</td>
-<td>Емтихан</td>
-<td>216/ 9</td>
-<td colspan="2">46</td>
-<td>170</td>
-</tr>
-<tr>
-<td>Латын тілі</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">20</td>
-<td>28</td>
-</tr>
-<tr>
-<td>Жалпы гигиена</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">18</td>
-<td>30</td>
-</tr>
-<tr>
-<td>Аралық аттестаттау</td>
-<td></td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="6">4-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Жалпы кәсіптік оқыту 2</td>
-<td>720/30</td>
-<td colspan="2">364</td>
-<td>356</td>
-</tr>
-<tr>
-<td>Қазақстан тарихы</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Дене тәрбиесі</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td>Философия және мәдениеттану негіздері</td>
-<td>Сараланған сынақ</td>
-<td>24/1</td>
-<td colspan="2">24</td>
-<td></td>
-</tr>
-<tr>
-<td>Оптикалық салон маркетингі</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">24</td>
-<td>24</td>
-</tr>
-<tr>
-<td>Психология негіздері және коммуникативтік дағдылар</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">22</td>
-<td>26</td>
-</tr>
-<tr>
-<td>Инженерлік графика</td>
-<td>Сараланған сынақ</td>
-<td>24/1</td>
-<td colspan="2">12</td>
-<td>12</td>
-</tr>
-<tr>
-<td>Ақпараттық технологиялар</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">12</td>
-<td>36</td>
-</tr>
-<tr>
-<td>Офтальмологиядағы фармакотерапия</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">26</td>
-<td>46</td>
-</tr>
-<tr>
-<td>Физиологиялық оптика</td>
-<td>Емтихан</td>
-<td>96/4</td>
-<td colspan="2">24</td>
-<td>72</td>
-</tr>
-<tr>
-<td>Мейіргер ісі негіздерімен клиникаға кіріспе</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td colspan="2">28</td>
-<td>44</td>
-</tr>
-<tr>
-<td>Аралық аттестаттау</td>
-<td></td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Өндірістік практика</td>
-<td>Сараланған сынақ</td>
-<td>96/4</td>
-<td colspan="2"></td>
-<td>96</td>
-</tr>
-<tr>
-<td colspan="6">5-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Кәсіптік модульдер 1</td>
-<td>720/30</td>
-<td colspan="2">370</td>
-<td>350</td>
-</tr>
-<tr>
-<td>Оптикалық жүйелердің теориясы мен есебі</td>
-<td>Емтихан</td>
-<td>72/3</td>
-<td colspan="2">42</td>
-<td>30</td>
-</tr>
-<tr>
-<td>Көзілдірік жасау және жөндеу технологисы</td>
-<td>Сараланған сынақ</td>
-<td>120/5</td>
-<td colspan="2">56</td>
-<td>64</td>
-</tr>
-<tr>
-<td>Дене тәрбиесі</td>
-<td>Сараланған сынақ</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
-</tr>
-<tr>
-<td>Геометриялық оптика</td>
-<td>Емтихан</td>
-<td>48/2</td>
-<td colspan="2">32</td>
-<td>16</td>
-</tr>
-<tr>
-<td>Линзалар мен оправаларды дайындау технологиясы</td>
-<td>Емтихан</td>
-<td>120/5</td>
-<td colspan="2">62</td>
-<td>58</td>
-</tr>
-<tr>
-<td>Контактілі және интраокулярлық линзаларды жасау технологиясы</td>
-<td>Емтихан</td>
-<td>120/5</td>
-<td colspan="2">58</td>
-<td>62</td>
-</tr>
-<tr>
-<td>Аралық аттестаттау</td>
-<td></td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Өндірістік практика</td>
-<td>Сараланған сынақ</td>
-<td>120/5</td>
-<td colspan="2"></td>
-<td>120</td>
-</tr>
-<tr>
-<td colspan="6">6-семестр</td>
-</tr>
-<tr>
 <td colspan="2">
-Кәсіби модульдер 2
-Көруді түзету құралдары
+1) 54
+2) 54
 </td>
-<td>720/30</td>
-<td colspan="2">344</td>
-<td>376</td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2">
+1)12
+2)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 72
+2) 72
+</td>
 </tr>
 <tr>
-<td>Клиникалық офтальмология</td>
-<td>Емтихан</td>
-<td>144/6</td>
-<td colspan="2">84</td>
-<td>60</td>
+<td>ЖБП 06</td>
+<td>Информатика</td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2">96</td>
+<td colspan="2">1) 60</td>
+<td colspan="2"></td>
+<td colspan="2">1)12</td>
+<td colspan="2">1)24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1) 96</td>
 </tr>
 <tr>
-<td>Дене тәрбиесі</td>
-<td>Емтихан</td>
-<td>48/2</td>
-<td colspan="2">48</td>
-<td></td>
+<td>ЖБП 07</td>
+<td>Қазақстан тарихы</td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2">120</td>
+<td colspan="2">
+1)30
+2)54
+</td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2">
+1)12
+2)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 48
+2) 72
+</td>
 </tr>
 <tr>
-<td>Офтальмологиялық диагностика</td>
-<td>Емтихан</td>
-<td>144/6</td>
-<td colspan="2">58</td>
-<td>86</td>
+<td>ЖБП 08</td>
+<td>Дене шынықтыру</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2">144</td>
+<td colspan="2">
+1) 54
+2) 54
+</td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2">
+1)12
+2)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 72
+2) 72
+</td>
 </tr>
 <tr>
-<td>Офтальмологиялық аспаптар</td>
-<td>Емтихан</td>
-<td>120/5</td>
-<td colspan="2">58</td>
-<td>62</td>
+<td>ЖБП 09</td>
+<td>Алғашқы әскери және технологиялық дайындық</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2">120</td>
+<td colspan="2">
+1)54
+2)30
+</td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2">
+1)12
+2)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+1)72
+2)48
+</td>
 </tr>
 <tr>
-<td>Таңдау компоненті</td>
-<td></td>
-<td>24/1</td>
+<td>ЖБП 10</td>
+<td>Физика</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2">120</td>
+<td colspan="2">
+1)30
+2)54
+</td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2">
+1)12
+2)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 48
+2) 72
+</td>
+</tr>
+<tr>
+<td>ЖБП 11</td>
+<td>Химия</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2">120</td>
+<td colspan="2">
+1)30
+2)54
+</td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2">
+1)12
+2)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 48
+2) 72
+</td>
+</tr>
+<tr>
+<td>ЖБП 12</td>
+<td>Биология</td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2">120</td>
+<td colspan="2">
+1)54
+2)30
+</td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2">
+1)12
+2)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+1)72
+2)48
+</td>
+</tr>
+<tr>
+<td>ЖБП 13</td>
+<td>География</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2">96</td>
+<td colspan="2">
+1)30
+2)30
+</td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2">
+1)12
+2)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+1)48
+2)48
+</td>
+</tr>
+<tr>
+<td>ЖБП 14</td>
+<td>Графика және жобалау</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2">96</td>
+<td colspan="2">
+1)30
+2)30
+</td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2">
+1)12
+2)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+1)48
+2)48
+</td>
+</tr>
+<tr>
+<td>ЖБП 15</td>
+<td>Дүниежүзілік тарихы</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2">120</td>
+<td colspan="2">
+1)54
+2)30
+</td>
+<td colspan="2"></td>
+<td colspan="2">
+1) 6
+2) 6
+</td>
+<td colspan="2">
+1)12
+2)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+1)72
+2)48
+</td>
+</tr>
+<tr>
+<td>ЖБП 16</td>
+<td>Жаһандық құзыреттілік</td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="2">24</td>
-<td></td>
-</tr>
-<tr>
-<td>Аралық аттестаттау</td>
-<td></td>
-<td>72/3</td>
-<td colspan="2">72</td>
-<td></td>
-</tr>
-<tr>
-<td>Өндірістік практика:</td>
-<td>Сараланған сынақ</td>
-<td>168/7</td>
+<td colspan="2">1)24</td>
 <td colspan="2"></td>
-<td>168</td>
-</tr>
-<tr>
-<td colspan="6">7-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Кәсіптік модульдер 3</td>
-<td>720/30</td>
-<td>264</td>
-<td colspan="2">456</td>
-</tr>
-<tr>
-<td>Түзету құралдарын таңдау және іске асыру кезіндегі коммуникациялық-маркетингтік қызмет</td>
-<td>Емтихан</td>
-<td>240/10</td>
-<td>114</td>
-<td colspan="2">126</td>
-</tr>
-<tr>
-<td>Дене тәрбиесі</td>
-<td>Емтихан</td>
-<td>48/2</td>
-<td>48</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
 <td colspan="2"></td>
-</tr>
-<tr>
-<td>Көруді оптикалық түзету принциптері</td>
-<td>Емтихан</td>
-<td>192/8</td>
-<td>54</td>
-<td colspan="2">138</td>
-</tr>
-<tr>
-<td>Аралық аттестаттау</td>
-<td></td>
-<td>48/2</td>
-<td>48</td>
 <td colspan="2"></td>
-</tr>
-<tr>
-<td>Өндірістік парактика:</td>
-<td></td>
-<td>192/8</td>
-<td></td>
-<td colspan="2">192</td>
-</tr>
-<tr>
-<td colspan="6">8-семестр</td>
-</tr>
-<tr>
-<td colspan="2">Кәсіптік модульдер 4</td>
-<td>720/30</td>
-<td>278</td>
-<td colspan="2">442</td>
-</tr>
-<tr>
-<td>Көзілдіріктер мен көруді күрделі түзету құралдарын жасаудың заманауи технологиялары</td>
-<td>Емтихан</td>
-<td>96/4</td>
-<td>58</td>
-<td colspan="2">38</td>
-</tr>
-<tr>
-<td>Көз аурулары және олардың диагностикасы</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td>28</td>
-<td colspan="2">44</td>
-</tr>
-<tr>
-<td>Көруді түзетудің заманауи нарығы</td>
-<td>Сараланған сынақ</td>
-<td>72/3</td>
-<td>72</td>
 <td colspan="2"></td>
+<td colspan="2">1)24</td>
 </tr>
 <tr>
-<td>Таңдау компоненті</td>
 <td></td>
-<td>48/2</td>
-<td>48</td>
+<td>Жиыны</td>
+<td colspan="2">5</td>
+<td colspan="2">11</td>
 <td colspan="2"></td>
-</tr>
-<tr>
-<td>Дипломалды практика</td>
-<td>Сараланған сынақ</td>
-<td>360/15</td>
-<td></td>
+<td colspan="2">75</td>
+<td colspan="2">1800</td>
+<td colspan="2">1260</td>
+<td colspan="2"></td>
+<td colspan="2">180</td>
 <td colspan="2">360</td>
-</tr>
-<tr>
-<td>Қорытынды аттестаттау</td>
-<td></td>
-<td>72/3</td>
-<td>72</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">Жалпы білім беретін пәндерді қоспағанда</td>
-<td>4320/180</td>
-<td>2112</td>
-<td colspan="2">2208</td>
-</tr>
-<tr>
-<td colspan="2">Жалпы білім беретін пәндермен барлығы</td>
-<td>5760/240</td>
-<td>3552</td>
-<td colspan="2">2208</td>
-</tr>
-<tr>
-<td colspan="2">Факультативтер (аптасына 4 сағаттан артық емес)</td>
-<td></td>
-<td></td>
+<td>ЖГП 00</td>
+<td>Жалпы гуманитарлық пәндер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">Консультациялар (жылына 100 сағаттан артық емес)</td>
+<td>ЖГП 01</td>
+<td>Дене шынықтыру</td>
+<td colspan="2">4</td>
+<td colspan="2">3,5,6</td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2">144</td>
+<td colspan="2">
+3)36
+4)30
+5)24
+6)24
+</td>
+<td colspan="2"></td>
+<td colspan="2">
+3)6
+4)6
+</td>
+<td colspan="2">
+3)6
+4)12
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+3)48
+4)48
+5)24
+6)24
+</td>
+</tr>
+<tr>
+<td>ЖГП 02</td>
+<td>Қазақстан тарихы</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2">72</td>
+<td colspan="2">3)36</td>
+<td colspan="2"></td>
+<td colspan="2">3)12</td>
+<td colspan="2">3)24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3)72</td>
+</tr>
+<tr>
 <td></td>
+<td>Жиыны</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2">9</td>
+<td colspan="2">216</td>
+<td colspan="2">150</td>
+<td colspan="2"></td>
+<td colspan="2">24</td>
+<td colspan="2">42</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ӘЭП 00</td>
+<td>Әлеуметтік – экономикалық пәндер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ӘЭП 01</td>
+<td>Философия және мәдениеттану негіздері</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
+<td colspan="2">3)12</td>
+<td colspan="2"></td>
+<td colspan="2">3)6</td>
+<td colspan="2">3)6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3)24</td>
+</tr>
+<tr>
+<td>ӘЭП 02</td>
+<td>Саясаттану және әлеуметтану негіздері</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2">24</td>
+<td colspan="2">3)12</td>
+<td colspan="2"></td>
+<td colspan="2">3)6</td>
+<td colspan="2">3)6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3)24</td>
+</tr>
+<tr>
+<td>ӘЭП 03</td>
+<td>Құқық, экономика және кәсіпкерлік қызмет негіздері</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2">72</td>
+<td colspan="2">4)48</td>
+<td colspan="2"></td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)12</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4)72</td>
+</tr>
+<tr>
 <td></td>
+<td>Жиыны</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2">120</td>
+<td colspan="2">72</td>
+<td colspan="2"></td>
+<td colspan="2">24</td>
+<td colspan="2">24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>
+ЖКП
+00
+</td>
+<td>Жалпы кәсіптік пәндер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ЖКП 01</td>
+<td>Медициналық биология және медициналық генетика негіздері</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2">96</td>
+<td colspan="2">3)12</td>
+<td colspan="2">3)48</td>
+<td colspan="2">3)12</td>
+<td colspan="2">3)24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3)96</td>
+</tr>
+<tr>
+<td>ЖКП 02</td>
+<td>Жалпы гигиена</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2">72</td>
+<td colspan="2">3)36</td>
+<td colspan="2"></td>
+<td colspan="2">3)12</td>
+<td colspan="2">3)24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3)72</td>
+</tr>
+<tr>
+<td>ЖКП 03</td>
+<td>Кәсіби шет тілі</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2">72</td>
+<td colspan="2">3)48</td>
+<td colspan="2"></td>
+<td colspan="2">3)12</td>
+<td colspan="2">3)12</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3)72</td>
+</tr>
+<tr>
+<td>ЖКП 04</td>
+<td>Медициналық терминологиямен латын тілі негіздері</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2">72</td>
+<td colspan="2">3)54</td>
+<td colspan="2"></td>
+<td colspan="2">3)6</td>
+<td colspan="2">3)12</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3)72</td>
+</tr>
+<tr>
+<td>ЖКП 05</td>
+<td>Психология негіздері және коммуникативтік дағдылар</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2">96</td>
+<td colspan="2">3)24</td>
+<td colspan="2">3)36</td>
+<td colspan="2">3)12</td>
+<td colspan="2">3)24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3)96</td>
+</tr>
+<tr>
+<td>ЖКП 06</td>
+<td>Анатомия, физиология, патология негіздерімен</td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2">144</td>
+<td colspan="2">3)36</td>
+<td colspan="2">3)66</td>
+<td colspan="2">3)12</td>
+<td colspan="2">3)30</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3)144</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td colspan="2">2</td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2">23</td>
+<td colspan="2">552</td>
+<td colspan="2">210</td>
+<td colspan="2">150</td>
+<td colspan="2">66</td>
+<td colspan="2">126</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>АП 00</td>
+<td>Арнайы пәндер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>АП 01</td>
+<td>Оптикалық жүйелердің теориясы мен есебі</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2">144</td>
+<td colspan="2">3)24</td>
+<td colspan="2">3)30</td>
+<td colspan="2">3)12</td>
+<td colspan="2">3)24</td>
+<td colspan="2">3)54</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3)144</td>
+</tr>
+<tr>
+<td>АП 02</td>
+<td>Офтальмологиядағы фармакология</td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2">72</td>
+<td colspan="2">4)18</td>
+<td colspan="2">4)18</td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)24</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4)72</td>
+</tr>
+<tr>
+<td>АП 03</td>
+<td>Физиологиялық оптика</td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2">144</td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)24</td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)24</td>
+<td colspan="2">4)72</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4)144</td>
+</tr>
+<tr>
+<td>АП 04</td>
+<td>Клиникалық офтальмология</td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2">120</td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)18</td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)24</td>
+<td colspan="2">4)54</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4)120</td>
+</tr>
+<tr>
+<td>АП 05</td>
+<td>Офтальмологиялық құралдар</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2">144</td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)24</td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)36</td>
+<td colspan="2">4)60</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4)144</td>
+</tr>
+<tr>
+<td>АП 06</td>
+<td>Офтальмологиялық диагностика</td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2">144</td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)12</td>
+<td colspan="2">4)36</td>
+<td colspan="2">4)72</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4)144</td>
+</tr>
+<tr>
+<td>АП 07</td>
+<td>Көзілдірік жасау және жөндеу технологиясы</td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">7</td>
+<td colspan="2">168</td>
+<td colspan="2">5)24</td>
+<td colspan="2">5)18</td>
+<td colspan="2">5)12</td>
+<td colspan="2">5)48</td>
+<td colspan="2">5)66</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5)168</td>
+</tr>
+<tr>
+<td>АП 08</td>
+<td>Геометриялық оптика</td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2">144</td>
+<td colspan="2">5)12</td>
+<td colspan="2">5)12</td>
+<td colspan="2">5)12</td>
+<td colspan="2">5)36</td>
+<td colspan="2">5)72</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5)144</td>
+</tr>
+<tr>
+<td>АП 09</td>
+<td>Линзалар мен оправаларды жасау технологиясы</td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2">144</td>
+<td colspan="2">5)12</td>
+<td colspan="2">5)18</td>
+<td colspan="2">5)12</td>
+<td colspan="2">5)48</td>
+<td colspan="2">5)54</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5)144</td>
+</tr>
+<tr>
+<td>АП 10</td>
+<td>Контактілі интраокулярлы линзаларды жасау технологиясы</td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">8</td>
+<td colspan="2">192</td>
+<td colspan="2">5)24</td>
+<td colspan="2">5)24</td>
+<td colspan="2">5)24</td>
+<td colspan="2">5)60</td>
+<td colspan="2">5)60</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5)192</td>
+</tr>
+<tr>
+<td>АП 11</td>
+<td>Көз аурулары және олардың диагностикасы</td>
+<td colspan="2">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2">144</td>
+<td colspan="2">6)12</td>
+<td colspan="2">6)18</td>
+<td colspan="2">6)12</td>
+<td colspan="2">6)48</td>
+<td colspan="2">6)54</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6)144</td>
+</tr>
+<tr>
+<td>АП 12</td>
+<td>Көруді оптикалық түзету</td>
+<td colspan="2">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2">120</td>
+<td colspan="2">6)12</td>
+<td colspan="2">6)12</td>
+<td colspan="2">6)12</td>
+<td colspan="2">6)48</td>
+<td colspan="2">6)36</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6)120</td>
+</tr>
+<tr>
+<td>АП 13</td>
+<td>Көзілдірік пен күрделі көруді түзету құралдарын жасаудың заманауи технологиялары</td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2">120</td>
+<td colspan="2">6)12</td>
+<td colspan="2">6)12</td>
+<td colspan="2">6)12</td>
+<td colspan="2">6)48</td>
+<td colspan="2">6)36</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6)120</td>
+</tr>
+<tr>
+<td>АП 14</td>
+<td>Шұғыл медициналық көмек</td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2">96</td>
+<td colspan="2">6)12</td>
+<td colspan="2">6)12</td>
+<td colspan="2">6)6</td>
+<td colspan="2">6)24</td>
+<td colspan="2">6)42</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6)96</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td colspan="2">11</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2">79</td>
+<td colspan="2">1896</td>
+<td colspan="2">210</td>
+<td colspan="2">252</td>
+<td colspan="2">174</td>
+<td colspan="2">528</td>
+<td colspan="2">732</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ӨП 00</td>
+<td>Өндірістік практика</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ӨП 01</td>
+<td>Медициналық оптикаға кіріспе</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2">96</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4)96</td>
+<td colspan="2"></td>
+<td colspan="2">4)96</td>
+</tr>
+<tr>
+<td>ӨП 02</td>
+<td>Көзілдірік жасау және жөндеу технологиясы</td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="2">8</td>
+<td colspan="2">192</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5)192</td>
+<td colspan="2"></td>
+<td colspan="2">5)192</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2">12</td>
+<td colspan="2">288</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">288</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ДАП 00</td>
+<td>Дипломалды практика</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ДАП 01</td>
+<td>Медициналық оптик</td>
+<td colspan="2"></td>
+<td colspan="2">6</td>
+<td colspan="2"></td>
+<td colspan="2">12</td>
+<td colspan="2">288</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6)288</td>
+<td colspan="2">6)288</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2">12</td>
+<td colspan="2">288</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">288</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>АА</td>
+<td>Аралық аттестация</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">7</td>
+<td colspan="2">168</td>
+<td colspan="2">
+3)48
+4)48
+5)48
+6)24
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">
+3)48
+4)48
+5)48
+6)24
+</td>
+</tr>
+<tr>
+<td></td>
+<td>Жиыны</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">7</td>
+<td colspan="2">168</td>
+<td colspan="2">168</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>ҚА</td>
+<td>Қорытынды аттестация</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2">72</td>
+<td colspan="2">6)72</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">6)72</td>
+</tr>
+<tr>
+<td colspan="3">Міндетті оқыту жиыны</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Негізгі орта білім беру базасында</td>
+<td colspan="2">20</td>
+<td colspan="2">27</td>
+<td colspan="2"></td>
+<td colspan="2">225</td>
+<td colspan="2">5400</td>
+<td colspan="2">2142</td>
+<td colspan="2">402</td>
+<td colspan="2">468</td>
+<td colspan="2">1080</td>
+<td colspan="2">732</td>
+<td colspan="2">288</td>
+<td colspan="2">288</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Жалпы орта білім беру базасында</td>
+<td colspan="2">15</td>
+<td colspan="2">16</td>
+<td colspan="2"></td>
+<td colspan="2">150</td>
+<td colspan="2">3600</td>
+<td colspan="2">882</td>
+<td colspan="2">402</td>
+<td colspan="2">288</td>
+<td colspan="2">720</td>
+<td colspan="2">732</td>
+<td colspan="2">288</td>
+<td colspan="2">288</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Ф 00</td>
+<td>
+Факультативтер
+(аптасына 4 сағаттан артық емес)
+</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>К 00</td>
+<td>Консультациялар (Жылына 100 сағаттан артық емес)</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 </table>
