@@ -35,7 +35,7 @@
 
 ## Список ведущих зарубежных высших учебных заведений, зарубежных организаций, рекомендуемых для обучения, прохождения языковых курсов победителями конкурса на присуждение международной стипендии «Болашак» на 2024-2026 годы
 
-> *Сноска. Список с изменениями, внесенными приказом Министра науки и высшего образования РК от 30.06.2025 № 327 (вводится в действие со дня его первого официального опубликования).*
+> *Сноска. Список с изменениями, внесенными приказами Министра науки и высшего образования РК от 30.06.2025 № 327 (вводится в действие со дня его первого официального опубликования); от 27.03.2026 № 150 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования и распространяется на правоотношения, возникшие с 16.03.2026).*
 
 <table>
 <tr>
@@ -399,7 +399,7 @@
 <td>59.</td>
 <td>Университет Лестера (University of Leicester)</td>
 <td>Соединенное Королевство Великобритании и Северной Ирландии</td>
-<td>https://​www.​unist.​ac.​kr/</td>
+<td>https://​le.​ac.​uk/</td>
 </tr>
 <tr>
 <td>60.</td>
@@ -973,9 +973,7 @@
 </tr>
 <tr>
 <td>155.</td>
-<td>Бостонский университет (Boston University)</td>
-<td>Соединенные Штаты Америки</td>
-<td>https://​www.​bu.​edu/</td>
+<td colspan="3">Исключена приказом Министра науки и высшего образования РК от 27.03.2026 № 150 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования и распространяется на правоотношения, возникшие с 16.03.2026).</td>
 </tr>
 <tr>
 <td>156.</td>
@@ -1153,9 +1151,7 @@
 </tr>
 <tr>
 <td>185.</td>
-<td>Калифорнийский университет в Дейвисе (University of California, Davis)</td>
-<td>Соединенные Штаты Америки</td>
-<td>https://​www.​ucdavis.​edu/</td>
+<td colspan="3">Исключена приказом Министра науки и высшего образования РК от 27.03.2026 № 150 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования и распространяется на правоотношения, возникшие с 16.03.2026).</td>
 </tr>
 <tr>
 <td>186.</td>
@@ -1279,9 +1275,7 @@
 </tr>
 <tr>
 <td>206.</td>
-<td>Университет Южной Калифорнии (University of Southern California)</td>
-<td>Соединенные Штаты Америки</td>
-<td>https://​www.​usc.​edu/</td>
+<td colspan="3">Исключена приказом Министра науки и высшего образования РК от 27.03.2026 № 150 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования и распространяется на правоотношения, возникшие с 16.03.2026).</td>
 </tr>
 <tr>
 <td>207.</td>
@@ -1723,6 +1717,1284 @@
 <td>Университет Калифорния в Сан-Франциско (University of California, San Francisco)</td>
 <td>Соединенные Штаты Америки</td>
 <td>https://www.ucsf.edu/</td>
+</tr>
+<tr>
+<td>280.</td>
+<td>Университет Эдит Коуэн (Edith Cowan University)</td>
+<td>Австралийский Союз (Австралия)</td>
+<td>https://​www.​ecu.​edu.​au</td>
+</tr>
+<tr>
+<td>281.</td>
+<td>Университет Мердока (Murdoch University)</td>
+<td>Австралийский Союз (Австралия)</td>
+<td>https://​www.​murdoch.​edu.​au</td>
+</tr>
+<tr>
+<td>282.</td>
+<td>Университет RMIT (RMIT University)</td>
+<td>Австралийский Союз (Австралия)</td>
+<td>https://​www.​rmit.​edu.​au</td>
+</tr>
+<tr>
+<td>283.</td>
+<td>Школа гостиничного менеджмента Blue Mountains IRN (BMIHMS) (Blue Mountains IRN Hotel Management School)</td>
+<td>Австралийский Союз (Австралия)</td>
+<td>https://​www.​blu​emou​ntai​ns.​edu.​au</td>
+</tr>
+<tr>
+<td>284.</td>
+<td>Австралийский католический университет (Australian Catholic University)</td>
+<td>Австралийский Союз (Австралия)</td>
+<td>https://​www.​acu.​edu.​au</td>
+</tr>
+<tr>
+<td>285.</td>
+<td>Университет Гриффита (Griffith University)</td>
+<td>Австралийский Союз (Австралия)</td>
+<td>https://​www.​gri​ffit​h.​edu.​au</td>
+</tr>
+<tr>
+<td>286.</td>
+<td>Университет Ла Троб (La Trobe University)</td>
+<td>Австралийский Союз (Австралия)</td>
+<td>https://​www.​latrobe.​edu.​au</td>
+</tr>
+<tr>
+<td>287.</td>
+<td>Университет Моцартеум Зальцбурга (University Mozarteum Salzburg)</td>
+<td>Австрийская Республика</td>
+<td>https://​www.​moz.​ac.​at/​en</td>
+</tr>
+<tr>
+<td>288.</td>
+<td>Венский университет ветеринарной медицины (University of Veterinary Medicine Vienna)</td>
+<td>Австрийская Республика</td>
+<td>https://​www.​vet​medu​ni.​ac.​at</td>
+</tr>
+<tr>
+<td>289.</td>
+<td>Венский университет природных ресурсов и наук о жизни (Universität für Bodenkultur Wien)</td>
+<td>Австрийская Республика</td>
+<td>https://​www.​boku.​ac.​at</td>
+</tr>
+<tr>
+<td>290.</td>
+<td>Центрально-Европейский университет (Central European University)</td>
+<td>Австрийская Республика</td>
+<td>https://​www.​ceu.​edu</td>
+</tr>
+<tr>
+<td>291.</td>
+<td>Венский университет музыки и исполнительских искусств (Universität für Musik und darstellende Kunst Wien)</td>
+<td>Австрийская Республика</td>
+<td>https://​www.​mdw.​ac.​at</td>
+</tr>
+<tr>
+<td>292.</td>
+<td>Туринский политехнический университет (Politecnico di Torino)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​polito.​it</td>
+</tr>
+<tr>
+<td>293.</td>
+<td>Высшая нормальная школа Пизы (Scuola Normale Superiore di Pisa)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​sns.​it/​it</td>
+</tr>
+<tr>
+<td>294.</td>
+<td>Университет коммерции имени Луиджи Боккони (Bocconi University)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​uni​bocc​oni.​eu</td>
+</tr>
+<tr>
+<td>295.</td>
+<td>Университет Ка’ Фоскари в Венеции (Ca' Foscari University of Venice)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​unive.​it</td>
+</tr>
+<tr>
+<td>296.</td>
+<td>Католический университет Святого Сердца (Università Cattolica del Sacro Cuore)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​unicatt.​it</td>
+</tr>
+<tr>
+<td>297.</td>
+<td>Университет Рима «Тор Вергата» (University of Rome “Tor Vergata”)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​uni​roma​2.​it</td>
+</tr>
+<tr>
+<td>298.</td>
+<td>Европейский университетский институт (European University Institute)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​eui.​eu</td>
+</tr>
+<tr>
+<td>299.</td>
+<td>Университет Луисс Гвидо Карли (Luiss Guido Carli University)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​luiss.​it</td>
+</tr>
+<tr>
+<td>300.</td>
+<td>Венецианский университет архитектуры IUAV (Università IUAV di Venezia)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​iuav.​it</td>
+</tr>
+<tr>
+<td>301.</td>
+<td>Миланский университет (University of Milan)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​unimi.​it</td>
+</tr>
+<tr>
+<td>302.</td>
+<td>Пизанский университет (University of Pisa)</td>
+<td>Итальянская Республика</td>
+<td>https://​www.​unipi.​it</td>
+</tr>
+<tr>
+<td>303.</td>
+<td>Университет искусства и дизайна Эмили Карр (Emily Carr University of Art and Design)</td>
+<td>Канада</td>
+<td>https://​www.​ecuad.​ca</td>
+</tr>
+<tr>
+<td>304.</td>
+<td>Университет Куинс в Кингстоне (Queen's University at Kingston)</td>
+<td>Канада</td>
+<td>https://​www.​queensu.​ca</td>
+</tr>
+<tr>
+<td>305.</td>
+<td>Университет Гуэлфа (University of Guelph)</td>
+<td>Канада</td>
+<td>https://​www.​uog​uelp​h.​ca</td>
+</tr>
+<tr>
+<td>306.</td>
+<td>Университет образования Гонконга (The Education University of Hong Kong)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​eduhk.​hk/​en/</td>
+</tr>
+<tr>
+<td>307.</td>
+<td>Гонконгская академия исполнительских искусств (Hong Kong Academy of Performing Arts)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​hkapa.​edu</td>
+</tr>
+<tr>
+<td>308.</td>
+<td>Китайский сельскохозяйственный университет (China Agricultural University)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​en.​cau.​edu.​cn/</td>
+</tr>
+<tr>
+<td>309.</td>
+<td>Нанкинский сельскохозяйственный университет (Nanjing Agricultural University)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​english.​njau.​edu.​cn/​mainm.​htm</td>
+</tr>
+<tr>
+<td>310.</td>
+<td>Китайский университет горного дела и технологий (China University of Mining and Technology)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​global.​cumt.​edu.​cn/</td>
+</tr>
+<tr>
+<td>311.</td>
+<td>Центральная академия изящных искусств Китая (China Central Academy of Fine Arts)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​cafa.​edu.​cn</td>
+</tr>
+<tr>
+<td>312.</td>
+<td>Хуачжунский сельскохозяйственный университет (Huazhong Agricultural University)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​hzau.​edu.​cn</td>
+</tr>
+<tr>
+<td>313.</td>
+<td>Северо-Западный университет сельского и лесного хозяйства (Northwest Agriculture and Forestry University)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​nwafu.​edu.​cn</td>
+</tr>
+<tr>
+<td>314.</td>
+<td>Южно-Китайский сельскохозяйственный университет (South China Agricultural University)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​scau.​edu.​cn</td>
+</tr>
+<tr>
+<td>315.</td>
+<td>Юго-Восточный университет (Southeast University)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​seu.​edu.​cn</td>
+</tr>
+<tr>
+<td>316.</td>
+<td>Шанхайская консерватория музыки (Shanghai Conservatory of Music, SHCM)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​shc​musi​c.​edu.​cn</td>
+</tr>
+<tr>
+<td>317.</td>
+<td>Университет туризма Макао (Macao University of Tourism, UTM)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​utm.​edu.​mo/</td>
+</tr>
+<tr>
+<td>318.</td>
+<td>Пекинский университет иностранных языков (Beijing Foreign Studies University)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​bfsu.​edu.​cn</td>
+</tr>
+<tr>
+<td>319.</td>
+<td>Китайский университет геонаук (China University of Geosciences)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​cug.​edu.​cn</td>
+</tr>
+<tr>
+<td>320.</td>
+<td>Китайский народный университет (Renmin University of China)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​ruc.​edu.​cn</td>
+</tr>
+<tr>
+<td>321.</td>
+<td>Университет Китайской академии наук (University of Chinese Academy of Sciences)</td>
+<td>Китайская Народная Республика</td>
+<td>https://​www.​ucas.​ac.​cn</td>
+</tr>
+<tr>
+<td>322.</td>
+<td>Оклендский технологический университет (Auckland University of Technology)</td>
+<td>Новая Зеландия</td>
+<td>https://​www.​aut.​ac.​nz</td>
+</tr>
+<tr>
+<td>323.</td>
+<td>Университет Мэсси (Massey University)</td>
+<td>Новая Зеландия</td>
+<td>https://​www.​massey.​ac.​nz</td>
+</tr>
+<tr>
+<td>324.</td>
+<td>Королевская датская академия музыки (The Royal Danish Academy of Music)</td>
+<td>Королевство Дания</td>
+<td>https://​www.​dkdm.​dk/​en</td>
+</tr>
+<tr>
+<td>325.</td>
+<td>Ольборгский университет (Aalborg University)</td>
+<td>Королевство Дания</td>
+<td>https://​www.​aau.​dk</td>
+</tr>
+<tr>
+<td>326.</td>
+<td>Копенгагенская школа бизнеса (Copenhagen Business School)</td>
+<td>Королевство Дания</td>
+<td>https://​www.​cbs.​dk</td>
+</tr>
+<tr>
+<td>327.</td>
+<td>Университетский колледж Корка (University College Cork)</td>
+<td>Республика Ирландия</td>
+<td>https://​www.​ucc.​ie</td>
+</tr>
+<tr>
+<td>328.</td>
+<td>Папский университет Комильяс (Universidad Pontificia Comillas)</td>
+<td>Королевство Испания</td>
+<td>https://​www.​com​illa​s.​edu</td>
+</tr>
+<tr>
+<td>329.</td>
+<td>Университетская школа гостиничного дела и туризма Сан-Поль-де-Мар (Escuela Universitaria de Hostelería y Turismo de Sant Pol de Mar)</td>
+<td>Королевство Испания</td>
+<td>https://​www.​santpol.​edu.​es/​en/</td>
+</tr>
+<tr>
+<td>330.</td>
+<td>Международный университет Каталонии (Universitat Internacional de Catalunya, UIC)</td>
+<td>Королевство Испания</td>
+<td>https://​www.​uic.​es</td>
+</tr>
+<tr>
+<td>331.</td>
+<td>Мадридский политехнический университет (Universidad Politécnica de Madrid, UPM)</td>
+<td>Королевство Испания</td>
+<td>https://​www.​upm.​es</td>
+</tr>
+<tr>
+<td>332.</td>
+<td>Каталонский политехнический университет · BarcelonaTech (Universitat Politècnica de Catalunya, UPC)</td>
+<td>Королевство Испания</td>
+<td>https://​www.​upc.​edu</td>
+</tr>
+<tr>
+<td>333.</td>
+<td>Университет IE (IE University)</td>
+<td>Королевство Испания</td>
+<td>https://​www.​ie.​edu</td>
+</tr>
+<tr>
+<td>334.</td>
+<td>Университет Рамон Льюль (Universitat Ramon Llull)</td>
+<td>Королевство Испания</td>
+<td>https://​www.​url.​edu</td>
+</tr>
+<tr>
+<td>335.</td>
+<td>Академический центр стоматологии Амстердама (Academic Centre for Dentistry Amsterdam, ACTA)</td>
+<td>Королевство Нидерланды</td>
+<td>https://​acta.​nl/​en</td>
+</tr>
+<tr>
+<td>336.</td>
+<td>Университет прикладных наук Бреды (Breda University of Applied Sciences)</td>
+<td>Королевство Нидерланды</td>
+<td>https://​www.​buas.​nl</td>
+</tr>
+<tr>
+<td>337.</td>
+<td>Академия дизайна Эйндховена (Design Academy Eindhoven)</td>
+<td>Королевство Нидерланды</td>
+<td>https://​www.​des​igna​cade​my.​nl/</td>
+</tr>
+<tr>
+<td>338.</td>
+<td>Гаагская школа гостиничного бизнеса (Hotelschool The Hague)</td>
+<td>Королевство Нидерланды</td>
+<td>https://​www.​hot​elsc​hool.​nl/</td>
+</tr>
+<tr>
+<td>339.</td>
+<td>Норвежская академия музыки (Norwegian Academy of Music)</td>
+<td>Королевство Норвегия</td>
+<td>https://​nmh.​no</td>
+</tr>
+<tr>
+<td>340.</td>
+<td>Норвежский университет наук о жизни (Norwegian University of Life Sciences, UMB)</td>
+<td>Королевство Норвегия</td>
+<td>https://​www.​nmbu.​no/​en</td>
+</tr>
+<tr>
+<td>341.</td>
+<td>Норвежский университет науки и технологий (Norwegian University of Science and Technology)</td>
+<td>Королевство Норвегия</td>
+<td>https://​www.​ntnu.​edu</td>
+</tr>
+<tr>
+<td>342.</td>
+<td>Университет Мальме (Malmo University)</td>
+<td>Королевство Швеция</td>
+<td>https://​mau.​se</td>
+</tr>
+<tr>
+<td>343.</td>
+<td>Университет прикладных искусств, ремесел и дизайна Констфак (Konstfack University College of Arts, Crafts and Design)</td>
+<td>Королевство Швеция</td>
+<td>https://​www.​kon​stfa​ck.​se</td>
+</tr>
+<tr>
+<td>344.</td>
+<td>Шведский университет сельскохозяйственных наук (Swedish University of Agricultural Sciences)</td>
+<td>Королевство Швеция</td>
+<td>https://​www.​slu.​se/​en/</td>
+</tr>
+<tr>
+<td>345.</td>
+<td>Королевский музыкальный колледж в Стокгольме (Royal College of Music in Stockholm)</td>
+<td>Королевство Швеция</td>
+<td>https://​www.​uniarts.​se</td>
+</tr>
+<tr>
+<td>346.</td>
+<td>Университет Лулео (Luleå University)</td>
+<td>Королевство Швеция</td>
+<td>https://​www.​ltu.​se</td>
+</tr>
+<tr>
+<td>347.</td>
+<td>Национальный автономный университет Мексики (Universidad Nacional Autónoma de México, UNAM)</td>
+<td>Мексиканские Соединенные Штаты</td>
+<td>https://​www.​unam.​mx</td>
+</tr>
+<tr>
+<td>348.</td>
+<td>Технологический институт Монтеррея (Tecnológico de Monterrey)</td>
+<td>Мексиканские Соединенные Штаты</td>
+<td>https://​tec.​mx</td>
+</tr>
+<tr>
+<td>349.</td>
+<td>Университет науки и технологий Халифа (Khalifa University of Science and Technology)</td>
+<td>Объединенные Арабские Эмираты</td>
+<td>https://​www.​ku.​ac.​ae/</td>
+</tr>
+<tr>
+<td>350.</td>
+<td>Музыкальная академия имени Ференца Листа (The Liszt Academy of Music)</td>
+<td>Венгрия</td>
+<td>https://​uni.​lis​ztac​adem​y.​hu/</td>
+</tr>
+<tr>
+<td>351.</td>
+<td>Стамбульский технический университет (Istanbul Technical University)</td>
+<td>Турецкая Республика</td>
+<td>https://​www.​itu.​edu.​tr</td>
+</tr>
+<tr>
+<td>352.</td>
+<td>Ближневосточный технический университет (Middle East Technical University)</td>
+<td>Турецкая Республика</td>
+<td>https://​www.​metu.​edu.​tr</td>
+</tr>
+<tr>
+<td>353.</td>
+<td>Индийская школа горного дела (Индийский институт технологий ISM, Дханбад) (Indian School of Mines (ISM) University, Dhanbad)</td>
+<td>Республика Индия</td>
+<td>https://​www.​iitism.​ac.​in</td>
+</tr>
+<tr>
+<td>354.</td>
+<td>Институт медицинских и технических наук Савита (Saveetha Institute of Medical and Technical Sciences)</td>
+<td>Республика Индия</td>
+<td>https://​www.​sav​eeth​a.​com</td>
+</tr>
+<tr>
+<td>355.</td>
+<td>Индийский институт менеджмента Ахмадабада (Indian Institute of Management – Ahmedabad)</td>
+<td>Республика Индия</td>
+<td>https://​www.​iima.​ac.​in</td>
+</tr>
+<tr>
+<td>356.</td>
+<td>Индийский институт менеджмента Бангалора (Indian Institute of Management – Bangalore)</td>
+<td>Республика Индия</td>
+<td>https://​www.​iimb.​ac.​in</td>
+</tr>
+<tr>
+<td>357.</td>
+<td>Университет Джавахарлала Неру (Jawaharlal Nehru University)</td>
+<td>Республика Индия</td>
+<td>https://​www.​jnu.​ac.​in</td>
+</tr>
+<tr>
+<td>358.</td>
+<td>Индийский технологический институт Бомбей (Indian Institute of Technology Bombay)</td>
+<td>Республика Индия</td>
+<td>https://​www.​iitb.​ac.​in</td>
+</tr>
+<tr>
+<td>359.</td>
+<td>Индийский технологический институт Дели (Indian Institute of Technology Delhi)</td>
+<td>Республика Индия</td>
+<td>https://​home.​iitd.​ac.​in</td>
+</tr>
+<tr>
+<td>360.</td>
+<td>Индийский технологический институт Харагпур (Indian Institute of Technology Kharagpur)</td>
+<td>Республика Индия</td>
+<td>https://​www.​iitkgp.​ac.​in</td>
+</tr>
+<tr>
+<td>361.</td>
+<td>Индийский технологический институт Мадрас (Indian Institute of Technology Madras)</td>
+<td>Республика Индия</td>
+<td>https://​www.​iitm.​ac.​in</td>
+</tr>
+<tr>
+<td>362.</td>
+<td>Университет Хоник (Hongik University)</td>
+<td>Республика Корея</td>
+<td>https://​www.​hongik.​ac.​kr</td>
+</tr>
+<tr>
+<td>363.</td>
+<td>Университет Седжон (Sejong University)</td>
+<td>Республика Корея</td>
+<td>https://​www.​sejong.​ac.​kr</td>
+</tr>
+<tr>
+<td>364.</td>
+<td>Университет Енсан (Youngsan University)</td>
+<td>Республика Корея</td>
+<td>https://​www.​ysu.​ac.​kr</td>
+</tr>
+<tr>
+<td>365.</td>
+<td>Университет иностранных языков Хангук (Hankuk University of Foreign Studies)</td>
+<td>Республика Корея</td>
+<td>https://​www.​hufs.​ac.​kr</td>
+</tr>
+<tr>
+<td>366.</td>
+<td>Корейский национальный университет искусств (Korea National University of Arts)</td>
+<td>Республика Корея</td>
+<td>https://​www.​karts.​ac.​kr</td>
+</tr>
+<tr>
+<td>367.</td>
+<td>Варшавский университет естественных наук — SGGW (Warsaw University of Life Sciences – SGGW)</td>
+<td>Республика Польша</td>
+<td>https://​www.​sggw.​edu.​pl</td>
+</tr>
+<tr>
+<td>368.</td>
+<td>Санкт-Петербургский горный университет (Saint Petersburg Mining University)</td>
+<td>Российская Федерация</td>
+<td>https://​en.​spmi.​ru/</td>
+</tr>
+<tr>
+<td>369.</td>
+<td>Российская академия музыки имени Гнесиных (Gnesin Russian Academy of Music)</td>
+<td>Российская Федерация</td>
+<td>https://​eng.​gnesin-academy.ru/</td>
+</tr>
+<tr>
+<td>370.</td>
+<td>Санкт-Петербургская государственная консерватория имени Н. А. Римского-Корсакова (Rimsky-Korsakov St. Petersburg State Conservatory)</td>
+<td>Российская Федерация</td>
+<td>https://​www.​con​serv​ator​y.​ru</td>
+</tr>
+<tr>
+<td>371.</td>
+<td>Московская государственная консерватория имени П. И. Чайковского (Moscow P. I. Tchaikovsky Conservatory)</td>
+<td>Российская Федерация</td>
+<td>https://​www.​mos​cons​v.​ru/​en/</td>
+</tr>
+<tr>
+<td>372.</td>
+<td>Национальный исследовательский Томский политехнический университет (National Research Tomsk Polytechnic University)</td>
+<td>Российская Федерация</td>
+<td>https://​www.​tpu.​ru</td>
+</tr>
+<tr>
+<td>373.</td>
+<td>Казанский (Приволжский) федеральный университет (Kazan (Volga region) Federal University)</td>
+<td>Российская Федерация</td>
+<td>https://​kpfu.​ru</td>
+</tr>
+<tr>
+<td>374.</td>
+<td>Российский университет дружбы народов (RUDN University)</td>
+<td>Российская Федерация</td>
+<td>https://​www.​rudn.​ru</td>
+</tr>
+<tr>
+<td>375.</td>
+<td>Институт искусств Курто (The Courtauld Institute of Art)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​cou​rtau​ld.​ac.​uk/</td>
+</tr>
+<tr>
+<td>376.</td>
+<td>Архитектурная ассоциация — Школа архитектуры (Architectural Association School of Architecture)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​aas​choo​l.​ac.​uk</td>
+</tr>
+<tr>
+<td>377.</td>
+<td>Борнмутский университет (Bournemouth University)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​bou​rnem​outh.​ac.​uk</td>
+</tr>
+<tr>
+<td>378.</td>
+<td>Крэнфилдский университет (Cranfield University)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​cra​nfie​ld.​ac.​uk</td>
+</tr>
+<tr>
+<td>379.</td>
+<td>Центральная школа сценической речи и драмы (Central School of Speech &amp; Drama)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​cssd.​ac.​uk</td>
+</tr>
+<tr>
+<td>380.</td>
+<td>Университет Дерби (University of Derby)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​derby.​ac.​uk</td>
+</tr>
+<tr>
+<td>381.</td>
+<td>Университет Данди (University of Dundee)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​dundee.​ac.​uk</td>
+</tr>
+<tr>
+<td>382.</td>
+<td>Голдсмитс, Лондонский университет (Goldsmiths, University of London)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​gold.​ac.​uk</td>
+</tr>
+<tr>
+<td>383.</td>
+<td>Школа искусств Глазго (Glasgow School of Art, GSA)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​gsa.​ac.​uk/</td>
+</tr>
+<tr>
+<td>384.</td>
+<td>Гилдхоллская школа музыки и драмы (Guildhall School of Music and Drama)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​gsmd.​ac.​uk/</td>
+</tr>
+<tr>
+<td>385.</td>
+<td>Университет Хаддерсфилда (University of Huddersfield)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​hud.​ac.​uk</td>
+</tr>
+<tr>
+<td>386.</td>
+<td>Университет Хериот-Уатт (Heriot-Watt University)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​hw.​ac.​uk/</td>
+</tr>
+<tr>
+<td>387.</td>
+<td>Ливерпульский университет имени Джона Мурса (Liverpool John Moores University)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​ljmu.​ac.​uk/</td>
+</tr>
+<tr>
+<td>388.</td>
+<td>Лондонская школа бизнеса (London Business School)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​london.​edu</td>
+</tr>
+<tr>
+<td>389.</td>
+<td>Манчестерская школа архитектуры (Manchester School of Architecture)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​msa.​ac.​uk/</td>
+</tr>
+<tr>
+<td>390.</td>
+<td>Королевский колледж искусств (Royal College of Art)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​rca.​ac.​uk/</td>
+</tr>
+<tr>
+<td>391.</td>
+<td>Королевский музыкальный колледж (Royal College of Music)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​rcm.​ac.​uk/</td>
+</tr>
+<tr>
+<td>392.</td>
+<td>Королевская консерватория Шотландии (Royal Conservatoire of Scotland)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​rcs.​ac.​uk/</td>
+</tr>
+<tr>
+<td>393.</td>
+<td>Королевский северный колледж музыки (RNCM)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​rncm.​ac.​uk/</td>
+</tr>
+<tr>
+<td>394.</td>
+<td>Университет Стратклайда (University of Strathclyde)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​strath.​ac.​uk</td>
+</tr>
+<tr>
+<td>395.</td>
+<td>Университет Суррея (University of Surrey)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​surrey.​ac.​uk/</td>
+</tr>
+<tr>
+<td>396.</td>
+<td>Консерватория музыки и танца Тринити-Лабан (Trinity Laban Conservatoire of Music and Dance)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​tri​nity​laba​n.​ac.​uk/</td>
+</tr>
+<tr>
+<td>397.</td>
+<td>Школа востоковедения и африканистики Лондонского университета (SOAS University of London)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​soas.​ac.​uk/</td>
+</tr>
+<tr>
+<td>398.</td>
+<td>Городской университет Лондона (City University of London)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​city.​ac.​uk</td>
+</tr>
+<tr>
+<td>399.</td>
+<td>Университет Лафборо (Loughborough University)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​lboro.​ac.​uk</td>
+</tr>
+<tr>
+<td>400.</td>
+<td>Университет Оксфорд Брукс (Oxford Brookes University)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​brookes.​ac.​uk</td>
+</tr>
+<tr>
+<td>401.</td>
+<td>Лондонский университет Ройял Холлоуэй (Royal Holloway University of London)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​roy​alho​llow​ay.​ac.​uk</td>
+</tr>
+<tr>
+<td>402.</td>
+<td>Университет Суонси (Swansea University)</td>
+<td>Соединенное Королевство Великобритании и Северной Ирландии</td>
+<td>https://​www.​swansea.​ac.​uk</td>
+</tr>
+<tr>
+<td>403.</td>
+<td>Калифорнийский институт искусств (California Institute of the Arts)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​calarts.​edu</td>
+</tr>
+<tr>
+<td>404.</td>
+<td>Гавайский университет в Маноа (University of Hawaiʻi at Mānoa)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​manoa.​hawaii.​edu</td>
+</tr>
+<tr>
+<td>405.</td>
+<td>Университет штата Орегон (Oregon State University)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​ore​gons​tate.​edu</td>
+</tr>
+<tr>
+<td>406.</td>
+<td>Университет Южной Каролины (University of South Carolina)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​sc.​edu</td>
+</tr>
+<tr>
+<td>407.</td>
+<td>Школа визуальных искусств (School of Visual Arts, SVA)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​sva.​edu</td>
+</tr>
+<tr>
+<td>408.</td>
+<td>Колледж дизайна ArtCenter (Art Center College of Design)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​art​cent​er.​edu/</td>
+</tr>
+<tr>
+<td>409.</td>
+<td>Университет в Буффало, SUNY (University at Buffalo, SUNY)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​buffalo.​edu</td>
+</tr>
+<tr>
+<td>410.</td>
+<td>Институт музыки Кертиса (Curtis Institute of Music)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​curtis.​edu/</td>
+</tr>
+<tr>
+<td>411.</td>
+<td>Международный университет Флориды (Florida International University)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​fiu.​edu</td>
+</tr>
+<tr>
+<td>412.</td>
+<td>Университет штата Айова (Iowa State University)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​iastate.​edu/</td>
+</tr>
+<tr>
+<td>413.</td>
+<td>Джульярдская школа (Juilliard School)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​jui​llia​rd.​edu/</td>
+</tr>
+<tr>
+<td>414.</td>
+<td>Университет штата Канзас (Kansas State University)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​k-​state.​edu</td>
+</tr>
+<tr>
+<td>415.</td>
+<td>Колорадская горная школа (Colorado School of Mines)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​mines.​edu/</td>
+</tr>
+<tr>
+<td>416.</td>
+<td>Университет штата Северная Каролина (North Carolina State University)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​ncsu.​edu</td>
+</tr>
+<tr>
+<td>417.</td>
+<td>Университет The New School (The New School)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​new​scho​ol.​edu/</td>
+</tr>
+<tr>
+<td>418.</td>
+<td>Школа дизайна Парсонс при The New School (Parsons School of Design at The New School)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​new​scho​ol.​edu/​parsons/</td>
+</tr>
+<tr>
+<td>419.</td>
+<td>Институт горного дела и технологий Нью-Мексико (New Mexico Institute of Mining and Technology)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​nmt.​edu</td>
+</tr>
+<tr>
+<td>420.</td>
+<td>Институт Пратта (Pratt Institute)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​pratt.​edu/</td>
+</tr>
+<tr>
+<td>421.</td>
+<td>Школа дизайна Род-Айленда (Rhode Island School of Design, RISD)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​risd.​edu/</td>
+</tr>
+<tr>
+<td>422.</td>
+<td>Школа Института искусств Чикаго (School of the Art Institute of Chicago, SAIC)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​saic.​edu/</td>
+</tr>
+<tr>
+<td>423.</td>
+<td>Колледж искусства и дизайна Саванны (Savannah College of Art and Design)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​scad.​edu/</td>
+</tr>
+<tr>
+<td>424.</td>
+<td>Техасский технологический университет (Texas Tech University)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​ttu.​edu</td>
+</tr>
+<tr>
+<td>425.</td>
+<td>Университет Центральной Флориды (University of Central Florida)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​ucf.​edu</td>
+</tr>
+<tr>
+<td>426.</td>
+<td>Университет Джорджии (The University of Georgia)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​uga.​edu</td>
+</tr>
+<tr>
+<td>427.</td>
+<td>Университет Невады в Лас-Вегасе (University of Nevada, Las Vegas)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​unlv.​edu/</td>
+</tr>
+<tr>
+<td>428.</td>
+<td>Университет Невады в Рино (University of Nevada, Reno)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​unr.​edu</td>
+</tr>
+<tr>
+<td>429.</td>
+<td>Университет Теннесси в Ноксвилле (The University of Tennessee, Knoxville)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​utk.​edu</td>
+</tr>
+<tr>
+<td>430.</td>
+<td>Вирджинский политехнический институт и государственный университет (Virginia Polytechnic Institute and State University)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​vt.​edu</td>
+</tr>
+<tr>
+<td>431.</td>
+<td>Университет Небраски — Линкольн (University of Nebraska–Lincoln)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​unl.​edu</td>
+</tr>
+<tr>
+<td>432.</td>
+<td>Университет штата Колорадо (Colorado State University)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​col​osta​te.​edu</td>
+</tr>
+<tr>
+<td>433.</td>
+<td>Сиракузский университет (Syracuse University)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​syr​acus​e.​edu</td>
+</tr>
+<tr>
+<td>434.</td>
+<td>Хьюстонский университет (University of Houston)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​uh.​edu</td>
+</tr>
+<tr>
+<td>435.</td>
+<td>Университет Миссури, Колумбия (University of Missouri, Columbia)</td>
+<td>Соединенные Штаты Америки</td>
+<td>https://​www.​mis​sour​i.​edu</td>
+</tr>
+<tr>
+<td>436.</td>
+<td>Государственный университет штата Сан-Паулу (UNESP)</td>
+<td>Федеративная Республика Бразилия</td>
+<td>https://​www.​unesp.​br</td>
+</tr>
+<tr>
+<td>437.</td>
+<td>Государственный университет Кампинаса (Universidade Estadual de Campinas – Unicamp)</td>
+<td>Федеративная Республика Бразилия</td>
+<td>https://​www.​unicamp.​br</td>
+</tr>
+<tr>
+<td>438.</td>
+<td>Федеральный университет Рио-де-Жанейро (Universidade Federal do Rio de Janeiro)</td>
+<td>Федеративная Республика Бразилия</td>
+<td>https://​ufrj.​br</td>
+</tr>
+<tr>
+<td>439.</td>
+<td>Высшая школа музыки имени Ханса Айслера в Берлине (Hochschule für Musik Hanns Eisler Berlin)</td>
+<td>Федеративная Республика Германия</td>
+<td>https://​www.​hfm-​berlin.​de</td>
+</tr>
+<tr>
+<td>440.</td>
+<td>Рурский университет в Бохуме (Ruhr-Universität Bochum)</td>
+<td>Федеративная Республика Германия</td>
+<td>https://​www.​ruhr-​uni-​bochum.​de</td>
+</tr>
+<tr>
+<td>441.</td>
+<td>Университет Хоэнхайма (University of Hohenheim)</td>
+<td>Федеративная Республика Германия</td>
+<td>https://​www.​uni-​hoh​enhe​im.​de</td>
+</tr>
+<tr>
+<td>442.</td>
+<td>Университет имени Христиана Альбрехта в Киле (Christian-Albrechts-University zu Kiel)</td>
+<td>Федеративная Республика Германия</td>
+<td>https://​www.​uni-​kiel.​de</td>
+</tr>
+<tr>
+<td>443.</td>
+<td>Фрайбергская горная академия – Технический университет (Technische Universität Bergakademie Freiberg)</td>
+<td>Федеративная Республика Германия</td>
+<td>https://​tu-​fre​iber​g.​de</td>
+</tr>
+<tr>
+<td>444.</td>
+<td>Университет искусств Берлина (Universität der Künste Berlin)</td>
+<td>Федеративная Республика Германия</td>
+<td>https://​www.​udk-​berlin.​de</td>
+</tr>
+<tr>
+<td>445.</td>
+<td>Высшая школа музыки и театра имени Феликса Мендельсона-Бартольди в Лейпциге (Hochschule für Musik und Theater Felix Mendelssohn Bartholdy Leipzig)</td>
+<td>Федеративная Республика Германия</td>
+<td>https://​www.​hmt-​leipzig.​de</td>
+</tr>
+<tr>
+<td>446.</td>
+<td>Университет UCSI (UCSI University)</td>
+<td>Федерация Малайзия</td>
+<td>https://​www.​ucs​iuni​vers​ity.​edu.​my</td>
+</tr>
+<tr>
+<td>447.</td>
+<td>Университет управления и науки (Management and Science University)</td>
+<td>Федерация Малайзия</td>
+<td>https://​www.​msu.​edu.​my</td>
+</tr>
+<tr>
+<td>448.</td>
+<td>Университет Тейлорс (Taylor's University)</td>
+<td>Федерация Малайзия</td>
+<td>https://​uni​vers​ity.​taylors.​edu.​my</td>
+</tr>
+<tr>
+<td>449.</td>
+<td>Малайский университет (Universiti Malaya)</td>
+<td>Федерация Малайзия</td>
+<td>https://​www.​um.​edu.​my</td>
+</tr>
+<tr>
+<td>450.</td>
+<td>Университет Путра Малайзии (Universiti Putra Malaysia)</td>
+<td>Федерация Малайзия</td>
+<td>https://​www.​upm.​edu.​my</td>
+</tr>
+<tr>
+<td>451.</td>
+<td>Технологический университет Малайзии (Universiti Teknologi Malaysia)</td>
+<td>Федерация Малайзия</td>
+<td>https://​www.​utm.​my</td>
+</tr>
+<tr>
+<td>452.</td>
+<td>Технологический университет Петронас (Universiti Teknologi PETRONAS)</td>
+<td>Федерация Малайзия</td>
+<td>https://​www.​utp.​edu.​my</td>
+</tr>
+<tr>
+<td>453.</td>
+<td>Университет Ювяскюля (University of Jyväskylä)</td>
+<td>Финляндская Республика</td>
+<td>https://​www.​jyu.​fi</td>
+</tr>
+<tr>
+<td>454.</td>
+<td>Университет Тампере (Tampere University)</td>
+<td>Финляндская Республика</td>
+<td>https://​www.​tuni.​fi</td>
+</tr>
+<tr>
+<td>455.</td>
+<td>Академия Сибелиуса Университета искусств Хельсинки (Sibelius Academy, University of the Arts Helsinki)</td>
+<td>Финляндская Республика</td>
+<td>https://​www.​uniarts.​fi/​en/​units/​sib​eliu​s-​academy/</td>
+</tr>
+<tr>
+<td>456.</td>
+<td>Университет Турку (University of Turku)</td>
+<td>Финляндская Республика</td>
+<td>https://​www.​utu.​fi</td>
+</tr>
+<tr>
+<td>457.</td>
+<td>Лионская национальная высшая консерватория музыки и танца (Conservatoire national supérieur de musique et de danse de Lyon)</td>
+<td>Французская Республика</td>
+<td>https://​www.​cnsmd-​lyon.​fr</td>
+</tr>
+<tr>
+<td>458.</td>
+<td>Парижская национальная высшая консерватория музыки и танца (CNSMDP)</td>
+<td>Французская Республика</td>
+<td>https://​www.​con​serv​atoi​rede​pari​s.​fr/​en</td>
+</tr>
+<tr>
+<td>459.</td>
+<td>Национальная высшая школа декоративных искусств (ENSAD) (École Nationale Supérieure des Arts Décoratifs)</td>
+<td>Французская Республика</td>
+<td>https://​www.​ensad.​fr</td>
+</tr>
+<tr>
+<td>460.</td>
+<td>Высшая коммерческая школа Парижа (HEC Paris)</td>
+<td>Французская Республика</td>
+<td>https://​www.​hec.​edu</td>
+</tr>
+<tr>
+<td>461.</td>
+<td>Бизнес-школа INSEAD (INSEAD, France)</td>
+<td>Французская Республика</td>
+<td>https://​www.​insead.​edu</td>
+</tr>
+<tr>
+<td>462.</td>
+<td>Институт аграрных наук Франции «L'Institut Agro» (L'Institut Agro)</td>
+<td>Французская Республика</td>
+<td>https://​www.​ins​titu​t-​agro.​fr</td>
+</tr>
+<tr>
+<td>463.</td>
+<td>Университет Париж 1 Пантеон — Сорбонна (Université Paris 1 Panthéon-Sorbonne)</td>
+<td>Французская Республика</td>
+<td>https://​www.​pan​theo​nsor​bonn​e.​fr/</td>
+</tr>
+<tr>
+<td>464.</td>
+<td>Школа гостиничного бизнеса Vatel (Hotel School Vatel)</td>
+<td>Французская Республика</td>
+<td>https://​www.​vatel.​com/</td>
+</tr>
+<tr>
+<td>465.</td>
+<td>Национальная ветеринарная школа Альфора (École Nationale Vétérinaire d’Alfort)</td>
+<td>Французская Республика</td>
+<td>https://​www.​vet-​alfort.​fr</td>
+</tr>
+<tr>
+<td>466.</td>
+<td>Высшая школа социальных наук (Ecole des Hautes Etudes en Sciences Sociales – EHESS)</td>
+<td>Французская Республика</td>
+<td>https://​www.​ehess.​fr</td>
+</tr>
+<tr>
+<td>467.</td>
+<td>Европейская школа бизнеса ESCP (ESCP Europe)</td>
+<td>Французская Республика</td>
+<td>https://​www.​escp.​eu</td>
+</tr>
+<tr>
+<td>468.</td>
+<td>Бизнес-школа ESSEC (ESSEC Business School)</td>
+<td>Французская Республика</td>
+<td>https://​www.​essec.​edu</td>
+</tr>
+<tr>
+<td>469.</td>
+<td>Институт гостиничного менеджмента IMI Люцерн (IMI-Luzern – IRN Hotel Management School)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​imi-​luzern.​com/</td>
+</tr>
+<tr>
+<td>470.</td>
+<td>Les Roches — глобальная школа гостиничного образования (Les Roches Global Hospitality Education)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​les​roch​es.​edu/</td>
+</tr>
+<tr>
+<td>471.</td>
+<td>Колледжи Сезара Ритца (Cesar Ritz Colleges)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​ces​arri​tzco​lleg​es.​edu/​en/</td>
+</tr>
+<tr>
+<td>472.</td>
+<td>Академия кулинарных искусств Швейцарии (Culinary Arts Academy Switzerland)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​cul​inar​yart​sswi​tzer​land.​com/​en/</td>
+</tr>
+<tr>
+<td>473.</td>
+<td>Школа гостиничного бизнеса EHL (EHL Hospitality Business School)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​ehl.​edu/</td>
+</tr>
+<tr>
+<td>474.</td>
+<td>Институт высшего образования Glion (Glion Institute of Higher Education)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​glion.​edu/</td>
+</tr>
+<tr>
+<td>475.</td>
+<td>Институт гостиничного менеджмента Монтре – HIM (Hotel Institute Montreux – HIM)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​him-​bus​ines​s-​school.​com/​en/</td>
+</tr>
+<tr>
+<td>476.</td>
+<td>Швейцарский институт управления гостиничным и туристическим бизнесом (Hotel and Tourism Management Institute, Switzerland)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​htmi.​ch</td>
+</tr>
+<tr>
+<td>477.</td>
+<td>Швейцарская школа гостиничного менеджмента SHMS (SHMS – Swiss Hotel Management School)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​shms.​com/​en/</td>
+</tr>
+<tr>
+<td>478.</td>
+<td>Факультет ветеринарной медицины Vetsuisse (Bern &amp; Zurich)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​vet​suis​se.​unibe.​ch/​index_​eng.​html</td>
+</tr>
+<tr>
+<td>479.</td>
+<td>Цюрихский университет искусств (Zurich University of the Arts, ZHdK)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​zhdk.​ch</td>
+</tr>
+<tr>
+<td>480.</td>
+<td>Женевская школа гостиничного менеджмента (Ecole Hôtelière de Genève)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​ehg.​ch</td>
+</tr>
+<tr>
+<td>481.</td>
+<td>Школа бизнеса и гостиничного менеджмента BHMS (Business and Hotel Management School – BHMS)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​bhms.​ch</td>
+</tr>
+<tr>
+<td>482.</td>
+<td>Университет Санкт-Галлена (University of St. Gallen)</td>
+<td>Швейцарская Конфедерация</td>
+<td>https://​www.​unisg.​ch</td>
+</tr>
+<tr>
+<td>483.</td>
+<td>Университет Претории (University of Pretoria)</td>
+<td>Южно-Африканская Республика</td>
+<td>https://​www.​up.​ac.​za</td>
+</tr>
+<tr>
+<td>484.</td>
+<td>Университет Витватерсранда (University of the Witwatersrand)</td>
+<td>Южно-Африканская Республика</td>
+<td>https://​www.​wits.​ac.​za/</td>
+</tr>
+<tr>
+<td>485.</td>
+<td>Папский католический университет Чили (Pontificia Universidad Católica de Chile)</td>
+<td>Республика Чили</td>
+<td>https://​www.​uc.​cl</td>
+</tr>
+<tr>
+<td>486.</td>
+<td>Университет Чили (Universidad de Chile)</td>
+<td>Республика Чили</td>
+<td>https://​www.​uchile.​cl</td>
+</tr>
+<tr>
+<td>487.</td>
+<td>Университет Кюсю (Kyushu University)</td>
+<td>Япония</td>
+<td>https://​www.​kyushu-​u.​ac.​jp</td>
+</tr>
+<tr>
+<td>488.</td>
+<td>Университет Рицумэйкан (Ritsumeikan University)</td>
+<td>Япония</td>
+<td>https://​www.​rit​sume​i.​ac.​jp</td>
+</tr>
+<tr>
+<td>489.</td>
+<td>Токийский медицинский и стоматологический университет (TMDU)</td>
+<td>Япония</td>
+<td>https://​www.​tmd.​ac.​jp/​english/</td>
+</tr>
+<tr>
+<td>490.</td>
+<td>Университет Цукуба (University of Tsukuba)</td>
+<td>Япония</td>
+<td>https://​www.​tsukuba.​ac.​jp</td>
+</tr>
+<tr>
+<td>491.</td>
+<td>Токийский университет сельского хозяйства и технологий (Tokyo University of Agriculture and Technology)</td>
+<td>Япония</td>
+<td>https://​www.​tuat.​ac.​jp</td>
+</tr>
+<tr>
+<td>492.</td>
+<td>Университет Васэда (Waseda University)</td>
+<td>Япония</td>
+<td>https://​www.​waseda.​jp</td>
 </tr>
 <tr>
 <td colspan="4">2. Зарубежные организации для прохождения языковых курсов обладателями международной стипендии «Болашак»</td>
