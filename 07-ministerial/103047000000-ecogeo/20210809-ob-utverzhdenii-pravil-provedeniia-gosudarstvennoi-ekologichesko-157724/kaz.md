@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/157724/kaz/30.05.2025
+source: https://zan.gov.kz/client/#!/doc/157724/kaz/30.03.2026
 ---
 
 # Мемлекеттік экологиялық сараптама жүргізу қағидаларын бекіту туралы
