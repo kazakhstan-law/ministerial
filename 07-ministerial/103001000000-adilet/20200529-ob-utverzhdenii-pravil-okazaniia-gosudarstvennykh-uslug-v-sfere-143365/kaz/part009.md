@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/143365/kaz/23.01.2026
+source: https://zan.gov.kz/client/#!/doc/143365/kaz/01.04.2026
 ---
 
 > *"Заңды тұлғаларды мемлекеттік*  
