@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/185469/kaz/14.11.2024
+source: https://zan.gov.kz/client/#!/doc/185469/kaz/03.04.2026
 ---
 
 ## Параграф 12. Істерді ресімдеу тәртібі
