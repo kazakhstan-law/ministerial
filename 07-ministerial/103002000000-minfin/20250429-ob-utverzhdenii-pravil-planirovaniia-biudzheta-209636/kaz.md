@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/209636/kaz/01.01.2026
+source: https://zan.gov.kz/client/#!/doc/209636/kaz/10.04.2026
 ---
 
 # Бюджеттік жоспарлаудың қағидаларын бекiту туралы
