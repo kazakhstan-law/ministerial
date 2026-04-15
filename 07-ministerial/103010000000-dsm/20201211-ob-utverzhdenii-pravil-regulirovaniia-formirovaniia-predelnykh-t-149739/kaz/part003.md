@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/149739/kaz/13.02.2026
+source: https://zan.gov.kz/client/#!/doc/149739/kaz/15.04.2026
 ---
 
 > *Дәрілік заттардың шекті*  
