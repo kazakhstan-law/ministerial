@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/159266/kaz/14.05.2025
+source: https://zan.gov.kz/client/#!/doc/159266/kaz/20.04.2026
 ---
 
 ## № 2.6 норма Медициналық пунктерді дәрі-дәрмек препараттарымен мүкәммалымен қамтамасыз ету

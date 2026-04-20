@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/159266/rus/14.05.2025
+source: https://zan.gov.kz/client/#!/doc/159266/rus/20.04.2026
 ---
 
 > *Приложение к Норме № 1*  
