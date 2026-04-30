@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/84634/kaz/28.07.2023
+source: https://zan.gov.kz/client/#!/doc/84634/kaz/30.04.2026
 ---
 
 # Бонитирлеу жөніндегі нұсқаулықтарды бекіту туралы

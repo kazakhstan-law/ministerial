@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/84634/rus/28.07.2023
+source: https://zan.gov.kz/client/#!/doc/84634/rus/30.04.2026
 ---
 
 # Об утверждении инструкций по бонитировке
