@@ -23,10 +23,12 @@
 > *Министерства водных*  
 > *ресурсов и ирригации*  
 > *Республики Казахстан*  
-> *от «__»____ 2025 года*  
-> *№ _______*
+> *от 24 декабря 2025 года*  
+> *№ 107*
 
 ## Лимиты водопользования в разрезе бассейнов и областей (городов республиканского значения, столицы) на 2026 год
+
+> *Сноска. Приложение в редакции приказа Председателя Комитета по регулированию, охране и использованию водных ресурсов Министерства водных ресурсов и ирригации РК от 04.05.2026 № 1 (вводится в действие со дня подписания).*
 
 <table>
 <tr>
@@ -61,30 +63,30 @@
 <td rowspan="5">1</td>
 <td rowspan="5">Акмолинская, в том числе город Астана</td>
 <td>река Есиль</td>
-<td>158</td>
-<td>125</td>
-<td colspan="2">32</td>
-<td>11</td>
-<td>1</td>
-<td>0</td>
+<td>158,0</td>
+<td>125,0</td>
+<td colspan="2">32,0</td>
+<td>11,0</td>
+<td>1,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Междуречье Есиль-Ертис</td>
-<td>41</td>
-<td>33</td>
-<td colspan="2">6</td>
-<td>2</td>
-<td>2</td>
-<td>0</td>
+<td>41,0</td>
+<td>33,0</td>
+<td colspan="2">6,0</td>
+<td>2,0</td>
+<td>2,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>река Чаглинка</td>
-<td>29</td>
-<td>21</td>
-<td colspan="2">7</td>
-<td>3</td>
-<td>1</td>
-<td>0</td>
+<td>29,0</td>
+<td>21,0</td>
+<td colspan="2">7,0</td>
+<td>3,0</td>
+<td>1,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>река Нура</td>
@@ -92,8 +94,8 @@
 <td>0,3</td>
 <td colspan="2">19,2</td>
 <td>1,8</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
@@ -101,57 +103,57 @@
 <td>179,3</td>
 <td colspan="2">64,2</td>
 <td>17,8</td>
-<td>4</td>
-<td>0</td>
+<td>4,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td rowspan="4">2</td>
 <td rowspan="4">Актюбинская</td>
 <td>бассейн реки Жайык (реки Орь, Илек, Хобда, левобережные притоки Жайык и Приаралье)</td>
-<td>325</td>
-<td>60</td>
-<td colspan="2">50</td>
-<td>30</td>
-<td>5</td>
-<td>210</td>
+<td>325,0</td>
+<td>60,0</td>
+<td colspan="2">50,0</td>
+<td>30,0</td>
+<td>5,0</td>
+<td>210,0</td>
 </tr>
 <tr>
 <td>реки Уил, Сагиз, Эмба и Приаралья</td>
-<td>75</td>
-<td>45</td>
-<td colspan="2">30</td>
-<td>10</td>
-<td>0</td>
-<td>0</td>
+<td>75,0</td>
+<td>45,0</td>
+<td colspan="2">30,0</td>
+<td>10,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>река Тургай (Иргиз)</td>
 <td>13,2</td>
 <td>0,7</td>
 <td colspan="2">12,5</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
 <td>413,2</td>
 <td>105,7</td>
 <td colspan="2">92,5</td>
-<td>40</td>
-<td>5</td>
-<td>210</td>
+<td>40,0</td>
+<td>5,0</td>
+<td>210,0</td>
 </tr>
 <tr>
 <td rowspan="3">3</td>
 <td rowspan="3">Алматинская, в том числе город Алматы</td>
 <td>река Иле</td>
-<td>2748,946</td>
+<td>2748,9</td>
 <td>381,2</td>
-<td colspan="2">2103,346</td>
-<td>2065,746</td>
+<td colspan="2">2103,3</td>
+<td>2065,7</td>
 <td>34,4</td>
-<td>230</td>
+<td>230,0</td>
 </tr>
 <tr>
 <td>озеро Балхаш</td>
@@ -159,28 +161,28 @@
 <td>2,8</td>
 <td colspan="2">15,1</td>
 <td>15,1</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>2766,846</td>
-<td>384</td>
-<td colspan="2">2118,446</td>
-<td>2080,846</td>
+<td>2766,8</td>
+<td>384,0</td>
+<td colspan="2">2118,4</td>
+<td>2080,8</td>
 <td>34,4</td>
-<td>230</td>
+<td>230,0</td>
 </tr>
 <tr>
 <td rowspan="4">4</td>
 <td rowspan="4">Жетісу</td>
 <td>река Иле</td>
-<td>522,654</td>
-<td>4</td>
-<td colspan="2">518,654</td>
-<td>512,654</td>
-<td>0</td>
-<td>0</td>
+<td>522,7</td>
+<td>4,0</td>
+<td colspan="2">518,7</td>
+<td>512,7</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>реки Восточного и Северного Прибалхашья</td>
@@ -188,36 +190,36 @@
 <td>67,2</td>
 <td colspan="2">1121,9</td>
 <td>1094,6</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>озера Алаколь, Сасыкколь</td>
-<td>241</td>
+<td>241,0</td>
 <td>4,5</td>
 <td colspan="2">236,5</td>
-<td>230</td>
-<td>0</td>
-<td>0</td>
+<td>230,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>1952,754</td>
+<td>1952,8</td>
 <td>75,7</td>
-<td colspan="2">1877,054</td>
-<td>1837,254</td>
-<td>0</td>
-<td>0</td>
+<td colspan="2">1877,1</td>
+<td>1837,3</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td rowspan="5">5</td>
 <td rowspan="5">Атырауская</td>
 <td>река Жайык</td>
-<td>302,3</td>
+<td>304,3</td>
 <td>151,8</td>
 <td colspan="2">76,5</td>
-<td>27</td>
-<td>4,2</td>
+<td>27,0</td>
+<td>6,2</td>
 <td>69,8</td>
 </tr>
 <tr>
@@ -226,120 +228,120 @@
 <td>39,6</td>
 <td colspan="2">4,5</td>
 <td>1,2</td>
-<td>0</td>
+<td>0,0</td>
 <td>4,2</td>
 </tr>
 <tr>
 <td>реки Уил, Сагиз, Эмба</td>
 <td>24,9</td>
 <td>0,9</td>
-<td colspan="2">24</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td colspan="2">24,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Каспийское море</td>
 <td>7,5</td>
 <td>7,5</td>
-<td colspan="2">0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td colspan="2">0,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>383</td>
+<td>385,0</td>
 <td>199,8</td>
-<td colspan="2">105</td>
+<td colspan="2">105,0</td>
 <td>28,2</td>
-<td>4,2</td>
-<td>74</td>
+<td>6,2</td>
+<td>74,0</td>
 </tr>
 <tr>
 <td rowspan="3">6</td>
 <td rowspan="3">Западно-Казахстанская</td>
 <td>реки Большой и Малый Узени, Чижа, Ащы, Узек Жанибекская оросительно-обводнительная система</td>
-<td>109</td>
-<td>1</td>
-<td colspan="2">5</td>
-<td>2</td>
-<td>0</td>
-<td>103</td>
+<td>111,0</td>
+<td>1,0</td>
+<td colspan="2">5,0</td>
+<td>2,0</td>
+<td>2,0</td>
+<td>103,0</td>
 </tr>
 <tr>
 <td>река Жайык</td>
-<td>669</td>
-<td>39</td>
-<td colspan="2">30</td>
-<td>13</td>
-<td>0</td>
-<td>600</td>
+<td>674,0</td>
+<td>39,0</td>
+<td colspan="2">30,0</td>
+<td>13,0</td>
+<td>5,0</td>
+<td>600,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>778</td>
-<td>40</td>
-<td colspan="2">35</td>
-<td>15</td>
-<td>0</td>
-<td>703</td>
+<td>785,0</td>
+<td>40,0</td>
+<td colspan="2">35,0</td>
+<td>15,0</td>
+<td>7,0</td>
+<td>703,0</td>
 </tr>
 <tr>
 <td rowspan="6">7</td>
 <td rowspan="6">Жамбылская</td>
 <td>река Шу</td>
-<td>933</td>
+<td>763,0</td>
 <td>24,2</td>
-<td colspan="2">685,8</td>
-<td>620</td>
-<td>23</td>
-<td>200</td>
+<td colspan="2">515,8</td>
+<td>450,0</td>
+<td>23,0</td>
+<td>200,0</td>
 </tr>
 <tr>
 <td>река Талас</td>
-<td>510</td>
-<td>40</td>
-<td colspan="2">400</td>
-<td>380</td>
-<td>0</td>
-<td>70</td>
+<td>410,0</td>
+<td>40,0</td>
+<td colspan="2">300,0</td>
+<td>280,0</td>
+<td>0,0</td>
+<td>70,0</td>
 </tr>
 <tr>
 <td>река Аса</td>
-<td>346</td>
-<td>30</td>
-<td colspan="2">236</td>
-<td>200</td>
-<td>0</td>
-<td>80</td>
+<td>316,0</td>
+<td>30,0</td>
+<td colspan="2">206,0</td>
+<td>170,0</td>
+<td>0,0</td>
+<td>80,0</td>
 </tr>
 <tr>
 <td>Бассейн озера Балкаш</td>
-<td>3</td>
-<td>2</td>
-<td colspan="2">1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>3,0</td>
+<td>2,0</td>
+<td colspan="2">1,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Бассейн реки Иле</td>
 <td>2,5</td>
-<td>1</td>
+<td>1,0</td>
 <td colspan="2">1,5</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>1794,5</td>
+<td>1494,5</td>
 <td>97,2</td>
-<td colspan="2">1324,3</td>
-<td>1200</td>
-<td>23</td>
-<td>350</td>
+<td colspan="2">1024,3</td>
+<td>900,0</td>
+<td>23,0</td>
+<td>350,0</td>
 </tr>
 <tr>
 <td rowspan="4">8</td>
@@ -349,17 +351,17 @@
 <td>1322,9</td>
 <td colspan="2">88,5</td>
 <td>88,5</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>озеро Балхаш</td>
-<td>175,5</td>
-<td>175,5</td>
-<td colspan="2">0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>245,5</td>
+<td>225,5</td>
+<td colspan="2">10,0</td>
+<td>10,0</td>
+<td>10,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Ертис (Канал имени Каныша Сатпаева)</td>
@@ -368,16 +370,16 @@
 <td colspan="2">8,3</td>
 <td>8,3</td>
 <td>1,2</td>
-<td>42</td>
+<td>42,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>1740,2</td>
-<td>1600,2</td>
-<td colspan="2">96,8</td>
-<td>96,8</td>
-<td>1,2</td>
-<td>42</td>
+<td>1810,2</td>
+<td>1650,2</td>
+<td colspan="2">106,8</td>
+<td>106,8</td>
+<td>11,2</td>
+<td>42,0</td>
 </tr>
 <tr>
 <td rowspan="3">9</td>
@@ -387,53 +389,53 @@
 <td>229,8</td>
 <td colspan="2">8,4</td>
 <td>8,4</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>река Кумола</td>
-<td>0,1</td>
-<td>0,1</td>
-<td colspan="2">0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>0,13</td>
+<td>0,13</td>
+<td colspan="2">0,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>238,3</td>
-<td>229,9</td>
+<td>238,33</td>
+<td>229,93</td>
 <td colspan="2">8,4</td>
 <td>8,4</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td rowspan="3">10</td>
 <td rowspan="3">Костанай</td>
 <td>река Тобол</td>
-<td>114,4</td>
+<td>126,4</td>
 <td>82,1</td>
-<td colspan="2">24,4</td>
-<td>21,9</td>
+<td colspan="2">36,4</td>
+<td>34,0</td>
 <td>1,1</td>
 <td>6,8</td>
 </tr>
 <tr>
 <td>река Торгай</td>
-<td>5,3</td>
+<td>7,2</td>
 <td>4,7</td>
-<td colspan="2">0,6</td>
-<td>0,5</td>
-<td>0</td>
-<td>0</td>
+<td colspan="2">2,5</td>
+<td>2,4</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>119,7</td>
+<td>133,6</td>
 <td>86,8</td>
-<td colspan="2">25</td>
-<td>22,4</td>
+<td colspan="2">38,9</td>
+<td>36,3</td>
 <td>1,1</td>
 <td>6,8</td>
 </tr>
@@ -441,32 +443,32 @@
 <td rowspan="2">11</td>
 <td rowspan="2">Кызылорда</td>
 <td>река Сырдарья</td>
-<td>4470</td>
-<td>45</td>
-<td colspan="2">3215</td>
-<td>3200</td>
-<td>10</td>
-<td>1200</td>
+<td>4540,0</td>
+<td>45,0</td>
+<td colspan="2">3285,0</td>
+<td>3270,0</td>
+<td>10,0</td>
+<td>1200,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>4470</td>
-<td>45</td>
-<td colspan="2">3215</td>
-<td>3200</td>
-<td>10</td>
-<td>1200</td>
+<td>4540,0</td>
+<td>45,0</td>
+<td colspan="2">3285,0</td>
+<td>3270,0</td>
+<td>10,0</td>
+<td>1200,0</td>
 </tr>
 <tr>
 <td rowspan="3">12</td>
 <td rowspan="3">Мангистау</td>
 <td>Каспийское море</td>
-<td>1464,9</td>
+<td>1465,0</td>
 <td>1464,7</td>
 <td colspan="2">0,2</td>
 <td>0,1</td>
-<td>0</td>
-<td>0</td>
+<td>0,1</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Приаралье, река Волга</td>
@@ -474,215 +476,215 @@
 <td>22,9</td>
 <td colspan="2">0,5</td>
 <td>0,2</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>1488,3</td>
+<td>1488,4</td>
 <td>1487,6</td>
 <td colspan="2">0,7</td>
 <td>0,3</td>
-<td>0</td>
-<td>0</td>
+<td>0,1</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td rowspan="5">13</td>
 <td rowspan="5">Туркестан, в том числе г Шымкент</td>
 <td>река Сырдарья</td>
-<td>2143,3</td>
-<td>11</td>
-<td colspan="2">1957,8</td>
-<td>1940</td>
-<td>11</td>
+<td>2153,3</td>
+<td>11,0</td>
+<td colspan="2">1967,8</td>
+<td>1950,0</td>
+<td>11,0</td>
 <td>163,5</td>
 </tr>
 <tr>
 <td>река Арысь</td>
 <td>1661,6</td>
-<td>127</td>
+<td>127,0</td>
 <td colspan="2">1276,9</td>
-<td>1190</td>
-<td>9</td>
+<td>1190,0</td>
+<td>9,0</td>
 <td>248,7</td>
 </tr>
 <tr>
 <td>река Чирчик</td>
 <td>952,5</td>
-<td>9</td>
+<td>9,0</td>
 <td colspan="2">724,7</td>
-<td>693</td>
-<td>0</td>
+<td>693,0</td>
+<td>0,0</td>
 <td>218,8</td>
 </tr>
 <tr>
 <td>реки Северного склона гор Каратау</td>
 <td>65,9</td>
-<td>4</td>
+<td>4,0</td>
 <td colspan="2">59,9</td>
 <td>51,1</td>
-<td>0</td>
-<td>2</td>
+<td>0,0</td>
+<td>2,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>4823,3</td>
-<td>151</td>
-<td colspan="2">4019,3</td>
-<td>3874,1</td>
-<td>20</td>
-<td>633</td>
+<td>4833,3</td>
+<td>151,0</td>
+<td colspan="2">4029,3</td>
+<td>3884,1</td>
+<td>20,0</td>
+<td>633,0</td>
 </tr>
 <tr>
 <td rowspan="5">14</td>
 <td rowspan="5">Павлодарская</td>
 <td>река Ертис</td>
-<td>3569</td>
+<td>3659,0</td>
 <td>2399,7</td>
-<td colspan="2">969,3</td>
-<td>70</td>
-<td>1</td>
-<td>199</td>
+<td colspan="2">1059,3</td>
+<td>160,0</td>
+<td>1,0</td>
+<td>199,0</td>
 </tr>
 <tr>
 <td>река Шидерты</td>
-<td>6</td>
+<td>6,0</td>
 <td>0,1</td>
 <td colspan="2">5,9</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>река Оленты</td>
-<td>2</td>
+<td>2,0</td>
 <td>0,1</td>
 <td colspan="2">1,9</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>река Ащису, Тундык, Эспе</td>
-<td>23</td>
+<td>23,0</td>
 <td>0,1</td>
 <td colspan="2">22,9</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>3600</td>
-<td>2400</td>
-<td colspan="2">1000</td>
-<td>70</td>
-<td>1</td>
-<td>199</td>
+<td>3690,0</td>
+<td>2400,0</td>
+<td colspan="2">1090,0</td>
+<td>160,0</td>
+<td>1,0</td>
+<td>199,0</td>
 </tr>
 <tr>
 <td rowspan="4">15</td>
 <td rowspan="4">Северо-Казахстанская</td>
 <td>река Есиль</td>
 <td>257,5</td>
-<td>240</td>
+<td>240,0</td>
 <td colspan="2">15,5</td>
-<td>3</td>
-<td>2</td>
-<td>0</td>
+<td>3,0</td>
+<td>2,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Междуречье Есиль-Ертис</td>
 <td>5,5</td>
 <td>1,5</td>
-<td colspan="2">4</td>
+<td colspan="2">4,0</td>
 <td>0,5</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>река Чаглинка</td>
-<td>7</td>
-<td>1</td>
-<td colspan="2">6</td>
+<td>7,0</td>
+<td>1,0</td>
+<td colspan="2">6,0</td>
 <td>0,5</td>
-<td>0</td>
-<td>0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>270</td>
+<td>270,0</td>
 <td>242,5</td>
 <td colspan="2">25,5</td>
-<td>4</td>
-<td>2</td>
-<td>0</td>
+<td>4,0</td>
+<td>2,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td rowspan="2">16</td>
 <td rowspan="2">Восточно-Казахстанская</td>
 <td>река Ертис</td>
-<td>521</td>
-<td>326</td>
-<td colspan="2">170</td>
-<td>100</td>
-<td>25</td>
-<td>0</td>
+<td>521,0</td>
+<td>326,0</td>
+<td colspan="2">170,0</td>
+<td>100,0</td>
+<td>25,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
-<td>521</td>
-<td>326</td>
-<td colspan="2">170</td>
-<td>100</td>
-<td>25</td>
-<td>0</td>
+<td>521,0</td>
+<td>326,0</td>
+<td colspan="2">170,0</td>
+<td>100,0</td>
+<td>25,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td rowspan="4">17</td>
 <td rowspan="4">Абай</td>
 <td>озеро Балхаш</td>
-<td>40</td>
-<td>5</td>
-<td colspan="2">35</td>
-<td>10</td>
-<td>0</td>
-<td>0</td>
+<td>40,0</td>
+<td>5,0</td>
+<td colspan="2">35,0</td>
+<td>10,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>озера Алаколь и Сасыкколь</td>
 <td>49,5</td>
 <td>2,5</td>
-<td colspan="2">47</td>
-<td>40</td>
-<td>0</td>
-<td>0</td>
+<td colspan="2">47,0</td>
+<td>40,0</td>
+<td>0,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>река Ертис</td>
-<td>395</td>
-<td>69</td>
-<td colspan="2">321</td>
-<td>170</td>
-<td>5</td>
-<td>0</td>
+<td>395,0</td>
+<td>69,0</td>
+<td colspan="2">321,0</td>
+<td>170,0</td>
+<td>5,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>Итого</td>
 <td>484,5</td>
 <td>76,5</td>
-<td colspan="2">403</td>
-<td>220</td>
-<td>5</td>
-<td>0</td>
+<td colspan="2">403,0</td>
+<td>220,0</td>
+<td>5,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td colspan="3">Всего по Казахстану</td>
-<td>26091,1</td>
-<td colspan="2">7727,2</td>
-<td>14580,2</td>
-<td>12815,1</td>
-<td>135,9</td>
+<td>26054,1</td>
+<td colspan="2">7777,2</td>
+<td>14474,1</td>
+<td>12709,0</td>
+<td>155,0</td>
 <td>3647,8</td>
 </tr>
 </table>
