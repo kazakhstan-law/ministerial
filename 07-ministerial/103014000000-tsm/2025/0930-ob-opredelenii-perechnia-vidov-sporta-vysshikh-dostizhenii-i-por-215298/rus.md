@@ -28,6 +28,8 @@
 
 ## Перечень видов спорта высших достижений
 
+> *Сноска. Перечень в редакции приказа Министра туризма и спорта РК от 15.05.2026 № 84 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td>№</td>
@@ -50,7 +52,7 @@
 <td>8</td>
 </tr>
 <tr>
-<td colspan="8">Летние виды спорта</td>
+<td colspan="9">Летние виды спорта</td>
 </tr>
 <tr>
 <td>1</td>
@@ -503,7 +505,7 @@ Fédération Internationale des Sociétés d'Aviron (FISA)
 <td></td>
 </tr>
 <tr>
-<td colspan="8">Зимние виды спорта</td>
+<td colspan="9">Зимние виды спорта</td>
 </tr>
 <tr>
 <td>33</td>
@@ -615,6 +617,9 @@ Fédération Internationale des Sociétés d'Aviron (FISA)
 <td></td>
 </tr>
 <tr>
+<td colspan="9">Виды спорта, вошедшие в программы Азиатских и Параазиатских игр</td>
+</tr>
+<tr>
 <td>39</td>
 <td>Борьба на поясах</td>
 <td>
@@ -668,9 +673,6 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td colspan="8">Виды спорта, вошедшие в программы Азиатских и Параазиатских игр</td>
-</tr>
-<tr>
 <td>44</td>
 <td>Джиу-джитсу</td>
 <td>Ju-Jitsu International Federation (JJIF)</td>
@@ -722,6 +724,16 @@ International Belt Wrestling Association (IBWA)
 </tr>
 <tr>
 <td>49</td>
+<td>Кураш</td>
+<td>International Kurash Association</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кураш</td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
 <td>Муайтай</td>
 <td>International Federation of Muaythai Associations (IFMA)</td>
 <td></td>
@@ -731,7 +743,17 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td>50</td>
+<td>51</td>
+<td>Падел</td>
+<td>International Padel Federation</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Падел</td>
+<td></td>
+</tr>
+<tr>
+<td>52</td>
 <td>Пара армрестлинг</td>
 <td>WAF world armrestling federation</td>
 <td></td>
@@ -741,7 +763,7 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td>51</td>
+<td>53</td>
 <td>Пенчак силат</td>
 <td>International Pencak Silat Federation (IPSF)</td>
 <td></td>
@@ -751,7 +773,7 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td rowspan="3">52</td>
+<td rowspan="3">54</td>
 <td rowspan="3">Самбо</td>
 <td rowspan="3">International Sambo Federation (FIAS)</td>
 <td></td>
@@ -775,7 +797,7 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td>53</td>
+<td>55</td>
 <td>Ушу</td>
 <td>International Wushu Federation (IWUF)</td>
 <td></td>
@@ -785,7 +807,7 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td>54</td>
+<td>56</td>
 <td>Шахматы</td>
 <td>Federation Internationale des Echecs (FIDE), The International Chess Committee of the Deaf</td>
 <td></td>
@@ -795,10 +817,10 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td colspan="8">Национальные виды спорта</td>
+<td colspan="9">Национальные виды спорта</td>
 </tr>
 <tr>
-<td>55</td>
+<td>57</td>
 <td>Аударыспақ</td>
 <td>ОЮЛ «World Federation of Horseback Wrestling»</td>
 <td></td>
@@ -808,7 +830,7 @@ International Belt Wrestling Association (IBWA)
 <td>Аударыспақ</td>
 </tr>
 <tr>
-<td>56</td>
+<td>58</td>
 <td>Асық ату</td>
 <td>ОЮЛ «Ассоциация международная федерация спорта Кочевников Асык»</td>
 <td></td>
@@ -818,7 +840,7 @@ International Belt Wrestling Association (IBWA)
 <td>Асық ату</td>
 </tr>
 <tr>
-<td>57</td>
+<td>59</td>
 <td>Бәйге</td>
 <td>-</td>
 <td></td>
@@ -828,7 +850,7 @@ International Belt Wrestling Association (IBWA)
 <td>Бәйге</td>
 </tr>
 <tr>
-<td>58</td>
+<td>60</td>
 <td>Дәстүрлі садақ ату</td>
 <td>«World Tradicional Archery federation»</td>
 <td></td>
@@ -838,7 +860,7 @@ International Belt Wrestling Association (IBWA)
 <td>Дәстүрлі садақ ату</td>
 </tr>
 <tr>
-<td>59</td>
+<td>61</td>
 <td>Жамбы ату</td>
 <td>«International horseback archery alliance» (IHAA)</td>
 <td></td>
@@ -848,7 +870,7 @@ International Belt Wrestling Association (IBWA)
 <td>Жамбы ату</td>
 </tr>
 <tr>
-<td>60</td>
+<td>62</td>
 <td>Жекпе-жек</td>
 <td>-</td>
 <td></td>
@@ -858,7 +880,7 @@ International Belt Wrestling Association (IBWA)
 <td>Жекпе-жек</td>
 </tr>
 <tr>
-<td rowspan="2">61</td>
+<td rowspan="2">63</td>
 <td rowspan="2">Көкпар</td>
 <td>ОЮЛ «Международная федерация спорта жаппай көкпар»</td>
 <td></td>
@@ -876,7 +898,7 @@ International Belt Wrestling Association (IBWA)
 <td>Көкпар</td>
 </tr>
 <tr>
-<td>62</td>
+<td>64</td>
 <td>Қазақ күресі</td>
 <td>ОЮЛ Ассоциация «QAZAQ KURESI»</td>
 <td></td>
@@ -886,7 +908,7 @@ International Belt Wrestling Association (IBWA)
 <td>Қазақ күресі</td>
 </tr>
 <tr>
-<td>63</td>
+<td>65</td>
 <td>Құсбегілік</td>
 <td>«INTERNATIONAL QUSBEGILIK FEDERATION»</td>
 <td></td>
@@ -896,7 +918,7 @@ International Belt Wrestling Association (IBWA)
 <td>Құсбегілік</td>
 </tr>
 <tr>
-<td>64</td>
+<td>66</td>
 <td>Теңге ілу</td>
 <td>ОЮЛ Ассоциация «Международная федерация конного спорта Теңге ілу»</td>
 <td></td>
@@ -906,7 +928,7 @@ International Belt Wrestling Association (IBWA)
 <td>Теңге ілу</td>
 </tr>
 <tr>
-<td>65</td>
+<td>67</td>
 <td>Тоғызқұмалақ</td>
 <td>ОЮЛ «Всемирная Федерация тогызкумалак»</td>
 <td></td>
