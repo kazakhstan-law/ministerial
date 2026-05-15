@@ -1,5 +1,5 @@
 ---
-version_id: '215298_778622'
+version_id: '215298_821374'
 act_code: '215298'
 language: kaz
 title: Жоғары жетістіктер спорты түрлерінің тізбесін және оларды бюджет қаражаты есебінен қаржыландыру тәртібін айқындау туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103014000000'
 approval_date: 2025-09-30
-version_date: 2025-09-30
+version_date: 2026-05-15
 registry_number: '215298'
-source: https://zan.gov.kz/client/#!/doc/215298/kaz/30.09.2025
+caused_by:
+  code: '225343'
+  title: «Жоғары жетістіктер спорты түрлерінің тізбесін және оларды бюджет қаражаты есебінен қаржыландыру тәртібін айқындау туралы» Қазақстан Республикасы Туризм және спорт министрінің міндетін атқарушысының 2025 жылғы 30 қыркүйектегі № 185 бұйрығына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/225343/kaz
+source: https://zan.gov.kz/client/#!/doc/215298/kaz
 ---
 
 # Жоғары жетістіктер спорты түрлерінің тізбесін және оларды бюджет қаражаты есебінен қаржыландыру тәртібін айқындау туралы
@@ -42,9 +46,11 @@ source: https://zan.gov.kz/client/#!/doc/215298/kaz/30.09.2025
 
 **С. Жарасбаев**
 
-> *бұйрығына 1-қосымша*
+> *бұйрыққа 1-қосымша*
 
 ## Жоғары жетістіктер спорт түрлерінің тізбесі
+
+> *Ескерту. Тізбе жаңа редакцияда - ҚР Туризм және спорт министрінің 15.05.2026 № 84 (алғашқы ресми жарияланған күнінен кейін күнтiзбелiк он күн өткен соң қолданысқа енгізіледі) бұйрығымен.*
 
 <table>
 <tr>
@@ -740,6 +746,16 @@ International Belt Wrestling Association (IBWA)
 </tr>
 <tr>
 <td>49</td>
+<td>Кураш</td>
+<td>International Kurash Association</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кураш</td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
 <td>Муайтай</td>
 <td>International Federation of Muaythai Associations (IFMA)</td>
 <td></td>
@@ -749,7 +765,17 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td>50</td>
+<td>51</td>
+<td>Падел</td>
+<td>International Padel Federation</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Падел</td>
+<td></td>
+</tr>
+<tr>
+<td>52</td>
 <td>Пара қол күресі</td>
 <td>WAF world armrestling federation</td>
 <td></td>
@@ -759,7 +785,7 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td>51</td>
+<td>53</td>
 <td>Пенчак силат</td>
 <td>International Pencak Silat Federation (IPSF)</td>
 <td></td>
@@ -769,7 +795,7 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td rowspan="3">52</td>
+<td rowspan="3">54</td>
 <td rowspan="3">Самбо</td>
 <td rowspan="3">International Sambo Federation (FIAS)</td>
 <td></td>
@@ -793,7 +819,7 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td>53</td>
+<td>55</td>
 <td>Ушу</td>
 <td>International Wushu Federation (IWUF)</td>
 <td></td>
@@ -803,7 +829,7 @@ International Belt Wrestling Association (IBWA)
 <td></td>
 </tr>
 <tr>
-<td>54</td>
+<td>56</td>
 <td>Шахмат</td>
 <td>Federation Internationale des Echecs (FIDE), The International Chess Committee of the Deaf</td>
 <td></td>
@@ -816,7 +842,7 @@ International Belt Wrestling Association (IBWA)
 <td colspan="8">Ұлттық спорт түрлері</td>
 </tr>
 <tr>
-<td>55</td>
+<td>57</td>
 <td>Аударыспақ</td>
 <td>«World Federation of Horseback Wrestling» ЗТБ</td>
 <td></td>
@@ -826,7 +852,7 @@ International Belt Wrestling Association (IBWA)
 <td>Аударыспақ</td>
 </tr>
 <tr>
-<td>56</td>
+<td>58</td>
 <td>Асық ату</td>
 <td>«Көшпенділердің Асық спорты халықаралық федерациясы» ЗТБ</td>
 <td></td>
@@ -836,7 +862,7 @@ International Belt Wrestling Association (IBWA)
 <td>Асық ату</td>
 </tr>
 <tr>
-<td>57</td>
+<td>59</td>
 <td>Бәйге</td>
 <td>-</td>
 <td></td>
@@ -846,7 +872,7 @@ International Belt Wrestling Association (IBWA)
 <td>Бәйге</td>
 </tr>
 <tr>
-<td>58</td>
+<td>60</td>
 <td>Дәстүрлі садақ ату</td>
 <td>«World Tradicional Archery federation»</td>
 <td></td>
@@ -856,7 +882,7 @@ International Belt Wrestling Association (IBWA)
 <td>Дәстүрлі садақ ату</td>
 </tr>
 <tr>
-<td>59</td>
+<td>61</td>
 <td>Жамбы ату</td>
 <td>«International horseback archery alliance» (IHAA)</td>
 <td></td>
@@ -866,7 +892,7 @@ International Belt Wrestling Association (IBWA)
 <td>Жамбы ату</td>
 </tr>
 <tr>
-<td>60</td>
+<td>62</td>
 <td>Жекпе-жек</td>
 <td>-</td>
 <td></td>
@@ -876,7 +902,7 @@ International Belt Wrestling Association (IBWA)
 <td>Жекпе-жек</td>
 </tr>
 <tr>
-<td rowspan="2">61</td>
+<td rowspan="2">63</td>
 <td rowspan="2">Көкпар</td>
 <td>«Халықаралық жаппай көкпар федерациясы» ЗТБ</td>
 <td></td>
@@ -894,7 +920,7 @@ International Belt Wrestling Association (IBWA)
 <td>Көкпар</td>
 </tr>
 <tr>
-<td>62</td>
+<td>64</td>
 <td>Қазақ күресі</td>
 <td>«QAZAQ KURESI» қауымдастық нысандағы ЗТБ</td>
 <td></td>
@@ -904,7 +930,7 @@ International Belt Wrestling Association (IBWA)
 <td>Қазақ күресі</td>
 </tr>
 <tr>
-<td>63</td>
+<td>65</td>
 <td>Құсбегілік</td>
 <td>«INTERNATIONAL QUSBEGILIK FEDERATION»</td>
 <td></td>
@@ -914,7 +940,7 @@ International Belt Wrestling Association (IBWA)
 <td>Құсбегілік</td>
 </tr>
 <tr>
-<td>64</td>
+<td>66</td>
 <td>Теңге ілу</td>
 <td>«Халықаралық теңге ілу ат спорт федерациясы» қауымдастық нысандағы ЗТБ</td>
 <td></td>
@@ -924,7 +950,7 @@ International Belt Wrestling Association (IBWA)
 <td>Теңге ілу</td>
 </tr>
 <tr>
-<td>65</td>
+<td>67</td>
 <td>Тоғызқұмалақ</td>
 <td>«Дүниежүзілік тоғызқұмалақ федерациясы» ЗТБ</td>
 <td></td>
