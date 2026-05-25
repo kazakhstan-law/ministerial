@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/99664/rus/25.02.2025
+source: https://zan.gov.kz/client/#!/doc/99664/rus/25.05.2026
 ---
 
 # Об утверждении Правил и условий проведения аттестации педагогов
