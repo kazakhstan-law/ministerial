@@ -10,8 +10,15 @@ approved_on: 2025-07-04
 approved_by:
 - '103053000000'
 version_date:
-  kaz: 2025-07-04
-  rus: 2025-07-04
+  kaz: 2026-05-25
+  rus: 2026-05-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/212244/kaz/04.07.2025
-  rus: https://zan.gov.kz/client/#!/doc/212244/rus/04.07.2025
+  kaz: https://zan.gov.kz/client/#!/doc/212244/kaz/25.05.2026
+  rus: https://zan.gov.kz/client/#!/doc/212244/rus/25.05.2026
+caused_by:
+  code: '225754'
+  requisite: Приказ Заместителя Премьер-Министра - Министра культуры и информации Республики Казахстан от 25 мая 2026 года № 242-НҚ
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/225754/rus
