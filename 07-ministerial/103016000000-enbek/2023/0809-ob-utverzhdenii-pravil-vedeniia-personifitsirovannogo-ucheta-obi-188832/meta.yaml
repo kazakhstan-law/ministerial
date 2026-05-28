@@ -11,8 +11,15 @@ approved_on: 2023-08-09
 approved_by:
 - '103016000000'
 version_date:
-  kaz: 2023-08-09
-  rus: 2023-08-09
+  kaz: 2026-05-28
+  rus: 2026-05-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/188832/kaz/09.08.2023
-  rus: https://zan.gov.kz/client/#!/doc/188832/rus/09.08.2023
+  kaz: https://zan.gov.kz/client/#!/doc/188832/kaz/28.05.2026
+  rus: https://zan.gov.kz/client/#!/doc/188832/rus/28.05.2026
+caused_by:
+  code: '225766'
+  requisite: Приказ Министра труда и социальной защиты населения Республики Казахстан от 28 мая 2026 года № 213. Зарегистрирован в Министерстве юстиции Республики Казахстан 29 мая 2026 года № 38820
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/225766/rus
