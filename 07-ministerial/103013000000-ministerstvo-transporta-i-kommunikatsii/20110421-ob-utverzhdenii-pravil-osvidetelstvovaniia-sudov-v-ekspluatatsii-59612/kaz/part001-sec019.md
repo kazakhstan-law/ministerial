@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/59612/kaz/16.07.2025
+source: https://zan.gov.kz/client/#!/doc/59612/kaz/01.06.2026
 ---
 
 ## 19-бөлім. Балластты және жуу суларын шығаруды автоматты түрде өлшеу, тіркеу және басқару жүйесі

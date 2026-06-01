@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59612/rus/16.07.2025
+source: https://zan.gov.kz/client/#!/doc/59612/rus/01.06.2026
 ---
 
 # Об утверждении Правил освидетельствования судов в эксплуатации
