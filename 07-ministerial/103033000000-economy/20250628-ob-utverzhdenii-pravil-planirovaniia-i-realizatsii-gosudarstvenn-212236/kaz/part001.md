@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/212236/kaz/02.02.2026
+source: https://zan.gov.kz/client/#!/doc/212236/kaz/18.06.2026
 ---
 
 > *Бұйрығымен бекітілген*
