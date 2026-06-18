@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/183401/rus/30.04.2026
+source: https://zan.gov.kz/client/#!/doc/183401/rus/18.06.2026
 ---
 
 # Об утверждении Правил проведения медико-социальной экспертизы
