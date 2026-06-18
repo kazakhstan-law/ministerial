@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/183438/kaz/29.06.2023
+source: https://zan.gov.kz/client/#!/doc/183438/kaz/18.06.2026
 ---
 
 # Әлеуметтік қорғау саласындағы кәсіптік стандартты бекіту туралы
