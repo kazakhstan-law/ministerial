@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/113889/kaz/27.08.2025
+source: https://zan.gov.kz/client/#!/doc/113889/kaz/19.06.2026
 ---
 
 # Өртке қарсы қызметтің жұмыс жарғысын бекіту туралы

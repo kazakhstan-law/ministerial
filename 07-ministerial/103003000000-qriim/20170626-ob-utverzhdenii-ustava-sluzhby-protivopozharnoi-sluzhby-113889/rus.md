@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/113889/rus/27.08.2025
+source: https://zan.gov.kz/client/#!/doc/113889/rus/19.06.2026
 ---
 
 # Об утверждении Устава службы противопожарной службы
