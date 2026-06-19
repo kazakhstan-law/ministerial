@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/209350/kaz/01.06.2026
+source: https://zan.gov.kz/client/#!/doc/209350/kaz/19.06.2026
 ---
 
 # Бюджеттік сұранымды жасау, ұсыну, қарау қағидаларын бекіту туралы
