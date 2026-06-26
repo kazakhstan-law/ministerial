@@ -11,8 +11,15 @@ approved_on: 2026-05-29
 approved_by:
 - '103052000000'
 version_date:
-  kaz: 2026-05-29
-  rus: 2026-05-29
+  kaz: 2026-06-26
+  rus: 2026-06-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/225802/kaz/29.05.2026
-  rus: https://zan.gov.kz/client/#!/doc/225802/rus/29.05.2026
+  kaz: https://zan.gov.kz/client/#!/doc/225802/kaz/26.06.2026
+  rus: https://zan.gov.kz/client/#!/doc/225802/rus/26.06.2026
+caused_by:
+  code: '227143'
+  requisite: Приказ Министра промышленности и строительства Республики Казахстан от 26 июня 2026 года № 336. Зарегистрирован в Министерстве юстиции Республики Казахстан 29 июня 2026 года № 39127
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/227143/rus
