@@ -10,8 +10,15 @@ approved_on: 2023-05-29
 approved_by:
 - '103016000000'
 version_date:
-  kaz: 2023-05-29
-  rus: 2023-05-29
+  kaz: 2026-07-01
+  rus: 2026-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/182234/kaz/29.05.2023
-  rus: https://zan.gov.kz/client/#!/doc/182234/rus/29.05.2023
+  kaz: https://zan.gov.kz/client/#!/doc/182234/kaz/01.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/182234/rus/01.07.2026
+caused_by:
+  code: '227317'
+  requisite: Приказ Министра труда и социальной защиты населения Республики Казахстан от 1 июля 2026 года № 284. Зарегистрирован в Министерстве юстиции Республики Казахстан 2 июля 2026 года № 39208
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/227317/rus
