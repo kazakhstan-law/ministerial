@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/164675/kaz/16.03.2026
+source: https://zan.gov.kz/client/#!/doc/164675/kaz/01.07.2026
 ---
 
 ## 1-параграф. Тамақ өнімдерін өлшеп-орауға, өткізуге және кәдеге жаратуға қойылатын талаптар
