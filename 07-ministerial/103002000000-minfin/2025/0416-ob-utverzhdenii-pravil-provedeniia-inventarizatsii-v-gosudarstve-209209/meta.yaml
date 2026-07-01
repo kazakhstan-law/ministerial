@@ -11,8 +11,15 @@ approved_on: 2025-04-16
 approved_by:
 - '103002000000'
 version_date:
-  kaz: 2025-04-16
-  rus: 2025-04-16
+  kaz: 2026-07-01
+  rus: 2026-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/209209/kaz/16.04.2025
-  rus: https://zan.gov.kz/client/#!/doc/209209/rus/16.04.2025
+  kaz: https://zan.gov.kz/client/#!/doc/209209/kaz/01.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/209209/rus/01.07.2026
+caused_by:
+  code: '226172'
+  requisite: Приказ Министра финансов Республики Казахстан от 5 июня 2026 года № 369
+  title:
+    rus: О внесении изменений в некоторые приказы Министра финансов Республики Казахстан
+    kaz: Қазақстан Республикасы Қаржы министрінің кейбір бұйрықтарына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/226172/rus
