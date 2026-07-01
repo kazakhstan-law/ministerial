@@ -11,11 +11,11 @@ approved_on: 2025-04-16
 approved_by:
 - '103002000000'
 version_date:
-  kaz: 2026-06-08
-  rus: 2026-06-08
+  kaz: 2026-07-01
+  rus: 2026-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/209210/kaz/08.06.2026
-  rus: https://zan.gov.kz/client/#!/doc/209210/rus/08.06.2026
+  kaz: https://zan.gov.kz/client/#!/doc/209210/kaz/01.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/209210/rus/01.07.2026
 caused_by:
   code: '226217'
   requisite: Приказ Министра финансов Республики Казахстан от 8 июня 2026 года № 376
