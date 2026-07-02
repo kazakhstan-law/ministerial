@@ -11,8 +11,15 @@ approved_on: 2025-06-23
 approved_by:
 - '103033000000'
 version_date:
-  kaz: 2025-06-23
-  rus: 2025-06-23
+  kaz: 2026-07-02
+  rus: 2026-07-02
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/211505/kaz/23.06.2025
-  rus: https://zan.gov.kz/client/#!/doc/211505/rus/23.06.2025
+  kaz: https://zan.gov.kz/client/#!/doc/211505/kaz/02.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/211505/rus/02.07.2026
+caused_by:
+  code: '227358'
+  requisite: Приказ Заместителя Премьер-Министра – Министра национальной экономики Республики Казахстан от 2 июля 2026 года № 99
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/227358/rus
