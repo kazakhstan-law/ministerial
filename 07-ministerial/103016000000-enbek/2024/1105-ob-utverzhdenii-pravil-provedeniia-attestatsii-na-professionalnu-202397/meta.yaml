@@ -11,15 +11,15 @@ approved_on: 2024-11-05
 approved_by:
 - '103016000000'
 version_date:
-  kaz: 2026-07-01
-  rus: 2026-07-01
+  kaz: 2026-07-11
+  rus: 2026-07-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/202397/kaz/01.07.2026
-  rus: https://zan.gov.kz/client/#!/doc/202397/rus/01.07.2026
+  kaz: https://zan.gov.kz/client/#!/doc/202397/kaz/11.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/202397/rus/11.07.2026
 caused_by:
-  code: '226482'
-  requisite: Приказ Министра труда и социальной защиты населения Республики Казахстан от 12 июня 2026 года № 240
+  code: '222533'
+  requisite: Приказ Министра труда и социальной защиты населения Республики Казахстан от 24 февраля 2026 года № 73
   title:
     rus: О внесении изменений в некоторые приказы
     kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/226482/rus
+  link: https://zan.gov.kz/client/#!/doc/222533/rus
