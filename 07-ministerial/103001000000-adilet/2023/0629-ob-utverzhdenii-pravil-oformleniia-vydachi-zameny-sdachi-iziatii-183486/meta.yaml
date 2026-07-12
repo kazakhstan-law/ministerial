@@ -11,8 +11,15 @@ approved_on: 2023-06-29
 approved_by:
 - '103001000000'
 version_date:
-  kaz: 2023-06-29
-  rus: 2023-06-29
+  kaz: 2026-07-12
+  rus: 2026-07-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/183486/kaz/29.06.2023
-  rus: https://zan.gov.kz/client/#!/doc/183486/rus/29.06.2023
+  kaz: https://zan.gov.kz/client/#!/doc/183486/kaz/12.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/183486/rus/12.07.2026
+caused_by:
+  code: '223807'
+  requisite: Приказ Министра юстиции Республики Казахстан от 26 марта 2026 года № 285. Зарегистрирован в Министерстве юстиции Республики Казахстан 31 марта 2026 года № 38246
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/223807/rus
