@@ -11,8 +11,15 @@ approved_on: 2024-12-25
 approved_by:
 - '103016000000'
 version_date:
-  kaz: 2024-12-25
-  rus: 2024-12-25
+  kaz: 2026-07-12
+  rus: 2026-07-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/204854/kaz/25.12.2024
-  rus: https://zan.gov.kz/client/#!/doc/204854/rus/25.12.2024
+  kaz: https://zan.gov.kz/client/#!/doc/204854/kaz/12.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/204854/rus/12.07.2026
+caused_by:
+  code: '223683'
+  requisite: Приказ Министра труда и социальной защиты населения Республики Казахстан от 3 апреля 2026 года № 120
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/223683/rus
