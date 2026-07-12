@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/184480/rus/31.07.2023
+source: https://zan.gov.kz/client/#!/doc/184480/rus/12.07.2026
 ---
 
 # Об утверждении Правил осуществления проектного управления
