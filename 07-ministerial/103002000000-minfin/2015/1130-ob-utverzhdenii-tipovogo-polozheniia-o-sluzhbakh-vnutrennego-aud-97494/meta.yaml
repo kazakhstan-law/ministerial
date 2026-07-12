@@ -11,11 +11,11 @@ approved_on: 2015-11-30
 approved_by:
 - '103002000000'
 version_date:
-  kaz: 2026-07-01
-  rus: 2026-07-01
+  kaz: 2026-07-12
+  rus: 2026-07-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/97494/kaz/01.07.2026
-  rus: https://zan.gov.kz/client/#!/doc/97494/rus/01.07.2026
+  kaz: https://zan.gov.kz/client/#!/doc/97494/kaz/12.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/97494/rus/12.07.2026
 caused_by:
   code: '226500'
   requisite: Приказ Министра финансов Республики Казахстан от 16 июня 2026 года № 404
