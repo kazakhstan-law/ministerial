@@ -26,19 +26,17 @@
 
 ## Бюджет түсімдерін бюджеттердің деңгейлері, Қазақстан Республикасы Ұлттық қорының, салықтық емес төлемдер есебінен қалыптастырылатын бюджеттен тыс қорлардың қолма-қол ақшаны бақылау шоттары және Еуразиялық экономикалық одаққа мүше мемлекеттердің бюджеттері арасында бөлу кестесі
 
-> *Ескерту. Қосымшаға өзгеріс енгізілді - ҚР Қаржы министрінің 17.12.2025 № 785 (қол қойылған күнінен бастап күшіне енеді); 09.12.2025 № 761 (01.01.2026 бастап қолданысқа енгізіледі); 20.02.2026 № 118 (20.02.2026 бастап қолданысқа енгізіледі) бұйрықтарымен.*
+> *Ескерту. Қосымшаға өзгеріс енгізілді - ҚР Қаржы министрінің 17.12.2025 № 785 (қол қойылған күнінен бастап күшіне енеді); 09.12.2025 № 761 (01.01.2026 бастап қолданысқа енгізіледі); 20.02.2026 № 118 (20.02.2026 бастап қолданысқа енгізіледі); жаңа редакцияда - ҚР Қаржы министрінің 15.07.2026 № 480 (15.07.2026 бастап қолданысқа енгізіледі) бұйрықтарымен.*
 
 <table>
 <tr>
 <td rowspan="3">Атауы</td>
 <td colspan="4">Кодтар</td>
-<td colspan="7">Бюджетке %-бен есептеледі</td>
-<td rowspan="3">
-Қазақстан Республикасы Ұлттық қорының
-қолма-қол ақшаны бақылау шоты
-</td>
+<td colspan="5">Бюджетке %-бен есептеледі</td>
+<td rowspan="3">Қазақстан Республикасы Ұлттық қорының қолма-қол ақшаны бақылау шоты</td>
 <td rowspan="3">Жәбірленушілерге өтемақы төлеу қорының қолма-қол ақшаны бақылау шоты</td>
 <td rowspan="3">Арнаулы мемлекеттік қордың қолма-қол ақшаны бақылау шоты</td>
+<td rowspan="3">Алатау қаласының әкімшілігі бюджетінің қолма-қол ақшаны бақылау шоты</td>
 </tr>
 <tr>
 <td rowspan="2">Санаты</td>
@@ -46,12 +44,12 @@
 <td rowspan="2">Кіші сынып</td>
 <td rowspan="2">Ерекшелігі</td>
 <td rowspan="2">Республикалық</td>
-<td colspan="6">Жергілікті бюджеттер</td>
+<td colspan="4">Жергілікті бюджеттер</td>
 </tr>
 <tr>
 <td>Облыстық</td>
-<td colspan="2">Республикалық маңызы бар қала, астана</td>
-<td colspan="2">Аудан, облыстық маңызы бар қала</td>
+<td>Республикалық маңызы бар қала, астана</td>
+<td>Аудан, облыстық маңызы бар қала</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ</td>
 </tr>
 <tr>
@@ -62,12 +60,13 @@
 <td>5</td>
 <td>6</td>
 <td>7</td>
-<td colspan="2">8</td>
-<td colspan="2">9</td>
+<td>8</td>
+<td>9</td>
 <td>10</td>
 <td>11</td>
 <td>12</td>
 <td>13</td>
+<td>14</td>
 </tr>
 <tr>
 <td>Салықтық түсімдер</td>
@@ -77,8 +76,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -92,8 +92,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -107,8 +108,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -122,10 +124,11 @@
 <td>05</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -137,12 +140,13 @@
 <td>10</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Ірі кәсіпкерлік субъектілерінен және мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, заңды тұлғалардан алынатын корпоративтік табыс салығы</td>
@@ -152,12 +156,13 @@
 <td>11</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Жеке табыс салығы</td>
@@ -167,8 +172,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -182,8 +188,9 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -197,9 +204,10 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -212,23 +220,9 @@
 <td>05</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Әлеуметтiк салық</td>
-<td>1</td>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -238,12 +232,29 @@
 <td>Әлеуметтiк салық</td>
 <td>1</td>
 <td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Әлеуметтiк салық</td>
+<td>1</td>
+<td>03</td>
 <td>1</td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -257,8 +268,9 @@
 <td>01</td>
 <td></td>
 <td>Облыстық мәслихат белгілеген бөлу нормативтері бойынша</td>
-<td colspan="2">100</td>
-<td colspan="2">Облыстық мәслихат белгілеген бөлу нормативтері бойынша</td>
+<td>100</td>
+<td>Облыстық мәслихат белгілеген бөлу нормативтері бойынша</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -272,8 +284,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -287,8 +300,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -302,8 +316,9 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -317,9 +332,10 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -332,8 +348,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -347,12 +364,29 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
 <td>100</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>Алатау қаласы аумағының шегіндегі жер учаскелеріне қатысты – жеке қосалқы шаруашылық, бағбандық, бау-бақша, жеке тұрғын үй және саяжай құрылысын жүргізуге арналған жер учаскелерін қоспағанда, заңды тұлғалардан, сондай-ақ жеке тұлғалардан алынатын жер салығы мен жер учаскелерін пайдаланғаны үшін төлемақы</td>
+<td>1</td>
+<td>04</td>
+<td>3</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Көлік құралы салығы</td>
@@ -362,8 +396,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -377,9 +412,10 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -392,9 +428,10 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -407,8 +444,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -422,9 +460,10 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100 (облыстық маңызы бар қала бюджетіне түсетін түсімдер)</td>
 <td>100</td>
+<td>100 (облыстық маңызы бар қала бюджетіне түсетін түсімдер)</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -437,8 +476,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -452,8 +492,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -467,12 +508,13 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Ресей Федерациясы және Беларусь Республикасының аумағынан импортталатын тауарларға салынатын қосылған құн салығынан басқа, Қазақстан Республикасының аумағына импортталатын тауарларға салынатын қосылған құн салығы</td>
@@ -482,12 +524,13 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Резидент емес үшін қосылған құн салығы</td>
@@ -497,12 +540,13 @@
 <td>04</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Салық төлеушінің бұрын бюджеттен қайтарылған және салықтық тексеру жүргізу барысында қайтарылуы расталмаған қосылған құн салығының асып кеткен сомасын аударуы (қайтаруы), өсімпұл сомасын аударуы</td>
@@ -512,12 +556,13 @@
 <td>14</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Еуразиялық экономикалық одаққа мүше мемлекеттер аумағынан импортталған тауарларға қосылған құн салығы</td>
@@ -527,12 +572,13 @@
 <td>15</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Тауарлармен электрондық сауданы жүзеге асыру, жеке тұлғаларға электрондық нысанда қызметтер көрсету кезінде шетелдік интернет компаниялардан түсетін қосылған құн салығы</td>
@@ -542,12 +588,13 @@
 <td>16</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Акциздер</td>
@@ -557,8 +604,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -572,10 +620,11 @@
 <td>25</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -587,8 +636,9 @@
 <td>74</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -602,8 +652,9 @@
 <td>75</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -617,8 +668,9 @@
 <td>76</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -632,8 +684,9 @@
 <td>77</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -647,8 +700,9 @@
 <td>78</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -662,8 +716,9 @@
 <td>79</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -677,8 +732,9 @@
 <td>80</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -692,8 +748,9 @@
 <td>81</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -707,8 +764,9 @@
 <td>82</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -722,8 +780,9 @@
 <td>83</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -737,8 +796,9 @@
 <td>84</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -752,8 +812,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -767,8 +828,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -782,8 +844,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -797,8 +860,9 @@
 <td>03</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -812,8 +876,9 @@
 <td>04</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -827,8 +892,9 @@
 <td>05</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -842,8 +908,9 @@
 <td>06</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -857,8 +924,9 @@
 <td>07</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -872,8 +940,9 @@
 <td>08</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -887,8 +956,9 @@
 <td>09</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -902,9 +972,10 @@
 <td>10</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -917,8 +988,9 @@
 <td>11</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -932,8 +1004,9 @@
 <td>12</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -947,9 +1020,10 @@
 <td>15</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -962,8 +1036,9 @@
 <td>16</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -977,8 +1052,9 @@
 <td>17</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -992,8 +1068,9 @@
 <td>19</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1007,10 +1084,11 @@
 <td>22</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1022,10 +1100,11 @@
 <td>25</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1037,10 +1116,11 @@
 <td>26</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1052,10 +1132,11 @@
 <td>27</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1067,10 +1148,11 @@
 <td>28</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1082,10 +1164,11 @@
 <td>29</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1097,8 +1180,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1112,8 +1196,9 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1127,8 +1212,9 @@
 <td>06</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1142,8 +1228,9 @@
 <td>13</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1157,8 +1244,9 @@
 <td>24</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1172,8 +1260,9 @@
 <td>25</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1187,8 +1276,9 @@
 <td>28</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1202,8 +1292,9 @@
 <td>29</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1217,9 +1308,10 @@
 <td>30</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1232,8 +1324,9 @@
 <td>31</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1247,8 +1340,9 @@
 <td>32</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1262,8 +1356,9 @@
 <td>33</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1277,8 +1372,9 @@
 <td>34</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1292,8 +1388,9 @@
 <td>36</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1307,8 +1404,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1322,8 +1420,9 @@
 <td>01</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1337,8 +1436,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1352,8 +1452,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1367,8 +1468,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1382,8 +1484,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1397,8 +1500,9 @@
 <td>04</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1412,8 +1516,9 @@
 <td>05</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1427,8 +1532,9 @@
 <td>06</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1442,8 +1548,9 @@
 <td>07</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1457,8 +1564,9 @@
 <td>08</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1472,8 +1580,9 @@
 <td>09</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1487,8 +1596,9 @@
 <td>10</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1502,8 +1612,9 @@
 <td>11</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1517,8 +1628,9 @@
 <td>12</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1532,8 +1644,9 @@
 <td>13</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1547,8 +1660,9 @@
 <td>14</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1562,8 +1676,9 @@
 <td>15</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1577,8 +1692,9 @@
 <td>16</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1592,8 +1708,9 @@
 <td>17</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1607,8 +1724,9 @@
 <td>18</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1622,8 +1740,9 @@
 <td>19</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1637,8 +1756,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1652,8 +1772,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1667,8 +1788,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1682,8 +1804,9 @@
 <td>05</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1697,8 +1820,9 @@
 <td>06</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1712,8 +1836,9 @@
 <td>07</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1727,8 +1852,9 @@
 <td>08</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1742,8 +1868,9 @@
 <td>09</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1757,8 +1884,9 @@
 <td>10</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1772,23 +1900,9 @@
 <td>11</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td>Басқа да салықтар</td>
-<td>1</td>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1798,12 +1912,29 @@
 <td>Басқа да салықтар</td>
 <td>1</td>
 <td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Басқа да салықтар</td>
+<td>1</td>
+<td>07</td>
 <td>1</td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1815,13 +1946,11 @@
 <td>07</td>
 <td>1</td>
 <td>09</td>
-<td>
-100
-Бұрын республикалық бюджетке түскен күшін жойған салық түрлері бойынша берешек
-</td>
+<td>100 Бұрын республикалық бюджетке түскен күшін жойған салық түрлері бойынша берешек</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1834,25 +1963,30 @@
 <td>1</td>
 <td>10</td>
 <td></td>
-<td>
-100
-Бұрын жергілікті бюджетке түскен күшін жойған салық түрлері бойынша берешек
-</td>
-<td colspan="2">
-100
-Бұрын жергілікті бюджетке түскен күшін жойған салық түрлері бойынша берешек
-</td>
-<td colspan="2">
-100
-Бұрын жергілікті бюджетке түскен күшін жойған салық түрлері бойынша берешек
-</td>
-<td>
-100
-Бұрын жергілікті бюджетке түскен күшін жойған салық түрлері бойынша берешек
-</td>
+<td>100 Бұрын жергілікті бюджетке түскен күшін жойған салық түрлері бойынша берешек</td>
+<td>100 Бұрын жергілікті бюджетке түскен күшін жойған салық түрлері бойынша берешек</td>
+<td>100 Бұрын жергілікті бюджетке түскен күшін жойған салық түрлері бойынша берешек</td>
+<td>100 Бұрын жергілікті бюджетке түскен күшін жойған салық түрлері бойынша берешек</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>Алатау қаласы әкімшілігінің бюджетіне есепке жатқызылатын басқа да салықтық түсімдер</td>
+<td>1</td>
+<td>07</td>
+<td>1</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Заңдық маңызы бар әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
@@ -1862,8 +1996,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1877,8 +2012,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1892,8 +2028,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1907,8 +2044,9 @@
 <td>26</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1922,8 +2060,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1937,8 +2076,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1952,8 +2092,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1967,8 +2108,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1982,9 +2124,10 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1997,8 +2140,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2012,8 +2156,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2027,8 +2172,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2042,8 +2188,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2057,8 +2204,9 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2072,8 +2220,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2087,8 +2236,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2102,9 +2252,10 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2117,8 +2268,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2132,8 +2284,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2147,8 +2300,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2162,8 +2316,9 @@
 <td>03</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2177,8 +2332,9 @@
 <td>04</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2192,8 +2348,9 @@
 <td>05</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2207,8 +2364,9 @@
 <td>06</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2222,8 +2380,9 @@
 <td>07</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2237,8 +2396,9 @@
 <td>08</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2252,8 +2412,9 @@
 <td>09</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2267,9 +2428,10 @@
 <td>10</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2282,8 +2444,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2297,8 +2460,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2312,8 +2476,9 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2327,8 +2492,9 @@
 <td>03</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2342,8 +2508,9 @@
 <td>04</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2357,8 +2524,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2372,8 +2540,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2387,8 +2556,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2402,8 +2572,9 @@
 <td>03</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2417,8 +2588,9 @@
 <td>04</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2432,8 +2604,9 @@
 <td>05</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2447,9 +2620,10 @@
 <td>06</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2462,8 +2636,9 @@
 <td>10</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2477,8 +2652,9 @@
 <td>11</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2492,8 +2668,9 @@
 <td>12</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2507,9 +2684,10 @@
 <td>13</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2522,8 +2700,9 @@
 <td>14</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2537,8 +2716,9 @@
 <td>15</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2552,8 +2732,9 @@
 <td>16</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2567,9 +2748,10 @@
 <td>18</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2582,8 +2764,9 @@
 <td>19</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2597,8 +2780,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2612,8 +2796,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2627,8 +2812,9 @@
 <td>03</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2642,8 +2828,9 @@
 <td>04</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2657,8 +2844,9 @@
 <td>05</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2672,8 +2860,9 @@
 <td>06</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2687,8 +2876,9 @@
 <td>07</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2702,8 +2892,9 @@
 <td>08</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2717,8 +2908,9 @@
 <td>09</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2732,8 +2924,9 @@
 <td>10</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2747,8 +2940,9 @@
 <td>11</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2762,8 +2956,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2777,8 +2972,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2792,8 +2988,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2807,9 +3004,10 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2822,8 +3020,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2837,8 +3036,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2852,8 +3052,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2867,9 +3068,10 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2882,8 +3084,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2897,8 +3100,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2912,8 +3116,9 @@
 <td>03</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2927,8 +3132,9 @@
 <td>05</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2942,8 +3148,9 @@
 <td>06</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2957,8 +3164,9 @@
 <td>09</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2972,8 +3180,9 @@
 <td>12</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2987,9 +3196,10 @@
 <td>14</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3002,8 +3212,9 @@
 <td>15</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3017,8 +3228,9 @@
 <td>16</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3032,8 +3244,9 @@
 <td>17</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3047,8 +3260,9 @@
 <td>18</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3062,8 +3276,9 @@
 <td>19</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3077,8 +3292,9 @@
 <td>20</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3092,8 +3308,9 @@
 <td>21</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3107,8 +3324,9 @@
 <td>22</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3122,8 +3340,9 @@
 <td>25</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3137,8 +3356,9 @@
 <td>27</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3152,8 +3372,9 @@
 <td>29</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3167,8 +3388,9 @@
 <td>32</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3182,8 +3404,9 @@
 <td>33</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3197,8 +3420,9 @@
 <td>42</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3212,8 +3436,9 @@
 <td>43</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3227,8 +3452,9 @@
 <td>45</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3242,8 +3468,9 @@
 <td>47</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3257,8 +3484,9 @@
 <td>51</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3272,8 +3500,9 @@
 <td>53</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3287,8 +3516,9 @@
 <td>54</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3302,8 +3532,9 @@
 <td>57</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3317,8 +3548,9 @@
 <td>60</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3332,8 +3564,9 @@
 <td>62</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3347,8 +3580,9 @@
 <td>63</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3362,8 +3596,9 @@
 <td>64</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3377,8 +3612,9 @@
 <td>65</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3392,8 +3628,9 @@
 <td>69</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3407,9 +3644,10 @@
 <td>70</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3422,8 +3660,9 @@
 <td>71</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3437,8 +3676,9 @@
 <td>72</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3452,8 +3692,9 @@
 <td>73</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3467,8 +3708,9 @@
 <td>74</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3482,8 +3724,9 @@
 <td>75</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3497,8 +3740,9 @@
 <td>76</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3512,8 +3756,9 @@
 <td>77</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3527,8 +3772,9 @@
 <td>78</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3542,8 +3788,9 @@
 <td>79</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3557,8 +3804,9 @@
 <td>80</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3572,8 +3820,9 @@
 <td>81</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3587,8 +3836,9 @@
 <td>82</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3602,12 +3852,29 @@
 <td>83</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Алатау қаласының әкімшілік пен Алатау қаласы әкімшіліктің органдары салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар, әкімшілік актілердің орындалуын қамтамасыз ету шаралары</td>
+<td>2</td>
+<td>04</td>
+<td>1</td>
+<td>85</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелердің мұнай секторы ұйымдарына салатын айыппұлдары, өсімпұлдары, санкциялары, өндіріп алулары</td>
@@ -3617,8 +3884,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3632,10 +3900,11 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -3647,10 +3916,11 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -3662,10 +3932,11 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -3677,8 +3948,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3692,11 +3964,12 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -3707,11 +3980,12 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -3722,11 +3996,12 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -3737,8 +4012,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3752,8 +4028,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3767,8 +4044,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3782,8 +4060,9 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3797,8 +4076,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3812,8 +4092,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3827,8 +4108,9 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3842,8 +4124,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3857,8 +4140,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3872,8 +4156,9 @@
 <td>04</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3887,9 +4172,10 @@
 <td>05</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3902,8 +4188,9 @@
 <td>06</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3917,9 +4204,10 @@
 <td>07</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3932,8 +4220,9 @@
 <td>08</td>
 <td>Республикалық бюджетке түсетін қайырымдылық түсімдер (қайырымдылық жасаушы тұлғаның қалауына байланысты); республикалық бюджеттің қаражаттарын мақсатсыз пайдалану; ішкі мемлекеттік аудит жөніндегі уәкілетті органның аудиторлық қорытындысы бойынша республикалық бағыныстағы мемлекеттік мекемелерде анықталған өтелген зиян сомалары; мемлекеттік мекемелерде анықталған өтелген зиян сомалары; мемлекеттік кепілдік бергені үшін төлемақы; «Қазақстан Республикасындағы сайлау туралы» Қазақстан Республикасының Конституциялық заңына сәйкес енгізілген депутаттыққа кандидаттың сайлау жарнасы; республикалық бюджеттен қаржыландырылатын жеке және заңды тұлғалар, оның ішінде мекемелер бойынша соттар шешімдерімен мемлекеттің материалдық зиянын өтеуге алынған сомалар; бұрындары республикалық бюджетке түскен салықтық емес түсімдердің жойылған түрлері бойынша түсімдер; республикалық бюджеттен қаржыландырылатын мекемелердің шоттарын жабу кезіндегі қаражат қалдықтары; осы сомалар ағымдағы есепшотында сақталған мемлекеттік мекеменің өкімі бойынша сақтау мерзімі аяқталғаннан кейін талап етілмеген депозиттік сомалар; заңды және жеке тұлғалардың республикалық бюджеттен заңсыз алынған қаражатты қайтаруы</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3947,9 +4236,10 @@
 <td>09</td>
 <td></td>
 <td>Жергілікті бюджетке түсетін қайырымдылық түсімдер (қайырымдылық жасаушы тұлғаның ниетіне байланысты); жергілікті бюджет қаражатын мақсатсыз пайдалану; ішкі мемлекеттік аудит жөніндегі уәкілетті органның аудиторлық қорытындылары бойынша жергілікті бағыныстағы мемлекеттік мекемелерде анықталған өтелген зиян сомалары; жергілікті бюджеттен қаржыландырылатын мекемелер бойынша соттар шешімдерімен мемлекеттің материалдық зиянын өтеуге жауаптылардан алынған сомалар; бұрын жергілікті бюджетке түскен салықтық емес түсімдердің жойылған түрлері бойынша түсімдер; жергілікті бюджеттен қаржыландырылатын мекемелердің шоттарын жабу кезіндегі қаражат қалдықтары; осы сомалар ағымдағы есепшотында сақтаулы мемлекеттік мекеменің өкімі бойынша сақтау мерзімі аяқталғаннан кейін талап етілмеген депозиттік сомалар; заңды және жеке тұлғалардың жергілікті бюджеттен заңсыз алынған қаражатты қайтаруы</td>
-<td colspan="2">Жергілікті бюджетке түсетін қайырымдылық түсімдер (қайырымдылық жасаушы тұлғаның ниетіне байланысты); жергілікті бюджет қаражатын мақсатсыз пайдалану; ішкі мемлекеттік аудит жөніндегі уәкілетті органның аудиторлық қорытындылары бойынша жергілікті бағыныстағы мемлекеттік мекемелерде анықталған өтелген зиян сомалары; жергілікті бюджеттен қаржыландырылатын мекемелер бойынша соттар шешімдерімен мемлекеттің материалдық зиянын өтеуге жауаптылардан алынған сомалар; бұрын жергілікті бюджетке түскен салықтық емес түсімдердің жойылған түрлері бойынша түсімдер; жергілікті бюджеттен қаржыландырылатын мекемелердің шоттарын жабу кезіндегі қаражат қалдықтары; осы сомалар ағымдағы есепшотында сақтаулы мемлекеттік мекеменің өкімі бойынша сақтау мерзімі аяқталғаннан кейін талап етілмеген депозиттік сомалар; заңды және жеке тұлғалардың жергілікті бюджеттен заңсыз алынған қаражатты қайтаруы</td>
-<td colspan="2">Жергілікті бюджетке түсетін қайырымдылық түсімдер (қайырымдылық жасаушы тұлғаның ниетіне байланысты); жергілікті бюджет қаражатын мақсатсыз пайдалану; ішкі мемлекеттік аудит жөніндегі уәкілетті органның аудиторлық қорытындылары бойынша жергілікті бағыныстағы мемлекеттік мекемелерде анықталған өтелген зиян сомалары; жергілікті бюджеттен қаржыландырылатын мекемелер бойынша соттар шешімдерімен мемлекеттің материалдық зиянын өтеуге жауаптылардан алынған сомалар; бұрын жергілікті бюджетке түскен салықтық емес түсімдердің жойылған түрлері бойынша түсімдер; жергілікті бюджеттен қаржыландырылатын мекемелердің шоттарын жабу кезіндегі қаражат қалдықтары; осы сомалар ағымдағы есепшотында сақтаулы мемлекеттік мекеменің өкімі бойынша сақтау мерзімі аяқталғаннан кейін талап етілмеген депозиттік сомалар; заңды және жеке тұлғалардың жергілікті бюджеттен заңсыз алынған қаражатты қайтаруы</td>
 <td>Жергілікті бюджетке түсетін қайырымдылық түсімдер (қайырымдылық жасаушы тұлғаның ниетіне байланысты); жергілікті бюджет қаражатын мақсатсыз пайдалану; ішкі мемлекеттік аудит жөніндегі уәкілетті органның аудиторлық қорытындылары бойынша жергілікті бағыныстағы мемлекеттік мекемелерде анықталған өтелген зиян сомалары; жергілікті бюджеттен қаржыландырылатын мекемелер бойынша соттар шешімдерімен мемлекеттің материалдық зиянын өтеуге жауаптылардан алынған сомалар; бұрын жергілікті бюджетке түскен салықтық емес түсімдердің жойылған түрлері бойынша түсімдер; жергілікті бюджеттен қаржыландырылатын мекемелердің шоттарын жабу кезіндегі қаражат қалдықтары; осы сомалар ағымдағы есепшотында сақтаулы мемлекеттік мекеменің өкімі бойынша сақтау мерзімі аяқталғаннан кейін талап етілмеген депозиттік сомалар; заңды және жеке тұлғалардың жергілікті бюджеттен заңсыз алынған қаражатты қайтаруы</td>
+<td>Жергілікті бюджетке түсетін қайырымдылық түсімдер (қайырымдылық жасаушы тұлғаның ниетіне байланысты); жергілікті бюджет қаражатын мақсатсыз пайдалану; ішкі мемлекеттік аудит жөніндегі уәкілетті органның аудиторлық қорытындылары бойынша жергілікті бағыныстағы мемлекеттік мекемелерде анықталған өтелген зиян сомалары; жергілікті бюджеттен қаржыландырылатын мекемелер бойынша соттар шешімдерімен мемлекеттің материалдық зиянын өтеуге жауаптылардан алынған сомалар; бұрын жергілікті бюджетке түскен салықтық емес түсімдердің жойылған түрлері бойынша түсімдер; жергілікті бюджеттен қаржыландырылатын мекемелердің шоттарын жабу кезіндегі қаражат қалдықтары; осы сомалар ағымдағы есепшотында сақтаулы мемлекеттік мекеменің өкімі бойынша сақтау мерзімі аяқталғаннан кейін талап етілмеген депозиттік сомалар; заңды және жеке тұлғалардың жергілікті бюджеттен заңсыз алынған қаражатты қайтаруы</td>
+<td>Жергілікті бюджетке түсетін қайырымдылық түсімдер (қайырымдылық жасаушы тұлғаның ниетіне байланысты); жергілікті бюджет қаражатын мақсатсыз пайдалану; ішкі мемлекеттік аудит жөніндегі уәкілетті органның аудиторлық қорытындылары бойынша жергілікті бағыныстағы мемлекеттік мекемелерде анықталған өтелген зиян сомалары; жергілікті бюджеттен қаржыландырылатын мекемелер бойынша соттар шешімдерімен мемлекеттің материалдық зиянын өтеуге жауаптылардан алынған сомалар; бұрын жергілікті бюджетке түскен салықтық емес түсімдердің жойылған түрлері бойынша түсімдер; жергілікті бюджеттен қаржыландырылатын мекемелердің шоттарын жабу кезіндегі қаражат қалдықтары; осы сомалар ағымдағы есепшотында сақтаулы мемлекеттік мекеменің өкімі бойынша сақтау мерзімі аяқталғаннан кейін талап етілмеген депозиттік сомалар; заңды және жеке тұлғалардың жергілікті бюджеттен заңсыз алынған қаражатты қайтаруы</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3962,8 +4252,9 @@
 <td>10</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3977,10 +4268,11 @@
 <td>11</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -3992,8 +4284,9 @@
 <td>12</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4007,8 +4300,9 @@
 <td>13</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4022,9 +4316,10 @@
 <td>15</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4037,8 +4332,9 @@
 <td>16</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4052,9 +4348,10 @@
 <td>17</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4067,11 +4364,12 @@
 <td>18</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -4082,11 +4380,12 @@
 <td>19</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -4097,12 +4396,45 @@
 <td>20</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>Алатау қаласы әкімшілігінің бюджетіне есепке жатқызылатын басқа да салықтық емес түсімдер</td>
+<td>2</td>
+<td>06</td>
+<td>1</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
+</tr>
+<tr>
+<td>Қазақстан Республикасының заңнамасында тыйым салынбаған жеке қаражат, жарналар және басқа да көздер</td>
+<td>2</td>
+<td>06</td>
+<td>1</td>
+<td>22</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Арнаулы мемлекеттік қорға түсетін басқа да салықтық емес түсiмдер</td>
@@ -4112,8 +4444,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4127,12 +4460,13 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>100</td>
+<td></td>
 </tr>
 <tr>
 <td>Сыбайлас жемқорлық құқық бұзушылық бойынша шығарылған заңды күшіне енген сот актісі негізінде оларды тәркілеу нәтижесінде мемлекеттік меншікке түскен ақша</td>
@@ -4142,12 +4476,13 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>100</td>
+<td></td>
 </tr>
 <tr>
 <td>Сыбайлас жемқорлық құқық бұзушылық бойынша шығарылған заңды күшіне енген сот актісі негізінде тәркіленген мүлікті өткізуден мемлекеттік меншікке түскен ақша</td>
@@ -4157,12 +4492,13 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>100</td>
+<td></td>
 </tr>
 <tr>
 <td>Ақша, оның ішінде «Заңсыз иемденілген активтерді мемлекетке қайтару туралы» Қазақстан Республикасының Заңында және Қазақстан Республикасыныңбасқа да заңдарында белгіленген тәртіппен қайтарылған мүлікті өткізуден түсетін ақша</td>
@@ -4172,12 +4508,13 @@
 <td>06</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>100</td>
+<td></td>
 </tr>
 <tr>
 <td>Қазақстан Республикасының активтерді қайтару туралы заңнамасына сәйкес басқарушы компанияның меншігіне не оның активтерді басқару жөніндегі қызметі нәтижесінде өзге де мүлікті өткізуден түсетін ақша</td>
@@ -4187,12 +4524,13 @@
 <td>07</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>100</td>
+<td></td>
 </tr>
 <tr>
 <td>Негізгі капиталды сатудан түсетін түсімдер</td>
@@ -4202,8 +4540,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4217,8 +4556,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4232,8 +4572,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4247,9 +4588,10 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4262,8 +4604,9 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4277,8 +4620,9 @@
 <td>07</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4292,8 +4636,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4307,8 +4652,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4322,8 +4668,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4337,8 +4684,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4352,8 +4700,9 @@
 <td>04</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4367,8 +4716,9 @@
 <td>05</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4382,8 +4732,9 @@
 <td>06</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4397,8 +4748,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4412,8 +4764,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4427,9 +4780,10 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4442,10 +4796,11 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -4457,8 +4812,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4472,9 +4828,10 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4487,8 +4844,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4502,8 +4860,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4517,8 +4876,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4532,8 +4892,9 @@
 <td>01</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4547,8 +4908,9 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4562,8 +4924,9 @@
 <td>03</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4577,8 +4940,9 @@
 <td>04</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4592,8 +4956,9 @@
 <td>05</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4607,8 +4972,9 @@
 <td>06</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4622,8 +4988,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4637,8 +5004,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4652,8 +5020,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4667,8 +5036,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4682,8 +5052,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4697,8 +5068,9 @@
 <td>04</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4712,8 +5084,9 @@
 <td>05</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4727,8 +5100,9 @@
 <td>06</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4742,8 +5116,9 @@
 <td>07</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4757,8 +5132,9 @@
 <td>08</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4772,8 +5148,9 @@
 <td>11</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4787,8 +5164,9 @@
 <td>14</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4802,8 +5180,9 @@
 <td>15</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4817,8 +5196,9 @@
 <td>16</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4832,8 +5212,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4847,8 +5228,9 @@
 <td>01</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4862,8 +5244,9 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4877,8 +5260,9 @@
 <td>03</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4892,8 +5276,9 @@
 <td>04</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4907,8 +5292,9 @@
 <td>05</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4922,8 +5308,9 @@
 <td>14</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4937,8 +5324,9 @@
 <td>15</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4952,8 +5340,9 @@
 <td>16</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4967,8 +5356,9 @@
 <td>17</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4982,8 +5372,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4997,8 +5388,9 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5012,8 +5404,9 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5027,8 +5420,9 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5042,8 +5436,9 @@
 <td>04</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5057,8 +5452,9 @@
 <td>05</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5072,8 +5468,9 @@
 <td>06</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5087,8 +5484,9 @@
 <td>07</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5102,8 +5500,9 @@
 <td>08</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5117,8 +5516,9 @@
 <td>10</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5132,8 +5532,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5147,8 +5548,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5162,8 +5564,9 @@
 <td>01</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5177,8 +5580,9 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5192,12 +5596,29 @@
 <td>03</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Республикалық бюджеттен Алатау қаласының бюджетіне түсетін түсімдер</td>
+<td>5</td>
+<td>02</td>
+<td>1</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
@@ -5207,8 +5628,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5222,8 +5644,9 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5237,8 +5660,9 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5252,8 +5676,9 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5267,12 +5692,29 @@
 <td>04</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>Жергілікті бюджеттен Алатау қаласының бюджетіне түсетін түсімдер</td>
+<td>5</td>
+<td>02</td>
+<td>2</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
 </tr>
 <tr>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
@@ -5282,8 +5724,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5297,9 +5740,10 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5312,9 +5756,10 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5327,9 +5772,10 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5342,9 +5788,10 @@
 <td>04</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5357,8 +5804,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5372,8 +5820,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5387,8 +5836,9 @@
 <td>01</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5402,8 +5852,9 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5417,9 +5868,10 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5432,8 +5884,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5447,8 +5900,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5462,8 +5916,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5477,8 +5932,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5492,8 +5948,9 @@
 <td>03</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5507,8 +5964,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5522,8 +5980,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5537,8 +5996,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5552,8 +6012,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5567,8 +6028,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5582,8 +6044,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5597,8 +6060,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5612,8 +6076,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5627,8 +6092,9 @@
 <td>03</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5642,8 +6108,9 @@
 <td>04</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5657,8 +6124,9 @@
 <td>05</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5672,9 +6140,10 @@
 <td>06</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5687,8 +6156,9 @@
 <td>10</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5702,8 +6172,9 @@
 <td>11</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5717,8 +6188,9 @@
 <td>12</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5732,9 +6204,10 @@
 <td>13</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5747,8 +6220,9 @@
 <td>14</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5762,9 +6236,10 @@
 <td>21</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5777,8 +6252,9 @@
 <td>22</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5792,8 +6268,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5807,8 +6284,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5822,8 +6300,9 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5837,8 +6316,9 @@
 <td>03</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5852,8 +6332,9 @@
 <td>04</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5867,8 +6348,9 @@
 <td>05</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5882,8 +6364,9 @@
 <td>06</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5897,8 +6380,9 @@
 <td>07</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5912,8 +6396,9 @@
 <td>08</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5927,8 +6412,9 @@
 <td>09</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5942,8 +6428,9 @@
 <td>11</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5957,8 +6444,9 @@
 <td>12</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5972,8 +6460,9 @@
 <td>13</td>
 <td></td>
 <td>100</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5987,8 +6476,9 @@
 <td>14</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6002,8 +6492,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6017,10 +6508,11 @@
 <td>01</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -6032,10 +6524,11 @@
 <td>02</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -6047,8 +6540,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6062,8 +6556,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6077,8 +6572,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6092,8 +6588,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6107,8 +6604,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6122,8 +6620,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6137,8 +6636,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6152,9 +6652,10 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6167,10 +6668,11 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -6182,9 +6684,10 @@
 <td>05</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
 <td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6197,10 +6700,11 @@
 <td>07</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -6212,8 +6716,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6227,8 +6732,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6242,8 +6748,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6257,8 +6764,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6272,8 +6780,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6287,8 +6796,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6302,8 +6812,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6317,8 +6828,9 @@
 <td>03</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6332,8 +6844,9 @@
 <td>05</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6347,8 +6860,9 @@
 <td>09</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6362,8 +6876,9 @@
 <td>10</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6377,8 +6892,9 @@
 <td>11</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6392,8 +6908,9 @@
 <td>12</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6407,8 +6924,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6422,8 +6940,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6437,8 +6956,9 @@
 <td>02</td>
 <td></td>
 <td>100</td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6452,8 +6972,9 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">100</td>
+<td></td>
+<td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6467,9 +6988,10 @@
 <td>04</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6482,8 +7004,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6497,8 +7020,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6512,8 +7036,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6527,8 +7052,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6542,8 +7068,9 @@
 <td>03</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6557,8 +7084,9 @@
 <td>04</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6572,8 +7100,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6587,8 +7116,9 @@
 <td>01</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6602,8 +7132,9 @@
 <td>02</td>
 <td>100</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6617,8 +7148,9 @@
 <td>03</td>
 <td></td>
 <td></td>
-<td colspan="2">100</td>
-<td colspan="2"></td>
+<td>100</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6632,8 +7164,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6647,23 +7180,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td>Бюджет қаражатының бос қалдықтары</td>
-<td>9</td>
-<td>01</td>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6674,8 +7193,25 @@
 <td>9</td>
 <td>01</td>
 <td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>9</td>
 <td>01</td>
-<td colspan="7">Бос қалдықтар қалыптасқан бюджет деңгейіне байланысты</td>
+<td>1</td>
+<td>01</td>
+<td colspan="5">Бос қалдықтар қалыптасқан бюджет деңгейіне байланысты</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6688,8 +7224,9 @@
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6701,21 +7238,7 @@
 <td>01</td>
 <td>2</td>
 <td>01</td>
-<td colspan="7">Қалдықтар қалыптасқан бюджет деңгейіне байланысты</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Бюджет ақшасының уақытша тартылған/оқшауландырылған қалдықтары</td>
-<td>9</td>
-<td>01</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="5">Қалдықтар қалыптасқан бюджет деңгейіне байланысты</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6726,8 +7249,25 @@
 <td>9</td>
 <td>01</td>
 <td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Бюджет ақшасының уақытша тартылған/оқшауландырылған қалдықтары</td>
+<td>9</td>
 <td>01</td>
-<td colspan="7">Қалдықтар қалыптасқан бюджет деңгейіне байланысты</td>
+<td>3</td>
+<td>01</td>
+<td colspan="5">Қалдықтар қалыптасқан бюджет деңгейіне байланысты</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
