@@ -11,8 +11,15 @@ approved_on: 2021-12-15
 approved_by:
 - '103034000000'
 version_date:
-  kaz: 2021-12-15
-  rus: 2021-12-15
+  kaz: 2026-07-31
+  rus: 2026-07-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/164940/kaz/15.12.2021
-  rus: https://zan.gov.kz/client/#!/doc/164940/rus/15.12.2021
+  kaz: https://zan.gov.kz/client/#!/doc/164940/kaz/31.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/164940/rus/31.07.2026
+caused_by:
+  code: '228448'
+  requisite: Приказ и.о. Министра туризма и спорта Республики Казахстан от 31 июля 2026 года № 146. Зарегистрирован в Министерстве юстиции Республики Казахстан 3 августа 2026 года № 39473
+  title:
+    rus: О внесении изменений и дополнений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/228448/rus
