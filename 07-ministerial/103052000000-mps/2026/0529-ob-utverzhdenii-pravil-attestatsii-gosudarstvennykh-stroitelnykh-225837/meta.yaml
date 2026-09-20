@@ -11,8 +11,15 @@ approved_on: 2026-05-29
 approved_by:
 - '103052000000'
 version_date:
-  kaz: 2026-05-29
-  rus: 2026-05-29
+  kaz: 2026-09-20
+  rus: 2026-09-20
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/225837/kaz/29.05.2026
-  rus: https://zan.gov.kz/client/#!/doc/225837/rus/29.05.2026
+  kaz: https://zan.gov.kz/client/#!/doc/225837/kaz/20.09.2026
+  rus: https://zan.gov.kz/client/#!/doc/225837/rus/20.09.2026
+caused_by:
+  code: '227842'
+  requisite: Приказ Министра промышленности и строительства Республики Казахстан от 16 июля 2026 года № 365. Зарегистрирован в Министерстве юстиции Республики Казахстан 17 июля 2026 года № 39327
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/227842/rus
