@@ -10,8 +10,15 @@ approved_on: 2024-06-03
 approved_by:
 - '103053000000'
 version_date:
-  kaz: 2024-06-03
-  rus: 2024-06-03
+  kaz: 2026-09-27
+  rus: 2026-09-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/197451/kaz/03.06.2024
-  rus: https://zan.gov.kz/client/#!/doc/197451/rus/03.06.2024
+  kaz: https://zan.gov.kz/client/#!/doc/197451/kaz/27.09.2026
+  rus: https://zan.gov.kz/client/#!/doc/197451/rus/27.09.2026
+caused_by:
+  code: '230003'
+  requisite: Приказ Министра культуры и информации Республики Казахстан от 10 сентября 2026 года № 427-НҚ. Зарегистрирован в Министерстве юстиции Республики Казахстан 14 сентября 2026 года № 39872
+  title:
+    rus: О внесении изменений в некоторые приказы
+    kaz: Кейбір бұйрықтарға өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/230003/rus
