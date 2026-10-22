@@ -30,7 +30,11 @@
 
 ## 2026 жылғы 1 қаңтардан бастап 31 желтоқсанға дейінгі аралықта балық ресурстарын және басқа су да жануарларын алып қою лимиттері
 
-## 1-тарау. Халықаралық және республикалық маңызы бар балық шаруашылығы су айдындары 1-параграф. Жайық-Каспий бассейні
+> *Ескерту. Қосымшаға өзгерістер енгізілді - ҚР Ауыл шаруашылығы министрінің м.а. 22.10.2026 № 371 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) бұйрығымен.*
+
+## 1-тарау. Халықаралық және республикалық маңызы бар балық шаруашылығы су айдындары
+
+1-параграф. Жайық-Каспий бассейні
 
 <table>
 <tr>
@@ -173,22 +177,22 @@
 <tr>
 <td>13</td>
 <td>Ірі балық тобы, оның ішінде:</td>
-<td>395,362</td>
+<td>567,852</td>
 <td>16,418</td>
 <td>817,545</td>
 <td>3497</td>
 <td>399</td>
-<td>5125,325</td>
+<td>5297,815</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Көксерке</td>
-<td>172,49</td>
+<td>328,19</td>
 <td>4,452</td>
 <td>60,108</td>
 <td>830</td>
 <td>53</td>
-<td>1120,05</td>
+<td>1292,54</td>
 </tr>
 <tr>
 <td>15</td>
@@ -473,12 +477,12 @@
 <tr>
 <td></td>
 <td>Жиыны*</td>
-<td>2878,331</td>
+<td>2986,731</td>
 <td>23,276</td>
 <td>3612,32</td>
 <td>9447</td>
 <td>43709,8</td>
-<td>59670,727</td>
+<td>59779,127</td>
 </tr>
 </table>
 
@@ -488,11 +492,12 @@
 <tr>
 <td rowspan="2">№</td>
 <td rowspan="2">Балықтардың түрлері</td>
-<td colspan="3">облыстар шегінде, тонна</td>
+<td colspan="4">облыстар шегінде, тонна</td>
 <td rowspan="2">Барлығы, тонна</td>
 </tr>
 <tr>
-<td>Алматы облысы (Жетісу облысын қоса алғанда)</td>
+<td>Алматы облысы</td>
+<td>Жетісу облысы</td>
 <td>Қарағанды облысы шегінде</td>
 <td>Жамбыл облысы шегінде</td>
 </tr>
@@ -503,11 +508,13 @@
 <td>4</td>
 <td>5</td>
 <td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Табан</td>
-<td>4701</td>
+<td>3079</td>
+<td>1621</td>
 <td>1191</td>
 <td>1241</td>
 <td>7133</td>
@@ -515,15 +522,17 @@
 <tr>
 <td>2</td>
 <td>Көксерке</td>
-<td>499</td>
-<td>126</td>
-<td>132</td>
-<td>757</td>
+<td>386,9</td>
+<td>204,1</td>
+<td>149,5</td>
+<td>156,6</td>
+<td>898,2</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Ақмарқа</td>
-<td>196</td>
+<td>128</td>
+<td>67</td>
 <td>49</td>
 <td>52</td>
 <td>297</td>
@@ -531,7 +540,8 @@
 <tr>
 <td>4</td>
 <td>Қаракөз</td>
-<td>268</td>
+<td>175</td>
+<td>92</td>
 <td>68</td>
 <td>71</td>
 <td>407</td>
@@ -539,7 +549,8 @@
 <tr>
 <td>5</td>
 <td>Жайын</td>
-<td>266</td>
+<td>174</td>
+<td>91</td>
 <td>68</td>
 <td>70</td>
 <td>404</td>
@@ -547,7 +558,8 @@
 <tr>
 <td>6</td>
 <td>Беріш</td>
-<td>88</td>
+<td>57</td>
+<td>30</td>
 <td>23</td>
 <td>23</td>
 <td>134</td>
@@ -555,7 +567,8 @@
 <tr>
 <td>7</td>
 <td>Сазан</td>
-<td>323</td>
+<td>211</td>
+<td>111</td>
 <td>82</td>
 <td>85</td>
 <td>490</td>
@@ -563,7 +576,8 @@
 <tr>
 <td>8</td>
 <td>Мөңке</td>
-<td>147</td>
+<td>96</td>
+<td>50</td>
 <td>37</td>
 <td>39</td>
 <td>223</td>
@@ -571,7 +585,8 @@
 <tr>
 <td>9</td>
 <td>Жыланбас</td>
-<td>229</td>
+<td>150</td>
+<td>78</td>
 <td>58</td>
 <td>60</td>
 <td>347</td>
@@ -579,10 +594,11 @@
 <tr>
 <td></td>
 <td>Жиыны*</td>
-<td>6717</td>
-<td>1702</td>
-<td>1773</td>
-<td>10192</td>
+<td>4456,9</td>
+<td>2344,1</td>
+<td>1725,5</td>
+<td>1797,6</td>
+<td>10333,2</td>
 </tr>
 </table>
 
@@ -718,11 +734,11 @@
 </tr>
 <tr>
 <td>2</td>
-<td>Алабұға</td>
-<td>326,9</td>
+<td>Оңғақ</td>
+<td>415,2</td>
 <td>16,7</td>
 <td>52,6</td>
-<td>396,2</td>
+<td>484,5</td>
 </tr>
 <tr>
 <td>3</td>
@@ -735,10 +751,10 @@
 <tr>
 <td>4</td>
 <td>Көксерке</td>
-<td>109,8</td>
+<td>231,1</td>
 <td>25,6</td>
-<td>115</td>
-<td>250,4</td>
+<td>205,4</td>
+<td>462,1</td>
 </tr>
 <tr>
 <td>5</td>
@@ -767,10 +783,10 @@
 <tr>
 <td></td>
 <td>Жиыны*</td>
-<td>740,6</td>
+<td>950,2</td>
 <td>143,72</td>
-<td>568,5</td>
-<td>1452,82</td>
+<td>658,9</td>
+<td>1752,8</td>
 </tr>
 </table>
 
@@ -1000,12 +1016,12 @@
 <tr>
 <td>4</td>
 <td>Көксерке</td>
-<td>1374</td>
+<td>1444,9</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Шортан</td>
-<td>314</td>
+<td>345,9</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1035,7 +1051,7 @@
 <tr>
 <td></td>
 <td>Жиыны*</td>
-<td>6797,3</td>
+<td>6900,1</td>
 </tr>
 </table>
 
@@ -1327,7 +1343,7 @@
 <tr>
 <td>7</td>
 <td>Көксерке</td>
-<td>1114,35</td>
+<td>1247,8</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1362,7 +1378,7 @@
 <tr>
 <td>14</td>
 <td>Жыланбас</td>
-<td>106,03</td>
+<td>131,73</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1377,7 +1393,7 @@
 <tr>
 <td></td>
 <td>Жиыны*</td>
-<td>5552,35</td>
+<td>5711,6</td>
 </tr>
 </table>
 
@@ -1545,7 +1561,7 @@
 <tr>
 <td>7</td>
 <td>Көксерке</td>
-<td>406,22</td>
+<td>489,26</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1560,7 +1576,7 @@
 <tr>
 <td></td>
 <td>Жиыны*</td>
-<td>1675,04</td>
+<td>1758,08</td>
 </tr>
 </table>
 
@@ -2005,7 +2021,7 @@
 <tr>
 <td>1</td>
 <td>Жарсор көлі</td>
-<td>87</td>
+<td>120</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2017,7 +2033,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>87</td>
+<td>120</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2497,11 +2513,28 @@
 </tr>
 <tr>
 <td>30</td>
-<td>Басқа су айдындары**</td>
-<td>89,06</td>
-<td>58,34</td>
+<td>Владимировское көлі</td>
+<td>5,5</td>
+<td>2</td>
+<td></td>
 <td>1</td>
-<td>8,1</td>
+<td></td>
+<td>2,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td>Басқа су айдындары**</td>
+<td>90,65</td>
+<td>59,54</td>
+<td>1</td>
+<td>8,4</td>
 <td>0,3</td>
 <td>7,64</td>
 <td>5,1</td>
@@ -2515,19 +2548,19 @@
 <tr>
 <td></td>
 <td>Жиыны*</td>
-<td>769,86</td>
-<td>137,94</td>
+<td>809,95</td>
+<td>141,14</td>
 <td>48,5</td>
-<td>30,6</td>
+<td>31,9</td>
 <td>3,3</td>
-<td>64,64</td>
+<td>67,14</td>
 <td>44,2</td>
 <td>40,63</td>
 <td>8,14</td>
 <td>26,5</td>
 <td>3</td>
 <td>0,5</td>
-<td>362</td>
+<td>395</td>
 </tr>
 </table>
 
@@ -2538,27 +2571,18 @@
 <td rowspan="2">№</td>
 <td rowspan="2">Су айдындары</td>
 <td rowspan="2">Барлығы, тонна</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3">Балықтардың және басқа да су жануарларының түрлері</td>
+<td colspan="12">Балықтардың және басқа да су жануарларының түрлері</td>
 </tr>
 <tr>
 <td>шаян</td>
-<td colspan="2">шортан</td>
-<td colspan="2">табан</td>
-<td colspan="2">мөңке</td>
-<td colspan="2">тұқы</td>
-<td colspan="2">аққайраң</td>
-<td colspan="2">торта</td>
-<td colspan="2">қызыл қанат</td>
-<td colspan="2">оңғақ</td>
+<td>шортан</td>
+<td>табан</td>
+<td>мөңке</td>
+<td>тұқы</td>
+<td>аққайраң</td>
+<td>торта</td>
+<td>қызыл қанат</td>
+<td>оңғақ</td>
 <td>жайын</td>
 <td>алабұға</td>
 <td>көксерке</td>
@@ -2568,14 +2592,14 @@
 <td>2</td>
 <td>3</td>
 <td>4</td>
-<td colspan="2">5</td>
-<td colspan="2">6</td>
-<td colspan="2">7</td>
-<td colspan="2">8</td>
-<td colspan="2">9</td>
-<td colspan="2">10</td>
-<td colspan="2">11</td>
-<td colspan="2">12</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
 <td>13</td>
 <td>14</td>
 <td>15</td>
@@ -2585,81 +2609,33 @@
 <td>Үл.Хобда өз-ң №1,2 учаскелері</td>
 <td>4,9</td>
 <td>0</td>
-<td colspan="2">
-0,
-83
-</td>
-<td colspan="2">
-0,
-64
-</td>
-<td colspan="2">
-0,
-64
-</td>
-<td colspan="2"></td>
-<td colspan="2">
-0,
-32
-</td>
-<td colspan="2">
-0,
-43
-</td>
-<td colspan="2">
-0,
-32
-</td>
-<td colspan="2">
-0,
-67
-</td>
+<td>0,83</td>
+<td>0,64</td>
+<td>0,64</td>
+<td></td>
+<td>0,32</td>
+<td>0,43</td>
+<td>0,32</td>
+<td>0,67</td>
 <td>0,2</td>
-<td>
-0,
-85
-</td>
+<td>0,85</td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
 <td>Ойыл өз. №2,3,4,5 учаскелері</td>
-<td>
-5,
-44
-</td>
+<td>5,44</td>
 <td></td>
-<td colspan="2">0,3</td>
-<td colspan="2"></td>
-<td colspan="2">1,33</td>
-<td colspan="2">
-0,
-56
-</td>
-<td colspan="2">
-0,
-19
-</td>
-<td colspan="2">
-0,
-51
-</td>
-<td colspan="2">
-0,
-83
-</td>
-<td colspan="2">
-0,
-29
-</td>
-<td>
-0,
-37
-</td>
-<td>
-1,
-06
-</td>
+<td>0,3</td>
+<td></td>
+<td>1,33</td>
+<td>0,56</td>
+<td>0,19</td>
+<td>0,51</td>
+<td>0,83</td>
+<td>0,29</td>
+<td>0,37</td>
+<td>1,06</td>
 <td></td>
 </tr>
 <tr>
@@ -2667,90 +2643,48 @@
 <td>Темір өзенінің №1 учаске</td>
 <td>4,1</td>
 <td></td>
-<td colspan="2">
-0,
-67
-</td>
-<td colspan="2">
-0,
-29
-</td>
-<td colspan="2">0,3</td>
-<td colspan="2">0,48</td>
-<td colspan="2">0,4</td>
-<td colspan="2">
-0,
-08
-</td>
-<td colspan="2">
-0,
-73
-</td>
-<td colspan="2">
-0,
-29
-</td>
-<td>
-0,
-17
-</td>
+<td>0,67</td>
+<td>0,29</td>
+<td>0,3</td>
+<td>0,48</td>
+<td>0,4</td>
+<td>0,08</td>
+<td>0,73</td>
+<td>0,29</td>
+<td>0,17</td>
 <td>0,7</td>
 <td></td>
 </tr>
 <tr>
 <td>4</td>
 <td>Ақтөбе су қоймасы</td>
-<td>
-70,
-76
-</td>
-<td>
-0,
-49
-</td>
-<td colspan="2">
-0,
-41
-</td>
-<td colspan="2">
-10,
-74
-</td>
-<td colspan="2">
-29,
-49
-</td>
-<td colspan="2">8,3</td>
-<td colspan="2">3,11</td>
-<td colspan="2">
-4,
-51
-</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>70,76</td>
+<td>0,49</td>
+<td>0,41</td>
+<td>10,74</td>
+<td>29,49</td>
+<td>8,3</td>
+<td>3,11</td>
+<td>4,51</td>
 <td></td>
-<td>
-7,
-38
-</td>
-<td>
-6,
-33
-</td>
+<td></td>
+<td></td>
+<td>7,38</td>
+<td>6,33</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Ойсылқара су қоймасы</td>
 <td>7,45</td>
 <td>0,36</td>
-<td colspan="2">1,57</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1,57</td>
-<td colspan="2">1,57</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>1,57</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1,57</td>
+<td>1,57</td>
+<td></td>
+<td></td>
 <td></td>
 <td>2,38</td>
 <td></td>
@@ -2758,22 +2692,16 @@
 <tr>
 <td>6</td>
 <td>Шалқар көлі</td>
-<td>
-10,
-44
-</td>
-<td>
-1,
-58
-</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">7,01</td>
-<td colspan="2">0,77</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>10,44</td>
+<td>1,58</td>
+<td></td>
+<td></td>
+<td>7,01</td>
+<td>0,77</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>1,08</td>
 <td></td>
@@ -2783,14 +2711,14 @@
 <td>Қызылкөл көлі</td>
 <td>4,05</td>
 <td></td>
-<td colspan="2">0,95</td>
-<td colspan="2"></td>
-<td colspan="2">1,82</td>
-<td colspan="2"></td>
-<td colspan="2">0,35</td>
-<td colspan="2">0,69</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>0,95</td>
+<td></td>
+<td>1,82</td>
+<td></td>
+<td>0,35</td>
+<td>0,69</td>
+<td></td>
+<td></td>
 <td></td>
 <td>0,24</td>
 <td></td>
@@ -2798,36 +2726,33 @@
 <tr>
 <td>8</td>
 <td>Құтикөл көлі</td>
-<td>
-22,
-16
-</td>
+<td>22,16</td>
 <td></td>
-<td colspan="2">3,03</td>
-<td colspan="2"></td>
-<td colspan="2">2,8</td>
-<td colspan="2">8,6</td>
-<td colspan="2">2,03</td>
-<td colspan="2">1,4</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>3,03</td>
+<td></td>
+<td>2,8</td>
+<td>8,6</td>
+<td>2,03</td>
+<td>1,4</td>
+<td></td>
+<td></td>
 <td></td>
 <td>4,3</td>
 <td></td>
 </tr>
 <tr>
 <td>9</td>
-<td>Кіші Каракөл көлі</td>
+<td>Кіші Қаракөл көлі</td>
 <td>15,55</td>
 <td></td>
-<td colspan="2">1,58</td>
-<td colspan="2">2,2</td>
-<td colspan="2">4,93</td>
-<td colspan="2">2,7</td>
-<td colspan="2">2,21</td>
-<td colspan="2">0,44</td>
-<td colspan="2"></td>
-<td colspan="2">0,24</td>
+<td>1,58</td>
+<td>2,2</td>
+<td>4,93</td>
+<td>2,7</td>
+<td>2,21</td>
+<td>0,44</td>
+<td></td>
+<td>0,24</td>
 <td></td>
 <td>1,25</td>
 <td></td>
@@ -2837,14 +2762,14 @@
 <td>Соркөл көлі</td>
 <td>12,83</td>
 <td></td>
-<td colspan="2">1,68</td>
-<td colspan="2">1,25</td>
-<td colspan="2">2</td>
-<td colspan="2">5,55</td>
-<td colspan="2">0,16</td>
-<td colspan="2">0,66</td>
-<td colspan="2"></td>
-<td colspan="2">0,27</td>
+<td>1,68</td>
+<td>1,25</td>
+<td>2</td>
+<td>5,55</td>
+<td>0,16</td>
+<td>0,66</td>
+<td></td>
+<td>0,27</td>
 <td></td>
 <td>1,26</td>
 <td></td>
@@ -2854,14 +2779,14 @@
 <td>Сазды су қоймасы</td>
 <td>7,77</td>
 <td></td>
-<td colspan="2">1,14</td>
-<td colspan="2">0,53</td>
-<td colspan="2">0,88</td>
-<td colspan="2">1,75</td>
-<td colspan="2">2,3</td>
-<td colspan="2">0,2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>1,14</td>
+<td>0,53</td>
+<td>0,88</td>
+<td>1,75</td>
+<td>2,3</td>
+<td>0,2</td>
+<td></td>
+<td></td>
 <td></td>
 <td>0,97</td>
 <td></td>
@@ -2871,14 +2796,14 @@
 <td>Бокенкөл көлі</td>
 <td>11,82</td>
 <td></td>
-<td colspan="2">2,66</td>
-<td colspan="2">0,46</td>
-<td colspan="2">0,77</td>
-<td colspan="2">3,21</td>
-<td colspan="2">1,23</td>
-<td colspan="2">0,56</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>2,66</td>
+<td>0,46</td>
+<td>0,77</td>
+<td>3,21</td>
+<td>1,23</td>
+<td>0,56</td>
+<td></td>
+<td></td>
 <td></td>
 <td>2,93</td>
 <td></td>
@@ -2888,14 +2813,14 @@
 <td>Үлкен Жаркөл көлі</td>
 <td>20,74</td>
 <td></td>
-<td colspan="2">4,21</td>
-<td colspan="2">0,82</td>
-<td colspan="2">3,03</td>
-<td colspan="2">6,79</td>
-<td colspan="2">2,29</td>
-<td colspan="2">0,39</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>4,21</td>
+<td>0,82</td>
+<td>3,03</td>
+<td>6,79</td>
+<td>2,29</td>
+<td>0,39</td>
+<td></td>
+<td></td>
 <td></td>
 <td>3,21</td>
 <td></td>
@@ -2905,14 +2830,14 @@
 <td>Қармақкөл көлі</td>
 <td>20,7</td>
 <td></td>
-<td colspan="2">3,98</td>
-<td colspan="2">2,04</td>
-<td colspan="2">2,42</td>
-<td colspan="2">4,88</td>
-<td colspan="2">2,2</td>
-<td colspan="2">1,6</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>3,98</td>
+<td>2,04</td>
+<td>2,42</td>
+<td>4,88</td>
+<td>2,2</td>
+<td>1,6</td>
+<td></td>
+<td></td>
 <td></td>
 <td>3,58</td>
 <td></td>
@@ -2922,14 +2847,14 @@
 <td>Кіші Жаркөл көлі</td>
 <td>12,91</td>
 <td></td>
-<td colspan="2">2,28</td>
-<td colspan="2">0,5</td>
-<td colspan="2">2,43</td>
-<td colspan="2">3,33</td>
-<td colspan="2">1,41</td>
-<td colspan="2">0,1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>2,28</td>
+<td>0,5</td>
+<td>2,43</td>
+<td>3,33</td>
+<td>1,41</td>
+<td>0,1</td>
+<td></td>
+<td></td>
 <td></td>
 <td>2,86</td>
 <td></td>
@@ -2939,14 +2864,14 @@
 <td>Үлкен Жалаңаш көлі</td>
 <td>19,06</td>
 <td></td>
-<td colspan="2">2,55</td>
-<td colspan="2">1,71</td>
-<td colspan="2">2,61</td>
-<td colspan="2">3,12</td>
-<td colspan="2">3,42</td>
-<td colspan="2">1,68</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>2,55</td>
+<td>1,71</td>
+<td>2,61</td>
+<td>3,12</td>
+<td>3,42</td>
+<td>1,68</td>
+<td></td>
+<td></td>
 <td></td>
 <td>3,97</td>
 <td></td>
@@ -2956,14 +2881,14 @@
 <td>Кіші Жалаңаш көлі</td>
 <td>3,82</td>
 <td></td>
-<td colspan="2">0,51</td>
-<td colspan="2">0,34</td>
-<td colspan="2">0,52</td>
-<td colspan="2">0,62</td>
-<td colspan="2">0,69</td>
-<td colspan="2">0,34</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>0,51</td>
+<td>0,34</td>
+<td>0,52</td>
+<td>0,62</td>
+<td>0,69</td>
+<td>0,34</td>
+<td></td>
+<td></td>
 <td></td>
 <td>0,8</td>
 <td></td>
@@ -2973,14 +2898,14 @@
 <td>Тайпақкөл көлі</td>
 <td>14,46</td>
 <td></td>
-<td colspan="2">0,56</td>
-<td colspan="2">2,34</td>
-<td colspan="2">2,71</td>
-<td colspan="2">5,14</td>
-<td colspan="2">1,83</td>
-<td colspan="2">0,31</td>
-<td colspan="2"></td>
-<td colspan="2">0,36</td>
+<td>0,56</td>
+<td>2,34</td>
+<td>2,71</td>
+<td>5,14</td>
+<td>1,83</td>
+<td>0,31</td>
+<td></td>
+<td>0,36</td>
 <td></td>
 <td>1,21</td>
 <td></td>
@@ -2990,90 +2915,153 @@
 <td>Малайдар көлі</td>
 <td>6,94</td>
 <td></td>
-<td colspan="2">0,27</td>
-<td colspan="2">1,12</td>
-<td colspan="2">1,3</td>
-<td colspan="2">2,47</td>
-<td colspan="2">0,88</td>
-<td colspan="2">0,15</td>
-<td colspan="2"></td>
-<td colspan="2">0,17</td>
+<td>0,27</td>
+<td>1,12</td>
+<td>1,3</td>
+<td>2,47</td>
+<td>0,88</td>
+<td>0,15</td>
+<td></td>
+<td>0,17</td>
 <td></td>
 <td>0,58</td>
 <td></td>
 </tr>
 <tr>
 <td>20</td>
-<td>Басқа да су айдындары**</td>
-<td>13</td>
-<td>0</td>
-<td colspan="2">1,88</td>
-<td colspan="2">1,41</td>
-<td colspan="2">1,85</td>
-<td colspan="2">1,61</td>
-<td colspan="2">0,84</td>
-<td colspan="2">1,66</td>
-<td colspan="2">0,25</td>
-<td colspan="2">0,93</td>
+<td>Байтақкөл көлі</td>
+<td>87,43</td>
+<td></td>
+<td>22,77</td>
+<td>7,99</td>
+<td>2,11</td>
+<td>25,88</td>
+<td>5,02</td>
+<td>2,59</td>
+<td></td>
+<td>1,32</td>
+<td></td>
+<td>19,75</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>Сабындыкөл көлі</td>
+<td>3,81</td>
+<td></td>
+<td>3,41</td>
+<td>0,04</td>
+<td>0,05</td>
+<td>0,05</td>
+<td>0,16</td>
+<td>0,05</td>
+<td></td>
+<td>0,05</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>Үлкен Айкөл көлі</td>
+<td>19,92</td>
+<td></td>
+<td>10,71</td>
 <td>0,39</td>
-<td>2,17</td>
+<td>0,54</td>
+<td>7,86</td>
+<td>0,42</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>Кіші Айкөл көлі</td>
+<td>13,27</td>
+<td></td>
+<td>7,16</td>
+<td>0,26</td>
+<td>0,36</td>
+<td>5,21</td>
+<td>0,28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>Мамыркөл көлі</td>
+<td>20,92</td>
+<td></td>
+<td>8,51</td>
+<td>4,65</td>
+<td>1,02</td>
+<td>4,43</td>
+<td></td>
+<td>0,4</td>
+<td></td>
+<td>0,35</td>
+<td></td>
+<td>1,56</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>Шолақкөл көлі</td>
+<td>35,99</td>
+<td></td>
+<td>17,54</td>
+<td>2,25</td>
+<td>1,05</td>
+<td>10,64</td>
+<td>0,74</td>
+<td>0,65</td>
+<td></td>
+<td>0,66</td>
+<td></td>
+<td>2,46</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>Басқа да су айдындары**</td>
+<td>14,73</td>
+<td>0</td>
+<td>2,44</td>
+<td>1,62</td>
+<td>2,27</td>
+<td>1,61</td>
+<td>1,06</td>
+<td>1,85</td>
+<td>0,25</td>
+<td>0,93</td>
+<td>0,39</td>
+<td>2,3</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td>Жиыны*</td>
-<td>
-288,
-9
-</td>
-<td>
-2,
-43
-</td>
-<td colspan="2">
-31,
-06
-</td>
-<td colspan="2">
-26,
-39
-</td>
-<td colspan="2">
-68,
-84
-</td>
-<td colspan="2">
-59,
-88
-</td>
-<td colspan="2">
-27,
-43
-</td>
-<td colspan="2">
-17,
-28
-</td>
-<td colspan="2">
-2,
-13
-</td>
-<td colspan="2">
-3,
-22
-</td>
-<td>
-1,
-13
-</td>
-<td>
-42,
-78
-</td>
-<td>
-6,
-33
-</td>
+<td>471,97</td>
+<td>2,43</td>
+<td>101,72</td>
+<td>42,18</td>
+<td>74,39</td>
+<td>113,95</td>
+<td>34,27</td>
+<td>21,16</td>
+<td>2,13</td>
+<td>5,6</td>
+<td>1,13</td>
+<td>66,68</td>
+<td>6,33</td>
 </tr>
 </table>
 
@@ -6387,91 +6375,40 @@
 <tr>
 <td>1</td>
 <td>ГРЭС-1 су қоймасы, уч.2</td>
-<td>
-18,
-161
-</td>
-<td>
-1,
-695
-</td>
-<td>
-2,
-692
-</td>
+<td>18,161</td>
+<td>1,695</td>
+<td>2,692</td>
 <td>0,12</td>
 <td></td>
-<td>
-0,
-722
-</td>
-<td>
-1,
-652
-</td>
-<td>
-5,
-122
-</td>
+<td>0,722</td>
+<td>1,652</td>
+<td>5,122</td>
 <td></td>
 <td>6,021</td>
-<td>
-0,
-137
-</td>
+<td>0,137</td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
 <td>ГРЭС-2 су қоймасы, уч.2</td>
-<td>
-82,
-688
-</td>
-<td>
-12,
-593
-</td>
-<td>
-27,
-131
-</td>
-<td>
-0,
-476
-</td>
+<td>82,688</td>
+<td>12,593</td>
+<td>27,131</td>
+<td>0,476</td>
 <td></td>
 <td>3,067</td>
-<td>
-7,
-857
-</td>
-<td>
-22,
-223
-</td>
+<td>7,857</td>
+<td>22,223</td>
 <td></td>
-<td>
-8,
-378
-</td>
-<td>
-0,
-963
-</td>
+<td>8,378</td>
+<td>0,963</td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>Қарасор көлі</td>
-<td>
-275,
-957
-</td>
-<td>
-268,
-91
-</td>
+<td>275,957</td>
+<td>268,91</td>
 <td></td>
 <td>7,047</td>
 <td></td>
@@ -6582,10 +6519,7 @@
 <tr>
 <td>10</td>
 <td>Айдарша көлі</td>
-<td>
-7,
-589
-</td>
+<td>7,589</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6596,18 +6530,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td>
-7,
-589
-</td>
+<td>7,589</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Казы көлі</td>
-<td>
-15,
-278
-</td>
+<td>15,278</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6618,10 +6546,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>
-15,
-278
-</td>
+<td>15,278</td>
 </tr>
 <tr>
 <td>12</td>
@@ -6637,18 +6562,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td>
-12,
-157
-</td>
+<td>12,157</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Сейтень көлі</td>
-<td>
-101,
-142
-</td>
+<td>101,142</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6659,18 +6578,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td>
-101,
-142
-</td>
+<td>101,142</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Ащытақыр көлі</td>
-<td>
-19,
-787
-</td>
+<td>19,787</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6681,18 +6594,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td>
-19,
-787
-</td>
+<td>19,787</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Алқамерген көлі</td>
-<td>
-10,
-965
-</td>
+<td>10,965</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6703,18 +6610,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td>
-10,
-965
-</td>
+<td>10,965</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Қалатұз көлі</td>
-<td>
-81,
-965
-</td>
+<td>81,965</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6725,18 +6626,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td>
-81,
-965
-</td>
+<td>81,965</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Бура көлі</td>
-<td>
-41,
-328
-</td>
+<td>41,328</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6747,10 +6642,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>
-41,
-328
-</td>
+<td>41,328</td>
 </tr>
 <tr>
 <td>18</td>
@@ -6766,10 +6658,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>
-24,
-246
-</td>
+<td>24,246</td>
 </tr>
 <tr>
 <td>19</td>
@@ -6902,10 +6791,7 @@
 <tr>
 <td>27</td>
 <td>Шарбақты көлі</td>
-<td>
-136,
-549
-</td>
+<td>136,549</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6916,10 +6802,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>
-136,
-549
-</td>
+<td>136,549</td>
 </tr>
 <tr>
 <td>28</td>
@@ -6939,6 +6822,86 @@
 </tr>
 <tr>
 <td>29</td>
+<td>Балқашсор көлі</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>25</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Қызылтуз көлі</td>
+<td>115</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>115</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Саубайсор көлі</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Қабан көлі</td>
+<td>22,514</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>22,514</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Машинсор көл</td>
+<td>5,744</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5,744</td>
+</tr>
+<tr>
+<td>34</td>
 <td>Кутаяк-сор көлі</td>
 <td>4,65</td>
 <td>0,05</td>
@@ -6954,7 +6917,7 @@
 <td></td>
 </tr>
 <tr>
-<td>30</td>
+<td>35</td>
 <td>Басқа да су айдындары**</td>
 <td>20,605</td>
 <td>2,754</td>
@@ -6972,27 +6935,18 @@
 <tr>
 <td></td>
 <td>Жиыны*</td>
-<td>
-1368,
-547
-</td>
-<td>
-286,
-002
-</td>
-<td>
-32,
-615
-</td>
-<td>9,681</td>
-<td>0,01</td>
-<td>7,439</td>
-<td>14,086</td>
-<td>31,372</td>
-<td>1,559</td>
-<td>15,304</td>
-<td>1,543</td>
-<td>968,936</td>
+<td>1551, 8050</td>
+<td>286, 0020</td>
+<td>32, 6150</td>
+<td>9, 6810</td>
+<td>0, 0100</td>
+<td>7, 4390</td>
+<td>14, 0860</td>
+<td>31, 3720</td>
+<td>1, 5590</td>
+<td>15, 3040</td>
+<td>1, 5430</td>
+<td>1152, 1940</td>
 </tr>
 </table>
 
@@ -7000,9 +6954,9 @@
 
 <table>
 <tr>
-<td>№</td>
-<td>Су айдындары</td>
-<td>Барлығы, тонна</td>
+<td rowspan="2">№</td>
+<td rowspan="2">Су айдындары</td>
+<td rowspan="2">Барлығы, тонна</td>
 <td colspan="10">Балықтардың және басқа да су жануарларының түрлері</td>
 </tr>
 <tr>
@@ -7216,12 +7170,12 @@
 <td>13</td>
 <td>Утиное көлі</td>
 <td>3,5</td>
-<td>2,00</td>
+<td>2</td>
 <td></td>
-<td>1,00</td>
+<td>1</td>
 <td></td>
 <td></td>
-<td>0,50</td>
+<td>0,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7231,7 +7185,7 @@
 <td>14</td>
 <td>Лебеденок көлі</td>
 <td>5,7</td>
-<td>5,70</td>
+<td>5,7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7246,11 +7200,11 @@
 <td>15</td>
 <td>Моховое көлі</td>
 <td>4</td>
-<td>3,00</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td></td>
-<td>1,00</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7261,7 +7215,7 @@
 <td>16</td>
 <td>Никульское көлі</td>
 <td>4</td>
-<td>4,00</td>
+<td>4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7276,7 +7230,7 @@
 <td>17</td>
 <td>Новое көлі</td>
 <td>3</td>
-<td>3,00</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7291,7 +7245,7 @@
 <td>18</td>
 <td>Плоское (Домашнее) көлі</td>
 <td>6</td>
-<td>6,00</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7304,10 +7258,7 @@
 </tr>
 <tr>
 <td>19</td>
-<td>
-Есіл өзенінің
-№ 1 жайылмасы (Қызылжар ауданы)
-</td>
+<td>Есіл өзенінің № 1 жайылмасы (Қызылжар ауданы)</td>
 <td>21</td>
 <td>15</td>
 <td>1,5</td>
@@ -7322,10 +7273,7 @@
 </tr>
 <tr>
 <td>20</td>
-<td>
-Есіл өзенінің
-№ 2 жайылмасы (Қызылжар ауданы)
-</td>
+<td>Есіл өзенінің № 2 жайылмасы (Қызылжар ауданы)</td>
 <td>10,25</td>
 <td>4,4</td>
 <td>1,46</td>
@@ -7550,6 +7498,21 @@
 </tr>
 <tr>
 <td>35</td>
+<td>Алакөл көлі</td>
+<td>3</td>
+<td>2,5</td>
+<td></td>
+<td>0,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
 <td>Қалибек көлі және салалары</td>
 <td>143,22</td>
 <td></td>
@@ -7564,24 +7527,9 @@
 <td>143,22</td>
 </tr>
 <tr>
-<td>36</td>
-<td>Теке көлі</td>
-<td>269,50</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>269,50</td>
-</tr>
-<tr>
 <td>37</td>
-<td>Менкисер көлі</td>
-<td>16,7</td>
+<td>Теке көлі</td>
+<td>517,96</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7591,12 +7539,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td>16,7</td>
+<td>517,96</td>
 </tr>
 <tr>
 <td>38</td>
-<td>Становое көлі</td>
-<td>41,6</td>
+<td>Менкисер көлі</td>
+<td>33,4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -7606,13 +7554,28 @@
 <td></td>
 <td></td>
 <td></td>
-<td>41,6</td>
+<td>33,4</td>
 </tr>
 <tr>
 <td>39</td>
+<td>Становое көлі</td>
+<td>83,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>83,2</td>
+</tr>
+<tr>
+<td>40</td>
 <td>Басқа да су айдындары**</td>
-<td>154,9</td>
-<td>134,3</td>
+<td>152,4</td>
+<td>131,8</td>
 <td></td>
 <td>4,2</td>
 <td>3,5</td>
@@ -7626,17 +7589,17 @@
 <tr>
 <td></td>
 <td>Жиыны*</td>
-<td>1083,55</td>
+<td>1390,81</td>
 <td>409,63</td>
 <td>4,26</td>
-<td>10,25</td>
+<td>10,75</td>
 <td>18,5</td>
 <td>17,67</td>
 <td>18,96</td>
 <td>0,9</td>
 <td>11,81</td>
 <td>3,95</td>
-<td>587,62</td>
+<td>894,38</td>
 </tr>
 </table>
 
